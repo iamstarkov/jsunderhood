@@ -1,0 +1,24 @@
+{
+  "name": "nope",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamstarkov/nope.git"
+  },
+  "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamstarkov/nope/issues"
+  },
+  "homepage": "https://github.com/iamstarkov/nope#readme",
+  "dependencies": {
+    "fs-extra": "^0.18.3",
+    "get-tweets": "^0.1.2",
+    "moment": "^2.10.3"
+  }
+}
