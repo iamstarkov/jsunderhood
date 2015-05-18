@@ -1,6 +1,5 @@
 import fs from 'fs-extra';
 import getTweets from 'get-tweets';
-import d from './date-format';
 import authors from './authors';
 
 const tokens = {
