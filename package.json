@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dump": "babel-node dump",
-    "dump": "babel-node posts",
+    "posts": "babel-node posts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
