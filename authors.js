@@ -28,7 +28,7 @@ export default [
   { username: 'korochinskiy',   start: '577403514445500416' },
   { username: 'toivonens',      start: '574884457691418624' },
   { username: 'roman01la',      start: '572341652246945792' },
-  { username: 'matmuchrapna',   start: '569802366297493505' },
+  { username: 'iamstarkov',     start: '569802366297493505' },
   { username: 'filipovskii',    start: '564697062378594304' },
   { username: 'shuvalov_anton', start: '562516792753811456' },
 ];
