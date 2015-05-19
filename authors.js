@@ -7,7 +7,7 @@ export default [
    * @pukhalski, 20 Apr 2015
    * @lomakin, 13 Apr 2015
    * @mraleph, 06 Apr 2015
-   * @AWinogradov, 30 Mar 2015
+   * @awinogradov, 30 Mar 2015
    * @veged, 23 Mar 2015
    * @korochinskiy, 16 Mar 2015
    * @toivonens, 09 Mar 2015
@@ -23,7 +23,7 @@ export default [
   { username: 'pukhalski',      start: '590058545422409728' },
   { username: 'lomakin',        start: '587596754524188672' },
   { username: 'mraleph',        start: '584858429212258304' },
-  { username: 'AWinogradov',    start: '582443238063251456' },
+  { username: 'awinogradov',    start: '582443238063251456' },
   { username: 'veged',          start: '579986868487512064' },
   { username: 'korochinskiy',   start: '577403514445500416' },
   { username: 'toivonens',      start: '574884457691418624' },
