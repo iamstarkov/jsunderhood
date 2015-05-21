@@ -1,0 +1,28 @@
+extend page
+
+
+block title
+  title #{title}
+
+block meta
+  meta(property="description" content=desc)
+    
+  meta(name="og:url"         content=url)
+  if (image)
+    meta(name="og:image"     content=image)
+  meta(name="og:title"       content=title)
+  meta(name="og:description" content=desc)
+
+block content
+  - var github = "https://github.com/iamstarkov/jsunderhood/edit/premaster/"
+  a(href=github + filename).edit-link edit on github
+  
+  article
+    | !{content}
+
+  footer.article-footer
+    | ★ ★ ★ <br/>
+    | If you found "#{title}" useful, please share it to your 
+    a(href="https://twitter.com/intent/tweet?url=https://jsunderhood.com/#{url}&text=#{title}&via=jsunderhood") followers in Twitter
+    |  or 
+    a(href="https://www.facebook.com/sharer.php?u=http://jsunderhood.com/#{url}&t=#{title}") friends in Facebook

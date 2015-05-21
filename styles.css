@@ -1,0 +1,139 @@
+html, body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  text-rendering: optimizeLegibility;
+  -moz-font-feature-settings: “liga” on;
+}
+
+.wrap {
+    font-size: 1.4em;
+    font-family: "Hoefler Text", "Times New Roman", Times, serif;
+    color: #222;
+    max-width: 30em;
+    margin: 3em auto 7em;
+}
+
+@media (max-device-width: 480px) {
+  .wrap { font-size: 0.8em; }
+
+  @media (orientation: landscape) {
+    .wrap { font-size: 0.6em; }
+  }
+}
+
+
+article img {
+  max-width: 100%;
+}
+
+code {
+  font-size: 0.9em;
+  background: #fafafa;
+  box-shadow: 0 0 0.2em 0.2em #fafafa;
+}
+
+pre {
+  background: #fafafa;
+  box-shadow: 0 0 0.7em 0.7em #fafafa;
+  overflow-y: auto;
+}
+
+a {
+  color: inherit;
+}
+
+article a {
+  position: relative;
+  text-decoration: none;
+  box-shadow: 0 -0.4em 0 #FFF08C inset;
+  transition: all 0.15s cubic-bezier(0.33, 0.66, 0.66, 1);
+}
+
+article a:hover {
+  box-shadow: 0px -1em 0px #FFF08C inset;
+}
+
+article a {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  z-index: 1;
+}
+
+article a::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  margin: -0.4em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+  font-weight: normal;
+}
+
+
+.list, .list__item {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list__item + .list__item {
+  margin-top: 1em;
+}
+
+.list time {
+  font-style: italic;
+  font-size: 0.7em;
+  white-space: nowrap;
+}
+
+.list__item-desc {
+  margin: 0;
+  font-size: 0.7em;
+}
+
+.edit-link {
+  float: right;
+  margin-left: 2em;
+
+  font-size: 0.7em;
+  line-height: 2.2;
+  white-space: nowrap;
+  margin-top: 3px;
+}
+
+blockquote {
+  margin: 0px;
+  padding-left: 1em;
+  box-shadow: 8px 0px 10px -11px #FFF08C inset;
+}
+
+blockquote p a:last-of-type {
+  font-style: italic;
+  font-size: 0.8em;
+}
+blockquote p a:last-of-type::before {
+  content: '—'
+}
+
+.article-footer {
+  width: 50%;
+  margin: 5em auto 0;
+  font-size: 0.6em;
+  text-align: center;
+}
+
+
+@media (max-device-width: 480px) {
+  .article-footer { width: 70%; }
+}

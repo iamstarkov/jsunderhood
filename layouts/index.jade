@@ -1,0 +1,33 @@
+extend page
+
+block title
+  title @jsunderhood
+
+block meta
+  meta(property="description" content=site.description)
+
+  meta(name="og:url"         content=site.site_url)
+  //- meta(name="og:image"       content="http://getbem.com/img/bem_black.png")
+  meta(name="og:title"       content=site.title)
+  meta(name="og:description" content=site.description)
+
+block content
+  h1 @jsunderhood
+  
+  p
+    a(href="/about/") About
+    = " • "
+    a(href="/rss.xml") Subscribe to RSS
+    = " or "
+    a(href="https://google.com/?q=site:jsunderhood.com+smth") search "smth"
+    = " • "
+    a(href="https://twitter.com/jsunderhood") Follow on Twitter
+  
+  article
+    ul.list
+      each article in list
+        li.list__item
+          a(href=article.url)= article.title
+          time= article.date + " " 
+          p.list__item-desc !{article.desc}
+          
