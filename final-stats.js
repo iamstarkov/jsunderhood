@@ -20,8 +20,7 @@ const stats = authorsRaw
 	.map((author)=> {
 		var stats = fs.readJsonSync(`./dump/${author.username}-stats.json`);
 		delete stats.username;
-		author.tweets = stats;
-		return author;
+		return assign({}, author, stats);
 	})
 	.map((author)=> {
 		author.gainedFollowers = gainedFollowers[author.username];
