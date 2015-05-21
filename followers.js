@@ -37,4 +37,10 @@ const authors = authorsRaw
 		return author;
 	});
 
-fs.outputJson(`./followers-stats.json`, authors, (err)=> console.log(`done`))
+const stats = authors.reduce((state, author)=> {
+	state[author.username] = author.gainedCount;
+	return state;
+}, {})
+
+
+fs.outputJson(`./followers-stats.json`, stats, (err)=> console.log(`done`))
