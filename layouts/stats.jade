@@ -24,30 +24,30 @@ block content
     a(href="https://twitter.com/jsunderhood") Follow on Twitter
   
   article
-    table
-      tr
-        td(colspan=2)
-        td Привел <br> подписчиков
-        td Ретвитов <br> на 1 твит
-        td написал <br> твитов
-        td заретвитен
-        td зафавлен
-      each author in stats
+    table.table.table-hover
+      thead
         tr
-          td= author.index
-          td: a(href='twitter.com/' + author.username) @#{author.username}
-          td= author.gainedFollowers
-          td= author.retweetedPerTweet
-          td= author.total
-          td= author.retweeted
-          td= author.favorited
-          
-
-    each author in stats
-      li
-        a(href='twitter.com/' + author.username) @#{author.username}
-        |  написал #{author.total} твитов 
-        |  (из них #{author.retweeted} заретвичены и #{author.favorited}
-        | сохранены в закладки),
-        | привёл #{author.gainedFollowers} подписчиков
-        | и имеет rt/tw #{author.retweetedPerTweet}.      
+          th(colspan=2) Автор
+          th.text-right
+            = "Привел подписчиков "
+            i.glyphicon.glyphicon-user
+          th
+            i.glyphicon.glyphicon-comment
+            |  Написал твиттов
+          th.text-center
+            i.glyphicon.glyphicon-retweet
+            |  Ретвитнули
+          th.text-center
+            i.glyphicon.glyphicon-star
+            |  Добавили в избранное
+      tbody
+        each author in stats
+          tr
+            td.text-right= author.index
+            td: a(href='https://twitter.com/' + author.username) @#{author.username}
+            td.text-right= author.gainedFollowers
+            td= author.total
+            td.text-center= author.retweeted
+              //- small  kpi #{author.retweetedPerTweet}
+            td.text-center= author.favorited
+              //- small  kpi too
