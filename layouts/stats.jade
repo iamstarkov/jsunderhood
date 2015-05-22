@@ -12,18 +12,12 @@ block meta
   meta(name="og:description" content=site.description)
 
 block content
-  h1 @jsunderhood
+  .container
+    h1 @jsunderhood
+    
+    include menu
   
-  p
-    a(href="/about/") About
-    = " • "
-    a(href="/rss.xml") Subscribe to RSS
-    = " or "
-    a(href="https://google.com/?q=site:jsunderhood.com+smth") search "smth"
-    = " • "
-    a(href="https://twitter.com/jsunderhood") Follow on Twitter
-  
-  article
+  .container
     table.table.table-hover
       thead
         tr
