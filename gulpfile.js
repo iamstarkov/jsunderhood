@@ -80,11 +80,14 @@ gulp.task('index-page', function() {
 });
 
 
+
 gulp.task('stats-page', function() {
+  var stats = [].concat(finalStats);
+  stats.reverse();
   return gulp.src('layouts/stats.jade')
     .pipe(jade({
       pretty: true,
-      locals: { site: site, stats: finalStats }
+      locals: { site: site, stats: stats }
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
