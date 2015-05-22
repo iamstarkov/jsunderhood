@@ -7,24 +7,23 @@
 новыми функциями. Возможность читать и обсуждать противоречивые и важные
 вопросы с еженедельно меняющимися авторами.
 
-## Why should I care? Why should I follow you?
+## Почему это должно меня волновать? Почему я должен подписаться?
 
-— You shouldn’t. Otherwise, you will get a huge amount of pros:
+— Ты никому ничего не должен. Но если подпишешься, то получишь кучу плюсов:
 
-* Critical thinking: every author is unique, that’s why the views you
-  will find can be quintessentially different
-* Comfort zone: jsunderhood will make you step out of your comfort zone
-  in some cases
-* New: you will discover new trends, things and people
-* "Shuffle mode": it’s like a random song on the radio, you can definitely
-  find something, which you most likely would never have found
-* Experience: authors can share their experience gained over the years
-* Mind shift: authors can show professional insights and new approaches
-  that dramatically differ from yours
-* You can easily contact the author, ’cause it is two way communication channel
-* It’s fun
+* Критическое мышление: каждый автор уникален, поэтому встреченные мысли,
+  могут отличаться, как небо и земля
+* Зона комфорта: jsunderhood будет периодически выводить вас из неё
+* Новое: вы будете открывать новые тренды, интересные вещи и людей
+* "Случайный режим": это похоже на случайную песню на радио, вы определённо
+  найдёте что-то интересное для себя, что никогда бы в ином случае не нашли
+* Опыт: авторы могут делиться свои многолетним опытом
+* Сдвиг парадигмы мышления: авторы могут делиться своими мыслями
+  и приёмами работы, которые кардинально отличаются от ваших
+* Легко общаться с автором, потому что это двухсторонний канал связи
+* Это весело
 
-Feel free to follow [@jsunderhood][jsh] on twitter.
+Подписывайтесь на [@jsunderhood][jsh] в твиттере.
 
 ## How it works?
 
