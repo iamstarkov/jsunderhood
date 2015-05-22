@@ -1,11 +1,11 @@
-# ispeakweb
+# jsunderhood
 
-> Collective twitter account for frontend developers with a new author
-every week
+> Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором
+каждую неделю
 
-It’s an interesting Reddit AMA analog, but in twitter and obviously with
-new functions. It’s an ability to read and discuss significant
-or controversial issues with weekly changing authors.
+Интересный аналог Reddit "спроси-меня-что-угодно", но в твиттере и конечно же
+новыми функциями. Возможность читать и обсуждать противоречивые и важные
+вопросы с еженедельно меняющимися авторами.
 
 ## Why should I care? Why should I follow you?
 
@@ -13,7 +13,7 @@ or controversial issues with weekly changing authors.
 
 * Critical thinking: every author is unique, that’s why the views you
   will find can be quintessentially different
-* Comfort zone: ispeakweb will make you step out of your comfort zone
+* Comfort zone: jsunderhood will make you step out of your comfort zone
   in some cases
 * New: you will discover new trends, things and people
 * "Shuffle mode": it’s like a random song on the radio, you can definitely
@@ -24,7 +24,7 @@ or controversial issues with weekly changing authors.
 * You can easily contact the author, ’cause it is two way communication channel
 * It’s fun
 
-Feel free to follow [@ispeakweb][isw] on twitter.
+Feel free to follow [@jsunderhood][jsh] on twitter.
 
 ## How it works?
 
@@ -35,7 +35,7 @@ how it will be going in real life with every author. Things do happen, you know.
 
 ## Show me more!
 
-— _ispeakweb_ will have a statistics page and summary pages for each author.
+— _jsunderhood_ will have a statistics page and summary pages for each author.
 
 ## What will I get as an author?
 
@@ -78,7 +78,7 @@ on followers and authors itself.
 #### Will I be annoyed by replying? Isn’t it waste of time?
 
 — In some cases, but communication is the most important and interesting part
-of @ispeakweb’s idea. Also, replying is easier than writing original tweets.
+of @jsunderhood’s idea. Also, replying is easier than writing original tweets.
 And you don’t need to feed the trolls.
 
 #### Are there any popular topics I can discuss with my followers?
@@ -108,14 +108,14 @@ And you don’t need to feed the trolls.
 
 #### How to make a proposal?
 
-— [Email me][proposal] if you’re willing to lead [@ispeakweb][isw] for one week
+— [Email me][proposal] if you’re willing to lead [@jsunderhood][jsh] for one week
 or want to suggest somebody else.
 
 ## Code of Conduct
 
 Please, be polite and have respect to your followers. Do not insult
 or put down others. Behave professionally. Harassment and sexist, racist,
-or exclusionary jokes are not appropriate for [@ispeakweb][isw].
+or exclusionary jokes are not appropriate for [@jsunderhood][jsh].
 
 [Email me asap][coc-violations] if you’ve spotted any CoC violations.
 
@@ -128,6 +128,6 @@ together in different geo-, framework-, language-based communities.
 
 MIT © [Vladimir Starkov](http://vstarkov.com)
 
-[isw]: https://twitter.com/ispeakweb
-[proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@ispeakweb
-[coc-violations]: mailto:iamstarkov@gmail.com?subject=CoC%20violations%20in%20@ispeakweb
+[jsh]: https://twitter.com/jsunderhood
+[proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@jsunderhood
+[coc-violations]: mailto:iamstarkov@gmail.com?subject=CoC%20violations%20in%20@jsunderhood
