@@ -123,7 +123,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'stats-page'], 'css', 'cname', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'stats-page'], 'cname', done);
 });
 
 gulp.task('build', function(done) {
@@ -132,10 +132,6 @@ gulp.task('build', function(done) {
 
 gulp.task('build-prod', function(done) {
   sequence('clean', 'articles-registry-prod', 'build-common', done);
-});
-
-gulp.task('css', function() {
-  return gulp.src('node_modules/bootstrap/dist/css/bootstrap.min.css').pipe(gulp.dest('dist'));
 });
 
 gulp.task('cname', function() {
