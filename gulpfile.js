@@ -132,7 +132,7 @@ gulp.task('build-prod', function(done) {
 });
 
 gulp.task('css', function() {
-  return gulp.src('styles.css').pipe(gulp.dest('dist'));
+  return gulp.src('node_modules/bootstrap/dist/css/bootstrap.min.css').pipe(gulp.dest('dist'));
 });
 
 gulp.task('cname', function() {
