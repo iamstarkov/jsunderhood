@@ -42,7 +42,7 @@ var articleHarvesting = function() {
       url: getBasename(file) + '/',
       title: article.title,
       image: article.image,
-      desc: article.desc,
+      desc: article.descHtml,
       date: article.date,
       content: article.content,
       rss: {
