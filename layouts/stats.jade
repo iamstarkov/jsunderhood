@@ -1,0 +1,53 @@
+extend page
+
+block title
+  title @jsunderhood
+
+block meta
+  meta(property="description" content=site.description)
+
+  meta(name="og:url"         content=site.site_url)
+  //- meta(name="og:image"       content="http://getbem.com/img/bem_black.png")
+  meta(name="og:title"       content=site.title)
+  meta(name="og:description" content=site.description)
+
+block content
+  h1 @jsunderhood
+  
+  p
+    a(href="/about/") About
+    = " • "
+    a(href="/rss.xml") Subscribe to RSS
+    = " or "
+    a(href="https://google.com/?q=site:jsunderhood.com+smth") search "smth"
+    = " • "
+    a(href="https://twitter.com/jsunderhood") Follow on Twitter
+  
+  article
+    table
+      tr
+        td(colspan=2)
+        td Привел <br> подписчиков
+        td Ретвитов <br> на 1 твит
+        td написал <br> твитов
+        td заретвитен
+        td зафавлен
+      each author in stats
+        tr
+          td= author.index
+          td: a(href='twitter.com/' + author.username) @#{author.username}
+          td= author.gainedFollowers
+          td= author.retweetedPerTweet
+          td= author.total
+          td= author.retweeted
+          td= author.favorited
+          
+
+    each author in stats
+      li
+        a(href='twitter.com/' + author.username) @#{author.username}
+        |  написал #{author.total} твитов 
+        |  (из них #{author.retweeted} заретвичены и #{author.favorited}
+        | сохранены в закладки),
+        | привёл #{author.gainedFollowers} подписчиков
+        | и имеет rt/tw #{author.retweetedPerTweet}.      

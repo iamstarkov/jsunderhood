@@ -12,12 +12,15 @@ var log = require('gulp-util').log;
 var buildbranch = require('buildbranch');
 var rss = require('rss');
 var del = require('del');
+var fs = require('fs-extra');
 var output = require('fs-extra').outputFile;
 var express = require('express');
 var assign = require('object-assign');
 var sequence = require('run-sequence');
 var each = require('each-done');
 var path = require('path');
+
+var finalStats = fs.readJsonSync('./final-stats.json').stats;
 
 var moment = require('moment');
 var unix = function(text) { return moment(new Date(text)).unix(); }
@@ -68,10 +71,22 @@ gulp.task('articles-registry-prod', function() {
 
 gulp.task('index-page', function() {
   return gulp.src('layouts/index.jade')
-    .pipe(data(function() {
-      return { site: site, list: articles };
+    .pipe(jade({
+      pretty: true,
+      locals: { site: site, list: articles }
     }))
-    .pipe(jade({ pretty: true }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(gulp.dest('dist'));
+});
+
+
+gulp.task('stats-page', function() {
+  return gulp.src('layouts/stats.jade')
+    .pipe(jade({
+      pretty: true,
+      locals: { site: site, stats: finalStats }
+    }))
+    .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist'));
 });
@@ -105,7 +120,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss'], 'css', 'cname', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'stats-page'], 'css', 'cname', done);
 });
 
 gulp.task('build', function(done) {
