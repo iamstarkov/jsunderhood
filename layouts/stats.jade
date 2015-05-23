@@ -39,26 +39,26 @@ block content
             thead
               tr
                 th(colspan=2) Автор
-                th.text-right
-                  = "Привел подписчиков "
+                th
                   i.glyphicon.glyphicon-user
+                  span.visible-lg-inline.visible-md-inline  Привёл подписчиков
                 th
                   i.glyphicon.glyphicon-comment
-                  |  Написал твиттов
-                th.text-center
+                  span.visible-lg-inline.visible-md-inline  Твиты
+                th
                   i.glyphicon.glyphicon-retweet
-                  |  Ретвитнули
-                th.text-center
+                  span.visible-lg-inline.visible-md-inline  Был ретвитнут
+                th
                   i.glyphicon.glyphicon-star
-                  |  Добавили в избранное
+                  span.visible-lg-inline.visible-md-inline  Был добавлен в избранное
             tbody
               each author in stats
                 tr
                   td.text-right= author.index
-                  td: a(href='https://twitter.com/' + author.username) @#{author.username}
-                  td.text-right= author.gainedFollowers
+                  td: a(href='/' + author.username) @#{author.username}
+                  td= author.gainedFollowers
                   td= author.total
-                  td.text-center= author.retweeted
-                    //- small  kpi #{author.retweetedPerTweet}
-                  td.text-center= author.favorited
-                    //- small  kpi too
+                  td= author.retweeted
+                    small  / #{author.retweetedKpi}
+                  td= author.favorited
+                    small  / #{author.favoritedKpi}
