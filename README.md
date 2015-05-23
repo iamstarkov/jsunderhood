@@ -97,27 +97,19 @@
 * Высшее образование, самообучение и онлайн-образование
 * Ваш вклад и ответственность, как веб-разработчика, в общую картину мира
 
-#### How to make a proposal?
+#### Как стать автором?
 
-— [Email me][proposal] if you’re willing to lead [@jsunderhood][jsh] for one week
-or want to suggest somebody else.
+— [Напишите письмо Антону Шувалову][proposal], если хотите вести твиттер
+одну неделю или если хотите предложить кого-то на место автора
 
-## Code of Conduct
+## Этикет
 
-Please, be polite and have respect to your followers. Do not insult
-or put down others. Behave professionally. Harassment and sexist, racist,
-or exclusionary jokes are not appropriate for [@jsunderhood][jsh].
+Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
+или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
+расистские или ксенофобские шутки не привествуются в [@jsunderhood][jsh].
 
-[Email me asap][coc-violations] if you’ve spotted any CoC violations.
-
-## Postscript
-
-I hope this account will help frontend developers to know each other and link
-together in different geo-, framework-, language-based communities.
-
-## License
-
-MIT © [Vladimir Starkov](http://vstarkov.com)
+Если вы заметили нарушение, как можно скорее напишите
+письмо [Антону][coc-violations].
 
 [jsh]: https://twitter.com/jsunderhood
 [proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@jsunderhood
