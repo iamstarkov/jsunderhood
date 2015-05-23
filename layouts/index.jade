@@ -18,10 +18,11 @@ block content
     include menu
   
   article.container
-    .row
-      each article in list
-        div.col-md-4
-          h2: a(href=article.url)= article.title
-          small: time= article.date
-          p.list__item-desc !{article.desc}
-            
+    each row in list
+      .row
+        each article in row
+          div.col-md-4
+            h2: a(href=article.url)= article.title
+            small: time= article.date
+            p.list__item-desc !{article.desc}
+              

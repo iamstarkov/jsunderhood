@@ -36,10 +36,16 @@ var articles = [];
 var articleHarvesting = function() {
   return through.obj(function(file, enc, cb) {
     var article = articleData(file.contents.toString());
+    var url = getBasename(file);
+
+    if (getBasename(file) === 'README') {
+      url = 'about';
+    }
+
     articles.push({
       site: site,
       filename: file.relative,
-      url: getBasename(file) + '/',
+      url: url + '/',
       title: article.title,
       image: article.image,
       desc: article.descHtml,
@@ -57,7 +63,7 @@ var articleHarvesting = function() {
 
 gulp.task('articles-registry', function() {
   articles = [];
-  return gulp.src(['./posts/*.md'])
+  return gulp.src(['README.md', './posts/*.md'])
     .pipe(debug())
     .pipe(replace('https://jsunderhood.ru', 'http://localhost:4000'))
     .pipe(articleHarvesting());
@@ -65,15 +71,20 @@ gulp.task('articles-registry', function() {
 
 gulp.task('articles-registry-prod', function() {
   articles = [];
-  return gulp.src(['./posts/*.md', '!./posts/*draft*.md'])
+  return gulp.src(['README.md', './posts/*.md', '!./posts/*draft*.md'])
     .pipe(articleHarvesting());
 });
 
 gulp.task('index-page', function() {
+  var groupInGrid = function(state, item, i) {
+    if (i % 3 === 0) { state.push([]); }
+    state[state.length - 1].push(item);
+    return state;
+  };
   return gulp.src('layouts/index.jade')
     .pipe(jade({
       pretty: true,
-      locals: { site: site, list: articles }
+      locals: { site: site, list: articles.reduce(groupInGrid, []) }
     }))
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist'));
