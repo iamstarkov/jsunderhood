@@ -12,40 +12,53 @@ block meta
   meta(name="og:description" content=site.description)
 
 block content
-  
+
   .jumbotron
     .container
-      include menu
-      .page-header
-        h1 jsunderhood
-          small  / Статистика
-        p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+      .row
+        .col-md-12
+          include menu
+          .page-header
+            h1 jsunderhood
+              small  / Статистика
+            p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+      .row
+        .col-md-12
+            = "Поделитесь c "
+            a(href="https://twitter.com/intent/tweet?url=http://jsunderhood.ru/#{url}&text=#{title}&via=jsunderhood") фолловерами в Twitter
+            = " и друзьями в "
+            a(href="https://www.facebook.com/sharer.php?u=http://jsunderhood.ru/#{url}&t=#{title}") Facebook
+            = " или "
+            a(href="http://vk.com/share.php?url=http://2be7331a.ngrok.com/#{url}&title=#{title}") ВКонтакте
   
   .container
-    table.table.table-hover
-      thead
-        tr
-          th(colspan=2) Автор
-          th.text-right
-            = "Привел подписчиков "
-            i.glyphicon.glyphicon-user
-          th
-            i.glyphicon.glyphicon-comment
-            |  Написал твиттов
-          th.text-center
-            i.glyphicon.glyphicon-retweet
-            |  Ретвитнули
-          th.text-center
-            i.glyphicon.glyphicon-star
-            |  Добавили в избранное
-      tbody
-        each author in stats
-          tr
-            td.text-right= author.index
-            td: a(href='https://twitter.com/' + author.username) @#{author.username}
-            td.text-right= author.gainedFollowers
-            td= author.total
-            td.text-center= author.retweeted
-              //- small  kpi #{author.retweetedPerTweet}
-            td.text-center= author.favorited
-              //- small  kpi too
+    .row
+      .col-md-12
+        .table-responsive
+          table.table.table-hover
+            thead
+              tr
+                th(colspan=2) Автор
+                th.text-right
+                  = "Привел подписчиков "
+                  i.glyphicon.glyphicon-user
+                th
+                  i.glyphicon.glyphicon-comment
+                  |  Написал твиттов
+                th.text-center
+                  i.glyphicon.glyphicon-retweet
+                  |  Ретвитнули
+                th.text-center
+                  i.glyphicon.glyphicon-star
+                  |  Добавили в избранное
+            tbody
+              each author in stats
+                tr
+                  td.text-right= author.index
+                  td: a(href='https://twitter.com/' + author.username) @#{author.username}
+                  td.text-right= author.gainedFollowers
+                  td= author.total
+                  td.text-center= author.retweeted
+                    //- small  kpi #{author.retweetedPerTweet}
+                  td.text-center= author.favorited
+                    //- small  kpi too
