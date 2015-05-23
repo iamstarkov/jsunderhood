@@ -30,18 +30,18 @@
 — Еженедельно интересный автор что-то рассказывает, а читатели читают
 и обсуждают
 
-## What will I get as an author?
+## Что я получу, как автор?
 
-* New followers from your target audience
-* Test your ideas: get response from numerous followers
-* Test your experience, get advice from somebody more experienced than you
-* New people and catchy ideas
-* Exciting and completely new experience
-* Fewer restrictions as it’s not your private twitter!
-* Receive technical and common questions which you would never receive
-  in your private twitter.
-* It's just an honor
-* And fun
+* Новые подписчики из вашей целевой аудитории
+* Испытание идей: отклик от множества читателей
+* Вы также сможете проверить ваш опыт и получить совет от кого-то более опытного
+* Новые люди и захватывающие идеи
+* Интересный и совершенно новый опыт
+* Меньше ограничений — это не ваш личный твиттер!
+* Вы получите технические и общие вопросы, которые люди могут стесняться
+  спросить в вашем твиттере
+* Это почётно и это состязание среди авторов
+* Это весело
 
 ###  What should I know before starting my week?
 
