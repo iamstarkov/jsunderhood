@@ -61,12 +61,12 @@
 6. Попрощайтесь с читателями и покажите вашу признательность читателям
    в конце недели
 
-#### Should I have a plan for my week?
+#### Следует ли мне подготовить план для моей недели?
 
-— Tl;DR: You should. Experience leads us to conclude that having a plan is better
-than not having it. Basically, you don’t need a plan itself — you need
-a list of topics you want to discuss. Planning have great positive impact
-on followers and authors itself.
+— Tl;DR: следует. Опыт подсказывает, что лучше иметь план, чем нет.
+На самом деле вам не нужен план, как таковой — подойдёт список тем,
+которые вы хотите обсудить. Планирование сильно и положительно влияет
+как на читателей, так и на авторов.
 
 #### Will I be annoyed by replying? Isn’t it waste of time?
 
