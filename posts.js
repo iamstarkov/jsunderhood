@@ -2,16 +2,24 @@ import fs from 'fs-extra';
 import authors from './authors';
 import d from './date-format';
 
+const filterTimeline = (item)=> {
+  return (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
+}
+const formatTweet = (item, index)=> {
+  var text = item.text;
+  if (item.retweeted_status) {
+    var rtAuthor = item.retweeted_status.user.screen_name;
+    text = `RT @${rtAuthor}: ${item.retweeted_status.text}`;
+  }
+  return `${text} [${index}][${index}]`
+};
+const formatRef = (item, index)=> `[${index}]: https://twitter.com/jsunderhood/status/${item.id_str}`
+
 const post = (author, post=true)=> {
   if (!post) { return; }
 
   author.tweets.reverse();
-
-  author.tweets = author.tweets.filter((item)=> {
-    return (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
-  })
-  const formatTweet = (item, index)=> `${item.text} [${index}][${index}]`;
-  const formatRef = (item, index)=> `[${index}]: https://twitter.com/jsunderhood/status/${item.id_str}`
+  author.tweets = author.tweets.filter(filterTimeline);
 
   const md = [
     `# @${author.username}`,

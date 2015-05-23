@@ -14,7 +14,7 @@ Replace CoffeeScript with ES6 http://t.co/ELB3FSt6Qx [4][4]
 
 Arrow-функции очень крутые! http://t.co/U1ODB6vaN3 [5][5]
 
-RT @rdvornov: @jsunderhood это если не брать в расчет, что на понимание кода из примера уйдет куда больше времени, чем на понимание эквивал… [6][6]
+RT @rdvornov: @jsunderhood это если не брать в расчет, что на понимание кода из примера уйдет куда больше времени, чем на понимание эквивалента в ES5 ;) [6][6]
 
 В arrow-функциях — this указывает на тот  в котором функция объявленна: 
 this.$('select').on('change', e =&gt; this.setValue($(e.target).val()) [7][7]
@@ -23,7 +23,7 @@ this.$('select').on('change', e =&gt; this.setValue($(e.target).val()) [7][7]
 
 А вы уже попробовали ES6? [9][9]
 
-RT @matmuchrapna: @jsunderhood joyent если я ничего не путаю заслуживает чуть больше камней  http://t.co/p5MsEMy5h0 [10][10]
+RT @iamstarkov: @jsunderhood joyent если я ничего не путаю заслуживает чуть больше камней  http://t.co/p5MsEMy5h0 [10][10]
 
 “IO.js, what’s that?” asked Joyent CEO Scott Hammond. “This is a Node.js project for Node.js innovations.” Окей, но где же `0.12`? [11][11]
 
