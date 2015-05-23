@@ -68,36 +68,34 @@
 которые вы хотите обсудить. Планирование сильно и положительно влияет
 как на читателей, так и на авторов.
 
-#### Will I be annoyed by replying? Isn’t it waste of time?
+#### Буду ли я раздражен необходимостью отвечать на вопросы?
 
-— In some cases, but communication is the most important and interesting part
-of @jsunderhood’s idea. Also, replying is easier than writing original tweets.
-And you don’t need to feed the trolls.
+— Иногда, конечно. Но общение самое важная и интересная часть идеи @jsunderhood.
+Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
+Само собой не нужно кормить троллей.
 
-#### Are there any popular topics I can discuss with my followers?
+#### Какие есть популярные темы для обсуждения с читателями?
 
-— You probably can discuss something from the list:
+— Возможно ты можешь попробовать обсудить что-нибудь из этого списка:
 
-* Ways to rate other developers (github, stackoverflow etc.)
-* Rating and reviewing sites
-* Making interviews
-* Your attitude to opensource
-* Developers, you are inspired of or valuable for you (co-workers,
-  great mentors or bloggers)
-* Your projects
-* Forecast frontend trends in 5 years.
-* Your workplace and/or health-related topics
-* Your work setup: equipment, programs, .dotfiles and other
-* Your most interesting technical challenges
-* Your start in Computer Science
-* Your career path and current position
-* Your professional and common plans for future
-* Favorite core value and the way you live it
-* Your favorite professional experience
-* Work-life balance
-* Higher education, self-education and online education
-* Your contribution and responsibility as a web developer in the overall
-  picture of the world
+* Способы оценки разработчиков (github, stackoverflow и т.д.)
+* Оценка и ревью сайтов
+* Собеседования
+* Отношение к опенсорсу
+* Разработчики, вдозновляющие или значимые (коллеги, менторы, блогеры)
+* Ваши проекты
+* Будущее фронтенда в течение 5 лет
+* Ваше рабочее место и/или другие относящиеся к здоровью темы
+* Ваше рабочее окружение: оборудование, программы, .dotfiles и т.д.
+* Самые интересные технические проблемы, которые вам встречались
+* Как вы пришли в IT
+* Ваша карьерный путь и текущая позиция
+* Ваши профессиональные и общие планы на будущее
+* Самые важные для вас ценности и почему
+* Ваш любимый рабочий опыт
+* Баланс работы и личной жизни
+* Высшее образование, самообучение и онлайн-образование
+* Ваш вклад и ответственность, как веб-разработчика, в общую картину мира
 
 #### How to make a proposal?
 
