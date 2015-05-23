@@ -172,7 +172,7 @@ RT @ki_zu: А в приложении Health можно следить за ку
 
 Доброе утро! В Европах рано работать начинают :-) Я прихожу к 10 (остальные ещё раньше) и никак не могу к этому привыкнуть. [1][1]
 
-RT @edelehere: @jsunderhood расскажи об интересных девушках-разработчиках [2][2]
+RT @delgizat: @jsunderhood расскажи об интересных девушках-разработчиках [2][2]
 
 RT @iamstarkov: @edelehere @jsunderhood подписывайся на @SaraSoueidan @anatudor @rachelandrew и @tonyganch [3][3]
 
