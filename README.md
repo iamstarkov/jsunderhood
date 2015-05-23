@@ -43,23 +43,23 @@
 * Это почётно и это состязание среди авторов
 * Это весело
 
-###  What should I know before starting my week?
+### Что мне стоит знать перед стартом своей недели?
 
-#### Are there any general recommendations?
+#### Существуют какие-то общие рекомендации?
 
-— Yeah, here they are:
+— Ага, вот они:
 
-1. To begin with, update the bio, avatar, location and background image. Make
-   sure that description contains link to your own account
-2. Say hello and introduce yourself briefly in a couple of tweets
-   at the beginning
-3. Specify your plans for the week in one tweet
-4. If it’s possible, make all mentioned above in five minutes to be sure that
-   your "intro" tweets will be grouped in timeline
-5. If you want to answer, retweet the question first. Then write answers
-   as ordinary tweets. If you want, you can include question’s author
-   at the end of you answers
-6. Say goodbye and show your appreciation to followers at the end
+1. На старте обновите описание, аватарку, место и фоновую картинку.
+   Проверьте, что в описании есть ссылка на ваш личный твиттер
+2. Поприветствуйте читателей и коротко представьте себя в паре твиттов
+3. Поделитесь свои планами на неделю в одном твите
+4. Если это возможно, то постарайтесь сделать всё вышеописанное в течение пары
+   пяти минут, чтобы ваши вводные твиты были сгрупированы у читателей в ленте
+5. Если собираетесь ответить на вопрос, ретвитните его. Затем пишите ответ
+   как обычные твиты. Если хотите, то можете упоминать автора вопроса
+	 в конце твитов-ответов
+6. Попрощайтесь с читателями и покажите вашу признательность читателям
+   в конце недели
 
 #### Should I have a plan for my week?
 
