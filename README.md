@@ -25,16 +25,10 @@
 
 Подписывайтесь на [@jsunderhood][jsh] в твиттере.
 
-## How it works?
+## Как это работает?
 
-— New interesting authors weekly, you read and interact with them.
-
-I promise, that I will choose new authors carefully, but nobody can say for sure
-how it will be going in real life with every author. Things do happen, you know.
-
-## Show me more!
-
-— _jsunderhood_ will have a statistics page and summary pages for each author.
+— Еженедельно интересный автор что-то рассказывает, а читатели читают
+и обсуждают
 
 ## What will I get as an author?
 
