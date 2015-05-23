@@ -12,22 +12,18 @@ const formatTweet = (item, index)=> {
     var rtAuthor = item.retweeted_status.user.screen_name;
     text = `RT @${rtAuthor}: ${item.retweeted_status.text}`;
   }
-  return `${text} [${index}][${index}]`
+  return `${text} [${index}][${item.id_str}]`
 };
-const formatRef = (item, index)=> `[${index}]: https://twitter.com/jsunderhood/status/${item.id_str}`
-
-const getWeekday = (date) => {
-  console.log(date);
-  return moment(new Date(date)).format("dddd");
-};
+const formatRef = (item, index)=> `[${item.id_str}]: https://twitter.com/jsunderhood/status/${item.id_str}`
+const getWeekday = (date) => moment(new Date(date)).format("dddd");
 
 const separateByWeekdays = (state, item, i, arr)=> {
   var weekday = getWeekday(item.created_at);
   if (!state.length) {
-    state.push({ weekday, tweets: [] });
+    state.push({ weekday, tweets: [], ref: [] });
   }
   if (state[state.length - 1].weekday !== weekday) {
-    state.push({ weekday, tweets: [] });
+    state.push({ weekday, tweets: [], ref: [] });
   }
   state[state.length-1].tweets.push(item);
   return state;
@@ -40,19 +36,16 @@ const post = (author, post=true)=> {
   author.tweets.reverse();
   author.tweets = author.tweets.filter(filterTimeline);
 
-
-  console.log(getWeekday(author.tweets[0].created_at));
-
   const md = [
     `# @${author.username}`,
     `_${ d(author.tweets[0].created_at) }_`,
     author.tweets.reduce(separateByWeekdays, []).map((weekday)=> {
       return [
-        '## ' + weekday.weekday,
+        `## ${weekday.weekday} <small>${weekday.tweets.length}</small>`,
         weekday.tweets.map(formatTweet).join('\n\n'),
+        weekday.tweets.map(formatRef).join('\n')
       ].join('\n\n');
     }).join('\n\n'),
-    author.tweets.map(formatRef).join('\n')
   ].join('\n\n');
 
   fs.outputFile(`./posts/${author.username}.md`, md, (err)=> console.log(`${author.username} done`))
