@@ -12,10 +12,14 @@ block meta
   meta(name="og:description" content=site.description)
 
 block content
-  .container
-    h1 @jsunderhood
-    
-    include menu
+  
+  .jumbotron
+    .container
+      include menu
+      .page-header
+        h1 jsunderhood
+          small  / Статистика
+        p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
   
   .container
     table.table.table-hover

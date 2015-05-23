@@ -37,16 +37,18 @@ var articleHarvesting = function() {
   return through.obj(function(file, enc, cb) {
     var article = articleData(file.contents.toString());
     var url = getBasename(file);
+    var title = article.title;
 
     if (getBasename(file) === 'README') {
       url = 'about';
+      title = 'О проекте';
     }
 
     articles.push({
       site: site,
       filename: file.relative,
       url: url + '/',
-      title: article.title,
+      title: title,
       image: article.image,
       desc: article.descHtml,
       date: article.date,
