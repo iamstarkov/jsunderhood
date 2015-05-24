@@ -1,7 +1,9 @@
 extend page
 
+
 block title
-  title @jsunderhood
+  - var title = "Статистика";
+  title #{title} • #{site.title}
 
 block meta
   meta(property="description" content=site.description)
