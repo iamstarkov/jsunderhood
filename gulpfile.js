@@ -66,7 +66,7 @@ var articleHarvesting = function() {
 
 gulp.task('articles-registry', function() {
   articles = [];
-  return gulp.src(['README.md', './posts/*.md'])
+  return gulp.src(['./posts/*.md'])
     .pipe(debug())
     .pipe(replace('https://jsunderhood.ru', 'http://localhost:4000'))
     .pipe(articleHarvesting());
@@ -74,7 +74,7 @@ gulp.task('articles-registry', function() {
 
 gulp.task('articles-registry-prod', function() {
   articles = [];
-  return gulp.src(['README.md', './posts/*.md', '!./posts/*draft*.md'])
+  return gulp.src(['./posts/*.md', '!./posts/*draft*.md'])
     .pipe(articleHarvesting());
 });
 
@@ -122,6 +122,25 @@ gulp.task('stats-page', function() {
     .pipe(gulp.dest('dist'));
 });
 
+gulp.task('about-page', function() {
+  var readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
+  var article = articleData(readme);
+
+  console.log(article)
+
+  return gulp.src('layouts/article.jade')
+    .pipe(jade({
+      pretty: true,
+      locals: assign({}, article, {
+        title: 'О проекте',
+        site: site
+      })
+    }))
+    .pipe(rename({ dirname: 'about' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(gulp.dest('dist'));
+});
+
 gulp.task('articles-pages', function(done) {
   each(articles, function(article) {
     return gulp.src('layouts/article.jade')
@@ -151,7 +170,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'stats-page'], 'cname', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', done);
 });
 
 gulp.task('build', function(done) {

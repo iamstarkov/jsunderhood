@@ -2,6 +2,7 @@ var md = require('commonmark-helpers');
 var moment = require('moment');
 
 function isDate(event) {
+  console.log('isDate');
   if (!event.entering || !md.literal(event)) {
     return;
   }
@@ -9,6 +10,7 @@ function isDate(event) {
 }
 
 function containOnlyImage(event) {
+  console.log('containOnlyImage');
   var img = md.match(event.node, isImage);
   if (img) {
     return md.text(img) === md.text(event.node);
@@ -16,6 +18,7 @@ function containOnlyImage(event) {
 }
 
 function isDesc() {
+  console.log('isDesc');
   var dateFound;
   return function(event) {
     if (!event.entering) { return; }
@@ -24,7 +27,10 @@ function isDesc() {
   };
 }
 
-function isImage(event) { return event.entering && md.isImage(event); }
+function isImage(event) {
+  console.log('isDesc');
+  return event.entering && md.isImage(event);
+}
 
 module.exports = function(content) {
   return {
