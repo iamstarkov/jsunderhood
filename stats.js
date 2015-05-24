@@ -1,42 +1,73 @@
 import fs from 'fs-extra';
 import authors from './authors';
-const debug = debug;
+const debug = true;
 
-const isRetweet = (tweet)=> tweet.retweeted_status;
-const isReply = (tweet)=> tweet.in_reply_to_screen_name;
-const filterTimeline = (tweet)=> {
-  return (tweet.text[0] !== '@') || (tweet.text.indexOf('@jsunderhood') === 0);
-}
+/*
+	есть свои твиты
+		прямо свои
+		реплаи себе
+	есть реплаи другим
+	есть ретвиты
+
+	Попадающие в таймлайн:
+		свои
+
+	В которых надо учитывать фавы и рт’ы
+	В которых не надо учитывать
+		в ретвитах
+*/
+
+
+const isOwn = (tweet)=> !isReply(tweet) && !isRetweet(tweet);
+const isRetweet = (tweet)=> !!tweet.retweeted_status;
+const isReplyToSelf = (tweet)=> tweet.in_reply_to_screen_name === 'jsunderhood';
+const isReply = (tweet)=> !!tweet.in_reply_to_screen_name && !isReplyToSelf(tweet);
+
+const sumRetweeted = (state, tweet)=> state + tweet.retweet_count;
+const sumFavorited = (state, tweet)=> state + tweet.favorite_count;
 
 const analyze = (author)=> {
 	var rt = 0, fav = 0;
 	const username = author.username;
-	const tweets = author.tweets.filter(filterTimeline).filter(tweet => !isRetweet(tweet));
-	const total = tweets.length;
-	const retweets = tweets.filter(isRetweet).length;
-	const replies = tweets.filter(isReply).length;
-	const retweeted = tweets.reduce((state, tweet)=> state + tweet.retweet_count, 0);
-	const favorited = tweets.reduce((state, tweet)=> state + tweet.favorite_count, 0);
-	const retweetedKpi = (retweeted / total).toFixed(2);
-	const favoritedKpi = (favorited / total).toFixed(2);
+	const _tweets = author.tweets;
 
-	if (debug && username === 'filipovskii') {
-		tweets.forEach((tweet)=> {
-			rt += tweet.retweet_count;
-			fav += tweet.favorite_count;
-			console.log(`rt ${tweet.retweet_count}, fav: ${tweet.favorite_count}: ${tweet.text}`);
+  const tweets = _tweets.length;
+  const _ownTweets = _tweets.filter(isOwn);
+
+  const percent = tweets / 100;
+  const ownTweets = _ownTweets.length;
+  const ownTweetsPercentage = ownTweets / percent;
+  const retweets = _tweets.filter(isRetweet).length;
+  const retweetsPercentage = retweets / percent;
+	const replies = _tweets.filter(isReply).length;
+	const repliesPercentage = replies / percent;
+
+  const retweeted = _ownTweets.reduce(sumRetweeted, 0);
+	const favorited = _ownTweets.reduce(sumFavorited, 0);
+
+  const retweetedKpi = (retweeted / ownTweets).toFixed(2);
+	const favoritedKpi = (favorited / ownTweets).toFixed(2);
+
+	if (debug && username === 'iamstarkov') {
+		_tweets.forEach((tweet)=> {
+      if (isOwn(tweet) && isReply(tweet)) {
+
+  			console.log(`${tweet.text}
+          isOwn: ${isOwn(tweet)}
+          isReply: ${isReply(tweet)}, to: ${tweet.in_reply_to_screen_name}
+          isRetweet: ${isRetweet(tweet)}
+          `);
+      }
 		});
-		console.log(`rt: ${rt}`);
-		console.log(`fav: ${fav}`);
-		console.log(`total: ${total}`);
-		console.log(`retweetedKpi: ${retweetedKpi}`);
-		console.log(`favoritedKpi: ${favoritedKpi}`);
 	}
 
 	fs.outputJson(`dump/${author.username}-stats.json`, {
-		username, total, retweets, replies,
-		retweeted, favorited,
-		retweetedKpi, favoritedKpi
+		username, tweets,
+    ownTweets, ownTweetsPercentage,
+    retweets, retweetsPercentage,
+    replies, repliesPercentage,
+    retweeted, retweetedKpi,
+    favorited, favoritedKpi
 	}, (err)=> console.log(`${author.username} done`));
 }
 

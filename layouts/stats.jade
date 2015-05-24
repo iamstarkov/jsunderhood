@@ -38,27 +38,62 @@ block content
           table.table.table-hover
             thead
               tr
-                th(colspan=2) Автор
-                th
+                th Автор
+                th.text-right
                   i.glyphicon.glyphicon-user
-                  span.visible-lg-inline.visible-md-inline  Привёл подписчиков
-                th
+                  span.visible-lg-inline.visible-md-inline
+                    |  Привёл
+                    br
+                    | подписчиков
+                th(colspan=2)
                   i.glyphicon.glyphicon-comment
-                  span.visible-lg-inline.visible-md-inline  Твиты
+                  span  Твиты
                 th
-                  i.glyphicon.glyphicon-retweet
-                  span.visible-lg-inline.visible-md-inline  Был ретвитнут
+                  nobr
+                    i.glyphicon.glyphicon-retweet
+                    span.visible-lg-inline.visible-md-inline  Ретвитнут
                 th
-                  i.glyphicon.glyphicon-star
-                  span.visible-lg-inline.visible-md-inline  Был добавлен в избранное
+                  nobr
+                    i.glyphicon.glyphicon-star
+                    span.visible-lg-inline.visible-md-inline
+                      |  Добавлен
+                      br
+                      | в избранное
             tbody
-              each author in stats
+              each author, index in stats
+                - var indexClass = index===0 ? 'progress-bar-striped active' : '';
                 tr
-                  td.text-right= author.index
-                  td: a(href='/' + author.username) @#{author.username}
-                  td= author.gainedFollowers
-                  td= author.total
-                  td= author.retweeted
-                    small  / #{author.retweetedKpi}
-                  td= author.favorited
-                    small  / #{author.favoritedKpi}
+                  td
+                    span.hidden-xs.hidden-sm= author.index + " "
+                    if (index === 0)
+                      a(href='https://twitter.com/jsunderhood') @#{author.username}…
+                    else 
+                      a(href='/' + author.username) @#{author.username}
+                  td.text-right= author.gainedFollowers
+                  td= author.tweets
+                  td(style="width: 100%")
+                    .progress(style="margin-bottom: 0; min-width: 150px; width: 100%")
+                      .progress-bar.progress-bar-primary(class=indexClass style="width: #{author.ownTweetsPercentage}%")
+                        span.hidden-xs.hidden-sm Свои
+                      .progress-bar.progress-bar-info(class=indexClass style="width: #{author.retweetsPercentage}%")
+                        span.hidden-xs.hidden-sm RT
+                      .progress-bar.progress-bar-success(class=indexClass style="width: #{author.repliesPercentage}%") 
+                        span.hidden-xs.hidden-sm Ответы
+                    nobr.hidden-xs.hidden-sm
+                      span.text-primary #{author.ownTweets} cвоих твитов
+                      = ", "
+                      span.text-info #{author.retweets} ретвитов
+                      = ", "
+                      span.text-success #{author.replies} ответов
+                  td
+                    .progress(style="margin-bottom: 0; min-width: 50px")
+                      .progress-bar(class=indexClass style="width: #{author.retweetedKpi*100}%")
+                    nobr.hidden-xs.hidden-sm
+                      = author.retweetedKpi
+                      small.text-muted  / #{author.retweeted}
+                  td
+                    .progress(style="margin-bottom: 0; min-width: 50px")
+                      .progress-bar(class=indexClass style="width: #{author.favoritedKpi*100}%")
+                    nobr.hidden-xs.hidden-sm
+                      = author.favoritedKpi
+                      small.text-muted  / #{author.favorited}
