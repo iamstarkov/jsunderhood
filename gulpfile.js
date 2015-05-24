@@ -87,7 +87,14 @@ gulp.task('index-page', function() {
   return gulp.src('layouts/index.jade')
     .pipe(jade({
       pretty: true,
-      locals: { site: site, list: articles.reduce(groupInGrid, []) }
+
+      locals: {
+        title: site.title,
+        url: '',
+        desc: site.description,
+        site: site,
+        list: articles.reduce(groupInGrid, [])
+      }
     }))
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist'));
@@ -101,7 +108,14 @@ gulp.task('stats-page', function() {
   return gulp.src('layouts/stats.jade')
     .pipe(jade({
       pretty: true,
-      locals: { site: site, stats: stats }
+
+      locals: {
+        title: 'Статистика jsunderhood',
+        url: 'stats/',
+        desc: site.description,
+        site: site,
+        stats: stats,
+      }
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
