@@ -1,4 +1,4 @@
-# @jsunderhood
+# jsunderhood
 
 _23 may 2015_
 
