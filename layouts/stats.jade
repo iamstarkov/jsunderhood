@@ -78,7 +78,7 @@ block content
                 tr
                   td(data-sort="#{author.index}")
                     nobr
-                      span.hidden-xs.hidden-sm= author.index + " "
+                      span.hidden-xs.hidden-sm(style="display: inline-block; width: 2em").text-right= author.index + "  "
                       if (index === 0)
                         a(href='https://twitter.com/jsunderhood') @#{author.username}…
                       else 
