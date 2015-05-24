@@ -64,12 +64,16 @@ block content
                 - var indexClass = index===0 ? 'progress-bar-striped active' : '';
                 tr
                   td
-                    span.hidden-xs.hidden-sm= author.index + " "
-                    if (index === 0)
-                      a(href='https://twitter.com/jsunderhood') @#{author.username}…
-                    else 
-                      a(href='/' + author.username) @#{author.username}
-                  td.text-right= author.gainedFollowers
+                    nobr
+                      span.hidden-xs.hidden-sm= author.index + " "
+                      if (index === 0)
+                        a(href='https://twitter.com/jsunderhood') @#{author.username}…
+                      else 
+                        a(href='/' + author.username) @#{author.username}
+                  td.text-right
+                    if author.gainedFollowers > 0
+                      | +
+                    = author.gainedFollowers
                   td= author.tweets
                   td(style="width: 100%")
                     .progress(style="margin-bottom: 0; min-width: 150px; width: 100%")

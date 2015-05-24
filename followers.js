@@ -35,6 +35,10 @@ const authors = authorsRaw
 	.map((author, i, arr)=> {
 		author.gainedCount = arr[i+1] ? (arr[i+1].startCount - author.startCount) : 0;
 		return author;
+	})
+	.map((author, i, arr)=> {
+		author.gainedSign = (author.gainedCount > 0) ? '+' : '';
+		return author;
 	});
 
 const stats = authors.reduce((state, author)=> {
