@@ -29,7 +29,8 @@ block content
         .col-md-12
           include share-text
   style
-    | th { cursor: pointer; }
+    | th { cursor: pointer; color: #337AB7; }
+    | th nobr {  border-bottom: 1px dotted #77B3DA; }
     | th.no-sort { cursor: default; }
     | th .sort-icon { display: none; }
     | th.sort-up .sort-down { display: inline; }
@@ -41,10 +42,10 @@ block content
           table.table.table-hover.js-table-stat
             thead
               tr
-                th Автор
+                th: nobr Автор
                   small.sort-icon.sort-up= " ↑"
                   small.sort-icon.sort-down= " ↓"
-                th.text-right
+                th.text-right: nobr
                   small.sort-icon.sort-up= "↑ "
                   small.sort-icon.sort-down= "↓ "
                   i.glyphicon.glyphicon-user
