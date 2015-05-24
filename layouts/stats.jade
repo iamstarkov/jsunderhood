@@ -30,28 +30,43 @@ block content
             a(href="https://www.facebook.com/sharer.php?u=http://jsunderhood.ru/#{url}&t=#{title}") Facebook
             = " или "
             a(href="http://vk.com/share.php?url=http://2be7331a.ngrok.com/#{url}&title=#{title}") ВКонтакте
-  
+  style
+    | th { cursor: pointer; }
+    | th.no-sort { cursor: default; }
+    | th .sort-icon { display: none; }
+    | th.sort-up .sort-down { display: inline; }
+    | th.sort-down   .sort-up   { display: inline; }
   .container
     .row
       .col-md-12
         .table-responsive
-          table.table.table-hover
+          table.table.table-hover.js-table-stat
             thead
               tr
                 th Автор
+                  small.sort-icon.sort-up= " ↑"
+                  small.sort-icon.sort-down= " ↓"
                 th.text-right
+                  small.sort-icon.sort-up= "↑ "
+                  small.sort-icon.sort-down= "↓ "
                   i.glyphicon.glyphicon-user
                   span.visible-lg-inline.visible-md-inline
                     |  Привёл
                     br
                     | подписчиков
-                th(colspan=2)
-                  i.glyphicon.glyphicon-comment
-                  span  Твиты
+                th.text-right
+                  nobr
+                    small.sort-icon.sort-up= "↑ "
+                    small.sort-icon.sort-down= "↓ "
+                    i.glyphicon.glyphicon-comment
+                th.no-sort
+                  span Твиты
                 th
                   nobr
                     i.glyphicon.glyphicon-retweet
                     span.visible-lg-inline.visible-md-inline  Ретвитнут
+                    small.sort-icon.sort-up= " ↑"
+                    small.sort-icon.sort-down= " ↓"
                 th
                   nobr
                     i.glyphicon.glyphicon-star
@@ -59,25 +74,27 @@ block content
                       |  Добавлен
                       br
                       | в избранное
+                    small.sort-icon.sort-up= " ↑"
+                    small.sort-icon.sort-down= " ↓"
             tbody
               each author, index in stats
                 - var indexClass = index===0 ? 'progress-bar-striped active' : '';
                 tr
-                  td
+                  td(data-sort="#{author.index}")
                     nobr
                       span.hidden-xs.hidden-sm= author.index + " "
                       if (index === 0)
                         a(href='https://twitter.com/jsunderhood') @#{author.username}…
                       else 
                         a(href='/' + author.username) @#{author.username}
-                  td.text-right
+                  td.text-right(data-sort="#{author.gainedFollowers}")
                     nobr
                       if author.gainedFollowers > 0
                         | +
                       = author.gainedFollowers
                       if author.maxGainedFollowers
                         small.text-danger= " ★"
-                  td
+                  td(data-sort="#{author.tweets}").text-right
                     nobr
                       = author.tweets
                       if author.maxTweets
@@ -111,7 +128,7 @@ block content
                         if author.maxReplies
                           small.text-danger= "★ "
                         | #{author.replies} ответов
-                  td
+                  td(data-sort="#{author.retweetedKpi}")
                     .progress(style="margin-bottom: 0; min-width: 50px")
                       .progress-bar(class=indexClass style="text-align: left !important; width: #{author.retweetedKpi*100}%")
                         if author.maxRetweetedKpi
@@ -119,7 +136,7 @@ block content
                     nobr.hidden-xs.hidden-sm
                       = author.retweetedKpi
                       small.text-muted  / #{author.retweeted}
-                  td
+                  td(data-sort="#{author.favoritedKpi}")
                     .progress(style="margin-bottom: 0; min-width: 50px")
                       .progress-bar(class=indexClass style="text-align: left !important; width: #{author.favoritedKpi*100}%")
                         if author.maxFavoritedKpi
@@ -127,3 +144,8 @@ block content
                     nobr.hidden-xs.hidden-sm
                       = author.favoritedKpi
                       small.text-muted  / #{author.favorited}
+
+  script(src="//tristen.ca/tablesort/src/tablesort.js")
+  script(src="//tristen.ca/tablesort/src/sorts/tablesort.numeric.js")
+  script
+    | new Tablesort(document.querySelector('.js-table-stat'));
