@@ -46,7 +46,8 @@
       "retweetedKpi": "0.15",
       "favorited": 38,
       "favoritedKpi": "0.15",
-      "gainedFollowers": 31
+      "gainedFollowers": 31,
+      "maxOwnTweets": true
     },
     {
       "username": "roman01la",
@@ -62,7 +63,8 @@
       "retweetedKpi": "0.26",
       "favorited": 111,
       "favoritedKpi": "0.87",
-      "gainedFollowers": 2
+      "gainedFollowers": 2,
+      "maxOwnTweetsPercentage": true
     },
     {
       "username": "toivonens",
@@ -78,7 +80,8 @@
       "retweetedKpi": "0.43",
       "favorited": 262,
       "favoritedKpi": "1.28",
-      "gainedFollowers": 159
+      "gainedFollowers": 159,
+      "maxGainedFollowers": true
     },
     {
       "username": "korochinskiy",
@@ -142,7 +145,10 @@
       "retweetedKpi": "2.00",
       "favorited": 139,
       "favoritedKpi": "2.78",
-      "gainedFollowers": 61
+      "gainedFollowers": 61,
+      "maxReplies": true,
+      "maxRepliesPercentage": true,
+      "maxRetweetedKpi": true
     },
     {
       "username": "lomakin",
@@ -158,7 +164,8 @@
       "retweetedKpi": "0.67",
       "favorited": 140,
       "favoritedKpi": "2.92",
-      "gainedFollowers": 54
+      "gainedFollowers": 54,
+      "maxFavoritedKpi": true
     },
     {
       "username": "pukhalski",
@@ -174,7 +181,8 @@
       "retweetedKpi": "1.05",
       "favorited": 36,
       "favoritedKpi": "1.64",
-      "gainedFollowers": -9
+      "gainedFollowers": -9,
+      "maxRetweetsPercentage": true
     },
     {
       "username": "sudodoki",
@@ -222,7 +230,9 @@
       "retweetedKpi": "0.81",
       "favorited": 191,
       "favoritedKpi": "1.44",
-      "gainedFollowers": 0
+      "gainedFollowers": 0,
+      "maxTweets": true,
+      "maxRetweets": true
     }
   ]
 }

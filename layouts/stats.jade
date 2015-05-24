@@ -71,33 +71,59 @@ block content
                       else 
                         a(href='/' + author.username) @#{author.username}
                   td.text-right
-                    if author.gainedFollowers > 0
-                      | +
-                    = author.gainedFollowers
-                  td= author.tweets
+                    nobr
+                      if author.gainedFollowers > 0
+                        | +
+                      = author.gainedFollowers
+                      if author.maxGainedFollowers
+                        small.text-danger= " ★"
+                  td
+                    nobr
+                      = author.tweets
+                      if author.maxTweets
+                        small.text-danger= " ★"
                   td(style="width: 100%")
                     .progress(style="margin-bottom: 0; min-width: 150px; width: 100%")
                       .progress-bar.progress-bar-primary(class=indexClass style="width: #{author.ownTweetsPercentage}%")
+                        if author.maxOwnTweetsPercentage
+                          small= "★ "
                         span.hidden-xs.hidden-sm Свои
                       .progress-bar.progress-bar-info(class=indexClass style="width: #{author.retweetsPercentage}%")
+                        if author.maxRetweetsPercentage
+                          small= "★ "
                         span.hidden-xs.hidden-sm RT
-                      .progress-bar.progress-bar-success(class=indexClass style="width: #{author.repliesPercentage}%") 
+                      .progress-bar.progress-bar-success(class=indexClass style="width: #{author.repliesPercentage}%")
+                        if author.maxRepliesPercentage
+                          small= "★ "
                         span.hidden-xs.hidden-sm Ответы
                     nobr.hidden-xs.hidden-sm
-                      span.text-primary #{author.ownTweets} cвоих твитов
+                      span.text-primary
+                        if author.maxOwnTweets
+                          small.text-danger= "★ "
+                        | #{author.ownTweets} cвоих твитов
                       = ", "
-                      span.text-info #{author.retweets} ретвитов
+                      span.text-info
+                        if author.maxRetweets
+                          small.text-danger= "★ "
+                        | #{author.retweets} ретвитов
                       = ", "
-                      span.text-success #{author.replies} ответов
+                      span.text-success
+                        if author.maxReplies
+                          small.text-danger= "★ "
+                        | #{author.replies} ответов
                   td
                     .progress(style="margin-bottom: 0; min-width: 50px")
-                      .progress-bar(class=indexClass style="width: #{author.retweetedKpi*100}%")
+                      .progress-bar(class=indexClass style="text-align: left !important; width: #{author.retweetedKpi*100}%")
+                        if author.maxRetweetedKpi
+                          small= "  ★"
                     nobr.hidden-xs.hidden-sm
                       = author.retweetedKpi
                       small.text-muted  / #{author.retweeted}
                   td
                     .progress(style="margin-bottom: 0; min-width: 50px")
-                      .progress-bar(class=indexClass style="width: #{author.favoritedKpi*100}%")
+                      .progress-bar(class=indexClass style="text-align: left !important; width: #{author.favoritedKpi*100}%")
+                        if author.maxFavoritedKpi
+                          small= "  ★"
                     nobr.hidden-xs.hidden-sm
                       = author.favoritedKpi
                       small.text-muted  / #{author.favorited}
