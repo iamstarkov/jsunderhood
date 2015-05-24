@@ -1,4 +1,4 @@
-# @shuvalov_anton
+# shuvalov_anton
 
 _03 Feb 2015_
 

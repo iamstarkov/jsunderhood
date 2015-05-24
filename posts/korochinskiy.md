@@ -1,4 +1,4 @@
-# @korochinskiy
+# korochinskiy
 
 _16 Mar 2015_
 

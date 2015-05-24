@@ -1,4 +1,4 @@
-# @lomakin
+# lomakin
 
 _13 Apr 2015_
 

@@ -1,4 +1,4 @@
-# @pukhalski
+# pukhalski
 
 _20 Apr 2015_
 

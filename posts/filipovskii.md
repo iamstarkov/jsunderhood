@@ -1,4 +1,4 @@
-# @filipovskii
+# filipovskii
 
 _09 Feb 2015_
 

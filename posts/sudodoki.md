@@ -1,4 +1,4 @@
-# @sudodoki
+# sudodoki
 
 _28 Apr 2015_
 

@@ -1,4 +1,4 @@
-# @veged
+# veged
 
 _23 Mar 2015_
 

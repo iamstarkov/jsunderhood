@@ -1,4 +1,4 @@
-# @awinogradov
+# awinogradov
 
 _30 Mar 2015_
 

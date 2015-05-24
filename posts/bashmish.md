@@ -1,4 +1,4 @@
-# @bashmish
+# bashmish
 
 _11 May 2015_
 

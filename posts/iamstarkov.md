@@ -1,4 +1,4 @@
-# @iamstarkov
+# iamstarkov
 
 _23 Feb 2015_
 
