@@ -19,10 +19,11 @@ block content
         .col-md-12
           include menu
           .page-header
-            h1 jsunderhood
-              small  / Статистика
-            p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
-      .row
+            h1
+              a(href="/") jsunderhood
+              small= " / Статистика"
+            p.hidden-xs Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+      .row.hidden-xs
         .col-md-12
             = "Поделитесь c "
             a(href="https://twitter.com/intent/tweet?url=http://jsunderhood.ru/#{url}&text=#{title}&via=jsunderhood") фолловерами в Twitter
