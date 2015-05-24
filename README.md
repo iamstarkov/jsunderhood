@@ -114,5 +114,5 @@ _23 may 2015_
 письмо [Антону][coc-violations].
 
 [jsh]: https://twitter.com/jsunderhood
-[proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@jsunderhood
-[coc-violations]: mailto:iamstarkov@gmail.com?subject=CoC%20violations%20in%20@jsunderhood
+[proposal]: mailto:anton@shuvalov.info.com?subject=Author’s%20proposal%20for%20@jsunderhood
+[coc-violations]: mailto:anton@shuvalov.info.com?subject=CoC%20violations%20in%20@jsunderhood
