@@ -51,6 +51,7 @@ var articleHarvesting = function() {
       title: title,
       image: article.image,
       desc: article.descHtml,
+      descText: article.descText,
       date: article.date,
       content: article.content,
       rss: {

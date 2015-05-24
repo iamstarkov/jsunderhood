@@ -31,6 +31,7 @@ module.exports = function(content) {
     title: md.text(md.match(content, md.isHeader)),
     image: (md.match(content, isImage) || { destination: null }).destination,
     desc: md.text(md.match(content, isDesc())),
+    descText: md.text(md.match(content, isDesc())),
     descHtml: md.html(md.match(content, isDesc())),
     descRSS: (md.html(md.match(content, isDesc())) + md.html(md.match(content, isImage) || '')),
     date: md.text(md.match(content, isDate)),
