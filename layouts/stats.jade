@@ -25,12 +25,7 @@ block content
             p.hidden-xs Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
       .row.hidden-xs
         .col-md-12
-            = "Поделитесь c "
-            a(href="https://twitter.com/intent/tweet?url=http://jsunderhood.ru/#{url}&text=#{title}&via=jsunderhood") фолловерами в Twitter
-            = " и друзьями в "
-            a(href="https://www.facebook.com/sharer.php?u=http://jsunderhood.ru/#{url}&t=#{title}") Facebook
-            = " или "
-            a(href="http://vk.com/share.php?url=http://2be7331a.ngrok.com/#{url}&title=#{title}") ВКонтакте
+          include share-text
   style
     | th { cursor: pointer; }
     | th.no-sort { cursor: default; }
