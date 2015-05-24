@@ -1,26 +1,12 @@
 .container
-  footer.text-center.row
+  .row.footer.text-center
     .col-md-12
       hr
       p
         a(href="https://twitter.com/iamstarkov") @iamstarkov
-        = " c любовью разработал. "
+        = " c любовью разработал"
+        br
         a(href="https://twitter.com/shuvalov_anton") @shuvalov_anton
         = " бережно курирует авторов"
-      p
-        nav
-          a(href="/") Список авторов
-          = " • "
-          a(href="/about/") О проекте
-          = " • "
-          a(href="/stats/") Статистика
-          = " • "
-          a(href="/rss.xml") RSS
-
-      p
-        nav
-          a(href="https://github.com/iamstarkov/jsunderhood") Гитхаб
-          = " • "
-          a(href="https://twitter.com/jsunderhood") Подписаться в твиттере
+      include menu
       br
-      
