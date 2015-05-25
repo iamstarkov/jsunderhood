@@ -63,7 +63,8 @@
       "retweetedKpi": "0.26",
       "favorited": 111,
       "favoritedKpi": "0.87",
-      "gainedFollowers": 2
+      "gainedFollowers": 2,
+      "maxOwnTweetsPercentage": true
     },
     {
       "username": "toivonens",
@@ -195,8 +196,8 @@
       "repliesPercentage": 25,
       "retweeted": 112,
       "retweetedKpi": "0.98",
-      "favorited": 232,
-      "favoritedKpi": "2.04",
+      "favorited": 231,
+      "favoritedKpi": "2.03",
       "gainedFollowers": 53
     },
     {
@@ -225,10 +226,10 @@
       "retweetsPercentage": 41.935483870967744,
       "replies": 155,
       "repliesPercentage": 27.77777777777778,
-      "retweeted": 137,
-      "retweetedKpi": "0.81",
-      "favorited": 282,
-      "favoritedKpi": "1.67",
+      "retweeted": 141,
+      "retweetedKpi": "0.83",
+      "favorited": 289,
+      "favoritedKpi": "1.71",
       "gainedFollowers": 12,
       "maxTweets": true,
       "maxRetweets": true
@@ -236,19 +237,18 @@
     {
       "username": "listochkin",
       "index": 15,
-      "tweets": 1,
-      "ownTweets": 1,
-      "ownTweetsPercentage": 100,
-      "retweets": 0,
-      "retweetsPercentage": 0,
-      "replies": 0,
-      "repliesPercentage": 0,
-      "retweeted": 1,
-      "retweetedKpi": "1.00",
-      "favorited": 0,
-      "favoritedKpi": "0.00",
-      "gainedFollowers": 0,
-      "maxOwnTweetsPercentage": true
+      "tweets": 63,
+      "ownTweets": 17,
+      "ownTweetsPercentage": 26.984126984126984,
+      "retweets": 21,
+      "retweetsPercentage": 33.333333333333336,
+      "replies": 25,
+      "repliesPercentage": 39.682539682539684,
+      "retweeted": 15,
+      "retweetedKpi": "0.88",
+      "favorited": 20,
+      "favoritedKpi": "1.18",
+      "gainedFollowers": 0
     }
   ]
 }
