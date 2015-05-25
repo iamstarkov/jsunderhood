@@ -15,7 +15,7 @@ export default [
    * @filipovskii, 09 Feb 2015
    * @shuvalov_anton, 03 Feb 2015
    */
-  { username: 'subzey',         start: '18 May 2015', first: '600095365254270976', post: false },
+  { username: 'subzey',         start: '18 May 2015', first: '600095365254270976' },
   { username: 'bashmish',       start: '11 May 2015', first: '597653605315977216' },
   { username: 'sudodoki',       start: '27 Apr 2015', first: '592841474334658560' },
   { username: 'pukhalski',      start: '20 Apr 2015', first: '590058545422409728' },
