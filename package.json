@@ -7,8 +7,10 @@
     "dump": "babel-node dump",
     "posts": "babel-node posts",
     "stats": "babel-node stats",
-    "final-stats": "babel-node final-stats",
     "followers": "babel-node followers",
+    "final-stats": "babel-node final-stats",
+    "f5": "npm run dump && npm run stats && npm run followers && npm run final-stats",
+    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
