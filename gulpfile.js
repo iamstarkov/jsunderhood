@@ -67,7 +67,6 @@ var articleHarvesting = function() {
 gulp.task('articles-registry', function() {
   articles = [];
   return gulp.src(['./posts/*.md'])
-    .pipe(debug())
     .pipe(replace('https://jsunderhood.ru', 'http://localhost:4000'))
     .pipe(articleHarvesting());
 });
