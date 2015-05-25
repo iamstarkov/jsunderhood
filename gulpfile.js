@@ -126,8 +126,6 @@ gulp.task('about-page', function() {
   var readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
   var article = articleData(readme);
 
-  console.log(article)
-
   return gulp.src('layouts/article.jade')
     .pipe(jade({
       pretty: true,

@@ -3,7 +3,6 @@ import moment from 'moment';
 import authorsRaw from './authors';
 import { date as rawDump } from './followers-stats-raw.json';
 
-const log = console.log.bind(console);
 const f = (input)=> new Date(input).getTime();
 
 const first = (arr)=> arr[0];

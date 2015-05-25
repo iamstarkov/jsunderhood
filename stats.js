@@ -1,6 +1,5 @@
 import fs from 'fs-extra';
 import authors from './authors';
-const debug = true;
 
 /*
 	есть свои твиты
@@ -47,19 +46,6 @@ const analyze = (author)=> {
 
   const retweetedKpi = (retweeted / ownTweets).toFixed(2);
 	const favoritedKpi = (favorited / ownTweets).toFixed(2);
-
-	if (debug && username === 'iamstarkov') {
-		_tweets.forEach((tweet)=> {
-      if (isOwn(tweet) && isReply(tweet)) {
-
-  			console.log(`${tweet.text}
-          isOwn: ${isOwn(tweet)}
-          isReply: ${isReply(tweet)}, to: ${tweet.in_reply_to_screen_name}
-          isRetweet: ${isRetweet(tweet)}
-          `);
-      }
-		});
-	}
 
 	fs.outputJson(`dump/${author.username}-stats.json`, {
 		username, tweets,

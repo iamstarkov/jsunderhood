@@ -11,11 +11,9 @@ const tokens = {
 
 const dump = (authors, tweets)=> {
   // separate tweets
-  console.log(`tweets.length: ${tweets.length}`);
   authors.forEach((author)=> {
     const number = tweets.findIndex(item=> item.id_str === author.first) + 1;
     author.tweets = tweets.splice(0, number);
-    console.log(`author.tweets.length: ${author.tweets.length}`);
     return author;
   });
 

@@ -8,7 +8,6 @@ import gainedFollowers from './followers-stats.json'
 const first = (arr)=> arr[0];
 const last = (arr)=> arr[arr.length - 1];
 const sortBy = (field)=> (a, b)=> a[field] - b[field];
-const log = console.log.bind(console);
 
 
 
