@@ -186,7 +186,7 @@ gulp.task('cname', function() {
 });
 
 gulp.task('gh', ['build-prod'], function(done) {
-  buildbranch({ branch: 'master', folder: 'dist' }, done);
+  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done);
 });
 
 gulp.task('express', function() {
