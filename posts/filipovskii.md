@@ -2,7 +2,7 @@
 
 _09 Feb 2015_
 
-## Monday <small>5</small>
+## Monday <small>5 твитов</small>
 
 Эту неделю буду вести аккаунт я, @filipovskii. Full-stack кодер, организатор @moscowjs, со-ведущий @RadioJSPodcast, сёрфер-любитель. Привет! [0][564697062378594304]
 
@@ -20,7 +20,7 @@ RT @moscowjs: Мы выложили видео докладов с MoscowJS 18. 
 [564740408945938433]: https://twitter.com/jsunderhood/status/564740408945938433
 [564788407738847232]: https://twitter.com/jsunderhood/status/564788407738847232
 
-## Wednesday <small>2</small>
+## Wednesday <small>2 твитов</small>
 
 http://t.co/WyH8k6Zg4n — набор юного html5 мобильного разработчика. В комплекте #React, #npm, #WebPack, #ES2015 [0][565454113597816832]
 
@@ -29,7 +29,7 @@ RT @iojs_ru: Вышел io.js 1.2.0. Ссылки для скачивания п
 [565454113597816832]: https://twitter.com/jsunderhood/status/565454113597816832
 [565468169033506816]: https://twitter.com/jsunderhood/status/565468169033506816
 
-## Thursday <small>2</small>
+## Thursday <small>2 твитов</small>
 
 Отличная статья про Soundscript — строгий быстрый Javascript от Google http://t.co/mp2V5b6wqA [0][565782351729672192]
 
@@ -38,13 +38,13 @@ RT @iojs_ru: Вышел io.js 1.2.0. Ссылки для скачивания п
 [565782351729672192]: https://twitter.com/jsunderhood/status/565782351729672192
 [565982117197524992]: https://twitter.com/jsunderhood/status/565982117197524992
 
-## Friday <small>1</small>
+## Friday <small>1 твитов</small>
 
 RT @moscowjs: 14-15 мая пройдёт #JSConf.Budapest! Там будет так же круто, как на конференции в Берлине, но не так дорого http://t.co/FrYuDGNljh [0][566168229090197504]
 
 [566168229090197504]: https://twitter.com/jsunderhood/status/566168229090197504
 
-## Saturday <small>1</small>
+## Saturday <small>1 твитов</small>
 
 Очень занимательное чтиво на тему потоки vs события http://t.co/c0UPQEHPn7 [0][566640827594997760]
 

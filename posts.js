@@ -41,7 +41,7 @@ const post = (author, post=true)=> {
     `_${ d(author.tweets[0].created_at) }_`,
     author.tweets.reduce(separateByWeekdays, []).map((weekday)=> {
       return [
-        `## ${weekday.weekday} <small>${weekday.tweets.length}</small>`,
+        `## ${weekday.weekday} <small>${weekday.tweets.length} твитов</small>`,
         weekday.tweets.map(formatTweet).join('\n\n'),
         weekday.tweets.map(formatRef).join('\n')
       ].join('\n\n');
