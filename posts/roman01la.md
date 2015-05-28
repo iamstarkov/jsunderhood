@@ -209,7 +209,7 @@ RT @voischev: @veged @jsunderhood http://t.co/VKASbi6cOl [63][572486471892013057
 [572488456435318784]: https://twitter.com/jsunderhood/status/572488456435318784
 [572488467793494017]: https://twitter.com/jsunderhood/status/572488467793494017
 
-## Tuesday <small>21 твитов</small>
+## Tuesday <small>21 твит</small>
 
 Еще немного о ФП [0][572690809042157569]
 
@@ -275,7 +275,7 @@ js-csp https://t.co/SUXRo9Duqb [17][572839098223878145]
 [572850782304915456]: https://twitter.com/jsunderhood/status/572850782304915456
 [572852129691410432]: https://twitter.com/jsunderhood/status/572852129691410432
 
-## Wednesday <small>23 твитов</small>
+## Wednesday <small>23 твита</small>
 
 На http://t.co/I4PzXF2Fzy можно почитать об интересных штуках которые не стали частью ES6 и о возможных изменениях в JS в далеком будущем. [0][573086845296230400]
 

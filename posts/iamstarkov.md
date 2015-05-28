@@ -86,7 +86,7 @@ RT @csswizardry: @jsunderhood Рад был помочь! [26][56997849464352358
 [569874093568331776]: https://twitter.com/jsunderhood/status/569874093568331776
 [569978494643523584]: https://twitter.com/jsunderhood/status/569978494643523584
 
-## Tuesday <small>81 твитов</small>
+## Tuesday <small>81 твит</small>
 
 Сегодня я хочу поговорить с вами контроле и после об отношениях [0][570174282053120000]
 
@@ -336,7 +336,7 @@ RT @korochinskiy: @jsunderhood мне нравится, хоть я и не ре
 [570304163424423937]: https://twitter.com/jsunderhood/status/570304163424423937
 [570317425528451073]: https://twitter.com/jsunderhood/status/570317425528451073
 
-## Wednesday <small>43 твитов</small>
+## Wednesday <small>43 твита</small>
 
 Как вы относитесь к опенсорсу? [0][570618369931665408]
 
@@ -625,7 +625,7 @@ RT @neonick: @jsunderhood два года подряд ездим на Kubana-ф
 [571054152417214464]: https://twitter.com/jsunderhood/status/571054152417214464
 [571069971519946752]: https://twitter.com/jsunderhood/status/571069971519946752
 
-## Friday <small>94 твитов</small>
+## Friday <small>94 твита</small>
 
 Экспаты захватили оба коллективных твиттера. @iamspacegray ведёт эфир из Польши [0][571251225397751808]
 
@@ -930,7 +930,7 @@ RT @voxpuibr: @jsunderhood вот хорошая статья на тему http
 [571782238372827136]: https://twitter.com/jsunderhood/status/571782238372827136
 [571782266684346368]: https://twitter.com/jsunderhood/status/571782266684346368
 
-## Monday <small>3 твитов</small>
+## Monday <small>3 твита</small>
 
 Сегодня ночной эфир! [0][572179413577670656]
 

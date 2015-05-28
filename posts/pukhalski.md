@@ -2,7 +2,7 @@
 
 _20 Apr 2015_
 
-## Monday <small>42 твитов</small>
+## Monday <small>42 твита</small>
 
 Доброе утро всем в этом чатике! Целую неделю вам предстоит терпеть меня, @pukhalski, в эфире @jsunderhood. Поехали! [0][590058545422409728]
 
@@ -145,7 +145,7 @@ RT @toivonens: @dshster @jsunderhood @Rukomoynikov Я никогда не вер
 [590189411033358337]: https://twitter.com/jsunderhood/status/590189411033358337
 [590213996239806464]: https://twitter.com/jsunderhood/status/590213996239806464
 
-## Tuesday <small>32 твитов</small>
+## Tuesday <small>32 твита</small>
 
 Как думаете, насколько большой является проблема "бесконечного" маркетингового бюджета для опен-сорс решений, скажем, у Google или Facebook? [0][590418840670048257]
 
@@ -397,7 +397,7 @@ RT @dosyara: @jsunderhood как научить людей этому? [27][5913
 [591354875247747072]: https://twitter.com/jsunderhood/status/591354875247747072
 [591355028402790401]: https://twitter.com/jsunderhood/status/591355028402790401
 
-## Friday <small>1 твитов</small>
+## Friday <small>1 твит</small>
 
 RT @torinaki: @jsunderhood QnA about #V8 #performance (in Russian)  http://t.co/gVykwujNGG #JS [0][591650051165986818]
 

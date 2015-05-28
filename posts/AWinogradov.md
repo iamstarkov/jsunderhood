@@ -173,7 +173,7 @@ RT @_sashashakun: @jsunderhood если переходить на каждую �
 [582653184704942081]: https://twitter.com/jsunderhood/status/582653184704942081
 [582659482947358722]: https://twitter.com/jsunderhood/status/582659482947358722
 
-## Tuesday <small>33 твитов</small>
+## Tuesday <small>33 твита</small>
 
 .@totaku интерфейсные решения как на дрибле или бехансе [0][582779737489149952]
 
@@ -355,13 +355,13 @@ RT @rsboarder: @jsunderhood http://t.co/Pn4mGpmQo6 http://t.co/iVYyuRpuaT http:/
 [583997972712652800]: https://twitter.com/jsunderhood/status/583997972712652800
 [583998361923166208]: https://twitter.com/jsunderhood/status/583998361923166208
 
-## Saturday <small>1 твитов</small>
+## Saturday <small>1 твит</small>
 
 RT @tproger: http://t.co/34mtapQwFR [0][584387774318563330]
 
 [584387774318563330]: https://twitter.com/jsunderhood/status/584387774318563330
 
-## Sunday <small>2 твитов</small>
+## Sunday <small>2 твита</small>
 
 Последний на посту! Чего рассказать вам?:) [0][584731572051521536]
 

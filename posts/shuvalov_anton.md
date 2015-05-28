@@ -20,7 +20,7 @@ Replace CoffeeScript with ES6 http://t.co/ELB3FSt6Qx [4][562579794999922689]
 [562571645869912064]: https://twitter.com/jsunderhood/status/562571645869912064
 [562579794999922689]: https://twitter.com/jsunderhood/status/562579794999922689
 
-## Wednesday <small>1 твитов</small>
+## Wednesday <small>1 твит</small>
 
 Arrow-функции очень крутые! http://t.co/U1ODB6vaN3 [0][562972738303037442]
 
@@ -48,7 +48,7 @@ RT @iamstarkov: @jsunderhood joyent если я ничего не путаю з�
 [563326489488551937]: https://twitter.com/jsunderhood/status/563326489488551937
 [563327023012413440]: https://twitter.com/jsunderhood/status/563327023012413440
 
-## Saturday <small>1 твитов</small>
+## Saturday <small>1 твит</small>
 
 Big Web App? Compile it! http://t.co/vuLsUgPI4U [0][564027469179944962]
 

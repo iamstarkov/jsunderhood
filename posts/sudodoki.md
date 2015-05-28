@@ -2,7 +2,7 @@
 
 _28 Apr 2015_
 
-## Tuesday <small>32 твитов</small>
+## Tuesday <small>32 твита</small>
 
 На этой неделе управление этим аккаунтом доверили мне, @sudodoki - Джон, просто Джон, ex-Ebay, SoftDev+ в RailsReactor, проездом в Бостоне. [0][592841474334658560]
 
@@ -303,7 +303,7 @@ RT @fxposter: @jsunderhood так можно же почти такой же п�
 [593478139851972609]: https://twitter.com/jsunderhood/status/593478139851972609
 [593490825440530432]: https://twitter.com/jsunderhood/status/593490825440530432
 
-## Thursday <small>32 твитов</small>
+## Thursday <small>32 твита</small>
 
 Нужно будет попробовать следующую секцию лайв-кодинга в http://t.co/WLv8vg04tb [0][593536404820373505]
 
@@ -405,7 +405,7 @@ https://t.co/MA53ZqIBn9 - Eval-Rinse-Reload-And-Repeat to make sure your javascr
 [593849436754808832]: https://twitter.com/jsunderhood/status/593849436754808832
 [593867377546285059]: https://twitter.com/jsunderhood/status/593867377546285059
 
-## Friday <small>33 твитов</small>
+## Friday <small>33 твита</small>
 
 Сегодня 20 лет JS 🎉 https://t.co/QM9VKC4mBN [0][594148598780186626]
 
@@ -689,7 +689,7 @@ RT @levwalkin: @lambdadmitry @jsunderhood @nikitonsky Пока Никита от
 [594961517319172096]: https://twitter.com/jsunderhood/status/594961517319172096
 [594962762624856064]: https://twitter.com/jsunderhood/status/594962762624856064
 
-## Monday <small>1 твитов</small>
+## Monday <small>1 твит</small>
 
 @jsunderhood на каникулах до следующей недели! Не скучайте :D [0][595186826341720065]
 
