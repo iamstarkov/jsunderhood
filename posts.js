@@ -2,6 +2,7 @@ import fs from 'fs-extra';
 import authors from './authors';
 import moment from 'moment';
 import d from './date-format';
+import numd from 'numd';
 
 const filterTimeline = (item)=> {
   return (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
@@ -29,6 +30,7 @@ const separateByWeekdays = (state, item, i, arr)=> {
   return state;
 };
 
+const tweetsUnit = numd('твит', 'твита', 'твитов');
 
 const post = (author, post=true)=> {
   if (!post) { return; }
@@ -41,7 +43,7 @@ const post = (author, post=true)=> {
     `_${ d(author.tweets[0].created_at) }_`,
     author.tweets.reduce(separateByWeekdays, []).map((weekday)=> {
       return [
-        `## ${weekday.weekday} <small>${weekday.tweets.length} твитов</small>`,
+        `## ${weekday.weekday} <small>${tweetsUnit(weekday.tweets.length)}</small>`,
         weekday.tweets.map(formatTweet).join('\n\n'),
         weekday.tweets.map(formatRef).join('\n')
       ].join('\n\n');

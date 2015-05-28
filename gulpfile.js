@@ -19,6 +19,7 @@ var assign = require('object-assign');
 var sequence = require('run-sequence');
 var each = require('each-done');
 var path = require('path');
+var numd = require('numd');
 
 var finalStats = fs.readJsonSync('./final-stats.json').stats;
 
@@ -114,6 +115,9 @@ gulp.task('stats-page', function() {
         desc: site.description,
         site: site,
         stats: stats,
+        ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
+        retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
+        repliesUnit: numd('ответ', 'ответа', 'ответов')
       }
     }))
     .pipe(rename({ dirname: 'stats' }))
