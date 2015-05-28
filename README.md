@@ -113,4 +113,4 @@
 
 [jsh]: https://twitter.com/jsunderhood
 [proposal]: mailto:anton@shuvalov.info?subject=Author’s%20proposal%20for%20@jsunderhood
-[coc-violations]: mailto:anton@shuvalov.info.com?subject=CoC%20violations%20in%20@jsunderhood
+[coc-violations]: mailto:anton@shuvalov.info?subject=CoC%20violations%20in%20@jsunderhood
