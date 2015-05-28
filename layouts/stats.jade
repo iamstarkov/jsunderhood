@@ -84,7 +84,7 @@ block content
                       span.hidden-xs.hidden-sm(style="display: inline-block; width: 2em").text-right= author.index + "  "
                       if (index === 0)
                         a(href='https://twitter.com/jsunderhood') @#{author.username}…
-                      else 
+                      else
                         a(href='/' + author.username) @#{author.username}
                   td.text-right(data-sort="#{author.gainedFollowers}")
                     nobr
@@ -116,17 +116,17 @@ block content
                       span.text-primary
                         if author.maxOwnTweets
                           small.text-danger= "★ "
-                        | #{author.ownTweets} cвоих твитов
+                        = ownTweetsUnit(author.ownTweets)
                       = ", "
                       span.text-info
                         if author.maxRetweets
                           small.text-danger= "★ "
-                        | #{author.retweets} ретвитов
+                        = retweetsUnit(author.retweets)
                       = ", "
                       span.text-success
                         if author.maxReplies
                           small.text-danger= "★ "
-                        | #{author.replies} ответов
+                        = repliesUnit(author.replies)
                   td(data-sort="#{author.retweetedKpi}")
                     .progress(style="margin-bottom: 0; min-width: 50px")
                       .progress-bar(class=indexClass style="text-align: left !important; width: #{author.retweetedKpi*100}%")
