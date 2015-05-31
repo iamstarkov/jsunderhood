@@ -38,7 +38,7 @@ const authors = authorsRaw
   .filter(author => author.username !== 'listochkin')
   .map((author, i, arr)=> {
     author.gainedSign = (author.gainedCount > 0) ? '+' : '';
-    author.followers_count = arr.startCount + author.gainedCount;
+    author.followers_count = author.startCount + author.gainedCount;
     return author;
   });
 
