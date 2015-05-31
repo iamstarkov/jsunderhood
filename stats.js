@@ -2,18 +2,18 @@ import fs from 'fs-extra';
 import authors from './authors';
 
 /*
-	есть свои твиты
-		прямо свои
-		реплаи себе
-	есть реплаи другим
-	есть ретвиты
+  есть свои твиты
+    прямо свои
+    реплаи себе
+  есть реплаи другим
+  есть ретвиты
 
-	Попадающие в таймлайн:
-		свои
+  Попадающие в таймлайн:
+    свои
 
-	В которых надо учитывать фавы и рт’ы
-	В которых не надо учитывать
-		в ретвитах
+  В которых надо учитывать фавы и рт’ы
+  В которых не надо учитывать
+    в ретвитах
 */
 
 
@@ -26,9 +26,9 @@ const sumRetweeted = (state, tweet)=> state + tweet.retweet_count;
 const sumFavorited = (state, tweet)=> state + tweet.favorite_count;
 
 const analyze = (author)=> {
-	var rt = 0, fav = 0;
-	const username = author.username;
-	const _tweets = author.tweets;
+  var rt = 0, fav = 0;
+  const username = author.username;
+  const _tweets = author.tweets;
 
   const tweets = _tweets.length;
   const _ownTweets = _tweets.filter(isOwn);
@@ -38,23 +38,23 @@ const analyze = (author)=> {
   const ownTweetsPercentage = ownTweets / percent;
   const retweets = _tweets.filter(isRetweet).length;
   const retweetsPercentage = retweets / percent;
-	const replies = _tweets.filter(isReply).length;
-	const repliesPercentage = replies / percent;
+  const replies = _tweets.filter(isReply).length;
+  const repliesPercentage = replies / percent;
 
   const retweeted = _ownTweets.reduce(sumRetweeted, 0);
-	const favorited = _ownTweets.reduce(sumFavorited, 0);
+  const favorited = _ownTweets.reduce(sumFavorited, 0);
 
   const retweetedKpi = Number((retweeted / ownTweets).toFixed(2));
-	const favoritedKpi = Number((favorited / ownTweets).toFixed(2));
+  const favoritedKpi = Number((favorited / ownTweets).toFixed(2));
 
-	fs.outputJson(`dump/${author.username}-stats.json`, {
-		username, tweets,
+  fs.outputJson(`dump/${author.username}-stats.json`, {
+    username, tweets,
     ownTweets, ownTweetsPercentage,
     retweets, retweetsPercentage,
     replies, repliesPercentage,
     retweeted, retweetedKpi,
     favorited, favoritedKpi
-	}, (err)=> console.log(`${author.username} done`));
+  }, (err)=> console.log(`${author.username} done`));
 }
 
 authors.forEach((item)=> {
