@@ -45,5 +45,5 @@ const authors = authorsRaw
 
 authors.forEach(author => {
   const followers_count = author.followers_count;
-  fs.outputJson(`./${author.username}-info.json`, { followers_count }, (err)=> console.log(`${author.username} done`))
+  fs.outputJson(`./dump/${author.username}-info.json`, { followers_count }, (err)=> console.log(`${author.username} done`))
 })
