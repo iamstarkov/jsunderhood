@@ -44,8 +44,8 @@ const analyze = (author)=> {
   const retweeted = _ownTweets.reduce(sumRetweeted, 0);
 	const favorited = _ownTweets.reduce(sumFavorited, 0);
 
-  const retweetedKpi = (retweeted / ownTweets).toFixed(2);
-	const favoritedKpi = (favorited / ownTweets).toFixed(2);
+  const retweetedKpi = Number((retweeted / ownTweets).toFixed(2));
+	const favoritedKpi = Number((favorited / ownTweets).toFixed(2));
 
 	fs.outputJson(`dump/${author.username}-stats.json`, {
 		username, tweets,
