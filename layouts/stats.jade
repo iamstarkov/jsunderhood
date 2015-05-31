@@ -39,18 +39,34 @@ block content
   style.
     .host-stats {
       width: 100%;
-      font-size: 16px;
+      font-size: 15px;
     }
 
     .host-stats__head {
       width: 100%;
       font-size: 18px;
-      font-weight: 700;
+      border-bottom: 1px solid rgb(140,140,140);
+    }
+
+    .host-stats__row:hover {
+      background-color: rgba(240,173,78,.1);
+    }
+
+    .host-stats__row_head:hover {
+      background-color: transparent;
     }
 
     .host-stats__col {
-      padding: 14px 10px;
-      vertical-align: top;
+      padding: 10px;
+      vertical-align: middle;
+    }
+
+    .host-stats__col_center {
+      text-align: center;
+    }
+
+    .host-stats__col_right {
+      text-align: right;
     }
 
     .host-stats__col_kpi {
@@ -58,64 +74,46 @@ block content
     }
 
     .tweet-graph {
-      margin-top: 8px;
-      margin-bottom: 8px;
       display: table;
     }
 
     .tweet-graph__bar {
-      padding: 5px;
+      padding-left: .5em;
+      padding-right: .5em;
       display: table-cell;
-      color: white;
-      font-size: 12px;
+      font-size: 13px;
       font-weight: 700;
-    }
-
-    .tweet-graph__bar:first-child {
-      border-top-left-radius: 2px;
-      border-bottom-left-radius: 2px;
-    }
-
-    .tweet-graph__bar:last-child {
-      border-top-right-radius: 2px;
-      border-bottom-right-radius: 2px;
+      letter-spacing: .025em;
+      line-height: 1.5;
+      text-align: center;
+      overflow: hidden;
     }
 
     .tweet-stats {
       position: relative;
-      margin-right: 1em;
+      margin-right: .3em;
       padding-left: .3em;
       padding-right: .3em;
       display: inline-block;
       font-size: 14px;
-      border-bottom: 2px solid currentColor;
-    }
-
-    .tweet-stats:not(:last-child)::after {
-      position: absolute;
-      left: 100%;
-      padding-left: .3em;
-      color: rgb(140,140,140);
-      content: '+';
-    }
-
-    .tweet-stats:first-child::after {
-      content: '=';
+      font-weight: 700;
+      letter-spacing: .05em;
+      text-transform: uppercase;
     }
 
     .tweet-stats_own {
       color: rgb(51,122,183);
-      background-color: rgba(51,122,183,.05);
+      background-color: rgba(51,122,183,.1);
     }
 
     .tweet-stats_retweets {
       color: rgb(91,192,222);
-      background-color: rgba(91,192,222,.05);
+      background-color: rgba(91,192,222,.1);
     }
 
     .tweet-stats_replies {
       color: rgb(92,184,92);
-      background-color: rgba(92,184,92,.05);
+      background-color: rgba(92,184,92,.1);
     }
 
     .tweet-stats_total {
@@ -134,19 +132,40 @@ block content
       font-size: 1em;
     }
 
-    /*.tweet-stats_own .tweet-stats__counter,*/
     .tweet-graph__bar_own {
-      background-color: rgb(51,122,183);
+      color: rgb(51,122,183);
+      background-color: rgba(51,122,183,.1);
+      border-right: 1px solid rgba(51,122,183,.5);
     }
 
-    /*.tweet-stats_retweets .tweet-stats__counter,*/
     .tweet-graph__bar_retweets {
-      background-color: rgb(91,192,222);
+      color: rgb(91,192,222);
+      background-color: rgba(91,192,222,.1);
+      border-right: 1px solid rgba(91,192,222,.5);
     }
 
-    /*.tweet-stats_replies .tweet-stats__counter,*/
     .tweet-graph__bar_replies {
-      background-color: rgb(92,184,92);
+      color: rgb(92,184,92);
+      background-color: rgba(92,184,92,.1);
+    }
+
+    .best {
+      position: relative;
+    }
+
+    .best::after {
+      position: absolute;
+      bottom: 100%;
+      left: 100%;
+      margin-bottom: -.85em;
+      margin-right: -.5em;
+      font-size: .75em;
+      content: '★';
+    }
+
+    .best_middle::after {
+      bottom: 50%;
+      margin-bottom: -.85em;
     }
 
   .container
@@ -154,52 +173,71 @@ block content
       .col-md-12
         table.host-stats
           thead.host-stats__head
-            tr.host-stats__row
+            tr.host-stats__row.host-stats__row_head
               td.host-stats__col
               td.host-stats__col
-              td.host-stats__col Читатели
-              td.host-stats__col Твиты
+              td.host-stats__col.host-stats__col_right Читатели
+              td.host-stats__col.host-stats__col_right Твиты
+              td.host-stats__col.host-stats__col_center
+                .tweet-stats.tweet-stats_own
+                  span.tweet-stats__label написал
+                .tweet-stats.tweet-stats_retweets
+                  span.tweet-stats__label ретвитнул
+                .tweet-stats.tweet-stats_replies
+                  span.tweet-stats__label ответил
               td.host-stats__col Ретвиты
               td.host-stats__col Избранное
           each author, index in stats
             tr.host-stats__row
-              td.host-stats__col= author.index
+              td.host-stats__col.host-stats__col_right= author.index
               td.host-stats__col
                 a(href='/' + author.username) @#{author.username}
               if author.gainedFollowers > 0
-                td.host-stats__col.text-success
-                  = '+' + Math.abs(author.gainedFollowers)
-              else
-                td.host-stats__col.text-danger
+                td.host-stats__col.host-stats__col_right.text-success
+                  span(
+                    class={best: author.maxGainedFollowers}
+                  )= '+' + Math.abs(author.gainedFollowers)
+              else if author.gainedFollowers < 0
+                td.host-stats__col.host-stats__col_right.text-danger
                   = '−' + Math.abs(author.gainedFollowers)
+              else
+                td.host-stats__col.host-stats__col_right.text-muted
+                  = Math.abs(author.gainedFollowers)
+
+              td.host-stats__col.host-stats__col_right
+                span(
+                  class={best: author.maxTweets}
+                )= author.tweets
 
               td.host-stats__col
-                div
-                  .tweet-stats.tweet-stats_total
-                    span.tweet-stats__counter= author.tweets
-                  .tweet-stats.tweet-stats_own
-                    span.tweet-stats__counter= author.ownTweets
-                    = ' '
-                    span.tweet-stats__label своих
-                  .tweet-stats.tweet-stats_retweets
-                    span.tweet-stats__counter= author.retweets
-                    = ' '
-                    span.tweet-stats__label ретвит
-                  .tweet-stats.tweet-stats_replies
-                    span.tweet-stats__counter= author.replies
-                    = ' '
-                    span.tweet-stats__label ответов
-                div
-                  .tweet-graph(style='width: 100%;')
-                    .tweet-graph__bar.tweet-graph__bar_own(
-                      style='width: #{author.ownTweetsPercentage}%;'
-                    )
-                    .tweet-graph__bar.tweet-graph__bar_retweets(
-                      style='width: #{author.retweetsPercentage}%;'
-                    )
-                    .tweet-graph__bar.tweet-graph__bar_replies(
-                      style='width: #{author.repliesPercentage}%;'
-                    )
+                .tweet-graph(style='width: 100%;')
+                  .tweet-graph__bar.tweet-graph__bar_own(
+                    style='width: #{author.ownTweetsPercentage}%;'
+                  )
+                    span(
+                      class={
+                        best: author.maxOwnTweets,
+                        best_middle: author.maxOwnTweets
+                      }
+                    )= author.ownTweets
+                  .tweet-graph__bar.tweet-graph__bar_retweets(
+                    style='width: #{author.retweetsPercentage}%;'
+                  )
+                    span(
+                      class={
+                        best: author.maxRetweets,
+                        best_middle: author.maxRetweets
+                      }
+                    )= author.retweets
+                  .tweet-graph__bar.tweet-graph__bar_replies(
+                    style='width: #{author.repliesPercentage}%;'
+                  )
+                    span(
+                      class={
+                        best: author.maxReplies,
+                        best_middle: author.maxReplies
+                      }
+                    )= author.replies
               td.host-stats__col.host-stats__col_kpi 0.83 / 15
               td.host-stats__col.host-stats__col_kpi 1.11 / 20
 
