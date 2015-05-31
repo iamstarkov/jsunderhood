@@ -9,7 +9,9 @@
     "stats": "babel-node stats",
     "followers": "babel-node followers",
     "final-stats": "babel-node final-stats",
-    "f5": "npm run dump && npm run stats && npm run followers && npm run final-stats",
+    "f5-old": "npm run dump && npm run stats && npm run followers && npm run final-stats",
+    "update": "babel-node update",
+    "f5": "npm run update",
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
