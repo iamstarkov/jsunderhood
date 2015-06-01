@@ -27527,7 +27527,53 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "is_quote_status": false,
+      "quoted_status_id": 603976435351560200,
+      "quoted_status_id_str": "603976435351560192",
+      "quoted_status": {
+        "created_at": "Thu May 28 17:29:38 +0000 2015",
+        "id": 603976435351560200,
+        "id_str": "603976435351560192",
+        "text": "@jsunderhood еси для нода то в npm, если front то в бовер!",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 603971035994656800,
+        "in_reply_to_status_id_str": "603971035994656770",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3300179800,
+          "id_str": "3300179800"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
       "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
@@ -27537,8 +27583,8 @@
         "urls": [
           {
             "url": "https://t.co/VjeKeIvXoy",
-            "expanded_url": "http://t.co/VjeKeIvXoy",
-            "display_url": "t.co/VjeKeIvXoy",
+            "expanded_url": "https://twitter.com/dmitrytrigonis/status/603976435351560192",
+            "display_url": "twitter.com/dmitrytrigonis…",
             "indices": [
               34,
               57
