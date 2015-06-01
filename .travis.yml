@@ -2,12 +2,18 @@ sudo: false
 language: node_js
 node_js:
 - iojs
+before_script:
+- git config --global user.email "iamstarkov@gmail.com"
+- git config --global user.name "Vladimir Starkov"
+- git remote rm origin
+- git remote add origin https://iamstarkov:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git
 after_script:
 - npm run f5
 - git add . && git commit -m 'update dump' && git push origin master
 - npm run deploy
 env:
   global:
+    - secure: XsShw1Nnk3byvt8q5ceB/qFoqTYTBeXJiyag6hbtxEXaugTZTO7TCj2PRs5uhjUfj82AKeA3agexboTGwbAVsDI1OmxsZWKKTIlrKByZm6M5kWZYO7PNgd6QF2e7+mifnClDD8G0xAZyJcHKW4SD3cv/SzQStc91RLwILFgaWlo=
     - secure: Ci3nXO2gC/WcOyQd7oBoq7XRyuGNNgXpCqAwIUQ9opkpbebwGmruDKljBl82uUE/W53IyPUVkJj2ke+RpL1CAO3OTqQBfDnbb4zfOiGasXsASR9jNW4dvi7tPYg17FnuGEnfHEInWpUAFbafmRspy4NzNKdcGU/KKjQ9XE5IXgY=
     - secure: MCDIEJJId8e4yTplX0SFxK3WFpQQ+Qig9PCc9QPDeMVM2lKjMCqIDq59QzCE8U2tOtLu0lhNG1hMSwVDh23trVkII9KEROIHeFIjI8M4VwDKEQwOoODYDJwdJxf9hasvBJoFMyIk4gB0zwwGK6JHjLmfetjO9EpjnzDKpr5DoRw=
     - secure: gDLwe9N7wZAyrXBlt34ed9hEwksj8+Tv+fd1BXdN76oKQ8MUbWYKtjS8HQtksn+ekEvhgTzySWVnkbEcD7+OQmpSZi3wCh5636K5mqw2mUO1AV/dy4Bo+8pjP/wkcLHHGh6kpcrE4r3G+3teZwJq+OOznMI5s1Mra0ipC1/bPow=
