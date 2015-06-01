@@ -5,14 +5,16 @@
   "main": "index.js",
   "scripts": {
     "dump": "babel-node dump",
-    "posts": "babel-node posts",
-    "stats": "babel-node stats",
     "followers": "babel-node followers",
-    "final-stats": "babel-node final-stats",
     "f5-old": "npm run dump && npm run stats && npm run followers && npm run final-stats",
-    "update": "babel-node update",
-    "f5": "npm run update",
+
     "start": "gulp",
+
+    "update": "babel-node update",
+    "stats": "babel-node stats",
+    "final-stats": "babel-node final-stats",
+    "posts": "babel-node posts",
+    "f5": "npm run update && npm run stats && npm run final-stats && npm run posts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
