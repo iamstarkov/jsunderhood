@@ -24,6 +24,7 @@ var numd = require('numd');
 var finalStats = fs.readJsonSync('./final-stats.json').stats;
 
 var moment = require('moment');
+var d = function(input) { return moment(new Date(input)).format("DD MMMM YYYY"); };
 var unix = function(text) { return moment(new Date(text)).unix(); }
 var site = require('./package.json').site;
 
@@ -45,6 +46,8 @@ var articleHarvesting = function() {
       title = 'О проекте';
     }
 
+    var author = fs.readJsonSync('./dump/' + title + '.json');
+
     articles.push({
       site: site,
       filename: file.relative,
@@ -53,7 +56,7 @@ var articleHarvesting = function() {
       image: article.image,
       desc: article.descHtml,
       descText: article.descText,
-      date: article.date,
+      date: d(author.tweets[author.tweets.length - 1].created_at),
       content: article.content,
       rss: {
         url: site.site_url + getBasename(file) + '/',
