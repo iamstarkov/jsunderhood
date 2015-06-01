@@ -10,10 +10,10 @@
 
     "start": "gulp",
 
-    "update": "babel-node update",
-    "stats": "babel-node stats",
-    "final-stats": "babel-node final-stats",
-    "posts": "babel-node posts",
+    "update": "./node_modules/.bin/babel-node update",
+    "stats": "./node_modules/.bin/babel-node stats",
+    "final-stats": "./node_modules/.bin/babel-node final-stats",
+    "posts": "./node_modules/.bin/babel-node posts",
     "f5": "npm run update && npm run stats && npm run final-stats && npm run posts",
     "deploy": "gulp gh",
     "test": "echo \"Its okay, its fine\" && exit 0"
