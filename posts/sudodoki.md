@@ -1,8 +1,8 @@
 # sudodoki
 
-_28 Apr 2015_
+_28 апреля 2015_
 
-## Tuesday <small>32 твита</small>
+## Вторник <small>32 твита</small>
 
 На этой неделе управление этим аккаунтом доверили мне, @sudodoki - Джон, просто Джон, ex-Ebay, SoftDev+ в RailsReactor, проездом в Бостоне. [0][592841474334658560]
 
@@ -101,7 +101,7 @@ RT @naorunaoru: @jsunderhood завтра MoscowJS. вот, например: ht
 [593147113606877185]: https://twitter.com/jsunderhood/status/593147113606877185
 [593147406369345536]: https://twitter.com/jsunderhood/status/593147406369345536
 
-## Wednesday <small>66 твитов</small>
+## Среда <small>66 твитов</small>
 
 RT @shuvalov_anton: @iamstarkov @ru_rodweb https://t.co/H1oAwBYJJ2 [0][593190987893121025]
 
@@ -303,7 +303,7 @@ RT @fxposter: @jsunderhood так можно же почти такой же п�
 [593478139851972609]: https://twitter.com/jsunderhood/status/593478139851972609
 [593490825440530432]: https://twitter.com/jsunderhood/status/593490825440530432
 
-## Thursday <small>32 твита</small>
+## Четверг <small>32 твита</small>
 
 Нужно будет попробовать следующую секцию лайв-кодинга в http://t.co/WLv8vg04tb [0][593536404820373505]
 
@@ -405,7 +405,7 @@ https://t.co/MA53ZqIBn9 - Eval-Rinse-Reload-And-Repeat to make sure your javascr
 [593849436754808832]: https://twitter.com/jsunderhood/status/593849436754808832
 [593867377546285059]: https://twitter.com/jsunderhood/status/593867377546285059
 
-## Friday <small>33 твита</small>
+## Пятница <small>33 твита</small>
 
 Сегодня 20 лет JS 🎉 https://t.co/QM9VKC4mBN [0][594148598780186626]
 
@@ -510,7 +510,7 @@ RT @skif_by: @jsunderhood @komzpa это когда многопоточност
 [594253413937995776]: https://twitter.com/jsunderhood/status/594253413937995776
 [594254472311865344]: https://twitter.com/jsunderhood/status/594254472311865344
 
-## Saturday <small>39 твитов</small>
+## Суббота <small>39 твитов</small>
 
 RT @shuvalov_anton: @rastopyr_ua вот хз. Лучше почитать документацию и узнать что еще им можно забивать, чем читать второсортный пересказ @jsunderhood [0][594272501812883456]
 
@@ -631,7 +631,7 @@ RT @ALF_er: @jsunderhood ааа... стандартная проблема по�
 [594573225985712129]: https://twitter.com/jsunderhood/status/594573225985712129
 [594573711795220482]: https://twitter.com/jsunderhood/status/594573711795220482
 
-## Sunday <small>17 твитов</small>
+## Воскресенье <small>17 твитов</small>
 
 https://t.co/LqD2CpEeeJ - полезная тула для подстройки
 проецируемого на кривые поверхности изображения от @purdybot [0][594879994771345409]
@@ -689,7 +689,7 @@ RT @levwalkin: @lambdadmitry @jsunderhood @nikitonsky Пока Никита от
 [594961517319172096]: https://twitter.com/jsunderhood/status/594961517319172096
 [594962762624856064]: https://twitter.com/jsunderhood/status/594962762624856064
 
-## Monday <small>1 твит</small>
+## Понедельник <small>1 твит</small>
 
 @jsunderhood на каникулах до следующей недели! Не скучайте :D [0][595186826341720065]
 

@@ -1,8 +1,11 @@
 import fs from 'fs-extra';
 import authors from './authors';
 import moment from 'moment';
-import d from './date-format';
 import numd from 'numd';
+
+moment.locale('ru');
+
+const d = (input)=> moment(new Date(input)).format("DD MMMM YYYY");
 
 const filterTimeline = (item)=> {
   return (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
@@ -17,6 +20,7 @@ const formatTweet = (item, index)=> {
 };
 const formatRef = (item, index)=> `[${item.id_str}]: https://twitter.com/jsunderhood/status/${item.id_str}`
 const getWeekday = (date) => moment(new Date(date)).format("dddd");
+const capitalize = (i) => i.split('').map((item, i) => i === 0 ? item.toUpperCase() : item).join('');
 
 const separateByWeekdays = (state, item, i, arr)=> {
   var weekday = getWeekday(item.created_at);
@@ -37,13 +41,12 @@ const post = (author, post=true)=> {
 
   author.tweets.reverse();
   author.tweets = author.tweets.filter(filterTimeline);
-
   const md = [
     `# ${author.username}`,
     `_${ d(author.tweets[0].created_at) }_`,
     author.tweets.reduce(separateByWeekdays, []).map((weekday)=> {
       return [
-        `## ${weekday.weekday} <small>${tweetsUnit(weekday.tweets.length)}</small>`,
+        `## ${capitalize(weekday.weekday)} <small>${tweetsUnit(weekday.tweets.length)}</small>`,
         weekday.tweets.map(formatTweet).join('\n\n'),
         weekday.tweets.map(formatRef).join('\n')
       ].join('\n\n');

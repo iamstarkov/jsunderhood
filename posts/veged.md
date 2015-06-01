@@ -1,8 +1,8 @@
 # veged
 
-_23 Mar 2015_
+_23 марта 2015_
 
-## Monday <small>23 твита</small>
+## Понедельник <small>23 твита</small>
 
 всем привет! это @veged c вами на ближайшую неделю [0][579986868487512064]
 
@@ -74,7 +74,7 @@ RT @Sullenor: @jsunderhood где-то занимаешься или сам пр
 [580086898879787008]: https://twitter.com/jsunderhood/status/580086898879787008
 [580087164840636416]: https://twitter.com/jsunderhood/status/580087164840636416
 
-## Tuesday <small>23 твита</small>
+## Вторник <small>23 твита</small>
 
 RT @harisov: @SilentImp @jsunderhood @1vank1n тут есть ответ:
 
@@ -152,7 +152,7 @@ RT @voxpuibr: @jsunderhood проблема ли это, что язык так 
 [580480314801283073]: https://twitter.com/jsunderhood/status/580480314801283073
 [580480538752000000]: https://twitter.com/jsunderhood/status/580480538752000000
 
-## Wednesday <small>18 твитов</small>
+## Среда <small>18 твитов</small>
 
 RT @roman01la: @matmuchrapna @jsunderhood товарищ как-то показывал преимущества запятой спереди, что-то про удобное/быстрое форматирование. [0][580622119324774400]
 
@@ -209,13 +209,13 @@ RT @newsycombinator: Vim is moving to GitHub https://t.co/2UAc7dHhxo [16][580840
 [580840943407992832]: https://twitter.com/jsunderhood/status/580840943407992832
 [580842995861315584]: https://twitter.com/jsunderhood/status/580842995861315584
 
-## Thursday <small>1 твит</small>
+## Четверг <small>1 твит</small>
 
 новости про #dartlang http://t.co/91Cdnf0Yo8 — думаю, это пойдёт всем на пользу [0][581206209614770176]
 
 [581206209614770176]: https://twitter.com/jsunderhood/status/581206209614770176
 
-## Friday <small>5 твитов</small>
+## Пятница <small>5 твитов</small>
 
 пятничное из недр яндекса — во внутренних блогах обсуждаем тему "Яндексовый JavaScript Codestyle?" ;-) [0][581434462560493569]
 
@@ -235,7 +235,7 @@ RT @rastopyr_ua: @jsunderhood помню что ты говорил о кодс�
 [581487566479835136]: https://twitter.com/jsunderhood/status/581487566479835136
 [581488934921830400]: https://twitter.com/jsunderhood/status/581488934921830400
 
-## Saturday <small>3 твита</small>
+## Суббота <small>3 твита</small>
 
 RT @veged: я на #CodeFest ^___^ http://t.co/aeJnKjtNcJ [0][581712441198927872]
 
@@ -247,7 +247,7 @@ RT @ya_events: Сегодня на #codefest в секциях #design, #backend
 [581712470986854400]: https://twitter.com/jsunderhood/status/581712470986854400
 [581761357424562176]: https://twitter.com/jsunderhood/status/581761357424562176
 
-## Sunday <small>4 твита</small>
+## Воскресенье <small>4 твита</small>
 
 RT @nikitonsky: Полный текст доклада про ФП в браузере со слайдами доступен тут #codefest http://t.co/CWUYXx7aJs [0][582048703747366913]
 
