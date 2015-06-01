@@ -13,7 +13,7 @@ const filterTimeline = (item)=> {
 const formatTweet = (item, index)=> {
   var text = item.text;
   if (item.retweeted_status) {
-    var rtAuthor = item.retweeted_status.user.screen_name;
+    var rtAuthor = item.entities.user_mentions[0].screen_name;
     text = `RT @${rtAuthor}: ${item.retweeted_status.text}`;
   }
   return `${text} [${index}][${item.id_str}]`

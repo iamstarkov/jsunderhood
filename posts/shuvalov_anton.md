@@ -37,7 +37,7 @@ this.$('select').on('change', e =&gt; this.setValue($(e.target).val()) [1][56323
 
 А вы уже попробовали ES6? [3][563308497023299585]
 
-RT @iamstarkov: @jsunderhood joyent если я ничего не путаю заслуживает чуть больше камней  http://t.co/p5MsEMy5h0 [4][563326489488551937]
+RT @jsunderhood: @jsunderhood joyent если я ничего не путаю заслуживает чуть больше камней  http://t.co/p5MsEMy5h0 [4][563326489488551937]
 
 “IO.js, what’s that?” asked Joyent CEO Scott Hammond. “This is a Node.js project for Node.js innovations.” Окей, но где же `0.12`? [5][563327023012413440]
 

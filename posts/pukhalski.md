@@ -32,7 +32,7 @@ RT @shuvalov_anton: @jsunderhood а что ты имел в виду под му
 
 .@shuvalov_anton ранее играл в нескольких низкобюджетных панк и метал бандах. Сейчас занимаю позицию сочувствующего меломана. [13][590073339193995264]
 
-RT @iamstarkov: @jsunderhood @toivonens
+RT @jsunderhood: @jsunderhood @toivonens
 &gt; jack of all trades, master of none
 что это? [14][590073458400309248]
 
@@ -54,11 +54,11 @@ RT @shuvalov_anton: @jsunderhood знакомо) А есть записи? [16][
 
 А сейчас мы поделимся на две группы: сторонники MV* в правом углу в красных шортах и приверженцы Flux в левом углу в белых подгузниках... [18][590092953043017729]
 
-RT @YevhenBoyarsky: @jsunderhood А ты в каком углу? :) [19][590093347211124737]
+RT @jsunderhood: @jsunderhood А ты в каком углу? :) [19][590093347211124737]
 
 .@itgek если честно, я примерил подгузники — ничего так, не жмут. [20][590093588614279168]
 
-RT @iamstarkov: @itgek @jsunderhood реферри [21][590093632994160640]
+RT @jsunderhood: @itgek @jsunderhood реферри [21][590093632994160640]
 
 Рубрику "Послеобеденное видео" сегодня представляет @awbjs с докладом о JS как языке эры распределенных вычислений.
 
@@ -80,9 +80,9 @@ RT @iiiii: @jsunderhood куда вставать тем кто ждет relay? 
 
 RT @dshster: @jsunderhood @Rukomoynikov чистый js-разработчик это скорее всего nodejs, который браузера совсем не касается. А фронт верстать будет всегда [30][590139641329778688]
 
-RT @YevhenBoyarsky: @dshster @jsunderhood @Rukomoynikov Не всегда. Довольно часто верстают дизайнеры. [31][590139654743134208]
+RT @dshster: @dshster @jsunderhood @Rukomoynikov Не всегда. Довольно часто верстают дизайнеры. [31][590139654743134208]
 
-RT @YevhenBoyarsky: @Rukomoynikov @dshster @jsunderhood Ты не поверишь, но на западе это норма. [32][590139793088053248]
+RT @Rukomoynikov: @Rukomoynikov @dshster @jsunderhood Ты не поверишь, но на западе это норма. [32][590139793088053248]
 
 .@itgek @rukomoynikov @dshster, если честно, то такая же норма, как и в ex-USSR. [33][590139878706405376]
 
