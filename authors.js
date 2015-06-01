@@ -1,21 +1,4 @@
 export default [
-  /**
-   * @listochkin, 18 May 2015
-   * @subzey, 18 May 2015
-   * @bashmish, 11 May 2015
-   * @sudodoki, 27 Apr 2015
-   * @pukhalski, 20 Apr 2015
-   * @lomakin, 13 Apr 2015
-   * @mraleph, 06 Apr 2015
-   * @awinogradov, 30 Mar 2015
-   * @veged, 23 Mar 2015
-   * @korochinskiy, 16 Mar 2015
-   * @toivonens, 09 Mar 2015
-   * @roman01la, 02 Mar 2015
-   * @matmuchrapna, 23 Feb 2015
-   * @filipovskii, 09 Feb 2015
-   * @shuvalov_anton, 03 Feb 2015
-   */
   { username: 'listochkin',     start: '25 May 2015', first: '602825789478969344' },
   { username: 'subzey',         start: '18 May 2015', first: '600095365254270976' },
   { username: 'bashmish',       start: '11 May 2015', first: '597653605315977216' },
