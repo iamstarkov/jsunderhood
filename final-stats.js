@@ -26,13 +26,9 @@ let stats = authorsRaw
     return assign({}, author, stats);
   })
   .map((author, i, arr)=> {
-    author.gainedFollowers2 = arr[i-1] ? (author.followers_count - arr[i-1].followers_count) : author.followers_count;
+    author.gainedFollowers = arr[i-1] ? (author.followers_count - arr[i-1].followers_count) : author.followers_count;
     return author;
   })
-  .map((author)=> {
-    author.gainedFollowers = gainedFollowers[author.username];
-    return author;
-  });
 
 
 r.maxBy(r.prop('tweets'), stats).maxTweets = true;
