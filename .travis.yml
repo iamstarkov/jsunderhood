@@ -1,0 +1,14 @@
+sudo: false
+language: node_js
+node_js:
+- iojs
+after_script:
+- npm run f5
+- git add . && git commit -m 'update dump' && git push origin master
+- npm run deploy
+env:
+  global:
+    - secure: Ci3nXO2gC/WcOyQd7oBoq7XRyuGNNgXpCqAwIUQ9opkpbebwGmruDKljBl82uUE/W53IyPUVkJj2ke+RpL1CAO3OTqQBfDnbb4zfOiGasXsASR9jNW4dvi7tPYg17FnuGEnfHEInWpUAFbafmRspy4NzNKdcGU/KKjQ9XE5IXgY=
+    - secure: MCDIEJJId8e4yTplX0SFxK3WFpQQ+Qig9PCc9QPDeMVM2lKjMCqIDq59QzCE8U2tOtLu0lhNG1hMSwVDh23trVkII9KEROIHeFIjI8M4VwDKEQwOoODYDJwdJxf9hasvBJoFMyIk4gB0zwwGK6JHjLmfetjO9EpjnzDKpr5DoRw=
+    - secure: gDLwe9N7wZAyrXBlt34ed9hEwksj8+Tv+fd1BXdN76oKQ8MUbWYKtjS8HQtksn+ekEvhgTzySWVnkbEcD7+OQmpSZi3wCh5636K5mqw2mUO1AV/dy4Bo+8pjP/wkcLHHGh6kpcrE4r3G+3teZwJq+OOznMI5s1Mra0ipC1/bPow=
+    - secure: L2u3s2/7hyFKiLx1XzBl+eOfrrZfxrlI7MzVlbDwdbItA71l7d77Ji3qRQF28QEBgq7ugVnCKLlx2vjEbS+aB5a3JE7V2yKx8ErvMNvt8bysPjCVyCjsQt2VJpln972wrFPLNXYDXvi8X78M0UQkkNqZ/tPxPYuxOQ+Evu5Gi5Q=
