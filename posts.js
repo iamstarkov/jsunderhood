@@ -43,7 +43,7 @@ const post = (author, post=true)=> {
   author.tweets = author.tweets.filter(filterTimeline);
   const md = [
     `# ${author.username}`,
-    `_${ d(author.tweets[0].created_at) }_`,
+    `_${ d(author.tweets[author.tweets.length - 1].created_at) }_`,
     author.tweets.reduce(separateByWeekdays, []).map((weekday)=> {
       return [
         `## ${capitalize(weekday.weekday)} <small>${tweetsUnit(weekday.tweets.length)}</small>`,
