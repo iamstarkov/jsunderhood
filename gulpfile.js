@@ -137,7 +137,7 @@ gulp.task('about-page', function() {
       pretty: true,
       locals: assign({}, article, {
         title: 'О проекте',
-        url: 'about',
+        url: 'about/',
         site: site
       })
     }))
