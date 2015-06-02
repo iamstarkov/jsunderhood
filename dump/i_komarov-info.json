@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 823,
+  "followers_count": 822,
   "friends_count": 16,
   "listed_count": 23,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,30 +35,51 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3834,
+  "statuses_count": 3845,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 01 14:23:19 +0000 2015",
-    "id": 605379099985616900,
-    "id_str": "605379099985616896",
-    "text": "То есть биоинформатика — это очень круто, но для человека не из отрасли не видно возможностей принести какую-то пользу.",
+    "created_at": "Mon Jun 01 20:43:45 +0000 2015",
+    "id": 605474841223958500,
+    "id_str": "605474841223958529",
+    "text": "@beshkenadze @listochkin *рыдает*",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 605467740971913200,
+    "in_reply_to_status_id_str": "605467740971913216",
+    "in_reply_to_user_id": 13109562,
+    "in_reply_to_user_id_str": "13109562",
+    "in_reply_to_screen_name": "beshkenadze",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "beshkenadze",
+          "name": "Александр Бешкенадзе",
+          "id": 13109562,
+          "id_str": "13109562",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "listochkin",
+          "name": "Андрей Листочкин",
+          "id": 20910792,
+          "id_str": "20910792",
+          "indices": [
+            13,
+            24
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
@@ -82,7 +103,7 @@
   "profile_use_background_image": false,
   "default_profile": false,
   "default_profile_image": false,
-  "following": true,
+  "following": null,
   "follow_request_sent": false,
-  "notifications": false
+  "notifications": null
 }
