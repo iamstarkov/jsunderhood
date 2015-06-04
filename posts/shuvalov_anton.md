@@ -4,52 +4,35 @@ _07 февраля 2015_
 
 ## Вторник <small>5 твитов</small>
 
-http://t.co/PvtJZodxLf — один из лучших ресурсов о ES6. Axel подробно рассказывает и показывает на примерах все новые штуки. [0][562519903249649665]
+<a href="http://t.co/PvtJZodxLf">2ality.com</a> — один из лучших ресурсов о ES6. Axel подробно рассказывает и показывает на примерах все новые штуки.
 
-Классы в ES6 очень крутые и прямо из коробки работают, например, с Backbone http://t.co/iTpI8kcbF1 [1][562523017243545600]
+Классы в ES6 очень крутые и прямо из коробки работают, например, с Backbone <a href="http://t.co/iTpI8kcbF1">mikefowler.me/2014/06/11/bac…</a>
 
-Кстати, mocha поддерживает компиляторы — с ними можно тестировать ES6 модули. Я, к примеру, использую mocha-traceur. https://t.co/RYEpf7hWPX [2][562569870366486528]
+Кстати, mocha поддерживает компиляторы — с ними можно тестировать ES6 модули. Я, к примеру, использую mocha-traceur. <a href="https://t.co/RYEpf7hWPX">github.com/domenic/mocha-…</a>
 
-А можно подружить traceur c node, подменив require. Так можно и node_modules компилировать, что иногда полезно https://t.co/ZUhwmdVsin [3][562571645869912064]
+А можно подружить traceur c node, подменив require. Так можно и node_modules компилировать, что иногда полезно <a href="https://t.co/ZUhwmdVsin">github.com/google/traceur…</a>
 
-Replace CoffeeScript with ES6 http://t.co/ELB3FSt6Qx [4][562579794999922689]
-
-[562519903249649665]: https://twitter.com/jsunderhood/status/562519903249649665
-[562523017243545600]: https://twitter.com/jsunderhood/status/562523017243545600
-[562569870366486528]: https://twitter.com/jsunderhood/status/562569870366486528
-[562571645869912064]: https://twitter.com/jsunderhood/status/562571645869912064
-[562579794999922689]: https://twitter.com/jsunderhood/status/562579794999922689
+Replace CoffeeScript with ES6 <a href="http://t.co/ELB3FSt6Qx">robots.thoughtbot.com/replace-coffee…</a>
 
 ## Среда <small>1 твит</small>
 
-Arrow-функции очень крутые! http://t.co/U1ODB6vaN3 [0][562972738303037442]
-
-[562972738303037442]: https://twitter.com/jsunderhood/status/562972738303037442
+Arrow-функции очень крутые! <a href="http://t.co/U1ODB6vaN3">bit.ly/1zJkGze</a>
 
 ## Четверг <small>6 твитов</small>
 
-RT @rdvornov: @jsunderhood это если не брать в расчет, что на понимание кода из примера уйдет куда больше времени, чем на понимание эквивалента в ES5 ;) [0][563237209370013696]
+RT <a href="https://twitter.com/rdvornov" title="Roman Dvornov">@rdvornov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> это если не брать в расчет, что на понимание кода из примера уйдет куда больше времени, чем на понимание эквивал…
 
 В arrow-функциях — this указывает на тот  в котором функция объявленна: 
-this.$('select').on('change', e =&gt; this.setValue($(e.target).val()) [1][563238391077408768]
+this.$('select').on('change', e =&gt; this.setValue($(e.target).val())
 
-Кстати, io.js поддерживает достаточно много всего из спеки ES6. Еще один камень в огород Joyent :D https://t.co/VtTWv98RPl [2][563307732707856384]
+Кстати, io.js поддерживает достаточно много всего из спеки ES6. Еще один камень в огород Joyent :D <a href="https://t.co/VtTWv98RPl">iojs.org/es6.html</a>
 
-А вы уже попробовали ES6? [3][563308497023299585]
+А вы уже попробовали ES6?
 
-RT @jsunderhood: @jsunderhood joyent если я ничего не путаю заслуживает чуть больше камней  http://t.co/p5MsEMy5h0 [4][563326489488551937]
+RT @matmuchrapna: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> joyent если я ничего не путаю заслуживает чуть больше камней  <a href="http://t.co/p5MsEMy5h0">readwrite.com/2015/02/03/joy…</a>
 
-“IO.js, what’s that?” asked Joyent CEO Scott Hammond. “This is a Node.js project for Node.js innovations.” Окей, но где же `0.12`? [5][563327023012413440]
-
-[563237209370013696]: https://twitter.com/jsunderhood/status/563237209370013696
-[563238391077408768]: https://twitter.com/jsunderhood/status/563238391077408768
-[563307732707856384]: https://twitter.com/jsunderhood/status/563307732707856384
-[563308497023299585]: https://twitter.com/jsunderhood/status/563308497023299585
-[563326489488551937]: https://twitter.com/jsunderhood/status/563326489488551937
-[563327023012413440]: https://twitter.com/jsunderhood/status/563327023012413440
+“IO.js, what’s that?” asked Joyent CEO Scott Hammond. “This is a Node.js project for Node.js innovations.” Окей, но где же `0.12`?
 
 ## Суббота <small>1 твит</small>
 
-Big Web App? Compile it! http://t.co/vuLsUgPI4U [0][564027469179944962]
-
-[564027469179944962]: https://twitter.com/jsunderhood/status/564027469179944962
+Big Web App? Compile it! <a href="http://t.co/vuLsUgPI4U">kripken.github.io/mloc_emscripte…</a>

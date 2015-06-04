@@ -4,306 +4,204 @@ _17 мая 2015_
 
 ## Понедельник <small>9 твитов</small>
 
-Вы уже отошли от затянувшихся выходных и отпусков? Тогда я @bashmish рад буду пообщаться с вами на этой неделе тут :) [0][597653605315977216]
+Вы уже отошли от затянувшихся выходных и отпусков? Тогда я <a href="https://twitter.com/bashmish" title="Misha Bashkirov">@bashmish</a> рад буду пообщаться с вами на этой неделе тут :)
 
-Сорян, если буду баянить старыми вопросами. Так вышло, что твиттер я подзабросил, поэтому для меня вызов снова вспомнить, как вести его. [1][597654272369696768]
+Сорян, если буду баянить старыми вопросами. Так вышло, что твиттер я подзабросил, поэтому для меня вызов снова вспомнить, как вести его.
 
-В связи с этим 1-й вопрос: зачем современному разработчику вести/читать твиттер, когда есть другие удобные штуки? [2][597654664000217088]
+В связи с этим 1-й вопрос: зачем современному разработчику вести/читать твиттер, когда есть другие удобные штуки?
 
-Вопрос про нужность твиттера был задан не холивара ради. Отчасти, мне бы хотелось сюда вернуться на постоянной основе, но я не знаю, зачем? [3][597669608611516416]
+Вопрос про нужность твиттера был задан не холивара ради. Отчасти, мне бы хотелось сюда вернуться на постоянной основе, но я не знаю, зачем?
 
-Давайте закроем тему о твиттере и поговорим про митапы/конфы. Много ими занимаюсь, есть что сказать. А вы спрашивайте про внутреннюю кухню) [4][597755487086600192]
+Давайте закроем тему о твиттере и поговорим про митапы/конфы. Много ими занимаюсь, есть что сказать. А вы спрашивайте про внутреннюю кухню)
 
-Кроме того, сегодня лично буду на @helsinkijs в Хельсинках, а в Чт и Пт на @jsconfbp в Будапеште. У меня для вас тоже вопросы есть, конечно. [5][597755918516891648]
+Кроме того, сегодня лично буду на <a href="https://twitter.com/helsinkijs" title="HelsinkiJS">@helsinkijs</a> в Хельсинках, а в Чт и Пт на <a href="https://twitter.com/jsconfbp" title="JSConf BP">@jsconfbp</a> в Будапеште. У меня для вас тоже вопросы есть, конечно.
 
-Меня тоже этот вопрос интересует. Знаю про @filipovskii @MrMoranXP @suevalov @gritzko  https://t.co/ukRfFvyEwU [6][597807456136355840]
+Меня тоже этот вопрос интересует. Знаю про <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a> <a href="https://twitter.com/MrMoranXP" title="Ruslan Kaymakov">@MrMoranXP</a> <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a> <a href="https://twitter.com/gritzko" title="Victor Grishchenko">@gritzko</a>  <a href="https://t.co/ukRfFvyEwU">twitter.com/oelifantiev/st…</a>
 
-Почему-то думал, что @helsinkijs будут хайтек митапом, как сам Хельсинки. А все было по нашему, привычно) Пиво было! http://t.co/tCDmmaFfs4 [7][597841155779403776]
+Почему-то думал, что <a href="https://twitter.com/helsinkijs" title="HelsinkiJS">@helsinkijs</a> будут хайтек митапом, как сам Хельсинки. А все было по нашему, привычно) Пиво было! <a href="http://t.co/tCDmmaFfs4">pic.twitter.com/tCDmmaFfs4</a>
 
-У меня к вам один большой вопрос, к нему присоединяется @olegpodsechin: стоит ли доклады на @moscowjs и @gopiterjs делать на английском? [8][597841570314981377]
-
-[597653605315977216]: https://twitter.com/jsunderhood/status/597653605315977216
-[597654272369696768]: https://twitter.com/jsunderhood/status/597654272369696768
-[597654664000217088]: https://twitter.com/jsunderhood/status/597654664000217088
-[597669608611516416]: https://twitter.com/jsunderhood/status/597669608611516416
-[597755487086600192]: https://twitter.com/jsunderhood/status/597755487086600192
-[597755918516891648]: https://twitter.com/jsunderhood/status/597755918516891648
-[597807456136355840]: https://twitter.com/jsunderhood/status/597807456136355840
-[597841155779403776]: https://twitter.com/jsunderhood/status/597841155779403776
-[597841570314981377]: https://twitter.com/jsunderhood/status/597841570314981377
+У меня к вам один большой вопрос, к нему присоединяется <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a>: стоит ли доклады на <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> и <a href="https://twitter.com/gopiterjs" title="PiterJS">@gopiterjs</a> делать на английском?
 
 ## Вторник <small>28 твитов</small>
 
-Как насчёт того, что для докладчиков выступление на английском на митапе даст хорошую почву для поездки на заграничную конференцию? [0][598001400233222144]
+Как насчёт того, что для докладчиков выступление на английском на митапе даст хорошую почву для поездки на заграничную конференцию?
 
-Более того, мы на @moscowjs стараемся, чтобы были видео записи. Если они будут на английском, то видео будут смотреть заграничные коллеги. [1][598001583583010816]
+Более того, мы на <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> стараемся, чтобы были видео записи. Если они будут на английском, то видео будут смотреть заграничные коллеги.
 
-И кроме всего, для слушателей это лишняя возможность интегрироваться в мировое комьюнити. Я против изоляции, а это есть языковая изоляция. [2][598002170403880960]
+И кроме всего, для слушателей это лишняя возможность интегрироваться в мировое комьюнити. Я против изоляции, а это есть языковая изоляция.
 
-Я сам плохо говорю по-английски. Но слушать/читать технический английский is a must. Не можете - вон из профессии. [3][598006919274614785]
+Я сам плохо говорю по-английски. Но слушать/читать технический английский is a must. Не можете - вон из профессии.
 
-Что ж, тогда вопрос в догонку: вы на митапы ходите развиваться или пива попить, пиццы поесть? Меня этот вопрос волнует в последнее время. [4][598008487931682816]
+Что ж, тогда вопрос в догонку: вы на митапы ходите развиваться или пива попить, пиццы поесть? Меня этот вопрос волнует в последнее время.
 
-Мне, как человеку, старающемуся сделать @moscowjs полезнее, хочется знать, зачем вы туда приходите? Что бы вы сделали лучше? [5][598011358597251072]
+Мне, как человеку, старающемуся сделать <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> полезнее, хочется знать, зачем вы туда приходите? Что бы вы сделали лучше?
 
-Кстати, спасибо вам, ребят. На второй день я вспомнил, почему 5 лет назад ушёл из твиттера) [6][598023893392175104]
+Кстати, спасибо вам, ребят. На второй день я вспомнил, почему 5 лет назад ушёл из твиттера)
 
-RT @_sashashakun: @jsunderhood @olegpodsechin @moscowjs @gopiterjs хорошая аргументация. Я начать можно с 1 доклада из 3 просто для того чтобы попробовать [7][598023971754418176]
+RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> <a href="https://twitter.com/gopiterjs" title="PiterJS">@gopiterjs</a> хорошая аргументация. Я начать можно с 1 доклада из 3 просто для того чт…
 
-Заметил, что официальный клиент в оффлайне тупит и потом твиты теряются. Какой другой эпп посоветуете для Android? [8][598027323678556160]
+Заметил, что официальный клиент в оффлайне тупит и потом твиты теряются. Какой другой эпп посоветуете для Android?
 
-.@verkholantsev потому что формат сложен для аргументации, зато отлично подходит для троллинга [9][598046720623288320]
+.<a href="https://twitter.com/verkholantsev" title="billy shears">@verkholantsev</a> потому что формат сложен для аргументации, зато отлично подходит для троллинга
 
-RT @toivonens: @jsunderhood @andreysitnik @helsinkijs Тем что у нас нет реальной потребности в докладах на английском. Все это будет искуственно и вымучено [10][598055642776080384]
+RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/andreysitnik" title="Andrey Sitnik">@andreysitnik</a> <a href="https://twitter.com/helsinkijs" title="HelsinkiJS">@helsinkijs</a> Тем что у нас нет реальной потребности в докладах на английском. Все это будет искуст…
 
-.@antonfrolovsky @toivonens @andreysitnik @helsinkijs нет, не ради самого себя. Читайте доводы плиз в трёх утренних твитах. [11][598056592039407616]
+.<a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/andreysitnik" title="Andrey Sitnik">@andreysitnik</a> <a href="https://twitter.com/helsinkijs" title="HelsinkiJS">@helsinkijs</a> нет, не ради самого себя. Читайте доводы плиз в трёх утренних твитах.
 
-RT @raxpost: @jsunderhood @olegpodsechin @moscowjs @gopiterjs В РФ к сожал англ историч совершенно не развит,это дело эволюции,но надо к этому стремиться [12][598060376207585281]
+RT <a href="https://twitter.com/raxpost" title="Роман Роман">@raxpost</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> <a href="https://twitter.com/gopiterjs" title="PiterJS">@gopiterjs</a> В РФ к сожал англ историч совершенно не развит,это дело эволюции,но надо к эт…
 
-Те, кто против англ. на митапах: как у вас с английским? Будет интересно, если сами вы при этом англ. хорошо понимаете, а защищаете других [13][598060895126839296]
+Те, кто против англ. на митапах: как у вас с английским? Будет интересно, если сами вы при этом англ. хорошо понимаете, а защищаете других
 
-RT @kipruss: @jsunderhood Был на одном митапе в Нови Саде - один из докладов был на английском, хотя местный, серб. Так все вопросы потом на англ. были. [14][598066104100065280]
+RT <a href="https://twitter.com/kipruss" title="Konstantin Baev">@kipruss</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Был на одном митапе в Нови Саде - один из докладов был на английском, хотя местный, серб. Так все вопросы потом н…
 
-RT @toivonens: @jsunderhood @antonfrolovsky @andreysitnik @helsinkijs Так даже лучше - не владеющие английским тоже получат аудиторию. [15][598066264356036608]
+RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a> <a href="https://twitter.com/andreysitnik" title="Andrey Sitnik">@andreysitnik</a> <a href="https://twitter.com/helsinkijs" title="HelsinkiJS">@helsinkijs</a> Так даже лучше - не владеющие английским тоже получат аудиторию.
 
-RT @kojoru: @jsunderhood на митап в Россию нерусскоязычный не поедет. Пока такая визовая/политическая ситуация лучше мы к ним, и на англ выступать там [16][598069356665446400]
+RT <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на митап в Россию нерусскоязычный не поедет. Пока такая визовая/политическая ситуация лучше мы к ним, и на англ вы…
 
-RT @vmakhaev: @KSDaemon @jsunderhood @pepelsbey @olegpodsechin @moscowjs @gopiterjs а много людей, которые хотели/могли бы на англ доклады делать? [17][598075399843803137]
+RT <a href="https://twitter.com/vmakhaev" title="Vladimir Makhaev">@vmakhaev</a>: <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> <a href="https://twitter.com/gopiterjs" title="PiterJS">@gopiterjs</a> а много людей, которые хотели/могли бы на англ доклады …
 
-RT @pepelsbey: @rastopyr_ua @KSDaemon @jsunderhood @olegpodsechin, если хочется роста, то нужно два урока английского в школе вместо православия. [18][598080039863898112]
+RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>: <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a>, если хочется роста, то нужно два урока английского в школе вместо правос…
 
-RT @rastopyr_ua: @KSDaemon @jsunderhood @pepelsbey @olegpodsechin большой процент всех статей на хабре это переводы. на EN больше стоящих выступлений на конф [19][598081267326918658]
+RT <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a>: <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a> большой процент всех статей на хабре это переводы. на EN больше стоящих в…
 
-RT @pepelsbey: @jsunderhood @rastopyr_ua @KSDaemon @olegpodsechin, важно не смешивать две инициативы: обучение технологиям и обучение языку. [20][598081320238096384]
+RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a>, важно не смешивать две инициативы: обучение технологиям и обучение языку.
 
-.@mkazantsev @kojoru я спрашивал про нашу визу @olegpodsechin, он сказал, не сложно визу получить, не сложнее шенгена [21][598083792444723200]
+.<a href="https://twitter.com/mkazantsev" title="Maxim Kazantsev">@mkazantsev</a> <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a> я спрашивал про нашу визу <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a>, он сказал, не сложно визу получить, не сложнее шенгена
 
-.@kojoru @mkazantsev полагаю дело тут не в визе. Но надо им рассказать про курс валют, может это замотивирует в гости заехать))) [22][598084165167390720]
+.<a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a> <a href="https://twitter.com/mkazantsev" title="Maxim Kazantsev">@mkazantsev</a> полагаю дело тут не в визе. Но надо им рассказать про курс валют, может это замотивирует в гости заехать)))
 
-RT @rastopyr_ua: @KSDaemon @pepelsbey @jsunderhood я уже не говорю о хенгаутах на EN  с теми же создателями технологий, что ОЧЕНЬ круто и полезно [23][598084254346682368]
+RT <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a>: <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я уже не говорю о хенгаутах на EN  с теми же создателями технологий, что ОЧЕНЬ круто и п…
 
-RT @andrey_sitnik: @rastopyr_ua @pepelsbey @jsunderhood @KSDaemon @olegpodsechin я веду паблик во ВК про @PostCSS — и получаю больше фидбэка, чем с англ. Тви [24][598087069534179328]
+RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/olegpodsechin" title="Oleg Podsechin">@olegpodsechin</a> я веду паблик во ВК про <a href="https://twitter.com/PostCSS" title="PostCSS">@PostCSS</a> — и получаю больше фидбэк…
 
-RT @sudodoki: @SilentImp вот еще, в меньшей степени новости, в большей список - https://t.co/hxIq053e5M @jsunderhood [25][598117575134949376]
+RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> вот еще, в меньшей степени новости, в большей список - <a href="https://t.co/hxIq053e5M">github.com/dypsilon/front…</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
-RT @sudodoki: @SilentImp о, а еще актуальный нынче http://t.co/b28R59I5xv @jsunderhood [26][598182585051779072]
+RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> о, а еще актуальный нынче <a href="http://t.co/b28R59I5xv">esweekly.com</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
-Последний вопрос про язык будет риторическим, спросите себя сами: вам нравится работать с коллегами, не знающими английский язык? [27][598183356677885952]
-
-[598001400233222144]: https://twitter.com/jsunderhood/status/598001400233222144
-[598001583583010816]: https://twitter.com/jsunderhood/status/598001583583010816
-[598002170403880960]: https://twitter.com/jsunderhood/status/598002170403880960
-[598006919274614785]: https://twitter.com/jsunderhood/status/598006919274614785
-[598008487931682816]: https://twitter.com/jsunderhood/status/598008487931682816
-[598011358597251072]: https://twitter.com/jsunderhood/status/598011358597251072
-[598023893392175104]: https://twitter.com/jsunderhood/status/598023893392175104
-[598023971754418176]: https://twitter.com/jsunderhood/status/598023971754418176
-[598027323678556160]: https://twitter.com/jsunderhood/status/598027323678556160
-[598046720623288320]: https://twitter.com/jsunderhood/status/598046720623288320
-[598055642776080384]: https://twitter.com/jsunderhood/status/598055642776080384
-[598056592039407616]: https://twitter.com/jsunderhood/status/598056592039407616
-[598060376207585281]: https://twitter.com/jsunderhood/status/598060376207585281
-[598060895126839296]: https://twitter.com/jsunderhood/status/598060895126839296
-[598066104100065280]: https://twitter.com/jsunderhood/status/598066104100065280
-[598066264356036608]: https://twitter.com/jsunderhood/status/598066264356036608
-[598069356665446400]: https://twitter.com/jsunderhood/status/598069356665446400
-[598075399843803137]: https://twitter.com/jsunderhood/status/598075399843803137
-[598080039863898112]: https://twitter.com/jsunderhood/status/598080039863898112
-[598081267326918658]: https://twitter.com/jsunderhood/status/598081267326918658
-[598081320238096384]: https://twitter.com/jsunderhood/status/598081320238096384
-[598083792444723200]: https://twitter.com/jsunderhood/status/598083792444723200
-[598084165167390720]: https://twitter.com/jsunderhood/status/598084165167390720
-[598084254346682368]: https://twitter.com/jsunderhood/status/598084254346682368
-[598087069534179328]: https://twitter.com/jsunderhood/status/598087069534179328
-[598117575134949376]: https://twitter.com/jsunderhood/status/598117575134949376
-[598182585051779072]: https://twitter.com/jsunderhood/status/598182585051779072
-[598183356677885952]: https://twitter.com/jsunderhood/status/598183356677885952
+Последний вопрос про язык будет риторическим, спросите себя сами: вам нравится работать с коллегами, не знающими английский язык?
 
 ## Среда <small>5 твитов</small>
 
-RT @kuksikus: @jsunderhood если не умеют читать доки и писать правильно имена переменных, то нет, в остальном не важно [0][598322331891716096]
+RT <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> если не умеют читать доки и писать правильно имена переменных, то нет, в остальном не важно
 
-RT @Chudesnov: @jsunderhood нет. Возникает ложное ощущение превосходства. [1][598322374476505089]
+RT <a href="https://twitter.com/Chudesnov" title="散厦知">@Chudesnov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> нет. Возникает ложное ощущение превосходства.
 
-Просят рассказать про себя. Все что мог, уже сказал. Могу повторить: RadioJS, MoscowJS, любитель Angular, React, компонентного подхода... [2][598479982139219968]
+Просят рассказать про себя. Все что мог, уже сказал. Могу повторить: RadioJS, MoscowJS, любитель Angular, React, компонентного подхода...
 
-Ребят, я не знаю о чем вам интересно говорить, пишите вопросы. Мне интересно сейчас говорить про митапы, конфы, комьюнити и всякое такое. [3][598480304807006208]
+Ребят, я не знаю о чем вам интересно говорить, пишите вопросы. Мне интересно сейчас говорить про митапы, конфы, комьюнити и всякое такое.
 
-Полагаю, что не каждую неделю здесь появляется человек, занимающийся такими штуками. За новостями, фреймворками, паттернами - go в подкаст. [4][598481395401543680]
-
-[598322331891716096]: https://twitter.com/jsunderhood/status/598322331891716096
-[598322374476505089]: https://twitter.com/jsunderhood/status/598322374476505089
-[598479982139219968]: https://twitter.com/jsunderhood/status/598479982139219968
-[598480304807006208]: https://twitter.com/jsunderhood/status/598480304807006208
-[598481395401543680]: https://twitter.com/jsunderhood/status/598481395401543680
+Полагаю, что не каждую неделю здесь появляется человек, занимающийся такими штуками. За новостями, фреймворками, паттернами - go в подкаст.
 
 ## Четверг <small>35 твитов</small>
 
-JSConf Budapest уже вовсю идёт. Хотели бы, чтобы он прошёл и в России тоже? В Большом театре)) http://t.co/xBGjfexaXO [0][598779482279936000]
+JSConf Budapest уже вовсю идёт. Хотели бы, чтобы он прошёл и в России тоже? В Большом театре)) <a href="http://t.co/xBGjfexaXO">pic.twitter.com/xBGjfexaXO</a>
 
-Мы создаём условия на @moscowjs, чтобы люди общались. Зовем на афтепати. Кто хочет, пользуется. @kojoru @kalabro @KSDaemon [1][598780017972248578]
+Мы создаём условия на <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>, чтобы люди общались. Зовем на афтепати. Кто хочет, пользуется. <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a> <a href="https://twitter.com/kalabro" title="Kate">@kalabro</a> <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a>
 
-Для меня немного странно слышать, что кто-то приходя на @moscowjs не может найти способа пообщаться, узнать ответ на свой вопрос... Как так? [2][598780309505716224]
+Для меня немного странно слышать, что кто-то приходя на <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> не может найти способа пообщаться, узнать ответ на свой вопрос... Как так?
 
-.@kojoru ты был только на митапе, который был в @yandex? Он был одним из первых в прошлом году, мы многое поменяли с тех пор. [3][598780570869567489]
+.<a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a> ты был только на митапе, который был в <a href="https://twitter.com/yandex" title="Яндекс">@yandex</a>? Он был одним из первых в прошлом году, мы многое поменяли с тех пор.
 
-Вообще-то, мы с @filipovskii приехали на @jsconfbp с миссией. Только цссс, не проболтайтесь ;) [4][598780814957158400]
+Вообще-то, мы с <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a> приехали на <a href="https://twitter.com/jsconfbp" title="JSConf BP">@jsconfbp</a> с миссией. Только цссс, не проболтайтесь ;)
 
-Самое сложное, что желающих придти на @moscowjs становится все &gt;. Мы ищем площадки с большей вместимостью! Пишите нам, у кого такая есть plz [5][598781622364807168]
+Самое сложное, что желающих придти на <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> становится все &gt;. Мы ищем площадки с большей вместимостью! Пишите нам, у кого такая есть plz
 
-Похоже надо лично поболтать на эту тему. @filipovskii @KSDaemon @tenphi  https://t.co/UKtoT6CyJx [6][598781872307576832]
+Похоже надо лично поболтать на эту тему. <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a> <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/tenphi" title="Andrey Yamanov">@tenphi</a>  <a href="https://t.co/UKtoT6CyJx">twitter.com/kojoru/status/…</a>
 
-RT @filipovskii: @jsunderhood "только csss" :) [7][598787751711010816]
+RT <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> "только csss" :)
 
-RT @moscowjs: Друзья, а знаете ли вы, что после *каждого* MoscowJS мы делаем afterparty? [8][598787816928182272]
+RT <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>: Друзья, а знаете ли вы, что после *каждого* MoscowJS мы делаем afterparty?
 
-Сорян, но снова к вопросу о языках. По правилам @jsconf, все доклады должны быть на английском. Россия не будет исключением. [9][598790404331417600]
+Сорян, но снова к вопросу о языках. По правилам <a href="https://twitter.com/jsconf" title="JSConf 2015">@jsconf</a>, все доклады должны быть на английском. Россия не будет исключением.
 
-Кто там шуток просил? По-моему это ржака, если вы понимаете, о чем я ;) @RadioJSPodcast http://t.co/17SbrYiBej [10][598791044218679296]
+Кто там шуток просил? По-моему это ржака, если вы понимаете, о чем я ;) <a href="https://twitter.com/RadioJSPodcast" title="RadioJS Podcast">@RadioJSPodcast</a> <a href="http://t.co/17SbrYiBej">pic.twitter.com/17SbrYiBej</a>
 
-RT @KSDaemon: @kojoru @jsunderhood @moscowjs надо самому проявлять инициативу в общении: задать вопрос, прокоментировать, поспорить, спросить совета и тд [11][598791581232197632]
+RT <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a>: <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> надо самому проявлять инициативу в общении: задать вопрос, прокоментировать, поспорить, спроси…
 
-Думаю, не все знает: все докладчики @moscowjs получают менторинг с нашей стороны и пожизненный свободный вход без регистрации на все митапы. [12][598793261176758272]
+Думаю, не все знает: все докладчики <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> получают менторинг с нашей стороны и пожизненный свободный вход без регистрации на все митапы.
 
-Да, еще в качестве бонуса, докладчики @moscowjs на прогонах получают критику и советы от @rdvornov! А это уже не мало, я вам скажу ;) [13][598794157327519744]
+Да, еще в качестве бонуса, докладчики <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> на прогонах получают критику и советы от <a href="https://twitter.com/rdvornov" title="Roman Dvornov">@rdvornov</a>! А это уже не мало, я вам скажу ;)
 
-Кстати, как вы оцениваете уровень докладов на последних @moscowjs? У меня очень субъективное мнение на этот счет, нужны ваши субъективные... [14][598794510039154688]
+Кстати, как вы оцениваете уровень докладов на последних <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>? У меня очень субъективное мнение на этот счет, нужны ваши субъективные...
 
-Пообщались с @_Nec. Thanks Szabolcs for sharing your experience in organizing #jsconfbp. Cc @bashmish @filipovskii http://t.co/uSzlPTOMCm [15][598823371015647232]
+Пообщались с <a href="https://twitter.com/_Nec" title="Szabolcs Toth">@_Nec</a>. Thanks Szabolcs for sharing your experience in organizing <a href="https://twitter.com/search?q=%23jsconfbp">#jsconfbp</a>. Cc <a href="https://twitter.com/bashmish" title="Misha Bashkirov">@bashmish</a> <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a> <a href="http://t.co/uSzlPTOMCm">pic.twitter.com/uSzlPTOMCm</a>
 
-.@kojoru @mkazantsev а что за конференция, которую Яндекс не смог привезти? [16][598824778988986368]
+.<a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a> <a href="https://twitter.com/mkazantsev" title="Maxim Kazantsev">@mkazantsev</a> а что за конференция, которую Яндекс не смог привезти?
 
-Много разговоров про функциональщину на #jsconfbp. Иногда мне кажется, что люди забывают, что на одной FRP-либе все приложение не напишешь. [17][598827203183419392]
+Много разговоров про функциональщину на <a href="https://twitter.com/search?q=%23jsconfbp">#jsconfbp</a>. Иногда мне кажется, что люди забывают, что на одной FRP-либе все приложение не напишешь.
 
-RT @webstandards_ru: Прямая трансляция с JSConf в Будапеште сегодня и завтра весь день, не пропустите — http://t.co/urKjmzuHPy http://t.co/ziXzOJrU6U [18][598849583016505344]
+RT <a href="https://twitter.com/webstandards_ru" title="Веб-стандарты">@webstandards_ru</a>: Прямая трансляция с JSConf в Будапеште сегодня и завтра весь день, не пропустите — <a href="http://t.co/urKjmzuHPy">jsconfbp.com</a> <a href="http://t.co/ziXzOJrU6U">pic.twitter.com/ziXzOJrU6U</a>
 
-Лучший комментарий на тему возвращения io.js в Node Foundation https://t.co/hByCumopQV http://t.co/DJpo8TOFqa [19][598850423714353152]
+Лучший комментарий на тему возвращения io.js в Node Foundation <a href="https://t.co/hByCumopQV">github.com/iojs/io.js/iss…</a> <a href="http://t.co/DJpo8TOFqa">pic.twitter.com/DJpo8TOFqa</a>
 
-После доклада @boennemann о SemVer задумался: и правда никто не следует ему. В двух словах не объяснить, просто понаблюдайте. #jsconfbp [20][598851377599815680]
+После доклада <a href="https://twitter.com/boennemann" title="Stephan Bönnemann">@boennemann</a> о SemVer задумался: и правда никто не следует ему. В двух словах не объяснить, просто понаблюдайте. <a href="https://twitter.com/search?q=%23jsconfbp">#jsconfbp</a>
 
-RT @janl: The German word for fear of increasing the major version number. By @boennemann #jsconfbp http://t.co/qIvFHuN8I7 [21][598862601112711169]
+RT <a href="https://twitter.com/janl" title="Jan Lehnardt">@janl</a>: The German word for fear of increasing the major version number. By <a href="https://twitter.com/boennemann" title="Stephan Bönnemann">@boennemann</a> <a href="https://twitter.com/search?q=%23jsconfbp">#jsconfbp</a> <a href="http://t.co/qIvFHuN8I7">pic.twitter.com/qIvFHuN8I7</a>
 
-.@sudodoki @subzey нет, но нужен ментор из числа организаторов, например тот же Саболш может им быть. Но это совсем не сложно, на самом деле [22][598904579028348930]
+.<a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> <a href="https://twitter.com/subzey" title="subzey">@subzey</a> нет, но нужен ментор из числа организаторов, например тот же Саболш может им быть. Но это совсем не сложно, на самом деле
 
-.@sudodoki опыта уже более чем достаточно, хотя и не на 200+. Полагаю, что у нас проблем с организацией не будет. А вот с контентом 100%... [23][598905773213806594]
+.<a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> опыта уже более чем достаточно, хотя и не на 200+. Полагаю, что у нас проблем с организацией не будет. А вот с контентом 100%...
 
-RT @SilentImp: @morhetz каждый спикер проекта будет говорить о том, что близко и интересно именно ему. Easy, there! @jsunderhood [24][598908791476879360]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a> каждый спикер проекта будет говорить о том, что близко и интересно именно ему. Easy, there! <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
-Павел @morhetz считает, что чертовски важно обсудить тут новость про io.js. Но отклик на твит про эту новость был почти нулевой. Ммм... [25][598909721677045760]
+Павел <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a> считает, что чертовски важно обсудить тут новость про io.js. Но отклик на твит про эту новость был почти нулевой. Ммм...
 
-Кстати, нас критикуют, что мы в @RadioJSPodcast слишком подробно обсуждаем темы. Блин, ребят, мы ж не дикторы, чтобы заголовки зачитывать. [26][598910527318970368]
+Кстати, нас критикуют, что мы в <a href="https://twitter.com/RadioJSPodcast" title="RadioJS Podcast">@RadioJSPodcast</a> слишком подробно обсуждаем темы. Блин, ребят, мы ж не дикторы, чтобы заголовки зачитывать.
 
-Хотя при этом лично мое мнение: порой нас заносит чуток. Но формат нашего подкаста подразумевает обсуждение, мы стараемся придерживаться его [27][598910781577637889]
+Хотя при этом лично мое мнение: порой нас заносит чуток. Но формат нашего подкаста подразумевает обсуждение, мы стараемся придерживаться его
 
-Как считаете, девушки в подкастах, например @radio_t и DevZen, это хорошо или плохо? Сорри, если вопрос кажется сексистским. [28][598911408462503936]
+Как считаете, девушки в подкастах, например <a href="https://twitter.com/radio_t" title="radio_t">@radio_t</a> и DevZen, это хорошо или плохо? Сорри, если вопрос кажется сексистским.
 
-Давайте спросим у наших друзей @gopiterjs, как пошли сегодня доклады на английском? Как отзываются слушатели? Как в целом атмосфера? [29][598912222337859586]
+Давайте спросим у наших друзей <a href="https://twitter.com/gopiterjs" title="PiterJS">@gopiterjs</a>, как пошли сегодня доклады на английском? Как отзываются слушатели? Как в целом атмосфера?
 
-Кстати, пообщались с французами сегодня. Говорят, в Париже митапы стараются на французском делать. Хотя внутри компаний английский - норма [30][598912507902832640]
+Кстати, пообщались с французами сегодня. Говорят, в Париже митапы стараются на французском делать. Хотя внутри компаний английский - норма
 
-Вот. Собственно, я такого же мнения придерживаюсь. Но добавлю: без девушки суховато, когда ведущих много. https://t.co/o5ZM60Hqt6 [31][598912849247936512]
+Вот. Собственно, я такого же мнения придерживаюсь. Но добавлю: без девушки суховато, когда ведущих много. <a href="https://t.co/o5ZM60Hqt6">twitter.com/sudodoki/statu…</a>
 
-Good news, everyone! https://t.co/O8aawEFndo [32][598912954902392832]
+Good news, everyone! <a href="https://t.co/O8aawEFndo">twitter.com/gopiterjs/stat…</a>
 
-Нафига объединяться? Имхо, потому что фрагментация получилась нездоровая. https://t.co/fDGQJH0WOS [33][598913662359834624]
+Нафига объединяться? Имхо, потому что фрагментация получилась нездоровая. <a href="https://t.co/fDGQJH0WOS">twitter.com/dcromster/stat…</a>
 
-Почти все подкасты и радио записи слушаю на 1.5x, наш переслушиваю тоже на этой скорости. Это норм :) https://t.co/YkSoMeXZCC [34][598917963589275648]
-
-[598779482279936000]: https://twitter.com/jsunderhood/status/598779482279936000
-[598780017972248578]: https://twitter.com/jsunderhood/status/598780017972248578
-[598780309505716224]: https://twitter.com/jsunderhood/status/598780309505716224
-[598780570869567489]: https://twitter.com/jsunderhood/status/598780570869567489
-[598780814957158400]: https://twitter.com/jsunderhood/status/598780814957158400
-[598781622364807168]: https://twitter.com/jsunderhood/status/598781622364807168
-[598781872307576832]: https://twitter.com/jsunderhood/status/598781872307576832
-[598787751711010816]: https://twitter.com/jsunderhood/status/598787751711010816
-[598787816928182272]: https://twitter.com/jsunderhood/status/598787816928182272
-[598790404331417600]: https://twitter.com/jsunderhood/status/598790404331417600
-[598791044218679296]: https://twitter.com/jsunderhood/status/598791044218679296
-[598791581232197632]: https://twitter.com/jsunderhood/status/598791581232197632
-[598793261176758272]: https://twitter.com/jsunderhood/status/598793261176758272
-[598794157327519744]: https://twitter.com/jsunderhood/status/598794157327519744
-[598794510039154688]: https://twitter.com/jsunderhood/status/598794510039154688
-[598823371015647232]: https://twitter.com/jsunderhood/status/598823371015647232
-[598824778988986368]: https://twitter.com/jsunderhood/status/598824778988986368
-[598827203183419392]: https://twitter.com/jsunderhood/status/598827203183419392
-[598849583016505344]: https://twitter.com/jsunderhood/status/598849583016505344
-[598850423714353152]: https://twitter.com/jsunderhood/status/598850423714353152
-[598851377599815680]: https://twitter.com/jsunderhood/status/598851377599815680
-[598862601112711169]: https://twitter.com/jsunderhood/status/598862601112711169
-[598904579028348930]: https://twitter.com/jsunderhood/status/598904579028348930
-[598905773213806594]: https://twitter.com/jsunderhood/status/598905773213806594
-[598908791476879360]: https://twitter.com/jsunderhood/status/598908791476879360
-[598909721677045760]: https://twitter.com/jsunderhood/status/598909721677045760
-[598910527318970368]: https://twitter.com/jsunderhood/status/598910527318970368
-[598910781577637889]: https://twitter.com/jsunderhood/status/598910781577637889
-[598911408462503936]: https://twitter.com/jsunderhood/status/598911408462503936
-[598912222337859586]: https://twitter.com/jsunderhood/status/598912222337859586
-[598912507902832640]: https://twitter.com/jsunderhood/status/598912507902832640
-[598912849247936512]: https://twitter.com/jsunderhood/status/598912849247936512
-[598912954902392832]: https://twitter.com/jsunderhood/status/598912954902392832
-[598913662359834624]: https://twitter.com/jsunderhood/status/598913662359834624
-[598917963589275648]: https://twitter.com/jsunderhood/status/598917963589275648
+Почти все подкасты и радио записи слушаю на 1.5x, наш переслушиваю тоже на этой скорости. Это норм :) <a href="https://t.co/YkSoMeXZCC">twitter.com/_sashashakun/s…</a>
 
 ## Пятница <small>10 твитов</small>
 
-RT @sudodoki: @ixth просто конструкции xsl:for-each/xsl:choose/xsl:when + xsl:otherwise/xsl:value-of наводят на мысли о источнике вдохновения ангуляра. [0][599123293413744640]
+RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/ixth" title="Ихтч">@ixth</a> просто конструкции xsl:for-each/xsl:choose/xsl:when + xsl:otherwise/xsl:value-of наводят на мысли о источнике вдохновен…
 
-По мотивам доклада @PascalPrecht на #jsconfp обсуждаем, как много в Angular из мира Java. Схожесть шаблонизатора с XSLT идёт оттуда же. [1][599136146317287424]
+По мотивам доклада <a href="https://twitter.com/PascalPrecht" title="Pascal Precht ʕ•̫͡•ʔ">@PascalPrecht</a> на <a href="https://twitter.com/search?q=%23jsconfp">#jsconfp</a> обсуждаем, как много в Angular из мира Java. Схожесть шаблонизатора с XSLT идёт оттуда же.
 
-Фёдор @indutny из @yandex рассказывает про C++ кишки io.js. Надо будет узнать у него, что он про объединение думает. http://t.co/p3ioHr8TTw [2][599153571209289728]
+Фёдор <a href="https://twitter.com/indutny" title="Fedor Indutny">@indutny</a> из <a href="https://twitter.com/yandex" title="Яндекс">@yandex</a> рассказывает про C++ кишки io.js. Надо будет узнать у него, что он про объединение думает. <a href="http://t.co/p3ioHr8TTw">pic.twitter.com/p3ioHr8TTw</a>
 
-Позиция node.js касательно объединения - #iojsнаш :) Шутка юмора. [3][599153824322949120]
+Позиция node.js касательно объединения - <a href="https://twitter.com/search?q=%23iojsнаш">#iojsнаш</a> :) Шутка юмора.
 
-Фёдор @indutny: "Ничто не остановит нас, если снова захотим форкнуть node". #jsconfbp [4][599159632150532096]
+Фёдор <a href="https://twitter.com/indutny" title="Fedor Indutny">@indutny</a>: "Ничто не остановит нас, если снова захотим форкнуть node". <a href="https://twitter.com/search?q=%23jsconfbp">#jsconfbp</a>
 
-Кто ещё помнит такие истории? https://t.co/5qiG1NUAar [5][599183601301889024]
+Кто ещё помнит такие истории? <a href="https://t.co/5qiG1NUAar">twitter.com/toivonens/stat…</a>
 
-RT @suevalov: @jsunderhood @toivonens Тоже попал в такую историю на одном проекте - осталась только min версия. Пришлось срочно искать замену библиотеке. [6][599186784761868288]
+RT <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> Тоже попал в такую историю на одном проекте - осталась только min версия. Пришлось срочно искать заме…
 
-RT @iamstarkov: @jsunderhood Марк http://t.co/9EvGfO0H1W [7][599186795549630465]
+RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Марк <a href="http://t.co/9EvGfO0H1W">wikiwand.com/en/Mark_Pilgrim</a>
 
-RT @mursya_ru: @dfilatov_ @jsunderhood @moscowjs стоит ехать ради тусовки и живого общения со спикерами и народом. остальное все на ютюбе :) [8][599186821956898816]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/dfilatov_" title="Филатов Дмитрий">@dfilatov_</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> стоит ехать ради тусовки и живого общения со спикерами и народом. остальное все на ютюбе :)
 
-.@SilentImp @mursya_ru @dfilatov_ @moscowjs вопросы всегда принимают через твиттер, хоть где-то он по настоящему полезен) [9][599226002498260993]
-
-[599123293413744640]: https://twitter.com/jsunderhood/status/599123293413744640
-[599136146317287424]: https://twitter.com/jsunderhood/status/599136146317287424
-[599153571209289728]: https://twitter.com/jsunderhood/status/599153571209289728
-[599153824322949120]: https://twitter.com/jsunderhood/status/599153824322949120
-[599159632150532096]: https://twitter.com/jsunderhood/status/599159632150532096
-[599183601301889024]: https://twitter.com/jsunderhood/status/599183601301889024
-[599186784761868288]: https://twitter.com/jsunderhood/status/599186784761868288
-[599186795549630465]: https://twitter.com/jsunderhood/status/599186795549630465
-[599186821956898816]: https://twitter.com/jsunderhood/status/599186821956898816
-[599226002498260993]: https://twitter.com/jsunderhood/status/599226002498260993
+.<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a> <a href="https://twitter.com/dfilatov_" title="Филатов Дмитрий">@dfilatov_</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> вопросы всегда принимают через твиттер, хоть где-то он по настоящему полезен)
 
 ## Суббота <small>7 твитов</small>
 
-RT @spugachev: @SBozhko @jsunderhood @radio_t парни в подкастах - это вообще ни в какие ворота! Не слушаю подкасты с парнями [0][599513257586593793]
+RT <a href="https://twitter.com/spugachev" title="Sergey Pugachev">@spugachev</a>: <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/radio_t" title="radio_t">@radio_t</a> парни в подкастах - это вообще ни в какие ворота! Не слушаю подкасты с парнями
 
-RT @SBozhko: А вы как считаете, парни в подкастах — это хорошо иди плохо? Ахуенный же вопрос! https://t.co/dvoLMCEAbI [1][599514295777566720]
+RT <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a>: А вы как считаете, парни в подкастах — это хорошо иди плохо? Ахуенный же вопрос! <a href="https://t.co/dvoLMCEAbI">twitter.com/jsunderhood/st…</a>
 
-Похоже, теперь я знаю еще одну тему, на которую публично надо говорить либо хорошо, либо никак. [2][599514841267712000]
+Похоже, теперь я знаю еще одну тему, на которую публично надо говорить либо хорошо, либо никак.
 
-Очень хочу, чтобы девушка из мира фронтенда разбавила наш мужской состав в RadioJS. Поэтому задал вопрос. Имхо, формулировка была норм. [3][599530962448457728]
+Очень хочу, чтобы девушка из мира фронтенда разбавила наш мужской состав в RadioJS. Поэтому задал вопрос. Имхо, формулировка была норм.
 
-.@iamstarkov также как и не девушки. Типичный пример искажения смысла вопроса. Но меня интересовали девушки, поэтому вопрос про них. [4][599613146769268737]
+.<a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> также как и не девушки. Типичный пример искажения смысла вопроса. Но меня интересовали девушки, поэтому вопрос про них.
 
-Вот пишешь вопрос в 140 символов, пытаешься вместить его, сокращаешь формулировки... В итоге смысл хрен донесешь) Нет уж, не для меня это. [5][599657006753001472]
+Вот пишешь вопрос в 140 символов, пытаешься вместить его, сокращаешь формулировки... В итоге смысл хрен донесешь) Нет уж, не для меня это.
 
-Узнал про понятие Front End Ops. [6][599657340959379456]
-
-[599513257586593793]: https://twitter.com/jsunderhood/status/599513257586593793
-[599514295777566720]: https://twitter.com/jsunderhood/status/599514295777566720
-[599514841267712000]: https://twitter.com/jsunderhood/status/599514841267712000
-[599530962448457728]: https://twitter.com/jsunderhood/status/599530962448457728
-[599613146769268737]: https://twitter.com/jsunderhood/status/599613146769268737
-[599657006753001472]: https://twitter.com/jsunderhood/status/599657006753001472
-[599657340959379456]: https://twitter.com/jsunderhood/status/599657340959379456
+Узнал про понятие Front End Ops.
 
 ## Воскресенье <small>1 твит</small>
 
-.@toivonens @iamstarkov мб, все дело в том, что я плохой дипломат и только учусь, и совсем недавно стал публичным человеком. Все новое... [0][599700477912227841]
-
-[599700477912227841]: https://twitter.com/jsunderhood/status/599700477912227841
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> мб, все дело в том, что я плохой дипломат и только учусь, и совсем недавно стал публичным человеком. Все новое...

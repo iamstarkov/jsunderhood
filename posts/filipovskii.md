@@ -4,48 +4,32 @@ _14 февраля 2015_
 
 ## Понедельник <small>5 твитов</small>
 
-Эту неделю буду вести аккаунт я, @filipovskii. Full-stack кодер, организатор @moscowjs, со-ведущий @RadioJSPodcast, сёрфер-любитель. Привет! [0][564697062378594304]
+Эту неделю буду вести аккаунт я, <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a>. Full-stack кодер, организатор <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>, со-ведущий <a href="https://twitter.com/RadioJSPodcast" title="RadioJS Podcast">@RadioJSPodcast</a>, сёрфер-любитель. Привет!
 
-В пятницу собрались в офисе на просмотр видео с React.js Conf 2015: http://t.co/B0Be2C5XsD Особенно порадовали Immutable.js и React Native [1][564697244411387905]
+В пятницу собрались в офисе на просмотр видео с React.js Conf 2015: <a href="http://t.co/B0Be2C5XsD">youtube.com/playlist?list=…</a> Особенно порадовали Immutable.js и React Native
 
-Stand-Hop — новая модная техника Scrum. Под жирный бит каждый зачитывает: Что он делал вчера? Что будет делать сегодня? Есть ли блоки? [2][564699183429742592]
+Stand-Hop — новая модная техника Scrum. Под жирный бит каждый зачитывает: Что он делал вчера? Что будет делать сегодня? Есть ли блоки?
 
-RT @RadioJSPodcast: Товарищи, к вашему вниманию 17-й выпуск подкаста! В гостях Роман @rdvornov. Opera &amp; Microsoft, спеки и стандарты. http://t.co/cqSnGcU7x6 [3][564740408945938433]
+RT <a href="https://twitter.com/RadioJSPodcast" title="RadioJS Podcast">@RadioJSPodcast</a>: Товарищи, к вашему вниманию 17-й выпуск подкаста! В гостях Роман <a href="https://twitter.com/rdvornov" title="Roman Dvornov">@rdvornov</a>. Opera &amp; Microsoft, спеки и стандарты. http:<a href="http://t.co/cqSnGcU7x6">bit.ly/1zNVk1N</a>
 
-RT @moscowjs: Мы выложили видео докладов с MoscowJS 18. Говорили про #flux, #alasql, #csp и #webrtc https://t.co/qRwaFA8krY [4][564788407738847232]
-
-[564697062378594304]: https://twitter.com/jsunderhood/status/564697062378594304
-[564697244411387905]: https://twitter.com/jsunderhood/status/564697244411387905
-[564699183429742592]: https://twitter.com/jsunderhood/status/564699183429742592
-[564740408945938433]: https://twitter.com/jsunderhood/status/564740408945938433
-[564788407738847232]: https://twitter.com/jsunderhood/status/564788407738847232
+RT <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>: Мы выложили видео докладов с MoscowJS 18. Говорили про <a href="https://twitter.com/search?q=%23flux">#flux</a>, <a href="https://twitter.com/search?q=%23alasql">#alasql</a>, <a href="https://twitter.com/search?q=%23csp">#csp</a> и <a href="https://twitter.com/search?q=%23webrtc">#webrtc</a> <a href="https://t.co/qRwaFA8krY">youtube.com/playlist?list=…</a>
 
 ## Среда <small>2 твита</small>
 
-http://t.co/WyH8k6Zg4n — набор юного html5 мобильного разработчика. В комплекте #React, #npm, #WebPack, #ES2015 [0][565454113597816832]
+<a href="http://t.co/WyH8k6Zg4n">reapp.io</a> — набор юного html5 мобильного разработчика. В комплекте <a href="https://twitter.com/search?q=%23React">#React</a>, <a href="https://twitter.com/search?q=%23npm">#npm</a>, <a href="https://twitter.com/search?q=%23WebPack">#WebPack</a>, <a href="https://twitter.com/search?q=%23ES2015">#ES2015</a>
 
-RT @iojs_ru: Вышел io.js 1.2.0. Ссылки для скачивания под все платформы: https://t.co/i8r4Aj7RDU, список изменений: https://t.co/4yLfkrYmIB [1][565468169033506816]
-
-[565454113597816832]: https://twitter.com/jsunderhood/status/565454113597816832
-[565468169033506816]: https://twitter.com/jsunderhood/status/565468169033506816
+RT <a href="https://twitter.com/iojs_ru" title="iojs-ru">@iojs_ru</a>: Вышел io.js 1.2.0. Ссылки для скачивания под все платформы: <a href="https://t.co/i8r4Aj7RDU">iojs.org</a>, список изменений: <a href="https://t.co/4yLfkrYmIB">github.com/iojs/io.js/blo…</a>
 
 ## Четверг <small>2 твита</small>
 
-Отличная статья про Soundscript — строгий быстрый Javascript от Google http://t.co/mp2V5b6wqA [0][565782351729672192]
+Отличная статья про Soundscript — строгий быстрый Javascript от Google <a href="http://t.co/mp2V5b6wqA">2ality.com/2015/02/sounds…</a>
 
-Настоящий программист перед сном считает овец в двоичной системе! Хорошего вечера! [1][565982117197524992]
-
-[565782351729672192]: https://twitter.com/jsunderhood/status/565782351729672192
-[565982117197524992]: https://twitter.com/jsunderhood/status/565982117197524992
+Настоящий программист перед сном считает овец в двоичной системе! Хорошего вечера!
 
 ## Пятница <small>1 твит</small>
 
-RT @moscowjs: 14-15 мая пройдёт #JSConf.Budapest! Там будет так же круто, как на конференции в Берлине, но не так дорого http://t.co/FrYuDGNljh [0][566168229090197504]
-
-[566168229090197504]: https://twitter.com/jsunderhood/status/566168229090197504
+RT <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>: 14-15 мая пройдёт <a href="https://twitter.com/search?q=%23JSConf">#JSConf</a>.Budapest! Там будет так же круто, как на конференции в Берлине, но не так дорого <a href="http://t.co/FrYuDGNljh">jsconfbp.com</a>
 
 ## Суббота <small>1 твит</small>
 
-Очень занимательное чтиво на тему потоки vs события http://t.co/c0UPQEHPn7 [0][566640827594997760]
-
-[566640827594997760]: https://twitter.com/jsunderhood/status/566640827594997760
+Очень занимательное чтиво на тему потоки vs события <a href="http://t.co/c0UPQEHPn7">static.usenix.org/events/hotos03…</a>

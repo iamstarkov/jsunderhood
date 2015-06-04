@@ -4,557 +4,378 @@ _26 апреля 2015_
 
 ## Понедельник <small>42 твита</small>
 
-Доброе утро всем в этом чатике! Целую неделю вам предстоит терпеть меня, @pukhalski, в эфире @jsunderhood. Поехали! [0][590058545422409728]
+Доброе утро всем в этом чатике! Целую неделю вам предстоит терпеть меня, <a href="https://twitter.com/pukhalski" title="llya Pukhalski">@pukhalski</a>, в эфире <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>. Поехали!
 
-Кратко представлюсь: архитектор в @EPAMSYSTEMS Amsterdam. Интересы: web, mobile, IoT, качалка головного мозга, музыка, @Webnotbombs. [1][590062442618687489]
+Кратко представлюсь: архитектор в <a href="https://twitter.com/EPAMSYSTEMS" title="EPAM Systems">@EPAMSYSTEMS</a> Amsterdam. Интересы: web, mobile, IoT, качалка головного мозга, музыка, <a href="https://twitter.com/Webnotbombs" title="Web Not Bombs">@Webnotbombs</a>.
 
-RT @toivonens: @jsunderhood Напиши про то чем ты занимаешься сейчас и как к этому пришёл, чем занимался год два три назад? [2][590068054777843712]
+RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Напиши про то чем ты занимаешься сейчас и как к этому пришёл, чем занимался год два три назад?
 
-.@toivonens, последние 2 недели скрещивал Flux с Knockout, интегрируя все это с AEM и Hybris. [3][590068407191633920]
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>, последние 2 недели скрещивал Flux с Knockout, интегрируя все это с AEM и Hybris.
 
-.@toivonens Полгода перед этим делал дизайн (читай, рисовал диаграммки) для Home Automation решения. То есть, it depends. [4][590068747152547840]
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> Полгода перед этим делал дизайн (читай, рисовал диаграммки) для Home Automation решения. То есть, it depends.
 
-.@toivonens четыре года назад пришел в EPAM как senior software engineer, но попал под жэсточайшую реструктуризацию в компании. [5][590069096403841025]
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> четыре года назад пришел в EPAM как senior software engineer, но попал под жэсточайшую реструктуризацию в компании.
 
-.@toivonens время-место, люди, мои навыки и образование (jack of all trades, master of none) направили меня в EPAM Mobile Competency Center [6][590069579700953088]
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> время-место, люди, мои навыки и образование (jack of all trades, master of none) направили меня в EPAM Mobile Competency Center
 
-.@toivonens то есть, скорее, увидев потенциал, мне создали все условия, чтобы я стал выполнять роль архитектора. [7][590070006324580352]
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> то есть, скорее, увидев потенциал, мне создали все условия, чтобы я стал выполнять роль архитектора.
 
-.@toivonens, и теперь я понимаю, что иногда просто необходимо ставить задачу прыгнуть выше своей головы. Иначе ничего не получится. [8][590070391357452288]
+.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>, и теперь я понимаю, что иногда просто необходимо ставить задачу прыгнуть выше своей головы. Иначе ничего не получится.
 
-.@iiiii @krivlenia http://t.co/V87pSb1N8H [9][590070872968396800]
+.<a href="https://twitter.com/iiiii" title="iiiii">@iiiii</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="http://t.co/V87pSb1N8H">pic.twitter.com/V87pSb1N8H</a>
 
-RT @Krivlenia: @jsunderhood Ты работаешь архитектором, как выбираешь технологии, если они не спускаются, от заказчика? Или пользуешься наработанным стеком? [10][590071166334799872]
+RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Ты работаешь архитектором, как выбираешь технологии, если они не спускаются, от заказчика? Или пользуешься нара…
 
-.@krivlenia от конкретной ситуации. Иногда решение очевидно, иногда приходится смириться с выбором заказчика, иногда приходится поискать. [11][590071391283732480]
+.<a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> от конкретной ситуации. Иногда решение очевидно, иногда приходится смириться с выбором заказчика, иногда приходится поискать.
 
-RT @shuvalov_anton: @jsunderhood а что ты имел в виду под музыкой? [12][590072106580312064]
+RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а что ты имел в виду под музыкой?
 
-.@shuvalov_anton ранее играл в нескольких низкобюджетных панк и метал бандах. Сейчас занимаю позицию сочувствующего меломана. [13][590073339193995264]
+.<a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a> ранее играл в нескольких низкобюджетных панк и метал бандах. Сейчас занимаю позицию сочувствующего меломана.
 
-RT @jsunderhood: @jsunderhood @toivonens
+RT @matmuchrapna: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>
 &gt; jack of all trades, master of none
-что это? [14][590073458400309248]
+что это?
 
-.@matmuchrapna @toivonens самоирония.
+.@matmuchrapna <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> самоирония.
 
-http://t.co/aJYAIlu7TS [15][590073506047598592]
+<a href="http://t.co/aJYAIlu7TS">en.wikipedia.org/wiki/Jack_of_a…</a>
 
-RT @shuvalov_anton: @jsunderhood знакомо) А есть записи? [16][590082430033383424]
+RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> знакомо) А есть записи?
 
-.@shuvalov_anton 
+.<a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a> 
 2005-2007: 
-- https://t.co/OTvbqUHuOV
+- <a href="https://t.co/OTvbqUHuOV">myspace.com/obediencetoaut…</a>
 
 2010-2013: 
-- https://t.co/6dvq51yTI1
+- <a href="https://t.co/6dvq51yTI1">fcfrwrd.bandcamp.com</a>
 
 2013: 
-- https://t.co/GkKnyqkwQO [17][590082437302063105]
+- <a href="https://t.co/GkKnyqkwQO">vk.com/slavexship</a>
 
-А сейчас мы поделимся на две группы: сторонники MV* в правом углу в красных шортах и приверженцы Flux в левом углу в белых подгузниках... [18][590092953043017729]
+А сейчас мы поделимся на две группы: сторонники MV* в правом углу в красных шортах и приверженцы Flux в левом углу в белых подгузниках...
 
-RT @jsunderhood: @jsunderhood А ты в каком углу? :) [19][590093347211124737]
+RT @itgek: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А ты в каком углу? :)
 
-.@itgek если честно, я примерил подгузники — ничего так, не жмут. [20][590093588614279168]
+.@itgek если честно, я примерил подгузники — ничего так, не жмут.
 
-RT @jsunderhood: @itgek @jsunderhood реферри [21][590093632994160640]
+RT @matmuchrapna: @itgek <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> реферри
 
-Рубрику "Послеобеденное видео" сегодня представляет @awbjs с докладом о JS как языке эры распределенных вычислений.
+Рубрику "Послеобеденное видео" сегодня представляет <a href="https://twitter.com/awbjs" title="Allen Wirfs-Brock">@awbjs</a> с докладом о JS как языке эры распределенных вычислений.
 
-https://t.co/34dKB4I7vg [22][590102388314394624]
+<a href="https://t.co/34dKB4I7vg">vimeo.com/67050196</a>
 
-RT @Rukomoynikov: @jsunderhood мне интересно мы говорим frontend developer, подразумеваем в том числе и крутого-верстальщика? Или вёрстка это пройденный этап? [23][590124351644704768]
+RT <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> мне интересно мы говорим frontend developer, подразумеваем в том числе и крутого-верстальщика? Или вёрстка э…
 
-.@rukomoynikov, для меня верстка всегда была и будет частью frontend (хотя значение этого термина варьируется в зависимости от контекста). [24][590124490018971648]
+.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>, для меня верстка всегда была и будет частью frontend (хотя значение этого термина варьируется в зависимости от контекста).
 
-.@rukomoynikov, с другой стороны в текущем рынке есть достаточно места и "чистым JS-разработчикам". [25][590124664137068544]
+.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>, с другой стороны в текущем рынке есть достаточно места и "чистым JS-разработчикам".
 
-.@rukomoynikov, лучший совет, который я могу дать — этот вопрос стоит задать самому себе. [26][590124955301478400]
+.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>, лучший совет, который я могу дать — этот вопрос стоит задать самому себе.
 
-RT @iiiii: @jsunderhood куда вставать тем кто ждет relay? [27][590125254313451521]
+RT <a href="https://twitter.com/iiiii" title="iiiii">@iiiii</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> куда вставать тем кто ждет relay?
 
-.@iiiii, ринг перепутал. [28][590125290619297792]
+.<a href="https://twitter.com/iiiii" title="iiiii">@iiiii</a>, ринг перепутал.
 
-Мне нравится @RadioJSPodcast, но зачастую ощущение, что размазывают маленький кусок масла по целому батону хлеба.  Требую меньше трепа! [29][590126632293289984]
+Мне нравится <a href="https://twitter.com/RadioJSPodcast" title="RadioJS Podcast">@RadioJSPodcast</a>, но зачастую ощущение, что размазывают маленький кусок масла по целому батону хлеба.  Требую меньше трепа!
 
-RT @dshster: @jsunderhood @Rukomoynikov чистый js-разработчик это скорее всего nodejs, который браузера совсем не касается. А фронт верстать будет всегда [30][590139641329778688]
+RT <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> чистый js-разработчик это скорее всего nodejs, который браузера совсем не касается. А фронт верстат…
 
-RT @dshster: @dshster @jsunderhood @Rukomoynikov Не всегда. Довольно часто верстают дизайнеры. [31][590139654743134208]
+RT @itgek: <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> Не всегда. Довольно часто верстают дизайнеры.
 
-RT @Rukomoynikov: @Rukomoynikov @dshster @jsunderhood Ты не поверишь, но на западе это норма. [32][590139793088053248]
+RT @itgek: <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Ты не поверишь, но на западе это норма.
 
-.@itgek @rukomoynikov @dshster, если честно, то такая же норма, как и в ex-USSR. [33][590139878706405376]
+.@itgek <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>, если честно, то такая же норма, как и в ex-USSR.
 
-RT @Rukomoynikov: @itgek @dshster @jsunderhood Слушай, ну может там просто уровень интерфейсов ниже? Я не встречал ни разу дизайнера-верстальщика, ни разу. [34][590140786299297792]
+RT <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>: @itgek <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Слушай, ну может там просто уровень интерфейсов ниже? Я не встречал ни разу дизайнера-верста…
 
-.@rukomoynikov @itgek @dshster, я лично встречал. И ни одного. И даже растил-холил-лелеял нескольких таких суперстаров. [35][590140894889832448]
+.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> @itgek <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>, я лично встречал. И ни одного. И даже растил-холил-лелеял нескольких таких суперстаров.
 
-.@rukomoynikov @itgek @dshster, но это все же редкость в наше время. Но я надеюсь, ситуация изменится. Во всяком случае наблюдаю движение. [36][590141075131609088]
+.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> @itgek <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>, но это все же редкость в наше время. Но я надеюсь, ситуация изменится. Во всяком случае наблюдаю движение.
 
-RT @AlexShow: @jsunderhood @Rukomoynikov @itgek @dshster Я верстаю и рисую. Это норма. [37][590146636812316672]
+RT <a href="https://twitter.com/AlexShow" title="Верните снег">@AlexShow</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> @itgek <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> Я верстаю и рисую. Это норма.
 
-.@alexshow @rukomoynikov @itgek @dshster, *highfive*. [38][590146849069277184]
+.<a href="https://twitter.com/AlexShow" title="Верните снег">@AlexShow</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> @itgek <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>, *highfive*.
 
-RT @toivonens: @dshster @jsunderhood @Rukomoynikov Я никогда не верстала, ни одного в жизни макета. [39][590189251712651265]
+RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> Я никогда не верстала, ни одного в жизни макета.
 
-.@dshster @rukomoynikov. В гостях у программы "Чистосердечное признание" Варя @toivonens. [40][590189411033358337]
+.<a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>. В гостях у программы "Чистосердечное признание" Варя <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>.
 
-Черт, Рейсиг нашел оправдание и для следующей версии jQuery. https://t.co/wEGrtPt8OM [41][590213996239806464]
-
-[590058545422409728]: https://twitter.com/jsunderhood/status/590058545422409728
-[590062442618687489]: https://twitter.com/jsunderhood/status/590062442618687489
-[590068054777843712]: https://twitter.com/jsunderhood/status/590068054777843712
-[590068407191633920]: https://twitter.com/jsunderhood/status/590068407191633920
-[590068747152547840]: https://twitter.com/jsunderhood/status/590068747152547840
-[590069096403841025]: https://twitter.com/jsunderhood/status/590069096403841025
-[590069579700953088]: https://twitter.com/jsunderhood/status/590069579700953088
-[590070006324580352]: https://twitter.com/jsunderhood/status/590070006324580352
-[590070391357452288]: https://twitter.com/jsunderhood/status/590070391357452288
-[590070872968396800]: https://twitter.com/jsunderhood/status/590070872968396800
-[590071166334799872]: https://twitter.com/jsunderhood/status/590071166334799872
-[590071391283732480]: https://twitter.com/jsunderhood/status/590071391283732480
-[590072106580312064]: https://twitter.com/jsunderhood/status/590072106580312064
-[590073339193995264]: https://twitter.com/jsunderhood/status/590073339193995264
-[590073458400309248]: https://twitter.com/jsunderhood/status/590073458400309248
-[590073506047598592]: https://twitter.com/jsunderhood/status/590073506047598592
-[590082430033383424]: https://twitter.com/jsunderhood/status/590082430033383424
-[590082437302063105]: https://twitter.com/jsunderhood/status/590082437302063105
-[590092953043017729]: https://twitter.com/jsunderhood/status/590092953043017729
-[590093347211124737]: https://twitter.com/jsunderhood/status/590093347211124737
-[590093588614279168]: https://twitter.com/jsunderhood/status/590093588614279168
-[590093632994160640]: https://twitter.com/jsunderhood/status/590093632994160640
-[590102388314394624]: https://twitter.com/jsunderhood/status/590102388314394624
-[590124351644704768]: https://twitter.com/jsunderhood/status/590124351644704768
-[590124490018971648]: https://twitter.com/jsunderhood/status/590124490018971648
-[590124664137068544]: https://twitter.com/jsunderhood/status/590124664137068544
-[590124955301478400]: https://twitter.com/jsunderhood/status/590124955301478400
-[590125254313451521]: https://twitter.com/jsunderhood/status/590125254313451521
-[590125290619297792]: https://twitter.com/jsunderhood/status/590125290619297792
-[590126632293289984]: https://twitter.com/jsunderhood/status/590126632293289984
-[590139641329778688]: https://twitter.com/jsunderhood/status/590139641329778688
-[590139654743134208]: https://twitter.com/jsunderhood/status/590139654743134208
-[590139793088053248]: https://twitter.com/jsunderhood/status/590139793088053248
-[590139878706405376]: https://twitter.com/jsunderhood/status/590139878706405376
-[590140786299297792]: https://twitter.com/jsunderhood/status/590140786299297792
-[590140894889832448]: https://twitter.com/jsunderhood/status/590140894889832448
-[590141075131609088]: https://twitter.com/jsunderhood/status/590141075131609088
-[590146636812316672]: https://twitter.com/jsunderhood/status/590146636812316672
-[590146849069277184]: https://twitter.com/jsunderhood/status/590146849069277184
-[590189251712651265]: https://twitter.com/jsunderhood/status/590189251712651265
-[590189411033358337]: https://twitter.com/jsunderhood/status/590189411033358337
-[590213996239806464]: https://twitter.com/jsunderhood/status/590213996239806464
+Черт, Рейсиг нашел оправдание и для следующей версии jQuery. <a href="https://t.co/wEGrtPt8OM">twitter.com/jeresig/status…</a>
 
 ## Вторник <small>32 твита</small>
 
-Как думаете, насколько большой является проблема "бесконечного" маркетингового бюджета для опен-сорс решений, скажем, у Google или Facebook? [0][590418840670048257]
+Как думаете, насколько большой является проблема "бесконечного" маркетингового бюджета для опен-сорс решений, скажем, у Google или Facebook?
 
-.@jsunderhood, стоит ли разработчику Васе тратить свое время на поддержку решений гигантов, или же свой скромный велосипед иногда краше? [1][590419350672318464]
+.<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, стоит ли разработчику Васе тратить свое время на поддержку решений гигантов, или же свой скромный велосипед иногда краше?
 
-RT @_sashashakun: @jsunderhood разве это не зависит от того, что принесёт больше профита Васе? [2][590419902634266624]
+RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> разве это не зависит от того, что принесёт больше профита Васе?
 
-.@_sashashakun, вопрос в том, что даже если решение Васи гениальнее, есть ли кусок пирога и для него на рынке? [3][590420145803239424]
+.<a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>, вопрос в том, что даже если решение Васи гениальнее, есть ли кусок пирога и для него на рынке?
 
-.@_h4_, согласен. Но интересная история у него плюс специфика рынка и множество факторов, которые дополнили картину успешности. [4][590420933262888960]
+.@_h4_, согласен. Но интересная история у него плюс специфика рынка и множество факторов, которые дополнили картину успешности.
 
-RT @Rukomoynikov: @jsunderhood В этом твиттере ты уже не первый fd из Амстердама, скажи у вас там есть какое-то коммьюнити русскоговорящих ? [5][590421223567450112]
+RT <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> В этом твиттере ты уже не первый fd из Амстердама, скажи у вас там есть какое-то коммьюнити русскоговорящих ?
 
-.@rukomoynikov, есть. И довольно большое. Так что ждем в гости ;) [6][590421464203034624]
+.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>, есть. И довольно большое. Так что ждем в гости ;)
 
-RT @marinintim: @jsunderhood @_h4_ что же будет, когда она будет в разгаре?) [7][590421875253239808]
+RT <a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/_h4_" title="Mikhail Baranov">@_h4_</a> что же будет, когда она будет в разгаре?)
 
-.@marinintim @_h4_ я думаю, я не в силах ответить на этот вопрос :) [8][590422064160444416]
+.<a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a> <a href="https://twitter.com/_h4_" title="Mikhail Baranov">@_h4_</a> я думаю, я не в силах ответить на этот вопрос :)
 
-RT @andrey_sitnik: @_h4_ @jsunderhood думаю тут нет универсального решения. Создавать клон Реакта — бессмысленно. Но есть много областей, где можно победить. [9][590436086465359872]
+RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/_h4_" title="Mikhail Baranov">@_h4_</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> думаю тут нет универсального решения. Создавать клон Реакта — бессмысленно. Но есть много областей, г…
 
-RT @SilentImp: @jsunderhood тебе не кажется, что место для появления новых решений появляется там, где не справляются существующие? [10][590436106195304448]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тебе не кажется, что место для появления новых решений появляется там, где не справляются существующие?
 
-RT @SilentImp: @jsunderhood всегда будет пространство для новых решений. И на самом деле, чем шире возможножности и больше количество существующих решений… [11][590436115481554945]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> всегда будет пространство для новых решений. И на самом деле, чем шире возможножности и больше количество сущес…
 
-RT @SilentImp: @jsunderhood …тем больше будет пространство для новых. Звучит парадоксально, но это только первое впечатление. [12][590436124297924608]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> …тем больше будет пространство для новых. Звучит парадоксально, но это только первое впечатление.
 
-RT @operatino: @jsunderhood Если использовать их решения по применению, всем только лучше. Если подключать Ангуляр где не поподя, забивая на альтернативы.. [13][590436144506089472]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Если использовать их решения по применению, всем только лучше. Если подключать Ангуляр где не поподя, забивая н…
 
-RT @operatino: @jsunderhood .. сообщество в чем то даже проигрывает. Не пропуская более нишевых игроков, и блокируя другое идеи. [14][590436153972654080]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> .. сообщество в чем то даже проигрывает. Не пропуская более нишевых игроков, и блокируя другое идеи.
 
-RT @operatino: @dshster Есть разница между верстать немного, и верстать (почти) всегда. Pure client-side JS разраб. тоже нужны. @jsunderhood @Rukomoynikov [15][590436182254813184]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> Есть разница между верстать немного, и верстать (почти) всегда. Pure client-side JS разраб. тоже нужны. <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>
 
-RT @operatino: @jsunderhood я считаю что будущее за переходом дизайнеров в верстку и фронтендеров в full stack (но с фокусом на UI) @Rukomoynikov [16][590436192048525312]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я считаю что будущее за переходом дизайнеров в верстку и фронтендеров в full stack (но с фокусом на UI) <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>
 
-RT @Rukomoynikov: @operatino @jsunderhood Тогда UI\UX должны уйти дальше уйти от граф.дизайна, тогда так:
+RT <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>: <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Тогда UI\UX должны уйти дальше уйти от граф.дизайна, тогда так:
 
 1. ui\ux.
-2. граф.диз + вёрстка.
-3. full-stack dev. [17][590436237850312704]
+2. граф.диз + вёрстка.…
 
-RT @operatino: @Rukomoynikov Скорей наоборот UI/UX с версткой, а граф. дизайнеры отдельно @jsunderhood [18][590436250772975617]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> Скорей наоборот UI/UX с версткой, а граф. дизайнеры отдельно <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
-RT @antonfrolovsky: @operatino @rukomoynikov @jsunderhood @jsunderhood а вам не кажется что всегда будут нужны "узкие" специалисты? [19][590440867200139264]
+RT <a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a>: <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а вам не кажется что всегда будут нужны "узкие" специалисты?
 
-.@antonfrolovsky @operatino @rukomoynikov, мне не кажется, я уверен в этом :) [20][590440949005824001]
+.<a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a> <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>, мне не кажется, я уверен в этом :)
 
-RT @lomakin: Из всех туду-менеджеров у меня лучше всего прижился OmniFocus 2 (http://t.co/IvunpIwnMV). А что используете вы? [21][590441078987366402]
+RT <a href="https://twitter.com/lomakin" title="Alexander Lomakin">@lomakin</a>: Из всех туду-менеджеров у меня лучше всего прижился OmniFocus 2 (<a href="http://t.co/IvunpIwnMV">goo.gl/lUNev9</a>). А что используете вы?
 
-.@lomakin, я снова на Wunderlist. Долго сидел на Things из-за GTD, но они медленные в плане фич. Только WL стал GTD-like — перешел на него. [22][590441416880422912]
+.<a href="https://twitter.com/lomakin" title="Alexander Lomakin">@lomakin</a>, я снова на Wunderlist. Долго сидел на Things из-за GTD, но они медленные в плане фич. Только WL стал GTD-like — перешел на него.
 
-RT @dshster: @operatino @jsunderhood @Rukomoynikov ни разу не встречал pure-js client-side. Как он работает в отрыве от браузера? [23][590500070249930754]
+RT <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>: <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> ни разу не встречал pure-js client-side. Как он работает в отрыве от браузера?
 
-Послеобеденное видео: Эрик @headinthebox Мейер объясняет, в чем программисты должны быть похожи на футболистов.
+Послеобеденное видео: Эрик <a href="https://twitter.com/headinthebox" title="Erik Meijer">@headinthebox</a> Мейер объясняет, в чем программисты должны быть похожи на футболистов.
 
-https://t.co/DrZQPUeWzX [24][590500304627589120]
+<a href="https://t.co/DrZQPUeWzX">vimeo.com/110554082</a>
 
-RT @Rukomoynikov: @jsunderhood А как будет "Это не моя работа" на голландском? [25][590500484647096320]
+RT <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А как будет "Это не моя работа" на голландском?
 
-RT @dshster: @jsunderhood @operatino @Rukomoynikov Хотя могу представить, если писать только сервисы и контроллеры в AngularJS и отправлять json во вьюху [26][590500838000500736]
+RT <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> Хотя могу представить, если писать только сервисы и контроллеры в AngularJS и отправлять…
 
-.@dshster, не стоит это даже представлять ) [27][590500908888363008]
+.<a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>, не стоит это даже представлять )
 
-RT @operatino: @dshster Брать разметку от верстальщика и клеить ее с бизнес-логикой @jsunderhood @Rukomoynikov [28][590502808706818048]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> Брать разметку от верстальщика и клеить ее с бизнес-логикой <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>
 
-.@operatino @dshster @rukomoynikov ай ну бросьте вы. Я бы лично не хотел работать с таким "разработчиком". Извините. [29][590502942966415360]
+.<a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> ай ну бросьте вы. Я бы лично не хотел работать с таким "разработчиком". Извините.
 
-RT @operatino: @jsunderhood И спросите себя, много ли фронтенд инженеров в гугле и фб умеют верстать? Не основы, а именно по макету @dshster @Rukomoynikov [30][590508481578414080]
+RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> И спросите себя, много ли фронтенд инженеров в гугле и фб умеют верстать? Не основы, а именно по макету <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>
 
-.@operatino @dshster @rukomoynikov, то есть, ты жалеешь, что владеешь этим ремеслом? Или о потраченном времени? [31][590508590999429120]
-
-[590418840670048257]: https://twitter.com/jsunderhood/status/590418840670048257
-[590419350672318464]: https://twitter.com/jsunderhood/status/590419350672318464
-[590419902634266624]: https://twitter.com/jsunderhood/status/590419902634266624
-[590420145803239424]: https://twitter.com/jsunderhood/status/590420145803239424
-[590420933262888960]: https://twitter.com/jsunderhood/status/590420933262888960
-[590421223567450112]: https://twitter.com/jsunderhood/status/590421223567450112
-[590421464203034624]: https://twitter.com/jsunderhood/status/590421464203034624
-[590421875253239808]: https://twitter.com/jsunderhood/status/590421875253239808
-[590422064160444416]: https://twitter.com/jsunderhood/status/590422064160444416
-[590436086465359872]: https://twitter.com/jsunderhood/status/590436086465359872
-[590436106195304448]: https://twitter.com/jsunderhood/status/590436106195304448
-[590436115481554945]: https://twitter.com/jsunderhood/status/590436115481554945
-[590436124297924608]: https://twitter.com/jsunderhood/status/590436124297924608
-[590436144506089472]: https://twitter.com/jsunderhood/status/590436144506089472
-[590436153972654080]: https://twitter.com/jsunderhood/status/590436153972654080
-[590436182254813184]: https://twitter.com/jsunderhood/status/590436182254813184
-[590436192048525312]: https://twitter.com/jsunderhood/status/590436192048525312
-[590436237850312704]: https://twitter.com/jsunderhood/status/590436237850312704
-[590436250772975617]: https://twitter.com/jsunderhood/status/590436250772975617
-[590440867200139264]: https://twitter.com/jsunderhood/status/590440867200139264
-[590440949005824001]: https://twitter.com/jsunderhood/status/590440949005824001
-[590441078987366402]: https://twitter.com/jsunderhood/status/590441078987366402
-[590441416880422912]: https://twitter.com/jsunderhood/status/590441416880422912
-[590500070249930754]: https://twitter.com/jsunderhood/status/590500070249930754
-[590500304627589120]: https://twitter.com/jsunderhood/status/590500304627589120
-[590500484647096320]: https://twitter.com/jsunderhood/status/590500484647096320
-[590500838000500736]: https://twitter.com/jsunderhood/status/590500838000500736
-[590500908888363008]: https://twitter.com/jsunderhood/status/590500908888363008
-[590502808706818048]: https://twitter.com/jsunderhood/status/590502808706818048
-[590502942966415360]: https://twitter.com/jsunderhood/status/590502942966415360
-[590508481578414080]: https://twitter.com/jsunderhood/status/590508481578414080
-[590508590999429120]: https://twitter.com/jsunderhood/status/590508590999429120
+.<a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a> <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a>, то есть, ты жалеешь, что владеешь этим ремеслом? Или о потраченном времени?
 
 ## Среда <small>17 твитов</small>
 
-Так, быстрый вопрос: ставить zsh? какие очевидные преимущества? [0][590787868693557248]
+Так, быстрый вопрос: ставить zsh? какие очевидные преимущества?
 
-RT @shuvalov_anton: @jsunderhood алиасы, oh-my-zsh, автокомплит [1][590788672825470977]
+RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> алиасы, oh-my-zsh, автокомплит
 
-RT @deepwalker: @jsunderhood принципиальных никаких. То же дополнение по табу и в bash вполне есть. И для scp. Я бы посмотрел дальше - там новые уже есть. [2][590791935297716224]
+RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> принципиальных никаких. То же дополнение по табу и в bash вполне есть. И для scp. Я бы посмотрел дальше - там …
 
-.@deepwalker какие новые, если не секрет? [3][590792887878754304]
+.<a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a> какие новые, если не секрет?
 
-RT @a_lithium: @jsunderhood использую каждый день, но этот привычка, вроде можно и на баше сделать такие же фичи. Минус - долгий старт новой сессии. [4][590793204712243200]
+RT <a href="https://twitter.com/a_lithium" title="Aliaksei Lithium">@a_lithium</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> использую каждый день, но этот привычка, вроде можно и на баше сделать такие же фичи. Минус - долгий старт ново…
 
-RT @me_mrsum: @jsunderhood Вообще zsh очень хорош, вот некоторые из бонусов http://t.co/oBcpcATwNR особенно kill &lt;TAB&gt; [5][590794437426548736]
+RT <a href="https://twitter.com/me_mrsum" title="Sum">@me_mrsum</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вообще zsh очень хорош, вот некоторые из бонусов <a href="http://t.co/oBcpcATwNR">code.joejag.com/2014/why-zsh.h…</a> особенно kill &lt;TAB&gt;
 
-RT @deepwalker: @jsunderhood на ум приходит fish - сам не смотрел, но пара ребят были в восторге и евангелизировали по этому поводу. [6][590801063755833345]
+RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на ум приходит fish - сам не смотрел, но пара ребят были в восторге и евангелизировали по этому поводу.
 
-RT @mistadikay: @jsunderhood лучше fish [7][590801075030065152]
+RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> лучше fish
 
-Вопрос: покупая мерч музыкальной группы, я примерно понимаю, куда идут деньги. Покупая dev-мерч, ясности у меня меньше. Как это работает? [8][590857909979860994]
+Вопрос: покупая мерч музыкальной группы, я примерно понимаю, куда идут деньги. Покупая dev-мерч, ясности у меня меньше. Как это работает?
 
-RT @p_grekovich: @jsunderhood ооо... интересно... а какой dev-мерч покупаешь? [9][590858268290973696]
+RT <a href="https://twitter.com/p_grekovich" title="Fast Cat">@p_grekovich</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ооо... интересно... а какой dev-мерч покупаешь?
 
-.@p_grekovich лично я не покупал ничего. Но знаю, что такое существует. [10][590858397483986945]
+.<a href="https://twitter.com/p_grekovich" title="Fast Cat">@p_grekovich</a> лично я не покупал ничего. Но знаю, что такое существует.
 
-.@p_grekovich, но покупая мерч групп, я десять раз убежусь перед покупкой, что покупаю у банды или у лейбла. [11][590858528845332480]
+.<a href="https://twitter.com/p_grekovich" title="Fast Cat">@p_grekovich</a>, но покупая мерч групп, я десять раз убежусь перед покупкой, что покупаю у банды или у лейбла.
 
-.@p_grekovich, в случае с dev-мерчем, тут скорее больше левых контор, которые просто печатают цветные лого. [12][590858661163065345]
+.<a href="https://twitter.com/p_grekovich" title="Fast Cat">@p_grekovich</a>, в случае с dev-мерчем, тут скорее больше левых контор, которые просто печатают цветные лого.
 
-RT @roman01la: @jsunderhood @ShirtJS донатят часть прибыли интересным проектам http://t.co/2uS1oK69SI [13][590893577728831488]
+RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/ShirtJS" title="ShirtJS">@ShirtJS</a> донатят часть прибыли интересным проектам <a href="http://t.co/2uS1oK69SI">shirtjs.com/about/</a>
 
-Вот если бы был выбор, новый Macbook Pro или @jsconfeu, то... [14][590915592812683264]
+Вот если бы был выбор, новый Macbook Pro или <a href="https://twitter.com/jsconfeu" title="jsconfeu">@jsconfeu</a>, то...
 
-RT @aod_toxic: @jsunderhood @jsconfeu я б выбрал вискарик. [15][590915978000801793]
+RT <a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/jsconfeu" title="jsconfeu">@jsconfeu</a> я б выбрал вискарик.
 
-RT @naorunaoru: @jsunderhood джаваскрипт можно и на чайнике писать, а вот мозги стоит периодически ставить на место [16][590921760356360193]
-
-[590787868693557248]: https://twitter.com/jsunderhood/status/590787868693557248
-[590788672825470977]: https://twitter.com/jsunderhood/status/590788672825470977
-[590791935297716224]: https://twitter.com/jsunderhood/status/590791935297716224
-[590792887878754304]: https://twitter.com/jsunderhood/status/590792887878754304
-[590793204712243200]: https://twitter.com/jsunderhood/status/590793204712243200
-[590794437426548736]: https://twitter.com/jsunderhood/status/590794437426548736
-[590801063755833345]: https://twitter.com/jsunderhood/status/590801063755833345
-[590801075030065152]: https://twitter.com/jsunderhood/status/590801075030065152
-[590857909979860994]: https://twitter.com/jsunderhood/status/590857909979860994
-[590858268290973696]: https://twitter.com/jsunderhood/status/590858268290973696
-[590858397483986945]: https://twitter.com/jsunderhood/status/590858397483986945
-[590858528845332480]: https://twitter.com/jsunderhood/status/590858528845332480
-[590858661163065345]: https://twitter.com/jsunderhood/status/590858661163065345
-[590893577728831488]: https://twitter.com/jsunderhood/status/590893577728831488
-[590915592812683264]: https://twitter.com/jsunderhood/status/590915592812683264
-[590915978000801793]: https://twitter.com/jsunderhood/status/590915978000801793
-[590921760356360193]: https://twitter.com/jsunderhood/status/590921760356360193
+RT <a href="https://twitter.com/naorunaoru" title="рома">@naorunaoru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> джаваскрипт можно и на чайнике писать, а вот мозги стоит периодически ставить на место
 
 ## Четверг <small>29 твитов</small>
 
-RT @mursya_ru: @jsunderhood напиши, что важно в организации конференций тебе как разработчику и как оргу, чему ты раньше не придавал внимания? [0][591164716816424962]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> напиши, что важно в организации конференций тебе как разработчику и как оргу, чему ты раньше не придавал вниман…
 
-.@mursya_ru, долго думал, Лена, честно. И, наверное, я совершенно не требователен. Единственное чего зачастую не хватает — нетворкинг. [1][591165012108017665]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, долго думал, Лена, честно. И, наверное, я совершенно не требователен. Единственное чего зачастую не хватает — нетворкинг.
 
-.@mursya_ru, я уже давно хожу на конференции и митапы ради общения с людьми, а не за докладами. [2][591165170124206080]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, я уже давно хожу на конференции и митапы ради общения с людьми, а не за докладами.
 
-RT @mursya_ru: @jsunderhood тогда как бы ты его организовал? что такое нетворкинг? [3][591165278681169920]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тогда как бы ты его организовал? что такое нетворкинг?
 
-.@mursya_ru, по сути под нетворкингом я имел в виду создание условий для общения в группах, 1 на 1, неважно. [4][591165707712364545]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, по сути под нетворкингом я имел в виду создание условий для общения в группах, 1 на 1, неважно.
 
-.@mursya_ru, вариантов много: unconference, group discussion, open round table, pair programming, hackathon и тд [5][591165955868401665]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, вариантов много: unconference, group discussion, open round table, pair programming, hackathon и тд
 
-RT @mursya_ru: @jsunderhood а на верхнее — пример из жизни. Прогоны докладов. когда ты докладчик, ты упираешься и не веришь, [6][591165972251279360]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а на верхнее — пример из жизни. Прогоны докладов. когда ты докладчик, ты упираешься и не веришь,
 
-RT @mursya_ru: @jsunderhood что это важно. а когда ты орг, ты болеешь за программу, тк программа = имидж. если доклады будут булшит, [7][591165985736024064]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что это важно. а когда ты орг, ты болеешь за программу, тк программа = имидж. если доклады будут булшит,
 
-.@mursya_ru, здесь я полностью согласен. Сам часто наступал на эти грабли с обоих сторон. Научен. [8][591166084016930816]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, здесь я полностью согласен. Сам часто наступал на эти грабли с обоих сторон. Научен.
 
-.@mursya_ru, все аутисты до определенного момента. Мы на митапах обычно не создаем стен между выступающими и аудиторией. [9][591166530186059776]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, все аутисты до определенного момента. Мы на митапах обычно не создаем стен между выступающими и аудиторией.
 
-RT @mursya_ru: @jsunderhood люди просто не придут. такие моменты. какие из неважных раньше стали важными? last minute рассылки, выверенные тексты, бейджи [10][591166575820025856]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> люди просто не придут. такие моменты. какие из неважных раньше стали важными? last minute рассылки, выверенные …
 
-.@mursya_ru, рассылка и регистрация очень хорошо работают. Только мы перестали это делать, сразу упал интерес. [11][591166671202738176]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, рассылка и регистрация очень хорошо работают. Только мы перестали это делать, сразу упал интерес.
 
-RT @mursya_ru: @jsunderhood хм.. это форматы, которые решают разные задачи. имхо нужно умение правильно организовать нетворкинг внутри каждого из них [12][591166709500928000]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> хм.. это форматы, которые решают разные задачи. имхо нужно умение правильно организовать нетворкинг внутри кажд…
 
-.@mursya_ru, согласен. Я многого не умею делать, просто иногда само выходит лучше, чем задумал :) [13][591166803797245952]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, согласен. Я многого не умею делать, просто иногда само выходит лучше, чем задумал :)
 
-RT @mursya_ru: @jsunderhood :) что ты теперь делаешь правильно в связи с этим опытом? дай совет всем! [14][591166829063725056]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> :) что ты теперь делаешь правильно в связи с этим опытом? дай совет всем!
 
-.@mursya_ru, банально готовлю перед выступлениями не только слайды, но и речь. Обычно прошу выслушать товарища с техническим опытом и без. [15][591167133310128128]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, банально готовлю перед выступлениями не только слайды, но и речь. Обычно прошу выслушать товарища с техническим опытом и без.
 
-RT @mursya_ru: @jsunderhood это здорово! часто люди загораются, видя твое отношение ко всему! это важно [16][591167183088123904]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> это здорово! часто люди загораются, видя твое отношение ко всему! это важно
 
-.@mursya_ru, спасибо. Но я еще тот раздолбай. Поэтому наши митапы всегда больше тусовки, чем вычурные миниконференции ) [17][591167420531929088]
+.<a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>, спасибо. Но я еще тот раздолбай. Поэтому наши митапы всегда больше тусовки, чем вычурные миниконференции )
 
-RT @iamstarkov: Look! http://t.co/6iTmxqYVHF
+RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: Look! <a href="http://t.co/6iTmxqYVHF">iamstarkov.com</a>
 Look Ma’ — No CSS! and JS!
 Look Ma’ — Still Mobile Friendly!
-Look Ma’ — Blazingly Fast! [18][591198345659621376]
+Look Ma’ — Blazingly Fast!
 
-.@iamstarkov Модник! [19][591198411954749441]
+.<a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> Модник!
 
-RT @KSDaemon: @jsunderhood @mursya_ru так может даже лучше! Я вот скорее за общение, чем сами доклады. Их можно посмотреть потом. А пообщаться, обсудить [20][591200247558340608]
+RT <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a> так может даже лучше! Я вот скорее за общение, чем сами доклады. Их можно посмотреть потом. А пообщат…
 
-RT @mursya_ru: @ksdaemon @jsunderhood а у меня в голове один форматик интересный :) нужно место и добровольцы! [21][591203929465233408]
+RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а у меня в голове один форматик интересный :) нужно место и добровольцы!
 
-RT @iamspacegray: Мне нравится как подписчики этого твиттера генерируют цепные реакции и обсуждения десятками. Мои 190 фолловеров так не умеют [22][591335059715710977]
+RT <a href="https://twitter.com/iamspacegray" title="Я дизайнер">@iamspacegray</a>: Мне нравится как подписчики этого твиттера генерируют цепные реакции и обсуждения десятками. Мои 190 фолловеров так не ум…
 
-Перечитал этот твиттер аккаунт. Всем продолжателям на заметку: @mraleph уже почти все рассказал за вас. [23][591341841120894976]
+Перечитал этот твиттер аккаунт. Всем продолжателям на заметку: <a href="https://twitter.com/mraleph" title="Vyacheslav Egorov">@mraleph</a> уже почти все рассказал за вас.
 
-То чувство, когда размер сообщений к  коммитам больше, чем сам размер написанного кода. [24][591343229800415232]
+То чувство, когда размер сообщений к  коммитам больше, чем сам размер написанного кода.
 
-RT @mraleph: @jsunderhood я только о перформансе чуть-чуть рассказал :) [25][591351377747664896]
+RT <a href="https://twitter.com/mraleph" title="Vyacheslav Egorov">@mraleph</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я только о перформансе чуть-чуть рассказал :)
 
-.@mraleph, значит, придется в скором времени принимать эстафету заново и рассказывать не чуть-чуть :) [26][591351479899987968]
+.<a href="https://twitter.com/mraleph" title="Vyacheslav Egorov">@mraleph</a>, значит, придется в скором времени принимать эстафету заново и рассказывать не чуть-чуть :)
 
-RT @dosyara: @jsunderhood как научить людей этому? [27][591354875247747072]
+RT <a href="https://twitter.com/dosyara" title="Sergey Maksimov">@dosyara</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как научить людей этому?
 
-.@dosyara, неделю на проекте не пиши описаний к коммитам вовсе :) [28][591355028402790401]
-
-[591164716816424962]: https://twitter.com/jsunderhood/status/591164716816424962
-[591165012108017665]: https://twitter.com/jsunderhood/status/591165012108017665
-[591165170124206080]: https://twitter.com/jsunderhood/status/591165170124206080
-[591165278681169920]: https://twitter.com/jsunderhood/status/591165278681169920
-[591165707712364545]: https://twitter.com/jsunderhood/status/591165707712364545
-[591165955868401665]: https://twitter.com/jsunderhood/status/591165955868401665
-[591165972251279360]: https://twitter.com/jsunderhood/status/591165972251279360
-[591165985736024064]: https://twitter.com/jsunderhood/status/591165985736024064
-[591166084016930816]: https://twitter.com/jsunderhood/status/591166084016930816
-[591166530186059776]: https://twitter.com/jsunderhood/status/591166530186059776
-[591166575820025856]: https://twitter.com/jsunderhood/status/591166575820025856
-[591166671202738176]: https://twitter.com/jsunderhood/status/591166671202738176
-[591166709500928000]: https://twitter.com/jsunderhood/status/591166709500928000
-[591166803797245952]: https://twitter.com/jsunderhood/status/591166803797245952
-[591166829063725056]: https://twitter.com/jsunderhood/status/591166829063725056
-[591167133310128128]: https://twitter.com/jsunderhood/status/591167133310128128
-[591167183088123904]: https://twitter.com/jsunderhood/status/591167183088123904
-[591167420531929088]: https://twitter.com/jsunderhood/status/591167420531929088
-[591198345659621376]: https://twitter.com/jsunderhood/status/591198345659621376
-[591198411954749441]: https://twitter.com/jsunderhood/status/591198411954749441
-[591200247558340608]: https://twitter.com/jsunderhood/status/591200247558340608
-[591203929465233408]: https://twitter.com/jsunderhood/status/591203929465233408
-[591335059715710977]: https://twitter.com/jsunderhood/status/591335059715710977
-[591341841120894976]: https://twitter.com/jsunderhood/status/591341841120894976
-[591343229800415232]: https://twitter.com/jsunderhood/status/591343229800415232
-[591351377747664896]: https://twitter.com/jsunderhood/status/591351377747664896
-[591351479899987968]: https://twitter.com/jsunderhood/status/591351479899987968
-[591354875247747072]: https://twitter.com/jsunderhood/status/591354875247747072
-[591355028402790401]: https://twitter.com/jsunderhood/status/591355028402790401
+.<a href="https://twitter.com/dosyara" title="Sergey Maksimov">@dosyara</a>, неделю на проекте не пиши описаний к коммитам вовсе :)
 
 ## Пятница <small>1 твит</small>
 
-RT @torinaki: @jsunderhood QnA about #V8 #performance (in Russian)  http://t.co/gVykwujNGG #JS [0][591650051165986818]
-
-[591650051165986818]: https://twitter.com/jsunderhood/status/591650051165986818
+RT <a href="https://twitter.com/torinaki" title="Dmitry Balabka">@torinaki</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> QnA about <a href="https://twitter.com/search?q=%23V8">#V8</a> <a href="https://twitter.com/search?q=%23performance">#performance</a> (in Russian)  <a href="http://t.co/gVykwujNGG">buff.ly/1HzVVbR</a> <a href="https://twitter.com/search?q=%23JS">#JS</a>
 
 ## Суббота <small>20 твитов</small>
 
-Ну что, часы уже прикупили? [0][591905802639773696]
+Ну что, часы уже прикупили?
 
-Вчера с @ashorror собрались попрограммировать под Пивко. До этого не дошло — слишком долго спорили о React, Flux и тонне фреймворков на них. [1][591907186542047232]
+Вчера с <a href="https://twitter.com/ashorror" title="Mikhail Larchanka">@ashorror</a> собрались попрограммировать под Пивко. До этого не дошло — слишком долго спорили о React, Flux и тонне фреймворков на них.
 
-RT @mktoid: @jsunderhood @ashorror а обычно удаётся? По себе заметил, что пиво снижает концентрацию до состояния когда программировать не получается [2][591909663144304640]
+RT <a href="https://twitter.com/mktoid" title="Oleg Cheremisin">@mktoid</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/ashorror" title="Mikhail Larchanka">@ashorror</a> а обычно удаётся? По себе заметил, что пиво снижает концентрацию до состояния когда программировать не п…
 
-.@mktoid, получается, если не налегать. Но в целом есть другие стимуляторы :) [3][591909902735540224]
+.<a href="https://twitter.com/mktoid" title="Oleg Cheremisin">@mktoid</a>, получается, если не налегать. Но в целом есть другие стимуляторы :)
 
-RT @rusgautama: @jsunderhood расскажи лучше, как в НЛ живется. [4][591909930132705282]
+RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> расскажи лучше, как в НЛ живется.
 
-.@rusgautama, отлично живется. Не жалуюсь. Более конкретные вопросы какие-нибудь? [5][591910044435914753]
+.<a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>, отлично живется. Не жалуюсь. Более конкретные вопросы какие-нибудь?
 
-RT @rusgautama: @jsunderhood по Kennismigrant? Давно там? [6][591910317015302144]
+RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> по Kennismigrant? Давно там?
 
-.@rusgautama, да. Как Highly Skilled Migrant. Сейчас чуть более чем полгода. [7][591910453774786560]
+.<a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>, да. Как Highly Skilled Migrant. Сейчас чуть более чем полгода.
 
-RT @SilentImp: @jsunderhood @mktoid например? От большинства известных сосредоточенность падает. Даже если, например, полностью нивелируется сонливость… [8][591910605856108544]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/mktoid" title="Oleg Cheremisin">@mktoid</a> например? От большинства известных сосредоточенность падает. Даже если, например, полностью нивелируетс…
 
-RT @SilentImp: @jsunderhood @mktoid … или усталость. [9][591910623275044864]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/mktoid" title="Oleg Cheremisin">@mktoid</a> … или усталость.
 
-.@silentimp @mktoid, приезжай в гости, Антон. Я уже подобрал для тебя букет из различных рабочих сортов. [10][591910795308605440]
+.<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/mktoid" title="Oleg Cheremisin">@mktoid</a>, приезжай в гости, Антон. Я уже подобрал для тебя букет из различных рабочих сортов.
 
-RT @rusgautama: @jsunderhood до какого уровня нужно английский подтягивать, чтобы пройти собеседование по скайпу (про проф. навыки понятно). [11][591910839877300224]
+RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> до какого уровня нужно английский подтягивать, чтобы пройти собеседование по скайпу (про проф. навыки понятно).
 
-.@rusgautama, мне сложно ориентироваться в уровнях. Понимать, отвечать хотя бы на симпли инглиш, писать письма. [12][591911116076363778]
+.<a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>, мне сложно ориентироваться в уровнях. Понимать, отвечать хотя бы на симпли инглиш, писать письма.
 
-.@rusgautama,  у меня отдельная история изучения английского. [13][591911245424500736]
+.<a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>,  у меня отдельная история изучения английского.
 
-RT @SilentImp: @jsunderhood @mktoid я только что из цветников праги транзитом через польскую тюрьму :D мне пока никуда не хочется никуда ехать… [14][591911257269231617]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/mktoid" title="Oleg Cheremisin">@mktoid</a> я только что из цветников праги транзитом через польскую тюрьму :D мне пока никуда не хочется никуда ех…
 
-RT @rusgautama: @jsunderhood ну хорошо хоть TOEFL/IELTS не надо сдавать. [15][591914269031149568]
+RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну хорошо хоть TOEFL/IELTS не надо сдавать.
 
-RT @SilentImp: @rusgautama @jsunderhood вообще то надо для многих вакансий. Меня неоднократно спрашивали. [16][591914883870007296]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вообще то надо для многих вакансий. Меня неоднократно спрашивали.
 
-.@silentimp @rusgautama, спрашивали не значит требовали. Меня ни разу не спрашивали о сертификатах по языку. [17][591915011821412352]
+.<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>, спрашивали не значит требовали. Меня ни разу не спрашивали о сертификатах по языку.
 
-RT @SilentImp: @jsunderhood @rusgautama у меня когда речь шла о UK требовали. Когда об NL — да, просто интересовались и оценивали язык на собеседовании. [18][591915749440155648]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> у меня когда речь шла о UK требовали. Когда об NL — да, просто интересовались и оценивали язык на с…
 
-RT @rusgautama: @SilentImp @jsunderhood UK конечно. А так блог на английском/статьи/ответы должны помочь. [19][591915759074451456]
-
-[591905802639773696]: https://twitter.com/jsunderhood/status/591905802639773696
-[591907186542047232]: https://twitter.com/jsunderhood/status/591907186542047232
-[591909663144304640]: https://twitter.com/jsunderhood/status/591909663144304640
-[591909902735540224]: https://twitter.com/jsunderhood/status/591909902735540224
-[591909930132705282]: https://twitter.com/jsunderhood/status/591909930132705282
-[591910044435914753]: https://twitter.com/jsunderhood/status/591910044435914753
-[591910317015302144]: https://twitter.com/jsunderhood/status/591910317015302144
-[591910453774786560]: https://twitter.com/jsunderhood/status/591910453774786560
-[591910605856108544]: https://twitter.com/jsunderhood/status/591910605856108544
-[591910623275044864]: https://twitter.com/jsunderhood/status/591910623275044864
-[591910795308605440]: https://twitter.com/jsunderhood/status/591910795308605440
-[591910839877300224]: https://twitter.com/jsunderhood/status/591910839877300224
-[591911116076363778]: https://twitter.com/jsunderhood/status/591911116076363778
-[591911245424500736]: https://twitter.com/jsunderhood/status/591911245424500736
-[591911257269231617]: https://twitter.com/jsunderhood/status/591911257269231617
-[591914269031149568]: https://twitter.com/jsunderhood/status/591914269031149568
-[591914883870007296]: https://twitter.com/jsunderhood/status/591914883870007296
-[591915011821412352]: https://twitter.com/jsunderhood/status/591915011821412352
-[591915749440155648]: https://twitter.com/jsunderhood/status/591915749440155648
-[591915759074451456]: https://twitter.com/jsunderhood/status/591915759074451456
+RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> UK конечно. А так блог на английском/статьи/ответы должны помочь.
 
 ## Воскресенье <small>30 твитов</small>
 
-Итак, мой последний день правления этим аккаунтом. Готов отвечать на любые вопросы. [0][592261006010818560]
+Итак, мой последний день правления этим аккаунтом. Готов отвечать на любые вопросы.
 
-RT @SilentImp: @jsunderhood был ли у тебя секс в троем? [1][592269295339573248]
+RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> был ли у тебя секс в троем?
 
-.@silentimp, нет. Я консерватор в этом плане. Но выглядит так, будто да, правда? [2][592269389736636416]
+.<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>, нет. Я консерватор в этом плане. Но выглядит так, будто да, правда?
 
-RT @iamstarkov: @jsunderhood как ты относишься к феминизму, сексизсу и всему хайпу, что поднимается вокруг этих слов [3][592269432145182721]
+RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как ты относишься к феминизму, сексизсу и всему хайпу, что поднимается вокруг этих слов
 
-.@iamstarkov, тут просто так не разберешься. Публично я стараюсь быть нейтрален, но в целом есть сформированная позиция на этот счет. [4][592269580220932096]
+.<a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>, тут просто так не разберешься. Публично я стараюсь быть нейтрален, но в целом есть сформированная позиция на этот счет.
 
-RT @dcromster: @jsunderhood кем ты станешь, когда вырастишь? ;) [5][592273356998729728]
+RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кем ты станешь, когда вырастишь? ;)
 
-.@dcromster, космонавтом бы. [6][592273583012970497]
+.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a>, космонавтом бы.
 
-RT @mistadikay: @jsunderhood есть чо? (прости, не удержался) [7][592273598032781314]
+RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> есть чо? (прости, не удержался)
 
-.@mistadikay, всегда готов :) [8][592273677351280641]
+.<a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a>, всегда готов :)
 
-RT @marinintim: @jsunderhood почему именно Фрай на http://t.co/dmDjas4wNE? [9][592273693109268481]
+RT <a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> почему именно Фрай на <a href="http://t.co/dmDjas4wNE">pukhalski.com</a>?
 
-.@marinintim, центровой элемент — не персонаж Футурамы. [10][592273781013512192]
+.<a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>, центровой элемент — не персонаж Футурамы.
 
-RT @marinintim: @jsunderhood а кто? (задница Фрая тоже персонаж Футурамы) [11][592274714262929408]
+RT <a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а кто? (задница Фрая тоже персонаж Футурамы)
 
-.@marinintim, в других сериалах мало задниц. Готов сделать рандом, если насыпете гифок подобного содержания из других мультиков. [12][592275616461942784]
+.<a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>, в других сериалах мало задниц. Готов сделать рандом, если насыпете гифок подобного содержания из других мультиков.
 
-RT @mistadikay: @jsunderhood ну а если серьезно: какие проблемы в общении есть с европейскими коллегами (именно в рабочей среде)? [13][592275644215599104]
+RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну а если серьезно: какие проблемы в общении есть с европейскими коллегами (именно в рабочей среде)?
 
-.@mistadikay, в целом, никаких. У меня обычно нет сложностей общения с людьми. Но разница в опыте (школе жизни) чувствуется. [14][592275872264146944]
+.<a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a>, в целом, никаких. У меня обычно нет сложностей общения с людьми. Но разница в опыте (школе жизни) чувствуется.
 
-RT @korochinskiy: @jsunderhood как думаешь, как будет выглядеть фронтеднер через 10 лет? [15][592275898042310657]
+RT <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как думаешь, как будет выглядеть фронтеднер через 10 лет?
 
-.@korochinskiy, сложный для меня вопрос. В целом, думаю, ничего не изменится, кроме того, что веб как платформа распространит свое влияние. [16][592276181854060544]
+.<a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>, сложный для меня вопрос. В целом, думаю, ничего не изменится, кроме того, что веб как платформа распространит свое влияние.
 
-.@korochinskiy, и, надеюсь, узкая специализация (скажем, разработчик TV-приложений) не станет обыденностью. [17][592276397781032960]
+.<a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>, и, надеюсь, узкая специализация (скажем, разработчик TV-приложений) не станет обыденностью.
 
-RT @korochinskiy: @jsunderhood не станет ли порог входа настолько низким, что фронтендеры пропадут как класс? Сразу будет все делаться роботами из дизайнов. [18][592277769024905216]
+RT <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> не станет ли порог входа настолько низким, что фронтендеры пропадут как класс? Сразу будет все делаться робо…
 
-.@korochinskiy, а ты думаешь, что за последние пяток лет порог входа уменьшился? Я так не думаю. Особенно в истории с JS. [19][592277903364235264]
+.<a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>, а ты думаешь, что за последние пяток лет порог входа уменьшился? Я так не думаю. Особенно в истории с JS.
 
-RT @iamstarkov: @jsunderhood дай ссылки на те материалы, которы помогли тебе разобраться [20][592277918300110848]
+RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> дай ссылки на те материалы, которы помогли тебе разобраться
 
-.@iamstarkov, если бы можно, я бы одолжил тебе свою соображалку, конечно. Скорее это комплексное восприятие проблемы лично мною. [21][592278080099643392]
+.<a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>, если бы можно, я бы одолжил тебе свою соображалку, конечно. Скорее это комплексное восприятие проблемы лично мною.
 
-RT @korochinskiy: @jsunderhood наверно, на высоком уровне - да. Просто знаю много jquery-разработчиков, клепающих сайт за сайтом. 5 лет назад такого не было. [22][592278764261908480]
+RT <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> наверно, на высоком уровне - да. Просто знаю много jquery-разработчиков, клепающих сайт за сайтом. 5 лет наз…
 
-.@korochinskiy, просто мы все были такими jqeury-разработчиками :D [23][592278853072134145]
+.<a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>, просто мы все были такими jqeury-разработчиками :D
 
-RT @i_told_ya: @jsunderhood @mistadikay 420 [24][592279131083124736]
+RT <a href="https://twitter.com/i_told_ya" title="Isaev Igor">@i_told_ya</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a> 420
 
-RT @AntonShevchuk: @jsunderhood @korochinskiy на jquery есть стабильный спрос, другой вопрос, что фронтендеры развиваются дальше, но на их место приходят новые [25][592280200743890944]
+RT <a href="https://twitter.com/AntonShevchuk" title="Anton Shevchuk">@AntonShevchuk</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a> на jquery есть стабильный спрос, другой вопрос, что фронтендеры развиваются дальше, но на их …
 
-RT @i_told_ya: @jsunderhood @mistadikay вообще давно хотелось спросить у сообщества что насчет 420? [26][592288746344677376]
+RT <a href="https://twitter.com/i_told_ya" title="Isaev Igor">@i_told_ya</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a> вообще давно хотелось спросить у сообщества что насчет 420?
 
-RT @aod_toxic: @korochinskiy @jsunderhood а вы Дримвивер не застали? Уже пройденный этап. [27][592288756520099841]
+RT <a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a>: <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а вы Дримвивер не застали? Уже пройденный этап.
 
-.@aod_toxic @korochinskiy, застали-застали. [28][592288842729787392]
+.<a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a> <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>, застали-застали.
 
-.@aod_toxic @korochinskiy prototype помянем? [29][592290231749058561]
-
-[592261006010818560]: https://twitter.com/jsunderhood/status/592261006010818560
-[592269295339573248]: https://twitter.com/jsunderhood/status/592269295339573248
-[592269389736636416]: https://twitter.com/jsunderhood/status/592269389736636416
-[592269432145182721]: https://twitter.com/jsunderhood/status/592269432145182721
-[592269580220932096]: https://twitter.com/jsunderhood/status/592269580220932096
-[592273356998729728]: https://twitter.com/jsunderhood/status/592273356998729728
-[592273583012970497]: https://twitter.com/jsunderhood/status/592273583012970497
-[592273598032781314]: https://twitter.com/jsunderhood/status/592273598032781314
-[592273677351280641]: https://twitter.com/jsunderhood/status/592273677351280641
-[592273693109268481]: https://twitter.com/jsunderhood/status/592273693109268481
-[592273781013512192]: https://twitter.com/jsunderhood/status/592273781013512192
-[592274714262929408]: https://twitter.com/jsunderhood/status/592274714262929408
-[592275616461942784]: https://twitter.com/jsunderhood/status/592275616461942784
-[592275644215599104]: https://twitter.com/jsunderhood/status/592275644215599104
-[592275872264146944]: https://twitter.com/jsunderhood/status/592275872264146944
-[592275898042310657]: https://twitter.com/jsunderhood/status/592275898042310657
-[592276181854060544]: https://twitter.com/jsunderhood/status/592276181854060544
-[592276397781032960]: https://twitter.com/jsunderhood/status/592276397781032960
-[592277769024905216]: https://twitter.com/jsunderhood/status/592277769024905216
-[592277903364235264]: https://twitter.com/jsunderhood/status/592277903364235264
-[592277918300110848]: https://twitter.com/jsunderhood/status/592277918300110848
-[592278080099643392]: https://twitter.com/jsunderhood/status/592278080099643392
-[592278764261908480]: https://twitter.com/jsunderhood/status/592278764261908480
-[592278853072134145]: https://twitter.com/jsunderhood/status/592278853072134145
-[592279131083124736]: https://twitter.com/jsunderhood/status/592279131083124736
-[592280200743890944]: https://twitter.com/jsunderhood/status/592280200743890944
-[592288746344677376]: https://twitter.com/jsunderhood/status/592288746344677376
-[592288756520099841]: https://twitter.com/jsunderhood/status/592288756520099841
-[592288842729787392]: https://twitter.com/jsunderhood/status/592288842729787392
-[592290231749058561]: https://twitter.com/jsunderhood/status/592290231749058561
+.<a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a> <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a> prototype помянем?
