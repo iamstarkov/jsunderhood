@@ -7,9 +7,7 @@
     "dump": "babel-node dump",
     "followers": "babel-node followers",
     "f5-old": "npm run dump && npm run stats && npm run followers && npm run final-stats",
-
     "start": "gulp",
-
     "update": "babel-node update",
     "stats": "babel-node stats",
     "final-stats": "babel-node final-stats",
@@ -68,6 +66,7 @@
     "ramda": "^0.14.0",
     "rss": "^1.1.1",
     "run-sequence": "^1.1.0",
-    "through2": "^0.6.5"
+    "through2": "^0.6.5",
+    "tweet-baker": "^1.0.0"
   }
 }
