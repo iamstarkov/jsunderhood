@@ -9,7 +9,7 @@ before_script:
 - git remote add origin https://iamstarkov:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git
 after_script:
 - npm run f5
-- git add . && git commit -m 'update dump' && git push origin master
+- npm run save
 - npm run deploy
 env:
   global:
