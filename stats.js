@@ -26,6 +26,8 @@ const sumRetweeted = (state, tweet)=> state + tweet.retweet_count;
 const sumFavorited = (state, tweet)=> state + tweet.favorite_count;
 
 const analyze = (author)=> {
+  console.log('author');
+  console.log(author);
   var rt = 0, fav = 0;
   const username = author.username;
   const _tweets = author.tweets;
