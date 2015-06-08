@@ -1,5 +1,5 @@
 export default [
-  { username: 'i_komarov',      start: '01 Jun 2015', first: '605316466565623808', post: false },
+  { username: 'i_komarov',      start: '01 Jun 2015', first: '605316466565623808' },
   { username: 'listochkin',     start: '25 May 2015', first: '602825789478969344' },
   { username: 'subzey',         start: '18 May 2015', first: '600095365254270976' },
   { username: 'bashmish',       start: '11 May 2015', first: '597653605315977216' },
