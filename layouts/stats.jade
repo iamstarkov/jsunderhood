@@ -48,12 +48,27 @@ block content
       border-bottom: 1px solid rgb(140,140,140);
     }
 
+    @media (max-width: 768px) {
+      .host-stats__head {
+        display: none;
+      }
+    }
+
     .host-stats__row:hover {
       background-color: rgba(240,173,78,.1);
     }
 
     .host-stats__row_head:hover {
       background-color: transparent;
+    }
+
+    @media (max-width: 768px) {
+      .host-stats__row {
+        padding-top: 7px;
+        padding-bottom: 7px;
+        display: block;
+        border-bottom: 1px solid rgb(200,200,200);
+      }
     }
 
     .host-stats__col {
@@ -69,8 +84,48 @@ block content
       text-align: right;
     }
 
-    .host-stats__col_kpi {
-      width: 100px;
+    @media (max-width: 768px) {
+      .host-stats__col {
+        display: block;
+        padding: 7px;
+        text-align: left;
+      }
+
+      .host-stats__col[data-title]::before {
+        display: inline-block;
+        width: 100%;
+        max-width: 10em;
+        color: rgb(96,96,96);
+        font-size: .75em;
+        letter-spacing: .1em;
+        text-transform: uppercase;
+        content: attr(data-title);
+      }
+    }
+
+    @media (min-width: 769px) {
+      .host-stats__col_kpi {
+        width: 100px;
+      }
+    }
+
+    .best {
+      position: relative;
+    }
+
+    .best::after {
+      position: absolute;
+      bottom: 100%;
+      left: 100%;
+      margin-bottom: -.85em;
+      margin-right: -.5em;
+      font-size: .75em;
+      content: '★';
+    }
+
+    .best_middle::after {
+      bottom: 50%;
+      margin-bottom: -.85em;
     }
 
     .tweet-graph {
@@ -88,6 +143,25 @@ block content
       text-align: center;
       overflow: hidden;
     }
+
+    /*@media (max-width: 768px) {
+      .tweet-graph__bar {
+        padding-left: .1em;
+        padding-right: .1em;
+        height: 12px;
+      }
+
+      .tweet-graph__count {
+        font-size: 0;
+      }
+
+      .tweet-graph__count::after {
+        position: static;
+        margin-bottom: 0;
+        margin-right: 0;
+        font-size: 10px;
+      }
+    }*/
 
     .tweet-stats {
       position: relative;
@@ -149,25 +223,6 @@ block content
       background-color: rgba(92,184,92,.1);
     }
 
-    .best {
-      position: relative;
-    }
-
-    .best::after {
-      position: absolute;
-      bottom: 100%;
-      left: 100%;
-      margin-bottom: -.85em;
-      margin-right: -.5em;
-      font-size: .75em;
-      content: '★';
-    }
-
-    .best_middle::after {
-      bottom: 50%;
-      margin-bottom: -.85em;
-    }
-
   .container
     .row
       .col-md-12
@@ -189,22 +244,22 @@ block content
               td.host-stats__col Избранное
           each author, index in stats
             tr.host-stats__row
-              td.host-stats__col.host-stats__col_right= author.index
-              td.host-stats__col
+              td.host-stats__col.host-stats__col_right.hidden-xs= author.index
+              td.host-stats__col(data-title='Ведущий')
                 a(href='/' + author.username) @#{author.username}
               if author.gainedFollowers > 0
-                td.host-stats__col.host-stats__col_right.text-success
+                td.host-stats__col.host-stats__col_right.text-success(data-title='Читатели')
                   span(
                     class={best: author.maxGainedFollowers}
                   )= '+' + Math.abs(author.gainedFollowers)
               else if author.gainedFollowers < 0
-                td.host-stats__col.host-stats__col_right.text-danger
+                td.host-stats__col.host-stats__col_right.text-danger(data-title='Читатели')
                   = '−' + Math.abs(author.gainedFollowers)
               else
-                td.host-stats__col.host-stats__col_right.text-muted
+                td.host-stats__col.host-stats__col_right.text-muted(data-title='Читатели')
                   = Math.abs(author.gainedFollowers)
 
-              td.host-stats__col.host-stats__col_right
+              td.host-stats__col.host-stats__col_right(data-title='Твиты')
                 span(
                   class={best: author.maxTweets}
                 )= author.tweets
@@ -214,7 +269,7 @@ block content
                   .tweet-graph__bar.tweet-graph__bar_own(
                     style='width: #{author.ownTweetsPercentage}%;'
                   )
-                    span(
+                    span.tweet-graph__count(
                       class={
                         best: author.maxOwnTweets,
                         best_middle: author.maxOwnTweets
@@ -223,7 +278,7 @@ block content
                   .tweet-graph__bar.tweet-graph__bar_retweets(
                     style='width: #{author.retweetsPercentage}%;'
                   )
-                    span(
+                    span.tweet-graph__count(
                       class={
                         best: author.maxRetweets,
                         best_middle: author.maxRetweets
@@ -232,14 +287,16 @@ block content
                   .tweet-graph__bar.tweet-graph__bar_replies(
                     style='width: #{author.repliesPercentage}%;'
                   )
-                    span(
+                    span.tweet-graph__count(
                       class={
                         best: author.maxReplies,
                         best_middle: author.maxReplies
                       }
                     )= author.replies
-              td.host-stats__col.host-stats__col_kpi 0.83 / 15
-              td.host-stats__col.host-stats__col_kpi 1.11 / 20
+              td.host-stats__col.host-stats__col_kpi(data-title='Ретвиты')
+                span 0.83 / 15
+              td.host-stats__col.host-stats__col_kpi(data-title='Избранное')
+                span 1.11 / 20
 
   .container
     .row
