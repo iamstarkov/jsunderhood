@@ -1,4 +1,5 @@
 export default [
+  { username: 'Ask_11',         start: '08 Jun 2015', first: '607804952778575872', post: false },
   { username: 'i_komarov',      start: '01 Jun 2015', first: '605316466565623808' },
   { username: 'listochkin',     start: '25 May 2015', first: '602825789478969344' },
   { username: 'subzey',         start: '18 May 2015', first: '600095365254270976' },
