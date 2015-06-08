@@ -59,6 +59,10 @@ const analyze = (author)=> {
   }, (err)=> console.log(`${author.username} done`));
 }
 
+console.log('authors');
+console.log(authors);
 authors.forEach((item)=> {
+  console.log('item');
+  console.log(item);
   fs.readJson(`dump/${item.username}.json`, (err, author)=> analyze(author));
 });
