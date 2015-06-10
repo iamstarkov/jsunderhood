@@ -39,7 +39,9 @@ r.maxBy(r.prop('retweets'), stats).maxRetweets = true;
 r.maxBy(r.prop('retweetsPercentage'), stats).maxRetweetsPercentage = true;
 r.maxBy(r.prop('replies'), stats).maxReplies = true;
 r.maxBy(r.prop('repliesPercentage'), stats).maxRepliesPercentage = true;
+r.maxBy(r.prop('favorited'),    stats).maxFavorited = true;
 r.maxBy(r.prop('favoritedKpi'), stats).maxFavoritedKpi = true;
+r.maxBy(r.prop('retweeted'),    stats).maxRetweeted = true;
 r.maxBy(r.prop('retweetedKpi'), stats).maxRetweetedKpi = true;
 
 fs.outputJson(`./final-stats.json`, {stats}, (err)=> console.log(`done`))
