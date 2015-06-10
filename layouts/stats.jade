@@ -35,218 +35,44 @@ block content
     | th .sort-icon { display: none; }
     | th.sort-up .sort-down { display: inline; }
     | th.sort-down   .sort-up   { display: inline; }
-
-  style.
-    .host-stats {
-      width: 100%;
-      font-size: 15px;
-    }
-
-    .host-stats__head {
-      width: 100%;
-      font-size: 18px;
-      border-bottom: 1px solid rgb(140,140,140);
-    }
-
-    @media (max-width: 768px) {
-      .host-stats__head {
-        display: none;
-      }
-    }
-
-    .host-stats__row:hover {
-      background-color: rgba(240,173,78,.1);
-    }
-
-    .host-stats__row_head:hover {
-      background-color: transparent;
-    }
-
-    @media (max-width: 768px) {
-      .host-stats__row {
-        padding-top: 7px;
-        padding-bottom: 7px;
-        display: block;
-        border-bottom: 1px solid rgb(200,200,200);
-      }
-    }
-
-    .host-stats__col {
-      padding: 10px;
-      vertical-align: middle;
-    }
-
-    .host-stats__col_center {
-      text-align: center;
-    }
-
-    .host-stats__col_right {
-      text-align: right;
-    }
-
-    @media (max-width: 768px) {
-      .host-stats__col {
-        display: block;
-        padding: 7px;
-        text-align: left;
-      }
-
-      .host-stats__col[data-title]::before {
-        display: inline-block;
-        width: 100%;
-        max-width: 10em;
-        color: rgb(96,96,96);
-        font-size: .75em;
-        letter-spacing: .1em;
-        text-transform: uppercase;
-        content: attr(data-title);
-      }
-    }
-
-    @media (min-width: 769px) {
-      .host-stats__col_kpi {
-        width: 100px;
-      }
-    }
-
-    .best {
-      position: relative;
-    }
-
-    .best::after {
-      position: absolute;
-      bottom: 100%;
-      left: 100%;
-      margin-bottom: -.85em;
-      margin-right: -.5em;
-      font-size: .75em;
-      content: '★';
-    }
-
-    .best_middle::after {
-      bottom: 50%;
-      margin-bottom: -.85em;
-    }
-
-    .tweet-graph {
-      display: table;
-    }
-
-    .tweet-graph__bar {
-      padding-left: .5em;
-      padding-right: .5em;
-      display: table-cell;
-      font-size: 13px;
-      font-weight: 700;
-      letter-spacing: .025em;
-      line-height: 1.5;
-      text-align: center;
-      overflow: hidden;
-    }
-
-    /*@media (max-width: 768px) {
-      .tweet-graph__bar {
-        padding-left: .1em;
-        padding-right: .1em;
-        height: 12px;
-      }
-
-      .tweet-graph__count {
-        font-size: 0;
-      }
-
-      .tweet-graph__count::after {
-        position: static;
-        margin-bottom: 0;
-        margin-right: 0;
-        font-size: 10px;
-      }
-    }*/
-
-    .tweet-stats {
-      position: relative;
-      margin-right: .3em;
-      padding-left: .3em;
-      padding-right: .3em;
-      display: inline-block;
-      font-size: 14px;
-      font-weight: 700;
-      letter-spacing: .05em;
-      text-transform: uppercase;
-    }
-
-    .tweet-stats_own {
-      color: rgb(51,122,183);
-      background-color: rgba(51,122,183,.1);
-    }
-
-    .tweet-stats_retweets {
-      color: rgb(91,192,222);
-      background-color: rgba(91,192,222,.1);
-    }
-
-    .tweet-stats_replies {
-      color: rgb(92,184,92);
-      background-color: rgba(92,184,92,.1);
-    }
-
-    .tweet-stats_total {
-      padding: initial;
-      font-size: 16px;
-      border-bottom: none;
-    }
-
-    .tweet-stats__counter {
-      display: inline-block;
-    }
-
-    .tweet-stats_total .tweet-stats__counter {
-      padding: initial;
-      color: rgb(0,0,0);
-      font-size: 1em;
-    }
-
-    .tweet-graph__bar_own {
-      color: rgb(51,122,183);
-      background-color: rgba(51,122,183,.1);
-      border-right: 1px solid rgba(51,122,183,.5);
-    }
-
-    .tweet-graph__bar_retweets {
-      color: rgb(91,192,222);
-      background-color: rgba(91,192,222,.1);
-      border-right: 1px solid rgba(91,192,222,.5);
-    }
-
-    .tweet-graph__bar_replies {
-      color: rgb(92,184,92);
-      background-color: rgba(92,184,92,.1);
-    }
-
+  
+  link(rel="stylesheet" href="/styles.css")
+  
   .container
     .row
       .col-md-12
         table.host-stats
           thead.host-stats__head
             tr.host-stats__row.host-stats__row_head
-              td.host-stats__col
-              td.host-stats__col
-              td.host-stats__col.host-stats__col_right Читатели
-              td.host-stats__col.host-stats__col_right Твиты
-              td.host-stats__col.host-stats__col_center
+              th.host-stats__col(colspan=4)
+              th.host-stats__col(colspan=2) Ретвиты
+              th.host-stats__col(colspan=2) Избранное
+            tr.host-stats__row.host-stats__row_head
+              th.host-stats__col: nobr Автор
+                small.sort-icon.sort-up= " ↑"
+                small.sort-icon.sort-down= " ↓"
+              th.host-stats__col.host-stats__col_right Читатели
+              th.host-stats__col.host-stats__col_right Твиты
+              th.host-stats__col.host-stats__col_center
                 .tweet-stats.tweet-stats_own
                   span.tweet-stats__label написал
                 .tweet-stats.tweet-stats_retweets
                   span.tweet-stats__label ретвитнул
                 .tweet-stats.tweet-stats_replies
                   span.tweet-stats__label ответил
-              td.host-stats__col Ретвиты
-              td.host-stats__col Избранное
+              th.host-stats__col: small На твит
+              th.host-stats__col: small Всего
+              th.host-stats__col: small На твит
+              th.host-stats__col: small Всего
           each author, index in stats
             tr.host-stats__row
-              td.host-stats__col.host-stats__col_right.hidden-xs= author.index
-              td.host-stats__col(data-title='Ведущий')
-                a(href='/' + author.username) @#{author.username}
+              td.host-stats__col(data-title='Автор' data-sort="#{author.index}")
+                span.hidden-xs.hidden-sm(style="display: inline-block; width: 2em").text-right= author.index + "  "
+                if (index === 0)
+                  = "На этой неделе "
+                  a(href='https://twitter.com/jsunderhood') @#{author.username}
+                else
+                  a(href='/' + author.username) @#{author.username}
               if author.gainedFollowers > 0
                 td.host-stats__col.host-stats__col_right.text-success(data-title='Читатели')
                   span(
@@ -293,10 +119,18 @@ block content
                         best_middle: author.maxReplies
                       }
                     )= author.replies
-              td.host-stats__col.host-stats__col_kpi(data-title='Ретвиты')
-                span 0.83 / 15
-              td.host-stats__col.host-stats__col_kpi(data-title='Избранное')
-                span 1.11 / 20
+              td.host-stats__col.host-stats__col_kpi(data-title='Ретвитов на твит')
+                span(class={best: author.maxRetweetedKpi})
+                  = author.retweetedKpi
+              td.host-stats__col.host-stats__col_kpi(data-title='Ретвитов всего')
+                span(class={best: author.maxRetweeted})
+                  = author.retweeted
+              td.host-stats__col.host-stats__col_kpi(data-title='Избранное на твит')
+                span(class={best: author.maxFavoritedKpi})
+                  = author.favoritedKpi
+              td.host-stats__col.host-stats__col_kpi(data-title='Избранное всего')
+                span(class={best: author.maxFavorited})
+                  = author.favorited
 
   .container
     .row
@@ -410,3 +244,4 @@ block content
   script(src="https://cdn.rawgit.com/tristen/tablesort/gh-pages/src/sorts/tablesort.numeric.js")
   script
     | new Tablesort(document.querySelector('.js-table-stat'), { descending: true });
+    | new Tablesort(document.querySelector('.host-stats'), { descending: true });
