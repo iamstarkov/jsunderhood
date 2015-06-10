@@ -45,22 +45,22 @@
     }
   },
   "protected": false,
-  "followers_count": 865,
+  "followers_count": 868,
   "friends_count": 17,
   "listed_count": 23,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 107,
+  "favourites_count": 108,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3963,
+  "statuses_count": 3999,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jun 09 16:48:23 +0000 2015",
-    "id": 608314710300233700,
-    "id_str": "608314710300233728",
-    "text": "RT @sc0rp1d: Ищу интересных спикеров для мероприятия по веб-деву в Краснодаре @webstandards_ru @forwebdev @jsunderhood @frontflip_js @filip…",
+    "created_at": "Wed Jun 10 10:07:21 +0000 2015",
+    "id": 608576172969050100,
+    "id_str": "608576172969050112",
+    "text": "Кто нибудь уже экспериментировал с Service Worker для создания оффлайн веб-приложений? Поделитесь, пожалуйста, опытом\nhttp://t.co/YlVszNSplq",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -72,156 +72,27 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Jun 09 15:38:38 +0000 2015",
-      "id": 608297155506405400,
-      "id_str": "608297155506405377",
-      "text": "Ищу интересных спикеров для мероприятия по веб-деву в Краснодаре @webstandards_ru @forwebdev @jsunderhood @frontflip_js @filipovskii help RT",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 9,
-      "favorite_count": 1,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "webstandards_ru",
-            "name": "Веб-стандарты",
-            "id": 42081171,
-            "id_str": "42081171",
-            "indices": [
-              65,
-              81
-            ]
-          },
-          {
-            "screen_name": "forwebdev",
-            "name": "For Web",
-            "id": 2401225196,
-            "id_str": "2401225196",
-            "indices": [
-              82,
-              92
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              93,
-              105
-            ]
-          },
-          {
-            "screen_name": "frontflip_js",
-            "name": "Frontflip Podcast",
-            "id": 2529495702,
-            "id_str": "2529495702",
-            "indices": [
-              106,
-              119
-            ]
-          },
-          {
-            "screen_name": "filipovskii",
-            "name": "Andrey Salomatin",
-            "id": 171462019,
-            "id_str": "171462019",
-            "indices": [
-              120,
-              132
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 9,
-    "favorite_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 2,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "sc0rp1d",
-          "name": "Mark Langovoi",
-          "id": 1632961610,
-          "id_str": "1632961610",
+          "url": "http://t.co/YlVszNSplq",
+          "expanded_url": "http://www.html5rocks.com/en/tutorials/service-worker/introduction/",
+          "display_url": "html5rocks.com/en/tutorials/s…",
           "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "webstandards_ru",
-          "name": "Веб-стандарты",
-          "id": 42081171,
-          "id_str": "42081171",
-          "indices": [
-            78,
-            94
-          ]
-        },
-        {
-          "screen_name": "forwebdev",
-          "name": "For Web",
-          "id": 2401225196,
-          "id_str": "2401225196",
-          "indices": [
-            95,
-            105
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            106,
-            118
-          ]
-        },
-        {
-          "screen_name": "frontflip_js",
-          "name": "Frontflip Podcast",
-          "id": 2529495702,
-          "id_str": "2529495702",
-          "indices": [
-            119,
-            132
-          ]
-        },
-        {
-          "screen_name": "filipovskii",
-          "name": "Andrey Salomatin",
-          "id": 171462019,
-          "id_str": "171462019",
-          "indices": [
-            133,
+            118,
             140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
