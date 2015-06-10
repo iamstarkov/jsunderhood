@@ -190,8 +190,14 @@ gulp.task('cname', function() {
   return gulp.src('CNAME').pipe(gulp.dest('dist'));
 });
 
-gulp.task('css', function() {
-  return gulp.src('styles.css').pipe(gulp.dest('dist'));
+gulp.task('css', ['css-bootstrap', 'css-stats']);
+
+gulp.task('css-bootstrap', function() {
+  return gulp.src('node_modules/bootstrap/dist/**').pipe(gulp.dest('dist'));
+});
+
+gulp.task('css-stats', function() {
+  return gulp.src('stats-styles.css').pipe(gulp.dest('dist'));
 });
 
 gulp.task('gh', ['build-prod'], function(done) {
