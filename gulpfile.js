@@ -175,7 +175,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', done);
 });
 
 gulp.task('build', function(done) {
@@ -190,14 +190,19 @@ gulp.task('cname', function() {
   return gulp.src('CNAME').pipe(gulp.dest('dist'));
 });
 
-gulp.task('css', ['css-bootstrap', 'css-stats']);
-
 gulp.task('css-bootstrap', function() {
   return gulp.src('node_modules/bootstrap/dist/**').pipe(gulp.dest('dist'));
 });
 
-gulp.task('css-stats', function() {
-  return gulp.src('stats-styles.css').pipe(gulp.dest('dist'));
+gulp.task('css', ['css-bootstrap'], function() {
+  return gulp.src('styles.css').pipe(gulp.dest('dist/css'));
+});
+
+gulp.task('js', function() {
+  return gulp.src([
+    'node_modules/tablesort/src/tablesort.js',
+    'node_modules/tablesort/src/sorts/tablesort.numeric.js'
+  ]).pipe(gulp.dest('dist/js'));
 });
 
 gulp.task('gh', ['build-prod'], function(done) {
