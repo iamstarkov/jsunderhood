@@ -44,9 +44,9 @@ block content
               th.host-stats__col.text-center.bottom: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
               th.host-stats__col.text-center.bottom: span.tweet-stats.tweet-stats_replies.sortable Ответил
               th.host-stats__col.text-center.bottom: span.sortable Ретвитнули на 1 твит
-              th.host-stats__col.text-center.bottom: span.sortable: .text-muted Всего ретвитнули
+              th.host-stats__col.text-center.bottom: span.sortable Всего ретвитнули
               th.host-stats__col.text-center.bottom: span.sortable Фавнули на 1 твит
-              th.host-stats__col.text-center.bottom: span.sortable: .text-muted Всего фавнули
+              th.host-stats__col.text-center.bottom: span.sortable Всего фавнули
           each author, index in stats
             tr.host-stats__row
               td.host-stats__col(data-title='Автор' data-sort=author.index): nobr
@@ -76,13 +76,13 @@ block content
                 span(class={ best: author.maxRetweetedKpi})
                   = author.retweetedKpi
               td.host-stats__col.host-stats__col_kpi.text-center(data-title='Ретвитнули всего' data-sort=author.retweeted)
-                small.text-muted(class={ best: author.maxRetweeted })
+                span(class={ best: author.maxRetweeted })
                   = author.retweeted
               td.host-stats__col.host-stats__col_kpi.text-center(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
                 span(class={ best: author.maxFavoritedKpi })
                   = author.favoritedKpi
               td.host-stats__col.host-stats__col_kpi.text-center(data-title='Фавнули всего' data-sort=author.favorited)
-                small.text-muted(class={ best: author.maxFavorited })
+                span(class={ best: author.maxFavorited })
                   = author.favorited
 
             tr.host-stats__row.host-stats__row_graph
