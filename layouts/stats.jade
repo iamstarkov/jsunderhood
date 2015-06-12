@@ -28,9 +28,9 @@ block content
       .row.hidden-xs
         .col-md-12
           include share-text
-  
+
   link(rel="stylesheet" href="/css/styles.css")
-  
+
   .container
     .row
       .col-md-12
@@ -38,63 +38,61 @@ block content
           thead.host-stats__head
             tr.host-stats__row.host-stats__row_head
               th.host-stats__col.bottom: span.sortable Автор
-              th.host-stats__col.text-right.bottom: span.sortable Читатели
-              th.host-stats__col.text-right.bottom: span.sortable Твиты
-              th.host-stats__col.bottom: span.sortable: small Ретвитнули на 1 твит
-              th.host-stats__col.bottom: span.sortable: small.text-muted Всего ретвитнули
-              th.host-stats__col.bottom: span.sortable: small Фавнули на 1 твит
-              th.host-stats__col.bottom: span.sortable: small.text-muted Всего фавнули
-              th.host-stats__col.bottom.bottom.no-sort
-                .tweet-stats.tweet-stats_own: span.tweet-stats__label написал
-                .tweet-stats.tweet-stats_retweets: span.tweet-stats__label ретвитнул
-                .tweet-stats.tweet-stats_replies: span.tweet-stats__label ответил
+              th.host-stats__col.text-center.bottom: span.sortable Читатели
+              th.host-stats__col.text-center.bottom: span.sortable Твиты
+              th.host-stats__col.text-center.bottom: span.tweet-stats.tweet-stats_own.sortable Написал
+              th.host-stats__col.text-center.bottom: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
+              th.host-stats__col.text-center.bottom: span.tweet-stats.tweet-stats_replies.sortable Ответил
+              th.host-stats__col.text-center.bottom: span.sortable Ретвитнули на 1 твит
+              th.host-stats__col.text-center.bottom: span.sortable: .text-muted Всего ретвитнули
+              th.host-stats__col.text-center.bottom: span.sortable Фавнули на 1 твит
+              th.host-stats__col.text-center.bottom: span.sortable: .text-muted Всего фавнули
           each author, index in stats
             tr.host-stats__row
               td.host-stats__col(data-title='Автор' data-sort=author.index): nobr
                 a(href='/' + author.username class={ live: index === 0 })
                   = "@" + author.username
-              
-              td.host-stats__col.text-right(data-title='Читатели' data-sort=author.gainedFollowers class={
+
+              td.host-stats__col.text-center(data-title='Читатели' data-sort=author.gainedFollowers class={
                 'text-success': author.gainedFollowers > 0,
                 'text-danger': author.gainedFollowers < 0
               })
                 span(class={ best: author.maxGainedFollowers })
                   = author.gainedFollowers > 0 ? '+' : '−'
                   = Math.abs(author.gainedFollowers)
-
-              td.host-stats__col.text-right(data-title='Твиты' data-sort=author.tweets)
+              td.host-stats__col.text-center(data-title='Твиты' data-sort=author.tweets)
                 span( class={best: author.maxTweets} )
                   = author.tweets
-
-              td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули на 1 твит' data-sort=author.retweetedKpi)
+              td.host-stats__col.text-center(data-title='Написал' data-sort=author.ownTweets)
+                span(class={ best: author.maxOwnTweets })
+                  = author.ownTweets
+              td.host-stats__col.text-center(data-title='Ретвитнул' data-sort=author.retweets)
+                span(class={ best: author.maxRetweets })
+                  = author.retweets
+              td.host-stats__col.text-center(data-title='Ответил' data-sort=author.replies)
+                span(class={ best: author.maxReplies })
+                  = author.replies
+              td.host-stats__col.host-stats__col_kpi.text-center(data-title='Ретвитнули на 1 твит' data-sort=author.retweetedKpi)
                 span(class={ best: author.maxRetweetedKpi})
                   = author.retweetedKpi
-              td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули всего' data-sort=author.retweeted)
+              td.host-stats__col.host-stats__col_kpi.text-center(data-title='Ретвитнули всего' data-sort=author.retweeted)
                 small.text-muted(class={ best: author.maxRetweeted })
                   = author.retweeted
-              td.host-stats__col.host-stats__col_kpi(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
+              td.host-stats__col.host-stats__col_kpi.text-center(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
                 span(class={ best: author.maxFavoritedKpi })
                   = author.favoritedKpi
-              td.host-stats__col.host-stats__col_kpi(data-title='Фавнули всего' data-sort=author.favorited)
+              td.host-stats__col.host-stats__col_kpi.text-center(data-title='Фавнули всего' data-sort=author.favorited)
                 small.text-muted(class={ best: author.maxFavorited })
                   = author.favorited
 
-              td.host-stats__col(style='width: 100%;')
-                - var percent = author.tweets > 200 ? 40 : 20;
-                - var percent = author.tweets > 300 ? 60 : percent;
-                - var percent = author.tweets > 400 ? 80 : percent;
-                - var percent = author.tweets > 500 ? 95 : percent;
-                - var percent = author.tweets > 600 ? 100 : percent;
+            tr.host-stats__row.host-stats__row_graph
+              td.host-stats__col.host-stats__col_graph(colspan=10)
+                //- TODO: calculate percent in stats, remove hardcode
+                - var percent = Math.round(author.tweets / 820 * 100)
                 .tweet-graph(style='width: #{percent}%')
                   .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.ownTweetsPercentage}%;' )
-                    span.tweet-graph__count(class={ best: author.maxOwnTweets, best_middle: author.maxOwnTweets })
-                      = author.ownTweets
                   .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweetsPercentage}%;')
-                    span.tweet-graph__count(class={ best: author.maxRetweets, best_middle: author.maxRetweets })
-                      = author.retweets
                   .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.repliesPercentage}%;' )
-                    span.tweet-graph__count(class={ best: author.maxReplies, best_middle: author.maxReplies })
-                      = author.replies
 
   script(src="/js/tablesort.js")
   script(src="/js/tablesort.numeric.js")
