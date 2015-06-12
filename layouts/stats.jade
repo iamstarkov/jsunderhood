@@ -74,13 +74,13 @@ block content
                   = author.replies
               td.host-stats__col.host-stats__col_kpi.text-right(data-title='Ретвитнули на 1 твит' data-sort=author.retweetedKpi)
                 span(class={ best: author.maxRetweetedKpi})
-                  = author.retweetedKpi
+                  = author.retweetedKpi.toFixed(2)
               td.host-stats__col.host-stats__col_kpi.text-right(data-title='Ретвитнули всего' data-sort=author.retweeted)
                 span(class={ best: author.maxRetweeted })
                   = author.retweeted
               td.host-stats__col.host-stats__col_kpi.text-right(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
                 span(class={ best: author.maxFavoritedKpi })
-                  = author.favoritedKpi
+                  = author.favoritedKpi.toFixed(2)
               td.host-stats__col.host-stats__col_kpi.text-right(data-title='Фавнули всего' data-sort=author.favorited)
                 span(class={ best: author.maxFavorited })
                   = author.favorited
