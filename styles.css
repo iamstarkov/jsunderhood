@@ -22,9 +22,14 @@ th.sort-down .sort-up   { display: inline; }
   }
 }
 
-.host-stats__row:not(.host-stats__row_head):not(.host-stats__row_graph):hover,
+.host-stats__row:hover,
 .host-stats__row:hover + .host-stats__row_graph {
   background-color: rgba(240,173,78,.1);
+}
+
+.host-stats__row_head:hover,
+.host-stats__row_graph:hover {
+  background-color: transparent;
 }
 
 @media (max-width: 768px) {
