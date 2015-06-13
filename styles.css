@@ -1,5 +1,5 @@
-th { cursor: pointer; color: #337AB7; }
-th span {  border-bottom: 1px dotted #77B3DA; }
+th { cursor: pointer; color: rgb(51,122,183); }
+th span {  border-bottom: 1px dotted rgb(119,179,218); }
 th.no-sort { cursor: default; }
 th .sort-icon { display: none; }
 th.sort-up .sort-down { display: inline; }
@@ -13,7 +13,7 @@ th.sort-down .sort-up   { display: inline; }
 .host-stats__head {
   width: 100%;
   font-size: 16px;
-  border-bottom: 2px solid #DDD;
+  border-bottom: 2px solid rgb(221,221,221);
 }
 
 @media (max-width: 768px) {
@@ -38,12 +38,18 @@ th.sort-down .sort-up   { display: inline; }
 
 .host-stats__col {
   padding: 8px 10px 2px;
+  text-align: right;
   vertical-align: middle;
+}
+
+.host-stats__col_left {
+  text-align: left;
 }
 
 th.host-stats__col {
   padding: 3px 8px;
   font-weight: normal;
+  vertical-align: bottom;
 }
 
 .host-stats__col_graph {
@@ -162,6 +168,3 @@ th.host-stats__col {
   content: 'Live';
 }
 
-.bottom {
-  vertical-align: bottom;
-}
