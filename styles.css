@@ -46,6 +46,14 @@ th.sort-down .sort-up   { display: inline; }
   text-align: left;
 }
 
+th.host-stats__col_favorited {
+  color: rgb(229,156,46);
+}
+
+th.host-stats__col_retweeted {
+  color: rgb(92,145,59);
+}
+
 th.host-stats__col {
   padding: 3px 8px;
   font-weight: normal;
@@ -168,3 +176,6 @@ th.host-stats__col {
   content: 'Live';
 }
 
+.sortable {
+  border-bottom-color: currentColor;
+}

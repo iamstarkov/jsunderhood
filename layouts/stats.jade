@@ -37,16 +37,19 @@ block content
         table.host-stats
           thead.host-stats__head
             tr.host-stats__row.host-stats__row_head
-              th.host-stats__col.host-stats__col_left: span.sortable Автор
-              th.host-stats__col: span.sortable Читатели
-              th.host-stats__col: span.sortable Твиты
-              th.host-stats__col: span.tweet-stats.tweet-stats_own.sortable Написал
-              th.host-stats__col: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
-              th.host-stats__col: span.tweet-stats.tweet-stats_replies.sortable Ответил
-              th.host-stats__col: span.sortable Ретвитнули на 1 твит
-              th.host-stats__col: span.sortable Всего ретвитнули
-              th.host-stats__col: span.sortable Фавнули на 1 твит
-              th.host-stats__col: span.sortable Всего фавнули
+              th.host-stats__col.host-stats__col_left(rowspan=2): span.sortable Автор
+              th.host-stats__col(rowspan=2): span.sortable Читатели
+              th.host-stats__col(rowspan=2): span.sortable Твиты
+              th.host-stats__col(rowspan=2): span.tweet-stats.tweet-stats_own.sortable Написал
+              th.host-stats__col(rowspan=2): span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
+              th.host-stats__col(rowspan=2): span.tweet-stats.tweet-stats_replies.sortable Ответил
+              th.host-stats__col.host-stats__col_retweeted(colspan=2) Ретвитнули
+              th.host-stats__col.host-stats__col_favorited(colspan=2) Фавнули
+            tr.host-stats__row.host-stats__row_head
+              th.host-stats__col.host-stats__col_retweeted: span.sortable всего
+              th.host-stats__col.host-stats__col_retweeted: span.sortable на твит
+              th.host-stats__col.host-stats__col_favorited: span.sortable всего
+              th.host-stats__col.host-stats__col_favorited: span.sortable на твит
           each author, index in stats
             tr.host-stats__row
               td.host-stats__col.host-stats__col_left(data-title='Автор' data-sort=author.index): nobr
@@ -72,18 +75,18 @@ block content
               td.host-stats__col(data-title='Ответил' data-sort=author.replies)
                 span(class={ best: author.maxReplies })
                   = author.replies
-              td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули на 1 твит' data-sort=author.retweetedKpi)
-                span(class={ best: author.maxRetweetedKpi})
-                  = author.retweetedKpi.toFixed(2)
               td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули всего' data-sort=author.retweeted)
                 span(class={ best: author.maxRetweeted })
                   = author.retweeted
-              td.host-stats__col.host-stats__col_kpi(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
-                span(class={ best: author.maxFavoritedKpi })
-                  = author.favoritedKpi.toFixed(2)
+              td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули на 1 твит' data-sort=author.retweetedKpi)
+                span(class={ best: author.maxRetweetedKpi})
+                  = author.retweetedKpi.toFixed(2)
               td.host-stats__col.host-stats__col_kpi(data-title='Фавнули всего' data-sort=author.favorited)
                 span(class={ best: author.maxFavorited })
                   = author.favorited
+              td.host-stats__col.host-stats__col_kpi(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
+                span(class={ best: author.maxFavoritedKpi })
+                  = author.favoritedKpi.toFixed(2)
 
             tr.host-stats__row.host-stats__row_graph
               td.host-stats__col.host-stats__col_graph(colspan=10)
