@@ -3,9 +3,9 @@
   "id_str": "3014054307",
   "name": "Разработчик",
   "screen_name": "jsunderhood",
-  "location": "Любляна, Словения",
+  "location": "Планета Земля",
   "profile_location": null,
-  "description": "На этой неделе аккаунт ведёт Алексей @Ask_11. JS разработчик https://t.co/fLM0j2f95W и фрилансер http://t.co/PHguJhcNsK",
+  "description": "Коллективный аккаунт о фронт-енд разработки.",
   "url": "https://t.co/TqpzZziYPM",
   "entities": {
     "url": {
@@ -22,30 +22,11 @@
       ]
     },
     "description": {
-      "urls": [
-        {
-          "url": "https://t.co/fLM0j2f95W",
-          "expanded_url": "https://github.com/alekseykulikov",
-          "display_url": "github.com/alekseykulikov",
-          "indices": [
-            61,
-            84
-          ]
-        },
-        {
-          "url": "http://t.co/PHguJhcNsK",
-          "expanded_url": "http://alekseykulikov.com",
-          "display_url": "alekseykulikov.com",
-          "indices": [
-            97,
-            119
-          ]
-        }
-      ]
+      "urls": []
     }
   },
   "protected": false,
-  "followers_count": 877,
+  "followers_count": 883,
   "friends_count": 17,
   "listed_count": 23,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -54,14 +35,14 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4027,
+  "statuses_count": 4030,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jun 13 10:02:03 +0000 2015",
-    "id": 609662004454887400,
-    "id_str": "609662004454887424",
-    "text": "Извиняюсь за ошибку, Аксель в целом очень активно участвует в развитии JavaScript. https://t.co/f4CtRTjYiv",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "created_at": "Sun Jun 14 15:20:02 +0000 2015",
+    "id": 610104413672337400,
+    "id_str": "610104413672337408",
+    "text": "На этой неделе с Вами был Алексей Куликов: \n- мой твиттер: @Ask_11\n- мой гитхаб: https://t.co/SnSM4XH4LT\nЭто было классно, удачи, пока!",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -72,20 +53,31 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Ask_11",
+          "name": "Aleksey Kulikov",
+          "id": 64369954,
+          "id_str": "64369954",
+          "indices": [
+            59,
+            66
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/f4CtRTjYiv",
-          "expanded_url": "https://twitter.com/rreverser/status/609656785968996352",
-          "display_url": "twitter.com/rreverser/stat…",
+          "url": "https://t.co/SnSM4XH4LT",
+          "expanded_url": "https://github.com/alekseykulikov",
+          "display_url": "github.com/alekseykulikov",
           "indices": [
-            83,
-            106
+            81,
+            104
           ]
         }
       ]
@@ -102,10 +94,10 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/607800538722242560/p15_i4oh_normal.png",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/607800538722242560/p15_i4oh_normal.png",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/610104671601082369/o8K3H-FE_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/610104671601082369/o8K3H-FE_normal.png",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1425292980",
-  "profile_link_color": "FA743E",
+  "profile_link_color": "119BD2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
   "profile_text_color": "333333",
