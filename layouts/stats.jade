@@ -37,22 +37,19 @@ block content
         table.host-stats
           thead.host-stats__head
             tr.host-stats__row.host-stats__row_head
-              th.host-stats__col.host-stats__col_left(rowspan=2): span.sortable Автор
-              th.host-stats__col(rowspan=2): span.sortable Читатели
-              th.host-stats__col(rowspan=2): span.sortable Твиты
-              th.host-stats__col(rowspan=2): span.tweet-stats.tweet-stats_own.sortable Написал
-              th.host-stats__col(rowspan=2): span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
-              th.host-stats__col(rowspan=2): span.tweet-stats.tweet-stats_replies.sortable Ответил
-              th.host-stats__col.host-stats__col_retweeted(colspan=2) Ретвитнули
-              th.host-stats__col.host-stats__col_favorited(colspan=2) Фавнули
-            tr.host-stats__row.host-stats__row_head
-              th.host-stats__col.host-stats__col_retweeted: span.sortable всего
+              th.host-stats__col.host-stats__col_left: span.sortable Автор
+              th.host-stats__col.col__author: span.sortable Читатели
+              th.host-stats__col: span.sortable Твиты
+              th.host-stats__col: span.tweet-stats.tweet-stats_own.sortable Написал
+              th.host-stats__col: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
+              th.host-stats__col: span.tweet-stats.tweet-stats_replies.sortable Ответил
+              th.host-stats__col.host-stats__col_retweeted: span.sortable Ретвитнули <br> всего
               th.host-stats__col.host-stats__col_retweeted: span.sortable на твит
-              th.host-stats__col.host-stats__col_favorited: span.sortable всего
+              th.host-stats__col.host-stats__col_favorited: span.sortable Фавнули <br> всего
               th.host-stats__col.host-stats__col_favorited: span.sortable на твит
           each author, index in stats
             tr.host-stats__row
-              td.host-stats__col.host-stats__col_left(data-title='Автор' data-sort=author.index): nobr
+              td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=author.index): nobr
                 a(href='/' + author.username class={ live: index === 0 })
                   = "@" + author.username
 
@@ -60,35 +57,35 @@ block content
                 'text-success': author.gainedFollowers > 0,
                 'text-danger': author.gainedFollowers < 0
               })
-                span(class={ best: author.maxGainedFollowers })
+                span.cell(class={ 'cell--best': author.maxGainedFollowers }): span.cell__content
                   = author.gainedFollowers > 0 ? '+' : '−'
                   = Math.abs(author.gainedFollowers)
               td.host-stats__col(data-title='Твиты' data-sort=author.tweets)
-                span( class={best: author.maxTweets} )
+                span.cell(class={ 'cell--best': author.maxTweets } ): span.cell__content
                   = author.tweets
               td.host-stats__col(data-title='Написал' data-sort=author.ownTweets)
-                span(class={ best: author.maxOwnTweets })
+                span.cell(class={ 'cell--best': author.maxOwnTweets }): span.cell__content
                   = author.ownTweets
               td.host-stats__col(data-title='Ретвитнул' data-sort=author.retweets)
-                span(class={ best: author.maxRetweets })
+                span.cell(class={ 'cell--best': author.maxRetweets }): span.cell__content
                   = author.retweets
               td.host-stats__col(data-title='Ответил' data-sort=author.replies)
-                span(class={ best: author.maxReplies })
+                span.cell(class={ 'cell--best': author.maxReplies }): span.cell__content
                   = author.replies
               td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули всего' data-sort=author.retweeted)
-                span(class={ best: author.maxRetweeted })
+                span.cell(class={ 'cell--best': author.maxRetweeted }): span.cell__content
                   = author.retweeted
               td.host-stats__col.host-stats__col_kpi(data-title='Ретвитнули на 1 твит' data-sort=author.retweetedKpi)
-                span(class={ best: author.maxRetweetedKpi})
+                span.cell(class={ 'cell--best': author.maxRetweetedKpi}): span.cell__content
                   = author.retweetedKpi.toFixed(2)
               td.host-stats__col.host-stats__col_kpi(data-title='Фавнули всего' data-sort=author.favorited)
-                span(class={ best: author.maxFavorited })
+                span.cell(class={ 'cell--best': author.maxFavorited }): span.cell__content
                   = author.favorited
               td.host-stats__col.host-stats__col_kpi(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
-                span(class={ best: author.maxFavoritedKpi })
+                span.cell(class={ 'cell--best': author.maxFavoritedKpi }): span.cell__content
                   = author.favoritedKpi.toFixed(2)
 
-            tr.host-stats__row.host-stats__row_graph
+            //- tr.host-stats__row.host-stats__row_graph
               td.host-stats__col.host-stats__col_graph(colspan=10)
                 //- TODO: calculate percent in stats, remove hardcode
                 - var percent = Math.round(author.tweets / 820 * 100)
