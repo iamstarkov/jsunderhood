@@ -202,3 +202,7 @@ th.host-stats__col {
 .sortable {
   border-bottom-color: currentColor;
 }
+
+.sort-up, .sort-down {
+  background-color: rgba(240, 200, 75, .1);
+}
