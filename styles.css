@@ -211,3 +211,17 @@ th.host-stats__col {
 .rted--2p { max-width: 75px; }
 .faved--1p { max-width: 127px; }
 .faved--2p { max-width: 75px; }
+
+tr {
+  z-index: 1;
+}
+
+.tweet-graph__wrap {
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin-left: 25px;
+  margin-right: 33px;
+  margin-top: 3px;
+}

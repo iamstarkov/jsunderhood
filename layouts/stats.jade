@@ -31,6 +31,8 @@ block content
 
   link(rel="stylesheet" href="/css/styles.css")
 
+  - var tweetsCountsArr = stats.map(function(author) { return author.tweets; });
+  - var maxTweets = Math.max.apply(Math, tweetsCountsArr);
   .container
     .row
       .col-md-12
@@ -53,9 +55,17 @@ block content
               th.host-stats__col.host-stats__col_favorited.faved--2p: span.sortable: nobr на твит
           each author, index in stats
             tr.host-stats__row
-              td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=author.index): nobr
-                a(href='/' + author.username class={ live: index === 0 })
-                  = "@" + author.username
+              td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=author.index)
+                nobr
+                  a(href='/' + author.username class={ live: index === 0 })
+                    = "@" + author.username
+                
+                - var percent = Math.round(author.tweets / maxTweets * 100)
+                .tweet-graph__wrap
+                  .tweet-graph(style='width: #{percent}%')
+                    .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.ownTweetsPercentage}%;' )
+                    .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweetsPercentage}%;')
+                    .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.repliesPercentage}%;' )
 
               td.host-stats__col(data-title='Читатели' data-sort=author.gainedFollowers class={
                 'text-success': author.gainedFollowers > 0,
@@ -88,15 +98,6 @@ block content
               td.host-stats__col.host-stats__col_kpi.faved--2p(data-title='Фавнули на 1 твит' data-sort=author.favoritedKpi)
                 span.cell(class={ 'cell--best': author.maxFavoritedKpi }): span.cell__content
                   = author.favoritedKpi.toFixed(2)
-
-            //- tr.host-stats__row.host-stats__row_graph
-              td.host-stats__col.host-stats__col_graph(colspan=10)
-                //- TODO: calculate percent in stats, remove hardcode
-                - var percent = Math.round(author.tweets / 820 * 100)
-                .tweet-graph(style='width: #{percent}%')
-                  .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.ownTweetsPercentage}%;' )
-                  .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweetsPercentage}%;')
-                  .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.repliesPercentage}%;' )
 
   script(src="/js/tablesort.js")
   script(src="/js/tablesort.numeric.js")
