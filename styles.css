@@ -43,7 +43,7 @@ th.sort-down .sort-up   { display: inline; }
 
 .host-stats__col {
   padding: 8px 10px;
-  width: 10%;
+  width: 14%;
   text-align: center;
   vertical-align: middle;
 }
@@ -206,3 +206,8 @@ th.host-stats__col {
 .sort-up, .sort-down {
   background-color: rgba(240, 200, 75, .1);
 }
+
+.rted--1p { max-width: 137px; }
+.rted--2p { max-width: 75px; }
+.faved--1p { max-width: 127px; }
+.faved--2p { max-width: 75px; }
