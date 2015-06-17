@@ -48,6 +48,18 @@ th.sort-down .sort-up   { display: inline; }
   vertical-align: middle;
 }
 
+.rted--1p { max-width: 135px; }
+.rted--2p { max-width: 75px; }
+.faved--1p { max-width: 125px; }
+.faved--2p { max-width: 75px; }
+
+@media (max-width: 768px) {
+  .host-stats__col {
+    width: auto;
+    max-width: 100%;
+  }
+}
+
 .host-stats__col_left {
   text-align: left;
 }
@@ -207,11 +219,6 @@ th.host-stats__col {
   background-color: rgba(240, 200, 75, .1);
 }
 
-.rted--1p { max-width: 135px; }
-.rted--2p { max-width: 75px; }
-.faved--1p { max-width: 125px; }
-.faved--2p { max-width: 75px; }
-
 tr {
   z-index: 1;
 }
@@ -224,4 +231,12 @@ tr {
   margin-left: 25px;
   margin-right: 33px;
   margin-top: 3px;
+}
+
+@media (max-width: 768px) {
+  .tweet-graph__wrap {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -29px;
+  }
 }
