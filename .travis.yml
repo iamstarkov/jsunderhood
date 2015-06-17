@@ -10,7 +10,7 @@ before_script:
 after_script:
 - npm run f5
 - npm run save
-# - npm run deploy
+- npm run deploy
 env:
   global:
   - secure: OE+aI3MsEWb9hsJG2vdJj+HxIL7szeFjuq1MRMebbahw72gxlKVHj/YxkgWbQk1VrDZrSC5JwK0O3MWiXVxd4bIk20Y2IlnjRPFHGWy/VyhY+nN+yqtZ9+QBf498+55lz9SHNpj1BTC4AqXwcw6mdVJnIyDLNYEjTCeTyNB9Ju/QiO+yAxS3bNkEca+Iu1AxYqmvVLUtQLU5brTdeDE/R7aJRkKIkivFQJfMrgAl8ywBpJJs9DfhUTSe+nCREyfLbTKvRG/Shj3D5at0cMJNmBwXqcxufcGjT4SyZtufQfqwMbmAXsfJh3t+917kpgjZCEAvrW3cqgfYRQUv6fIqdWakt+B4zYVUEQ3ZkD5k5FXuK+xrL6I071dLYClgeCADT81u3/7XJhBNyciHMcj/kmMapD/erpMjf2IfRd8RtB0DiN4kUr2W6rWJpdQzN0PSsAja4dZS01soQzOvq+Ft7GwqTccSV5BvQzI8EUQqPMyjr/xtCeMjc+HCj2DH5TWw664f+T35lAeroe2SJgnOJBhRwMgLE20H0ew+I3HU7lqML+OSbTjFTHHI7P3WH2l66DWPC/viQri4bf+aN4480v9R58JoVM6gDQLh4AGuD1pBauswfiNNX38/a+QXXRr2gWe26O5mrY+sNs0ggajhhzNoodQ5cdRHwR/OKIWAtvk=
