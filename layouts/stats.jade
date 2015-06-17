@@ -57,7 +57,8 @@ block content
             tr.host-stats__row
               td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=author.index)
                 nobr
-                  a(href='/' + author.username class={ live: index === 0 })
+                  - var authorLink = (index !== 0) ? '/' + author.username : 'https://twitter.com/jsunderhood';
+                  a(href=authorLink class={ live: index === 0 })
                     = "@" + author.username
                 
                 - var percent = Math.round(author.tweets / maxTweets * 100)
