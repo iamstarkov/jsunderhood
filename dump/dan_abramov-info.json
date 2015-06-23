@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 941,
+  "followers_count": 951,
   "friends_count": 17,
   "listed_count": 27,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 136,
+  "favourites_count": 142,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4607,
+  "statuses_count": 4632,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 22 14:18:02 +0000 2015",
-    "id": 612987915904401400,
-    "id_str": "612987915904401408",
-    "text": "Я пойду стричься, подумаю над темами на неделю. Кидайте еще, о чем хотите поговорить. Можно в личку если что-то скользкое.",
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "created_at": "Tue Jun 23 11:11:55 +0000 2015",
+    "id": 613303465167724500,
+    "id_str": "613303465167724544",
+    "text": "@somerandstring Вообще, рендерить в документ что-либо, да еще и обновлять это дело — сайд-эффект",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 613303337396662300,
+    "in_reply_to_status_id_str": "613303337396662272",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,7 +58,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "somerandstring",
+          "name": "Ivan Dmitriev",
+          "id": 28786967,
+          "id_str": "28786967",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
