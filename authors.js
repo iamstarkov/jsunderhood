@@ -1,5 +1,6 @@
 export default [
-  { username: 'dan_abramov',    start: '22 Jun 2015', first: '612922873452318720', post: false },
+  // post: false
+  { username: 'dan_abramov',    start: '22 Jun 2015', first: '612922873452318720' },
   { username: 'asktwi',         start: '15 Jun 2015', first: '610294906653904896' },
   { username: 'Ask_11',         start: '08 Jun 2015', first: '607804952778575872' },
   { username: 'i_komarov',      start: '01 Jun 2015', first: '605316466565623808' },
