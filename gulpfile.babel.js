@@ -54,13 +54,13 @@ var articleHarvesting = function() {
       url: url + '/',
       title: title,
       image: article.image,
-      desc: article.descHtml,
-      descText: article.descText,
+      desc: author.tweets[author.tweets.length - 1].text,
+      descText: author.tweets[author.tweets.length - 1].text,
       date: d(author.tweets[author.tweets.length - 1].created_at),
       content: article.content,
       rss: {
         url: site.site_url + getBasename(file) + '/',
-        description: article.descRSS
+        description: author.tweets[author.tweets.length - 1].text
       }
     });
     articles.sort(function(a, b) { return unix(b.date) - unix(a.date); });
