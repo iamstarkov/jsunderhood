@@ -3,8 +3,19 @@
   "id_str": "3014054307",
   "name": "Разработчик",
   "screen_name": "jsunderhood",
-  "location": "Симферополь",
-  "profile_location": null,
+  "location": "Ekaterinburg",
+  "profile_location": {
+    "id": "3894e5388f482c23",
+    "url": "https://api.twitter.com/1.1/geo/id/3894e5388f482c23.json",
+    "place_type": "unknown",
+    "name": "Ekaterinburg",
+    "full_name": "Ekaterinburg",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю. В эфире @floatdrop",
   "url": "https://t.co/TqpzZziYPM",
   "entities": {
@@ -26,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1047,
+  "followers_count": 1110,
   "friends_count": 17,
-  "listed_count": 33,
+  "listed_count": 34,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 257,
+  "favourites_count": 269,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5148,
+  "statuses_count": 5324,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 29 07:42:26 +0000 2015",
-    "id": 615425074364051500,
-    "id_str": "615425074364051456",
-    "text": "RT @milk_is_my_life: @baxxabit @jsunderhood @jsunderhood по первому пунту — https://t.co/dgCFOsZHMn",
+    "created_at": "Sun Jul 05 17:44:33 +0000 2015",
+    "id": 617750929056645100,
+    "id_str": "617750929056645120",
+    "text": "Live React: Hot Reloading with Time Travel at react-europe 2015 by @dan_abramov https://t.co/5wnJJW8sBF",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,139 +64,39 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Jun 29 07:34:02 +0000 2015",
-      "id": 615422961412112400,
-      "id_str": "615422961412112384",
-      "text": "@baxxabit @jsunderhood @jsunderhood по первому пунту — https://t.co/dgCFOsZHMn",
-      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 615418912801431600,
-      "in_reply_to_status_id_str": "615418912801431552",
-      "in_reply_to_user_id": 104131526,
-      "in_reply_to_user_id_str": "104131526",
-      "in_reply_to_screen_name": "baxxabit",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "baxxabit",
-            "name": "Uladzimir Havenchyk",
-            "id": 104131526,
-            "id_str": "104131526",
-            "indices": [
-              0,
-              9
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              10,
-              22
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              23,
-              35
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/dgCFOsZHMn",
-            "expanded_url": "https://learn.javascript.ru/nodejs-screencast",
-            "display_url": "learn.javascript.ru/nodejs-screenc…",
-            "indices": [
-              55,
-              78
-            ]
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "uk"
-    },
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 7,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "milk_is_my_life",
-          "name": "Sebastyan Pereiro",
-          "id": 83882711,
-          "id_str": "83882711",
+          "screen_name": "dan_abramov",
+          "name": "Dan Abramov",
+          "id": 70345946,
+          "id_str": "70345946",
           "indices": [
-            3,
-            19
-          ]
-        },
-        {
-          "screen_name": "baxxabit",
-          "name": "Uladzimir Havenchyk",
-          "id": 104131526,
-          "id_str": "104131526",
-          "indices": [
-            21,
-            30
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            31,
-            43
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            44,
-            56
+            67,
+            79
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/dgCFOsZHMn",
-          "expanded_url": "https://learn.javascript.ru/nodejs-screencast",
-          "display_url": "learn.javascript.ru/nodejs-screenc…",
+          "url": "https://t.co/5wnJJW8sBF",
+          "expanded_url": "https://www.youtube.com/watch?v=xsSnOQynTHs",
+          "display_url": "youtube.com/watch?v=xsSnOQ…",
           "indices": [
-            76,
-            99
+            80,
+            103
           ]
         }
       ]
     },
-    "favorited": false,
+    "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "uk"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
