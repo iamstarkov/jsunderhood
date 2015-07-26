@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'deepsweet',       start: '20 Jul 2015', first: '622957132221038592', post: false },
+  { username: 'deepsweet',       start: '20 Jul 2015', first: '622957132221038592' },
   { username: 'andreypopp',      start: '13 Jul 2015', first: '620510502179868673' },
   { username: 'mistakster',      start: '06 Jul 2015', first: '617956881777184768' },
   { username: 'floatdrop',       start: '29 Jun 2015', first: '615413162981097472' },
