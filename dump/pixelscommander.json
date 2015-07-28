@@ -1,0 +1,1452 @@
+{
+  "username": "pixelscommander",
+  "start": "27 Jul 2015",
+  "first": "625584002137751553",
+  "post": false,
+  "tweets": [
+    {
+      "created_at": "Tue Jul 28 09:13:05 +0000 2015",
+      "id": 625957133662748700,
+      "id_str": "625957133662748672",
+      "text": "@kipruss Насколько знаю MoscowJS сейчас очень гуд, но это скорее исключение",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625953750184804400,
+      "in_reply_to_status_id_str": "625953750184804352",
+      "in_reply_to_user_id": 62915964,
+      "in_reply_to_user_id_str": "62915964",
+      "in_reply_to_screen_name": "kipruss",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kipruss",
+            "name": "Konstantin Baev",
+            "id": 62915964,
+            "id_str": "62915964",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 08:56:40 +0000 2015",
+      "id": 625953004647239700,
+      "id_str": "625953004647239680",
+      "text": "@kipruss @404fest Вот интересно, что в РФ популярны конфы широкого профиля, а в Украине наоборот - узкой специализации. Хотя не уверен…",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625704370773078000,
+      "in_reply_to_status_id_str": "625704370773078016",
+      "in_reply_to_user_id": 62915964,
+      "in_reply_to_user_id_str": "62915964",
+      "in_reply_to_screen_name": "kipruss",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kipruss",
+            "name": "Konstantin Baev",
+            "id": 62915964,
+            "id_str": "62915964",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "404fest",
+            "name": "Фестиваль 404",
+            "id": 42452601,
+            "id_str": "42452601",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 08:47:34 +0000 2015",
+      "id": 625950714217500700,
+      "id_str": "625950714217500672",
+      "text": "Переводим с языка React на язык Web Component: componentDidMount = attachedCallback. Помогите перевести на Angular 2 или Ember.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jul 27 15:32:26 +0000 2015",
+      "id": 625690215689125900,
+      "id_str": "625690215689125889",
+      "text": "@listochkin @denysdovhan @LvivJS @OdessaJS Ну вы же понимаете, что это формальность и речь о exUSSR ;) Кстати, OdessaJS хороша ибо 2 зайца",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625683797892309000,
+      "in_reply_to_status_id_str": "625683797892308993",
+      "in_reply_to_user_id": 20910792,
+      "in_reply_to_user_id_str": "20910792",
+      "in_reply_to_screen_name": "listochkin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "listochkin",
+            "name": "Андрей Листочкин",
+            "id": 20910792,
+            "id_str": "20910792",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "denysdovhan",
+            "name": "Denys Dovhan",
+            "id": 241111030,
+            "id_str": "241111030",
+            "indices": [
+              12,
+              24
+            ]
+          },
+          {
+            "screen_name": "LvivJS",
+            "name": "LvivJS",
+            "id": 1024032823,
+            "id_str": "1024032823",
+            "indices": [
+              25,
+              32
+            ]
+          },
+          {
+            "screen_name": "OdessaJS",
+            "name": "OdessaJS",
+            "id": 1127676000,
+            "id_str": "1127676000",
+            "indices": [
+              33,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 15:08:04 +0000 2015",
+      "id": 625684080223457300,
+      "id_str": "625684080223457280",
+      "text": "@denysdovhan @LvivJS Конечно передам, думаю ему будет интересно хотя это и не желаемый ответ ибо расстояние не рассматривается как проблема.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625682837623193600,
+      "in_reply_to_status_id_str": "625682837623193600",
+      "in_reply_to_user_id": 241111030,
+      "in_reply_to_user_id_str": "241111030",
+      "in_reply_to_screen_name": "denysdovhan",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "denysdovhan",
+            "name": "Denys Dovhan",
+            "id": 241111030,
+            "id_str": "241111030",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "LvivJS",
+            "name": "LvivJS",
+            "id": 1024032823,
+            "id_str": "1024032823",
+            "indices": [
+              13,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 14:03:52 +0000 2015",
+      "id": 625667927681974300,
+      "id_str": "625667927681974272",
+      "text": "@kra1g0 Из широкопрофильных известны РИТ, CodeFest . Обе хороши. Только CodeFest в Сибири и дешевле.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625667248645087200,
+      "in_reply_to_status_id_str": "625667248645087232",
+      "in_reply_to_user_id": 571038694,
+      "in_reply_to_user_id_str": "571038694",
+      "in_reply_to_screen_name": "kra1g0",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kra1g0",
+            "name": "Крайго",
+            "id": 571038694,
+            "id_str": "571038694",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 14:02:12 +0000 2015",
+      "id": 625667505990803500,
+      "id_str": "625667505990803456",
+      "text": "RT @kra1g0: @jsunderhood какие вообще есть Айтишные конфы?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jul 27 14:01:11 +0000 2015",
+        "id": 625667248645087200,
+        "id_str": "625667248645087232",
+        "text": "@jsunderhood какие вообще есть Айтишные конфы?",
+        "source": "<a href=\"http://kraigo.tumblr.com\" rel=\"nofollow\">Tocotter</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625663613680898000,
+        "in_reply_to_status_id_str": "625663613680898048",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 571038694,
+          "id_str": "571038694"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kra1g0",
+            "name": "Крайго",
+            "id": 571038694,
+            "id_str": "571038694",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 13:46:44 +0000 2015",
+      "id": 625663613680898000,
+      "id_str": "625663613680898048",
+      "text": "Вчера знакомый украинец из Ужгорода спросил - какая лучшая IT конфа в СНГ. Что ответить?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 13:38:40 +0000 2015",
+      "id": 625661585810411500,
+      "id_str": "625661585810411521",
+      "text": "Не страшно быть фанатом веб платформы, но странно делать религию из конкретного фреймворка.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 13:16:50 +0000 2015",
+      "id": 625656090307522600,
+      "id_str": "625656090307522561",
+      "text": "@gerasin_io Не так страшны циклические зависимости, как шальной repaint =)",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625651120719929300,
+      "in_reply_to_status_id_str": "625651120719929344",
+      "in_reply_to_user_id": 3367597193,
+      "in_reply_to_user_id_str": "3367597193",
+      "in_reply_to_screen_name": "gerasin_io",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gerasin_io",
+            "name": "Ivan Gerasin",
+            "id": 3367597193,
+            "id_str": "3367597193",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 13:15:52 +0000 2015",
+      "id": 625655846811381800,
+      "id_str": "625655846811381760",
+      "text": "RT @gerasin_io: @jsunderhood нам передали проект. 80+ файлов, и как я сегодня выяснил - 57 циклических зависимостей. Какой тут к черту перф…",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jul 27 12:57:05 +0000 2015",
+        "id": 625651120719929300,
+        "id_str": "625651120719929344",
+        "text": "@jsunderhood нам передали проект. 80+ файлов, и как я сегодня выяснил - 57 циклических зависимостей. Какой тут к черту перфоманс(",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625592740991107100,
+        "in_reply_to_status_id_str": "625592740991107072",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3367597193,
+          "id_str": "3367597193"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gerasin_io",
+            "name": "Ivan Gerasin",
+            "id": 3367597193,
+            "id_str": "3367597193",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 12:16:34 +0000 2015",
+      "id": 625640923058323500,
+      "id_str": "625640923058323456",
+      "text": "@__fro Даешь Telepathy API в браузер!",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625639998197506000,
+      "in_reply_to_status_id_str": "625639998197506049",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "__fro",
+            "name": "Alexey Frolov",
+            "id": 104968314,
+            "id_str": "104968314",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jul 27 12:13:15 +0000 2015",
+      "id": 625640087708135400,
+      "id_str": "625640087708135426",
+      "text": "RT @__fro: @jsunderhood а есть ли кто-то в сообществе, кто увлекается ML и AI?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jul 27 11:52:42 +0000 2015",
+        "id": 625634914898169900,
+        "id_str": "625634914898169856",
+        "text": "@jsunderhood а есть ли кто-то в сообществе, кто увлекается ML и AI?",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 104968314,
+          "id_str": "104968314"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "__fro",
+            "name": "Alexey Frolov",
+            "id": 104968314,
+            "id_str": "104968314",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 12:12:54 +0000 2015",
+      "id": 625639998197506000,
+      "id_str": "625639998197506049",
+      "text": "@__fro Еще интересен микс JavaScript и Brain-Computer Interface. Ведь если отбросить детали-то веб сегодня = интерфейс между мозгами юзеров",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625634914898169900,
+      "in_reply_to_status_id_str": "625634914898169856",
+      "in_reply_to_user_id": 104968314,
+      "in_reply_to_user_id_str": "104968314",
+      "in_reply_to_screen_name": "__fro",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "__fro",
+            "name": "Alexey Frolov",
+            "id": 104968314,
+            "id_str": "104968314",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 09:39:03 +0000 2015",
+      "id": 625601281411928000,
+      "id_str": "625601281411928064",
+      "text": "@coincidewith Поломанный скролл лучше, он заставляет чинить себя. Упавшие FPS коварней - девы на MacPro не замечают, а юзер на ASUS страдает",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625597652827308000,
+      "in_reply_to_status_id_str": "625597652827308032",
+      "in_reply_to_user_id": 1361600598,
+      "in_reply_to_user_id_str": "1361600598",
+      "in_reply_to_screen_name": "coincidewith",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "coincidewith",
+            "name": "вкуснейшая сперма",
+            "id": 1361600598,
+            "id_str": "1361600598",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 09:10:04 +0000 2015",
+      "id": 625593988888834000,
+      "id_str": "625593988888834048",
+      "text": "@Kern_0 Сейчас ок?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625592802576080900,
+      "in_reply_to_status_id_str": "625592802576080896",
+      "in_reply_to_user_id": 196969869,
+      "in_reply_to_user_id_str": "196969869",
+      "in_reply_to_screen_name": "Kern_0",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Kern_0",
+            "name": "Арсений Максимов",
+            "id": 196969869,
+            "id_str": "196969869",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 09:05:07 +0000 2015",
+      "id": 625592740991107100,
+      "id_str": "625592740991107072",
+      "text": "Душещипательная история о рендерингe - вместо скроллинга body весь сайт положили в скролящийся div = -20 к FPS. А как вы убивали перформанс?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 27 08:30:23 +0000 2015",
+      "id": 625584002137751600,
+      "id_str": "625584002137751553",
+      "text": "Привет! Меня зовут Денис и последние 3 недели я искал JS вокруг Черного Моря. Оказалось в Грузии никто не пишет на JS, там пишут на бумаге",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f0225a4a26aa9bc",
+        "url": "https://api.twitter.com/1.1/geo/id/1f0225a4a26aa9bc.json",
+        "place_type": "neighborhood",
+        "name": "Aalsmeerderbrug",
+        "full_name": "Aalsmeerderbrug, Haarlemmermeer",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7342574402555,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.2668039682114
+              ],
+              [
+                4.77401148631558,
+                52.281550399309
+              ],
+              [
+                4.7342574402555,
+                52.281550399309
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
