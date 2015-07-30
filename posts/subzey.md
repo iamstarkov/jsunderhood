@@ -192,7 +192,7 @@ RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantie
 
 RT <a href="https://twitter.com/maxmaximov" title="Max Maximov">@maxmaximov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> спроси лучше, у многих ли тут есть образование :)
 
-## Среда <small>60 твитов</small>
+## Среда <small>67 твитов</small>
 
 Предлагаю ещё одну музыкальную паузу: <a href="http://t.co/27KBFmEF5G">pouet.net/prod.php?which…</a> (1 место на DemoJS'12 в категории 1K), в ней ещё нет ни Web Audio, ни WebGL
 
@@ -314,8 +314,6 @@ RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp<
 
 .<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> В обработчике жеста для меню проверять scrollWidth и scrollLeft у e.target? Не знаю. Не уверен, что правильно понял
 
-## Четверг <small>66 твитов</small>
-
 Вот юзкейс. Есть открытое меню и какой-то блок с кнопкой внутри. При клике куда-нибудь вовне выпадалка скрывается <a href="http://t.co/rkC0lOJzin">pic.twitter.com/rkC0lOJzin</a>
 
 …кликаем на кнопку внутри. Обработчик на самом блоке нам вызывать нельзя, мы глушим событие через stopPropagation()…
@@ -329,6 +327,8 @@ RT <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a>
 RT <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Кейс имеет право на жизнь :) В моем понимании контейнер должен заботиться о том, что происходит у него внутри, а …
 
 .<a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a> трудно не согласиться) Я лишь о том, что блок не должен делать stopP, а то в этом случае он решает вообще за всю страницу
+
+## Четверг <small>60 твитов</small>
 
 Когда я в конторе служил версталём,
 Ко мне постучался сеньор девелопер.
@@ -451,9 +451,9 @@ RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: 
 
 RT <a href="https://twitter.com/iSnifer" title="Anton Kuznetsov">@iSnifer</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну как мне кажется, это большое дело. Мердж давно напрашивался. Это всегда интересно,когда форк становится популя…
 
-## Пятница <small>90 твитов</small>
-
 RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/Vitalliumm" title="Vitaly Slobodin">@Vitalliumm</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> У bower есть одно преимущество ему не важно наличие meta.jsonЧто полезно при проверке библиотек. Не…
+
+## Пятница <small>89 твитов</small>
 
 Bret Victor круто рассказывает о «so meta». Особенно хорош его доклад Inventing on a Principle <a href="http://t.co/LBooJg2a9f">youtu.be/a-OyoVcbwWE</a> Всем доброго утра!
 
