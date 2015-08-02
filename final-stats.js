@@ -3,7 +3,6 @@ import fs from 'fs-extra';
 import r from 'ramda';
 import assign from 'object-assign';
 import moment from 'moment';
-import gainedFollowers from './followers-stats.json'
 
 const first = (arr)=> arr[0];
 const last = (arr)=> arr[arr.length - 1];
