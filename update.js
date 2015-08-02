@@ -1,6 +1,6 @@
 import fs from 'fs-extra';
 import getTweets from 'get-tweets';
-import tokens from './tokens';
+import tokens from 'twitter-tokens';
 import authors from './authors';
 
 const author = authors[0];
