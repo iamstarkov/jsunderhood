@@ -4,10 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dump": "babel-node dump",
-    "followers": "babel-node followers",
-    "f5-old": "npm run dump && npm run stats && npm run followers && npm run final-stats",
-    "start": "gulp",
     "update": "babel-node update",
     "stats": "babel-node stats",
     "final-stats": "babel-node final-stats",
@@ -15,7 +11,8 @@
     "f5": "npm run update && npm run stats && npm run final-stats && npm run posts",
     "save": "git add . && git commit -m 'save dump' && git push origin master",
     "deploy": "gulp gh",
-    "test": "echo \"Its okay, its fine\" && exit 0"
+    "test": "echo \"Its okay, its fine\" && exit 0",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
