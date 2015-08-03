@@ -1,0 +1,1834 @@
+{
+  "username": "freiksenet",
+  "start": "03 Aug 2015",
+  "first": "628081863953915904",
+  "post": false,
+  "tweets": [
+    {
+      "created_at": "Mon Aug 03 06:48:30 +0000 2015",
+      "id": 628095078037364700,
+      "id_str": "628095078037364736",
+      "text": "RT @deepsweet: @jsunderhood к слову, актуальная таблица https://t.co/NeclN2tcmo",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:46:13 +0000 2015",
+        "id": 628094501291032600,
+        "id_str": "628094501291032576",
+        "text": "@jsunderhood к слову, актуальная таблица https://t.co/NeclN2tcmo",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628092347235090400,
+        "in_reply_to_status_id_str": "628092347235090432",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 34751260,
+          "id_str": "34751260"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/NeclN2tcmo",
+              "expanded_url": "https://github.com/tc39/ecma262",
+              "display_url": "github.com/tc39/ecma262",
+              "indices": [
+                41,
+                64
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NeclN2tcmo",
+            "expanded_url": "https://github.com/tc39/ecma262",
+            "display_url": "github.com/tc39/ecma262",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:47:34 +0000 2015",
+      "id": 628094840413290500,
+      "id_str": "628094840413290497",
+      "text": "@deepsweet Мы мало классы юзаем :) Bind боюсь может не пройти, он весьма экстремален. Но трюк с console.log волшебен, да.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628094160956821500,
+      "in_reply_to_status_id_str": "628094160956821505",
+      "in_reply_to_user_id": 34751260,
+      "in_reply_to_user_id_str": "34751260",
+      "in_reply_to_screen_name": "deepsweet",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:45:31 +0000 2015",
+      "id": 628094326095114200,
+      "id_str": "628094326095114240",
+      "text": "RT @deepsweet: @jsunderhood а мы плотно подсели на `stage: 0`: Class Properties (странно, если их уберут) и даже Function Bind (по началу к…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:44:52 +0000 2015",
+        "id": 628094160956821500,
+        "id_str": "628094160956821505",
+        "text": "@jsunderhood а мы плотно подсели на `stage: 0`: Class Properties (странно, если их уберут) и даже Function Bind (по началу казалось ужасом)",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628092347235090400,
+        "in_reply_to_status_id_str": "628092347235090432",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 34751260,
+          "id_str": "34751260"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:40:34 +0000 2015",
+      "id": 628093079522779100,
+      "id_str": "628093079522779136",
+      "text": "@jsunderhood Остальное это просто удобный сахар, но очень добавляет удовольствия при написании кода, например spreadы и destructuring.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628092347235090400,
+      "in_reply_to_status_id_str": "628092347235090432",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:37:39 +0000 2015",
+      "id": 628092347235090400,
+      "id_str": "628092347235090432",
+      "text": "Про babel - мы юзаем и на клиенте и на сервере, stage 1. async/await это невероятно удобно при работе с базами данных.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628085587384397800,
+      "in_reply_to_status_id_str": "628085587384397824",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:34:46 +0000 2015",
+      "id": 628091621687578600,
+      "id_str": "628091621687578624",
+      "text": "@RusAlexander Из универа самыми ценными оказались связи. Учится все равно надо самому.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628090442186399700,
+      "in_reply_to_status_id_str": "628090442186399744",
+      "in_reply_to_user_id": 149214312,
+      "in_reply_to_user_id_str": "149214312",
+      "in_reply_to_screen_name": "RusAlexander",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:32:18 +0000 2015",
+      "id": 628091001740070900,
+      "id_str": "628091001740070912",
+      "text": "@RusAlexander Любил компьютеры, поступил в Финляндии в универ на Computer Science.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628090442186399700,
+      "in_reply_to_status_id_str": "628090442186399744",
+      "in_reply_to_user_id": 149214312,
+      "in_reply_to_user_id_str": "149214312",
+      "in_reply_to_screen_name": "RusAlexander",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:31:17 +0000 2015",
+      "id": 628090744885145600,
+      "id_str": "628090744885145600",
+      "text": "RT @RusAlexander: @jsunderhood как попал в программирование ? Важно ли спец. образование ?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:30:05 +0000 2015",
+        "id": 628090442186399700,
+        "id_str": "628090442186399744",
+        "text": "@jsunderhood как попал в программирование ? Важно ли спец. образование ?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628082303701487600,
+        "in_reply_to_status_id_str": "628082303701487616",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 149214312,
+          "id_str": "149214312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:30:48 +0000 2015",
+      "id": 628090623522938900,
+      "id_str": "628090623522938880",
+      "text": "@ALF_er И мы пока 100% на свои деньги это делаем, тратим что заработали консалтингом за прошлый год.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628089968548823000,
+      "in_reply_to_status_id_str": "628089968548823040",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:29:42 +0000 2015",
+      "id": 628090344350068700,
+      "id_str": "628090344350068736",
+      "text": "@ALF_er Firebase достаточно популярен, мы хотим, хотя бы поначалу, взять более хорошей поддержкой реакта и тем что всем интересен graphql.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628089968548823000,
+      "in_reply_to_status_id_str": "628089968548823040",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:28:26 +0000 2015",
+      "id": 628090028665794600,
+      "id_str": "628090028665794560",
+      "text": "RT @ALF_er: @jsunderhood ну и оффтоп: как убедить бизнес вложить деньги в подобные идеи? \"БааС для такой стрёмной идеи? Этим хоть пользоват…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:28:12 +0000 2015",
+        "id": 628089968548823000,
+        "id_str": "628089968548823040",
+        "text": "@jsunderhood ну и оффтоп: как убедить бизнес вложить деньги в подобные идеи? \"БааС для такой стрёмной идеи? Этим хоть пользоваться будут?\"",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628088982312763400,
+        "in_reply_to_status_id_str": "628088982312763392",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 18213352,
+          "id_str": "18213352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:24:17 +0000 2015",
+      "id": 628088982312763400,
+      "id_str": "628088982312763392",
+      "text": "@ALF_er Я доволен что она появилась. ФБ хорошо работает с комьюнити, так что если что-то не так щас, то со временем исправим.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628088346355597300,
+      "in_reply_to_status_id_str": "628088346355597312",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:23:06 +0000 2015",
+      "id": 628088684588347400,
+      "id_str": "628088684588347392",
+      "text": "@ALF_er Они один раз проходят и все сразу выполняют. Пока непонятно как делать оптимизации всего запроса, как мы делали.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628087508870524900,
+      "in_reply_to_status_id_str": "628087508870524928",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:21:45 +0000 2015",
+      "id": 628088346607251500,
+      "id_str": "628088346607251456",
+      "text": "@ALF_er Главное отличие было что мы два раза проходили по запросу, сначала собирая query в базу данных, а потом обрабатывали данные.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628087508870524900,
+      "in_reply_to_status_id_str": "628087508870524928",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:20:54 +0000 2015",
+      "id": 628088132592881700,
+      "id_str": "628088132592881664",
+      "text": "@ALF_er Ещё мы сделали пару вещей, которые невозможны в их системе типов, например тип поля зависимый от значения аргумента.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628087508870524900,
+      "in_reply_to_status_id_str": "628087508870524928",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:19:53 +0000 2015",
+      "id": 628087877247848400,
+      "id_str": "628087877247848448",
+      "text": "@ALF_er Ну они некоторые вещи меняли постоянно, например синтаксис. В этом у нас было отставание постоянно.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628087508870524900,
+      "in_reply_to_status_id_str": "628087508870524928",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:18:20 +0000 2015",
+      "id": 628087487274074100,
+      "id_str": "628087487274074112",
+      "text": "@vladimore Завтра подробно напишу :)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628085459600732200,
+      "in_reply_to_status_id_str": "628085459600732160",
+      "in_reply_to_user_id": 2237484679,
+      "in_reply_to_user_id_str": "2237484679",
+      "in_reply_to_screen_name": "vladimore",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:16:32 +0000 2015",
+      "id": 628087033894973400,
+      "id_str": "628087033894973440",
+      "text": "@talgautb @dan_abramov @andreypopp @deepsweet А тормозить может и не из-за реакта :)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628085146701336600,
+      "in_reply_to_status_id_str": "628085146701336580",
+      "in_reply_to_user_id": 257851355,
+      "in_reply_to_user_id_str": "257851355",
+      "in_reply_to_screen_name": "talgautb",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "talgautb",
+            "name": "Талга УтБ",
+            "id": 257851355,
+            "id_str": "257851355",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              10,
+              22
+            ]
+          },
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              23,
+              34
+            ]
+          },
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:16:13 +0000 2015",
+      "id": 628086954677141500,
+      "id_str": "628086954677141504",
+      "text": "@talgautb @dan_abramov @andreypopp @deepsweet Реакт хорош из-за того что он продвигает хорошее разделение на компоненты, а не за скорость.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628085146701336600,
+      "in_reply_to_status_id_str": "628085146701336580",
+      "in_reply_to_user_id": 257851355,
+      "in_reply_to_user_id_str": "257851355",
+      "in_reply_to_screen_name": "talgautb",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "talgautb",
+            "name": "Талга УтБ",
+            "id": 257851355,
+            "id_str": "257851355",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              10,
+              22
+            ]
+          },
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              23,
+              34
+            ]
+          },
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:14:53 +0000 2015",
+      "id": 628086616905662500,
+      "id_str": "628086616905662464",
+      "text": "RT @talgautb: Ну хз, 2 основных проекта на реакте в ff что-то тормозят сильно :( может у меня что-то с компьютерами?!) https://t.co/F7SRkYU…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:09:02 +0000 2015",
+        "id": 628085146701336600,
+        "id_str": "628085146701336580",
+        "text": "Ну хз, 2 основных проекта на реакте в ff что-то тормозят сильно :( может у меня что-то с компьютерами?!) https://t.co/F7SRkYUrjm",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 257851355,
+          "id_str": "257851355"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 628083712933163000,
+        "quoted_status_id_str": "628083712933163008",
+        "quoted_status": {
+          "created_at": "Mon Aug 03 06:03:21 +0000 2015",
+          "id": 628083712933163000,
+          "id_str": "628083712933163008",
+          "text": "Я мог бы поговорить про реакт, но после @dan_abramov, @andreypopp и @deepsweet мне сложно что-то добавить. Реакт крутой, юзайте его :)",
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 3014054307,
+            "id_str": "3014054307"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "dan_abramov",
+                "name": "Dan Abramov",
+                "id": 70345946,
+                "id_str": "70345946",
+                "indices": [
+                  40,
+                  52
+                ]
+              },
+              {
+                "screen_name": "andreypopp",
+                "name": "Andrey Popp",
+                "id": 14783481,
+                "id_str": "14783481",
+                "indices": [
+                  54,
+                  65
+                ]
+              },
+              {
+                "screen_name": "deepsweet",
+                "name": " k i r",
+                "id": 34751260,
+                "id_str": "34751260",
+                "indices": [
+                  68,
+                  78
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "ru"
+        },
+        "is_quote_status": true,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/F7SRkYUrjm",
+              "expanded_url": "https://twitter.com/jsunderhood/status/628083712933163008",
+              "display_url": "twitter.com/jsunderhood/st…",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "talgautb",
+            "name": "Талга УтБ",
+            "id": 257851355,
+            "id_str": "257851355",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F7SRkYUrjm",
+            "expanded_url": "https://twitter.com/jsunderhood/status/628083712933163008",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              119,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:14:29 +0000 2015",
+      "id": 628086516775043100,
+      "id_str": "628086516775043072",
+      "text": "@ALF_er После презентации, мы даже написали движок до выхода спеки. Теперь правда перешли на reference implementation.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628085281837686800,
+      "in_reply_to_status_id_str": "628085281837686784",
+      "in_reply_to_user_id": 18213352,
+      "in_reply_to_user_id_str": "18213352",
+      "in_reply_to_screen_name": "ALF_er",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:13:44 +0000 2015",
+      "id": 628086328605962200,
+      "id_str": "628086328605962240",
+      "text": "RT @ALF_er: @jsunderhood вы начали стартап после выхода спеки по графклу или после презентации идеи графкла?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:09:35 +0000 2015",
+        "id": 628085281837686800,
+        "id_str": "628085281837686784",
+        "text": "@jsunderhood вы начали стартап после выхода спеки по графклу или после презентации идеи графкла?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628083304571473900,
+        "in_reply_to_status_id_str": "628083304571473920",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 18213352,
+          "id_str": "18213352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ALF_er",
+            "name": "Illia Segeda",
+            "id": 18213352,
+            "id_str": "18213352",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:13:32 +0000 2015",
+      "id": 628086276143611900,
+      "id_str": "628086276143611905",
+      "text": "Второй про то достаточно ли V8 оптимизирует \"реальный код\", а не только микробенчмарки. https://t.co/2qm5PBe391",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 627719336426274800,
+      "quoted_status_id_str": "627719336426274816",
+      "quoted_status": {
+        "created_at": "Sun Aug 02 05:55:26 +0000 2015",
+        "id": 627719336426274800,
+        "id_str": "627719336426274816",
+        "text": "@codinghorror @jeffkibuule @tomdale safari is still the king of real-world perf.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 627719230109016000,
+        "in_reply_to_status_id_str": "627719230109016064",
+        "in_reply_to_user_id": 5637652,
+        "in_reply_to_user_id_str": "5637652",
+        "in_reply_to_screen_name": "codinghorror",
+        "user": {
+          "id": 8526432,
+          "id_str": "8526432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 10,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "codinghorror",
+              "name": "Jeff Atwood",
+              "id": 5637652,
+              "id_str": "5637652",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "jeffkibuule",
+              "name": "Jeff Kibuule",
+              "id": 15536076,
+              "id_str": "15536076",
+              "indices": [
+                14,
+                26
+              ]
+            },
+            {
+              "screen_name": "tomdale",
+              "name": "Tom Dale",
+              "id": 668863,
+              "id_str": "668863",
+              "indices": [
+                27,
+                35
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2qm5PBe391",
+            "expanded_url": "https://mobile.twitter.com/wycats/status/627719336426274816",
+            "display_url": "mobile.twitter.com/wycats/status/…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:10:47 +0000 2015",
+      "id": 628085587384397800,
+      "id_str": "628085587384397824",
+      "text": "На выходных в английском твиттере было аж два срача - сначала про babel и использование stage 0 преобразований https://t.co/KFpmZfwiLi.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 627154904302288900,
+      "quoted_status_id_str": "627154904302288897",
+      "quoted_status": {
+        "created_at": "Fri Jul 31 16:32:35 +0000 2015",
+        "id": 627154904302288900,
+        "id_str": "627154904302288897",
+        "text": "\"Just say no\" to `babel?stage=0` in production.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16468446,
+          "id_str": "16468446"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 19,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KFpmZfwiLi",
+            "expanded_url": "https://mobile.twitter.com/ryanflorence/status/627154904302288897",
+            "display_url": "mobile.twitter.com/ryanflorence/s…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:03:21 +0000 2015",
+      "id": 628083712933163000,
+      "id_str": "628083712933163008",
+      "text": "Я мог бы поговорить про реакт, но после @dan_abramov, @andreypopp и @deepsweet мне сложно что-то добавить. Реакт крутой, юзайте его :)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              40,
+              52
+            ]
+          },
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              54,
+              65
+            ]
+          },
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              68,
+              78
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:01:43 +0000 2015",
+      "id": 628083304571473900,
+      "id_str": "628083304571473920",
+      "text": "Планы на неделю - поговорить о GraphQL и Relay, про жизнь и IT в Финляндии, пофлеймить про то что я не люблю - например Angular, gulp/grunt",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 05:59:54 +0000 2015",
+      "id": 628082844548636700,
+      "id_str": "628082844548636672",
+      "text": "Я работаю в своём стартапе, https.//reindex.io. Мы делаем BaaS для реакта на основе GraphQL. Пишем на node + hapi + rethinkdb.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 05:57:45 +0000 2015",
+      "id": 628082303701487600,
+      "id_str": "628082303701487616",
+      "text": "Меня зовут Михаил Новиков, в интернете я везде freiksenet. Я разработчик, в основном на JS. Живу в Финляндии уже 12 лет, переехал из СПб.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 05:56:00 +0000 2015",
+      "id": 628081863953915900,
+      "id_str": "628081863953915904",
+      "text": "В Финляндии неожиданно началось лето, а тут начался @freiksenet. Привет уютному чату!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet",
+            "name": "freiksenet",
+            "id": 18200589,
+            "id_str": "18200589",
+            "indices": [
+              52,
+              63
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
