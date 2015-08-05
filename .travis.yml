@@ -1,7 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-- iojs
+- iojs-2
 before_script:
 - git config --global user.email "iamstarkov+tachikombie@gmail.com"
 - git config --global user.name "Tachikoma Zombie"
