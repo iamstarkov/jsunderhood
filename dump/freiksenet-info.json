@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1393,
+  "followers_count": 1394,
   "friends_count": 18,
   "listed_count": 48,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,44 +46,93 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7175,
+  "statuses_count": 7185,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 06 13:26:48 +0000 2015",
-    "id": 629282474393215000,
-    "id_str": "629282474393214976",
-    "text": "Ну линтеры конечно у нас настроены и это очень помогает. @iamstarkov",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Thu Aug 06 14:55:56 +0000 2015",
+    "id": 629304909490487300,
+    "id_str": "629304909490487296",
+    "text": "RT @esergeev: Думается мне, что @jsunderhood агитирует за JSON+Схема+Транспорт только для того, чтобы потом заявить, что и это решение говн…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": 629281862456840200,
-    "in_reply_to_status_id_str": "629281862456840192",
-    "in_reply_to_user_id": 98084311,
-    "in_reply_to_user_id_str": "98084311",
-    "in_reply_to_screen_name": "iamstarkov",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Thu Aug 06 14:55:19 +0000 2015",
+      "id": 629304751184871400,
+      "id_str": "629304751184871424",
+      "text": "Думается мне, что @jsunderhood агитирует за JSON+Схема+Транспорт только для того, чтобы потом заявить, что и это решение говно.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "iamstarkov",
-          "name": "Vladimir Starkov",
-          "id": 98084311,
-          "id_str": "98084311",
+          "screen_name": "esergeev",
+          "name": "Evgeniy Sergeev",
+          "id": 177187715,
+          "id_str": "177187715",
           "indices": [
-            57,
-            68
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            32,
+            44
           ]
         }
       ],
       "urls": []
     },
-    "favorited": true,
+    "favorited": false,
     "retweeted": false,
     "lang": "ru"
   },
