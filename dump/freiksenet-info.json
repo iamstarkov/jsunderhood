@@ -37,23 +37,23 @@
     }
   },
   "protected": false,
-  "followers_count": 1396,
-  "friends_count": 18,
-  "listed_count": 48,
+  "followers_count": 1399,
+  "friends_count": 19,
+  "listed_count": 50,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 309,
+  "favourites_count": 310,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7386,
+  "statuses_count": 7423,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Aug 07 17:30:23 +0000 2015",
-    "id": 629706165136543700,
-    "id_str": "629706165136543744",
-    "text": "Надеюсь вам я тоже поднял продуктивность, а не убил её :)",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Sat Aug 08 12:46:27 +0000 2015",
+    "id": 629997096096137200,
+    "id_str": "629997096096137216",
+    "text": "RT @AntonShevchuk: @deepsweet @jsunderhood donate за тему для WordPress перевалил за 1k, это за год примерно, так что если всерьёз взяться …",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -64,12 +64,92 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sat Aug 08 12:42:57 +0000 2015",
+      "id": 629996215128719400,
+      "id_str": "629996215128719360",
+      "text": "@deepsweet @jsunderhood donate за тему для WordPress перевалил за 1k, это за год примерно, так что если всерьёз взяться - думаю реально",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 629990755826700300,
+      "in_reply_to_status_id_str": "629990755826700288",
+      "in_reply_to_user_id": 34751260,
+      "in_reply_to_user_id_str": "34751260",
+      "in_reply_to_screen_name": "deepsweet",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "deepsweet",
+            "name": " k i r",
+            "id": 34751260,
+            "id_str": "34751260",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "AntonShevchuk",
+          "name": "Anton Shevchuk",
+          "id": 14698648,
+          "id_str": "14698648",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "deepsweet",
+          "name": " k i r",
+          "id": 34751260,
+          "id_str": "34751260",
+          "indices": [
+            19,
+            29
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            30,
+            42
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
