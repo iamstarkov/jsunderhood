@@ -5,6 +5,300 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 10 10:59:39 +0000 2015",
+      "id": 630694995117363200,
+      "id_str": "630694995117363205",
+      "text": "RT @vladimore: @jsunderhood вторая волна проблем - элементы элементов и прочее, что разъясняют на форумe #bem. Так я узнал, что никто ничег…",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:57:58 +0000 2015",
+        "id": 630694572235092000,
+        "id_str": "630694572235091968",
+        "text": "@jsunderhood вторая волна проблем - элементы элементов и прочее, что разъясняют на форумe #bem. Так я узнал, что никто ничего не читает.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630693579925622800,
+        "in_reply_to_status_id_str": "630693579925622784",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "bem",
+              "indices": [
+                90,
+                94
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bem",
+            "indices": [
+              105,
+              109
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:59:37 +0000 2015",
+      "id": 630694988452622300,
+      "id_str": "630694988452622336",
+      "text": "RT @vladimore: @jsunderhood с #bem было сложнее. сначала я показал ребятам на доки и попросил переверстать часть проекта.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:54:01 +0000 2015",
+        "id": 630693579925622800,
+        "id_str": "630693579925622784",
+        "text": "@jsunderhood с #bem было сложнее. сначала я показал ребятам на доки и попросил переверстать часть проекта.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630691863306088400,
+        "in_reply_to_status_id_str": "630691863306088448",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "bem",
+              "indices": [
+                15,
+                19
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bem",
+            "indices": [
+              30,
+              34
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 10 10:51:27 +0000 2015",
       "id": 630692931033296900,
       "id_str": "630692931033296896",
@@ -1057,7 +1351,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
