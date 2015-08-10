@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1417,
+  "followers_count": 1423,
   "friends_count": 19,
   "listed_count": 50,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7635,
+  "statuses_count": 7653,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 10 14:39:20 +0000 2015",
-    "id": 630750279366017000,
-    "id_str": "630750279366017026",
-    "text": "RT @denysbutenko: Лента твитера теперь интереснее с появлением @jsunderhood @cssunderhood @backendsecret @rubyunderhood @iamspacegray. Спас…",
+    "created_at": "Mon Aug 10 19:58:38 +0000 2015",
+    "id": 630830634219536400,
+    "id_str": "630830634219536385",
+    "text": "RT @beshur: @jsunderhood http://t.co/7KhSZfFKui",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,23 +65,23 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Aug 10 13:15:10 +0000 2015",
-      "id": 630729098265034800,
-      "id_str": "630729098265034752",
-      "text": "Лента твитера теперь интереснее с появлением @jsunderhood @cssunderhood @backendsecret @rubyunderhood @iamspacegray. Спасибо вам.",
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "created_at": "Mon Aug 10 19:57:45 +0000 2015",
+      "id": 630830411866882000,
+      "id_str": "630830411866882053",
+      "text": "@jsunderhood http://t.co/7KhSZfFKui",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 630807959170367500,
+      "in_reply_to_status_id_str": "630807959170367488",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 9,
-      "favorite_count": 6,
+      "retweet_count": 1,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -92,71 +92,42 @@
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              45,
-              57
-            ]
-          },
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              58,
-              71
-            ]
-          },
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик Бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              72,
-              86
-            ]
-          },
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby Разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              87,
-              101
-            ]
-          },
-          {
-            "screen_name": "iamspacegray",
-            "name": "Я дизайнер",
-            "id": 2774319557,
-            "id_str": "2774319557",
-            "indices": [
-              102,
-              115
+              0,
+              12
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "http://t.co/7KhSZfFKui",
+            "expanded_url": "http://buznik.net/lifeChart/",
+            "display_url": "buznik.net/lifeChart/",
+            "indices": [
+              13,
+              35
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "und"
     },
-    "retweet_count": 9,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "denysbutenko",
-          "name": "Denys Butenko",
-          "id": 111169374,
-          "id_str": "111169374",
+          "screen_name": "beshur",
+          "name": "Shu Buznik",
+          "id": 20632504,
+          "id_str": "20632504",
           "indices": [
             3,
-            16
+            10
           ]
         },
         {
@@ -165,56 +136,27 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            63,
-            75
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            76,
-            89
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик Бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            90,
-            104
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby Разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            105,
-            119
-          ]
-        },
-        {
-          "screen_name": "iamspacegray",
-          "name": "Я дизайнер",
-          "id": 2774319557,
-          "id_str": "2774319557",
-          "indices": [
-            120,
-            133
+            12,
+            24
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/7KhSZfFKui",
+          "expanded_url": "http://buznik.net/lifeChart/",
+          "display_url": "buznik.net/lifeChart/",
+          "indices": [
+            25,
+            47
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
