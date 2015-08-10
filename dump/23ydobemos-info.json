@@ -46,20 +46,20 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7602,
+  "statuses_count": 7605,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 10 09:41:45 +0000 2015",
-    "id": 630675393956184000,
-    "id_str": "630675393956184064",
-    "text": "сделали прототип: перенесли 80% логики на реакт за день, выкинув около 2к loc, провели мини-презентацию и показали, что с реактом все проще",
+    "created_at": "Mon Aug 10 09:57:47 +0000 2015",
+    "id": 630679428612399100,
+    "id_str": "630679428612399104",
+    "text": "«ну уж в этот раз мы все сделаем правильно!» @yuritkachenko",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 630675212560896000,
-    "in_reply_to_status_id_str": "630675212560896000",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 630679139444502500,
+    "in_reply_to_status_id_str": "630679139444502528",
+    "in_reply_to_user_id": 31131087,
+    "in_reply_to_user_id_str": "31131087",
+    "in_reply_to_screen_name": "yuritkachenko",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "yuritkachenko",
+          "name": "Yuri Tkachenko",
+          "id": 31131087,
+          "id_str": "31131087",
+          "indices": [
+            45,
+            59
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
