@@ -5,6 +5,1333 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 10 10:51:27 +0000 2015",
+      "id": 630692931033296900,
+      "id_str": "630692931033296896",
+      "text": "RT @vladimore: @jsunderhood не знал способностей команды. Нюансов старого кода. Начал с малого - структура и сборка галпом. Её до этого не …",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:47:12 +0000 2015",
+        "id": 630691863306088400,
+        "id_str": "630691863306088448",
+        "text": "@jsunderhood не знал способностей команды. Нюансов старого кода. Начал с малого - структура и сборка галпом. Её до этого не было совсем.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630690275367718900,
+        "in_reply_to_status_id_str": "630690275367718912",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:51:22 +0000 2015",
+      "id": 630692912741748700,
+      "id_str": "630692912741748737",
+      "text": "RT @vladimore: @jsunderhood первый заход был неудачным. Я пытался сходу внедрить компонентную унификацию.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:40:53 +0000 2015",
+        "id": 630690275367718900,
+        "id_str": "630690275367718912",
+        "text": "@jsunderhood первый заход был неудачным. Я пытался сходу внедрить компонентную унификацию.",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630689455582629900,
+        "in_reply_to_status_id_str": "630689455582629888",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            49.80174623,
+            73.0894019
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            73.0894019,
+            49.80174623
+          ]
+        },
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:51:20 +0000 2015",
+      "id": 630692901798940700,
+      "id_str": "630692901798940672",
+      "text": "RT @vladimore: @jsunderhood чтобы что-то начать менять пришлось дождаться первого негативного фидбэка от заказчика иначе \"работает же, заче…",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:37:38 +0000 2015",
+        "id": 630689455582629900,
+        "id_str": "630689455582629888",
+        "text": "@jsunderhood чтобы что-то начать менять пришлось дождаться первого негативного фидбэка от заказчика иначе \"работает же, зачем рефакторинг?\"",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630688723945029600,
+        "in_reply_to_status_id_str": "630688723945029632",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            49.8044969,
+            73.0862808
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            73.0862808,
+            49.8044969
+          ]
+        },
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:51:17 +0000 2015",
+      "id": 630692892491780100,
+      "id_str": "630692892491780097",
+      "text": "RT @vladimore: @jsunderhood в итоге проблема - проект не вышел в продакшен, но уже плохо расширялся и ломался от незначительного багфикса.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:34:44 +0000 2015",
+        "id": 630688723945029600,
+        "id_str": "630688723945029632",
+        "text": "@jsunderhood в итоге проблема - проект не вышел в продакшен, но уже плохо расширялся и ломался от незначительного багфикса.",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630688216333557800,
+        "in_reply_to_status_id_str": "630688216333557760",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            49.80174997,
+            73.08900408
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            73.08900408,
+            49.80174997
+          ]
+        },
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:51:15 +0000 2015",
+      "id": 630692882022813700,
+      "id_str": "630692882022813696",
+      "text": "RT @vladimore: @jsunderhood ангуляра тоже никто не знал и меня встретили контроллеры с логикой в тыщи строк",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:32:43 +0000 2015",
+        "id": 630688216333557800,
+        "id_str": "630688216333557760",
+        "text": "@jsunderhood ангуляра тоже никто не знал и меня встретили контроллеры с логикой в тыщи строк",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630687803676954600,
+        "in_reply_to_status_id_str": "630687803676954624",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            49.80171736,
+            73.08921878
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            73.08921878,
+            49.80171736
+          ]
+        },
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:51:13 +0000 2015",
+      "id": 630692874850578400,
+      "id_str": "630692874850578432",
+      "text": "RT @vladimore: @jsunderhood проекту было полгода или больше. У вёрстки были все те проблемы о которых пишут на сайте http://t.co/6N2uerCyhP",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:31:04 +0000 2015",
+        "id": 630687803676954600,
+        "id_str": "630687803676954624",
+        "text": "@jsunderhood проекту было полгода или больше. У вёрстки были все те проблемы о которых пишут на сайте http://t.co/6N2uerCyhP",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630687136241610800,
+        "in_reply_to_status_id_str": "630687136241610753",
+        "in_reply_to_user_id": 2237484679,
+        "in_reply_to_user_id_str": "2237484679",
+        "in_reply_to_screen_name": "vladimore",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            49.80170875,
+            73.08931382
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            73.08931382,
+            49.80170875
+          ]
+        },
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/6N2uerCyhP",
+              "expanded_url": "http://bem.info",
+              "display_url": "bem.info",
+              "indices": [
+                102,
+                124
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/6N2uerCyhP",
+            "expanded_url": "http://bem.info",
+            "display_url": "bem.info",
+            "indices": [
+              117,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:51:12 +0000 2015",
+      "id": 630692868789796900,
+      "id_str": "630692868789796864",
+      "text": "RT @vladimore: @jsunderhood всё началось с того, что я попал на проект по разработке нового UI для гос. услуг на ангуляре.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:28:25 +0000 2015",
+        "id": 630687136241610800,
+        "id_str": "630687136241610753",
+        "text": "@jsunderhood всё началось с того, что я попал на проект по разработке нового UI для гос. услуг на ангуляре.",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630684889495547900,
+        "in_reply_to_status_id_str": "630684889495547906",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            49.8020914,
+            73.0893717
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            73.0893717,
+            49.8020914
+          ]
+        },
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:49:53 +0000 2015",
+      "id": 630692538068787200,
+      "id_str": "630692538068787200",
+      "text": "RT @dan_abramov: @jsunderhood У Райана был ток про это: http://t.co/cnkxPM7rpf. Проекты на Реакт переводить легко, бенефит есть сразу.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:46:19 +0000 2015",
+        "id": 630691640982827000,
+        "id_str": "630691640982827008",
+        "text": "@jsunderhood У Райана был ток про это: http://t.co/cnkxPM7rpf. Проекты на Реакт переводить легко, бенефит есть сразу.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630691342885232600,
+        "in_reply_to_status_id_str": "630691342885232640",
+        "in_reply_to_user_id": 70345946,
+        "in_reply_to_user_id_str": "70345946",
+        "in_reply_to_screen_name": "dan_abramov",
+        "user": {
+          "id": 70345946,
+          "id_str": "70345946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/cnkxPM7rpf",
+              "expanded_url": "http://m.youtube.com/watch?v=BF58ZJ1ZQxY",
+              "display_url": "m.youtube.com/watch?v=BF58ZJ…",
+              "indices": [
+                39,
+                61
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/cnkxPM7rpf",
+            "expanded_url": "http://m.youtube.com/watch?v=BF58ZJ1ZQxY",
+            "display_url": "m.youtube.com/watch?v=BF58ZJ…",
+            "indices": [
+              56,
+              78
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:49:50 +0000 2015",
+      "id": 630692526974980100,
+      "id_str": "630692526974980096",
+      "text": "RT @dan_abramov: @jsunderhood Причем \"перешли полностью, по пути делая новые фичи по плану\".",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:45:08 +0000 2015",
+        "id": 630691342885232600,
+        "id_str": "630691342885232640",
+        "text": "@jsunderhood Причем \"перешли полностью, по пути делая новые фичи по плану\".",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630691001888309200,
+        "in_reply_to_status_id_str": "630691001888309248",
+        "in_reply_to_user_id": 70345946,
+        "in_reply_to_user_id_str": "70345946",
+        "in_reply_to_screen_name": "dan_abramov",
+        "user": {
+          "id": 70345946,
+          "id_str": "70345946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:49:49 +0000 2015",
+      "id": 630692520553513000,
+      "id_str": "630692520553512960",
+      "text": "RT @dan_abramov: @jsunderhood Мы именно в такое приложение Реакт и начинали внедрять. За девять месяцев перешли полностью, очень плавный пе…",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:43:47 +0000 2015",
+        "id": 630691001888309200,
+        "id_str": "630691001888309248",
+        "text": "@jsunderhood Мы именно в такое приложение Реакт и начинали внедрять. За девять месяцев перешли полностью, очень плавный переход :-).",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630659349963276300,
+        "in_reply_to_status_id_str": "630659349963276288",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 70345946,
+          "id_str": "70345946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 10 10:19:29 +0000 2015",
       "id": 630684889495547900,
       "id_str": "630684889495547906",
@@ -536,7 +1863,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -569,7 +1896,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -798,7 +2125,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
