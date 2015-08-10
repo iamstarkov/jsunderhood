@@ -5,6 +5,197 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 10 10:19:29 +0000 2015",
+      "id": 630684889495547900,
+      "id_str": "630684889495547906",
+      "text": "расскажешь как внедряешь? @vladimore",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630684225608491000,
+      "in_reply_to_status_id_str": "630684225608491008",
+      "in_reply_to_user_id": 2237484679,
+      "in_reply_to_user_id_str": "2237484679",
+      "in_reply_to_screen_name": "vladimore",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              26,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 10:18:56 +0000 2015",
+      "id": 630684748977971200,
+      "id_str": "630684748977971200",
+      "text": "RT @vladimore: @jsunderhood пытаюсь внедрить #bem (методологию, не тулзы) в гос. легаси . Пока с трудом. Большим. Но результаты есть. Это р…",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 10 10:16:51 +0000 2015",
+        "id": 630684225608491000,
+        "id_str": "630684225608491008",
+        "text": "@jsunderhood пытаюсь внедрить #bem (методологию, не тулзы) в гос. легаси . Пока с трудом. Большим. Но результаты есть. Это радует.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630659974251814900,
+        "in_reply_to_status_id_str": "630659974251814912",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2237484679,
+          "id_str": "2237484679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "6d73a696edc5306f",
+          "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+          "place_type": "country",
+          "name": "Kazakhstan",
+          "full_name": "Kazakhstan",
+          "country_code": "KZ",
+          "country": "Kazakhstan",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  46.4925433,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  40.9363327
+                ],
+                [
+                  87.3152134,
+                  55.4425719
+                ],
+                [
+                  46.4925433,
+                  55.4425719
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "bem",
+              "indices": [
+                30,
+                34
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bem",
+            "indices": [
+              45,
+              49
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "Waldemar",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 10 09:57:47 +0000 2015",
       "id": 630679428612399100,
       "id_str": "630679428612399104",
@@ -245,7 +436,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -430,7 +621,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1,
+        "retweet_count": 2,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -454,7 +645,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -954,7 +1145,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 3,
+        "retweet_count": 4,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -978,7 +1169,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 3,
+      "retweet_count": 4,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -1163,7 +1354,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 2,
       "entities": {
         "hashtags": [],
@@ -1503,7 +1694,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
