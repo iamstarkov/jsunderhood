@@ -1257,7 +1257,7 @@ RT <a href="https://twitter.com/VasyaRomashova" title="Vasya R">@VasyaRomashova<
 
 RT <a href="https://twitter.com/al_yolkin" title="Herr Elkin">@al_yolkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> если клиенту дать прямой доступ к программеру, то программер толькл на него и будет работать, а убытки на вас л…
 
-Билишь по часам и все ок. :) <a href="https://twitter.com/al_yolkin" title="Herr Elkin">@al_yolkin</a>
+Билишь по часам и все ок. :) @al_yolkin
 
 RT @al_yolkin: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> обячно оплата оговаривается заранее, поэтому не получится так
 
