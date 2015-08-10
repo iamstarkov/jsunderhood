@@ -5,6 +5,105 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 10 09:41:45 +0000 2015",
+      "id": 630675393956184000,
+      "id_str": "630675393956184064",
+      "text": "сделали прототип: перенесли 80% логики на реакт за день, выкинув около 2к loc, провели мини-презентацию и показали, что с реактом все проще",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630675212560896000,
+      "in_reply_to_status_id_str": "630675212560896000",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 09:41:02 +0000 2015",
+      "id": 630675212560896000,
+      "id_str": "630675212560896000",
+      "text": "и разработчики все чаще его ломают, и потому все меньше хотят его трогать",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630675093631410200,
+      "in_reply_to_status_id_str": "630675093631410176",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 09:40:34 +0000 2015",
+      "id": 630675093631410200,
+      "id_str": "630675093631410176",
+      "text": "чтобы ответить на свои же утренние вопросы: эта идея родилась не просто так. Мы заметили, что этот кусок (чат) становится все сложнее",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630670129056100400,
+      "in_reply_to_status_id_str": "630670129056100352",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 10 09:20:50 +0000 2015",
       "id": 630670129056100400,
       "id_str": "630670129056100352",
@@ -341,7 +440,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1,
+        "retweet_count": 2,
         "favorite_count": 0,
         "entities": {
           "hashtags": [],
@@ -365,7 +464,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -635,7 +734,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 2,
+        "retweet_count": 3,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -659,7 +758,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -845,14 +944,14 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": []
       },
-      "favorited": false,
+      "favorited": true,
       "retweeted": false,
       "lang": "ru"
     },
@@ -1183,8 +1282,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
