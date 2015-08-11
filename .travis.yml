@@ -1,5 +1,8 @@
 sudo: false
 language: node_js
+branches:
+  only:
+  - master
 node_js:
 - iojs-2
 before_script:
