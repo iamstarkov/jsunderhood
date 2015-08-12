@@ -11,24 +11,13 @@ block meta
   meta(name="og:title"       content=site.title)
   meta(name="og:description" content=site.description)
 
+block headerTitle
+  | jsunderhood
+  small
+    = " / "
+    a(href="https://twitter.com/jsunderhood") Присоединяйся!
+
 block content
-  
-  .jumbotron
-    .container
-      .row
-        .col-md-12
-          include menu
-          .page-header
-            h1 jsunderhood
-              small
-                = " / "
-                a(href="https://twitter.com/jsunderhood") Присоединяйся!
-
-            p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
-      .row
-        .col-md-12
-            include share-text
-
   
   article.container
     each row in list

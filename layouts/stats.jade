@@ -13,21 +13,11 @@ block meta
   meta(name="og:title"       content="#{title} • #{site.title}")
   meta(name="og:description" content=site.description)
 
-block content
+block headerTitle
+  a(href="/") jsunderhood
+  small= " / Статистика"
 
-  .jumbotron
-    .container
-      .row
-        .col-md-12
-          include menu
-          .page-header
-            h1
-              a(href="/") jsunderhood
-              small= " / Статистика"
-            p.hidden-xs Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
-      .row.hidden-xs
-        .col-md-12
-          include share-text
+block content
 
   link(rel="stylesheet" href="/css/styles.css")
 
