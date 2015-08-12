@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1429,
+  "followers_count": 1434,
   "friends_count": 19,
   "listed_count": 53,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,14 +46,14 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7695,
+  "statuses_count": 7715,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Aug 12 06:41:20 +0000 2015",
-    "id": 631354764190683100,
-    "id_str": "631354764190683136",
-    "text": "RT @freiksenet_ru: @jsunderhood Ко-фаундер уже пробует рилей, а я обновляю наш бакенд под обновленную спеку...",
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "created_at": "Wed Aug 12 13:10:23 +0000 2015",
+    "id": 631452670507765800,
+    "id_str": "631452670507765760",
+    "text": "Кто подскажет по гугл-мапс? https://t.co/odLAI3wXph",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -64,76 +64,27 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Aug 12 06:40:41 +0000 2015",
-      "id": 631354600902295600,
-      "id_str": "631354600902295552",
-      "text": "@jsunderhood Ко-фаундер уже пробует рилей, а я обновляю наш бакенд под обновленную спеку...",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 631354202934087700,
-      "in_reply_to_status_id_str": "631354202934087680",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
+          "url": "https://t.co/odLAI3wXph",
+          "expanded_url": "https://twitter.com/d3head/status/631436448747622400",
+          "display_url": "twitter.com/d3head/status/…",
           "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            19,
-            31
+            28,
+            51
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
