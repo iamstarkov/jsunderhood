@@ -21,6 +21,7 @@ var each = require('each-done');
 var path = require('path');
 var numd = require('numd');
 
+var latestInfo = fs.readJsonSync('./dump/latest-info.json');
 var finalStats = fs.readJsonSync('./final-stats.json').stats;
 
 var moment = require('moment');
@@ -58,6 +59,7 @@ var articleHarvesting = function() {
       descText: author.tweets[author.tweets.length - 1].text,
       date: d(author.tweets[author.tweets.length - 1].created_at),
       content: article.content,
+      latestInfo: latestInfo,
       rss: {
         url: site.site_url + getBasename(file) + '/',
         description: author.tweets[author.tweets.length - 1].text
@@ -96,7 +98,8 @@ gulp.task('index-page', function() {
         url: '',
         desc: site.description,
         site: site,
-        list: articles.reduce(groupInGrid, [])
+        list: articles.reduce(groupInGrid, []),
+        latestInfo: latestInfo
       }
     }))
     .pipe(rename({ basename: 'index' }))
@@ -118,6 +121,7 @@ gulp.task('stats-page', function() {
         desc: site.description,
         site: site,
         stats: stats,
+        latestInfo: latestInfo,
         ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
         retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
         repliesUnit: numd('ответ', 'ответа', 'ответов')
@@ -138,7 +142,8 @@ gulp.task('about-page', function() {
       locals: assign({}, article, {
         title: 'О проекте',
         url: 'about/',
-        site: site
+        site: site,
+        latestInfo: latestInfo
       })
     }))
     .pipe(rename({ dirname: 'about' }))
