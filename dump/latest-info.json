@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1438,
+  "followers_count": 1443,
   "friends_count": 19,
   "listed_count": 56,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7734,
+  "statuses_count": 7764,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 13 08:58:55 +0000 2015",
-    "id": 631751777910673400,
-    "id_str": "631751777910673408",
-    "text": "https://t.co/wATvOBRDjm",
+    "created_at": "Thu Aug 13 15:32:50 +0000 2015",
+    "id": 631850910529011700,
+    "id_str": "631850910529011713",
+    "text": "RT @Borovikov: @jsunderhood хотя в программировании вообще нет серебрянных пуль и все улучшения небольшие. но это не повод отказываться от …",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,28 +64,77 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Thu Aug 13 15:31:49 +0000 2015",
+      "id": 631850651094491100,
+      "id_str": "631850651094491136",
+      "text": "@jsunderhood хотя в программировании вообще нет серебрянных пуль и все улучшения небольшие. но это не повод отказываться от улучшений",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 631748591544062000,
+      "in_reply_to_status_id_str": "631748591544061952",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/wATvOBRDjm",
-          "expanded_url": "https://houndci.com/",
-          "display_url": "houndci.com",
+          "screen_name": "Borovikov",
+          "name": "Денис Боровиков",
+          "id": 14354160,
+          "id_str": "14354160",
           "indices": [
-            0,
-            23
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            15,
+            27
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
