@@ -177,3 +177,32 @@ RT <a href="https://twitter.com/nikitonsky" title="Nikita Prokopov">@nikitonsky<
 RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Напиши, как бы ты организовал собственную компанию. Что бы ты повторил (как в Яндексе сделано), а что бы было п…
 
 .<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> я бы попытался воспроизвести “дух Яндекса” и “яндексоидов”, размер на пару порядков поменьше, а прибыль на человека — побольше
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/veged/krasota.js" target="_blank">https://github.com/veged/krasota.js</a>  
+<a href="https://github.com/feross/standard#rules" target="_blank">https://github.com/feross/standard#rules</a>  
+<a href="https://github.com/veged/coa" target="_blank">https://github.com/veged/coa</a>  
+<a href="https://github.com/vim/vim" target="_blank">https://github.com/vim/vim</a>  
+<a href="https://github.com/yandex/codestyle/blob/master/javascript.md" target="_blank">https://github.com/yandex/codestyle/blob/master/javascript.md</a>
+
+### Другие
+
+<a href="https://music.yandex.ru/album/2624321" target="_blank">https://music.yandex.ru/album/2624321</a>  
+<a href="https://ru.bem.info/authors/" target="_blank">https://ru.bem.info/authors/</a>  
+<a href="https://events.yandex.ru/lib/talks/842/" target="_blank">https://events.yandex.ru/lib/talks/842/</a>  
+<a href="https://events.yandex.ru/lib/talks/939/" target="_blank">https://events.yandex.ru/lib/talks/939/</a>  
+<a href="https://events.yandex.ru/lib/talks/559/" target="_blank">https://events.yandex.ru/lib/talks/559/</a>  
+<a href="https://events.yandex.ru/lib/talks/1447/" target="_blank">https://events.yandex.ru/lib/talks/1447/</a>  
+<a href="https://academy.yandex.ru/" target="_blank">https://academy.yandex.ru/</a>  
+<a href="https://yandex.ru/design-school" target="_blank">https://yandex.ru/design-school</a>  
+<a href="https://youtu.be/fdq0qlTpams" target="_blank">https://youtu.be/fdq0qlTpams</a>  
+<a href="http://www.yoga23.com/m23/howitworks/" target="_blank">http://www.yoga23.com/m23/howitworks/</a>  
+<a href="http://radiojs.ru/2015/01/radiojs-16/" target="_blank">http://radiojs.ru/2015/01/radiojs-16/</a>  
+<a href="http://radiojs.ru/2015/01/radiojs-16/" target="_blank">http://radiojs.ru/2015/01/radiojs-16/</a>  
+<a href="http://veged.livejournal.com/66332.html" target="_blank">http://veged.livejournal.com/66332.html</a>  
+<a href="https://blogs.yandex.ru/cachedcopy.xml?f=fd0238481ab4e5defa979b7f6b95b5d2&m=ya.ru%3A1631268%3A4336&c=doc&hl=vim%20author%3D%22veged%22&u=http%3A%2F%2Fveged.ya.ru%2Freplies.xml%3Fitem_no%3D4336" target="_blank">https://blogs.yandex.ru/cachedcopy.xml?f=fd0238481ab4e5defa979b7f6b95b5d2&m=ya.ru%3A1631268%3A4336&c=doc&hl=vim%20author%3D%22veged%22&u=http%3A%2F%2Fveged.ya.ru%2Freplies.xml%3Fitem_no%3D4336</a>  
+<a href="http://news.dartlang.org/2015/03/dart-for-entire-web.html" target="_blank">http://news.dartlang.org/2015/03/dart-for-entire-web.html</a>  
+<a href="http://2015.codefest.ru/speaker/9551/" target="_blank">http://2015.codefest.ru/speaker/9551/</a>  
+<a href="http://tonsky.me/talks/2015-codefest/" target="_blank">http://tonsky.me/talks/2015-codefest/</a>

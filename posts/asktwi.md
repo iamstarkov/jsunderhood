@@ -796,3 +796,47 @@ RT <a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a>: 
 RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ты клёвая и это была отличная неделя =)
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: Во славу сатане, Аня, ты чертовки крутая! Спасибо за потрясающую неделю <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>!
+
+## Ссылки
+
+<a href="http://verdure.net/" target="_blank">http://verdure.net/</a>  
+<a href="https://www.npmjs.com/package/grulp" target="_blank">https://www.npmjs.com/package/grulp</a>  
+<a href="http://course.by/whatsthat/" target="_blank">http://course.by/whatsthat/</a>  
+<a href="http://radiojs.ru/2015/06/radiojs-24/" target="_blank">http://radiojs.ru/2015/06/radiojs-24/</a>  
+<a href="https://dev.windows.com/en-us/develop/winjs" target="_blank">https://dev.windows.com/en-us/develop/winjs</a>  
+<a href="http://odessajs.org/" target="_blank">http://odessajs.org/</a>  
+<a href="http://www.slideshare.net/pavelscherbinin/perl-fornotprogrammersnikolaymishin" target="_blank">http://www.slideshare.net/pavelscherbinin/perl-fornotprogrammersnikolaymishin</a>  
+<a href="http://i18next.com/" target="_blank">http://i18next.com/</a>  
+<a href="https://github.com/ded/bowser" target="_blank">https://github.com/ded/bowser</a>  
+<a href="https://github.com/gaearon/redux#philosophy--design-goals" target="_blank">https://github.com/gaearon/redux#philosophy--design-goals</a>  
+<a href="http://vdom-benchmark.github.io/vdom-benchmark/" target="_blank">http://vdom-benchmark.github.io/vdom-benchmark/</a>  
+<a href="http://jsblocks.com/" target="_blank">http://jsblocks.com/</a>  
+<a href="http://dev.w3.org/csswg/mediaqueries4/#mf-interaction" target="_blank">http://dev.w3.org/csswg/mediaqueries4/#mf-interaction</a>  
+<a href="http://wheel.by/" target="_blank">http://wheel.by/</a>  
+<a href="http://websitesfromhell.net/" target="_blank">http://websitesfromhell.net/</a>  
+<a href="https://jsunderhood.ru/stats/" target="_blank">https://jsunderhood.ru/stats/</a>  
+<a href="https://www.youtube.com/watch?v=iUtwKqSIH90&list=PLMBnwIwFEFHcnfvD14to6fMcbNmH25_Yk" target="_blank">https://www.youtube.com/watch?v=iUtwKqSIH90&list=PLMBnwIwFEFHcnfvD14to6fMcbNmH25_Yk</a>  
+<a href="https://www.youtube.com/watch?v=yRsT5wBSYZ0" target="_blank">https://www.youtube.com/watch?v=yRsT5wBSYZ0</a>  
+<a href="http://caniuse.com/#feat=viewport-units" target="_blank">http://caniuse.com/#feat=viewport-units</a>  
+<a href="http://vsevolodustinov.ru/blog/all/o-polze-vedeniya-professionalnogo-bloga/" target="_blank">http://vsevolodustinov.ru/blog/all/o-polze-vedeniya-professionalnogo-bloga/</a>  
+<a href="http://sapegin.ru/" target="_blank">http://sapegin.ru/</a>  
+<a href="http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/" target="_blank">http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/</a>  
+<a href="http://vstarkov.ru/" target="_blank">http://vstarkov.ru/</a>  
+<a href="http://vstarkov.com/" target="_blank">http://vstarkov.com/</a>  
+<a href="https://iamstarkov.com/" target="_blank">https://iamstarkov.com/</a>  
+<a href="https://events.yandex.ru/lib/talks/1518/" target="_blank">https://events.yandex.ru/lib/talks/1518/</a>  
+<a href="http://stackoverflow.com/questions/10025141/removing-red-eye-from-an-image-on-the-client-side-using-jquery" target="_blank">http://stackoverflow.com/questions/10025141/removing-red-eye-from-an-image-on-the-client-side-using-jquery</a>  
+<a href="http://www.2ality.com/2015/03/no-promises.html" target="_blank">http://www.2ality.com/2015/03/no-promises.html</a>  
+<a href="http://www.dabeaz.com/generators/" target="_blank">http://www.dabeaz.com/generators/</a>  
+<a href="http://www.opennet.ru/opennews/art.shtml?num=42451" target="_blank">http://www.opennet.ru/opennews/art.shtml?num=42451</a>  
+<a href="https://svgontheweb.com/" target="_blank">https://svgontheweb.com/</a>  
+<a href="https://www.facebook.com/FrontendLeague" target="_blank">https://www.facebook.com/FrontendLeague</a>  
+<a href="https://www.facebook.com/geekbattle.by" target="_blank">https://www.facebook.com/geekbattle.by</a>  
+<a href="http://largescalejs.ru/" target="_blank">http://largescalejs.ru/</a>  
+<a href="http://hudochenkov.com/pro/rozovoz/js/scripts.js" target="_blank">http://hudochenkov.com/pro/rozovoz/js/scripts.js</a>  
+<a href="http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications" target="_blank">http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications</a>  
+<a href="http://blog.andrewray.me/flux-for-stupid-people/" target="_blank">http://blog.andrewray.me/flux-for-stupid-people/</a>  
+<a href="http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680?tag=nczonline-20" target="_blank">http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680?tag=nczonline-20</a>  
+<a href="https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6" target="_blank">https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6</a>  
+<a href="https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31" target="_blank">https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31</a>  
+<a href="http://www.ustream.tv/channel/wstdays" target="_blank">http://www.ustream.tv/channel/wstdays</a>

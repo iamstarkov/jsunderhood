@@ -33,3 +33,13 @@ RT <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>: 14-15 
 ## Суббота <small>1 твит</small>
 
 Очень занимательное чтиво на тему потоки vs события <a href="http://t.co/c0UPQEHPn7">static.usenix.org/events/hotos03…</a>
+
+## Ссылки
+
+<a href="http://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr" target="_blank">http://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr</a>  
+<a href="https://www.youtube.com/playlist?list=PL95OM-7UObpEfPxwbbYzn4Pnk8HCSo2lB" target="_blank">https://www.youtube.com/playlist?list=PL95OM-7UObpEfPxwbbYzn4Pnk8HCSo2lB</a>  
+<a href="http://bit.ly/1zNVk1N" target="_blank">http://bit.ly/1zNVk1N</a>  
+<a href="https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md" target="_blank">https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md</a>  
+<a href="http://www.2ality.com/2015/02/soundscript.html?m=1" target="_blank">http://www.2ality.com/2015/02/soundscript.html?m=1</a>  
+<a href="http://jsconfbp.com/" target="_blank">http://jsconfbp.com/</a>  
+<a href="http://static.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/" target="_blank">http://static.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/</a>

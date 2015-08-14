@@ -203,3 +203,10 @@ RT <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a>: А вы
 Узнал про понятие Front End Ops.
 
 .<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> мб, все дело в том, что я плохой дипломат и только учусь, и совсем недавно стал публичным человеком. Все новое...
+
+## Ссылки
+
+<a href="https://github.com/dypsilon/frontend-dev-bookmarks" target="_blank">https://github.com/dypsilon/frontend-dev-bookmarks</a>  
+<a href="https://github.com/iojs/io.js/issues/1664#issuecomment-101847867" target="_blank">https://github.com/iojs/io.js/issues/1664#issuecomment-101847867</a>  
+<a href="http://esweekly.com/" target="_blank">http://esweekly.com/</a>  
+<a href="http://www.wikiwand.com/en/Mark_Pilgrim" target="_blank">http://www.wikiwand.com/en/Mark_Pilgrim</a>

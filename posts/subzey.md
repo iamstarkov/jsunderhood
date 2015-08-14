@@ -1023,3 +1023,71 @@ eval(unescape(escape('𬱥𭁉𫡴𩑲𭡡𫀨𡡵𫡣𭁩𫱮𚀧𚁥👣𫱮�
 
 На этой неделе с вами был Антон <a href="https://twitter.com/subzey" title="subzey">@subzey</a> Хлыновский.
 Для меня это было очень новым, необычайно интересным впечатлением. Вы офигенные!
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/mistadikay/strict-loader" target="_blank">https://github.com/mistadikay/strict-loader</a>  
+<a href="https://github.com/Siorki/RegPack/" target="_blank">https://github.com/Siorki/RegPack/</a>  
+<a href="https://github.com/cowboy/jquery-resize/blob/master/jquery.ba-resize.js" target="_blank">https://github.com/cowboy/jquery-resize/blob/master/jquery.ba-resize.js</a>  
+<a href="https://github.com/jashkenas/underscore/issues/2182" target="_blank">https://github.com/jashkenas/underscore/issues/2182</a>  
+<a href="https://github.com/jxcore/jxcore" target="_blank">https://github.com/jxcore/jxcore</a>  
+<a href="https://github.com/paddybyers/anode" target="_blank">https://github.com/paddybyers/anode</a>  
+### goo.gl  
+<a href="https://goo.gl/VyOVbL" target="_blank">https://goo.gl/VyOVbL</a>  
+<a href="https://goo.gl/a3wrou" target="_blank">https://goo.gl/a3wrou</a>  
+<a href="https://goo.gl/W13kdd" target="_blank">https://goo.gl/W13kdd</a>  
+<a href="https://goo.gl/RS3FNF" target="_blank">https://goo.gl/RS3FNF</a>  
+<a href="http://goo.gl/xY4Suu" target="_blank">http://goo.gl/xY4Suu</a>  
+<a href="https://goo.gl/HG8vFn" target="_blank">https://goo.gl/HG8vFn</a>
+
+### Другие
+
+<a href="http://m.ustream.tv/recorded/62250630" target="_blank">http://m.ustream.tv/recorded/62250630</a>  
+<a href="https://youtu.be/l1lr2ckSrTo" target="_blank">https://youtu.be/l1lr2ckSrTo</a>  
+<a href="http://youtu.be/a-OyoVcbwWE" target="_blank">http://youtu.be/a-OyoVcbwWE</a>  
+<a href="http://youtu.be/xPPCzryZK44" target="_blank">http://youtu.be/xPPCzryZK44</a>  
+<a href="http://youtu.be/iBHr8gKc5L8" target="_blank">http://youtu.be/iBHr8gKc5L8</a>  
+<a href="http://blog.jetbrains.com/dotnet/2014/12/15/improved-typescript-support-in-resharper-9/" target="_blank">http://blog.jetbrains.com/dotnet/2014/12/15/improved-typescript-support-in-resharper-9/</a>  
+<a href="http://repl.it/oZV" target="_blank">http://repl.it/oZV</a>  
+<a href="http://repl.it/ozU" target="_blank">http://repl.it/ozU</a>  
+<a href="http://js13kGames.com/" target="_blank">http://js13kGames.com/</a>  
+<a href="http://js1k.com/2313" target="_blank">http://js1k.com/2313</a>  
+<a href="http://www.iteral.com/jscrush/" target="_blank">http://www.iteral.com/jscrush/</a>  
+<a href="http://microjs.com/" target="_blank">http://microjs.com/</a>  
+<a href="https://gist.github.com/subzey/47d772020089b6e41cab" target="_blank">https://gist.github.com/subzey/47d772020089b6e41cab</a>  
+<a href="https://gist.github.com/subzey" target="_blank">https://gist.github.com/subzey</a>  
+<a href="https://gist.github.com/ufocoder/13eb354d9463850d654b" target="_blank">https://gist.github.com/ufocoder/13eb354d9463850d654b</a>  
+<a href="https://gist.github.com/subzey/8115612" target="_blank">https://gist.github.com/subzey/8115612</a>  
+<a href="http://habrahabr.ru/company/tradingview/blog/178261/" target="_blank">http://habrahabr.ru/company/tradingview/blog/178261/</a>  
+<a href="http://habrahabr.ru/post/258449/" target="_blank">http://habrahabr.ru/post/258449/</a>  
+<a href="http://habrahabr.ru/users/subzey/topics/" target="_blank">http://habrahabr.ru/users/subzey/topics/</a>  
+<a href="http://habrahabr.ru/company/pechkin/blog/255819/" target="_blank">http://habrahabr.ru/company/pechkin/blog/255819/</a>  
+<a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">https://www.youtube.com/watch?v=8aGhZQkoFbQ</a>  
+<a href="https://www.youtube.com/watch?v=F_cD6XOrfAc" target="_blank">https://www.youtube.com/watch?v=F_cD6XOrfAc</a>  
+<a href="http://www.pouet.net/prod.php?which=59403" target="_blank">http://www.pouet.net/prod.php?which=59403</a>  
+<a href="http://www.pouet.net/prod.php?which=59298" target="_blank">http://www.pouet.net/prod.php?which=59298</a>  
+<a href="http://www.pouet.net/prod.php?which=64966" target="_blank">http://www.pouet.net/prod.php?which=64966</a>  
+<a href="http://www.p01.org/releases/140bytes_music_softSynth/" target="_blank">http://www.p01.org/releases/140bytes_music_softSynth/</a>  
+<a href="http://2014.jsconf.eu/speakers/mathieu-p01-henri-monster-audiovisual-demos-in-a-tcp-packet.html" target="_blank">http://2014.jsconf.eu/speakers/mathieu-p01-henri-monster-audiovisual-demos-in-a-tcp-packet.html</a>  
+<a href="http://jsfiddle.net/subzey/phb49762/" target="_blank">http://jsfiddle.net/subzey/phb49762/</a>  
+<a href="http://jsfiddle.net/92ewxh6k/" target="_blank">http://jsfiddle.net/92ewxh6k/</a>  
+<a href="http://jsfiddle.net/wbvyz17h/" target="_blank">http://jsfiddle.net/wbvyz17h/</a>  
+<a href="http://frontendconf.ru/2015/abstracts/1724" target="_blank">http://frontendconf.ru/2015/abstracts/1724</a>  
+<a href="http://frontender.info/zero_framework_manifesto/" target="_blank">http://frontender.info/zero_framework_manifesto/</a>  
+<a href="https://pbs.twimg.com/media/Bt8NEveIcAEsTqH.png" target="_blank">https://pbs.twimg.com/media/Bt8NEveIcAEsTqH.png</a>  
+<a href="http://www.amazon.ca/Field-Guide-Understanding-Human-Error/dp/0754648265" target="_blank">http://www.amazon.ca/Field-Guide-Understanding-Human-Error/dp/0754648265</a>  
+<a href="http://jsfuck.com/" target="_blank">http://jsfuck.com/</a>  
+<a href="https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object" target="_blank">https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object</a>  
+<a href="https://javascript.spec.whatwg.org/" target="_blank">https://javascript.spec.whatwg.org/</a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding#The_.22Unicode_Problem.22" target="_blank">https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding#The_.22Unicode_Problem.22</a>  
+<a href="https://www.npmjs.com/package/rhubarb" target="_blank">https://www.npmjs.com/package/rhubarb</a>  
+<a href="http://abstract.properties/jsconfbp-2015/" target="_blank">http://abstract.properties/jsconfbp-2015/</a>  
+<a href="https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070" target="_blank">https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070</a>  
+<a href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript" target="_blank">https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript</a>  
+<a href="https://xkcd.com/1508/" target="_blank">https://xkcd.com/1508/</a>  
+<a href="https://xkcd.com/1367/" target="_blank">https://xkcd.com/1367/</a>  
+<a href="http://templates.mailchimp.com/resources/email-client-css-support/" target="_blank">http://templates.mailchimp.com/resources/email-client-css-support/</a>  
+<a href="http://javascript.horse/" target="_blank">http://javascript.horse/</a>  
+<a href="http://coffeescript.org/#try:%23%20%D1%83%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%0Astate%20%3D%20%7B%7D%0A%0A%23%20...%20100%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%20%D1%81%D0%BF%D1%83%D1%81%D1%82%D1%8F%0A%0Apluck%20%3D%20(arr)-%3E%0A%20%20state.foo%20for%20state%20in%20arr%0A%0A" target="_blank">http://coffeescript.org/#try:%23%20%D1%83%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%0Astate%20%3D%20%7B%7D%0A%0A%23%20...%20100%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%20%D1%81%D0%BF%D1%83%D1%81%D1%82%D1%8F%0A%0Apluck%20%3D%20(arr)-%3E%0A%20%20state.foo%20for%20state%20in%20arr%0A%0A</a>  
+<a href="https://babeljs.io/repl/#?experimental=true&evaluate=true&loose=false&spec=false&code=let%20foo%20%3D%20(%7Bbar%20%3D%2042%2C%20baz%7D%20%3D%20%7B%7D)%20%3D%3E%20console.log(bar%2C%20baz)%20%20%0A%0Afoo()%3B%0Afoo(%7B%7D)%0Afoo(%7Bbar%3A%2033%7D)%0A" target="_blank">https://babeljs.io/repl/#?experimental=true&evaluate=true&loose=false&spec=false&code=let%20foo%20%3D%20(%7Bbar%20%3D%2042%2C%20baz%7D%20%3D%20%7B%7D)%20%3D%3E%20console.log(bar%2C%20baz)%20%20%0A%0Afoo()%3B%0Afoo(%7B%7D)%0Afoo(%7Bbar%3A%2033%7D)%0A</a>

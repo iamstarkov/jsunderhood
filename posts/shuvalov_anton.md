@@ -36,3 +36,14 @@ RT @matmuchrapna: <a href="https://twitter.com/jsunderhood" title="Разраб�
 ## Суббота <small>1 твит</small>
 
 Big Web App? Compile it! <a href="http://t.co/vuLsUgPI4U">kripken.github.io/mloc_emscripte…</a>
+
+## Ссылки
+
+<a href="http://mikefowler.me/2014/06/11/backbone-with-es6/" target="_blank">http://mikefowler.me/2014/06/11/backbone-with-es6/</a>  
+<a href="https://github.com/domenic/mocha-traceur" target="_blank">https://github.com/domenic/mocha-traceur</a>  
+<a href="https://github.com/google/traceur-compiler/wiki/Using-Traceur-with-Node.js" target="_blank">https://github.com/google/traceur-compiler/wiki/Using-Traceur-with-Node.js</a>  
+<a href="http://robots.thoughtbot.com/replace-coffeescript-with-es6?utm_source=javascriptweekly&utm_medium=email" target="_blank">http://robots.thoughtbot.com/replace-coffeescript-with-es6?utm_source=javascriptweekly&utm_medium=email</a>  
+<a href="http://bit.ly/1zJkGze" target="_blank">http://bit.ly/1zJkGze</a>  
+<a href="https://iojs.org/es6.html" target="_blank">https://iojs.org/es6.html</a>  
+<a href="http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork" target="_blank">http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork</a>  
+<a href="http://kripken.github.io/mloc_emscripten_talk/#/" target="_blank">http://kripken.github.io/mloc_emscripten_talk/#/</a>

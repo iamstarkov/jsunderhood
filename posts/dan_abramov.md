@@ -952,3 +952,114 @@ RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a 
 Прощаюсь с вами, спасибо всем за отличную неделю! Скоро в Париж на React Europe, буду вас вспоминать )
 
 Мой основной аккаунт <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a>, в основном англоязычный, но я отвечаю по-русски, если спросите по-русски. Следите за апдейтами! &lt;3
+
+## Ссылки
+
+### gist.github.com  
+<a href="https://gist.github.com/gaearon/d77ca812015c0356654f" target="_blank">https://gist.github.com/gaearon/d77ca812015c0356654f</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101</a>  
+<a href="https://gist.github.com/gaearon/d77ca812015c0356654f" target="_blank">https://gist.github.com/gaearon/d77ca812015c0356654f</a>  
+### github.com  
+<a href="https://github.com/enaqx/awesome-react" target="_blank">https://github.com/enaqx/awesome-react</a>  
+<a href="https://github.com/gaearon/redux" target="_blank">https://github.com/gaearon/redux</a>  
+<a href="https://github.com/edjafarov/PromisePipe" target="_blank">https://github.com/edjafarov/PromisePipe</a>  
+<a href="https://github.com/rambler-digital-solutions/superagent-mocker" target="_blank">https://github.com/rambler-digital-solutions/superagent-mocker</a>  
+<a href="https://github.com/idmitriev/eslint-plugin-better" target="_blank">https://github.com/idmitriev/eslint-plugin-better</a>  
+<a href="https://github.com/wtfil/song-looper" target="_blank">https://github.com/wtfil/song-looper</a>  
+<a href="https://github.com/andrepolischuk/numd" target="_blank">https://github.com/andrepolischuk/numd</a>  
+<a href="https://github.com/dmaslov/github-gist" target="_blank">https://github.com/dmaslov/github-gist</a>  
+<a href="https://github.com/sudodoki/copy-button" target="_blank">https://github.com/sudodoki/copy-button</a>  
+<a href="https://github.com/nodeschool/nodeschool.github.io/issues/145" target="_blank">https://github.com/nodeschool/nodeschool.github.io/issues/145</a>  
+<a href="https://github.com/aliaksandr-pasynkau/grunto" target="_blank">https://github.com/aliaksandr-pasynkau/grunto</a>  
+<a href="https://github.com/petehunt/jsxstyle" target="_blank">https://github.com/petehunt/jsxstyle</a>  
+<a href="https://github.com/css-modules/css-modules" target="_blank">https://github.com/css-modules/css-modules</a>  
+<a href="https://github.com/MicheleBertoli/css-in-js" target="_blank">https://github.com/MicheleBertoli/css-in-js</a>  
+<a href="https://github.com/markdalgleish/postcss-local-scope-example" target="_blank">https://github.com/markdalgleish/postcss-local-scope-example</a>  
+<a href="https://github.com/petehunt/webpack-howto" target="_blank">https://github.com/petehunt/webpack-howto</a>  
+<a href="http://github.com/gaearon/redux" target="_blank">http://github.com/gaearon/redux</a>  
+<a href="https://github.com/evancz/elm-architecture-tutorial#the-basic-pattern" target="_blank">https://github.com/evancz/elm-architecture-tutorial#the-basic-pattern</a>  
+<a href="https://github.com/alexeyraspopov/flux-stateful#immutable-pure-stores" target="_blank">https://github.com/alexeyraspopov/flux-stateful#immutable-pure-stores</a>  
+<a href="https://github.com/gaearon/redux/issues/113#issuecomment-114049804" target="_blank">https://github.com/gaearon/redux/issues/113#issuecomment-114049804</a>  
+<a href="https://github.com/share/sharejs" target="_blank">https://github.com/share/sharejs</a>  
+<a href="https://github.com/evancz/elm-architecture-tutorial/" target="_blank">https://github.com/evancz/elm-architecture-tutorial/</a>  
+<a href="https://github.com/slamdata/purescript-halogen" target="_blank">https://github.com/slamdata/purescript-halogen</a>  
+<a href="https://github.com/rackt/react-router/blob/master/examples/async-data/app.js" target="_blank">https://github.com/rackt/react-router/blob/master/examples/async-data/app.js</a>  
+<a href="https://github.com/gaearon/redux/pull/140#issuecomment-114756152" target="_blank">https://github.com/gaearon/redux/pull/140#issuecomment-114756152</a>  
+<a href="https://github.com/webpack/css-loader/commit/a78e007e206439348bf04d4c0ffd7b0324c75d26" target="_blank">https://github.com/webpack/css-loader/commit/a78e007e206439348bf04d4c0ffd7b0324c75d26</a>  
+<a href="https://github.com/milankinen/livereactload" target="_blank">https://github.com/milankinen/livereactload</a>  
+<a href="https://github.com/mjohnston/react-native-webpack-server" target="_blank">https://github.com/mjohnston/react-native-webpack-server</a>  
+<a href="https://github.com/facebook/react/issues/3226" target="_blank">https://github.com/facebook/react/issues/3226</a>  
+<a href="https://github.com/facebook/react/issues/3228" target="_blank">https://github.com/facebook/react/issues/3228</a>  
+<a href="https://github.com/talgautb/frontender" target="_blank">https://github.com/talgautb/frontender</a>  
+<a href="https://github.com/AveVlad/russia-it-podcast" target="_blank">https://github.com/AveVlad/russia-it-podcast</a>  
+<a href="https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md" target="_blank">https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md</a>  
+<a href="https://github.com/webpack/style-loader/blob/2823eb4a5e6eb6594a98fe0ea34454b7f7ffca7d/index.js#L21-L32" target="_blank">https://github.com/webpack/style-loader/blob/2823eb4a5e6eb6594a98fe0ea34454b7f7ffca7d/index.js#L21-L32</a>  
+<a href="https://github.com/npm/npm/releases/tag/v3.0.0" target="_blank">https://github.com/npm/npm/releases/tag/v3.0.0</a>  
+<a href="https://github.com/gcanti/tcomb-form" target="_blank">https://github.com/gcanti/tcomb-form</a>  
+<a href="https://github.com/sebmarkbage?tab=activity" target="_blank">https://github.com/sebmarkbage?tab=activity</a>  
+<a href="https://github.com/feross/standard" target="_blank">https://github.com/feross/standard</a>  
+<a href="https://github.com/Flet/semistandard" target="_blank">https://github.com/Flet/semistandard</a>  
+<a href="https://github.com/gaearon/redux" target="_blank">https://github.com/gaearon/redux</a>  
+<a href="http://github.com/emmenko/redux-react-router-async-example" target="_blank">http://github.com/emmenko/redux-react-router-async-example</a>  
+<a href="https://github.com/gaearon/react-dnd/issues/200" target="_blank">https://github.com/gaearon/react-dnd/issues/200</a>  
+### medium.com  
+<a href="https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284" target="_blank">https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284</a>  
+<a href="https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b" target="_blank">https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b</a>  
+<a href="https://medium.com/@dan_abramov/my-react-list-862227952a8c" target="_blank">https://medium.com/@dan_abramov/my-react-list-862227952a8c</a>  
+<a href="https://medium.com/@Shapiro/stripe-san-francisco-and-velocity-js-37575e29a51b" target="_blank">https://medium.com/@Shapiro/stripe-san-francisco-and-velocity-js-37575e29a51b</a>  
+<a href="https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0" target="_blank">https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0</a>  
+<a href="https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6" target="_blank">https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6</a>
+
+### Другие
+
+<a href="http://www.reactiflux.com/" target="_blank">http://www.reactiflux.com/</a>  
+<a href="http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome" target="_blank">http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome</a>  
+<a href="http://jlongster.com/Modularity" target="_blank">http://jlongster.com/Modularity</a>  
+<a href="http://jlongster.com/Backend-Apps-with-Webpack--Part-III" target="_blank">http://jlongster.com/Backend-Apps-with-Webpack--Part-III</a>  
+<a href="http://www.youtube.com/watch?v=4anAwXYqLG8" target="_blank">http://www.youtube.com/watch?v=4anAwXYqLG8</a>  
+<a href="http://www.youtube.com/watch?v=Agu6jipKfYw" target="_blank">http://www.youtube.com/watch?v=Agu6jipKfYw</a>  
+<a href="http://www.youtube.com/watch?v=j-kj2qwJa_E" target="_blank">http://www.youtube.com/watch?v=j-kj2qwJa_E</a>  
+<a href="http://www.youtube.com/watch?v=j-kj2qwJa_E" target="_blank">http://www.youtube.com/watch?v=j-kj2qwJa_E</a>  
+<a href="http://frontendbabel.info/" target="_blank">http://frontendbabel.info/</a>  
+<a href="http://molefrog.com/rye/" target="_blank">http://molefrog.com/rye/</a>  
+<a href="http://molefrog.com/rye/demo/galois/" target="_blank">http://molefrog.com/rye/demo/galois/</a>  
+<a href="http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/" target="_blank">http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/</a>  
+<a href="http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html" target="_blank">http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html</a>  
+<a href="http://tonsky.livejournal.com/284511.html" target="_blank">http://tonsky.livejournal.com/284511.html</a>  
+<a href="https://www.npmjs.com/package/article-data" target="_blank">https://www.npmjs.com/package/article-data</a>  
+<a href="https://youtu.be/DspYurD75Ns?t=39m" target="_blank">https://youtu.be/DspYurD75Ns?t=39m</a>  
+<a href="https://speakerdeck.com/vjeux/react-css-in-js" target="_blank">https://speakerdeck.com/vjeux/react-css-in-js</a>  
+<a href="https://christianalfoni.github.io/react-webpack-cookbook/" target="_blank">https://christianalfoni.github.io/react-webpack-cookbook/</a>  
+<a href="http://survivejs.com/webpack_react/" target="_blank">http://survivejs.com/webpack_react/</a>  
+<a href="http://gbracha.blogspot.cz/2014/09/a-domain-of-shadows.html?m=1" target="_blank">http://gbracha.blogspot.cz/2014/09/a-domain-of-shadows.html?m=1</a>  
+<a href="http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf" target="_blank">http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf</a>  
+<a href="https://goo.gl/1kUAf0" target="_blank">https://goo.gl/1kUAf0</a>  
+<a href="https://goo.gl/1kUAf0" target="_blank">https://goo.gl/1kUAf0</a>  
+<a href="http://goo.gl/er5j6y" target="_blank">http://goo.gl/er5j6y</a>  
+<a href="http://goo.gl/A9CiGa" target="_blank">http://goo.gl/A9CiGa</a>  
+<a href="http://alexeyraspopov.github.io/talks/what-the-flux/" target="_blank">http://alexeyraspopov.github.io/talks/what-the-flux/</a>  
+<a href="http://alexeyraspopov.github.io/talks/what-the-flux/" target="_blank">http://alexeyraspopov.github.io/talks/what-the-flux/</a>  
+<a href="https://vimeo.com/88035957" target="_blank">https://vimeo.com/88035957</a>  
+<a href="http://vimeo.com/100010922" target="_blank">http://vimeo.com/100010922</a>  
+<a href="https://vimeo.com/88035957" target="_blank">https://vimeo.com/88035957</a>  
+<a href="http://nuclide.io/" target="_blank">http://nuclide.io/</a>  
+<a href="http://www.mann-ivanov-ferber.ru/promo/presentation/" target="_blank">http://www.mann-ivanov-ferber.ru/promo/presentation/</a>  
+<a href="http://amokjs.com/" target="_blank">http://amokjs.com/</a>  
+<a href="http://reactpodcast.com/2015/06/webpack-vs-browserify/" target="_blank">http://reactpodcast.com/2015/06/webpack-vs-browserify/</a>  
+<a href="https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/" target="_blank">https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/</a>  
+<a href="https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/" target="_blank">https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/</a>  
+<a href="https://code.google.com/p/chromium/issues/detail?id=492902" target="_blank">https://code.google.com/p/chromium/issues/detail?id=492902</a>  
+<a href="http://webpack.github.io/docs/hot-module-replacement-with-webpack.html" target="_blank">http://webpack.github.io/docs/hot-module-replacement-with-webpack.html</a>  
+<a href="http://webpack.github.io/docs/hot-module-replacement.html" target="_blank">http://webpack.github.io/docs/hot-module-replacement.html</a>  
+<a href="http://webpack.github.io/docs/tutorials/getting-started/#first-loader" target="_blank">http://webpack.github.io/docs/tutorials/getting-started/#first-loader</a>  
+<a href="http://webpack.github.io/docs/stylesheets.html#separate-css-bundle" target="_blank">http://webpack.github.io/docs/stylesheets.html#separate-css-bundle</a>  
+<a href="http://prog21.dadgum.com/" target="_blank">http://prog21.dadgum.com/</a>  
+<a href="http://www.johndcook.com/blog/" target="_blank">http://www.johndcook.com/blog/</a>  
+<a href="http://steve-yegge.blogspot.com/" target="_blank">http://steve-yegge.blogspot.com/</a>  
+<a href="https://sites.google.com/site/steveyegge2/blog-rants" target="_blank">https://sites.google.com/site/steveyegge2/blog-rants</a>  
+<a href="https://soundcloud.com/podval-capella/sets/main" target="_blank">https://soundcloud.com/podval-capella/sets/main</a>  
+<a href="https://soundcloud.com/taras3000/the-sailing-away" target="_blank">https://soundcloud.com/taras3000/the-sailing-away</a>  
+<a href="https://vk.com/app2462" target="_blank">https://vk.com/app2462</a>  
+<a href="http://www.creativereview.co.uk/cr-blog/2015/june/mtv" target="_blank">http://www.creativereview.co.uk/cr-blog/2015/june/mtv</a>

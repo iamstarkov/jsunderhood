@@ -193,3 +193,18 @@ RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a
 "Social Intelligence". А эта книга взорвала мой мозг, она про то, как современный мир меняет взаимоотношения людей <a href="http://t.co/dRElivuvts">goo.gl/xjtYHl</a>
 
 В общем вот вам для затравочки :) Остальные книги буду со временим выкладывать у себя в аккаунте <a href="https://twitter.com/lomakin" title="Alexander Lomakin">@lomakin</a>
+
+## Ссылки
+
+### goo.gl  
+<a href="http://goo.gl/YzqUtV" target="_blank">http://goo.gl/YzqUtV</a>  
+<a href="http://goo.gl/ruZWXT" target="_blank">http://goo.gl/ruZWXT</a>  
+<a href="http://goo.gl/j4jcDj" target="_blank">http://goo.gl/j4jcDj</a>  
+<a href="http://goo.gl/2D45aQ" target="_blank">http://goo.gl/2D45aQ</a>  
+<a href="http://goo.gl/fCkIzl" target="_blank">http://goo.gl/fCkIzl</a>  
+<a href="http://goo.gl/xjtYHl" target="_blank">http://goo.gl/xjtYHl</a>
+
+### Другие
+
+<a href="https://github.com/rambler-digital-solutions" target="_blank">https://github.com/rambler-digital-solutions</a>  
+<a href="http://scrumtrek.ru/trainings/view/22/147/" target="_blank">http://scrumtrek.ru/trainings/view/22/147/</a>

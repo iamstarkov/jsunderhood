@@ -1638,3 +1638,116 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 А подробности? <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветцих">@reklatsmasters</a>
 
 Всем до свидания, с вами был <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>. Не теряйтесь, пишите. Меньше негатива, хайпа и фанатизма. Больше радости и успехов!
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/bjoerge/cut-release" target="_blank">https://github.com/bjoerge/cut-release</a>  
+<a href="https://github.com/mr-mig/ru-it-chats" target="_blank">https://github.com/mr-mig/ru-it-chats</a>  
+<a href="https://github.com/Gillespie59/eslint-plugin-angular" target="_blank">https://github.com/Gillespie59/eslint-plugin-angular</a>  
+<a href="https://github.com/dev-ua" target="_blank">https://github.com/dev-ua</a>  
+<a href="https://github.com/andrepolischuk/numd" target="_blank">https://github.com/andrepolischuk/numd</a>  
+<a href="https://github.com/emberjs/rfcs/pull/15" target="_blank">https://github.com/emberjs/rfcs/pull/15</a>  
+<a href="https://github.com/emberfeather/less.js-middleware" target="_blank">https://github.com/emberfeather/less.js-middleware</a>  
+<a href="https://github.com/just-boris/build-proxy" target="_blank">https://github.com/just-boris/build-proxy</a>  
+<a href="https://github.com/tildeio/router.js" target="_blank">https://github.com/tildeio/router.js</a>  
+<a href="https://github.com/isaacs/rimraf/issues/72" target="_blank">https://github.com/isaacs/rimraf/issues/72</a>  
+<a href="https://github.com/substack/dotc" target="_blank">https://github.com/substack/dotc</a>  
+<a href="https://github.com/edjafarov/PromisePipe/blob/master/example/mongotodo/main.js#L53-L89" target="_blank">https://github.com/edjafarov/PromisePipe/blob/master/example/mongotodo/main.js#L53-L89</a>  
+<a href="https://github.com/petehunt/minimongo-cache" target="_blank">https://github.com/petehunt/minimongo-cache</a>  
+<a href="https://github.com/dev-ua" target="_blank">https://github.com/dev-ua</a>  
+### www.youtube.com  
+<a href="http://www.youtube.com/watch?v=xPPCzryZK44" target="_blank">http://www.youtube.com/watch?v=xPPCzryZK44</a>  
+<a href="https://www.youtube.com/watch?v=lKXe3HUG2l4" target="_blank">https://www.youtube.com/watch?v=lKXe3HUG2l4</a>  
+<a href="https://www.youtube.com/watch?v=tz-Bb-D6teE" target="_blank">https://www.youtube.com/watch?v=tz-Bb-D6teE</a>  
+<a href="https://www.youtube.com/watch?v=jLj1QV11o9g" target="_blank">https://www.youtube.com/watch?v=jLj1QV11o9g</a>  
+<a href="https://www.youtube.com/watch?v=lQAV3bPOYHo" target="_blank">https://www.youtube.com/watch?v=lQAV3bPOYHo</a>  
+<a href="https://www.youtube.com/watch?v=dcsVyRVvpAw" target="_blank">https://www.youtube.com/watch?v=dcsVyRVvpAw</a>  
+<a href="https://www.youtube.com/watch?v=NLPC3EHtiBU" target="_blank">https://www.youtube.com/watch?v=NLPC3EHtiBU</a>  
+<a href="https://www.youtube.com/watch?v=sHMhprMS6Pw&index=1&list=PL8761XQAJnraeNEp60qb-mh7hHxHvOYNf" target="_blank">https://www.youtube.com/watch?v=sHMhprMS6Pw&index=1&list=PL8761XQAJnraeNEp60qb-mh7hHxHvOYNf</a>  
+<a href="http://www.youtube.com/watch?v=sTSQlYX5DU0" target="_blank">http://www.youtube.com/watch?v=sTSQlYX5DU0</a>  
+<a href="https://www.youtube.com/watch?v=2t-_7Eo4DnI" target="_blank">https://www.youtube.com/watch?v=2t-_7Eo4DnI</a>  
+<a href="https://www.youtube.com/watch?v=x09eqFCkhwM" target="_blank">https://www.youtube.com/watch?v=x09eqFCkhwM</a>  
+<a href="https://www.youtube.com/watch?v=HYiLzji7MuY" target="_blank">https://www.youtube.com/watch?v=HYiLzji7MuY</a>  
+<a href="http://www.youtube.com/playlist?list=PLEuFTdwwmXpxgfmkE2wXFWDatrmAUPEZk" target="_blank">http://www.youtube.com/playlist?list=PLEuFTdwwmXpxgfmkE2wXFWDatrmAUPEZk</a>  
+<a href="https://www.youtube.com/watch?v=kXTP8XqrSwE" target="_blank">https://www.youtube.com/watch?v=kXTP8XqrSwE</a>  
+<a href="https://www.youtube.com/watch?v=kXTP8XqrSwE" target="_blank">https://www.youtube.com/watch?v=kXTP8XqrSwE</a>  
+<a href="http://www.youtube.com/watch?v=M-Dcf6HhwYM" target="_blank">http://www.youtube.com/watch?v=M-Dcf6HhwYM</a>  
+<a href="https://www.youtube.com/watch?v=M-Dcf6HhwYM" target="_blank">https://www.youtube.com/watch?v=M-Dcf6HhwYM</a>  
+<a href="https://www.youtube.com/watch?v=RgJMIbAB5Yg" target="_blank">https://www.youtube.com/watch?v=RgJMIbAB5Yg</a>  
+<a href="https://www.youtube.com/watch?v=AKUH31PgJog" target="_blank">https://www.youtube.com/watch?v=AKUH31PgJog</a>  
+<a href="https://www.youtube.com/watch?v=4t6c7G7gjTI" target="_blank">https://www.youtube.com/watch?v=4t6c7G7gjTI</a>
+
+### Другие
+
+<a href="https://leanpub.com/understandinges6/read/" target="_blank">https://leanpub.com/understandinges6/read/</a>  
+<a href="http://kyivjs.org.ua/" target="_blank">http://kyivjs.org.ua/</a>  
+<a href="https://gitter.im/dev-ua/ember" target="_blank">https://gitter.im/dev-ua/ember</a>  
+<a href="https://gitter.im/dev-ua/node" target="_blank">https://gitter.im/dev-ua/node</a>  
+<a href="https://gitter.im/dev-ua/rust" target="_blank">https://gitter.im/dev-ua/rust</a>  
+<a href="https://www.joyent.com/developers/node" target="_blank">https://www.joyent.com/developers/node</a>  
+<a href="https://www.joyent.com/developers/node/design" target="_blank">https://www.joyent.com/developers/node/design</a>  
+<a href="https://www.joyent.com/developers/node/design/errors" target="_blank">https://www.joyent.com/developers/node/design/errors</a>  
+<a href="http://zombie.js.org/" target="_blank">http://zombie.js.org/</a>  
+<a href="http://aurelia.io/" target="_blank">http://aurelia.io/</a>  
+<a href="https://vimeo.com/36579366" target="_blank">https://vimeo.com/36579366</a>  
+<a href="https://vimeo.com/40929961#t=14m10s" target="_blank">https://vimeo.com/40929961#t=14m10s</a>  
+<a href="https://vimeo.com/110554082" target="_blank">https://vimeo.com/110554082</a>  
+<a href="https://changelog.com/rich-hickeys-greatest-hits/" target="_blank">https://changelog.com/rich-hickeys-greatest-hits/</a>  
+<a href="http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract" target="_blank">http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract</a>  
+<a href="http://confreaks.tv/videos/keeprubyweird14-opening-keynote" target="_blank">http://confreaks.tv/videos/keeprubyweird14-opening-keynote</a>  
+<a href="http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract" target="_blank">http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract</a>  
+<a href="http://daringfireball.net/linked/2015/05/14/facebook-instant-karma" target="_blank">http://daringfireball.net/linked/2015/05/14/facebook-instant-karma</a>  
+<a href="http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/" target="_blank">http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/</a>  
+<a href="http://artgorbunov.ru/bb/soviet/" target="_blank">http://artgorbunov.ru/bb/soviet/</a>  
+<a href="https://sites.google.com/site/steveyegge2/blog-rants" target="_blank">https://sites.google.com/site/steveyegge2/blog-rants</a>  
+<a href="https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough" target="_blank">https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough</a>  
+<a href="https://sites.google.com/site/steveyegge2/practical-magic" target="_blank">https://sites.google.com/site/steveyegge2/practical-magic</a>  
+<a href="http://steve-yegge.blogspot.com/" target="_blank">http://steve-yegge.blogspot.com/</a>  
+<a href="http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html" target="_blank">http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html</a>  
+<a href="https://plus.google.com/+RipRowan/posts/eVeouesvaVX" target="_blank">https://plus.google.com/+RipRowan/posts/eVeouesvaVX</a>  
+<a href="https://plus.google.com/+RipRowan/posts/eVeouesvaVX" target="_blank">https://plus.google.com/+RipRowan/posts/eVeouesvaVX</a>  
+<a href="http://xpinjection.com/uadevclub/" target="_blank">http://xpinjection.com/uadevclub/</a>  
+<a href="http://m.youtube.com/watch?v=SeLOt_BRAqc" target="_blank">http://m.youtube.com/watch?v=SeLOt_BRAqc</a>  
+<a href="http://www.defmacro.org/ramblings/fp.html" target="_blank">http://www.defmacro.org/ramblings/fp.html</a>  
+<a href="http://bost.ocks.org/mike/algorithms/" target="_blank">http://bost.ocks.org/mike/algorithms/</a>  
+<a href="http://gofore.com/ohjelmistokehitys/stop-using-bower/" target="_blank">http://gofore.com/ohjelmistokehitys/stop-using-bower/</a>  
+<a href="http://www.cpan.org/" target="_blank">http://www.cpan.org/</a>  
+<a href="https://pypi.python.org/pypi" target="_blank">https://pypi.python.org/pypi</a>  
+<a href="https://rubygems.org/stats" target="_blank">https://rubygems.org/stats</a>  
+<a href="https://www.npmjs.com/" target="_blank">https://www.npmjs.com/</a>  
+<a href="https://packagist.org/statistics" target="_blank">https://packagist.org/statistics</a>  
+<a href="https://search.maven.org/#stats" target="_blank">https://search.maven.org/#stats</a>  
+<a href="http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html" target="_blank">http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html</a>  
+<a href="http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html" target="_blank">http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html</a>  
+<a href="http://frameworksdays.com/event/mk-listochkin-emberjs/participants" target="_blank">http://frameworksdays.com/event/mk-listochkin-emberjs/participants</a>  
+<a href="http://www.joelonsoftware.com/" target="_blank">http://www.joelonsoftware.com/</a>  
+<a href="http://www.mast.queensu.ca/~math474/shannon1948.pdf" target="_blank">http://www.mast.queensu.ca/~math474/shannon1948.pdf</a>  
+<a href="http://dces.essex.ac.uk/technical-reports/2004/csm-411.pdf" target="_blank">http://dces.essex.ac.uk/technical-reports/2004/csm-411.pdf</a>  
+<a href="http://eldar.djafarov.com/2013/11/reactjs-mixing-with-backbone/" target="_blank">http://eldar.djafarov.com/2013/11/reactjs-mixing-with-backbone/</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942</a>  
+<a href="https://gist.github.com/listochkin/ca68471783d13a0ba95f" target="_blank">https://gist.github.com/listochkin/ca68471783d13a0ba95f</a>  
+<a href="http://xkcd.com/927/" target="_blank">http://xkcd.com/927/</a>  
+<a href="http://frontender.info/es6-in-depth-generators/" target="_blank">http://frontender.info/es6-in-depth-generators/</a>  
+<a href="http://cdn.mozilla.net/pdfjs/tracemonkey.pdf" target="_blank">http://cdn.mozilla.net/pdfjs/tracemonkey.pdf</a>  
+<a href="https://mozilla.github.io/pdf.js/" target="_blank">https://mozilla.github.io/pdf.js/</a>  
+<a href="http://habrahabr.ru/post/205878/" target="_blank">http://habrahabr.ru/post/205878/</a>  
+<a href="http://habrahabr.ru/post/249183/" target="_blank">http://habrahabr.ru/post/249183/</a>  
+<a href="http://habrahabr.ru/post/249183/" target="_blank">http://habrahabr.ru/post/249183/</a>  
+<a href="https://www.mockable.io/" target="_blank">https://www.mockable.io/</a>  
+<a href="https://parse.com/docs/rest/guide#quick-reference" target="_blank">https://parse.com/docs/rest/guide#quick-reference</a>  
+<a href="http://blog.npmjs.org/post/120036339840/npm-weekly-18" target="_blank">http://blog.npmjs.org/post/120036339840/npm-weekly-18</a>  
+<a href="http://npmjs.org/package/get-tweets" target="_blank">http://npmjs.org/package/get-tweets</a>  
+<a href="http://roy.brianmckenna.org/" target="_blank">http://roy.brianmckenna.org/</a>  
+<a href="http://headjs.ru/info#" target="_blank">http://headjs.ru/info#</a>  
+<a href="https://www.facebook.com/robert.haritonov/posts/913336762056724" target="_blank">https://www.facebook.com/robert.haritonov/posts/913336762056724</a>  
+<a href="http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/" target="_blank">http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/</a>  
+<a href="https://app.keymetrics.io/" target="_blank">https://app.keymetrics.io/</a>  
+<a href="https://jsunderhood.ru/stats/" target="_blank">https://jsunderhood.ru/stats/</a>  
+<a href="http://www.raywenderlich.com/" target="_blank">http://www.raywenderlich.com/</a>  
+<a href="http://martinfowler.com/articles/microservices.html" target="_blank">http://martinfowler.com/articles/microservices.html</a>  
+<a href="http://martinfowler.com/bliki/MicroservicePremium.html" target="_blank">http://martinfowler.com/bliki/MicroservicePremium.html</a>  
+<a href="http://nginx.com/resources/library/oreilly-building-microservices/" target="_blank">http://nginx.com/resources/library/oreilly-building-microservices/</a>  
+<a href="https://medium.com/@jliszka/good-tech-lead-bad-tech-lead-948b2b806d86" target="_blank">https://medium.com/@jliszka/good-tech-lead-bad-tech-lead-948b2b806d86</a>  
+<a href="http://batsov.com/about/" target="_blank">http://batsov.com/about/</a>  
+<a href="http://odessajs.org.ua/" target="_blank">http://odessajs.org.ua/</a>

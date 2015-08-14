@@ -247,3 +247,15 @@ RT <a href="https://twitter.com/tproger" title="Типичный програм�
 Последний на посту! Чего рассказать вам?:)
 
 .<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> чья-то дочь:)
+
+## Ссылки
+
+<a href="https://github.com/verybigman" target="_blank">https://github.com/verybigman</a>  
+<a href="https://github.com/bem/bem-forms" target="_blank">https://github.com/bem/bem-forms</a>  
+<a href="http://frontendconf.ru/2015/abstracts/1723" target="_blank">http://frontendconf.ru/2015/abstracts/1723</a>  
+<a href="https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier" target="_blank">https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier</a>  
+<a href="http://akshaykumar6.github.io/github-js/" target="_blank">http://akshaykumar6.github.io/github-js/</a>  
+<a href="http://www.youtube.com/watch?v=fQuImk7VvMg" target="_blank">http://www.youtube.com/watch?v=fQuImk7VvMg</a>  
+<a href="http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-" target="_blank">http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-</a>  
+<a href="http://wamer.net/sketch" target="_blank">http://wamer.net/sketch</a>  
+<a href="http://meandmax.github.io/lory" target="_blank">http://meandmax.github.io/lory</a>

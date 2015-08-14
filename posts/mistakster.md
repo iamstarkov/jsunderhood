@@ -960,3 +960,77 @@ RT <a href="https://twitter.com/verylazydreamer" title="Ziyadin Shemsedinov">@ve
 На этой неделе с вами был Владимир <a href="https://twitter.com/mistakster" title="Vladimir Kuznetsov">@mistakster</a> (он же <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a>).
 
 Ciao!
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/http2/http2-spec/wiki/Implementations" target="_blank">https://github.com/http2/http2-spec/wiki/Implementations</a>  
+<a href="https://github.com/webpack/url-loader" target="_blank">https://github.com/webpack/url-loader</a>  
+<a href="https://github.com/rambler-digital-solutions/rambler-webpack-boilerplate" target="_blank">https://github.com/rambler-digital-solutions/rambler-webpack-boilerplate</a>  
+<a href="https://github.com/amdjs/amdjs-api/blob/master/LoaderPlugins.md" target="_blank">https://github.com/amdjs/amdjs-api/blob/master/LoaderPlugins.md</a>  
+<a href="https://github.com/Ser-Gen/postcss-data-packer" target="_blank">https://github.com/Ser-Gen/postcss-data-packer</a>  
+<a href="https://github.com/graphql/graphql-js" target="_blank">https://github.com/graphql/graphql-js</a>  
+<a href="https://github.com/h5bp/server-configs-nginx/blob/master/h5bp/location/cache-busting.conf" target="_blank">https://github.com/h5bp/server-configs-nginx/blob/master/h5bp/location/cache-busting.conf</a>  
+<a href="https://github.com/webpack/react-webpack-server-side-example" target="_blank">https://github.com/webpack/react-webpack-server-side-example</a>  
+<a href="https://github.com/adobe-research/theseus" target="_blank">https://github.com/adobe-research/theseus</a>  
+<a href="https://github.com/rockncoders" target="_blank">https://github.com/rockncoders</a>  
+<a href="https://github.com/alexeyraspopov" target="_blank">https://github.com/alexeyraspopov</a>  
+<a href="https://github.com/karmazzin/eloquentjavascript_ru" target="_blank">https://github.com/karmazzin/eloquentjavascript_ru</a>  
+<a href="https://github.com/delka/html5checklist" target="_blank">https://github.com/delka/html5checklist</a>
+
+### Другие
+
+<a href="http://i.imgur.com/MB4oSDO.gif" target="_blank">http://i.imgur.com/MB4oSDO.gif</a>  
+<a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi" target="_blank">https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi</a>  
+<a href="https://developer.chrome.com/devtools/docs/javascript-memory-profiling" target="_blank">https://developer.chrome.com/devtools/docs/javascript-memory-profiling</a>  
+<a href="https://www.startssl.com/" target="_blank">https://www.startssl.com/</a>  
+<a href="https://buy.wosign.com/free/" target="_blank">https://buy.wosign.com/free/</a>  
+<a href="http://bit.ly/1NKEaYe" target="_blank">http://bit.ly/1NKEaYe</a>  
+<a href="https://letsencrypt.org/" target="_blank">https://letsencrypt.org/</a>  
+<a href="https://forum.startcom.org/viewtopic.php?f=15&t=15929" target="_blank">https://forum.startcom.org/viewtopic.php?f=15&t=15929</a>  
+<a href="https://community.qualys.com/blogs/securitylabs/2014/09/09/sha1-deprecation-what-you-need-to-know" target="_blank">https://community.qualys.com/blogs/securitylabs/2014/09/09/sha1-deprecation-what-you-need-to-know</a>  
+<a href="http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html" target="_blank">http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html</a>  
+<a href="http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html" target="_blank">http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html</a>  
+<a href="https://mozilla.github.io/server-side-tls/ssl-config-generator" target="_blank">https://mozilla.github.io/server-side-tls/ssl-config-generator</a>  
+<a href="https://www.ssllabs.com/ssltest" target="_blank">https://www.ssllabs.com/ssltest</a>  
+<a href="https://www.ssllabs.com/downloads/SSL_Server_Rating_Guide.pdf" target="_blank">https://www.ssllabs.com/downloads/SSL_Server_Rating_Guide.pdf</a>  
+<a href="https://goo.gl/eYKQms" target="_blank">https://goo.gl/eYKQms</a>  
+<a href="https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/" target="_blank">https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/</a>  
+<a href="https://http2.akamai.com/demo" target="_blank">https://http2.akamai.com/demo</a>  
+<a href="https://ihc.ru/http2/?utm_source=twitter.com&utm_medium=social&utm_campaign=jsunderhood" target="_blank">https://ihc.ru/http2/?utm_source=twitter.com&utm_medium=social&utm_campaign=jsunderhood</a>  
+<a href="http://youtu.be/_h7M1KA7aAI" target="_blank">http://youtu.be/_h7M1KA7aAI</a>  
+<a href="https://www.globalsign.com/en/ssl/ssl-open-source/" target="_blank">https://www.globalsign.com/en/ssl/ssl-open-source/</a>  
+<a href="https://www.youtube.com/watch?v=yURLTwZ3ehk" target="_blank">https://www.youtube.com/watch?v=yURLTwZ3ehk</a>  
+<a href="https://www.youtube.com/watch?v=IrgHurBjQbg" target="_blank">https://www.youtube.com/watch?v=IrgHurBjQbg</a>  
+<a href="https://www.youtube.com/watch?v=WQLzZf34FJ8" target="_blank">https://www.youtube.com/watch?v=WQLzZf34FJ8</a>  
+<a href="https://www.youtube.com/watch?v=iBHr8gKc5L8" target="_blank">https://www.youtube.com/watch?v=iBHr8gKc5L8</a>  
+<a href="https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present" target="_blank">https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present</a>  
+<a href="http://mtrpl.ru/troubles" target="_blank">http://mtrpl.ru/troubles</a>  
+<a href="http://habrahabr.ru/post/260249/" target="_blank">http://habrahabr.ru/post/260249/</a>  
+<a href="https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility" target="_blank">https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility</a>  
+<a href="http://chimera.labs.oreilly.com/books/1230000000545/index.html" target="_blank">http://chimera.labs.oreilly.com/books/1230000000545/index.html</a>  
+<a href="https://nghttp2.org/" target="_blank">https://nghttp2.org/</a>  
+<a href="http://webpack.github.io/docs/code-splitting.html#require" target="_blank">http://webpack.github.io/docs/code-splitting.html#require</a>  
+<a href="http://webpack.github.io/docs/hot-module-replacement-with-webpack.html" target="_blank">http://webpack.github.io/docs/hot-module-replacement-with-webpack.html</a>  
+<a href="http://webpack.github.io/docs/hot-module-replacement-with-webpack.html" target="_blank">http://webpack.github.io/docs/hot-module-replacement-with-webpack.html</a>  
+<a href="https://gist.github.com/Olegas/26d059a9b16514828b3a" target="_blank">https://gist.github.com/Olegas/26d059a9b16514828b3a</a>  
+<a href="https://gist.github.com/mistakster/2e1aa0247005b675fe98" target="_blank">https://gist.github.com/mistakster/2e1aa0247005b675fe98</a>  
+<a href="https://gist.github.com/mistakster/1dd845b617fb3a3f7dbb" target="_blank">https://gist.github.com/mistakster/1dd845b617fb3a3f7dbb</a>  
+<a href="https://gist.github.com/mistakster/9c07bb8925d5a66b6324" target="_blank">https://gist.github.com/mistakster/9c07bb8925d5a66b6324</a>  
+<a href="http://radiojs.ru/2015/07/radiojs-27/" target="_blank">http://radiojs.ru/2015/07/radiojs-27/</a>  
+<a href="https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html" target="_blank">https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html</a>  
+<a href="http://facebook.github.io/graphql/" target="_blank">http://facebook.github.io/graphql/</a>  
+<a href="http://www.paulirish.com/contact-me/" target="_blank">http://www.paulirish.com/contact-me/</a>  
+<a href="https://en.wikipedia.org/wiki/Flash_of_unstyled_content" target="_blank">https://en.wikipedia.org/wiki/Flash_of_unstyled_content</a>  
+<a href="http://www.bizikov.ru/" target="_blank">http://www.bizikov.ru/</a>  
+<a href="http://css-live.ru/" target="_blank">http://css-live.ru/</a>  
+<a href="http://theoatmeal.com/comics/follow_friday" target="_blank">http://theoatmeal.com/comics/follow_friday</a>  
+<a href="https://www.jetbrains.com/idea/help/running-and-debugging-node-js.html" target="_blank">https://www.jetbrains.com/idea/help/running-and-debugging-node-js.html</a>  
+<a href="http://fronttalks.ru/" target="_blank">http://fronttalks.ru/</a>  
+<a href="http://nodeschool.io/spb/" target="_blank">http://nodeschool.io/spb/</a>  
+<a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" target="_blank">https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F</a>  
+<a href="https://www.safaribooksonline.com/library/view/javascript-the-good/9780596517748/" target="_blank">https://www.safaribooksonline.com/library/view/javascript-the-good/9780596517748/</a>  
+<a href="https://www.safaribooksonline.com/library/view/javascript-the-definitive/9781449393854/" target="_blank">https://www.safaribooksonline.com/library/view/javascript-the-definitive/9781449393854/</a>  
+<a href="https://academy.yandex.ru/events/shri/msk-2015/" target="_blank">https://academy.yandex.ru/events/shri/msk-2015/</a>  
+<a href="http://dou.ua/lenta/articles/welcome-to-kyiv-companies" target="_blank">http://dou.ua/lenta/articles/welcome-to-kyiv-companies</a>  
+<a href="http://webdevchecklist.ru/" target="_blank">http://webdevchecklist.ru/</a>

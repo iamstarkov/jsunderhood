@@ -1062,3 +1062,122 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 так и живём :)
 
 ещё увидимся в каком-нибудь cljsunderhood. логаут.
+
+## Ссылки
+
+### facebook.github.io  
+<a href="https://facebook.github.io/react/docs/top-level-api.html" target="_blank">https://facebook.github.io/react/docs/top-level-api.html</a>  
+<a href="https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html" target="_blank">https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html</a>  
+<a href="https://facebook.github.io/react/docs/why-react.html" target="_blank">https://facebook.github.io/react/docs/why-react.html</a>  
+<a href="https://facebook.github.io/react/docs/test-utils.html" target="_blank">https://facebook.github.io/react/docs/test-utils.html</a>  
+<a href="https://facebook.github.io/react/docs/test-utils.html" target="_blank">https://facebook.github.io/react/docs/test-utils.html</a>  
+### github.com  
+<a href="https://github.com/css-modules/css-modules/blob/master/examples/theming.md#theming" target="_blank">https://github.com/css-modules/css-modules/blob/master/examples/theming.md#theming</a>  
+<a href="https://github.com/webpack/css-loader#local-scope" target="_blank">https://github.com/webpack/css-loader#local-scope</a>  
+<a href="https://github.com/css-modules" target="_blank">https://github.com/css-modules</a>  
+<a href="https://github.com/yummies/yummies" target="_blank">https://github.com/yummies/yummies</a>  
+<a href="https://github.com/yummies/babel-plugin-yummies" target="_blank">https://github.com/yummies/babel-plugin-yummies</a>  
+<a href="https://github.com/yummies/generator-yummies-repo/blob/master/app/templates/CONTRIBUTING.md#commit-emojis" target="_blank">https://github.com/yummies/generator-yummies-repo/blob/master/app/templates/CONTRIBUTING.md#commit-emojis</a>  
+<a href="https://github.com/cdebotton/react-universal" target="_blank">https://github.com/cdebotton/react-universal</a>  
+<a href="https://github.com/yummies/yummies#overview" target="_blank">https://github.com/yummies/yummies#overview</a>  
+<a href="https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6" target="_blank">https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6</a>  
+<a href="https://github.com/yummies/babel-plugin-yummies" target="_blank">https://github.com/yummies/babel-plugin-yummies</a>  
+<a href="https://github.com/yummies/theme-reset" target="_blank">https://github.com/yummies/theme-reset</a>  
+<a href="https://github.com/yummies/babel-plugin-yummies#mods" target="_blank">https://github.com/yummies/babel-plugin-yummies#mods</a>  
+<a href="https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6" target="_blank">https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6</a>  
+<a href="https://github.com/yummies/starter-kit" target="_blank">https://github.com/yummies/starter-kit</a>  
+<a href="https://github.com/sebmarkbage/ecmascript-rest-spread" target="_blank">https://github.com/sebmarkbage/ecmascript-rest-spread</a>  
+<a href="https://github.com/tc39/ecma262" target="_blank">https://github.com/tc39/ecma262</a>  
+<a href="https://github.com/luisfarzati/json-chance" target="_blank">https://github.com/luisfarzati/json-chance</a>  
+<a href="https://github.com/xgrommx/awesome-redux" target="_blank">https://github.com/xgrommx/awesome-redux</a>  
+<a href="https://github.com/facebook/immutable-js/tree/master/contrib/cursor" target="_blank">https://github.com/facebook/immutable-js/tree/master/contrib/cursor</a>  
+<a href="https://github.com/Yomguithereal/baobab" target="_blank">https://github.com/Yomguithereal/baobab</a>  
+<a href="https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23" target="_blank">https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23</a>  
+<a href="https://github.com/sindresorhus" target="_blank">https://github.com/sindresorhus</a>  
+<a href="https://github.com/sindresorhus/cat-names" target="_blank">https://github.com/sindresorhus/cat-names</a>  
+<a href="https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L14-L16" target="_blank">https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L14-L16</a>  
+<a href="https://github.com/gaearon/redux/blob/improve-docs/docs/store.md" target="_blank">https://github.com/gaearon/redux/blob/improve-docs/docs/store.md</a>  
+<a href="https://github.com/alexeyraspopov/flux-stateful" target="_blank">https://github.com/alexeyraspopov/flux-stateful</a>  
+<a href="https://github.com/yahoo/react-intl" target="_blank">https://github.com/yahoo/react-intl</a>  
+<a href="https://github.com/piranha/puttext" target="_blank">https://github.com/piranha/puttext</a>  
+<a href="https://github.com/bevacqua/woofmark" target="_blank">https://github.com/bevacqua/woofmark</a>  
+<a href="https://github.com/RickWong/react-isomorphic-starterkit" target="_blank">https://github.com/RickWong/react-isomorphic-starterkit</a>  
+<a href="https://github.com/webpack/react-starter" target="_blank">https://github.com/webpack/react-starter</a>  
+<a href="https://github.com/DavidWells/isomorphic-react-example" target="_blank">https://github.com/DavidWells/isomorphic-react-example</a>  
+<a href="https://github.com/rackt/react-router" target="_blank">https://github.com/rackt/react-router</a>  
+<a href="https://github.com/matthew-andrews/isomorphic-fetch" target="_blank">https://github.com/matthew-andrews/isomorphic-fetch</a>  
+<a href="https://github.com/facebook/react/issues/3009" target="_blank">https://github.com/facebook/react/issues/3009</a>  
+<a href="https://github.com/douglasduteil/isparta/issues/31#issuecomment-123894638" target="_blank">https://github.com/douglasduteil/isparta/issues/31#issuecomment-123894638</a>  
+<a href="https://github.com/deepsweet/istanbul-instrumenter-loader" target="_blank">https://github.com/deepsweet/istanbul-instrumenter-loader</a>  
+<a href="https://github.com/deepsweet/isparta-loader" target="_blank">https://github.com/deepsweet/isparta-loader</a>  
+<a href="https://github.com/tmpvar/jsdom" target="_blank">https://github.com/tmpvar/jsdom</a>  
+<a href="https://github.com/rstacruz/mocha-jsdom" target="_blank">https://github.com/rstacruz/mocha-jsdom</a>  
+<a href="https://github.com/erikras/react-redux-universal-hot-example" target="_blank">https://github.com/erikras/react-redux-universal-hot-example</a>  
+<a href="https://github.com/ShpuntiK/isomorphic-app-sample" target="_blank">https://github.com/ShpuntiK/isomorphic-app-sample</a>  
+<a href="https://github.com/babel/babel/tree/master/packages/babylon" target="_blank">https://github.com/babel/babel/tree/master/packages/babylon</a>  
+<a href="https://github.com/codemix/babel-plugin-typecheck" target="_blank">https://github.com/codemix/babel-plugin-typecheck</a>  
+<a href="https://github.com/babel/babel/blob/master/packages/babel/src/util.js" target="_blank">https://github.com/babel/babel/blob/master/packages/babel/src/util.js</a>  
+<a href="https://github.com/babel-plugins/babel-plugin-flow-comments" target="_blank">https://github.com/babel-plugins/babel-plugin-flow-comments</a>  
+<a href="https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23" target="_blank">https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23</a>  
+<a href="https://github.com/rambler-digital-solutions/superagent-mocker" target="_blank">https://github.com/rambler-digital-solutions/superagent-mocker</a>  
+<a href="https://github.com/Microsoft/TypeScript/wiki/Roadmap" target="_blank">https://github.com/Microsoft/TypeScript/wiki/Roadmap</a>  
+<a href="https://github.com/Yomguithereal/baobab/wiki/Select-state" target="_blank">https://github.com/Yomguithereal/baobab/wiki/Select-state</a>  
+<a href="https://github.com/Yomguithereal/baobab/tree/v2" target="_blank">https://github.com/Yomguithereal/baobab/tree/v2</a>  
+<a href="https://github.com/gaearon/redux/tree/rewrite-docs" target="_blank">https://github.com/gaearon/redux/tree/rewrite-docs</a>  
+<a href="https://github.com/mquan/cortex" target="_blank">https://github.com/mquan/cortex</a>  
+<a href="https://github.com/enaqx/awesome-react#data-managing" target="_blank">https://github.com/enaqx/awesome-react#data-managing</a>  
+<a href="https://github.com/tonsky/datascript" target="_blank">https://github.com/tonsky/datascript</a>  
+<a href="https://github.com/aserg-ufmg/JSCity/wiki/JSCITY" target="_blank">https://github.com/aserg-ufmg/JSCity/wiki/JSCITY</a>  
+<a href="https://github.com/chriso/validator.js" target="_blank">https://github.com/chriso/validator.js</a>  
+<a href="https://github.com/gcanti/tcomb-form" target="_blank">https://github.com/gcanti/tcomb-form</a>  
+<a href="https://github.com/insin/newforms" target="_blank">https://github.com/insin/newforms</a>  
+<a href="https://github.com/mistadikay/react-auto-fetching-example/blob/doob/src/components/product/index.es6#L8-L17" target="_blank">https://github.com/mistadikay/react-auto-fetching-example/blob/doob/src/components/product/index.es6#L8-L17</a>  
+<a href="https://github.com/christianalfoni/formsy-react" target="_blank">https://github.com/christianalfoni/formsy-react</a>  
+<a href="https://github.com/mistadikay/doob" target="_blank">https://github.com/mistadikay/doob</a>  
+<a href="https://github.com/teropa/angular-virtual-dom" target="_blank">https://github.com/teropa/angular-virtual-dom</a>  
+<a href="https://github.com/babel/babel-eslint" target="_blank">https://github.com/babel/babel-eslint</a>  
+<a href="https://github.com/babel/eslint-plugin-babel" target="_blank">https://github.com/babel/eslint-plugin-babel</a>  
+<a href="https://github.com/yannickcr/eslint-plugin-react" target="_blank">https://github.com/yannickcr/eslint-plugin-react</a>  
+<a href="https://github.com/estree/estree" target="_blank">https://github.com/estree/estree</a>  
+<a href="https://github.com/typicode/husky" target="_blank">https://github.com/typicode/husky</a>  
+<a href="https://github.com/beeftornado/homebrew-rmtree" target="_blank">https://github.com/beeftornado/homebrew-rmtree</a>  
+<a href="https://github.com/facebook/flow/issues/277#event-338421297" target="_blank">https://github.com/facebook/flow/issues/277#event-338421297</a>  
+<a href="https://github.com/codemix/babel-plugin-typecheck" target="_blank">https://github.com/codemix/babel-plugin-typecheck</a>  
+<a href="https://github.com/gcanti/flowcheck" target="_blank">https://github.com/gcanti/flowcheck</a>  
+<a href="https://github.com/gaearon/flowcheck-loader" target="_blank">https://github.com/gaearon/flowcheck-loader</a>  
+<a href="https://github.com/babel/babel/issues/1851" target="_blank">https://github.com/babel/babel/issues/1851</a>  
+### medium.com  
+<a href="https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852" target="_blank">https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852</a>  
+<a href="https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2" target="_blank">https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2</a>  
+<a href="https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247" target="_blank">https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247</a>  
+<a href="https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852" target="_blank">https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852</a>  
+<a href="https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4" target="_blank">https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4</a>
+
+### Другие
+
+<a href="https://gist.github.com/deepsweet/15c8f2eb3a85004adad0" target="_blank">https://gist.github.com/deepsweet/15c8f2eb3a85004adad0</a>  
+<a href="https://gist.github.com/afitiskin/a65c26ff923d13788980" target="_blank">https://gist.github.com/afitiskin/a65c26ff923d13788980</a>  
+<a href="http://xgrommx.github.io/rx-book/content/similar_libraries/index.html" target="_blank">http://xgrommx.github.io/rx-book/content/similar_libraries/index.html</a>  
+<a href="https://www.youtube.com/watch?v=I7IdS-PbEgI" target="_blank">https://www.youtube.com/watch?v=I7IdS-PbEgI</a>  
+<a href="http://www.youtube.com/watch?v=lDkrXTDwbJQ" target="_blank">http://www.youtube.com/watch?v=lDkrXTDwbJQ</a>  
+<a href="http://www.youtube.com/watch?v=tUtLe1VlkYc" target="_blank">http://www.youtube.com/watch?v=tUtLe1VlkYc</a>  
+<a href="https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0" target="_blank">https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0</a>  
+<a href="http://codepen.io/SitePoint/pen/VLXyZw" target="_blank">http://codepen.io/SitePoint/pen/VLXyZw</a>  
+<a href="http://koajs.com/" target="_blank">http://koajs.com/</a>  
+<a href="http://visionmedia.github.com/superagent/" target="_blank">http://visionmedia.github.com/superagent/</a>  
+<a href="http://bit.ly/1TPnKSn" target="_blank">http://bit.ly/1TPnKSn</a>  
+<a href="https://webpack.github.io/docs/library-and-externals.html" target="_blank">https://webpack.github.io/docs/library-and-externals.html</a>  
+<a href="https://jsunderhood.ru/" target="_blank">https://jsunderhood.ru/</a>  
+<a href="https://jsunderhood.ru/deepsweet" target="_blank">https://jsunderhood.ru/deepsweet</a>  
+<a href="http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome" target="_blank">http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome</a>  
+<a href="http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/" target="_blank">http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/</a>  
+<a href="http://pioneerjs.com/" target="_blank">http://pioneerjs.com/</a>  
+<a href="http://shpuntik.github.io/isomorphic-apps-presentation" target="_blank">http://shpuntik.github.io/isomorphic-apps-presentation</a>  
+<a href="http://flowtype.org/docs/quick-reference.html" target="_blank">http://flowtype.org/docs/quick-reference.html</a>  
+<a href="http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/" target="_blank">http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/</a>  
+<a href="http://status.coveralls.io/" target="_blank">http://status.coveralls.io/</a>  
+<a href="http://eslint.org/blog/2015/07/eslint-1.0.0-rc-3-released/#reset-is-now-the-default" target="_blank">http://eslint.org/blog/2015/07/eslint-1.0.0-rc-3-released/#reset-is-now-the-default</a>  
+<a href="http://eslint.org/docs/rules/" target="_blank">http://eslint.org/docs/rules/</a>  
+<a href="http://replygif.net/i/100.gif" target="_blank">http://replygif.net/i/100.gif</a>  
+<a href="http://www.140byt.es/" target="_blank">http://www.140byt.es/</a>  
+<a href="https://jsfiddle.net/trnt/savrdygy/" target="_blank">https://jsfiddle.net/trnt/savrdygy/</a>

@@ -631,3 +631,33 @@ RT <a href="https://twitter.com/voxpuibr" title="Stanislav Shabalin">@voxpuibr</
 На этой неделе с вами был @matmuchrapna. Я многое успел рассказать и эфиры прошли хорошо, спасибо вам!
 
 Ну и напоследок оставлю тут неподражаемого Пола Тейлора <a href="https://twitter.com/blastingbrains" title="Stephen Paul Taylor">@blastingbrains</a> <a href="http://t.co/A3ADtd5MNz">youtu.be/NWxISwEBU0U</a>
+
+## Ссылки
+
+<a href="http://frontender.info/MindBEMding/" target="_blank">http://frontender.info/MindBEMding/</a>  
+<a href="http://frontender.info/" target="_blank">http://frontender.info/</a>  
+<a href="https://github.com/matmuchrapna/CSS-guidelines" target="_blank">https://github.com/matmuchrapna/CSS-guidelines</a>  
+<a href="https://github.com/europrapor/europrapor" target="_blank">https://github.com/europrapor/europrapor</a>  
+<a href="http://browser.yandex.ru/" target="_blank">http://browser.yandex.ru/</a>  
+<a href="https://www.npmjs.com/package/deps-graph" target="_blank">https://www.npmjs.com/package/deps-graph</a>  
+<a href="https://www.npmjs.com/package/gulp-bem" target="_blank">https://www.npmjs.com/package/gulp-bem</a>  
+<a href="http://getbem.com/" target="_blank">http://getbem.com/</a>  
+<a href="http://blackbox.fbk.info/" target="_blank">http://blackbox.fbk.info/</a>  
+<a href="http://largescalejs.ru/" target="_blank">http://largescalejs.ru/</a>  
+<a href="http://www.bbc.com/news/health-29755469" target="_blank">http://www.bbc.com/news/health-29755469</a>  
+<a href="http://goo.gl/GNbBU4" target="_blank">http://goo.gl/GNbBU4</a>  
+<a href="https://en.wikipedia.org/wiki/Pomodoro_Technique" target="_blank">https://en.wikipedia.org/wiki/Pomodoro_Technique</a>  
+<a href="http://ksoftware.livejournal.com/291683.html" target="_blank">http://ksoftware.livejournal.com/291683.html</a>  
+<a href="http://ksoftware.livejournal.com/282745.html" target="_blank">http://ksoftware.livejournal.com/282745.html</a>  
+<a href="http://muzobzor.ru/blog" target="_blank">http://muzobzor.ru/blog</a>  
+<a href="https://appsto.re/ru/AfI4Q.i" target="_blank">https://appsto.re/ru/AfI4Q.i</a>  
+<a href="https://learnboost.github.io/stylus/" target="_blank">https://learnboost.github.io/stylus/</a>  
+<a href="https://chrome.google.com/webstore/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk" target="_blank">https://chrome.google.com/webstore/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk</a>  
+<a href="http://www.chelmuseum.ru/admin/" target="_blank">http://www.chelmuseum.ru/admin/</a>  
+<a href="http://habrahabr.ru/post/243939/" target="_blank">http://habrahabr.ru/post/243939/</a>  
+<a href="http://www.deadmau5.com/" target="_blank">http://www.deadmau5.com/</a>  
+<a href="http://vstarkov.ru/opengraph/" target="_blank">http://vstarkov.ru/opengraph/</a>  
+<a href="https://www.youtube.com/watch?v=oUXj5bZcNaY" target="_blank">https://www.youtube.com/watch?v=oUXj5bZcNaY</a>  
+<a href="https://hh.ru/safety" target="_blank">https://hh.ru/safety</a>  
+<a href="http://carl.flax.ie/dothingstellpeople.html" target="_blank">http://carl.flax.ie/dothingstellpeople.html</a>  
+<a href="http://youtu.be/NWxISwEBU0U" target="_blank">http://youtu.be/NWxISwEBU0U</a>

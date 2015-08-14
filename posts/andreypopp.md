@@ -274,3 +274,27 @@ var - legacy
 RT <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Расскажи, пожалуйста, про своё рабочее окружение, IDE, какие-нибудь полезные инстументы, которыми ты часто пользу…
 
 . <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a> vim
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/facebook/react/pull/2877" target="_blank">https://github.com/facebook/react/pull/2877</a>  
+<a href="https://github.com/prometheusresearch/webtest" target="_blank">https://github.com/prometheusresearch/webtest</a>  
+<a href="https://github.com/andreypopp/autobind-decorator/blob/master/Makefile" target="_blank">https://github.com/andreypopp/autobind-decorator/blob/master/Makefile</a>  
+<a href="https://github.com/andreypopp/rethemeable" target="_blank">https://github.com/andreypopp/rethemeable</a>  
+<a href="https://github.com/css-modules/css-modules" target="_blank">https://github.com/css-modules/css-modules</a>  
+<a href="https://github.com/insin/react-heatpack" target="_blank">https://github.com/insin/react-heatpack</a>
+
+### Другие
+
+<a href="http://elm-lang.org/blog/blazing-fast-html" target="_blank">http://elm-lang.org/blog/blazing-fast-html</a>  
+<a href="http://bit.ly/1M5EeV2" target="_blank">http://bit.ly/1M5EeV2</a>  
+<a href="http://alexott.net/ru/fp/books/" target="_blank">http://alexott.net/ru/fp/books/</a>  
+<a href="http://cycle.js.org/" target="_blank">http://cycle.js.org/</a>  
+<a href="http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf" target="_blank">http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf</a>  
+<a href="http://swarmjs.github.io/" target="_blank">http://swarmjs.github.io/</a>  
+<a href="http://swarmjs.github.io/articles/lamport/" target="_blank">http://swarmjs.github.io/articles/lamport/</a>  
+<a href="https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type" target="_blank">https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type</a>  
+<a href="http://htsql.org/doc/overview.html#what-is-htsql" target="_blank">http://htsql.org/doc/overview.html#what-is-htsql</a>  
+<a href="http://docs.datomic.com/query.html" target="_blank">http://docs.datomic.com/query.html</a>  
+<a href="https://www.reddit.com/r/javascript/comments/3df2qm/interested_in_babel_with_nonstandard_features/" target="_blank">https://www.reddit.com/r/javascript/comments/3df2qm/interested_in_babel_with_nonstandard_features/</a>

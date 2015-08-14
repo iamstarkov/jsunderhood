@@ -283,3 +283,74 @@ RT <a href="https://twitter.com/prbigbrother" title="Alexandru Capatina">@prbigb
 Добротный туториал об npm модулях на ES6 <a href="http://t.co/heBIbXlyw2">habrahabr.ru/post/252389/</a>
 
 Библиотека функций высшего порядка для итераторов из ES6 <a href="https://t.co/47t0qUJsky">fitzgen.github.io/wu.js/</a>
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/cujojs/most" target="_blank">https://github.com/cujojs/most</a>  
+<a href="https://github.com/idmitriev/hypr" target="_blank">https://github.com/idmitriev/hypr</a>  
+<a href="https://github.com/omcljs/om" target="_blank">https://github.com/omcljs/om</a>  
+<a href="https://github.com/Reactive-Extensions/RxJS#why-rxjs" target="_blank">https://github.com/Reactive-Extensions/RxJS#why-rxjs</a>  
+<a href="https://github.com/ubolonton/js-csp" target="_blank">https://github.com/ubolonton/js-csp</a>  
+<a href="https://github.com/johnmccutchan/ecmascript_simd" target="_blank">https://github.com/johnmccutchan/ecmascript_simd</a>  
+<a href="https://github.com/DanBrooker/file-icons/pull/124" target="_blank">https://github.com/DanBrooker/file-icons/pull/124</a>  
+<a href="https://github.com/poteto/emberconf-2015" target="_blank">https://github.com/poteto/emberconf-2015</a>  
+### habrahabr.ru  
+<a href="http://habrahabr.ru/hub/funcprog/" target="_blank">http://habrahabr.ru/hub/funcprog/</a>  
+<a href="http://habrahabr.ru/search/?q=%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F+%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9" target="_blank">http://habrahabr.ru/search/?q=%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F+%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9</a>  
+<a href="http://habrahabr.ru/post/245797/" target="_blank">http://habrahabr.ru/post/245797/</a>  
+<a href="http://habrahabr.ru/post/251835/" target="_blank">http://habrahabr.ru/post/251835/</a>  
+<a href="http://habrahabr.ru/post/252389/" target="_blank">http://habrahabr.ru/post/252389/</a>  
+### wiki.ecmascript.org  
+<a href="http://wiki.ecmascript.org/" target="_blank">http://wiki.ecmascript.org/</a>  
+<a href="http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects" target="_blank">http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects</a>  
+<a href="http://wiki.ecmascript.org/doku.php?id=strawman:batch_assignment_operator" target="_blank">http://wiki.ecmascript.org/doku.php?id=strawman:batch_assignment_operator</a>  
+<a href="http://wiki.ecmascript.org/doku.php?id=strawman:guards" target="_blank">http://wiki.ecmascript.org/doku.php?id=strawman:guards</a>  
+<a href="http://wiki.ecmascript.org/doku.php?id=strawman:shorter_function_syntax" target="_blank">http://wiki.ecmascript.org/doku.php?id=strawman:shorter_function_syntax</a>  
+<a href="http://wiki.ecmascript.org/doku.php?id=strawman:records" target="_blank">http://wiki.ecmascript.org/doku.php?id=strawman:records</a>  
+<a href="http://wiki.ecmascript.org/doku.php?id=strawman:tuples" target="_blank">http://wiki.ecmascript.org/doku.php?id=strawman:tuples</a>  
+### www.youtube.com  
+<a href="https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos" target="_blank">https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos</a>  
+<a href="https://www.youtube.com/watch?v=m3svKOdZijA" target="_blank">https://www.youtube.com/watch?v=m3svKOdZijA</a>  
+<a href="https://www.youtube.com/watch?v=AvgwKjTPMmM" target="_blank">https://www.youtube.com/watch?v=AvgwKjTPMmM</a>  
+<a href="https://www.youtube.com/watch?v=mtVk8RjvP_U" target="_blank">https://www.youtube.com/watch?v=mtVk8RjvP_U</a>  
+<a href="https://www.youtube.com/watch?v=ZhuHCtR3xq8" target="_blank">https://www.youtube.com/watch?v=ZhuHCtR3xq8</a>  
+<a href="https://www.youtube.com/watch?v=FAZJsxcykPs" target="_blank">https://www.youtube.com/watch?v=FAZJsxcykPs</a>  
+<a href="https://www.youtube.com/watch?v=SiFwRtCnxv4" target="_blank">https://www.youtube.com/watch?v=SiFwRtCnxv4</a>  
+<a href="https://www.youtube.com/watch?v=W2DgDNQZOwo" target="_blank">https://www.youtube.com/watch?v=W2DgDNQZOwo</a>  
+<a href="https://www.youtube.com/watch?v=tt2iU2TebBM" target="_blank">https://www.youtube.com/watch?v=tt2iU2TebBM</a>  
+<a href="https://www.youtube.com/user/ngconfvideos/videos" target="_blank">https://www.youtube.com/user/ngconfvideos/videos</a>
+
+### Другие
+
+<a href="https://events.yandex.ru/lib/talks/559/" target="_blank">https://events.yandex.ru/lib/talks/559/</a>  
+<a href="https://events.yandex.ru/lib/talks/1447/" target="_blank">https://events.yandex.ru/lib/talks/1447/</a>  
+<a href="http://webukovel.org.ua/" target="_blank">http://webukovel.org.ua/</a>  
+<a href="http://www.lvivjs.org.ua/" target="_blank">http://www.lvivjs.org.ua/</a>  
+<a href="http://jsug-lviv.blogspot.com/" target="_blank">http://jsug-lviv.blogspot.com/</a>  
+<a href="http://fluentconf.com/fluent2014/public/content/convince-manager" target="_blank">http://fluentconf.com/fluent2014/public/content/convince-manager</a>  
+<a href="https://baconjs.github.io/" target="_blank">https://baconjs.github.io/</a>  
+<a href="http://reactive-extensions.github.io/RxJS/" target="_blank">http://reactive-extensions.github.io/RxJS/</a>  
+<a href="http://ramdajs.com/" target="_blank">http://ramdajs.com/</a>  
+<a href="http://jsbin.com/finiziyulo/1/" target="_blank">http://jsbin.com/finiziyulo/1/</a>  
+<a href="http://jhusain.github.io/learnrx/" target="_blank">http://jhusain.github.io/learnrx/</a>  
+<a href="https://frontendmasters.com/courses/functional-javascript/" target="_blank">https://frontendmasters.com/courses/functional-javascript/</a>  
+<a href="http://yogsototh.github.io/Category-Theory-Presentation/" target="_blank">http://yogsototh.github.io/Category-Theory-Presentation/</a>  
+<a href="http://thedeemon.livejournal.com/87320.html" target="_blank">http://thedeemon.livejournal.com/87320.html</a>  
+<a href="http://www.mattgreer.org/articles/pair-programming-is-not-a-panacea/" target="_blank">http://www.mattgreer.org/articles/pair-programming-is-not-a-panacea/</a>  
+<a href="http://facebook.github.io/immutable-js/" target="_blank">http://facebook.github.io/immutable-js/</a>  
+<a href="http://swannodette.github.io/mori/" target="_blank">http://swannodette.github.io/mori/</a>  
+<a href="https://gist.github.com/staltz/868e7e9bc2a7b8c1f754" target="_blank">https://gist.github.com/staltz/868e7e9bc2a7b8c1f754</a>  
+<a href="http://phuu.net/2014/08/31/csp-and-transducers.html" target="_blank">http://phuu.net/2014/08/31/csp-and-transducers.html</a>  
+<a href="https://ru.wikipedia.org/wiki/SIMD" target="_blank">https://ru.wikipedia.org/wiki/SIMD</a>  
+<a href="http://peterjensen.github.io/mandelbrot/js/mandelbrot-asm.html" target="_blank">http://peterjensen.github.io/mandelbrot/js/mandelbrot-asm.html</a>  
+<a href="http://blog.sketchfab.com/post/112612737009/physically-based-rendering-is-here" target="_blank">http://blog.sketchfab.com/post/112612737009/physically-based-rendering-is-here</a>  
+<a href="http://lighttable.com/" target="_blank">http://lighttable.com/</a>  
+<a href="http://wallabyjs.com/" target="_blank">http://wallabyjs.com/</a>  
+<a href="http://tc39wiki.calculist.org/es6/template-strings/" target="_blank">http://tc39wiki.calculist.org/es6/template-strings/</a>  
+<a href="http://soft.vub.ac.be/~tvcutsem/proxies/" target="_blank">http://soft.vub.ac.be/~tvcutsem/proxies/</a>  
+<a href="http://www.reddit.com/r/WatchPeopleCode/" target="_blank">http://www.reddit.com/r/WatchPeopleCode/</a>  
+<a href="https://angular.io/" target="_blank">https://angular.io/</a>  
+<a href="https://icomoon.io/app/" target="_blank">https://icomoon.io/app/</a>  
+<a href="https://www.livecoding.tv/" target="_blank">https://www.livecoding.tv/</a>  
+<a href="https://fitzgen.github.io/wu.js/" target="_blank">https://fitzgen.github.io/wu.js/</a>

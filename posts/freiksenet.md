@@ -1707,3 +1707,66 @@ RT <a href="https://twitter.com/Timrael" title="Timur Kozmenko">@Timrael</a>: <a
 В субботу мы поговорили про бонусы в компании и менеджмент и наконец сегодня про удаленную работу и немного agile.
 
 С вами был <a href="https://twitter.com/freiksenet" title="freiksenet">@freiksenet</a>. Спасибо за то что с вами было интересно спорить.
+
+## Ссылки
+
+### gist.github.com  
+<a href="https://gist.github.com/freiksenet/f96e02ddee7a352448d3" target="_blank">https://gist.github.com/freiksenet/f96e02ddee7a352448d3</a>  
+<a href="https://gist.github.com/freiksenet/4646c7216167fd139d5d" target="_blank">https://gist.github.com/freiksenet/4646c7216167fd139d5d</a>  
+<a href="https://gist.github.com/freiksenet/d461fe8928c8ad33db89" target="_blank">https://gist.github.com/freiksenet/d461fe8928c8ad33db89</a>  
+<a href="https://gist.github.com/freiksenet/773747a2812c9b66507b" target="_blank">https://gist.github.com/freiksenet/773747a2812c9b66507b</a>  
+<a href="https://gist.github.com/playpauseandstop/55c060e8a343a9458391" target="_blank">https://gist.github.com/playpauseandstop/55c060e8a343a9458391</a>  
+### github.com  
+<a href="https://github.com/tc39/ecma262" target="_blank">https://github.com/tc39/ecma262</a>  
+<a href="https://github.com/graphql/graphql-js" target="_blank">https://github.com/graphql/graphql-js</a>  
+<a href="https://github.com/RisingStack/graffiti" target="_blank">https://github.com/RisingStack/graffiti</a>  
+<a href="https://github.com/nordnet/nordnet-next-api/blob/master/.eslintrc#L2" target="_blank">https://github.com/nordnet/nordnet-next-api/blob/master/.eslintrc#L2</a>  
+<a href="https://github.com/feross/standard" target="_blank">https://github.com/feross/standard</a>  
+<a href="https://github.com/sindresorhus/xo" target="_blank">https://github.com/sindresorhus/xo</a>  
+<a href="https://github.com/airbnb/javascript" target="_blank">https://github.com/airbnb/javascript</a>  
+<a href="https://github.com/es-analysis" target="_blank">https://github.com/es-analysis</a>  
+<a href="https://github.com/deepsweet/dba" target="_blank">https://github.com/deepsweet/dba</a>  
+<a href="https://github.com/codemix/babel-plugin-typecheck" target="_blank">https://github.com/codemix/babel-plugin-typecheck</a>  
+<a href="https://github.com/mistakster/grunt-svg2string" target="_blank">https://github.com/mistakster/grunt-svg2string</a>  
+<a href="https://github.com/webpack/url-loader" target="_blank">https://github.com/webpack/url-loader</a>  
+<a href="https://github.com/christianalfoni/formsy-react" target="_blank">https://github.com/christianalfoni/formsy-react</a>  
+<a href="https://github.com/caspervonb/amok" target="_blank">https://github.com/caspervonb/amok</a>  
+<a href="https://github.com/node-inspector/node-inspector" target="_blank">https://github.com/node-inspector/node-inspector</a>  
+<a href="https://github.com/cognitect/transit-format" target="_blank">https://github.com/cognitect/transit-format</a>  
+<a href="https://github.com/cognitect/transit-js" target="_blank">https://github.com/cognitect/transit-js</a>
+
+### Другие
+
+<a href="https://mobile.twitter.com/ryanflorence/status/627154904302288897" target="_blank">https://mobile.twitter.com/ryanflorence/status/627154904302288897</a>  
+<a href="https://mobile.twitter.com/wycats/status/627719336426274816" target="_blank">https://mobile.twitter.com/wycats/status/627719336426274816</a>  
+<a href="http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html" target="_blank">http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html</a>  
+<a href="http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html" target="_blank">http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html</a>  
+<a href="https://facebook.github.io/react/tips/dangerously-set-inner-html.html" target="_blank">https://facebook.github.io/react/tips/dangerously-set-inner-html.html</a>  
+<a href="https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/" target="_blank">https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/</a>  
+<a href="https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/" target="_blank">https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/</a>  
+<a href="https://instagram.com/p/y413-exPyZ/" target="_blank">https://instagram.com/p/y413-exPyZ/</a>  
+<a href="https://speakerdeck.com/laneyk/mutations-in-relay" target="_blank">https://speakerdeck.com/laneyk/mutations-in-relay</a>  
+<a href="http://d3js.org/" target="_blank">http://d3js.org/</a>  
+<a href="http://microservices.io/patterns/apigateway.html" target="_blank">http://microservices.io/patterns/apigateway.html</a>  
+<a href="http://www.reddit.com/r/reactjs/comments/3flgnu/building_a_graphql_server_with_nodejs_and_sql/ctqudkn" target="_blank">http://www.reddit.com/r/reactjs/comments/3flgnu/building_a_graphql_server_with_nodejs_and_sql/ctqudkn</a>  
+<a href="http://img.ctrlv.in/img/15/08/04/55c06bb1b3815.png" target="_blank">http://img.ctrlv.in/img/15/08/04/55c06bb1b3815.png</a>  
+<a href="http://eslint.org/docs/rules/complexity" target="_blank">http://eslint.org/docs/rules/complexity</a>  
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=z5WkDQVeYU4" target="_blank">https://www.youtube.com/watch?feature=player_embedded&v=z5WkDQVeYU4</a>  
+<a href="http://i.imgur.com/eBBAUct.jpg" target="_blank">http://i.imgur.com/eBBAUct.jpg</a>  
+<a href="http://bit.ly/1DpROQl" target="_blank">http://bit.ly/1DpROQl</a>  
+<a href="https://avatars1.githubusercontent.com/u/50130?v=3&s=460" target="_blank">https://avatars1.githubusercontent.com/u/50130?v=3&s=460</a>  
+<a href="http://mgoblog.com/sites/mgoblog.com/files/ncaa-dogs.gif" target="_blank">http://mgoblog.com/sites/mgoblog.com/files/ncaa-dogs.gif</a>  
+<a href="http://m.geektimes.ru/post/259762/" target="_blank">http://m.geektimes.ru/post/259762/</a>  
+<a href="https://www.facebook.com/photo.php?fbid=10200899573969802&set=a.1535737771572.47298.1778684198&type=1&permPage=1" target="_blank">https://www.facebook.com/photo.php?fbid=10200899573969802&set=a.1535737771572.47298.1778684198&type=1&permPage=1</a>  
+<a href="http://ru.confcodeofconduct.com/" target="_blank">http://ru.confcodeofconduct.com/</a>  
+<a href="http://www.imfdb.org/images/thumb/b/bc/T2_1501.jpg/600px-T2_1501.jpg" target="_blank">http://www.imfdb.org/images/thumb/b/bc/T2_1501.jpg/600px-T2_1501.jpg</a>  
+<a href="https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/" target="_blank">https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/</a>  
+<a href="http://zachholman.com/posts/how-github-works/" target="_blank">http://zachholman.com/posts/how-github-works/</a>  
+<a href="http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf" target="_blank">http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf</a>  
+<a href="http://hdmessaging.com/" target="_blank">http://hdmessaging.com/</a>  
+<a href="http://zenrobotics.com/" target="_blank">http://zenrobotics.com/</a>  
+<a href="https://jsunderhood.ru/stats/" target="_blank">https://jsunderhood.ru/stats/</a>  
+<a href="http://futurice.com/blog/futurice-open-source-program-the-spice-program" target="_blank">http://futurice.com/blog/futurice-open-source-program-the-spice-program</a>  
+<a href="https://www.patreon.com/reactdx" target="_blank">https://www.patreon.com/reactdx</a>  
+<a href="http://37signals.com/remote/" target="_blank">http://37signals.com/remote/</a>  
+<a href="http://agilemanifesto.org/principles.html" target="_blank">http://agilemanifesto.org/principles.html</a>

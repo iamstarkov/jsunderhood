@@ -302,3 +302,87 @@ Invisible Code by Martin Kleppe at JSConf Budapest 2015 - <a href="https://t.co/
 Неделя подходит к концу - с вами был <a href="https://twitter.com/floatdrop" title="Vsevolod S.">@floatdrop</a>. Спасибо, что были с нами!
 
 Live React: Hot Reloading with Time Travel at react-europe 2015 by <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a> <a href="https://t.co/5wnJJW8sBF">youtube.com/watch?v=xsSnOQ…</a>
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/yandex/yandex-tank" target="_blank">https://github.com/yandex/yandex-tank</a>  
+<a href="https://github.com/c4milo/node-webkit-agent" target="_blank">https://github.com/c4milo/node-webkit-agent</a>  
+<a href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>  
+<a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank">https://github.com/h5bp/Front-end-Developer-Interview-Questions</a>  
+<a href="https://github.com/floatdrop/chnpm/blob/193fdf0541e3c085b9f08eb241a53f7238faa662/index.js" target="_blank">https://github.com/floatdrop/chnpm/blob/193fdf0541e3c085b9f08eb241a53f7238faa662/index.js</a>  
+<a href="https://github.com/floatdrop/chnpm/blob/master/index.js" target="_blank">https://github.com/floatdrop/chnpm/blob/master/index.js</a>  
+<a href="https://github.com/c4milo/node-webkit-agent" target="_blank">https://github.com/c4milo/node-webkit-agent</a>  
+<a href="https://github.com/sindresorhus/max-safe-integer/blob/master/index.js" target="_blank">https://github.com/sindresorhus/max-safe-integer/blob/master/index.js</a>  
+<a href="https://github.com/floatdrop/express-dinja" target="_blank">https://github.com/floatdrop/express-dinja</a>  
+<a href="https://github.com/progrium/dokku" target="_blank">https://github.com/progrium/dokku</a>  
+<a href="https://github.com/tschaub/mock-fs" target="_blank">https://github.com/tschaub/mock-fs</a>  
+<a href="https://github.com/pgte/nock" target="_blank">https://github.com/pgte/nock</a>  
+<a href="https://github.com/chriso/validator.js" target="_blank">https://github.com/chriso/validator.js</a>  
+<a href="http://github.com/sindresorhus/got" target="_blank">http://github.com/sindresorhus/got</a>  
+<a href="https://github.com/request/request/issues/718" target="_blank">https://github.com/request/request/issues/718</a>  
+<a href="https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328" target="_blank">https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328</a>  
+<a href="https://github.com/sindresorhus/generator-nm" target="_blank">https://github.com/sindresorhus/generator-nm</a>  
+<a href="https://github.com/sindresorhus/node-module-boilerplate" target="_blank">https://github.com/sindresorhus/node-module-boilerplate</a>  
+<a href="https://github.com/ModuleLoader/es6-module-loader" target="_blank">https://github.com/ModuleLoader/es6-module-loader</a>  
+<a href="https://github.com/FormidableLabs/radium" target="_blank">https://github.com/FormidableLabs/radium</a>  
+<a href="https://github.com/elierotenberg/react-nexus" target="_blank">https://github.com/elierotenberg/react-nexus</a>  
+<a href="https://github.com/bolshchikov/js-must-watch" target="_blank">https://github.com/bolshchikov/js-must-watch</a>  
+<a href="https://github.com/getsentry/raven-node" target="_blank">https://github.com/getsentry/raven-node</a>  
+### www.youtube.com  
+<a href="http://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">http://www.youtube.com/watch?v=8aGhZQkoFbQ</a>  
+<a href="http://www.youtube.com/watch?v=DqMFX91ToLw" target="_blank">http://www.youtube.com/watch?v=DqMFX91ToLw</a>  
+<a href="https://www.youtube.com/playlist?list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">https://www.youtube.com/playlist?list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx</a>  
+<a href="https://www.youtube.com/watch?v=wf-BqAjZb8M" target="_blank">https://www.youtube.com/watch?v=wf-BqAjZb8M</a>  
+<a href="http://www.youtube.com/watch?v=bo36MrBfTk4" target="_blank">http://www.youtube.com/watch?v=bo36MrBfTk4</a>  
+<a href="https://www.youtube.com/watch?v=tILlZRLhBJE" target="_blank">https://www.youtube.com/watch?v=tILlZRLhBJE</a>  
+<a href="http://www.youtube.com/watch?v=90NsjKvz9Ns" target="_blank">http://www.youtube.com/watch?v=90NsjKvz9Ns</a>  
+<a href="https://www.youtube.com/watch?v=UclvvqNtNNo" target="_blank">https://www.youtube.com/watch?v=UclvvqNtNNo</a>  
+<a href="https://www.youtube.com/watch?v=T3xMyZH93i8" target="_blank">https://www.youtube.com/watch?v=T3xMyZH93i8</a>  
+<a href="https://www.youtube.com/watch?v=xsSnOQynTHs" target="_blank">https://www.youtube.com/watch?v=xsSnOQynTHs</a>
+
+### Другие
+
+<a href="https://babeljs.io/docs/usage/require/" target="_blank">https://babeljs.io/docs/usage/require/</a>  
+<a href="https://babeljs.io/repl/#?experimental=true&evaluate=true&loose=false&spec=false&code=function%20*%20genme()%20%7B%0A%20%20yield%201%3B%0A%20%20yield%202%3B%0A%20%20return%20%22done%22!%0A%7D" target="_blank">https://babeljs.io/repl/#?experimental=true&evaluate=true&loose=false&spec=false&code=function%20*%20genme()%20%7B%0A%20%20yield%201%3B%0A%20%20yield%202%3B%0A%20%20return%20%22done%22!%0A%7D</a>  
+<a href="https://learn.javascript.ru/nodejs-screencast" target="_blank">https://learn.javascript.ru/nodejs-screencast</a>  
+<a href="https://www.npmjs.com/package/co" target="_blank">https://www.npmjs.com/package/co</a>  
+<a href="https://www.npmjs.com/package/buckets" target="_blank">https://www.npmjs.com/package/buckets</a>  
+<a href="https://www.npmjs.com/package/joi" target="_blank">https://www.npmjs.com/package/joi</a>  
+<a href="https://www.npmjs.com/package/matcha" target="_blank">https://www.npmjs.com/package/matcha</a>  
+<a href="https://www.joyent.com/developers/videos/node-js-on-the-road-sf-dav-glass" target="_blank">https://www.joyent.com/developers/videos/node-js-on-the-road-sf-dav-glass</a>  
+<a href="http://www.joyent.com/developers/node/debug/mdb" target="_blank">http://www.joyent.com/developers/node/debug/mdb</a>  
+<a href="https://www.joyent.com/developers/videos/nodeconfeu-2013-example-debugging-session-using-dtrace-and-mdb" target="_blank">https://www.joyent.com/developers/videos/nodeconfeu-2013-example-debugging-session-using-dtrace-and-mdb</a>  
+<a href="http://jstherightway.org/#whotofollow" target="_blank">http://jstherightway.org/#whotofollow</a>  
+<a href="http://uptodate.frontendrescue.org/#follow-cool-people" target="_blank">http://uptodate.frontendrescue.org/#follow-cool-people</a>  
+<a href="https://jsunderhood.ru/" target="_blank">https://jsunderhood.ru/</a>  
+<a href="https://medium.com/@dan_abramov/my-react-list-862227952a8c" target="_blank">https://medium.com/@dan_abramov/my-react-list-862227952a8c</a>  
+<a href="https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2" target="_blank">https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2</a>  
+<a href="https://yandex.ru/jobs/vacancies/dev/?cities=213" target="_blank">https://yandex.ru/jobs/vacancies/dev/?cities=213</a>  
+<a href="http://habrahabr.ru/company/yandex/blog/261245/" target="_blank">http://habrahabr.ru/company/yandex/blog/261245/</a>  
+<a href="http://habrahabr.ru/company/skbkontur/blog/260781/" target="_blank">http://habrahabr.ru/company/skbkontur/blog/260781/</a>  
+<a href="http://thecodelesscode.com/case/90" target="_blank">http://thecodelesscode.com/case/90</a>  
+<a href="http://thecodelesscode.com/case/90?lang=ru" target="_blank">http://thecodelesscode.com/case/90?lang=ru</a>  
+<a href="http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/" target="_blank">http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/</a>  
+<a href="http://www.infoq.com/presentations/Simple-Made-Easy" target="_blank">http://www.infoq.com/presentations/Simple-Made-Easy</a>  
+<a href="http://2014.jsconf.eu/speakers/james-coglan-practical-functional-programming-pick-two.html" target="_blank">http://2014.jsconf.eu/speakers/james-coglan-practical-functional-programming-pick-two.html</a>  
+<a href="http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization/" target="_blank">http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization/</a>  
+<a href="http://www.joelonsoftware.com/articles/LeakyAbstractions.html" target="_blank">http://www.joelonsoftware.com/articles/LeakyAbstractions.html</a>  
+<a href="http://www.joelonsoftware.com/items/2004/04/16.html" target="_blank">http://www.joelonsoftware.com/items/2004/04/16.html</a>  
+<a href="https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/" target="_blank">https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/</a>  
+<a href="http://elijahmanor.com/javascript-smells/" target="_blank">http://elijahmanor.com/javascript-smells/</a>  
+<a href="http://softwaremaniacs.org/blog/2007/08/15/deb-packages-in-yandex/" target="_blank">http://softwaremaniacs.org/blog/2007/08/15/deb-packages-in-yandex/</a>  
+<a href="https://gist.github.com/floatdrop/a5f4cc79d160d0f09a87" target="_blank">https://gist.github.com/floatdrop/a5f4cc79d160d0f09a87</a>  
+<a href="https://gist.github.com/floatdrop/d316850e08c4eaaf29a0" target="_blank">https://gist.github.com/floatdrop/d316850e08c4eaaf29a0</a>  
+<a href="https://gist.github.com/alekseykulikov/c63ac825e176fa650fb6" target="_blank">https://gist.github.com/alekseykulikov/c63ac825e176fa650fb6</a>  
+<a href="https://gist.github.com/beshkenadze/fe05485f4d635886ca1a" target="_blank">https://gist.github.com/beshkenadze/fe05485f4d635886ca1a</a>  
+<a href="http://research.google.com/pubs/pub41892.html" target="_blank">http://research.google.com/pubs/pub41892.html</a>  
+<a href="http://thenewstack.io/docker-is-driving-a-new-breed-of-paas/" target="_blank">http://thenewstack.io/docker-is-driving-a-new-breed-of-paas/</a>  
+<a href="http://bash.im/quote/429538" target="_blank">http://bash.im/quote/429538</a>  
+<a href="http://m.youtube.com/watch?v=NpMnRifyGyw" target="_blank">http://m.youtube.com/watch?v=NpMnRifyGyw</a>  
+<a href="http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6" target="_blank">http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6</a>  
+<a href="http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6" target="_blank">http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6</a>  
+<a href="https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime" target="_blank">https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime</a>  
+<a href="http://chlg.co/1HDI3A3" target="_blank">http://chlg.co/1HDI3A3</a>  
+<a href="http://jsforcats.com/javascript-for-cats.pdf" target="_blank">http://jsforcats.com/javascript-for-cats.pdf</a>  
+<a href="http://shop.oreilly.com/product/9780596517748.do" target="_blank">http://shop.oreilly.com/product/9780596517748.do</a>

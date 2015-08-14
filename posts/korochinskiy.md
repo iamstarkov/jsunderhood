@@ -337,3 +337,20 @@ RT <a href="https://twitter.com/harisov" title="Vitaly Harisov">@harisov</a>: Р
 неделю.
 
 Хочу поделиться с вами примером отличной документации <a href="http://t.co/7KHugGcO4W">angular-translate.github.io/docs/#/guide</a>
+
+## Ссылки
+
+<a href="http://bit.ly/1Cmt5vt" target="_blank">http://bit.ly/1Cmt5vt</a>  
+<a href="http://bit.ly/1i6wuzm" target="_blank">http://bit.ly/1i6wuzm</a>  
+<a href="http://bit.ly/1EYrgoN" target="_blank">http://bit.ly/1EYrgoN</a>  
+<a href="http://bit.ly/1hJuOAa" target="_blank">http://bit.ly/1hJuOAa</a>  
+<a href="http://goltis.info/gimnastika-dlya-glaz.html" target="_blank">http://goltis.info/gimnastika-dlya-glaz.html</a>  
+<a href="http://www.theguardian.com/lifeandstyle/2013/jun/09/smartphones-tablets-in-bedroom-sleep" target="_blank">http://www.theguardian.com/lifeandstyle/2013/jun/09/smartphones-tablets-in-bedroom-sleep</a>  
+<a href="https://bookmate.com/books/oQENE3qj" target="_blank">https://bookmate.com/books/oQENE3qj</a>  
+<a href="http://leonard.kinday.ru/blog/on-the-nose/" target="_blank">http://leonard.kinday.ru/blog/on-the-nose/</a>  
+<a href="http://habrahabr.ru/company/yandex/blog/210638/" target="_blank">http://habrahabr.ru/company/yandex/blog/210638/</a>  
+<a href="http://habrahabr.ru/company/yandex/blog/232427/" target="_blank">http://habrahabr.ru/company/yandex/blog/232427/</a>  
+<a href="http://noteskeeper.ru/1209/" target="_blank">http://noteskeeper.ru/1209/</a>  
+<a href="http://noteskeeper.ru/1213/" target="_blank">http://noteskeeper.ru/1213/</a>  
+<a href="http://en.wikipedia.org/wiki/Pomodoro_Technique" target="_blank">http://en.wikipedia.org/wiki/Pomodoro_Technique</a>  
+<a href="http://angular-translate.github.io/docs/#/guide" target="_blank">http://angular-translate.github.io/docs/#/guide</a>
