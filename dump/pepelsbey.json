@@ -5,6 +5,138 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 17 09:47:17 +0000 2015",
+      "id": 633213498307256300,
+      "id_str": "633213498307256320",
+      "text": "Сейчас я ненадолго прервусь, доеду до офиса (5 км на велике) и продолжим!",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 17 09:43:12 +0000 2015",
+      "id": 633212471550083100,
+      "id_str": "633212471550083072",
+      "text": "Например, аренда двухкомнатной квартиры недалеко от цента Осло обходится мне примерно в 100 000 рублей. А по местным меркам терпимо.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 17 09:37:22 +0000 2015",
       "id": 633211002566377500,
       "id_str": "633211002566377472",
@@ -213,7 +345,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -279,7 +411,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -332,7 +464,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
