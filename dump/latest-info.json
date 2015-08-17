@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1487,
+  "followers_count": 1489,
   "friends_count": 19,
   "listed_count": 59,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7833,
+  "statuses_count": 7834,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 17 09:18:20 +0000 2015",
-    "id": 633206214437023700,
-    "id_str": "633206214437023744",
-    "text": "RT @talgautb: @jsunderhood @pepelsbey а собственно, что значит этот круг-аватар?! всегда интересно было :)",
+    "created_at": "Mon Aug 17 09:22:19 +0000 2015",
+    "id": 633207214744973300,
+    "id_str": "633207214744973312",
+    "text": "Аватарка с красным сектором справа не значит вообще ничего. Просто в Fireworks был удобный инструмент для пай-чартов, а мне нужен был лого.",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -62,94 +62,47 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Aug 17 09:12:04 +0000 2015",
-      "id": 633204637231747100,
-      "id_str": "633204637231747073",
-      "text": "@jsunderhood @pepelsbey а собственно, что значит этот круг-аватар?! всегда интересно было :)",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 633204127531712500,
-      "in_reply_to_status_id_str": "633204127531712512",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
+    "place": {
+      "id": "83989e2decc1e863",
+      "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+      "place_type": "admin",
+      "name": "Oslo",
+      "full_name": "Oslo",
+      "country_code": "NO",
+      "country": "Norge",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4914682,
+              59.8097794
+            ],
+            [
+              10.9515836,
+              59.8097794
+            ],
+            [
+              10.9515836,
+              60.1350316
+            ],
+            [
+              10.4914682,
+              60.1350316
             ]
-          },
-          {
-            "screen_name": "pepelsbey",
-            "name": "Вадим Макеев",
-            "id": 26370682,
-            "id_str": "26370682",
-            "indices": [
-              13,
-              23
-            ]
-          }
-        ],
-        "urls": []
+          ]
+        ]
       },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
+      "attributes": {}
     },
-    "retweet_count": 1,
+    "contributors": null,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "talgautb",
-          "name": "Талга УтБ",
-          "id": 257851355,
-          "id_str": "257851355",
-          "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            14,
-            26
-          ]
-        },
-        {
-          "screen_name": "pepelsbey",
-          "name": "Вадим Макеев",
-          "id": 26370682,
-          "id_str": "26370682",
-          "indices": [
-            27,
-            37
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
