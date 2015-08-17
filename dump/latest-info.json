@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1504,
+  "followers_count": 1540,
   "friends_count": 19,
-  "listed_count": 58,
+  "listed_count": 59,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 328,
   "utc_offset": 7200,
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7843,
+  "statuses_count": 7936,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 17 09:47:17 +0000 2015",
-    "id": 633213498307256300,
-    "id_str": "633213498307256320",
-    "text": "Сейчас я ненадолго прервусь, доеду до офиса (5 км на велике) и продолжим!",
+    "created_at": "Mon Aug 17 14:40:05 +0000 2015",
+    "id": 633287186159435800,
+    "id_str": "633287186159435776",
+    "text": "Функциональные тесты написаны для CasperJS, см. пример — https://t.co/L2RSTT0CMg — с удовольствием выслушаю критику.",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -103,10 +103,21 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/L2RSTT0CMg",
+          "expanded_url": "https://github.com/shower/core/blob/dev/tests/functional/core.js",
+          "display_url": "github.com/shower/core/bl…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -118,7 +129,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/633196231959965696/6n61ORlP_normal.png",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/633196231959965696/6n61ORlP_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1439401534",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1439811587",
   "profile_link_color": "119BD2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
