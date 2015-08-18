@@ -4,10 +4,6 @@ import r from 'ramda';
 import assign from 'object-assign';
 import moment from 'moment';
 
-const first = arr => arr[0];
-const last = arr => arr[arr.length - 1];
-const sortBy = field => (a, b) => a[field] - b[field];
-
 let stats = authorsRaw
   .map(author => ({
     username: author.username,
