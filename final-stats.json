@@ -5,16 +5,26 @@
       "index": 1,
       "followers_count": 115,
       "tweets": 16,
-      "ownTweets": 11,
-      "ownTweetsPercentage": 68.75,
-      "retweets": 2,
-      "retweetsPercentage": 12.5,
-      "replies": 3,
-      "repliesPercentage": 18.75,
-      "retweeted": 12,
-      "retweetedKpi": 1.09,
-      "favorited": 12,
-      "favoritedKpi": 1.09,
+      "own": {
+        "total": 11,
+        "percent": "68.75"
+      },
+      "replies": {
+        "total": 3,
+        "percent": "18.75"
+      },
+      "retweets": {
+        "total": 2,
+        "percent": "12.50"
+      },
+      "retweeted": {
+        "total": 12,
+        "average": "1.09"
+      },
+      "favorited": {
+        "total": 12,
+        "average": "1.09"
+      },
       "gainedFollowers": 115
     },
     {
@@ -22,16 +32,26 @@
       "index": 2,
       "followers_count": 166,
       "tweets": 11,
-      "ownTweets": 7,
-      "ownTweetsPercentage": 63.63636363636363,
-      "retweets": 4,
-      "retweetsPercentage": 36.36363636363637,
-      "replies": 0,
-      "repliesPercentage": 0,
-      "retweeted": 9,
-      "retweetedKpi": 1.29,
-      "favorited": 20,
-      "favoritedKpi": 2.86,
+      "own": {
+        "total": 7,
+        "percent": "63.64"
+      },
+      "replies": {
+        "total": 0,
+        "percent": "0.00"
+      },
+      "retweets": {
+        "total": 4,
+        "percent": "36.36"
+      },
+      "retweeted": {
+        "total": 9,
+        "average": "1.29"
+      },
+      "favorited": {
+        "total": 20,
+        "average": "2.86"
+      },
       "gainedFollowers": 51
     },
     {
@@ -39,16 +59,26 @@
       "index": 3,
       "followers_count": 197,
       "tweets": 389,
-      "ownTweets": 251,
-      "ownTweetsPercentage": 64.52442159383033,
-      "retweets": 52,
-      "retweetsPercentage": 13.367609254498714,
-      "replies": 86,
-      "repliesPercentage": 22.10796915167095,
-      "retweeted": 37,
-      "retweetedKpi": 0.15,
-      "favorited": 38,
-      "favoritedKpi": 0.15,
+      "own": {
+        "total": 251,
+        "percent": "64.52"
+      },
+      "replies": {
+        "total": 86,
+        "percent": "22.11"
+      },
+      "retweets": {
+        "total": 52,
+        "percent": "13.37"
+      },
+      "retweeted": {
+        "total": 37,
+        "average": "0.15"
+      },
+      "favorited": {
+        "total": 38,
+        "average": "0.15"
+      },
       "gainedFollowers": 31
     },
     {
@@ -56,34 +86,53 @@
       "index": 4,
       "followers_count": 199,
       "tweets": 168,
-      "ownTweets": 128,
-      "ownTweetsPercentage": 76.19047619047619,
-      "retweets": 10,
-      "retweetsPercentage": 5.9523809523809526,
-      "replies": 30,
-      "repliesPercentage": 17.857142857142858,
-      "retweeted": 33,
-      "retweetedKpi": 0.26,
-      "favorited": 111,
-      "favoritedKpi": 0.87,
-      "gainedFollowers": 2,
-      "maxOwnTweetsPercentage": true
+      "own": {
+        "total": 128,
+        "percent": "76.19"
+      },
+      "replies": {
+        "total": 30,
+        "percent": "17.86"
+      },
+      "retweets": {
+        "total": 10,
+        "percent": "5.95"
+      },
+      "retweeted": {
+        "total": 33,
+        "average": "0.26"
+      },
+      "favorited": {
+        "total": 111,
+        "average": "0.87"
+      },
+      "gainedFollowers": 2
     },
     {
       "username": "toivonens",
       "index": 5,
       "followers_count": 358,
       "tweets": 375,
-      "ownTweets": 205,
-      "ownTweetsPercentage": 54.666666666666664,
-      "retweets": 46,
-      "retweetsPercentage": 12.266666666666667,
-      "replies": 124,
-      "repliesPercentage": 33.06666666666667,
-      "retweeted": 89,
-      "retweetedKpi": 0.43,
-      "favorited": 262,
-      "favoritedKpi": 1.28,
+      "own": {
+        "total": 205,
+        "percent": "54.67"
+      },
+      "replies": {
+        "total": 124,
+        "percent": "33.07"
+      },
+      "retweets": {
+        "total": 46,
+        "percent": "12.27"
+      },
+      "retweeted": {
+        "total": 89,
+        "average": "0.43"
+      },
+      "favorited": {
+        "total": 262,
+        "average": "1.28"
+      },
       "gainedFollowers": 159,
       "maxGainedFollowers": true
     },
@@ -92,16 +141,26 @@
       "index": 6,
       "followers_count": 423,
       "tweets": 238,
-      "ownTweets": 83,
-      "ownTweetsPercentage": 34.87394957983194,
-      "retweets": 66,
-      "retweetsPercentage": 27.73109243697479,
-      "replies": 89,
-      "repliesPercentage": 37.39495798319328,
-      "retweeted": 40,
-      "retweetedKpi": 0.48,
-      "favorited": 114,
-      "favoritedKpi": 1.37,
+      "own": {
+        "total": 83,
+        "percent": "34.87"
+      },
+      "replies": {
+        "total": 89,
+        "percent": "37.39"
+      },
+      "retweets": {
+        "total": 66,
+        "percent": "27.73"
+      },
+      "retweeted": {
+        "total": 40,
+        "average": "0.48"
+      },
+      "favorited": {
+        "total": 114,
+        "average": "1.37"
+      },
       "gainedFollowers": 65
     },
     {
@@ -109,16 +168,26 @@
       "index": 7,
       "followers_count": 451,
       "tweets": 84,
-      "ownTweets": 14,
-      "ownTweetsPercentage": 16.666666666666668,
-      "retweets": 39,
-      "retweetsPercentage": 46.42857142857143,
-      "replies": 31,
-      "repliesPercentage": 36.904761904761905,
-      "retweeted": 11,
-      "retweetedKpi": 0.79,
-      "favorited": 9,
-      "favoritedKpi": 0.64,
+      "own": {
+        "total": 14,
+        "percent": "16.67"
+      },
+      "replies": {
+        "total": 31,
+        "percent": "36.90"
+      },
+      "retweets": {
+        "total": 39,
+        "percent": "46.43"
+      },
+      "retweeted": {
+        "total": 11,
+        "average": "0.79"
+      },
+      "favorited": {
+        "total": 9,
+        "average": "0.64"
+      },
       "gainedFollowers": 28
     },
     {
@@ -126,16 +195,26 @@
       "index": 8,
       "followers_count": 526,
       "tweets": 143,
-      "ownTweets": 54,
-      "ownTweetsPercentage": 37.76223776223777,
-      "retweets": 11,
-      "retweetsPercentage": 7.6923076923076925,
-      "replies": 78,
-      "repliesPercentage": 54.54545454545455,
-      "retweeted": 30,
-      "retweetedKpi": 0.56,
-      "favorited": 117,
-      "favoritedKpi": 2.17,
+      "own": {
+        "total": 54,
+        "percent": "37.76"
+      },
+      "replies": {
+        "total": 78,
+        "percent": "54.55"
+      },
+      "retweets": {
+        "total": 11,
+        "percent": "7.69"
+      },
+      "retweeted": {
+        "total": 30,
+        "average": "0.56"
+      },
+      "favorited": {
+        "total": 117,
+        "average": "2.17"
+      },
       "gainedFollowers": 75
     },
     {
@@ -143,35 +222,54 @@
       "index": 9,
       "followers_count": 587,
       "tweets": 272,
-      "ownTweets": 50,
-      "ownTweetsPercentage": 18.38235294117647,
-      "retweets": 32,
-      "retweetsPercentage": 11.76470588235294,
-      "replies": 190,
-      "repliesPercentage": 69.85294117647058,
-      "retweeted": 100,
-      "retweetedKpi": 2,
-      "favorited": 139,
-      "favoritedKpi": 2.78,
+      "own": {
+        "total": 50,
+        "percent": "18.38"
+      },
+      "replies": {
+        "total": 190,
+        "percent": "69.85"
+      },
+      "retweets": {
+        "total": 32,
+        "percent": "11.76"
+      },
+      "retweeted": {
+        "total": 100,
+        "average": "2.00"
+      },
+      "favorited": {
+        "total": 139,
+        "average": "2.78"
+      },
       "gainedFollowers": 61,
-      "maxRepliesPercentage": true,
-      "maxRetweetedKpi": true
+      "maxRetweetedAverage": true
     },
     {
       "username": "lomakin",
       "index": 10,
       "followers_count": 641,
       "tweets": 113,
-      "ownTweets": 50,
-      "ownTweetsPercentage": 44.247787610619476,
-      "retweets": 10,
-      "retweetsPercentage": 8.849557522123895,
-      "replies": 53,
-      "repliesPercentage": 46.90265486725664,
-      "retweeted": 32,
-      "retweetedKpi": 0.64,
-      "favorited": 141,
-      "favoritedKpi": 2.82,
+      "own": {
+        "total": 50,
+        "percent": "44.25"
+      },
+      "replies": {
+        "total": 53,
+        "percent": "46.90"
+      },
+      "retweets": {
+        "total": 10,
+        "percent": "8.85"
+      },
+      "retweeted": {
+        "total": 32,
+        "average": "0.64"
+      },
+      "favorited": {
+        "total": 141,
+        "average": "2.82"
+      },
       "gainedFollowers": 54
     },
     {
@@ -179,16 +277,26 @@
       "index": 11,
       "followers_count": 632,
       "tweets": 180,
-      "ownTweets": 24,
-      "ownTweetsPercentage": 13.333333333333332,
-      "retweets": 86,
-      "retweetsPercentage": 47.77777777777778,
-      "replies": 70,
-      "repliesPercentage": 38.888888888888886,
-      "retweeted": 23,
-      "retweetedKpi": 0.96,
-      "favorited": 36,
-      "favoritedKpi": 1.5,
+      "own": {
+        "total": 24,
+        "percent": "13.33"
+      },
+      "replies": {
+        "total": 70,
+        "percent": "38.89"
+      },
+      "retweets": {
+        "total": 86,
+        "percent": "47.78"
+      },
+      "retweeted": {
+        "total": 23,
+        "average": "0.96"
+      },
+      "favorited": {
+        "total": 36,
+        "average": "1.50"
+      },
       "gainedFollowers": -9
     },
     {
@@ -196,16 +304,26 @@
       "index": 12,
       "followers_count": 685,
       "tweets": 256,
-      "ownTweets": 114,
-      "ownTweetsPercentage": 44.53125,
-      "retweets": 78,
-      "retweetsPercentage": 30.46875,
-      "replies": 64,
-      "repliesPercentage": 25,
-      "retweeted": 112,
-      "retweetedKpi": 0.98,
-      "favorited": 231,
-      "favoritedKpi": 2.03,
+      "own": {
+        "total": 114,
+        "percent": "44.53"
+      },
+      "replies": {
+        "total": 64,
+        "percent": "25.00"
+      },
+      "retweets": {
+        "total": 78,
+        "percent": "30.47"
+      },
+      "retweeted": {
+        "total": 112,
+        "average": "0.98"
+      },
+      "favorited": {
+        "total": 231,
+        "average": "2.03"
+      },
       "gainedFollowers": 53
     },
     {
@@ -213,16 +331,26 @@
       "index": 13,
       "followers_count": 701,
       "tweets": 158,
-      "ownTweets": 57,
-      "ownTweetsPercentage": 36.075949367088604,
-      "retweets": 28,
-      "retweetsPercentage": 17.72151898734177,
-      "replies": 73,
-      "repliesPercentage": 46.20253164556962,
-      "retweeted": 32,
-      "retweetedKpi": 0.56,
-      "favorited": 21,
-      "favoritedKpi": 0.37,
+      "own": {
+        "total": 57,
+        "percent": "36.08"
+      },
+      "replies": {
+        "total": 73,
+        "percent": "46.20"
+      },
+      "retweets": {
+        "total": 28,
+        "percent": "17.72"
+      },
+      "retweeted": {
+        "total": 32,
+        "average": "0.56"
+      },
+      "favorited": {
+        "total": 21,
+        "average": "0.37"
+      },
       "gainedFollowers": 16
     },
     {
@@ -230,16 +358,26 @@
       "index": 14,
       "followers_count": 725,
       "tweets": 558,
-      "ownTweets": 169,
-      "ownTweetsPercentage": 30.28673835125448,
-      "retweets": 234,
-      "retweetsPercentage": 41.935483870967744,
-      "replies": 155,
-      "repliesPercentage": 27.77777777777778,
-      "retweeted": 146,
-      "retweetedKpi": 0.86,
-      "favorited": 296,
-      "favoritedKpi": 1.75,
+      "own": {
+        "total": 169,
+        "percent": "30.29"
+      },
+      "replies": {
+        "total": 155,
+        "percent": "27.78"
+      },
+      "retweets": {
+        "total": 234,
+        "percent": "41.94"
+      },
+      "retweeted": {
+        "total": 146,
+        "average": "0.86"
+      },
+      "favorited": {
+        "total": 296,
+        "average": "1.75"
+      },
       "gainedFollowers": 24,
       "maxRetweeted": true
     },
@@ -248,36 +386,55 @@
       "index": 15,
       "followers_count": 815,
       "tweets": 820,
-      "ownTweets": 277,
-      "ownTweetsPercentage": 33.78048780487805,
-      "retweets": 396,
-      "retweetsPercentage": 48.29268292682927,
-      "replies": 147,
-      "repliesPercentage": 17.926829268292686,
-      "retweeted": 112,
-      "retweetedKpi": 0.4,
-      "favorited": 470,
-      "favoritedKpi": 1.7,
+      "own": {
+        "total": 277,
+        "percent": "33.78"
+      },
+      "replies": {
+        "total": 147,
+        "percent": "17.93"
+      },
+      "retweets": {
+        "total": 396,
+        "percent": "48.29"
+      },
+      "retweeted": {
+        "total": 112,
+        "average": "0.40"
+      },
+      "favorited": {
+        "total": 470,
+        "average": "1.70"
+      },
       "gainedFollowers": 90,
-      "maxOwnTweets": true,
-      "maxRetweets": true,
-      "maxRetweetsPercentage": true
+      "maxOwn": true,
+      "maxRetweets": true
     },
     {
       "username": "i_komarov",
       "index": 16,
       "followers_count": 841,
       "tweets": 114,
-      "ownTweets": 64,
-      "ownTweetsPercentage": 56.140350877192986,
-      "retweets": 33,
-      "retweetsPercentage": 28.947368421052634,
-      "replies": 17,
-      "repliesPercentage": 14.912280701754387,
-      "retweeted": 26,
-      "retweetedKpi": 0.41,
-      "favorited": 84,
-      "favoritedKpi": 1.31,
+      "own": {
+        "total": 64,
+        "percent": "56.14"
+      },
+      "replies": {
+        "total": 17,
+        "percent": "14.91"
+      },
+      "retweets": {
+        "total": 33,
+        "percent": "28.95"
+      },
+      "retweeted": {
+        "total": 26,
+        "average": "0.41"
+      },
+      "favorited": {
+        "total": 84,
+        "average": "1.31"
+      },
       "gainedFollowers": 26
     },
     {
@@ -285,34 +442,54 @@
       "index": 17,
       "followers_count": 883,
       "tweets": 129,
-      "ownTweets": 64,
-      "ownTweetsPercentage": 49.61240310077519,
-      "retweets": 17,
-      "retweetsPercentage": 13.178294573643411,
-      "replies": 48,
-      "repliesPercentage": 37.2093023255814,
-      "retweeted": 101,
-      "retweetedKpi": 1.58,
-      "favorited": 424,
-      "favoritedKpi": 6.63,
+      "own": {
+        "total": 64,
+        "percent": "49.61"
+      },
+      "replies": {
+        "total": 48,
+        "percent": "37.21"
+      },
+      "retweets": {
+        "total": 17,
+        "percent": "13.18"
+      },
+      "retweeted": {
+        "total": 101,
+        "average": "1.58"
+      },
+      "favorited": {
+        "total": 424,
+        "average": "6.63"
+      },
       "gainedFollowers": 42,
-      "maxFavoritedKpi": true
+      "maxFavoritedAverage": true
     },
     {
       "username": "asktwi",
       "index": 18,
       "followers_count": 913,
       "tweets": 472,
-      "ownTweets": 74,
-      "ownTweetsPercentage": 15.677966101694915,
-      "retweets": 211,
-      "retweetsPercentage": 44.70338983050848,
-      "replies": 187,
-      "repliesPercentage": 39.61864406779661,
-      "retweeted": 57,
-      "retweetedKpi": 0.77,
-      "favorited": 117,
-      "favoritedKpi": 1.58,
+      "own": {
+        "total": 74,
+        "percent": "15.68"
+      },
+      "replies": {
+        "total": 187,
+        "percent": "39.62"
+      },
+      "retweets": {
+        "total": 211,
+        "percent": "44.70"
+      },
+      "retweeted": {
+        "total": 57,
+        "average": "0.77"
+      },
+      "favorited": {
+        "total": 117,
+        "average": "1.58"
+      },
       "gainedFollowers": 30
     },
     {
@@ -320,16 +497,26 @@
       "index": 19,
       "followers_count": 1045,
       "tweets": 630,
-      "ownTweets": 190,
-      "ownTweetsPercentage": 30.158730158730158,
-      "retweets": 213,
-      "retweetsPercentage": 33.80952380952381,
-      "replies": 227,
-      "repliesPercentage": 36.03174603174603,
-      "retweeted": 85,
-      "retweetedKpi": 0.45,
-      "favorited": 349,
-      "favoritedKpi": 1.84,
+      "own": {
+        "total": 190,
+        "percent": "30.16"
+      },
+      "replies": {
+        "total": 227,
+        "percent": "36.03"
+      },
+      "retweets": {
+        "total": 213,
+        "percent": "33.81"
+      },
+      "retweeted": {
+        "total": 85,
+        "average": "0.45"
+      },
+      "favorited": {
+        "total": 349,
+        "average": "1.84"
+      },
       "gainedFollowers": 132
     },
     {
@@ -337,16 +524,26 @@
       "index": 20,
       "followers_count": 1110,
       "tweets": 192,
-      "ownTweets": 90,
-      "ownTweetsPercentage": 46.875,
-      "retweets": 36,
-      "retweetsPercentage": 18.75,
-      "replies": 66,
-      "repliesPercentage": 34.375,
-      "retweeted": 73,
-      "retweetedKpi": 0.81,
-      "favorited": 471,
-      "favoritedKpi": 5.23,
+      "own": {
+        "total": 90,
+        "percent": "46.88"
+      },
+      "replies": {
+        "total": 66,
+        "percent": "34.38"
+      },
+      "retweets": {
+        "total": 36,
+        "percent": "18.75"
+      },
+      "retweeted": {
+        "total": 73,
+        "average": "0.81"
+      },
+      "favorited": {
+        "total": 471,
+        "average": "5.23"
+      },
       "gainedFollowers": 65,
       "maxFavorited": true
     },
@@ -355,16 +552,26 @@
       "index": 21,
       "followers_count": 1183,
       "tweets": 485,
-      "ownTweets": 186,
-      "ownTweetsPercentage": 38.35051546391753,
-      "retweets": 191,
-      "retweetsPercentage": 39.381443298969074,
-      "replies": 108,
-      "repliesPercentage": 22.268041237113405,
-      "retweeted": 66,
-      "retweetedKpi": 0.35,
-      "favorited": 322,
-      "favoritedKpi": 1.73,
+      "own": {
+        "total": 186,
+        "percent": "38.35"
+      },
+      "replies": {
+        "total": 108,
+        "percent": "22.27"
+      },
+      "retweets": {
+        "total": 191,
+        "percent": "39.38"
+      },
+      "retweeted": {
+        "total": 66,
+        "average": "0.35"
+      },
+      "favorited": {
+        "total": 322,
+        "average": "1.73"
+      },
       "gainedFollowers": 73
     },
     {
@@ -372,16 +579,26 @@
       "index": 22,
       "followers_count": 1262,
       "tweets": 162,
-      "ownTweets": 57,
-      "ownTweetsPercentage": 35.18518518518518,
-      "retweets": 53,
-      "retweetsPercentage": 32.716049382716044,
-      "replies": 52,
-      "repliesPercentage": 32.098765432098766,
-      "retweeted": 32,
-      "retweetedKpi": 0.56,
-      "favorited": 159,
-      "favoritedKpi": 2.79,
+      "own": {
+        "total": 57,
+        "percent": "35.19"
+      },
+      "replies": {
+        "total": 52,
+        "percent": "32.10"
+      },
+      "retweets": {
+        "total": 53,
+        "percent": "32.72"
+      },
+      "retweeted": {
+        "total": 32,
+        "average": "0.56"
+      },
+      "favorited": {
+        "total": 159,
+        "average": "2.79"
+      },
       "gainedFollowers": 79
     },
     {
@@ -389,16 +606,26 @@
       "index": 23,
       "followers_count": 1331,
       "tweets": 568,
-      "ownTweets": 192,
-      "ownTweetsPercentage": 33.802816901408455,
-      "retweets": 206,
-      "retweetsPercentage": 36.267605633802816,
-      "replies": 170,
-      "repliesPercentage": 29.929577464788736,
-      "retweeted": 87,
-      "retweetedKpi": 0.45,
-      "favorited": 395,
-      "favoritedKpi": 2.06,
+      "own": {
+        "total": 192,
+        "percent": "33.80"
+      },
+      "replies": {
+        "total": 170,
+        "percent": "29.93"
+      },
+      "retweets": {
+        "total": 206,
+        "percent": "36.27"
+      },
+      "retweeted": {
+        "total": 87,
+        "average": "0.45"
+      },
+      "favorited": {
+        "total": 395,
+        "average": "2.06"
+      },
       "gainedFollowers": 69
     },
     {
@@ -406,16 +633,26 @@
       "index": 24,
       "followers_count": 1375,
       "tweets": 143,
-      "ownTweets": 49,
-      "ownTweetsPercentage": 34.26573426573427,
-      "retweets": 44,
-      "retweetsPercentage": 30.76923076923077,
-      "replies": 50,
-      "repliesPercentage": 34.96503496503497,
-      "retweeted": 50,
-      "retweetedKpi": 1.02,
-      "favorited": 120,
-      "favoritedKpi": 2.45,
+      "own": {
+        "total": 49,
+        "percent": "34.27"
+      },
+      "replies": {
+        "total": 50,
+        "percent": "34.97"
+      },
+      "retweets": {
+        "total": 44,
+        "percent": "30.77"
+      },
+      "retweeted": {
+        "total": 50,
+        "average": "1.02"
+      },
+      "favorited": {
+        "total": 120,
+        "average": "2.45"
+      },
       "gainedFollowers": 44
     },
     {
@@ -423,16 +660,26 @@
       "index": 25,
       "followers_count": 1397,
       "tweets": 901,
-      "ownTweets": 222,
-      "ownTweetsPercentage": 24.639289678135405,
-      "retweets": 392,
-      "retweetsPercentage": 43.50721420643729,
-      "replies": 287,
-      "repliesPercentage": 31.853496115427305,
-      "retweeted": 98,
-      "retweetedKpi": 0.44,
-      "favorited": 259,
-      "favoritedKpi": 1.17,
+      "own": {
+        "total": 222,
+        "percent": "24.64"
+      },
+      "replies": {
+        "total": 287,
+        "percent": "31.85"
+      },
+      "retweets": {
+        "total": 392,
+        "percent": "43.51"
+      },
+      "retweeted": {
+        "total": 98,
+        "average": "0.44"
+      },
+      "favorited": {
+        "total": 259,
+        "average": "1.17"
+      },
       "gainedFollowers": 22,
       "maxTweets": true,
       "maxReplies": true
@@ -442,16 +689,26 @@
       "index": 26,
       "followers_count": 1482,
       "tweets": 255,
-      "ownTweets": 106,
-      "ownTweetsPercentage": 41.568627450980394,
-      "retweets": 119,
-      "retweetsPercentage": 46.66666666666667,
-      "replies": 30,
-      "repliesPercentage": 11.764705882352942,
-      "retweeted": 33,
-      "retweetedKpi": 0.31,
-      "favorited": 112,
-      "favoritedKpi": 1.06,
+      "own": {
+        "total": 106,
+        "percent": "41.57"
+      },
+      "replies": {
+        "total": 30,
+        "percent": "11.76"
+      },
+      "retweets": {
+        "total": 119,
+        "percent": "46.67"
+      },
+      "retweeted": {
+        "total": 33,
+        "average": "0.31"
+      },
+      "favorited": {
+        "total": 112,
+        "average": "1.06"
+      },
       "gainedFollowers": 85
     },
     {
@@ -459,16 +716,26 @@
       "index": 27,
       "followers_count": 1593,
       "tweets": 308,
-      "ownTweets": 188,
-      "ownTweetsPercentage": 61.03896103896104,
-      "retweets": 40,
-      "retweetsPercentage": 12.987012987012987,
-      "replies": 80,
-      "repliesPercentage": 25.974025974025974,
-      "retweeted": 73,
-      "retweetedKpi": 0.39,
-      "favorited": 245,
-      "favoritedKpi": 1.3,
+      "own": {
+        "total": 188,
+        "percent": "61.04"
+      },
+      "replies": {
+        "total": 80,
+        "percent": "25.97"
+      },
+      "retweets": {
+        "total": 40,
+        "percent": "12.99"
+      },
+      "retweeted": {
+        "total": 73,
+        "average": "0.39"
+      },
+      "favorited": {
+        "total": 245,
+        "average": "1.30"
+      },
       "gainedFollowers": 111
     }
   ]
