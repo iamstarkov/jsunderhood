@@ -548,16 +548,7 @@
         "total": 470,
         "average": "1.70"
       },
-<<<<<<< HEAD
-      "gainedFollowers": 90,
-<<<<<<< HEAD
-      "maxRetweets": true
-=======
-=======
->>>>>>> next iteration over stats
-      "maxOwnTotal": true,
       "maxRetweetsTotal": true
->>>>>>> fix for final-statsjson
     },
     {
       "username": "i_komarov",
@@ -1261,16 +1252,7 @@
       "favorited": {
         "total": 471,
         "average": "5.23"
-      },
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "gainedFollowers": 65
-=======
-      "gainedFollowers": 65,
-=======
->>>>>>> next iteration over stats
-      "maxFavoritedTotal": true
->>>>>>> fix for final-statsjson
+      }
     },
     {
       "username": "mistakster",
@@ -2111,20 +2093,10 @@
     },
     {
       "username": "pepelsbey",
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "index": 27,
-      "followers_count": 1638,
-      "tweets": 526,
-=======
-      "followers_count": 1607,
-      "tweets": 355,
->>>>>>> aint nobody need indexes
-=======
       "start": "17 Aug 2015",
       "first": "633203477540380672",
       "post": false,
-      "tweets": 355,
+      "tweets": 526,
       "info": {
         "id": 3014054307,
         "id_str": "3014054307",
@@ -2164,29 +2136,29 @@
           }
         },
         "protected": false,
-        "followers_count": 1607,
+        "followers_count": 1638,
         "friends_count": 19,
         "listed_count": 62,
         "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-        "favourites_count": 328,
+        "favourites_count": 333,
         "utc_offset": 7200,
         "time_zone": "Stockholm",
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 8182,
+        "statuses_count": 8353,
         "lang": "ru",
         "status": {
-          "created_at": "Tue Aug 18 21:15:07 +0000 2015",
-          "id": 633748987137290200,
-          "id_str": "633748987137290240",
-          "text": "@shuvalov_anton, Cmd K ядерный оказался :)",
+          "created_at": "Wed Aug 19 20:02:54 +0000 2015",
+          "id": 634093200878252000,
+          "id_str": "634093200878252033",
+          "text": "@_h4_ эй! У меня сегодня был созерцательный проезд, плюс эти бегуны, коляски и собаки на поводках (",
           "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
           "truncated": false,
-          "in_reply_to_status_id": 633748239502544900,
-          "in_reply_to_status_id_str": "633748239502544896",
-          "in_reply_to_user_id": 214580679,
-          "in_reply_to_user_id_str": "214580679",
-          "in_reply_to_screen_name": "shuvalov_anton",
+          "in_reply_to_status_id": 634092596818772000,
+          "in_reply_to_status_id_str": "634092596818771968",
+          "in_reply_to_user_id": 15020265,
+          "in_reply_to_user_id_str": "15020265",
+          "in_reply_to_screen_name": "_h4_",
           "geo": null,
           "coordinates": null,
           "place": {
@@ -2231,13 +2203,13 @@
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "shuvalov_anton",
-                "name": "Darth Shuvalov",
-                "id": 214580679,
-                "id_str": "214580679",
+                "screen_name": "_h4_",
+                "name": "Наполеон Бонапарт",
+                "id": 15020265,
+                "id_str": "15020265",
                 "indices": [
                   0,
-                  15
+                  5
                 ]
               }
             ],
@@ -2269,8 +2241,7 @@
         "follow_request_sent": false,
         "notifications": false
       },
-      "gainedFollowers": 125,
->>>>>>> next iteration over stats
+      "gainedFollowers": 156,
       "own": {
         "total": 282,
         "percent": "53.61"
@@ -2288,18 +2259,11 @@
         "average": "0.50"
       },
       "favorited": {
-<<<<<<< HEAD
         "total": 503,
         "average": "1.78"
       },
-      "gainedFollowers": 156,
-      "maxOwn": true,
-      "maxFavorited": true
-=======
-        "total": 323,
-        "average": "1.66"
-      }
->>>>>>> next iteration over stats
+      "maxOwnTotal": true,
+      "maxFavoritedTotal": true
     }
   ]
 }
