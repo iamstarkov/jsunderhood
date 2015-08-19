@@ -1,3 +1,5 @@
+import fs from 'fs-extra';
+
 export default [
   // post: false
   { username: 'pepelsbey',       start: '17 Aug 2015', first: '633203477540380672', post: false },
@@ -27,4 +29,8 @@ export default [
   { username: 'iamstarkov',      start: '23 Feb 2015', first: '569802366297493505' },
   { username: 'filipovskii',     start: '09 Feb 2015', first: '564697062378594304' },
   { username: 'shuvalov_anton',  start: '03 Feb 2015', first: '562516792753811456' },
-];
+].map(author => {
+  author.tweets = fs.readJsonSync(`./dump/${author.username}.json`).tweets;
+  author.info   = fs.readJsonSync(`./dump/${author.username}-info.json`);
+  return author;
+});
