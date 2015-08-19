@@ -22,7 +22,8 @@ var path = require('path');
 var numd = require('numd');
 
 var latestInfo = fs.readJsonSync('./dump/latest-info.json');
-var finalStats = fs.readJsonSync('./final-stats.json').stats;
+var authors = require('./authors.js');
+var getStats = require('./stats.js');
 
 var moment = require('moment');
 var d = function(input) { return moment(new Date(input)).format("DD MMMM YYYY"); };
@@ -109,8 +110,6 @@ gulp.task('index-page', function() {
 
 
 gulp.task('stats-page', function() {
-  var stats = [].concat(finalStats);
-  stats.reverse();
   return gulp.src('layouts/stats.jade')
     .pipe(jade({
       pretty: true,
@@ -120,7 +119,7 @@ gulp.task('stats-page', function() {
         url: 'stats/',
         desc: site.description,
         site: site,
-        stats: stats,
+        stats: getStats(authors),
         latestInfo: latestInfo,
         ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
         retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
