@@ -5,6 +5,149 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Aug 19 14:40:52 +0000 2015",
+      "id": 634012157064126500,
+      "id_str": "634012157064126464",
+      "text": "@_h4_ в душе — он Author! А рама — сменник ;)",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 634011982463664100,
+      "in_reply_to_status_id_str": "634011982463664128",
+      "in_reply_to_user_id": 15020265,
+      "in_reply_to_user_id_str": "15020265",
+      "in_reply_to_screen_name": "_h4_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_h4_",
+            "name": "Наполеон Бонапарт",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Wed Aug 19 14:39:26 +0000 2015",
+      "id": 634011796454678500,
+      "id_str": "634011796454678529",
+      "text": "В Осло придумал игру «Сосчитай Теслы»: считаю их по дороге на работу и обратно. Обычно 5-7, бывает 10. Это на полумиллионник.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Aug 19 14:35:56 +0000 2015",
       "id": 634010917248860200,
       "id_str": "634010917248860160",
@@ -992,7 +1135,7 @@
       },
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
