@@ -46,13 +46,13 @@
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8386,
+  "statuses_count": 8387,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 20 11:03:35 +0000 2015",
-    "id": 634319863205470200,
-    "id_str": "634319863205470208",
-    "text": "Mediaworks один из источников дохода компании, а также ТВ, партнёрство с операторами и производителями техники, мобильная реклама.",
+    "created_at": "Thu Aug 20 11:05:01 +0000 2015",
+    "id": 634320224028913700,
+    "id_str": "634320224028913664",
+    "text": "Opera публичная компания и торгуется на бирже, за подробностями вам сюда — http://t.co/0Dx3CcDHwM",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -103,10 +103,21 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/0Dx3CcDHwM",
+          "expanded_url": "http://www.operasoftware.com/company/investors",
+          "display_url": "operasoftware.com/company/invest…",
+          "indices": [
+            75,
+            97
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
