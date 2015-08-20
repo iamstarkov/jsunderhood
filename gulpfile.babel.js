@@ -48,14 +48,12 @@ var jadeDefaults = {
     repliesUnit: numd('ответ', 'ответа', 'ответов')
   }
 };
-var jade = function(opts) {
-  var opts = opts || {};
+const getOptions = (opts = {}) =>
+assign({}, jadeDefaults, opts, {
+  locals: assign({}, jadeDefaults.locals, opts.locals)
+});
 
-  var options = assign({}, jadeDefaults, opts);
-  options.locals = assign({}, jadeDefaults.locals, opts.locals);
-
-  return gulpJade(options);
-};
+const jade = opts => gulpJade(getOptions(opts));
 
 var articleData = require('./article-data');
 
