@@ -5,6 +5,774 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Aug 20 22:14:41 +0000 2015",
+      "id": 634488754389037000,
+      "id_str": "634488754389037056",
+      "text": "@iamstarkov, помню, завтра",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 634477433069142000,
+      "in_reply_to_status_id_str": "634477433069142016",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 21:27:54 +0000 2015",
+      "id": 634476980558237700,
+      "id_str": "634476980558237697",
+      "text": "Мы поговорим про образование, язык, конференции, проекты, развитие и около того. И, как водится, любые ваши вопросы. Буквально.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 21:26:30 +0000 2015",
+      "id": 634476628576456700,
+      "id_str": "634476628576456704",
+      "text": "По дороге с пати домой коллега продавал мне язык Go, было интересно. Завтра рейс в Питер в 9 утра и тема дня «разработчик вне кода».",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 21:15:36 +0000 2015",
+      "id": 634473882968281100,
+      "id_str": "634473882968281088",
+      "text": "@int16h, в том, что правильный лёгкий редактор и многое переняли из TextMate-family, а не из монстра Visual Studio.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 634473240577089500,
+      "in_reply_to_status_id_str": "634473240577089536",
+      "in_reply_to_user_id": 3311239259,
+      "in_reply_to_user_id_str": "3311239259",
+      "in_reply_to_screen_name": "int16h",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "int16h",
+            "name": "KØLIBABCHUK",
+            "id": 3311239259,
+            "id_str": "3311239259",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 18:21:52 +0000 2015",
+      "id": 634430162277376000,
+      "id_str": "634430162277376000",
+      "text": "@rusgautama, скорость нормальная, не хватило нужных плагинов и пока нет времени глубоко настроить, как это сделал с ST за годы.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 634424368114892800,
+      "in_reply_to_status_id_str": "634424368114892800",
+      "in_reply_to_user_id": 101620431,
+      "in_reply_to_user_id_str": "101620431",
+      "in_reply_to_screen_name": "rusgautama",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "056a8698780786f4",
+        "url": "https://api.twitter.com/1.1/geo/id/056a8698780786f4.json",
+        "place_type": "city",
+        "name": "Hurum",
+        "full_name": "Hurum, Norge",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.3908572,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.6882701
+              ],
+              [
+                10.3908572,
+                59.6882701
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rusgautama",
+            "name": "Rus Buddha",
+            "id": 101620431,
+            "id_str": "101620431",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 18:20:48 +0000 2015",
+      "id": 634429895758737400,
+      "id_str": "634429895758737408",
+      "text": "Visual Studio Code мне чем-то напоминает Brackets: отличное начало, но бесшовно со старыми привычками на него не перейти, как ни старайся.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "056a8698780786f4",
+        "url": "https://api.twitter.com/1.1/geo/id/056a8698780786f4.json",
+        "place_type": "city",
+        "name": "Hurum",
+        "full_name": "Hurum, Norge",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.3908572,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.6882701
+              ],
+              [
+                10.3908572,
+                59.6882701
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 18:19:22 +0000 2015",
+      "id": 634429531449884700,
+      "id_str": "634429531449884672",
+      "text": "RT @unel86: @jsunderhood пробовал ли vs code? Он, как ни странно, в некоторых местах даже пошустрее атома",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 20 18:02:02 +0000 2015",
+        "id": 634425172573974500,
+        "id_str": "634425172573974528",
+        "text": "@jsunderhood пробовал ли vs code? Он, как ни странно, в некоторых местах даже пошустрее атома",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 634412231212552200,
+        "in_reply_to_status_id_str": "634412231212552192",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 38406852,
+          "id_str": "38406852"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "unel86",
+            "name": "Peter Jah (0-)",
+            "id": 38406852,
+            "id_str": "38406852",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 18:18:59 +0000 2015",
+      "id": 634429438265061400,
+      "id_str": "634429438265061376",
+      "text": "@silentroach, я бегал поначалу с Gipis, аналог Кипера, но в быстро придумал свой собственный режим и стал следовать ему.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 634424296845262800,
+      "in_reply_to_status_id_str": "634424296845262848",
+      "in_reply_to_user_id": 8736072,
+      "in_reply_to_user_id_str": "8736072",
+      "in_reply_to_screen_name": "silentroach",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "056a8698780786f4",
+        "url": "https://api.twitter.com/1.1/geo/id/056a8698780786f4.json",
+        "place_type": "city",
+        "name": "Hurum",
+        "full_name": "Hurum, Norge",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.3908572,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.6882701
+              ],
+              [
+                10.3908572,
+                59.6882701
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "silentroach",
+            "name": "Игорь",
+            "id": 8736072,
+            "id_str": "8736072",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 18:18:00 +0000 2015",
+      "id": 634429189173682200,
+      "id_str": "634429189173682176",
+      "text": "Влиться было (и есть) сложно из-за языкового барьера — ты просто не так хорошо болтаешь на отвлечённые темы, ну и из-за природной скромности",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "056a8698780786f4",
+        "url": "https://api.twitter.com/1.1/geo/id/056a8698780786f4.json",
+        "place_type": "city",
+        "name": "Hurum",
+        "full_name": "Hurum, Norge",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.3908572,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.4549979
+              ],
+              [
+                10.634541,
+                59.6882701
+              ],
+              [
+                10.3908572,
+                59.6882701
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 18:16:46 +0000 2015",
+      "id": 634428880447742000,
+      "id_str": "634428880447741952",
+      "text": "RT @krasivieglaza: @jsunderhood а в чем это проявляется ? Тяжело было вначале влиться в коллектив ?",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 20 17:49:42 +0000 2015",
+        "id": 634422066746425300,
+        "id_str": "634422066746425344",
+        "text": "@jsunderhood а в чем это проявляется ? Тяжело было вначале влиться в коллектив ?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 634414706065834000,
+        "in_reply_to_status_id_str": "634414706065833984",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 59075577,
+          "id_str": "59075577"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "4303d1afc1e98c37",
+          "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+          "place_type": "city",
+          "name": "Moscow",
+          "full_name": "Moscow, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  37.1316733,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  56.0209192
+                ],
+                [
+                  37.1316733,
+                  56.0209192
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krasivieglaza",
+            "name": "Sergei Panfilov",
+            "id": 59075577,
+            "id_str": "59075577",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              19,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Aug 20 17:21:55 +0000 2015",
       "id": 634415076787798000,
       "id_str": "634415076787798018",
@@ -59,7 +827,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -190,8 +958,8 @@
       },
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2286,8 +3054,8 @@
       },
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 8,
+      "retweet_count": 2,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6068,7 +6836,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6134,7 +6902,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 24,
+      "favorite_count": 27,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -20147,8 +20915,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 940,
-        "favorite_count": 397,
+        "retweet_count": 947,
+        "favorite_count": 403,
         "entities": {
           "hashtags": [
             {
@@ -39956,7 +40724,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 13,
+      "favorite_count": 14,
       "entities": {
         "hashtags": [],
         "symbols": [],
