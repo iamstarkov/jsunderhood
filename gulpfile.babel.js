@@ -20,6 +20,7 @@ var sequence = require('run-sequence');
 var each = require('each-done');
 var path = require('path');
 var numd = require('numd');
+var numbers = require('typographic-numbers');
 
 var latestInfo = fs.readJsonSync('./dump/latest-info.json');
 var authors = require('./authors.js');
@@ -40,7 +41,7 @@ var jadeDefaults = {
   locals: {
     site: site,
     latestInfo: latestInfo,
-
+    numbers: input => numbers(input, { locale: 'ru' }),
     peopleUnit: numd('человек', 'человека', 'людей'),
 
     ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
