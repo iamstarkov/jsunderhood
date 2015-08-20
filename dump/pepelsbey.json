@@ -5,6 +5,83 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Aug 20 11:09:58 +0000 2015",
+      "id": 634321470806736900,
+      "id_str": "634321470806736897",
+      "text": "Подробнее обо всех браузерах Opera, движках и режимах можно прочитать по-русски на Dev.Opera — https://t.co/kWBCJctU30",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kWBCJctU30",
+            "expanded_url": "https://dev.opera.com/articles/ru/browsers-modes-engines/",
+            "display_url": "dev.opera.com/articles/ru/br…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Aug 20 11:08:54 +0000 2015",
       "id": 634321202375446500,
       "id_str": "634321202375446528",
@@ -125,7 +202,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -47835,13 +47912,13 @@
     "time_zone": "Stockholm",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8389,
+    "statuses_count": 8390,
     "lang": "ru",
     "status": {
-      "created_at": "Thu Aug 20 11:07:36 +0000 2015",
-      "id": 634320875072954400,
-      "id_str": "634320875072954368",
-      "text": "Разработка Presto прекращена с момента перехода десктопа на Blink, сейчас Presto работает на серверах Opera Mini, но в итоге уйдёт и оттуда.",
+      "created_at": "Thu Aug 20 11:08:54 +0000 2015",
+      "id": 634321202375446500,
+      "id_str": "634321202375446528",
+      "text": "То, что у вас на телефоне основной браузер Opera Mini совсем не значит, что всё работает на Presto, возможно браузер в режиме Turbo.",
       "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
