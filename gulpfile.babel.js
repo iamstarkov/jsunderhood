@@ -37,16 +37,11 @@ var getBasename = function(file) {
 
 var jadeDefaults = {
   pretty: true,
-
   locals: {
     site: site,
     latestInfo: latestInfo,
     numbers: input => numbers(input, { locale: 'ru' }),
     peopleUnit: numd('человек', 'человека', 'людей'),
-
-    ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
-    retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
-    repliesUnit: numd('ответ', 'ответа', 'ответов')
   }
 };
 const getOptions = (opts = {}) =>
