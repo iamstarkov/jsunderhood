@@ -16227,7 +16227,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 913,
-        "favorite_count": 381,
+        "favorite_count": 382,
         "entities": {
           "hashtags": [
             {
@@ -47367,91 +47367,118 @@
       }
     },
     "protected": false,
-    "followers_count": 1638,
+    "followers_count": 1643,
     "friends_count": 19,
-    "listed_count": 62,
+    "listed_count": 63,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
     "favourites_count": 335,
     "utc_offset": 7200,
     "time_zone": "Stockholm",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8354,
+    "statuses_count": 8384,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Aug 19 21:07:44 +0000 2015",
-      "id": 634109517530308600,
-      "id_str": "634109517530308608",
-      "text": "@beshur, у меня сестра гоняет, я немного понимаю ;) https://t.co/Sbt7czKbP0",
+      "created_at": "Thu Aug 20 10:59:21 +0000 2015",
+      "id": 634318800666632200,
+      "id_str": "634318800666632193",
+      "text": "RT @a_kovalev: @jsunderhood Каков основной источних дохода компании? Мобильная реклама? Имеет ли http://t.co/6GSOdLSUEk отношение к Opera S…",
       "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
       "truncated": false,
-      "in_reply_to_status_id": 634109041015410700,
-      "in_reply_to_status_id_str": "634109041015410688",
-      "in_reply_to_user_id": 20632504,
-      "in_reply_to_user_id_str": "20632504",
-      "in_reply_to_screen_name": "beshur",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
-      "place": {
-        "id": "83989e2decc1e863",
-        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
-        "place_type": "admin",
-        "name": "Oslo",
-        "full_name": "Oslo",
-        "country_code": "NO",
-        "country": "Norge",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                10.4914682,
-                59.8097794
-              ],
-              [
-                10.9515836,
-                59.8097794
-              ],
-              [
-                10.9515836,
-                60.1350316
-              ],
-              [
-                10.4914682,
-                60.1350316
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 20 07:11:59 +0000 2015",
+        "id": 634261579945668600,
+        "id_str": "634261579945668608",
+        "text": "@jsunderhood Каков основной источних дохода компании? Мобильная реклама? Имеет ли http://t.co/6GSOdLSUEk отношение к Opera Software?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 634259471213195300,
+        "in_reply_to_status_id_str": "634259471213195264",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
               ]
-            ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/6GSOdLSUEk",
+              "expanded_url": "http://operamediaworks.com/",
+              "display_url": "operamediaworks.com",
+              "indices": [
+                82,
+                104
+              ]
+            }
           ]
         },
-        "attributes": {}
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
       },
-      "contributors": null,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "beshur",
-            "name": "Shu Buznik",
-            "id": 20632504,
-            "id_str": "20632504",
+            "screen_name": "a_kovalev",
+            "name": "Alexander Kovalev",
+            "id": 50318548,
+            "id_str": "50318548",
             "indices": [
-              0,
-              7
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
             ]
           }
         ],
         "urls": [
           {
-            "url": "https://t.co/Sbt7czKbP0",
-            "expanded_url": "https://instagram.com/p/4-dmslszhu/",
-            "display_url": "instagram.com/p/4-dmslszhu/",
+            "url": "http://t.co/6GSOdLSUEk",
+            "expanded_url": "http://operamediaworks.com/",
+            "display_url": "operamediaworks.com",
             "indices": [
-              52,
-              75
+              97,
+              119
             ]
           }
         ]
