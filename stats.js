@@ -1,6 +1,6 @@
 import assign from 'object-assign';
 import twStats from 'tweets-stats';
-import max from './max.js'
+import maxValues from 'max-values'
 
 const statProps = [
   'tweets', 'gainedFollowers',
@@ -24,5 +24,5 @@ let getStatsPerAuthor = authors =>
     .reverse();
 
 export default function getStats(authors) {
-  return max(getStatsPerAuthor(authors), statProps);
+  return maxValues(getStatsPerAuthor(authors), statProps);
 };
