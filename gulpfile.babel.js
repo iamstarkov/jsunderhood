@@ -38,9 +38,14 @@ var jadeDefaults = {
   pretty: true,
 
   locals: {
-    peopleUnit: numd('человек', 'человека', 'людей'),
     site: site,
-    latestInfo: latestInfo
+    latestInfo: latestInfo,
+
+    peopleUnit: numd('человек', 'человека', 'людей'),
+
+    ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
+    retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
+    repliesUnit: numd('ответ', 'ответа', 'ответов')
   }
 };
 var jade = function(opts) {
@@ -130,10 +135,7 @@ gulp.task('stats-page', function() {
         title: 'Статистика jsunderhood',
         url: 'stats/',
         desc: site.description,
-        stats: getStats(authors),
-        ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
-        retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
-        repliesUnit: numd('ответ', 'ответа', 'ответов')
+        stats: getStats(authors)
       }
     }))
     .pipe(rename({ dirname: 'stats' }))
