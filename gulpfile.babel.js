@@ -47,7 +47,7 @@ var jade = function(opts) {
   var opts = opts || {};
 
   var options = assign({}, jadeDefaults, opts);
-  options.locals = assign(jadeDefaults.locals, opts.locals);
+  options.locals = assign({}, jadeDefaults.locals, opts.locals);
 
   return gulpJade(options);
 };
