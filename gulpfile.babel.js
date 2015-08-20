@@ -5,7 +5,7 @@ var gulp = require('gulp');
 var watch = require('gulp-watch');
 var rename = require('gulp-rename');
 var data = require('gulp-data');
-var jade = require('gulp-jade');
+var gulpJade = require('gulp-jade');
 var debug = require('gulp-debug');
 var replace = require('gulp-replace');
 var log = require('gulp-util').log;
@@ -33,6 +33,27 @@ var site = require('./package.json').site;
 var getBasename = function(file) {
   return path.basename(file.relative, path.extname(file.relative));
 };
+
+var jadeDefaults = {
+  pretty: true,
+
+  locals: {
+    site: site,
+    latestInfo: latestInfo,
+
+    peopleUnit: numd('человек', 'человека', 'людей'),
+
+    ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
+    retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
+    repliesUnit: numd('ответ', 'ответа', 'ответов')
+  }
+};
+const getOptions = (opts = {}) =>
+  assign({}, jadeDefaults, opts, {
+    locals: assign({}, jadeDefaults.locals, opts.locals)
+  });
+
+const jade = opts => gulpJade(getOptions(opts));
 
 var articleData = require('./article-data');
 
@@ -92,15 +113,11 @@ gulp.task('index-page', function() {
   };
   return gulp.src('layouts/index.jade')
     .pipe(jade({
-      pretty: true,
-
       locals: {
         title: site.title,
         url: '',
         desc: site.description,
-        site: site,
         list: articles.reduce(groupInGrid, []),
-        latestInfo: latestInfo
       }
     }))
     .pipe(rename({ basename: 'index' }))
@@ -112,18 +129,11 @@ gulp.task('index-page', function() {
 gulp.task('stats-page', function() {
   return gulp.src('layouts/stats.jade')
     .pipe(jade({
-      pretty: true,
-
       locals: {
         title: 'Статистика jsunderhood',
         url: 'stats/',
         desc: site.description,
-        site: site,
-        stats: getStats(authors),
-        latestInfo: latestInfo,
-        ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
-        retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
-        repliesUnit: numd('ответ', 'ответа', 'ответов')
+        stats: getStats(authors)
       }
     }))
     .pipe(rename({ dirname: 'stats' }))
@@ -137,12 +147,9 @@ gulp.task('about-page', function() {
 
   return gulp.src('layouts/article.jade')
     .pipe(jade({
-      pretty: true,
       locals: assign({}, article, {
         title: 'О проекте',
         url: 'about/',
-        site: site,
-        latestInfo: latestInfo
       })
     }))
     .pipe(rename({ dirname: 'about' }))
@@ -154,7 +161,7 @@ gulp.task('articles-pages', function(done) {
   each(articles, function(article) {
     return gulp.src('layouts/article.jade')
       .pipe(data(function() { return article; }))
-      .pipe(jade({ pretty: true }))
+      .pipe(jade())
       .pipe(rename({ dirname: article.url }))
       .pipe(rename({ basename: 'index' }))
       .pipe(gulp.dest('dist'));
