@@ -46,13 +46,13 @@
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8388,
+  "statuses_count": 8389,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 20 11:05:24 +0000 2015",
-    "id": 634320320753737700,
-    "id_str": "634320320753737729",
-    "text": "RT @gxoptg_: @jsunderhood Развивается ли Престо дальше? Будет ли дальше появляться в нём (и в Опере Мини, соответственно) поддержка новых с…",
+    "created_at": "Thu Aug 20 11:07:36 +0000 2015",
+    "id": 634320875072954400,
+    "id_str": "634320875072954368",
+    "text": "Разработка Presto прекращена с момента перехода десктопа на Blink, сейчас Presto работает на серверах Opera Mini, но в итоге уйдёт и оттуда.",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -62,74 +62,47 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Aug 20 07:22:02 +0000 2015",
-      "id": 634264110163734500,
-      "id_str": "634264110163734528",
-      "text": "@jsunderhood Развивается ли Престо дальше? Будет ли дальше появляться в нём (и в Опере Мини, соответственно) поддержка новых стандартов?",
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 634259471213195300,
-      "in_reply_to_status_id_str": "634259471213195264",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
+    "place": {
+      "id": "83989e2decc1e863",
+      "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+      "place_type": "admin",
+      "name": "Oslo",
+      "full_name": "Oslo",
+      "country_code": "NO",
+      "country": "Norge",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4914682,
+              59.8097794
+            ],
+            [
+              10.9515836,
+              59.8097794
+            ],
+            [
+              10.9515836,
+              60.1350316
+            ],
+            [
+              10.4914682,
+              60.1350316
             ]
-          }
-        ],
-        "urls": []
+          ]
+        ]
       },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
+      "attributes": {}
     },
-    "retweet_count": 1,
+    "contributors": null,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "gxoptg_",
-          "name": "Ivan Akulov",
-          "id": 264743740,
-          "id_str": "264743740",
-          "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            13,
-            25
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
