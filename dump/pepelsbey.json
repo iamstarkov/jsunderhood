@@ -52056,37 +52056,37 @@
       }
     },
     "protected": false,
-    "followers_count": 1654,
-    "friends_count": 19,
+    "followers_count": 1659,
+    "friends_count": 0,
     "listed_count": 63,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-    "favourites_count": 301,
+    "favourites_count": 4,
     "utc_offset": 7200,
     "time_zone": "Stockholm",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8429,
+    "statuses_count": 8439,
     "lang": "ru",
     "status": {
-      "created_at": "Thu Aug 20 17:21:55 +0000 2015",
-      "id": 634415076787798000,
-      "id_str": "634415076787798018",
-      "text": "Про что шутим с коллегами? Вам лучше не знать. Когда в команде был Патрик Лауке, они с Брюсом заставляли краснеть самых суровых дровосеков.",
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "created_at": "Thu Aug 20 22:14:41 +0000 2015",
+      "id": 634488754389037000,
+      "id_str": "634488754389037056",
+      "text": "@iamstarkov, помню, завтра",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 634477433069142000,
+      "in_reply_to_status_id_str": "634477433069142016",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
       "geo": null,
       "coordinates": null,
       "place": {
-        "id": "056a8698780786f4",
-        "url": "https://api.twitter.com/1.1/geo/id/056a8698780786f4.json",
-        "place_type": "city",
-        "name": "Hurum",
-        "full_name": "Hurum, Norge",
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
         "country_code": "NO",
         "country": "Norge",
         "contained_within": [],
@@ -52095,20 +52095,20 @@
           "coordinates": [
             [
               [
-                10.3908572,
-                59.4549979
+                10.4914682,
+                59.8097794
               ],
               [
-                10.634541,
-                59.4549979
+                10.9515836,
+                59.8097794
               ],
               [
-                10.634541,
-                59.6882701
+                10.9515836,
+                60.1350316
               ],
               [
-                10.3908572,
-                59.6882701
+                10.4914682,
+                60.1350316
               ]
             ]
           ]
@@ -52117,11 +52117,22 @@
       },
       "contributors": null,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
         "urls": []
       },
       "favorited": false,
