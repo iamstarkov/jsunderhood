@@ -1,28 +1,22 @@
 import assign from 'object-assign';
-import twStats from 'tweets-stats';
+import stats from 'tweets-stats';
 import maxValues from 'max-values'
 
-const statProps = [
-  'tweets', 'gainedFollowers',
-  'own.total', 'replies.total', 'retweets.total',
-  'favorited.total', 'favorited.average',
-  'retweeted.total', 'retweeted.average'
-];
-
-const getGainedFollowers = (author, i, arr) =>
-  arr[i-1]
-    ? (author.info.followers_count - arr[i-1].info.followers_count)
-    : author.info.followers_count;
-
-let getStatsPerAuthor = authors =>
+const getStatsPerAuthor = authors =>
   authors
-    .reverse()
+    .map(author => (assign({}, author, { followers: author.info.followers_count })))
     .map((author, i, arr) => (assign({}, author, {
-      gainedFollowers: getGainedFollowers(author, i, arr)
+      gainedFollowers: arr[i + 1]
+        ? (author.followers - arr[i + 1].followers)
+        : author.followers
     })))
-    .map(author => assign({}, author, twStats(author.tweets)))
-    .reverse();
+    .map(author => assign({}, author, stats(author.tweets)))
 
 export default function getStats(authors) {
-  return maxValues(getStatsPerAuthor(authors), statProps);
+  return maxValues(getStatsPerAuthor(authors), [
+    'tweets', 'gainedFollowers',
+    'own.total', 'replies.total', 'retweets.total',
+    'favorited.total', 'favorited.average',
+    'retweeted.total', 'retweeted.average'
+  ]);
 };
