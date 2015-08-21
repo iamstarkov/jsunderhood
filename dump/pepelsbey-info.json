@@ -37,59 +37,59 @@
     }
   },
   "protected": false,
-  "followers_count": 1663,
+  "followers_count": 1671,
   "friends_count": 0,
   "listed_count": 63,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4,
+  "favourites_count": 6,
   "utc_offset": 7200,
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8439,
+  "statuses_count": 8450,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 20 22:14:41 +0000 2015",
-    "id": 634488754389037000,
-    "id_str": "634488754389037056",
-    "text": "@iamstarkov, помню, завтра",
+    "created_at": "Fri Aug 21 11:53:28 +0000 2015",
+    "id": 634694806497792000,
+    "id_str": "634694806497792000",
+    "text": "Иметь отраслевых посредников считаю полезным: верстающие дизайнеры, программирующие менеджеры — они обогащают каждую из профессий.",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 634477433069142000,
-    "in_reply_to_status_id_str": "634477433069142016",
-    "in_reply_to_user_id": 98084311,
-    "in_reply_to_user_id_str": "98084311",
-    "in_reply_to_screen_name": "iamstarkov",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": {
-      "id": "83989e2decc1e863",
-      "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
-      "place_type": "admin",
-      "name": "Oslo",
-      "full_name": "Oslo",
-      "country_code": "NO",
-      "country": "Norge",
+      "id": "a76c0cd7d56c4836",
+      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+      "place_type": "city",
+      "name": "Saint Petersburg",
+      "full_name": "Saint Petersburg, Russia",
+      "country_code": "RU",
+      "country": "Rossiya",
       "contained_within": [],
       "bounding_box": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              10.4914682,
-              59.8097794
+              30.0896894,
+              59.7761714
             ],
             [
-              10.9515836,
-              59.8097794
+              30.5677067,
+              59.7761714
             ],
             [
-              10.9515836,
-              60.1350316
+              30.5677067,
+              60.0921253
             ],
             [
-              10.4914682,
-              60.1350316
+              30.0896894,
+              60.0921253
             ]
           ]
         ]
@@ -98,22 +98,11 @@
     },
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "iamstarkov",
-          "name": "Vladimir Starkov",
-          "id": 98084311,
-          "id_str": "98084311",
-          "indices": [
-            0,
-            11
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
