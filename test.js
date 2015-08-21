@@ -40,7 +40,7 @@ describe('about page', function() {
   it('text', function() {
     var $ = make$('dist/about/index.html');
 
-    assert($('article').text().length > 0 || $('article p').length > 0);
+    assert($('article').text().length > 0);
   });
 });
 
