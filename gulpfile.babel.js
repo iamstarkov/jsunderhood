@@ -156,8 +156,9 @@ gulp.task('about-page', function() {
 gulp.task('articles-pages', function(done) {
   each(articles, function(article) {
     return gulp.src('layouts/article.jade')
-      .pipe(data(function() { return article; }))
-      .pipe(jade())
+      .pipe(jade({
+        locals: article
+      }))
       .pipe(rename({ dirname: article.url }))
       .pipe(rename({ basename: 'index' }))
       .pipe(gulp.dest('dist'));
