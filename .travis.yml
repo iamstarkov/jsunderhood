@@ -7,6 +7,7 @@ node_js:
 - iojs-2
 before_script:
 - npm install -g gulp
+- npm install -g mocha
 after_script:
 - git config --global user.email "iamstarkov+tachikombie@gmail.com"
 - git config --global user.name "Tachikoma Zombie"
