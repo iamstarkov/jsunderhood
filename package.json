@@ -9,7 +9,7 @@
     "f5": "npm-run-all update posts",
     "save": "git add . && git commit -m 'save dump' && git push origin master",
     "deploy": "gulp gh",
-    "test": "echo \"Its okay, its fine\" && exit 0",
+    "test": "gulp build && mocha --require babel/register",
     "start": "gulp"
   },
   "repository": {
