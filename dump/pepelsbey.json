@@ -5,6 +5,72 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Aug 21 12:04:52 +0000 2015",
+      "id": 634697676156764200,
+      "id_str": "634697676156764160",
+      "text": "Там же на форуме сформировался костяк нынешнего сообщества Веб-стандарты, которое появилось после закрытия этого форума.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Aug 21 12:03:09 +0000 2015",
       "id": 634697241471676400,
       "id_str": "634697241471676416",
@@ -506,7 +572,7 @@
       },
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 3,
       "entities": {
         "hashtags": [],
@@ -53019,13 +53085,13 @@
     "time_zone": "Stockholm",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8451,
+    "statuses_count": 8452,
     "lang": "ru",
     "status": {
-      "created_at": "Fri Aug 21 12:00:52 +0000 2015",
-      "id": 634696669083377700,
-      "id_str": "634696669083377666",
-      "text": "Параллельно с самообразованием на практике и из статей в западных блогах, важным источником знаний для меня стали сообщества разработчиков.",
+      "created_at": "Fri Aug 21 12:03:09 +0000 2015",
+      "id": 634697241471676400,
+      "id_str": "634697241471676416",
+      "text": "Например, упомянутый ранее http://t.co/c895SKWabz с переводами ALA, Нильсена и авторскими статьями Качанова http://t.co/7cFipzVHYn",
       "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -53076,10 +53142,30 @@
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": []
+        "urls": [
+          {
+            "url": "http://t.co/c895SKWabz",
+            "expanded_url": "http://webmascon.com/",
+            "display_url": "webmascon.com",
+            "indices": [
+              27,
+              49
+            ]
+          },
+          {
+            "url": "http://t.co/7cFipzVHYn",
+            "expanded_url": "http://www.webmascon.com/topics/imho/4a.asp",
+            "display_url": "webmascon.com/topics/imho/4a…",
+            "indices": [
+              108,
+              130
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
