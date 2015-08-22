@@ -21,6 +21,7 @@ var each = require('each-done');
 var path = require('path');
 var numd = require('numd');
 var numbers = require('typographic-numbers');
+var gm = require('gulp-gm');
 
 var latestInfo = fs.readJsonSync('./dump/latest-info.json');
 var authors = require('./authors.js');
@@ -183,7 +184,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'images', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'userpics', done);
 });
 
 gulp.task('build', function(done) {
@@ -202,8 +203,12 @@ gulp.task('css-bootstrap', function() {
   return gulp.src('node_modules/bootstrap/dist/**').pipe(gulp.dest('dist'));
 });
 
-gulp.task('images', () =>
-  gulp.src('dump/images/*').pipe(gulp.dest('dist/images')));
+gulp.task('userpics', () =>
+  gulp.src('dump/images/*-image*')
+    .pipe(gm(image => image.resize(96,96).setFormat('jpg'), {
+      imageMagick: true
+    }))
+    .pipe(gulp.dest('dist/images')));
 
 gulp.task('css', ['css-bootstrap'], function() {
   return gulp.src('styles.css').pipe(gulp.dest('dist/css'));
