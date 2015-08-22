@@ -21,7 +21,14 @@ block content
     each row in list
       .row
         each article in row
-          div.col-md-4
-            h2: a(href=article.url)= article.title
-            small: time= article.date
-            p.list__item-desc !{article.desc}
+          .col-md-4
+            a.row(href=article.url)
+              .col-md-2
+                .row
+                  img.img-circle.img-responsive(src="https://pbs.twimg.com/profile_images/633196231959965696/6n61ORlP.png")
+              .col-md-10
+                h2.h3(style="margin: 5px 0") Вадим Макеев
+                small= "@" + article.title
+            .row
+              .col-md-12
+                p.list__item-desc !{article.desc}
