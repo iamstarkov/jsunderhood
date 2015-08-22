@@ -183,7 +183,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'images', done);
 });
 
 gulp.task('build', function(done) {
@@ -201,6 +201,9 @@ gulp.task('cname', function() {
 gulp.task('css-bootstrap', function() {
   return gulp.src('node_modules/bootstrap/dist/**').pipe(gulp.dest('dist'));
 });
+
+gulp.task('images', () =>
+  gulp.src('dump/images/*').pipe(gulp.dest('dist/images')));
 
 gulp.task('css', ['css-bootstrap'], function() {
   return gulp.src('styles.css').pipe(gulp.dest('dist/css'));
