@@ -49,6 +49,7 @@
     "express": "^4.12.4",
     "fs-extra": "^0.18.4",
     "get-tweets": "^1.1.0",
+    "got": "^4.1.1",
     "gulp": "^3.8.11",
     "gulp-data": "^1.2.0",
     "gulp-debug": "^2.0.1",
@@ -71,7 +72,8 @@
     "through2": "^0.6.5",
     "tweet-baker": "^1.0.0",
     "tweets-stats": "^1.0.0",
-    "twitter-tokens": "^1.0.0",
+    "twitter-profile-media": "^0.1.1",
+    "twitter-tokens": "^1.0.1",
     "typographic-numbers": "^0.2.1"
   },
   "devDependencies": {
