@@ -2,7 +2,7 @@
 
 _04 мая 2015_
 
-## Вторник <small>33 твита</small>
+## Вторник <small>32 твита</small>
 
 На этой неделе управление этим аккаунтом доверили мне, <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> - Джон, просто Джон, ex-Ebay, SoftDev+ в RailsReactor, проездом в Бостоне.
 
@@ -68,9 +68,9 @@ RT <a href="https://twitter.com/naorunaoru" title="рома">@naorunaoru</a>: <a
 
 <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> также в общем случае работают <a href="http://t.co/cVgqfBbupd">lanyrd.com</a> и <a href="http://t.co/yZ098cdFha">meetup.com</a> (теперь там можно только 1 город иметь, правда)
 
-RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/ru_rodweb" title="Igor Deryabin">@ru_rodweb</a> <a href="https://t.co/H1oAwBYJJ2">github.com/mathiasbynens/…</a>
-
 ## Среда <small>66 твитов</small>
+
+RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/ru_rodweb" title="Igor Deryabin">@ru_rodweb</a> <a href="https://t.co/H1oAwBYJJ2">github.com/mathiasbynens/…</a>
 
 RT <a href="https://twitter.com/NealMoreau" title="Атланов Евгений">@NealMoreau</a>: Как молодому разработчику выбрать страну проживания ( если опустить момент «Родину не выбирают» ). Какой есть опыт? <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
@@ -203,9 +203,9 @@ RT <a href="https://twitter.com/fxposter" title="Pavel Forkert">@fxposter</a>: <
 
 Если кому интересно, то вот хороший список русскоговорящих чатов профильных - <a href="https://t.co/UaFUmC7DVT">github.com/mr-mig/ru-it-c…</a>
 
-Нужно будет попробовать следующую секцию лайв-кодинга в <a href="http://t.co/WLv8vg04tb">code.visualstudio.com</a>
+## Четверг <small>32 твита</small>
 
-## Четверг <small>31 твит</small>
+Нужно будет попробовать следующую секцию лайв-кодинга в <a href="http://t.co/WLv8vg04tb">code.visualstudio.com</a>
 
 RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: Короче совет: поедете в Нью Йорк - всеми правдами и неправдами селитесь на Манхеттане.
 
@@ -272,7 +272,7 @@ RT <a href="https://twitter.com/ALF_er" title="Illia Segeda">@ALF_er</a>: Оче
 
 <a href="https://t.co/MA53ZqIBn9">github.com/mattdiamond/fu…</a> - Eval-Rinse-Reload-And-Repeat to make sure your javascript code runs whether your compiler likes it or not.
 
-## Пятница <small>35 твитов</small>
+## Пятница <small>33 твита</small>
 
 Сегодня 20 лет JS 🎉<a href="https://t.co/QM9VKC4mBN">twitter.com/JavaScriptDail…</a>N
 
@@ -343,11 +343,11 @@ RT <a href="https://twitter.com/skif_by" title="Alexandre">@skif_by</a>: <a href
 
 .<a href="https://twitter.com/skif_by" title="Alexandre">@skif_by</a> <a href="https://twitter.com/komzpa" title="Komяpa">@komzpa</a> читайте ленту - вчера слушал про настоящую многопоточность в жс. Сначала в FF, потом хром. До конца года обещают.
 
+## Суббота <small>39 твитов</small>
+
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> вот хз. Лучше почитать документацию и узнать что еще им можно забивать, чем читать второсортный пересказ @<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> а-то так окажется, что для дюпелей нужен свой особенный молоток, а для грецких орехов свой. <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
-
-## Суббота <small>37 твитов</small>
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: Кажется, <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> уходит на каникулы со следующей недели и до 11-го — праздники.
 

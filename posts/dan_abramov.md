@@ -163,7 +163,7 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 Я пойду стричься, подумаю над темами на неделю. Кидайте еще, о чем хотите поговорить. Можно в личку если что-то скользкое.
 
-## Вторник <small>124 твита</small>
+## Вторник <small>119 твитов</small>
 
 Привет. Я проснулся.
 
@@ -407,6 +407,8 @@ RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>:
 
 Завершаю сегодняшний поток добрым видео. Спокойной ночи! <a href="https://t.co/M7TD3kbl68">vimeo.com/88035957</a>
 
+## Среда <small>45 твитов</small>
+
 Провинция, front end (angular) - 40к и это еще много. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
 
 RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а не было желания написать свой роутер для реакта?
@@ -416,8 +418,6 @@ RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebr
 Миксины опциональные, ты можешь использовать контекст напрямую. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
 
 Роутер 1.0 будет легко "направлять" через Flux полностью, так что состояние может лежать в твоем сторе. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
-
-## Среда <small>40 твитов</small>
 
 Киев, пусть будет Senior, не лид, Node.js/React, $3.5k - 4% <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
 
@@ -562,7 +562,7 @@ RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a hre
 
 Я думаю, что Webpack Hot Module Replacement + тулзы типа React Hot Loader достойно решают эту проблему. <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
 
-## Пятница <small>79 твитов</small>
+## Пятница <small>78 твитов</small>
 
 Вы пользуетесь Browserify или Webpack? Почему?
 
@@ -722,9 +722,9 @@ RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlen
 
 RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> сейчас в проекте имеем 140000 значимого кода и ветка с webpack выглядит спасением
 
-RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, однажды во сне приснились строчки моего кода где был баг, который искал неделю.
+## Суббота <small>82 твита</small>
 
-## Суббота <small>95 твитов</small>
+RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, однажды во сне приснились строчки моего кода где был баг, который искал неделю.
 
 RT <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a>: .<a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> читаю про Webpack. Первый вопрос: почему они хотят CSS через JS грузить? http://t.co<a href="http://t.co/aYp0RORTO9">webpack.github.io/docs/tutorials…</a>
 
@@ -888,6 +888,8 @@ RT <a href="https://twitter.com/beshur" title="Shu Buznik">@beshur</a>: <a href=
 
 RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> какой прекрасный субботний вещества-тред
 
+## Воскресенье <small>31 твит</small>
+
 Есть еще интересный лайфхак на эту тему, который мне показал друг. Сейчас расскажу. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
 
 RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну если MDMA, то митинг растянется на весь день и будет самым успешным в ис…
@@ -916,8 +918,6 @@ RT <a href="https://twitter.com/ilnurkhalilov" title="Ilnur Khalilov">@ilnurkhal
 RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А есть еще разрабы с кератоконусом? Как выживают?
 
 Как не надо писать комментарии на Github: <a href="https://t.co/RUyznc5jHn">github.com/gaearon/react-…</a>
-
-## Воскресенье <small>17 твитов</small>
 
 RT <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> воскресный вопрос, какие хобби у программистов? Мне кажется что почти все либо музыканты, либо фотографы)
 
