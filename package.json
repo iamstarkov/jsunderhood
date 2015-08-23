@@ -6,8 +6,9 @@
   "scripts": {
     "update": "babel-node update",
     "posts": "babel-node posts",
-    "save": "git add . && git commit -m 'save dump' && git push origin master &>/dev/null",
     "f5": "npm-run-all update posts",
+    "save-dump": "./tools/save-dump.sh",
+    "save": "npm-run-all update posts save-dump",
     "deploy": "gulp gh",
     "test": "gulp build && mocha --require babel/register",
     "start": "gulp"
