@@ -46,13 +46,13 @@
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8527,
+  "statuses_count": 8529,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Aug 23 12:03:03 +0000 2015",
-    "id": 635421992741531600,
-    "id_str": "635421992741531648",
-    "text": "Илон Маск — это такой бизнесмен, успешный менеджер, без иронии. Как Джобс или Джозеф Макмиллан — посмотрите Halt and Catch Fire.",
+    "created_at": "Sun Aug 23 12:06:05 +0000 2015",
+    "id": 635422758793556000,
+    "id_str": "635422758793555968",
+    "text": "RT @wouldntfix: @jsunderhood хорошо сказал. Я чуть не прослезился :—)",
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -60,61 +60,76 @@
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
-    "geo": {
-      "type": "Point",
-      "coordinates": [
-        59.93574524,
-        30.28239441
-      ]
-    },
-    "coordinates": {
-      "type": "Point",
-      "coordinates": [
-        30.28239441,
-        59.93574524
-      ]
-    },
-    "place": {
-      "id": "a76c0cd7d56c4836",
-      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-      "place_type": "city",
-      "name": "Saint Petersburg",
-      "full_name": "Saint Petersburg, Russia",
-      "country_code": "RU",
-      "country": "Rossiya",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              30.0896894,
-              59.7761714
-            ],
-            [
-              30.5677067,
-              59.7761714
-            ],
-            [
-              30.5677067,
-              60.0921253
-            ],
-            [
-              30.0896894,
-              60.0921253
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sun Aug 23 11:56:59 +0000 2015",
+      "id": 635420464794497000,
+      "id_str": "635420464794497024",
+      "text": "@jsunderhood хорошо сказал. Я чуть не прослезился :—)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635417670519754800,
+      "in_reply_to_status_id_str": "635417670519754753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "wouldntfix",
+          "name": "Александр (18́+)",
+          "id": 20382725,
+          "id_str": "20382725",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            16,
+            28
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
