@@ -5,11 +5,9 @@ branches:
   - master
 node_js:
 - iojs-2
-after_script:
-  - bash ./tools/deploy.sh
-# deploy:
-#   provider: script
-#   script: tools/deploy.sh
+deploy:
+  provider: script
+  script: bash tools/deploy.sh
 env:
   global:
   - secure: LMquucbcmDVHwREciVFw+NlCNlKeB2IbVHxA19CRznrJSo/C4ranykFU7B1lKDpsqihbOqu3C4KwmZ/jywEY/ftZMFku+azreq3UBgXWRv9AGuZ+4CfLASKVe8w+r1Nohh0PmHGXSvPUvg6NgEeIvIkpUu9JVzzIx6vzWWAkkZnAL5324t/VB4tQKXzuiCBLx9zXdCwOIOV/yu66tEdxqtnLD3Ub/FCiLYTBJDX+eya9UoJsyINvCzQked+wRd2EWTHX6cHdj2lqH+kFx3iBNVKOUxXWFLpoZ3PmhnQndiSCgQK1dOk7+CLOZOO5QXAO7prZXRjWYbK0zS+KsL7ulyXxfKCCHvzJsIyxIfYv0Yhg9d6sCIdIhxv8PtMLxtmyg4Y01f0jkoaCThn4WWYjJa5w2OQOv+6QntAqQb8hToWkLiQIWEBSopK6rVKXjQwRucNgWMjGVVknY/zp8GdwGmJm8fQQrzRkywDmrg03pjfqQpGQ6K2pX9bd8yBq1z7KQvVGpcGV/Jffi7qJhZHt0XC6LQVqpSBehsmqSYoanWeg1SOluDHlhItlMktkIfPpmt183ChnGDJ1QbiXaYmlIFOtUtyw4d0A6euKaPgSazLRLF+dh02XOEESQmhLqVNEZonjvgev8IVY0qqaVE121rRsngVIOP/Vmr4+MNYYUIY=
