@@ -8,8 +8,8 @@ export default function loadMedia(author, path, authorNameForSave) {
     if (err) throw err;
     media(tokens, author, (err, { image, banner }) => {
       if (err) throw err;
-      image &&  load(image,  `${path}/${authorNameForSave}-image.jpg`);
-      banner && load(banner, `${path}/${authorNameForSave}-banner.png`);
+      image &&  load(image,  `${path}/${authorNameForSave}-image`);
+      banner && load(banner, `${path}/${authorNameForSave}-banner`);
     });
   });
 }
