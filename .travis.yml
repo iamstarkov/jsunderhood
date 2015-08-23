@@ -6,7 +6,7 @@ branches:
 node_js:
 - iojs-2
 after_script:
-  - sh ./tools/deploy.sh
+  - bash ./tools/deploy.sh
 # deploy:
 #   provider: script
 #   script: tools/deploy.sh
