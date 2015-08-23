@@ -205,9 +205,9 @@ gulp.task('css-bootstrap', function() {
 
 gulp.task('userpics', () =>
   gulp.src('dump/images/*-image*')
-    // .pipe(gm(image => image.resize(96,96).setFormat('jpg'), {
-    //   imageMagick: true
-    // }))
+    .pipe(gm(image => image.resize(96,96).setFormat('jpg'), {
+      imageMagick: true
+    }))
     .pipe(gulp.dest('dist/images')));
 
 gulp.task('css', ['css-bootstrap'], function() {
