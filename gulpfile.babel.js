@@ -42,7 +42,7 @@ var jadeDefaults = {
     site: site,
     latestInfo: latestInfo,
     numbers: input => numbers(input, { locale: 'ru' }),
-    people: numd('человек', 'человека', 'людей'),
+    people: numd('человек', 'человека', 'человек'),
   }
 };
 const getOptions = (opts = {}) =>
