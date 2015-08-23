@@ -46,13 +46,13 @@
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8525,
+  "statuses_count": 8526,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Aug 23 11:55:19 +0000 2015",
-    "id": 635420047956176900,
-    "id_str": "635420047956176896",
-    "text": "Не довелось ещё прокатится на Тесле, очень хотелось бы послушать, понюхать, удивиться вкряченному в консоль айпаду.",
+    "created_at": "Sun Aug 23 11:59:17 +0000 2015",
+    "id": 635421046577995800,
+    "id_str": "635421046577995776",
+    "text": "RT @iamstarkov: @jsunderhood что ты думаешь про Илона Маска?",
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,12 +64,72 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sun Aug 23 11:38:06 +0000 2015",
+      "id": 635415715382739000,
+      "id_str": "635415715382738945",
+      "text": "@jsunderhood что ты думаешь про Илона Маска?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635414131751944200,
+      "in_reply_to_status_id_str": "635414131751944192",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "iamstarkov",
+          "name": "Vladimir Starkov",
+          "id": 98084311,
+          "id_str": "98084311",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            16,
+            28
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
