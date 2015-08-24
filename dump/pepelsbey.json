@@ -59,7 +59,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -389,7 +389,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -14694,6 +14694,92 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 11:01:32 +0000 2015",
+      "id": 634319350443413500,
+      "id_str": "634319350443413504",
+      "text": "Opera разделена на 2 компании: Opera Software http://t.co/pK1sCBGpJf и Opera Mediaworks http://t.co/jvtcr18HyI. Софт и реклама.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "83989e2decc1e863",
+        "url": "https://api.twitter.com/1.1/geo/id/83989e2decc1e863.json",
+        "place_type": "admin",
+        "name": "Oslo",
+        "full_name": "Oslo",
+        "country_code": "NO",
+        "country": "Norge",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.4914682,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                59.8097794
+              ],
+              [
+                10.9515836,
+                60.1350316
+              ],
+              [
+                10.4914682,
+                60.1350316
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/pK1sCBGpJf",
+            "expanded_url": "http://opera.com/",
+            "display_url": "opera.com",
+            "indices": [
+              46,
+              68
+            ]
+          },
+          {
+            "url": "http://t.co/jvtcr18HyI",
+            "expanded_url": "http://operamediaworks.com/",
+            "display_url": "operamediaworks.com",
+            "indices": [
+              88,
+              110
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     },
     {
       "created_at": "Thu Aug 20 10:59:21 +0000 2015",
