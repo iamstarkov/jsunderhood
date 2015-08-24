@@ -297,7 +297,7 @@ RT <a href="https://twitter.com/fleg31" title="Алексей">@fleg31</a>: <a h
 
 Сертификат с SHA1 истекает в 2015 году — нет ворнинга. Подробнее в <a href="http://t.co/1KW5TAPeTV">googleonlinesecurity.blogspot.co.uk/2014/09/gradua…</a> +<a href="https://twitter.com/slonoed" title="Dmitry M.">@slonoed</a> <a href="https://t.co/5O27xFXE5S">twitter.com/slonoed/status…</a>
 
-## Среда <small>42 твита</small>
+## Среда <small>39 твитов</small>
 
 RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тема правильных шифров не раскрыта.
 
@@ -379,13 +379,13 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 У Ильи все презентации информативные. Посмотрите «Is TLS Fast Yet?» и «HTTPS Everywhere» <a href="https://t.co/IRa0mvR879">igvita.com</a> <a href="http://t.co/GnTjaqxmfI">pic.twitter.com/GnTjaqxmfI</a>
 
+## Четверг <small>74 твита</small>
+
 RT <a href="https://twitter.com/kasanop" title="Ivan Poddubny">@kasanop</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a> ещё есть h2o (MIT) <a href="https://t.co/TaS3MchY3W">h2o.examp1e.net</a>
 
 RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/ihc_ru" title="Интернет Хостинг">@ihc_ru</a> У меня все заработало.
 
 RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> мне чуть меньше, но я согласен с каждым словом.
-
-## Четверг <small>71 твит</small>
 
 RT <a href="https://twitter.com/PanyaKor" title="Mikhail Korepanov">@PanyaKor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a> их довльно много в том числе и открытых, например <a href="https://t.co/Tdqo1oOM6q">nghttp2.org</a>, вообще см. <a href="https://t.co/OGHDOPW3lJ">github.com/http2/http2-sp…</a>
 

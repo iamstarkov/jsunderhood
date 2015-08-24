@@ -1,6 +1,6 @@
 # iamstarkov
 
-_01 марта 2015_
+_02 марта 2015_
 
 ## Понедельник <small>27 твитов</small>
 
@@ -624,7 +624,7 @@ RT <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a>
 
 RT <a href="https://twitter.com/voxpuibr" title="Stanislav Shabalin">@voxpuibr</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вот хорошая статья на тему <a href="http://t.co/le6TH3UzPv">carl.flax.ie/dothingstellpe…</a>
 
-## Воскресенье <small>3 твита</small>
+## Понедельник <small>3 твита</small>
 
 Сегодня ночной эфир!
 
