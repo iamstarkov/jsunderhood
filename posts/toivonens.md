@@ -2,7 +2,7 @@
 
 _15 марта 2015_
 
-## Понедельник <small>80 твитов</small>
+## Понедельник <small>79 твитов</small>
 
 Привет! На этой неделе с вами я, <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>. Наконец-то добавила аккаунт во все свои устройства.
 
@@ -166,9 +166,9 @@ RT <a href="https://twitter.com/ki_zu" title="Роман Комаров">@ki_zu<
 
 В Гарвардском университете придумали cyborg flesh <a href="http://t.co/fyVlmqSh8p">extremetech.com/extreme/135207…</a>
 
-Собственные npm-пакеты можно выкладывать в приватный репозиторий пакетов. А вот и он <a href="https://t.co/e2DiadttqO">npmjs.com/package/sinopia</a> Говорят, удобный.
+## Вторник <small>79 твитов</small>
 
-## Вторник <small>78 твитов</small>
+Собственные npm-пакеты можно выкладывать в приватный репозиторий пакетов. А вот и он <a href="https://t.co/e2DiadttqO">npmjs.com/package/sinopia</a> Говорят, удобный.
 
 Доброе утро! В Европах рано работать начинают :-) Я прихожу к 10 (остальные ещё раньше) и никак не могу к этому привыкнуть.
 
