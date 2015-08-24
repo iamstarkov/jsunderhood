@@ -9,13 +9,15 @@ const author = authors[0];
 
 loadMedia('jsunderhood', 'dump/images', author.username);
 
-getTweets(tokens, 'jsunderhood', author.first, (err, tweets, missed, info) => {
-  if (err) throw err;
-  author.tweets = tweets;
-  fs.outputJson(`./dump/${author.username}.json`, author, err =>
-    log(`${author.username} done`));
-  fs.outputJson(`./dump/${author.username}-info.json`, info, err =>
-    log(`${author.username} info done`));
-  fs.outputJson(`./dump/latest-info.json`, info, err =>
-    log(`latest info done`));
-});
+setTimeout(function() {
+  getTweets(tokens, 'jsunderhood', author.first, (err, tweets, missed, info) => {
+    if (err) throw err;
+    author.tweets = tweets;
+    fs.outputJson(`./dump/${author.username}.json`, author, err =>
+      log(`${author.username} done`));
+    fs.outputJson(`./dump/${author.username}-info.json`, info, err =>
+      log(`${author.username} info done`));
+    fs.outputJson(`./dump/latest-info.json`, info, err =>
+      log(`latest info done`));
+  });
+}, 10000)
