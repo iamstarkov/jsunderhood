@@ -1,3 +1,4 @@
+import assign from 'object-assign';
 import fs from 'fs-extra';
 
 export default [
@@ -31,7 +32,9 @@ export default [
   { username: 'filipovskii',     start: '09 Feb 2015', first: '564697062378594304' },
   { username: 'shuvalov_anton',  start: '03 Feb 2015', first: '562516792753811456' },
 ].map(author => {
-  author.tweets = fs.readJsonSync(`./dump/${author.username}.json`).tweets;
-  author.info   = fs.readJsonSync(`./dump/${author.username}-info.json`);
+  const dumpInfo = fs.readJsonSync(`./dump/${author.username}-info.json`, { throws: false }) || {};
+  const dump = fs.readJsonSync(`./dump/${author.username}.json`, { throws: false }) || {};
+  author.tweets = dump.tweets || [];
+  author.info   = dumpInfo
   return author;
 });
