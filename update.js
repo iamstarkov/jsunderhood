@@ -7,9 +7,8 @@ import loadMedia from './helpers/load-media';
 const log = console.log.bind(null);
 const author = authors[0];
 
-loadMedia('jsunderhood', 'dump/images', author.username);
-
-setTimeout(function() {
+loadMedia('jsunderhood', 'dump/images', author.username, (err) => {
+  if (err) throw err;
   getTweets(tokens, 'jsunderhood', author.first, (err, tweets, missed, info) => {
     if (err) throw err;
     author.tweets = tweets;
@@ -20,4 +19,4 @@ setTimeout(function() {
     fs.outputJson(`./dump/latest-info.json`, info, err =>
       log(`latest info done`));
   });
-}, 60000);
+});
