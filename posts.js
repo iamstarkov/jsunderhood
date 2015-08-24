@@ -1,6 +1,6 @@
 import fs from 'fs-extra';
 import authors from './authors';
-import bake from 'tweet-baker';
+import baker from 'tweet-baker';
 import moment from 'moment';
 import numd from 'numd';
 
@@ -13,6 +13,12 @@ const capitalize = i => i.split('').map((item, i) => i === 0 ? item.toUpperCase(
 
 const minUrlsForGroup = 5;
 
+const bake = baker.make({
+  user_mentions: entity => `[@${entity.screen_name}](https://twitter.com/${entity.screen_name} "${entity.name}")`,
+  media:         entity => `[${entity.display_url}](${entity.url})`,
+  hashtags:      entity => `[${entity.text}](https://twitter.com/search?q=%23${entity.text})`,
+  urls:          entity => `[${entity.display_url}](${entity.url} "${entity.expanded_url}")`
+});
 
 const separateByWeekdays = (state, item, i, arr) => {
   var weekday = getWeekday(item.created_at);
