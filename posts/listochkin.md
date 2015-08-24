@@ -2,7 +2,7 @@
 
 _31 мая 2015_
 
-## Понедельник <small>53 твита</small>
+## Понедельник <small>59 твитов</small>
 
 Хо-хо!  Всем привет! Я - Андрей <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> Разработчик из Киева, люблю JavaScript. Эту неделю я с вами :)
 
@@ -112,8 +112,6 @@ RT <a href="https://twitter.com/tlyapun" title="Taras Lyapun">@tlyapun</a>: <a h
 
 RT <a href="https://twitter.com/nkbtnk" title="Nik Butenko">@nkbtnk</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> не хотят учить новый синтаксис и ленятся почитать, чем он лучше. Рекомендую  <a href="https://t.co/eNyuK14ras">leanpub.com/understandinge…</a>
 
-## Вторник <small>158 твитов</small>
-
 RT <a href="https://twitter.com/oshibka404" title="Andrey Ozornin">@oshibka404</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> прозвучит как неуместная шутка, но JS-ник должен знать JS. Тогда его оторвут с руками.
 
 RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: А вы используете Crome Canary, FF Nightly и Opera beta или их релизные версии как основные? Что установлено и в чем тестируе…
@@ -125,6 +123,8 @@ RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a
 RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> браузер поддерживает веб открытым, хендлит 2000+ табов, аддоны.
 
 RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> для разработки особые плюсы есть у обоих инструментов, и разработчик должен уметь ими пользоваться.
+
+## Вторник <small>158 твитов</small>
 
 Всем доброе утро! Напоминаю, что твиттер ведет <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> и у нас на повестке 2 вопроса.
 
@@ -436,8 +436,6 @@ RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="
 
 Еще один классический блог пост - о визуализации алгоритмов от автора <a href="https://twitter.com/search?q=%23d3js">#d3js</a> <a href="http://t.co/PEWXkxTj3j">bost.ocks.org/mike/algorithm…</a>
 
-## Среда <small>156 твитов</small>
-
 Кстати, вчера обсуждали Bower в негативном ключе - и вот проскочила ссылка: <a href="http://t.co/uKguq3iva7">gofore.com/ohjelmistokehi…</a>
 
 RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> меняй билд-тул для Sass на PostCSS. А если по делу, собираете чем? На libsass переключались?
@@ -449,6 +447,8 @@ RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a 
 В ответах на этот твит предлагайте темы на завтра. Что хочется больше? Node? JS Frameworks? Не совсем JS? Совсем не JS? Нетехнические темы?
 
 <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а я спать.
+
+## Среда <small>150 твитов</small>
 
 RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на самом деле мы less собираем грантом, много файлов, куча миксинов, используем middleware для dev и gr…
 
@@ -1369,7 +1369,7 @@ RT <a href="https://twitter.com/iSnifer" title="Anton Kuznetsov">@iSnifer</a>: <
 
 У меня к вам серьезный вопрос: вы в выходные в инете будете? Мне стоит вам что-то писать? И если да, то о чем?
 
-## Суббота <small>63 твита</small>
+## Суббота <small>102 твита</small>
 
 RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> можешь периодически напоминать, что, кроме компьютеров, там за окном - целый мир непосещеный.
 
@@ -1505,8 +1505,6 @@ RT <a href="https://twitter.com/Kern_0" title="Арсений Максимов">
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> но зачем столько табов?)
 
-## Воскресенье <small>66 твитов</small>
-
 Помнишь раньше почтовые сервисы ограничивали место, а потом Yahoo! рекламировало Unlimited со словами “теперь письма можно не удалять”?
 
 Так вот, тут та же ситуация. Зачем закрывать вкладки? Какую цель ты преследуешь? Нужна вкладка? - открыл новую и делай что хочешь.
@@ -1584,6 +1582,8 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/Kern_0" title="Арсений Максимов">@Kern_0</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вот это Extract. Крутота!
 
 В общем <a href="https://twitter.com/brackets" title="Brackets">@brackets</a> - отличный редактор для CSS, верстки и фронтенда, а <a href="https://twitter.com/code" title="code">@code</a> - для Node. Рекомендую обратить внимание.
+
+## Воскресенье <small>27 твитов</small>
 
 А для меня flux - это такая регулировка цветовой температуры монитора. А для вас?
 
