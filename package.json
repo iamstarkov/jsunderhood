@@ -6,10 +6,10 @@
   "scripts": {
     "update": "babel-node update",
     "posts": "babel-node posts",
-    "f5": "./node_modules/.bin/npm-run-all update posts",
+    "f5": "npm-run-all update posts",
     "save-dump": "./tools/save-dump.sh",
-    "save": "./node_modules/.bin/npm-run-all update posts save-dump",
-    "deploy": "./node_modules/.bin/gulp gh",
+    "save": "npm-run-all update posts save-dump",
+    "deploy": "gulp gh",
     "test": "gulp build && mocha --require babel/register",
     "start": "gulp"
   },
