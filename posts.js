@@ -3,6 +3,7 @@ import authors from './authors';
 import bake from 'tweet-baker';
 import moment from 'moment';
 import numd from 'numd';
+import urlRegexp from 'twitter-regexps/url';
 
 moment.locale('ru');
 
@@ -35,17 +36,22 @@ const post = (author, post = true) => {
   author.tweets = author.tweets.filter(filterTimeline);
 
   // Collect urls
-  const urlRegExp = /https?:\/\/([^\/]+)\//;
-  const filterUrl = url => !url.startsWith('https://twitter.com/') && urlRegExp.test(url);
-  const getDomain = url => /https?:\/\/([^\/]+)\//.exec(url)[1];
   let urlsGroups = author.tweets.reduce((groups, tweet) => {
     return tweet.entities.urls.reduce((groups, urlData) => {
       const url = urlData.expanded_url;
-      if (filterUrl(url)) {
-        const domain = getDomain(url);
-        if (!groups[domain]) { groups[domain] = []; }
-        groups[domain].push(url);
+
+      while (urlRegexp.exec(url)) {
+        const domain = RegExp.$5;
+
+        if (domain && 'twitter.com' !== domain) {
+          if (!groups[domain]) {
+            groups[domain] = [];
+          }
+
+          groups[domain].push(url);
+        }
       }
+
       return groups;
     }, groups);
   }, {});
@@ -56,7 +62,7 @@ const post = (author, post = true) => {
     const urls = urlsGroups[domain];
     if (urls.length < minUrlsForGroup) {
       delete urlsGroups[domain];
-      otherUrls = otherUrls.concat(urls);
+      Array.prototype.push.apply(otherUrls, urls);
     }
   });
 
