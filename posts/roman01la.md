@@ -4,7 +4,7 @@ _06 марта 2015_
 
 ## Понедельник <small>68 твитов</small>
 
-Привет. На этой неделе здесь я — <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>. Будем говорить о парном программировании, функциональном JS, о доступности и других штуках.
+Привет. На этой неделе здесь я — [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"). Будем говорить о парном программировании, функциональном JS, о доступности и других штуках.
 
 Кто-нибудь практикует парное программирование? Какие, по вашему мнению, плюсы/минусы в таком подходе?
 
@@ -18,7 +18,7 @@ _06 марта 2015_
 
 Важно постоянно менять партнера, например раз в пару месяцев. Партнера по коду, конечно же :)
 
-RT <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вот пара моих рассказов про парное программирование: <a href="https://t.co/rtwtfwMj6h">events.yandex.ru/lib/talks/559/</a> и <a href="https://t.co/yPXxAg8Vzm">events.yandex.ru/lib/talks/1447/</a>
+RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот пара моих рассказов про парное программирование: [events.yandex.ru/lib/talks/559/](https://t.co/rtwtfwMj6h "https://events.yandex.ru/lib/talks/559/") и [events.yandex.ru/lib/talks/1447/](https://t.co/yPXxAg8Vzm "https://events.yandex.ru/lib/talks/1447/")
 
 Если чувствуете себя некомфортно с новым партнером, важно не промолчать и высказаться. Вам еще работать вместе.
 
@@ -26,23 +26,23 @@ RT <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a>: <a h
 
 Только что менялись парами: стали в круг, разбираем задания и, по желанию, меняемся. Тимлид всегда помогает в этом процессе.
 
-.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> попросила написать о сообществе разработчиков здесь, во Львове.
+.[@toivonens](https://twitter.com/toivonens "var ya; // ru") попросила написать о сообществе разработчиков здесь, во Львове.
 
 Львов — один из центров аутсорса в Украине. Поэтому большинство митапов проводятся в стенах таких компаний.
 
 Но, на самом деле, есть и более интересные вещи. За почти полтора года, что я здесь живу, успел побывать на паре таких митапов.
 
-Например на прошлых выходных, на территории горнолыжного курорта Буковель, прошла конференция WeBukovel <a href="http://t.co/aQYYbhNvsQ">webukovel.org.ua</a>
+Например на прошлых выходных, на территории горнолыжного курорта Буковель, прошла конференция WeBukovel [webukovel.org.ua](http://t.co/aQYYbhNvsQ "http://webukovel.org.ua/")
 
-Спасибо ее организатору <a href="https://twitter.com/ArtyomTrityak" title="Artyom Trityak">@ArtyomTrityak</a>. Я был рядом, но, к сожалению, не было возможности зайти.
+Спасибо ее организатору [@ArtyomTrityak](https://twitter.com/ArtyomTrityak "Artyom Trityak"). Я был рядом, но, к сожалению, не было возможности зайти.
 
-Еще во Львове есть <a href="https://twitter.com/LvivJS" title="LvivJS">@LvivJS</a> — конференция фронтенд разработчиков <a href="http://t.co/pYSDurNbFa">lvivjs.org.ua</a> Был там в прошлом году, очень понравилось.
+Еще во Львове есть [@LvivJS](https://twitter.com/LvivJS "LvivJS") — конференция фронтенд разработчиков [lvivjs.org.ua](http://t.co/pYSDurNbFa "http://www.lvivjs.org.ua/") Был там в прошлом году, очень понравилось.
 
 Может кто-нибудь из Львовских расскажет больше о местных митапах?
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> фраза о важности выбора партнера по парному программированию звучит грозно по соседству с такими твитами http://t<a href="http://t.co/fPwnIdfB1D">pic.twitter.com/fPwnIdfB1D</a>
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") фраза о важности выбора партнера по парному программированию звучит грозно по соседству с такими твитами http://t[pic.twitter.com/fPwnIdfB1D](http://t.co/fPwnIdfB1D)
 
-Пытался достучаться до местной JS юзер группы <a href="http://t.co/RLFLnmcqtc">jsug-lviv.blogspot.com</a> Судя по блогу ребята давно не собирались.
+Пытался достучаться до местной JS юзер группы [jsug-lviv.blogspot.com](http://t.co/RLFLnmcqtc "http://jsug-lviv.blogspot.com/") Судя по блогу ребята давно не собирались.
 
 Вообще удивительно, что, при таком количестве разработчиков в городе, не возникают новые митапы. Или я чего-то не знаю.
 
@@ -50,17 +50,17 @@ RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="
 
 Нужно только суметь убедить заказчика в пользе для проекта от посещения таких событий.
 
-А что бы убедить в необходимости посещения события, практически все митапы дают такой мануал <a href="http://t.co/vjbE62eIZ4">fluentconf.com/fluent2014/pub…</a>
+А что бы убедить в необходимости посещения события, практически все митапы дают такой мануал [fluentconf.com/fluent2014/pub…](http://t.co/vjbE62eIZ4 "http://fluentconf.com/fluent2014/public/content/convince-manager")
 
 Дальше по плану функциональный JS и немного FRP. Сейчас эта тема особенно активно обсуждается вокруг сообщества React.
 
-Уже есть полно библиотек для написания кода в функциональном стиле, а на Хабре постоянно размещают посты на эту тему <a href="http://t.co/tbjk4G9ed3">habrahabr.ru/hub/funcprog/</a>
+Уже есть полно библиотек для написания кода в функциональном стиле, а на Хабре постоянно размещают посты на эту тему [habrahabr.ru/hub/funcprog/](http://t.co/tbjk4G9ed3 "http://habrahabr.ru/hub/funcprog/")
 
-Популярные библиотеки: <a href="https://t.co/P7Ke19Kutz">baconjs.github.io</a> <a href="https://t.co/ro7sYDvtvE">github.com/cujojs/most</a> <a href="http://t.co/7LDAkEfggn">reactive-extensions.github.io/RxJS/</a> <a href="http://t.co/hoGn7JJ8av">ramdajs.com</a>
+Популярные библиотеки: [baconjs.github.io](https://t.co/P7Ke19Kutz "https://baconjs.github.io/") [github.com/cujojs/most](https://t.co/ro7sYDvtvE "https://github.com/cujojs/most") [reactive-extensions.github.io/RxJS/](http://t.co/7LDAkEfggn "http://reactive-extensions.github.io/RxJS/") [ramdajs.com](http://t.co/hoGn7JJ8av "http://ramdajs.com/")
 
 Кто-нибудь практикует функциональный JS? Было бы интересно услышать впечатление от работы с JS пришедших из функциональных языков.
 
-RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> попиарь мою либу <a href="https://t.co/A3Me4UDtYj">github.com/idmitriev/hypr</a>
+RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") попиарь мою либу [github.com/idmitriev/hypr](https://t.co/A3Me4UDtYj "https://github.com/idmitriev/hypr")
 
 В целом функциональный подход интересен хотя бы тем, что это альтернатива привычному ООП.
 
@@ -84,7 +84,7 @@ RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerands
 
 Но запись через вкладывание неудобна, поэтому нам понадобиться функция высшего порядка для миксования других функций в новую операцию.
 
-Такую функцию часто называют `compose`. Вот пример ее реализации <a href="http://t.co/eZxAyLbFLK">jsbin.com/finiziyulo/1/</a>
+Такую функцию часто называют `compose`. Вот пример ее реализации [jsbin.com/finiziyulo/1/](http://t.co/eZxAyLbFLK "http://jsbin.com/finiziyulo/1/")
 
 Теперь новые операции можно создавать так: `let convert = compose(trim, capitalize);`.
 
@@ -92,35 +92,35 @@ RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerands
 
 Для этого в JS нужно отказаться от циклов в пользу `.map()`, `.filter()` и т.д.
 
-В одном из своих докладов <a href="https://twitter.com/jhusain" title="Jafar Husain">@jhusain</a> из Netflix рассказывает о функциональщине в JS <a href="https://t.co/XeEg9p6kdM">youtube.com/channel/UCGGRR…</a>
+В одном из своих докладов [@jhusain](https://twitter.com/jhusain "Jafar Husain") из Netflix рассказывает о функциональщине в JS [youtube.com/channel/UCGGRR…](https://t.co/XeEg9p6kdM "https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos")
 
-Еще у них есть классный интерактивный курс по основам <a href="http://t.co/IPlJ9N9GI4">jhusain.github.io/learnrx/</a>
+Еще у них есть классный интерактивный курс по основам [jhusain.github.io/learnrx/](http://t.co/IPlJ9N9GI4 "http://jhusain.github.io/learnrx/")
 
 Если используете Underscore.js, то ура — в библиотеке есть набор функциональных инструментов, которые вы тоже наверняка уже использовали.
 
-Хотя <a href="https://twitter.com/drboolean" title="Brian Lonsdorf">@drboolean</a> считает, что Underscore делает это неправильно <a href="https://t.co/Znwb7uNE1i">youtube.com/watch?v=m3svKO…</a>
+Хотя [@drboolean](https://twitter.com/drboolean "Brian Lonsdorf") считает, что Underscore делает это неправильно [youtube.com/watch?v=m3svKO…](https://t.co/Znwb7uNE1i "https://www.youtube.com/watch?v=m3svKOdZijA")
 
-У этого парня есть шестичасовой курс по ФП в JS «Hardcore Functional Programming in JavaScript» <a href="https://t.co/iDY6xi8TN0">frontendmasters.com/courses/functi…</a>
+У этого парня есть шестичасовой курс по ФП в JS «Hardcore Functional Programming in JavaScript» [frontendmasters.com/courses/functi…](https://t.co/iDY6xi8TN0 "https://frontendmasters.com/courses/functional-javascript/")
 
-RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> бро, заканчивай эту тоску, пжалста. Или давай сразу про эндофункторы и стрелки и точки неподвижные в разрезе т…
+RT [@deepwalker](https://twitter.com/deepwalker "Кривушин Михаил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") бро, заканчивай эту тоску, пжалста. Или давай сразу про эндофункторы и стрелки и точки неподвижные в разрезе т…
 
-А если хочется теории, то на том же Хабре есть что почитать. Например Теория катеогрий <a href="http://t.co/B5c5mMaahU">habrahabr.ru/search/?q=%D1%…</a>
+А если хочется теории, то на том же Хабре есть что почитать. Например Теория катеогрий [habrahabr.ru/search/?q=%D1%…](http://t.co/B5c5mMaahU "http://habrahabr.ru/search/?q=%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F+%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9")
 
-Больше всего понравилась серия переводов «Теория категорий для программистов» <a href="http://t.co/WrvfmpkNEx">habrahabr.ru/post/245797/</a> Очень доходчиво.
+Больше всего понравилась серия переводов «Теория категорий для программистов» [habrahabr.ru/post/245797/](http://t.co/WrvfmpkNEx "http://habrahabr.ru/post/245797/") Очень доходчиво.
 
 Хотя на практике польза от этого сомнительна. Возможно стоит начать изучать Haskell?
 
-Если нет времени читать статьи, вот отличные слайды <a href="http://t.co/0pasncCV1X">yogsototh.github.io/Category-Theor…</a>
+Если нет времени читать статьи, вот отличные слайды [yogsototh.github.io/Category-Theor…](http://t.co/0pasncCV1X "http://yogsototh.github.io/Category-Theory-Presentation/")
 
 Пожалуйста поправляйте, если с чем-то не согласны.
 
-RT <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на недавнем 19-м <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> выступал Трдат с докладом про FRP. Скоро будет видео! ;)
+RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на недавнем 19-м [@moscowjs](https://twitter.com/moscowjs "MoscowJS") выступал Трдат с докладом про FRP. Скоро будет видео! ;)
 
-RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну вот например <a href="http://t.co/YfLckXBvBU">thedeemon.livejournal.com/87320.html</a>
+RT [@deepwalker](https://twitter.com/deepwalker "Кривушин Михаил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну вот например [thedeemon.livejournal.com/87320.html](http://t.co/YfLckXBvBU "http://thedeemon.livejournal.com/87320.html")
 
 Мне кажется, что для лучшего понимания ФП нужно попробовать функциональный язык. Например Clojure и в частности ClojureScript.
 
-А выбрал я ClojureScript потому, что для него есть Om — cljs интерфейс для React <a href="https://t.co/6sCWvkGrW3">github.com/omcljs/om</a>
+А выбрал я ClojureScript потому, что для него есть Om — cljs интерфейс для React [github.com/omcljs/om](https://t.co/6sCWvkGrW3 "https://github.com/omcljs/om")
 
 В cljs данные всегда неизменяемые (immutable) и вот почему это хорошо...
 
@@ -128,9 +128,9 @@ RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил
 
 К сожалению быстро это работает для многопотоковой архитектуры. Но не отменяет того факта, что с неизменяемыми данными работать проще.
 
-Это был краткий пересказ слов <a href="https://twitter.com/jhusain" title="Jafar Husain">@jhusain</a>
+Это был краткий пересказ слов [@jhusain](https://twitter.com/jhusain "Jafar Husain")
 
-RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a>: <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="http://t.co/VKASbi6cOl">mattgreer.org/articles/pair-…</a>
+RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): [@veged](https://twitter.com/veged "Sergey Berezhnoy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [mattgreer.org/articles/pair-…](http://t.co/VKASbi6cOl "http://www.mattgreer.org/articles/pair-programming-is-not-a-panacea/")
 
 А в сочетании с более медленными абстракциями над циклами типа `.map()` функциональный код в JS будет еще медленнее.
 
@@ -144,13 +144,13 @@ RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voische
 
 Еще немного о ФП
 
-Реализация неизменяемых структур данных в JS: Immutable.js <a href="http://t.co/V91KzFxqHH">facebook.github.io/immutable-js/</a> и mori <a href="http://t.co/NOeLoDUWKS">swannodette.github.io/mori/</a>
+Реализация неизменяемых структур данных в JS: Immutable.js [facebook.github.io/immutable-js/](http://t.co/V91KzFxqHH "http://facebook.github.io/immutable-js/") и mori [swannodette.github.io/mori/](http://t.co/NOeLoDUWKS "http://swannodette.github.io/mori/")
 
-Паттерны ФП <a href="https://t.co/yDZWVxEwXO">youtube.com/watch?v=AvgwKj…</a>
+Паттерны ФП [youtube.com/watch?v=AvgwKj…](https://t.co/yDZWVxEwXO "https://www.youtube.com/watch?v=AvgwKjTPMmM")
 
-Скринкаст по Haskell <a href="https://t.co/YiU0cYxDFr">youtube.com/watch?v=mtVk8R…</a> что бы понять, как ФП работает в функциональных языках.
+Скринкаст по Haskell [youtube.com/watch?v=mtVk8R…](https://t.co/YiU0cYxDFr "https://www.youtube.com/watch?v=mtVk8RjvP_U") что бы понять, как ФП работает в функциональных языках.
 
-И очень крутая лекция про монады <a href="https://t.co/6e01jMQ5bE">youtube.com/watch?v=ZhuHCt…</a> Крокфорд так не объясняет :)
+И очень крутая лекция про монады [youtube.com/watch?v=ZhuHCt…](https://t.co/6e01jMQ5bE "https://www.youtube.com/watch?v=ZhuHCtR3xq8") Крокфорд так не объясняет :)
 
 Теперь немного о функциональном реактивном программировании...
 
@@ -160,35 +160,35 @@ RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voische
 
 На практике это может выглядеть как преобразование событий DOM в поток таких событий и их обработка инструментами ФП.
 
-Например как это делает RxJS <a href="https://t.co/o6GmtO4MaK">github.com/Reactive-Exten…</a>
+Например как это делает RxJS [github.com/Reactive-Exten…](https://t.co/o6GmtO4MaK "https://github.com/Reactive-Extensions/RxJS#why-rxjs")
 
 Используя базовый набор операций над потоками можно облегчить себе жизнь в создании интерфейсов.
 
-Об этом хорошо рассказывает все тот же техлид из Netflix в докладе «Async JavaScript with Reactive Extensions» <a href="https://t.co/CctMO3GOB2">youtube.com/watch?v=FAZJsx…</a>
+Об этом хорошо рассказывает все тот же техлид из Netflix в докладе «Async JavaScript with Reactive Extensions» [youtube.com/watch?v=FAZJsx…](https://t.co/CctMO3GOB2 "https://www.youtube.com/watch?v=FAZJsxcykPs")
 
-Вот еще неплохо написано о реактивном программировании в JS <a href="https://t.co/PaFNOockba">gist.github.com/staltz/868e7e9…</a>
+Вот еще неплохо написано о реактивном программировании в JS [gist.github.com/staltz/868e7e9…](https://t.co/PaFNOockba "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754")
 
-Короткий и информативный доклад <a href="https://twitter.com/swannodette" title="David Nolen">@swannodette</a> о неизменяемых структурах данных <a href="https://t.co/Qdx5terHDa">youtube.com/watch?v=SiFwRt…</a> /cc <a href="https://twitter.com/rdvornov" title="Roman Dvornov">@rdvornov</a>
+Короткий и информативный доклад [@swannodette](https://twitter.com/swannodette "David Nolen") о неизменяемых структурах данных [youtube.com/watch?v=SiFwRt…](https://t.co/Qdx5terHDa "https://www.youtube.com/watch?v=SiFwRtCnxv4") /cc [@rdvornov](https://twitter.com/rdvornov "Roman Dvornov")
 
-На React.js Conf <a href="https://twitter.com/jlongster" title="James Long">@jlongster</a> рассказал о другом подходе в работе с асинхронным JS пришедшем из Clojure и Go — это CSP <a href="https://t.co/nKtzLF2uCF">youtube.com/watch?v=W2DgDN…</a>
+На React.js Conf [@jlongster](https://twitter.com/jlongster "James Long") рассказал о другом подходе в работе с асинхронным JS пришедшем из Clojure и Go — это CSP [youtube.com/watch?v=W2DgDN…](https://t.co/nKtzLF2uCF "https://www.youtube.com/watch?v=W2DgDNQZOwo")
 
 Communicating sequential processes представляет концепцию процессов и каналов, по которым общаются эти процессы.
 
 Один процесс забрасывает данные в канал, другой достает их.
 
-js-csp <a href="https://t.co/SUXRo9Duqb">github.com/ubolonton/js-c…</a>
+js-csp [github.com/ubolonton/js-c…](https://t.co/SUXRo9Duqb "https://github.com/ubolonton/js-csp")
 
-Рядом с CSP всегда упоминаются трансдьюсеры. На Хабре было несколько постов о них. А в этом автор создает их с нуля <a href="http://t.co/jtbaABinsz">phuu.net/2014/08/31/csp…</a>
+Рядом с CSP всегда упоминаются трансдьюсеры. На Хабре было несколько постов о них. А в этом автор создает их с нуля [phuu.net/2014/08/31/csp…](http://t.co/jtbaABinsz "http://phuu.net/2014/08/31/csp-and-transducers.html")
 
 Если просто, то трансдьюсер — это способ трансформирования данных через композицию.
 
-А это пятая серия «Better Call Saul» <a href="https://t.co/vMBLXXn5ZU">youtube.com/watch?v=tt2iU2…</a>
+А это пятая серия «Better Call Saul» [youtube.com/watch?v=tt2iU2…](https://t.co/vMBLXXn5ZU "https://www.youtube.com/watch?v=tt2iU2TebBM")
 
 ## Среда <small>23 твита</small>
 
-На <a href="http://t.co/I4PzXF2Fzy">wiki.ecmascript.org</a> можно почитать об интересных штуках которые не стали частью ES6 и о возможных изменениях в JS в далеком будущем.
+На [wiki.ecmascript.org](http://t.co/I4PzXF2Fzy "http://wiki.ecmascript.org/") можно почитать об интересных штуках которые не стали частью ES6 и о возможных изменениях в JS в далеком будущем.
 
-Например чтсла SIMD (single instruction, multiple data) <a href="https://t.co/LVoU8xzPx2">ru.wikipedia.org/wiki/SIMD</a>
+Например чтсла SIMD (single instruction, multiple data) [ru.wikipedia.org/wiki/SIMD](https://t.co/LVoU8xzPx2 "https://ru.wikipedia.org/wiki/SIMD")
 
 На самом деле SIMD перенесли в ES7 и эта спека уже частично реализованна в FF Nightly.
 
@@ -200,33 +200,33 @@ SIMD инструкции обеспечивают параллелизм на �
 
 Поэтому [1,2,3] + [1,2,3] выполнится в три процессорных такта, а с SIMD всего в один такт.
 
-Спеку можно почитать здесь <a href="https://t.co/xAz7zZ5vi6">github.com/johnmccutchan/…</a>
+Спеку можно почитать здесь [github.com/johnmccutchan/…](https://t.co/xAz7zZ5vi6 "https://github.com/johnmccutchan/ecmascript_simd")
 
-Наглядный пример оптимизации рендеринга фракталов в asm.js <a href="http://t.co/CuKXLQEdPL">peterjensen.github.io/mandelbrot/js/…</a> только FF Nightly
+Наглядный пример оптимизации рендеринга фракталов в asm.js [peterjensen.github.io/mandelbrot/js/…](http://t.co/CuKXLQEdPL "http://peterjensen.github.io/mandelbrot/js/mandelbrot-asm.html") только FF Nightly
 
-Кстати, о графике в вебе. Посмотрите на эти примеры физически правильного рендеринга в WebGL <a href="http://t.co/9gQPcioQmE">blog.sketchfab.com/post/112612737…</a> Очень круто!
+Кстати, о графике в вебе. Посмотрите на эти примеры физически правильного рендеринга в WebGL [blog.sketchfab.com/post/112612737…](http://t.co/9gQPcioQmE "http://blog.sketchfab.com/post/112612737009/physically-based-rendering-is-here") Очень круто!
 
-Другая интересная спека — Typed Objects <a href="http://t.co/GKuAEblB2J">wiki.ecmascript.org/doku.php?id=ha…</a> тоже не попала в ES6, но реализована в FF Nightly
+Другая интересная спека — Typed Objects [wiki.ecmascript.org/doku.php?id=ha…](http://t.co/GKuAEblB2J "http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects") тоже не попала в ES6, но реализована в FF Nightly
 
 Типизированные структуры данных `new StructType({ x: uint32, y: uint32 });`.
 
-В ночной сборке FF все типы находятся в глобальном объекте TypedObject <a href="http://t.co/LyudFyhtfM">pic.twitter.com/LyudFyhtfM</a>
+В ночной сборке FF все типы находятся в глобальном объекте TypedObject [pic.twitter.com/LyudFyhtfM](http://t.co/LyudFyhtfM)
 
-Или вот предложенный в ES7 оператор `.=` batch assignment для объектов <a href="http://t.co/UAsrNX3J8B">wiki.ecmascript.org/doku.php?id=st…</a>
+Или вот предложенный в ES7 оператор `.=` batch assignment для объектов [wiki.ecmascript.org/doku.php?id=st…](http://t.co/UAsrNX3J8B "http://wiki.ecmascript.org/doku.php?id=strawman:batch_assignment_operator")
 
-И guards, как в Haskell <a href="http://t.co/iJBeBwD680">wiki.ecmascript.org/doku.php?id=st…</a>
+И guards, как в Haskell [wiki.ecmascript.org/doku.php?id=st…](http://t.co/iJBeBwD680 "http://wiki.ecmascript.org/doku.php?id=strawman:guards")
 
-Вот еще несколько интересных спек: короткий синтаксис для function expression <a href="http://t.co/BqC8plU9f9">wiki.ecmascript.org/doku.php?id=st…</a>
+Вот еще несколько интересных спек: короткий синтаксис для function expression [wiki.ecmascript.org/doku.php?id=st…](http://t.co/BqC8plU9f9 "http://wiki.ecmascript.org/doku.php?id=strawman:shorter_function_syntax")
 
-Иммутабельные структуры типа объект <a href="http://t.co/jQHaYwxbSw">wiki.ecmascript.org/doku.php?id=st…</a>
+Иммутабельные структуры типа объект [wiki.ecmascript.org/doku.php?id=st…](http://t.co/jQHaYwxbSw "http://wiki.ecmascript.org/doku.php?id=strawman:records")
 
-И иммутабельные последовательности (массивы, листы) <a href="http://t.co/lwfRY2n3JV">wiki.ecmascript.org/doku.php?id=st…</a>
+И иммутабельные последовательности (массивы, листы) [wiki.ecmascript.org/doku.php?id=st…](http://t.co/lwfRY2n3JV "http://wiki.ecmascript.org/doku.php?id=strawman:tuples")
 
-Параллельно с Atom пробую Light Table <a href="http://t.co/mO6K7qUrF5">lighttable.com</a> Особой популярностью не отличается, но есть крутые штуки.
+Параллельно с Atom пробую Light Table [lighttable.com](http://t.co/mO6K7qUrF5 "http://lighttable.com/") Особой популярностью не отличается, но есть крутые штуки.
 
 Например результат выполнения кода, который пишешь, возникает в той же строке. Наблюдение за значением переменных, тоже круто.
 
-Похоже на то, что делает <a href="http://t.co/OcRKEGTdRp">wallabyjs.com</a> с тестами.
+Похоже на то, что делает [wallabyjs.com](http://t.co/OcRKEGTdRp "http://wallabyjs.com/") с тестами.
 
 Перед тем, как заняться фронтендом, делал веб-дизайн. Сейчас вкус к красивым интерфейсам практически пропал. Все свелось к минимализму.
 
@@ -234,9 +234,9 @@ SIMD инструкции обеспечивают параллелизм на �
 
 ## Четверг <small>14 твитов</small>
 
-RT <a href="https://twitter.com/kinday" title="Леонард Киндай">@kinday</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, минимализм не отменяет красоту интерфейса, а наоборот обнажает истинную красоту, скрытую в его логике.
+RT [@kinday](https://twitter.com/kinday "Леонард Киндай"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), минимализм не отменяет красоту интерфейса, а наоборот обнажает истинную красоту, скрытую в его логике.
 
-RT <a href="https://twitter.com/vvvlado" title="Владо">@vvvlado</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> перечитываю «Кради как художник»
+RT [@vvvlado](https://twitter.com/vvvlado "Владо"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") перечитываю «Кради как художник»
 
 Джависты недоумевают почему `array === $(array) // false`
 
@@ -246,43 +246,43 @@ RT <a href="https://twitter.com/vvvlado" title="Владо">@vvvlado</a>: <a hre
 
 Fat arrow не единственный новый тип функции в ES6, еще есть tag function: fn `Hello ${name}!`. Вызов без скобок, принимает template string.
 
-Используется для чтения исходных данных из строки: значения и части строки <a href="http://t.co/mUlFJ9hFop">tc39wiki.calculist.org/es6/template-s…</a>
+Используется для чтения исходных данных из строки: значения и части строки [tc39wiki.calculist.org/es6/template-s…](http://t.co/mUlFJ9hFop "http://tc39wiki.calculist.org/es6/template-strings/")
 
-С ES6 Proxy можно делать method missing, как в Ruby <a href="http://t.co/2LcUqI4mI6">soft.vub.ac.be/~tvcutsem/prox…</a>
+С ES6 Proxy можно делать method missing, как в Ruby [soft.vub.ac.be/~tvcutsem/prox…](http://t.co/2LcUqI4mI6 "http://soft.vub.ac.be/~tvcutsem/proxies/")
 
 Но такую штуку можно сделать и без Proxy, через нестандартный метод `__noSuchMethod__`, который вызывается если вызываемого метода нету.
 
-А вы стримили в /r/WatchPeopleCode/ ? Или может наблюдали за процессом разработки <a href="http://t.co/rsP5bSruFo">reddit.com/r/WatchPeopleC…</a>
+А вы стримили в /r/WatchPeopleCode/ ? Или может наблюдали за процессом разработки [reddit.com/r/WatchPeopleC…](http://t.co/rsP5bSruFo "http://www.reddit.com/r/WatchPeopleCode/")
 
 Можно залипнуть на вечер и узнать что-нибудь новое для себя. Подходы, техники.
 
-<a href="https://t.co/peumYmg1rK">angular.io</a>
+[angular.io](https://t.co/peumYmg1rK "https://angular.io/")
 
-React + CoffeeScript <a href="http://t.co/8Th6A4QmpY">habrahabr.ru/post/251835/</a> <a href="http://t.co/VZrQrTIoN9">pic.twitter.com/VZrQrTIoN9</a>
+React + CoffeeScript [habrahabr.ru/post/251835/](http://t.co/8Th6A4QmpY "http://habrahabr.ru/post/251835/") [pic.twitter.com/VZrQrTIoN9](http://t.co/VZrQrTIoN9)
 
 Даже простым +1 в комментариях к обсуждению желаемой фичи вы можете повлиять на ее реализацию.
 
 ## Пятница <small>10 твитов</small>
 
-Добавил иконку React в плагин file-icons, для подсветки .jsx файлов, в Atom <a href="https://t.co/Ik2RFa8vcC">github.com/DanBrooker/fil…</a> <a href="http://t.co/ZTPnKibkml">pic.twitter.com/ZTPnKibkml</a>
+Добавил иконку React в плагин file-icons, для подсветки .jsx файлов, в Atom [github.com/DanBrooker/fil…](https://t.co/Ik2RFa8vcC "https://github.com/DanBrooker/file-icons/pull/124") [pic.twitter.com/ZTPnKibkml](http://t.co/ZTPnKibkml)
 
 Заодно получил опыт создания иконочного шрифта в Inkscape.
 
-Суперский инструмент для экспорта набора иконок в шрифт <a href="https://t.co/HZjUuuMsDk">icomoon.io/app/</a>
+Суперский инструмент для экспорта набора иконок в шрифт [icomoon.io/app/](https://t.co/HZjUuuMsDk "https://icomoon.io/app/")
 
-RT <a href="https://twitter.com/prbigbrother" title="Alexandru Capatina">@prbigbrother</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="http://t.co/nbBSYMYaO4">fontello.com</a> с более простым, но схожим функционалом
+RT [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [fontello.com](http://t.co/nbBSYMYaO4 "http://fontello.com") с более простым, но схожим функционалом
 
 А существует ли логотип закрепленный за картами кода?
 
-Видео со вчерашней ng-conf <a href="https://t.co/pAAvtfeVzL">youtube.com/user/ngconfvid…</a>
+Видео со вчерашней ng-conf [youtube.com/user/ngconfvid…](https://t.co/pAAvtfeVzL "https://www.youtube.com/user/ngconfvideos/videos")
 
-И итоги EmberConf 2015 <a href="https://t.co/P1dEWcjlhJ">github.com/poteto/emberco…</a>
+И итоги EmberConf 2015 [github.com/poteto/emberco…](https://t.co/P1dEWcjlhJ "https://github.com/poteto/emberconf-2015")
 
-<a href="https://t.co/RNte7I6djx">livecoding.tv</a>
+[livecoding.tv](https://t.co/RNte7I6djx "https://www.livecoding.tv/")
 
-Добротный туториал об npm модулях на ES6 <a href="http://t.co/heBIbXlyw2">habrahabr.ru/post/252389/</a>
+Добротный туториал об npm модулях на ES6 [habrahabr.ru/post/252389/](http://t.co/heBIbXlyw2 "http://habrahabr.ru/post/252389/")
 
-Библиотека функций высшего порядка для итераторов из ES6 <a href="https://t.co/47t0qUJsky">fitzgen.github.io/wu.js/</a>
+Библиотека функций высшего порядка для итераторов из ES6 [fitzgen.github.io/wu.js/](https://t.co/47t0qUJsky "https://fitzgen.github.io/wu.js/")
 
 ## Ссылки
 

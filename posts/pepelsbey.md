@@ -4,9 +4,9 @@ _23 августа 2015_
 
 ## Понедельник <small>127 твитов</small>
 
-Привет! С вами сегодня и всю неделю <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>, он же Вадим Макеев в прямом эфире из Осло, см. глобус Европы <a href="http://t.co/clb7TLnxZS">pic.twitter.com/clb7TLnxZS</a>
+Привет! С вами сегодня и всю неделю [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев"), он же Вадим Макеев в прямом эфире из Осло, см. глобус Европы [pic.twitter.com/clb7TLnxZS](http://t.co/clb7TLnxZS)
 
-Чтобы вы не путали мои откровения на этой неделе с обычным <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>, аватарка срывает покровы <a href="http://t.co/Wm7WYJ4Oax">pic.twitter.com/Wm7WYJ4Oax</a>
+Чтобы вы не путали мои откровения на этой неделе с обычным [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев"), аватарка срывает покровы [pic.twitter.com/Wm7WYJ4Oax](http://t.co/Wm7WYJ4Oax)
 
 План на неделю следующий:
 
@@ -23,13 +23,13 @@ _23 августа 2015_
 Сб 22, конференция Talks &amp; Works
 Вс 23, фристайл
 
-RT <a href="https://twitter.com/talgautb" title="Талга УтБ">@talgautb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> а собственно, что значит этот круг-аватар?! всегда интересно было :)
+RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") а собственно, что значит этот круг-аватар?! всегда интересно было :)
 
 Аватарка с красным сектором справа не значит вообще ничего. Просто в Fireworks был удобный инструмент для пай-чартов, а мне нужен был лого.
 
-Притом мало кто помнит, что первая версия «бублика», как я называл этот лого, выглядела так <a href="http://t.co/uk8RwcPOKo">pic.twitter.com/uk8RwcPOKo</a>
+Притом мало кто помнит, что первая версия «бублика», как я называл этот лого, выглядела так [pic.twitter.com/uk8RwcPOKo](http://t.co/uk8RwcPOKo)
 
-RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тогда вразнобой. как в Осло живется, много солнечных дней? сопоставимы ли зп при работе в офисе и на фриланс/аут…
+RT [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тогда вразнобой. как в Осло живется, много солнечных дней? сопоставимы ли зп при работе в офисе и на фриланс/аут…
 
 В Осло живётся ровно: хорошо работается, все прелести Европы, но скучновато, город — 500 тыс. жителей.
 
@@ -47,7 +47,7 @@ RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit<
 — вес 72 кг
 — глаза карие
 
-Для тех, кто волновался, как я добрался до офиса, с картой: <a href="http://t.co/7010SqZ1uS">runkeeper.com/user/pepelsbey…</a>
+Для тех, кто волновался, как я добрался до офиса, с картой: [runkeeper.com/user/pepelsbey…](http://t.co/7010SqZ1uS "http://runkeeper.com/user/pepelsbey/activity/636257084?tripIdBase36=ait73w&activityList=false&")
 
 Био, кратко: после сложного детства (отец военный, то там, то сям) осел в Петербурге в начале 90-х и прожил там до 2006 года.
 
@@ -61,7 +61,7 @@ RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit<
 
 В апреле 2014 года решил перебраться из Питера в головной офис компании в Осло. Не «свалить из рашки», а попробовать что-нибудь другое.
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> можешь подробнее описать в чем заключается работа веб-евангелиста?
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") можешь подробнее описать в чем заключается работа веб-евангелиста?
 
 (веб-)евангелист — это пропагандист в хорошем смысле. Человек, который рассказывает о том, во что сам верит. В моём случае, разработчикам.
 
@@ -69,7 +69,7 @@ RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyr
 
 На практике — это доклады, статьи, переводы, консультации, споры, опенсорс, документация и благая весть о новинках веб-технологий.
 
-RT <a href="https://twitter.com/SelenIT2" title="SelenIT">@SelenIT2</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а насколько реально попасть на такую работу простому смертному магглу?
+RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а насколько реально попасть на такую работу простому смертному магглу?
 
 На эту работу я попал потому, что тусовался на Вебмасконе, выступал с докладами и организовывал движуху в сообществе разработчиков.
 
@@ -77,17 +77,17 @@ RT <a href="https://twitter.com/SelenIT2" title="SelenIT">@SelenIT2</a>: <a href
 
 Совет один и капитанский: если вы на виду, то вас заметят. Блог, соцсети, опенсорс, конференции, локальные встречи.
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Но вот в книге Developer Evangelist Handbook всё наоборот: евангелист рассказывает создалеям продукта, чего хот…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Но вот в книге Developer Evangelist Handbook всё наоборот: евангелист рассказывает создалеям продукта, чего хот…
 
 Нет канонического «евангелиста», есть задачи компании. Я назвался веб-евангелистом только потому, что такой была вакансия.
 
 Мои коллеги себя называют по-разному, но чаще всего «из команды DevRel» без конкретных титулов. Моя должность прижилась исторически.
 
-RT <a href="https://twitter.com/RReverser" title="Ingvar Stepanyan">@RReverser</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Хм, то есть если я пишу статьи, делаю доклады о новых технологиях, консультирую и занимаюсь опен-сорсом - я ева…
+RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Хм, то есть если я пишу статьи, делаю доклады о новых технологиях, консультирую и занимаюсь опен-сорсом - я ева…
 
-Я знаю ещё одного евангелиста (как он себя называет), который, на мой взгляд «тру», это <a href="https://twitter.com/simonenko" title="Алексей Симоненко">@simonenko</a> из Академии HTML.
+Я знаю ещё одного евангелиста (как он себя называет), который, на мой взгляд «тру», это [@simonenko](https://twitter.com/simonenko "Алексей Симоненко") из Академии HTML.
 
-Явным евангелистом IE ещё был Алекс Могилевский, см. его доклад РИТ 2011 — <a href="https://t.co/tQV9j0045Q">vimeo.com/27266968</a> Но что-то его давно не видно.
+Явным евангелистом IE ещё был Алекс Могилевский, см. его доклад РИТ 2011 — [vimeo.com/27266968](https://t.co/tQV9j0045Q "https://vimeo.com/27266968") Но что-то его давно не видно.
 
 Спрашивают о метриках, мол, как понять, достаточно ли ты, Вадим, наевангелировал в этом месяце? Метрик нет, плюс селф-менеджмент на 80%.
 
@@ -97,39 +97,39 @@ RT <a href="https://twitter.com/RReverser" title="Ingvar Stepanyan">@RReverser</
 
 Для себя я формулирую успешность так: если разработчики знают, к кому обратиться с вопросами про Opera — значит я всё делаю правильно.
 
-RT <a href="https://twitter.com/RReverser" title="Ingvar Stepanyan">@RReverser</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Ну и самый интересующий вопрос-продолжение - что нужно, чтобы заниматься этим как фуллтайм-работой?
+RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ну и самый интересующий вопрос-продолжение - что нужно, чтобы заниматься этим как фуллтайм-работой?
 
 Чтобы заниматься этой работой постоянно, нужно найти компанию, которой это нужно. В России таких пока мало, её часто отдают кому попало.
 
-RT <a href="https://twitter.com/_h4_" title="Наполеон Бонапарт">@_h4_</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а хотя бы пару примеров таких компании приведи?
+RT [@_h4_](https://twitter.com/_h4_ "Наполеон Бонапарт"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а хотя бы пару примеров таких компании приведи?
 
 Компании, которые (удачно и последовательно) занимаются деврелом или техномаркетингом: Яндекс, 2ГИС, Microsoft.
 
-RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> расскажи, как веб-евангелист развивается в рамках своей должности. Может, кратко по своим левел-апам пройдешьс…
+RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") расскажи, как веб-евангелист развивается в рамках своей должности. Может, кратко по своим левел-апам пройдешьс…
 
-Хороший вопрос от <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a> о развитии. Я бы повесился заниматься 7 лет одним и тем же. Но жив, как видите — всё меняется.
+Хороший вопрос от [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov") о развитии. Я бы повесился заниматься 7 лет одним и тем же. Но жив, как видите — всё меняется.
 
-За 7 лет компания сильно поменялась, как и моя деятельность. Когда я пришёл, логотип браузера был таким — ужас, да? <a href="http://t.co/vVgGEN34mM">pic.twitter.com/vVgGEN34mM</a>
+За 7 лет компания сильно поменялась, как и моя деятельность. Когда я пришёл, логотип браузера был таким — ужас, да? [pic.twitter.com/vVgGEN34mM](http://t.co/vVgGEN34mM)
 
 В первые годы я больше всего занимался проектом OTW (Open The Web), то есть писал разработчикам «камон, хватит уже блокировать Opera».
 
 Это была первая линия обороны. Другие мои коллеги, если у нас не получалось, патчили сайты с помощью browser.js прямо по живому, в браузере.
 
-Всего на пике работы отдела DevRel нас было 13 человек, которые так или иначе чинили сайты для пользователей Opera. <a href="http://t.co/eQnMS2wdGG">pic.twitter.com/eQnMS2wdGG</a>
+Всего на пике работы отдела DevRel нас было 13 человек, которые так или иначе чинили сайты для пользователей Opera. [pic.twitter.com/eQnMS2wdGG](http://t.co/eQnMS2wdGG)
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> и как тебе это опыт? много позитивного/негативного было?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и как тебе это опыт? много позитивного/негативного было?
 
 Работа над OTW была тяжёлая. После первого года хотелось лезть на стену, всем было плевать на совместимость. С годами мало что поменялось.
 
 Но помогало понимание, что делаешь правильное дело. Хотя тут же подавлял график входящие/исправленные — за ним было не угнаться.
 
-RT <a href="https://twitter.com/beshur" title="Shu Buznik">@beshur</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> идёт ли здесь речь о Open Web Platform (<a href="https://t.co/JJTLmOiSGs">en.wikipedia.org/wiki/Open_Web_…</a>)? А то не нашёл ничего про OTW
+RT [@beshur](https://twitter.com/beshur "Shu Buznik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") идёт ли здесь речь о Open Web Platform ([en.wikipedia.org/wiki/Open_Web_…](https://t.co/JJTLmOiSGs "https://en.wikipedia.org/wiki/Open_Web_Platform"))? А то не нашёл ничего про OTW
 
-OTW — это внутренний проект в багтрекере Opera, чем-то похожим сейчас продолжает заниматься Mozilla <a href="https://t.co/uUWFUXCYEI">webcompat.com</a>
+OTW — это внутренний проект в багтрекере Opera, чем-то похожим сейчас продолжает заниматься Mozilla [webcompat.com](https://t.co/uUWFUXCYEI "https://webcompat.com/")
 
-Если вы нашли сайт, который не работает в вашем браузере, то не поленитесь завести баг на <a href="https://t.co/uUWFUXCYEI">webcompat.com</a>, вам даже помогут.
+Если вы нашли сайт, который не работает в вашем браузере, то не поленитесь завести баг на [webcompat.com](https://t.co/uUWFUXCYEI "https://webcompat.com/"), вам даже помогут.
 
-Вот пример успешного решения такой проблемы на сайте Flickr — <a href="https://t.co/v1bJblE63s">webcompat.com/issues/383</a>
+Вот пример успешного решения такой проблемы на сайте Flickr — [webcompat.com/issues/383](https://t.co/v1bJblE63s "https://webcompat.com/issues/383")
 
 Продолжаем об этапах развития в должности. В какой-то момент я сфокусировался на организации конференций, чтобы было где выступать.
 
@@ -137,74 +137,74 @@ OTW — это внутренний проект в багтрекере Opera, 
 
 В итоге, окончательно сформировалась специализация на России. Параллельно начал писать на Хабр, работая с сообществом (не чистый деврел).
 
-Когда из компании ушёл Илья Шпаньков, блогом на Хабре стал заниматься только я — <a href="http://t.co/1oKM0BMHPi">habrahabr.ru/company/opera/…</a>
+Когда из компании ушёл Илья Шпаньков, блогом на Хабре стал заниматься только я — [habrahabr.ru/company/opera/…](http://t.co/1oKM0BMHPi "http://habrahabr.ru/company/opera/blog/")
 
 В последнее время, Хабра всё меньше и, возможно, я совсем перестану писать туда о каждом релизе, только по большим поводам.
 
-Самой большой переменой в работе евангелиста стал, безусловно, переход на новый движок. «Золотой» пост на Хабре — <a href="http://t.co/JzljQkrH0Y">habrahabr.ru/company/opera/…</a>
+Самой большой переменой в работе евангелиста стал, безусловно, переход на новый движок. «Золотой» пост на Хабре — [habrahabr.ru/company/opera/…](http://t.co/JzljQkrH0Y "http://habrahabr.ru/company/opera/blog/169239/")
 
-В чём-то личная победа, в чём-то провал, но 2013 год был интересный. «Зачем Опере Вебкит», если не видели — <a href="https://t.co/PClvHmAtG6">youtube.com/watch?v=Y70Jyp…</a>
+В чём-то личная победа, в чём-то провал, но 2013 год был интересный. «Зачем Опере Вебкит», если не видели — [youtube.com/watch?v=Y70Jyp…](https://t.co/PClvHmAtG6 "https://www.youtube.com/watch?v=Y70JypQCy08")
 
 Главное, что от этого сильно выиграла компания. И сильно изменилась, до неузнаваемости. Но в целом со знаком «плюс».
 
-Направление OTW для меня почти перестало существовать, команда DevRel уменьшилась до пяти человек <a href="http://t.co/fgYb7UlkSD">pic.twitter.com/fgYb7UlkSD</a>
+Направление OTW для меня почти перестало существовать, команда DevRel уменьшилась до пяти человек [pic.twitter.com/fgYb7UlkSD](http://t.co/fgYb7UlkSD)
 
-Сейчас это <a href="https://twitter.com/andreasbovens" title="Andreas Bovens">@andreasbovens</a> (тимлид), <a href="https://twitter.com/shwetank" title="shwetank">@shwetank</a>, <a href="https://twitter.com/mathias" title="Mathias Bynens">@mathias</a>, <a href="https://twitter.com/brucel" title="Bruce Lawson">@brucel</a> и я. У каждого свой спектр задач и свой регион ответственности.
+Сейчас это [@andreasbovens](https://twitter.com/andreasbovens "Andreas Bovens") (тимлид), [@shwetank](https://twitter.com/shwetank "shwetank"), [@mathias](https://twitter.com/mathias "Mathias Bynens"), [@brucel](https://twitter.com/brucel "Bruce Lawson") и я. У каждого свой спектр задач и свой регион ответственности.
 
 «Погоди-ка! — спросите вы, — так ты разработчик или кто?» Хороший вопрос! До прихода в Opera я был разработчиком фронтенда.
 
-RT <a href="https://twitter.com/gunlinux" title="Vladimir, 13th">@gunlinux</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> комменты печальные
+RT [@gunlinux](https://twitter.com/gunlinux "Vladimir, 13th"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") комменты печальные
 
 Печальные комменты, да. Знали бы вы, сколько портвейна было выпито после таких хабрасрачей, чтобы хоть как-то починить настроение.
 
 С приходом в Opera я получил уникальный шанс заниматься не поддержкой IE6, а написанием демок для продвинутого браузера.
 
-Когда демок у меня и мои коллег набралось довольно много, я нарисовал и сверстал сайт <a href="http://t.co/zEGQ0rrRtT">shinydemos.com</a> Mobile-first, адаптивный и т.п.
+Когда демок у меня и мои коллег набралось довольно много, я нарисовал и сверстал сайт [shinydemos.com](http://t.co/zEGQ0rrRtT "http://shinydemos.com/") Mobile-first, адаптивный и т.п.
 
 Дело было зимой 2011—12 года, когда я впервые надолго приехал в Осло по программе «bridge the world» на 3 месяца.
 
-Репозиторий проекта, если интересно покопаться — <a href="https://t.co/GPyQqcWOMC">github.com/operasoftware/…</a>
+Репозиторий проекта, если интересно покопаться — [github.com/operasoftware/…](https://t.co/GPyQqcWOMC "https://github.com/operasoftware/shinydemos")
 
-Другим большим проектом стал перезапуск сайта Dev.Opera на Jekyll — <a href="https://t.co/1X4fEgQiq0">dev.opera.com</a> Мой дизайн, вёрстка и даже программирование.
+Другим большим проектом стал перезапуск сайта Dev.Opera на Jekyll — [dev.opera.com](https://t.co/1X4fEgQiq0 "https://dev.opera.com/") Мой дизайн, вёрстка и даже программирование.
 
-Код проекта тоже на Гитхабе, всё в Маркдауне, можно легко всё править и предлагать переводы — <a href="https://t.co/NqlOSCrfUh">github.com/operasoftware/…</a>
+Код проекта тоже на Гитхабе, всё в Маркдауне, можно легко всё править и предлагать переводы — [github.com/operasoftware/…](https://t.co/NqlOSCrfUh "https://github.com/operasoftware/devopera")
 
 Тоже mobile-first, всякий Jekyll, Sass, Grunt, Автопрефиксер, манифест и SW и т.п. В вечной бете, постоянно улучшается.
 
-RT <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вадим, как появился shwr.me, если я не ошибаюсь в Яндексе где-то было подобное тестовое задание?
+RT [@dshster](https://twitter.com/dshster "Дмитрий Швалёв"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вадим, как появился shwr.me, если я не ошибаюсь в Яндексе где-то было подобное тестовое задание?
 
-Другой мой проект как разработчика, чтобы не ржаветь — движок для презентаций в браузере Shower <a href="http://t.co/4JS4kirS6W">shwr.me</a>
+Другой мой проект как разработчика, чтобы не ржаветь — движок для презентаций в браузере Shower [shwr.me](http://t.co/4JS4kirS6W "http://shwr.me/")
 
-Движок этот появился когда я решил делать презентации в браузере, об этом я писал отдельную статью в Хакер — <a href="http://t.co/TIrqJ37mvj">habrahabr.ru/company/xakep/…</a>
+Движок этот появился когда я решил делать презентации в браузере, об этом я писал отдельную статью в Хакер — [habrahabr.ru/company/xakep/…](http://t.co/TIrqJ37mvj "http://habrahabr.ru/company/xakep/blog/185490/")
 
-Первую версию Shower написал сам, Олег Рощупкин её переписал, потом Слава Олиянчук aka <a href="https://twitter.com/miripiruni" title="Slava Oliyanchuk">@miripiruni</a> причесал, см. <a href="https://t.co/4MxZVZ40La">github.com/shower/core/gr…</a>
+Первую версию Shower написал сам, Олег Рощупкин её переписал, потом Слава Олиянчук aka [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk") причесал, см. [github.com/shower/core/gr…](https://t.co/4MxZVZ40La "https://github.com/shower/core/graphs/contributors")
 
-Новую версию Shower 2.0 написал с нуля Денис Хананеин <a href="https://twitter.com/kandasoft" title="Денис">@kandasoft</a>, см. <a href="https://t.co/shRSkujN2T">github.com/shower/core/tr…</a>, надеюсь запустим её наконец-то.
+Новую версию Shower 2.0 написал с нуля Денис Хананеин [@kandasoft](https://twitter.com/kandasoft "Денис"), см. [github.com/shower/core/tr…](https://t.co/shRSkujN2T "https://github.com/shower/core/tree/dev"), надеюсь запустим её наконец-то.
 
-То есть весь JS для <a href="https://twitter.com/shower_me" title="Shower">@shower_me</a> сейчас пишут люди умнее меня в JS, я дизайню, пишу CSS, сборку и функциональные тесты.
+То есть весь JS для [@shower_me](https://twitter.com/shower_me "Shower") сейчас пишут люди умнее меня в JS, я дизайню, пишу CSS, сборку и функциональные тесты.
 
-Сборку тем для Shower я начал переписывать с Grunt на Gulp и переписал их полностью, сохранив узнаваемость, см. <a href="https://t.co/L96exPIrUm">github.com/shower/ribbon/…</a>
+Сборку тем для Shower я начал переписывать с Grunt на Gulp и переписал их полностью, сохранив узнаваемость, см. [github.com/shower/ribbon/…](https://t.co/L96exPIrUm "https://github.com/shower/ribbon/tree/next")
 
-RT <a href="https://twitter.com/vladfrandom" title="Vlad F. Random">@vladfrandom</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/shower_me" title="Shower">@shower_me</a> а тесты на чем?
+RT [@vladfrandom](https://twitter.com/vladfrandom "Vlad F. Random"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@shower_me](https://twitter.com/shower_me "Shower") а тесты на чем?
 
-Функциональные тесты написаны для CasperJS, см. пример — <a href="https://t.co/L2RSTT0CMg">github.com/shower/core/bl…</a> — с удовольствием выслушаю критику.
+Функциональные тесты написаны для CasperJS, см. пример — [github.com/shower/core/bl…](https://t.co/L2RSTT0CMg "https://github.com/shower/core/blob/dev/tests/functional/core.js") — с удовольствием выслушаю критику.
 
 Помимо работы в компании Opera я ещё руковожу сообществом «Веб-стандарты» где-то года с 2006, когда это всё появилось.
 
-Если не углубляться в историю: это сайт <a href="http://t.co/bBJIO2nHmh">web-standards.ru</a>, конференция <a href="http://t.co/N1EumfCpR5">webstandardsdays.ru</a> и другие проекты <a href="https://t.co/AkTGL7qDgl">github.com/web-standards-…</a>
+Если не углубляться в историю: это сайт [web-standards.ru](http://t.co/bBJIO2nHmh "http://web-standards.ru"), конференция [webstandardsdays.ru](http://t.co/N1EumfCpR5 "http://webstandardsdays.ru") и другие проекты [github.com/web-standards-…](https://t.co/AkTGL7qDgl "https://github.com/web-standards-ru")
 
-С сентября 2014 года я всерьёз взялся за соцмедиа Веб-стандартов и каждый будний день пишу 7-8 новостей по фронтенду в <a href="https://twitter.com/webstandards_ru" title="Веб-стандарты">@webstandards_ru</a>
+С сентября 2014 года я всерьёз взялся за соцмедиа Веб-стандартов и каждый будний день пишу 7-8 новостей по фронтенду в [@webstandards_ru](https://twitter.com/webstandards_ru "Веб-стандарты")
 
 У сообщества 4 основных канала:
 
-— <a href="https://t.co/hRNjwbCqjo">twitter.com/webstandards_ru</a>
-— <a href="https://t.co/1CbS85dwLM">fb.com/webstandardsru</a>
-— <a href="https://t.co/JEG1VtT5Bk">vk.com/webstandards_ru</a>
-— <a href="https://t.co/e5laJHTnyt">plus.google.com/+Web-standards…</a>
+— [twitter.com/webstandards_ru](https://t.co/hRNjwbCqjo "https://twitter.com/webstandards_ru")
+— [fb.com/webstandardsru](https://t.co/1CbS85dwLM "https://fb.com/webstandardsru")
+— [vk.com/webstandards_ru](https://t.co/JEG1VtT5Bk "https://vk.com/webstandards_ru")
+— [plus.google.com/+Web-standards…](https://t.co/e5laJHTnyt "https://plus.google.com/+Web-standardsRu/posts")
 
-Также у Веб-стандартов есть канал на YouTube, но им всерьёз не занимаются — <a href="https://t.co/4HzhStT0yI">youtube.com/user/wstdays</a>
+Также у Веб-стандартов есть канал на YouTube, но им всерьёз не занимаются — [youtube.com/user/wstdays](https://t.co/4HzhStT0yI "https://www.youtube.com/user/wstdays")
 
-Чтобы не сойти с ума от ежедневной публикации новостей руками, я использую сервис Амплифер <a href="https://t.co/LlS1v5iqqd">amplifr.com</a> (привет <a href="https://twitter.com/xnutsive" title="Nate">@xnutsive</a>)
+Чтобы не сойти с ума от ежедневной публикации новостей руками, я использую сервис Амплифер [amplifr.com](https://t.co/LlS1v5iqqd "https://amplifr.com/") (привет [@xnutsive](https://twitter.com/xnutsive "Nate"))
 
 «Веб-стандарты» начинались как тусовка на Вебмасконе, продолжались в Гугл-группе, а сейчас живут в виде чата в Слаке, т.н. «песочница».
 
@@ -212,11 +212,11 @@ RT <a href="https://twitter.com/vladfrandom" title="Vlad F. Random">@vladfrandom
 
 Так что если вам интересно писать новости, переводить, заниматься видео, фотками, словарём и т.п. — велком, руки нужны всегда.
 
-Как вы могли заметить, у <a href="https://twitter.com/webstandards_ru" title="Веб-стандарты">@webstandards_ru</a> сегодня новости туго идут. Потому, что я здесь и странное затишье на всех фронтах.
+Как вы могли заметить, у [@webstandards_ru](https://twitter.com/webstandards_ru "Веб-стандарты") сегодня новости туго идут. Потому, что я здесь и странное затишье на всех фронтах.
 
-И если вы читаете <a href="https://twitter.com/webstandards_ru" title="Веб-стандарты">@webstandards_ru</a>, то буду рад выслушать критику: редко, часто, скучно, каких тем не хватает и т.д.
+И если вы читаете [@webstandards_ru](https://twitter.com/webstandards_ru "Веб-стандарты"), то буду рад выслушать критику: редко, часто, скучно, каких тем не хватает и т.д.
 
-RT <a href="https://twitter.com/MeTroFuN" title="Dmytrii Shchadei">@MeTroFuN</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Как ситуация с Украиной отразилась на Рунете? Стало ли сложнее работать с коммьюнити?
+RT [@MeTroFuN](https://twitter.com/MeTroFuN "Dmytrii Shchadei"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Как ситуация с Украиной отразилась на Рунете? Стало ли сложнее работать с коммьюнити?
 
 Серьёзный вопрос про русскоязычное фронтенд-сообщество, Украину и Россию. Стало ли сложнее? Пожалуй, нет.
 
@@ -226,19 +226,19 @@ RT <a href="https://twitter.com/MeTroFuN" title="Dmytrii Shchadei">@MeTroFuN</a>
 
 Для меня же стало вдвойне важно объединять сообщество изнутри, организовывать WSD в Киеве каждый год — будем делать и в этом.
 
-29 августа я еду во Львов выступать на <a href="https://twitter.com/LvivJS" title="LvivJS">@LvivJS</a> и ни у меня, ни у оргов нет никаких проблем. И это очень радует.
+29 августа я еду во Львов выступать на [@LvivJS](https://twitter.com/LvivJS "LvivJS") и ни у меня, ни у оргов нет никаких проблем. И это очень радует.
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что то ты о проектах рассказал, а про Zen-Coding не упомянул ни разу. Шикарная же вещь в итоге получилась, без не…
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что то ты о проектах рассказал, а про Zen-Coding не упомянул ни разу. Шикарная же вещь в итоге получилась, без не…
 
 И ещё вдогонку к сегодняшнему дню, чтобы закрыть «обо мне». Ещё один проект и про будущее.
 
-В августе 2008 года я выложил «бандл» (пакет, как сказали бы сегодня) для TextMate под названием Zen HTML — <a href="http://t.co/KdN483r9ka">pepelsbey.net/2008/08/zen-ht…</a>
+В августе 2008 года я выложил «бандл» (пакет, как сказали бы сегодня) для TextMate под названием Zen HTML — [pepelsbey.net/2008/08/zen-ht…](http://t.co/KdN483r9ka "http://pepelsbey.net/2008/08/zen-html/")
 
-Потом появился Zen CSS <a href="http://t.co/uistWwPI51">pepelsbey.net/2008/10/zen-cs…</a>, а после оба объединились под названием Zen Coding <a href="http://t.co/iLnxDIP7n6">pepelsbey.net/2008/10/zen-co…</a>
+Потом появился Zen CSS [pepelsbey.net/2008/10/zen-cs…](http://t.co/uistWwPI51 "http://pepelsbey.net/2008/10/zen-css/"), а после оба объединились под названием Zen Coding [pepelsbey.net/2008/10/zen-co…](http://t.co/iLnxDIP7n6 "http://pepelsbey.net/2008/10/zen-coding/")
 
-И в апреле 2009 года появилась идея Zen Coding в том виде, в котором она стала известна широкой общественности — <a href="http://t.co/kxkZrRwIwJ">pepelsbey.net/2009/04/zen-co…</a>
+И в апреле 2009 года появилась идея Zen Coding в том виде, в котором она стала известна широкой общественности — [pepelsbey.net/2009/04/zen-co…](http://t.co/kxkZrRwIwJ "http://pepelsbey.net/2009/04/zen-coding-concept/")
 
-Идея понравилась Сергею Чикуёнку и он реализовал первую версию динамической генерации HTML из CSS-селекторов — <a href="https://t.co/EdUuPQMUQI">code.google.com/p/zen-coding/</a>
+Идея понравилась Сергею Чикуёнку и он реализовал первую версию динамической генерации HTML из CSS-селекторов — [code.google.com/p/zen-coding/](https://t.co/EdUuPQMUQI "https://code.google.com/p/zen-coding/")
 
 Я рисовал лого, поддерживал снипеты, планировал сайт с документацией и думал как жить дальше, а Сергей, тем временем, разрабатывал пакет.
 
@@ -250,9 +250,9 @@ RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="
 
 Теперь про будущее. Какой самый идиотский вопрос можно задать про будущее? Правильно: «где вы видите себя через 5 лет?» В 2020, блин, году.
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а ты сам пользуешься получившимся Emmet'ом или горечь слишком горька для этого?
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а ты сам пользуешься получившимся Emmet'ом или горечь слишком горька для этого?
 
-Я пользуюсь собственными снипетами для HTML и плагином Хаяку <a href="https://twitter.com/ki_zu" title="Роман Комаров">@ki_zu</a> для набора CSS <a href="http://t.co/wPgTWb0POJ">hayakubundle.com</a> Реализация Emmet мне не нравится.
+Я пользуюсь собственными снипетами для HTML и плагином Хаяку [@ki_zu](https://twitter.com/ki_zu "Роман Комаров") для набора CSS [hayakubundle.com](http://t.co/wPgTWb0POJ "http://hayakubundle.com/") Реализация Emmet мне не нравится.
 
 Так вот. Своё будущее я вижу точно не в Осло, я сюда приехал поработать и в какой-то момент вернусь или уеду дальше.
 
@@ -262,7 +262,7 @@ RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="
 
 Но если подвернётся случай заняться разработкой интерфейсов с т.з. графдизайна — боюсь не устою, тяга в эту сторону слишком сильная.
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что касается графдизайна и UI — скетч или фотошоп? давай, разбавь чуть чуть JS-аккаунт дизайнерской темой :)
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что касается графдизайна и UI — скетч или фотошоп? давай, разбавь чуть чуть JS-аккаунт дизайнерской темой :)
 
 Мне уже с утра писали:
 
@@ -277,11 +277,11 @@ JAVASCRIPT underhood!
 
 Если нужно рисовать какой-то сложный и очень точный вектор, особенно по имеющимся исходникам — Illustrator.
 
-RT <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> почему, если не секрет?
+RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему, если не секрет?
 
 Почему, спрашивают, не Осло? Не получилось сходу интегрироваться (видимо, не захотел) и, наверное, в 30 лет поздновато переезжать с концами.
 
-Как бы намекая на завтрашнюю тему про технологии и окружение, скрин: немного кода перед сном <a href="http://t.co/ZMfXbQ7e8j">pic.twitter.com/ZMfXbQ7e8j</a>
+Как бы намекая на завтрашнюю тему про технологии и окружение, скрин: немного кода перед сном [pic.twitter.com/ZMfXbQ7e8j](http://t.co/ZMfXbQ7e8j)
 
 ## Вторник <small>111 твитов</small>
 
@@ -291,13 +291,13 @@ RT <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
 
 Дома стоит ретиновый 15″ MacBook Pro, для работы и поездок 11″ MacBook Air, оба синхронизированы P2P с помощью BitTorrent Sync.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> 8000-ый твит! <a href="http://t.co/89DZKhudGy">pic.twitter.com/89DZKhudGy</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 8000-ый твит! [pic.twitter.com/89DZKhudGy](http://t.co/89DZKhudGy)
 
 Кроме этого целый зоопарк устройств для тестирования: iPhone 6, Nexus 6, мобилка на Alcatel Firefox OS и Nokia Asha на Java.
 
 Ещё Surface RT, iPad и где-то валялся iPhone 4. То есть хорошее начало для тестового полигона.
 
-RT <a href="https://twitter.com/7rulnik" title="Valentin Semirulnik">@7rulnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а какой роутер у тебя? Пробовал этот синх, как-то не очень было. Возможно в роутере проблемы
+RT [@7rulnik](https://twitter.com/7rulnik "Valentin Semirulnik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а какой роутер у тебя? Пробовал этот синх, как-то не очень было. Возможно в роутере проблемы
 
 Роутеры домашние обычно Apple: Airport Express или Extreme, чтобы подключать колонки и внешние веники.
 
@@ -311,27 +311,27 @@ RT <a href="https://twitter.com/7rulnik" title="Valentin Semirulnik">@7rulnik</a
 
 Поэтому у меня на виртуальной машине под Parallels Desktop крутится Windows 10 с последним Edge и версиями всех браузеров.
 
-RT <a href="https://twitter.com/ChillyBwoy" title="ChillyBwoy">@ChillyBwoy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как быть, если у меня Мак и протестировать нужно в сафари 5? Делать даунгрейд или бежать покупать еще один мак…
+RT [@ChillyBwoy](https://twitter.com/ChillyBwoy "ChillyBwoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как быть, если у меня Мак и протестировать нужно в сафари 5? Делать даунгрейд или бежать покупать еще один мак…
 
 Можно быстро собрать на коленке виртуальную машину с нужной версией OS X.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а как ты следишь за своей проф пригодностью?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а как ты следишь за своей проф пригодностью?
 
 Профпригодность для меня определяется двумя вещами: нужно быть в курсе всего нового и открытым для общения с разработчиками.
 
 Причём обе вещи — интерес к людям и технологиям — должны быть искренни: делая вид, далеко не уедешь. Пока интересно и то, и другое.
 
-Хорошим упражнением для того, чтобы «быть в курсе» стали новости для <a href="https://twitter.com/webstandards_ru" title="Веб-стандарты">@webstandards_ru</a>. Я не то, что не пропускаю, мне иногда мало!
+Хорошим упражнением для того, чтобы «быть в курсе» стали новости для [@webstandards_ru](https://twitter.com/webstandards_ru "Веб-стандарты"). Я не то, что не пропускаю, мне иногда мало!
 
 Помимо этого, чтобы не заржаветь, каждый день пишу код для своих проектов, упоминал их вчера: Dev.Opera, Shower, демки и др.
 
 Вы всё же держите в уме, что я хоть и разработчик, но несколько другого плана, чем большинство из вас. Хотя всё ещё могу «делать сайты».
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Так а где взять Андроид? :-)
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Так а где взять Андроид? :-)
 
 Мобилку на Android лучше иметь под рукой, всё-таки это не WP, а довольно популярная платформа, где полноценные Chrome и Opera на Blink.
 
-RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a>: А чем Вы своё время трекаете? <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>
+RT [@mr_skriming](https://twitter.com/mr_skriming "Pasha Grekovich"): А чем Вы своё время трекаете? [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@cssunderhood](https://twitter.com/cssunderhood "Верстальщик")
 
 Я не трекаю время, у моего рабочего дня нет чётких границ — я могу поработать на выходных, приехать в офис в субботу или не появиться в Пн.
 
@@ -339,59 +339,59 @@ RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skrimin
 
 Возвращаясь к виртуалкам: иметь виртуальную машину с ПК на ПК — нормально, но для мобильных ОС лучше иметь устройство, много тач-нюансов.
 
-RT <a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> какой язык в дополнение к JS было бы полезно изучить фронтендеру для расширения кругозора и улучшения навыков ра…
+RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какой язык в дополнение к JS было бы полезно изучить фронтендеру для расширения кругозора и улучшения навыков ра…
 
 Рискуя вызвать отток читателей, признаюсь: я хоть и Разработчик, но не Программист, хотя и программирую. Мне JS хватает с головой.
 
 Расширять кругозор и изучать новое точно стоит, но что именно — спросите у настоящего сварщика на будущей неделе. Тут кто-то от Go пёрся…
 
-Идём дальше: софт. У меня есть инструкция с помощью которой я могу собрать рабочую систему за пару-тройку часов — <a href="https://t.co/STmB5cNfTV">gist.github.com/pepelsbey/2c9a…</a>
+Идём дальше: софт. У меня есть инструкция с помощью которой я могу собрать рабочую систему за пару-тройку часов — [gist.github.com/pepelsbey/2c9a…](https://t.co/STmB5cNfTV "https://gist.github.com/pepelsbey/2c9acf8917364e0150d4")
 
 К этой инструкции дополнительно есть парочка .sh файлов с установкой пакетов, но там мало что интересного.
 
-Консоль у меня bash, .bash_profile собран руками по мотивам <a href="https://t.co/VtVNIk2bfG">github.com/mathiasbynens/…</a> — только то, что нужно и доп. хелперы.
+Консоль у меня bash, .bash_profile собран руками по мотивам [github.com/mathiasbynens/…](https://t.co/VtVNIk2bfG "https://github.com/mathiasbynens/dotfiles/") — только то, что нужно и доп. хелперы.
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тебе доводилось объяснять иностранцам как читается "<a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>"?
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тебе доводилось объяснять иностранцам как читается "[@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев")"?
 
 Для иностранцев «пепелсбей» звучит как заклинание африканского колдуна и мало кто рискует его воспроизвести.
 
 Мало ли что.
 
-Отдельно хотелось бы остановиться на документации. Бывает, что интернета нет, а зуд покодить — есть. Выручает Dash <a href="https://t.co/mUAmWmSDzy">kapeli.com/dash</a>
+Отдельно хотелось бы остановиться на документации. Бывает, что интернета нет, а зуд покодить — есть. Выручает Dash [kapeli.com/dash](https://t.co/mUAmWmSDzy "https://kapeli.com/dash")
 
-RT <a href="https://twitter.com/akrekotun" title="Alexey Krekotun">@akrekotun</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> весь софт покупаешь?
+RT [@akrekotun](https://twitter.com/akrekotun "Alexey Krekotun"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") весь софт покупаешь?
 
 Где-то с перехода на Mac я начал планомерно переходить и на легальный софт и сейчас 100% всего, что стоит — куплено, вкл. виртуалку Windows.
 
 Чаще всего покупка вызвана искренней благодарностью авторам, которые написали софт, а не тем, что «не нашёл с кряком».
 
-RT <a href="https://twitter.com/7rulnik" title="Valentin Semirulnik">@7rulnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Turn off energy savings — почему?
+RT [@7rulnik](https://twitter.com/7rulnik "Valentin Semirulnik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Turn off energy savings — почему?
 
 Отключаю автоматическое выключение экрана и сбережение энергии потому, что оно всё время невовремя и бесит.
 
 Проще самому нажать Ctrl Shift Power (Eject) и экран погаснет сам, чем материться «опять ты?!»
 
-RT <a href="https://twitter.com/ewnd9" title="Ivan">@ewnd9</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> почему bash?
+RT [@ewnd9](https://twitter.com/ewnd9 "Ivan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему bash?
 
 Bash и Terminal потому, что они встроенные, хотя Bash ставлю новый из Homebrew. Играл с zsh и iTerm, но наигрался и вернулся.
 
-Общий список софта я вам сдал. Теперь к важному и ежедневному: основной редактор Sublime Text 3 /dev. Пакеты: <a href="http://t.co/DxgIOkuFAY">pic.twitter.com/DxgIOkuFAY</a>
+Общий список софта я вам сдал. Теперь к важному и ежедневному: основной редактор Sublime Text 3 /dev. Пакеты: [pic.twitter.com/DxgIOkuFAY](http://t.co/DxgIOkuFAY)
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а как же non-compete clause? Или у тебя нет его в договоре?
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а как же non-compete clause? Или у тебя нет его в договоре?
 
 Почти у всех в договорах есть что-то про «нельзя уходить к конкурентам», но я не помню случаев, когда что-то подобное применяли в реальности
 
-RT <a href="https://twitter.com/NealMoreau" title="Атланов Евгений">@NealMoreau</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а как на счет деплоя? Как вы относитесь к IDE ?
+RT [@NealMoreau](https://twitter.com/NealMoreau "Атланов Евгений"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а как на счет деплоя? Как вы относитесь к IDE ?
 
 IDE я не переношу, у меня травма с тех пор, когда мне пришлось год работать с JSP-шаблонами в IntelliJ IDEA. Только лёгкие редакторы.
 
 Деплой обычно в Grunt или Gulp через rsync, по-домашнему, без сложностей. Но у меня и задач по мощному раскатыванию не бывает.
 
-Для тех, кто пропустил вечернюю картинку: мой ST, строго светлый, тема и подсветка Soda — <a href="https://t.co/tbsY6e7gmr">github.com/buymeasoda/sod…</a> <a href="http://t.co/75OLbQTu6U">pic.twitter.com/75OLbQTu6U</a>
+Для тех, кто пропустил вечернюю картинку: мой ST, строго светлый, тема и подсветка Soda — [github.com/buymeasoda/sod…](https://t.co/tbsY6e7gmr "https://github.com/buymeasoda/soda-theme") [pic.twitter.com/75OLbQTu6U](http://t.co/75OLbQTu6U)
 
 В этом месте хочется перейти к дискуссии про табы и пробелы (поверьте, мне есть что сказать), но я сначала пообедаю.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> если пренебрегать правовым полем, то человеку и без трудоустройства ничего не мешает всё рассказ…
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если пренебрегать правовым полем, то человеку и без трудоустройства ничего не мешает всё рассказ…
 
 Есть такое понятие «репутация». Она лучше любых NDA защищает компанию в большинстве случаев. Но юристам нужно что-то серьёзнее.
 
@@ -410,7 +410,7 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 В пятницу я еду в Питер и речь пойдёт о жизни разработчика вне кода: образование, язык, конференции и прочее.
 
-В субботу в Питере пройдёт Talks &amp; Works по фронтенду, где я выступлю с докладом и по ходу расскажу вам о других — <a href="http://t.co/9l1fVDd9OR">t-n-w.ru/#program</a>
+В субботу в Питере пройдёт Talks &amp; Works по фронтенду, где я выступлю с докладом и по ходу расскажу вам о других — [t-n-w.ru/#program](http://t.co/9l1fVDd9OR "http://t-n-w.ru/#program")
 
 В воскресенье будет флуд в чистом виде, ответы на неотвеченное, танцы и салют.
 
@@ -420,7 +420,7 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 Что такое табы и пробелы в одном коде? Это абсолютное зло. Просто потому, что это непоследовательно и говорит об отсутствии стиля.
 
-Все свои проекты я начинаю с добавления файла .editorconfig с описанием стиля кода — <a href="http://t.co/6AqH4WJo20">editorconfig.org</a>
+Все свои проекты я начинаю с добавления файла .editorconfig с описанием стиля кода — [editorconfig.org](http://t.co/6AqH4WJo20 "http://editorconfig.org/")
 
 Если в вашем рабочем или опенсорсном проекте нет такого файла, то ждите комита, который меняет пробелы на табы. А потом обратно. И ещё раз.
 
@@ -436,17 +436,17 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 Не нужно ASCII-арта, вам никакой конфиг или линтер не поможет это нормально поддерживать.
 
-Пример обычного EditorConfig для моих проектов: табы для всего и 2 пробела для исключений — <a href="https://t.co/fmWQeSf6sC">github.com/shower/ribbon/…</a>
+Пример обычного EditorConfig для моих проектов: табы для всего и 2 пробела для исключений — [github.com/shower/ribbon/…](https://t.co/fmWQeSf6sC "https://github.com/shower/ribbon/blob/master/.editorconfig")
 
 Мой любимый моноширинный шрифт, который я не могу променять ни на что другое — Consolas, он прекрасен. Особенно красивый у него курсив.
 
-Что интересно, консоль у меня тёмная. Но я её не читаю, как код в редакторе — только поглядываю, поэтому не критично <a href="http://t.co/a1Y6xGfIG0">pic.twitter.com/a1Y6xGfIG0</a>
+Что интересно, консоль у меня тёмная. Но я её не читаю, как код в редакторе — только поглядываю, поэтому не критично [pic.twitter.com/a1Y6xGfIG0](http://t.co/a1Y6xGfIG0)
 
-«Как не читаешь?! — спросите вы, там же Git, мёржить дифы надо как-то» — у меня для этого Tower есть. <a href="http://t.co/HEdeuRCh0u">pic.twitter.com/HEdeuRCh0u</a>
+«Как не читаешь?! — спросите вы, там же Git, мёржить дифы надо как-то» — у меня для этого Tower есть. [pic.twitter.com/HEdeuRCh0u](http://t.co/HEdeuRCh0u)
 
 Жду комментария про Git «только консоль, только хардкор», чтобы парировать про ограниченную модальность консоли.
 
-RT <a href="https://twitter.com/rainrb" title="rainrb">@rainrb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а что такое “ограниченная модальность”?
+RT [@rainrb](https://twitter.com/rainrb "rainrb"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а что такое “ограниченная модальность”?
 
 В консоли вы одновременно можете видеть результат выполнения последней команды. Есть разные трюки, но не более.
 
@@ -454,21 +454,21 @@ RT <a href="https://twitter.com/rainrb" title="rainrb">@rainrb</a>: <a href="htt
 
 То есть вы быстрее сможете сориентироваться в запутанной ситуации и наделаете меньше ошибок. Правда это не повод не знать команд в консоли.
 
-RT <a href="https://twitter.com/borys_kupar" title="Borys">@borys_kupar</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я уже давно использую SourceTree. Есть ли у Tower какие то преимущества?
+RT [@borys_kupar](https://twitter.com/borys_kupar "Borys"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я уже давно использую SourceTree. Есть ли у Tower какие то преимущества?
 
 SourceTree, на мой вкус, страшный. GitHub Desktop ограниченный. А Tower достаточно хорош во всех отношениях.
 
-Раньше моим любимым GUI для Git был Gitbox, но автор кажется забил на него — <a href="http://t.co/sk1Cs0fY9m">gitboxapp.com</a>
+Раньше моим любимым GUI для Git был Gitbox, но автор кажется забил на него — [gitboxapp.com](http://t.co/sk1Cs0fY9m "http://www.gitboxapp.com/")
 
-Tower ещё хорош встроенным дифом — если вам хватает. Мне он кажется слабым и я использую Kaleidoscope — <a href="http://t.co/3KqWs8X4k7">kaleidoscopeapp.com</a>
+Tower ещё хорош встроенным дифом — если вам хватает. Мне он кажется слабым и я использую Kaleidoscope — [kaleidoscopeapp.com](http://t.co/3KqWs8X4k7 "http://www.kaleidoscopeapp.com/")
 
-RT <a href="https://twitter.com/_h4_" title="Наполеон Бонапарт">@_h4_</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а `git bisect` Tower умеет?
+RT [@_h4_](https://twitter.com/_h4_ "Наполеон Бонапарт"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а `git bisect` Tower умеет?
 
-RT <a href="https://twitter.com/_h4_" title="Наполеон Бонапарт">@_h4_</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я серьёзно, если что. Это одна из двух операций, которые я делаю в консоли. Вторая — `git rebase -i`
+RT [@_h4_](https://twitter.com/_h4_ "Наполеон Бонапарт"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я серьёзно, если что. Это одна из двух операций, которые я делаю в консоли. Вторая — `git rebase -i`
 
 Некоторые вещи я быстрее делаю в консоли по старой привычке. Но главным образом — GUI, не только для мёржей, но и для комитов, пушей-пулов.
 
-RT <a href="https://twitter.com/11bit" title="inky">@11bit</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кроме того что платный :(
+RT [@11bit](https://twitter.com/11bit "inky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кроме того что платный :(
 
 Давайте ещё кое-что обсудим. Распространённую фобию платить за софт. Tower стоит 60 € и у него есть триал. Попробовал, понравилось, купил.
 
@@ -482,51 +482,51 @@ RT <a href="https://twitter.com/11bit" title="inky">@11bit</a>: <a href="https:/
 
 Я веду к тому, что деньги можно и нужно вкладывать в более эффективные рабочие процессы. Особенно если это инди-утилита за 0.99 центов.
 
-RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вадим, техвопрос. Есть ли проблема с производительностью флексбоксов? смотрел твою презентацию, но не разобрался…
+RT [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вадим, техвопрос. Есть ли проблема с производительностью флексбоксов? смотрел твою презентацию, но не разобрался…
 
 Насколько быстрые флексбоксы? Помнится что-то такое считал Пол Айриш и писал, что они медленнее, скажем, флоатов, но незначительно.
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тем более, что до этого лет 5-10 пользовался ломаным софтом. Пора отдавать долги. Я это так ощущаю.
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тем более, что до этого лет 5-10 пользовался ломаным софтом. Пора отдавать долги. Я это так ощущаю.
 
 Покупать софт, помимо очевидных мотивов, это ещё и помогать авторам выпускать новые крутые продукты.
 
-RT <a href="https://twitter.com/prncd" title="Eugene Datsky">@prncd</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Это же всё есть в вебшторме, да и для саблайма есть плагины. Очевидный плюс - всё в одном приложении; нажал хоткей …
+RT [@prncd](https://twitter.com/prncd "Eugene Datsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Это же всё есть в вебшторме, да и для саблайма есть плагины. Очевидный плюс - всё в одном приложении; нажал хоткей …
 
 Интегрировать хелперы для простых Git-задач в IDE или редакторы — отличная вещь, у меня есть GitGutter, к примеру.
 
 Но часто бывает нужно сделать что-то более серьёзное и специализированный софт, вроде Tower, в этом помогает.
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> очень помогают апсторы и подписки - завел карту один раз, и потом не нужно беспокоиться.
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") очень помогают апсторы и подписки - завел карту один раз, и потом не нужно беспокоиться.
 
 Да, они подсаживают — всего одна кнопочка и деньги шмыг с карты… Но некоторые разработчики намеренно ушли из Апстора, а кого-то и не было.
 
-RT <a href="https://twitter.com/markbaraban" title="Mark">@markbaraban</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Что порекомендуете из списка <a href="https://t.co/bbOzFAd6nV">github.com/guipdutra/awes…</a> ? Может есть еще что-то лучше?)
+RT [@markbaraban](https://twitter.com/markbaraban "Mark"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Что порекомендуете из списка [github.com/guipdutra/awes…](https://t.co/bbOzFAd6nV "https://github.com/guipdutra/awesome-geek-podcasts") ? Может есть еще что-то лучше?)
 
 Я совсем не слушаю подкасты, только очень изредка, если кто-то явно рекомендует какие-то эпизоды. Только Аэростат слушаю, но это другое ;)
 
-RT <a href="https://twitter.com/mgrachev" title="Grachev Mikhail">@mgrachev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Использую GitHub Desktop для ревью своего кода, для всего остального есть консоль
+RT [@mgrachev](https://twitter.com/mgrachev "Grachev Mikhail"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Использую GitHub Desktop для ревью своего кода, для всего остального есть консоль
 
-GitHub for Mac/Windows до недавнего релиза GitHub Desktop был кривенький. Стоит, видимо, попробовать новый для гуёв <a href="https://t.co/YUJ6x2slzV">desktop.github.com</a>
+GitHub for Mac/Windows до недавнего релиза GitHub Desktop был кривенький. Стоит, видимо, попробовать новый для гуёв [desktop.github.com](https://t.co/YUJ6x2slzV "https://desktop.github.com/")
 
 В GitHub Desktop точно хороший диф, остальное пока не прочувствовал.
 
 ## Среда <small>122 твита</small>
 
-RT <a href="https://twitter.com/xwoody" title="Aleks Hudochenkov">@xwoody</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вадим, а ты научил Sublime Text ставить таб в CSS перед закрывающей скобкой или все руками делаешь? <a href="http://t.co/0RbflRh0bA">pic.twitter.com/0RbflRh0bA</a>
+RT [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вадим, а ты научил Sublime Text ставить таб в CSS перед закрывающей скобкой или все руками делаешь? [pic.twitter.com/0RbflRh0bA](http://t.co/0RbflRh0bA)
 
-Плагин Хаяку <a href="http://t.co/wPgTWb0POJ">hayakubundle.com</a> для ST очень позволяет очень гибко настраивать форматирование CSS <a href="http://t.co/jmSnwz76WD">pic.twitter.com/jmSnwz76WD</a>
+Плагин Хаяку [hayakubundle.com](http://t.co/wPgTWb0POJ "http://hayakubundle.com/") для ST очень позволяет очень гибко настраивать форматирование CSS [pic.twitter.com/jmSnwz76WD](http://t.co/jmSnwz76WD)
 
-RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> круто для SCSS/LESS, но бесполезно для Stylus ♥️
+RT [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") круто для SCSS/LESS, но бесполезно для Stylus ♥️
 
 Я люблю мои скобочки! Языки, основанные на отступах, это как хрустальные лебеди: красиво, но «ой, сломалося».
 
-Энивейс, всем доброе утро. Шутер от первого лица «Один день Разработчика» начинается. <a href="http://t.co/sWRC8N1P1p">pic.twitter.com/sWRC8N1P1p</a>
+Энивейс, всем доброе утро. Шутер от первого лица «Один день Разработчика» начинается. [pic.twitter.com/sWRC8N1P1p](http://t.co/sWRC8N1P1p)
 
-RT <a href="https://twitter.com/Chudesnov" title="散厦知">@Chudesnov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в чем глубинная причина ставить маркер, закрывающий блок, на уровне этого самого блока, а не родительского?
+RT [@Chudesnov](https://twitter.com/Chudesnov "散厦知"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в чем глубинная причина ставить маркер, закрывающий блок, на уровне этого самого блока, а не родительского?
 
-Чтобы закрывающие скобки блока не болтались где попало, а как бы «чейнились» при отступах блоков, см. <a href="https://t.co/R2sAv94VoJ">twitter.com/xwoody/status/…</a>
+Чтобы закрывающие скобки блока не болтались где попало, а как бы «чейнились» при отступах блоков, см. [twitter.com/xwoody/status/…](https://t.co/R2sAv94VoJ "https://twitter.com/xwoody/status/633888877581873152")
 
-См. подробнее про форму блока в моей старой презентации «CSS-менеджмент» — <a href="http://t.co/9vrkeWer1F">pepelsbey.net/pres/css-manag…</a>
+См. подробнее про форму блока в моей старой презентации «CSS-менеджмент» — [pepelsbey.net/pres/css-manag…](http://t.co/9vrkeWer1F "http://pepelsbey.net/pres/css-management/#37")
 
 На моих часах стоят два будильника: 00:00 и 08:00. Первый советует, что пора спать, второй будит. Ну, скорее намекает, что пора вставать.
 
@@ -536,95 +536,95 @@ RT <a href="https://twitter.com/Chudesnov" title="散厦知">@Chudesnov</a>: <a 
 
 По нечётным, перед завтраком, я выбегаю на пробежку: обычно 9—10 км, потом еду на работу на автобусе (на велике тяжеловато после такого).
 
-RT <a href="https://twitter.com/__fro" title="Alexey Frolov">@__fro</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> простите, но я таки позволю себе набросить в сторону любителей CSS старой закалки ) <a href="http://t.co/v2rVkfZog2">formidablelabs.com/blog/2015/03/0…</a>
+RT [@__fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") простите, но я таки позволю себе набросить в сторону любителей CSS старой закалки ) [formidablelabs.com/blog/2015/03/0…](http://t.co/v2rVkfZog2 "http://formidablelabs.com/blog/2015/03/01/launching-radium/")
 
-В свою очередь, я наброшу в сторону любителей всего модного: <a href="https://t.co/SigTkXqgkf">twitter.com/GillTwistRec/s…</a>
+В свою очередь, я наброшу в сторону любителей всего модного: [twitter.com/GillTwistRec/s…](https://t.co/SigTkXqgkf "https://twitter.com/GillTwistRec/status/633552392877907968")
 
-RT <a href="https://twitter.com/__fro" title="Alexey Frolov">@__fro</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> и да, самое забавное, что именно так “не любители всего модного” оправдывают свою лень, чтобы оставаться в зоне ком…
+RT [@__fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и да, самое забавное, что именно так “не любители всего модного” оправдывают свою лень, чтобы оставаться в зоне ком…
 
 Не стоит называть «ленивыми» тех, кому не нравится, скажем, инлайнить стили. Противоречия могут быть идеологическими. Идея — не лень.
 
-Это — завтрак. В тарелке сейчас окажется овсянка, сваренная на воде. <a href="http://t.co/BilSCh2W5P">pic.twitter.com/BilSCh2W5P</a>
+Это — завтрак. В тарелке сейчас окажется овсянка, сваренная на воде. [pic.twitter.com/BilSCh2W5P](http://t.co/BilSCh2W5P)
 
-RT <a href="https://twitter.com/amureki" title="а у реки">@amureki</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> сколько времени у тебя уходит на такие пробежки по утрам? Прибавляет сил работать?
+RT [@amureki](https://twitter.com/amureki "а у реки"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сколько времени у тебя уходит на такие пробежки по утрам? Прибавляет сил работать?
 
 На пробежку уходит около часа, включая разминку. Велик или пробежка с утра позволяют проснуться лучше, чем литр кофе в офисе.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> диета?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") диета?
 
 Это не диета (временное с определённой целью), это я так постоянно питаюсь последние пару лет.
 
-RT <a href="https://twitter.com/__fro" title="Alexey Frolov">@__fro</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ога, до поры-до времени.К обеду после такого очень таки вздремнуть тянет.И таки надо вздремнуть! Вам позволяют таку…
+RT [@__fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ога, до поры-до времени.К обеду после такого очень таки вздремнуть тянет.И таки надо вздремнуть! Вам позволяют таку…
 
 Совсем не тянет вздремнуть. Энергии обычно хватает до вечера, да и в офисе как-то не принято спать. По крайней мере, нет подходящих мест.
 
-Под завтрак обычно короткая лекция: Арзамас или ПостНаука. Сегодня: «Сверхпроводники на основе оксидов меди» <a href="http://t.co/6CFHRzntPM">postnauka.ru/video/50340</a>
+Под завтрак обычно короткая лекция: Арзамас или ПостНаука. Сегодня: «Сверхпроводники на основе оксидов меди» [postnauka.ru/video/50340](http://t.co/6CFHRzntPM "http://postnauka.ru/video/50340")
 
-RT <a href="https://twitter.com/__fro" title="Alexey Frolov">@__fro</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну, наверное, правда по середине, как обычно ). Я про тот CSS больше, для которого BEM придумали. Ну костыль-же )
+RT [@__fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну, наверное, правда по середине, как обычно ). Я про тот CSS больше, для которого BEM придумали. Ну костыль-же )
 
-Про костыли, стили и изоляцию лучше всех рассказывает <a href="https://twitter.com/rdvornov" title="Roman Dvornov">@rdvornov</a> — <a href="https://t.co/8sY81PQOgA">youtube.com/watch?v=V7bnSO…</a>
+Про костыли, стили и изоляцию лучше всех рассказывает [@rdvornov](https://twitter.com/rdvornov "Roman Dvornov") — [youtube.com/watch?v=V7bnSO…](https://t.co/8sY81PQOgA "https://www.youtube.com/watch?v=V7bnSOwuO4M")
 
-RT <a href="https://twitter.com/0_on" title="0_on">@0_on</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а во сколько обычно выходишь на работу и возвращаешься домой?
+RT [@0_on](https://twitter.com/0_on "0_on"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а во сколько обычно выходишь на работу и возвращаешься домой?
 
 Прихожу на работу обычно в 11—12:00, выхожу в 18—19:00. Дорога 20 минут на автобусе, 40 минут пешком или 15 минут на велике.
 
-На велике есть два маршрута на работу: один прямой по дороге, второй вдоль речки, более живописный. Но оба в гору :\ <a href="http://t.co/Qk8qPo9Dbo">pic.twitter.com/Qk8qPo9Dbo</a>
+На велике есть два маршрута на работу: один прямой по дороге, второй вдоль речки, более живописный. Но оба в гору :\ [pic.twitter.com/Qk8qPo9Dbo](http://t.co/Qk8qPo9Dbo)
 
 Сегодня поеду специально по более живописному с остановками для фоточек, готовьтесь радоваться видам.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> то есть у тебя не 8-часовой рабочий день?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") то есть у тебя не 8-часовой рабочий день?
 
 У меня 8-часовой рабочий день, но отсчёт не начинается со входа в офис и не заканчивается при выходе.
 
-Ну, поехали <a href="http://t.co/OxGeNfmMJE">pic.twitter.com/OxGeNfmMJE</a>
+Ну, поехали [pic.twitter.com/OxGeNfmMJE](http://t.co/OxGeNfmMJE)
 
-Сначала через парк с собором на холме <a href="http://t.co/KmyqwwdD8c">pic.twitter.com/KmyqwwdD8c</a>
+Сначала через парк с собором на холме [pic.twitter.com/KmyqwwdD8c](http://t.co/KmyqwwdD8c)
 
-Так и быть, сделал крюк к старому офису Opera Software: коричневая коробка за деревьями <a href="http://t.co/tz6srp9alo">pic.twitter.com/tz6srp9alo</a>
+Так и быть, сделал крюк к старому офису Opera Software: коричневая коробка за деревьями [pic.twitter.com/tz6srp9alo](http://t.co/tz6srp9alo)
 
-Ну и как же без водопада. А на эту горку мне сейчас забираться на велике <a href="http://t.co/ZhuNDAtNCt">pic.twitter.com/ZhuNDAtNCt</a>
+Ну и как же без водопада. А на эту горку мне сейчас забираться на велике [pic.twitter.com/ZhuNDAtNCt](http://t.co/ZhuNDAtNCt)
 
-Дорога вдоль реки хороша тем, что она не прерывается и идёт многие километры, ныряя под мостами <a href="http://t.co/N5VScWULZq">pic.twitter.com/N5VScWULZq</a>
+Дорога вдоль реки хороша тем, что она не прерывается и идёт многие километры, ныряя под мостами [pic.twitter.com/N5VScWULZq](http://t.co/N5VScWULZq)
 
-Холмы <a href="http://t.co/AtwBnWjtzr">pic.twitter.com/AtwBnWjtzr</a>
+Холмы [pic.twitter.com/AtwBnWjtzr](http://t.co/AtwBnWjtzr)
 
-Любимое место с мостом уже на полпути к офису <a href="http://t.co/WbMmij3bgC">pic.twitter.com/WbMmij3bgC</a>
+Любимое место с мостом уже на полпути к офису [pic.twitter.com/WbMmij3bgC](http://t.co/WbMmij3bgC)
 
-Район Нидален, в котором находится офис Opera Software <a href="http://t.co/9ik1pnT74E">pic.twitter.com/9ik1pnT74E</a>
+Район Нидален, в котором находится офис Opera Software [pic.twitter.com/9ik1pnT74E](http://t.co/9ik1pnT74E)
 
-Подмостовье 3-го кольца, ещё водопад и, наконец, новый офис Opera Software <a href="http://t.co/9QITvaryNS">pic.twitter.com/9QITvaryNS</a>
+Подмостовье 3-го кольца, ещё водопад и, наконец, новый офис Opera Software [pic.twitter.com/9QITvaryNS](http://t.co/9QITvaryNS)
 
-Рабочее место <a href="http://t.co/YTtuhbLCtK">pic.twitter.com/YTtuhbLCtK</a>
+Рабочее место [pic.twitter.com/YTtuhbLCtK](http://t.co/YTtuhbLCtK)
 
-RT <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> выглядит мило ) А удобно работать в фотошопе / скетче с помощью трекпада? Не устает рука?
+RT [@denisfedosov](https://twitter.com/denisfedosov "Denis FL"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") выглядит мило ) А удобно работать в фотошопе / скетче с помощью трекпада? Не устает рука?
 
 Трекпад гораздо удобнее мыши тем, что многие вещи делаются жестами, напр. перетаскивание тремя пальцами. Это разгружает скукоженную руку.
 
-RT <a href="https://twitter.com/NealMoreau" title="Атланов Евгений">@NealMoreau</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> крутяцкие часы, есть ссылка на них?
+RT [@NealMoreau](https://twitter.com/NealMoreau "Атланов Евгений"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") крутяцкие часы, есть ссылка на них?
 
-«Часы» под монитором — это календарь из аналоговых кубиков, купил в MoMA Store в Нью-Йорке — <a href="http://t.co/uyjJEsKIVs">momastore.org/museum/moma/Pr…</a>
+«Часы» под монитором — это календарь из аналоговых кубиков, купил в MoMA Store в Нью-Йорке — [momastore.org/museum/moma/Pr…](http://t.co/uyjJEsKIVs "http://www.momastore.org/museum/moma/ProductDisplay_Cubes-Perpetual-Calendar_10451_10001_162596_-1_26674_11527")
 
-RT <a href="https://twitter.com/smolnikov" title="Sergey Smolnikov">@smolnikov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> какого дня недели не хватает на сером кубике?
+RT [@smolnikov](https://twitter.com/smolnikov "Sergey Smolnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какого дня недели не хватает на сером кубике?
 
-Шах и мат! <a href="http://t.co/4TlNJjo01w">pic.twitter.com/4TlNJjo01w</a>
+Шах и мат! [pic.twitter.com/4TlNJjo01w](http://t.co/4TlNJjo01w)
 
-RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Когда переносили dev.opera с другой платформы, все старые ссылки сломались?
+RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Когда переносили dev.opera с другой платформы, все старые ссылки сломались?
 
-Когда переводили Dev.Opera на новую платформу, то написали много редиректов, <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> — <a href="https://t.co/5XzUjtxaj8">github.com/operasoftware/…</a>
+Когда переводили Dev.Opera на новую платформу, то написали много редиректов, [@operatino](https://twitter.com/operatino "Robert Haritonov") — [github.com/operasoftware/…](https://t.co/5XzUjtxaj8 "https://github.com/operasoftware/devopera/blob/master/.htaccess")
 
-RT <a href="https://twitter.com/arkasha69" title="Аркадов Вадим">@arkasha69</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> чем плох csscomb?
+RT [@arkasha69](https://twitter.com/arkasha69 "Аркадов Вадим"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") чем плох csscomb?
 
-<a href="http://t.co/MuV2PQBI5S">csscomb.com</a> отличная вещь, но я предпочитаю сразу писать правильно, <a href="https://twitter.com/arkasha69" title="Аркадов Вадим">@arkasha69</a>, и, если нужно, форматировать потом.
+[csscomb.com](http://t.co/MuV2PQBI5S "http://csscomb.com/") отличная вещь, но я предпочитаю сразу писать правильно, [@arkasha69](https://twitter.com/arkasha69 "Аркадов Вадим"), и, если нужно, форматировать потом.
 
-RT <a href="https://twitter.com/shved270189" title="Ivan Bondarenko">@shved270189</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> где наклейки такой тематики достать на ноут?
+RT [@shved270189](https://twitter.com/shved270189 "Ivan Bondarenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") где наклейки такой тематики достать на ноут?
 
-Гиковские наклейки, <a href="https://twitter.com/shved270189" title="Ivan Bondarenko">@shved270189</a>, можно достать на конференциях. Приходите на WSD, мы там устраиваем обмен — <a href="https://t.co/PYeQ30c4Zk">facebook.com/webstandardsru…</a>
+Гиковские наклейки, [@shved270189](https://twitter.com/shved270189 "Ivan Bondarenko"), можно достать на конференциях. Приходите на WSD, мы там устраиваем обмен — [facebook.com/webstandardsru…](https://t.co/PYeQ30c4Zk "https://www.facebook.com/webstandardsru/photos/a.864695006931573.1073741832.101531286581286/864696236931450/?type=3&theater")
 
-Питание в офисе Opera, считай, бесплатное. В месяц вычитают скромную сумму из з/п, каждый день горячее и салатный бар <a href="http://t.co/Qkxj0oMbGi">pic.twitter.com/Qkxj0oMbGi</a>
+Питание в офисе Opera, считай, бесплатное. В месяц вычитают скромную сумму из з/п, каждый день горячее и салатный бар [pic.twitter.com/Qkxj0oMbGi](http://t.co/Qkxj0oMbGi)
 
-Вид с перехода между крыльями здания на пятом этаже офиса <a href="http://t.co/yloQQtaurn">pic.twitter.com/yloQQtaurn</a>
+Вид с перехода между крыльями здания на пятом этаже офиса [pic.twitter.com/yloQQtaurn](http://t.co/yloQQtaurn)
 
-RT <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Уютно. Каждый день сюда ходишь?
+RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Уютно. Каждый день сюда ходишь?
 
 Иногда бросаю в чат WFH и работаю из дома или прихожу поздно — бывает пропускаю ланчи в офисе. Там в любое время можно сделать сендвич.
 
@@ -634,53 +634,53 @@ RT <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a>: <a 
 
 Однако в Осло до сих пор остаётся команда JS-ников, которые делают Speed Dial и сишников, которые пилят Blink и Chromium.
 
-RT <a href="https://twitter.com/RusAlexander" title="Alex Pletnev">@RusAlexander</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тихо. нет никого
+RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тихо. нет никого
 
 Я специально подгадывал моменты, когда в кадр не попадали коллеги — всё-таки офис и никто не в курсе, что фотографии сразу же в печать.
 
-RT <a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Много поувольняли? Или все согласились уехать в Польшу из Норвегии?
+RT [@freiksenet_ru](https://twitter.com/freiksenet_ru "Михаил Новиков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Много поувольняли? Или все согласились уехать в Польшу из Норвегии?
 
 Отдел из Осло не перевозили, его просто закрыли — так что никто не переехал. Большая часть разработки всё равно была в Польше.
 
 Разработчики Opera Mini и Opera для Android в основном сидят в шведском Гётеборге, так сложилось исторически.
 
-RT <a href="https://twitter.com/psyw" title="Максим Усачёв">@psyw</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вадим, помимо "ПостНауки" ты ещё как-нибудь занимаешься самообразованием? Если да, то расскажи плз поподробнее об эт…
+RT [@psyw](https://twitter.com/psyw "Максим Усачёв"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вадим, помимо "ПостНауки" ты ещё как-нибудь занимаешься самообразованием? Если да, то расскажи плз поподробнее об эт…
 
 Самообразованием помимо вебдева и онлайна я стараюсь заниматься регулярно: книги, курсы, мастер-классы, конференции.
 
-Из последних курсов был у Максима Ильяхова на «Инфостиле» <a href="http://t.co/xzB3WiwnIj">artgorbunov.ru/educenter/text/</a> и у Игоря Штанга на «Типографике» <a href="https://t.co/VCzFWnNRbk">vk.com/typeschool</a>
+Из последних курсов был у Максима Ильяхова на «Инфостиле» [artgorbunov.ru/educenter/text/](http://t.co/xzB3WiwnIj "http://artgorbunov.ru/educenter/text/") и у Игоря Штанга на «Типографике» [vk.com/typeschool](https://t.co/VCzFWnNRbk "https://vk.com/typeschool")
 
 Отсюда понятны мои увлечения помимо вебдева, но пограничные с ним: текст, дизайн, типографика.
 
 Из других дел для досуга я бы выделил музыку (концерты, поиск нового интересного), барабаны (самоучка) и велосипед.
 
-Свои смешные эксперименты с барабанами я публикую на <a href="https://t.co/JSSkZKPdXh">soundcloud.com/pepelsbey</a> — подбираю любимые песни на драм-машине и под это разучиваю.
+Свои смешные эксперименты с барабанами я публикую на [soundcloud.com/pepelsbey](https://t.co/JSSkZKPdXh "https://soundcloud.com/pepelsbey") — подбираю любимые песни на драм-машине и под это разучиваю.
 
-Драм-машина простая, для iPad — <a href="https://t.co/zW8Yp9YMJi">itunes.apple.com/en/app/dm1-the…</a>
+Драм-машина простая, для iPad — [itunes.apple.com/en/app/dm1-the…](https://t.co/zW8Yp9YMJi "https://itunes.apple.com/en/app/dm1-the-drum-machine/id431573951?mt=8")
 
-RT <a href="https://twitter.com/psyw" title="Максим Усачёв">@psyw</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> 1. Какие книжные жанры тебе нравятся? 2. Последние три книги, которые ты прочитал (помимо "вебских")?
+RT [@psyw](https://twitter.com/psyw "Максим Усачёв"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 1. Какие книжные жанры тебе нравятся? 2. Последние три книги, которые ты прочитал (помимо "вебских")?
 
 Последние три прочитанные книги: «Перевод с подстрочника» Е. Чижова, «Песни в пустоту» А. Горбачёва и И. Зинина, «Обитель» З. Прилепина.
 
-RT <a href="https://twitter.com/NealMoreau" title="Атланов Евгений">@NealMoreau</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а что из музыки предпочитаешь? под какую музыку работаешь ?
+RT [@NealMoreau](https://twitter.com/NealMoreau "Атланов Евгений"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а что из музыки предпочитаешь? под какую музыку работаешь ?
 
-Музыкальные предпочтения см. на <a href="http://t.co/CPXx3PIlzQ">last.fm/user/pepelsbey…</a>, в ушах почти постоянно что-то играет: когда работаю или иду куда-то.
+Музыкальные предпочтения см. на [last.fm/user/pepelsbey…](http://t.co/CPXx3PIlzQ "http://www.last.fm/user/pepelsbey/library/artists?date_preset"), в ушах почти постоянно что-то играет: когда работаю или иду куда-то.
 
 Продолжая про музыку: если нужно что-то сделать быстро и уверенно (пускай с ошибками), то ставлю System of a Down и вперёд!
 
-RT <a href="https://twitter.com/illinifellow" title="vanya ★ novikov">@illinifellow</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> читаешь RSS? Какие самые любимые ресурсы? (технические/нетехнические)
+RT [@illinifellow](https://twitter.com/illinifellow "vanya ★ novikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") читаешь RSS? Какие самые любимые ресурсы? (технические/нетехнические)
 
 RSS продолжаю читать, около 300 подписок, но из них 2/3 протухли, а другая треть пишет изредка. Но до сих пор удобнее, чем ходить по сайтам.
 
-Каких-то прямо любимых сайтов, пожалуй, нет. Общественно-политическое на <a href="https://t.co/FnzgmlZbte">meduza.io</a> (либераст, ага) и всякий нонсенс на Хабре.
+Каких-то прямо любимых сайтов, пожалуй, нет. Общественно-политическое на [meduza.io](https://t.co/FnzgmlZbte "https://meduza.io") (либераст, ага) и всякий нонсенс на Хабре.
 
-Экспортировал подписки из Feedly по совету <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://t.co/eVE6DJdBqm">gist.github.com/pepelsbey/3fb8…</a>, читаю с помощью Reeder <a href="http://t.co/jrOC7DKAnf">reederapp.com</a>
+Экспортировал подписки из Feedly по совету [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [gist.github.com/pepelsbey/3fb8…](https://t.co/eVE6DJdBqm "https://gist.github.com/pepelsbey/3fb8c9fd54598ffe5ecd"), читаю с помощью Reeder [reederapp.com](http://t.co/jrOC7DKAnf "http://reederapp.com/")
 
-RT <a href="https://twitter.com/dkushnikov" title="Dmitry Kushnikov">@dkushnikov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> расскажи про велик и няшки для него?
+RT [@dkushnikov](https://twitter.com/dkushnikov "Dmitry Kushnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") расскажи про велик и няшки для него?
 
-Возвращаясь к велосипеду, тоже важной части досуга. Вот так выглядит мой: <a href="http://t.co/PUd6ARIguy">pic.twitter.com/PUd6ARIguy</a>
+Возвращаясь к велосипеду, тоже важной части досуга. Вот так выглядит мой: [pic.twitter.com/PUd6ARIguy](http://t.co/PUd6ARIguy)
 
-Ладно, шучу: старая фотка из Питера и новая каска — старой исполнилось 6 лет, заменил. <a href="http://t.co/zuX247Wnsw">pic.twitter.com/zuX247Wnsw</a>
+Ладно, шучу: старая фотка из Питера и новая каска — старой исполнилось 6 лет, заменил. [pic.twitter.com/zuX247Wnsw](http://t.co/zuX247Wnsw)
 
 Кто угадает что за жёлтый велик на предыдущей фотке — молодец ;)
 
@@ -688,25 +688,25 @@ RT <a href="https://twitter.com/dkushnikov" title="Dmitry Kushnikov">@dkushnikov
 
 Внизу у офиса есть велопарковка (поменьше, чем у Яндекса в Москве), велик пристёгиваю там и не боюсь особенно.
 
-Некоторые мои коллеги паркуются как лоси и бывает, что не хватает мест на парковке, тогда в ход идут фонари. <a href="http://t.co/Fy43xic5vy">pic.twitter.com/Fy43xic5vy</a>
+Некоторые мои коллеги паркуются как лоси и бывает, что не хватает мест на парковке, тогда в ход идут фонари. [pic.twitter.com/Fy43xic5vy](http://t.co/Fy43xic5vy)
 
-RT <a href="https://twitter.com/usernamus" title="Sergey Gornostaev">@usernamus</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, гугловый?
+RT [@usernamus](https://twitter.com/usernamus "Sergey Gornostaev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), гугловый?
 
 Да! Жёлтый велик — это внутренний транспорт в главном кампусе Гугл в Калифорнии.
 
 Если вы хотите, чтобы в Осло с вашего велосипеда свинтили колёса, седло и всё, что отвинчивается без взлома, прицепите его на ночь у вокзала
 
-RT <a href="https://twitter.com/webholt" title="Vlad :: gwer">@webholt</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А другой личный транспорт есть?
+RT [@webholt](https://twitter.com/webholt "Vlad :: gwer"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А другой личный транспорт есть?
 
 Я ни разу не сидел за рулём машины и прав, понятное дело, нет. Более того, нет причин, чтобы заводить машину. И, надеюсь, не появится.
 
-RT <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> интересная позиция, можно подробнее по последней фразе?
+RT [@dshster](https://twitter.com/dshster "Дмитрий Швалёв"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") интересная позиция, можно подробнее по последней фразе?
 
 Машины недолюбливаю, не понимаю, верю в общественный транспорт, собств. ноги и велосипед. Молодой, холостой, могу себе позволить так думать.
 
 В Осло придумал игру «Сосчитай Теслы»: считаю их по дороге на работу и обратно. Обычно 5-7, бывает 10. Это на полумиллионник.
 
-RT <a href="https://twitter.com/npofopr" title="npofopr [ᵔᴥᵔ]">@npofopr</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> а было уже про жизнь в предпенсионный возраст? Кем себя видите и чем занимаетесь?) Не всем же руков…
+RT [@npofopr](https://twitter.com/npofopr "npofopr [ᵔᴥᵔ]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@cssunderhood](https://twitter.com/cssunderhood "Верстальщик") а было уже про жизнь в предпенсионный возраст? Кем себя видите и чем занимаетесь?) Не всем же руков…
 
 Пока пенсионный возраст выглядит не следующим большим этапом, а через один. То есть в следующем и будет понятно, что с этим буду делать.
 
@@ -714,7 +714,7 @@ RT <a href="https://twitter.com/npofopr" title="npofopr [ᵔᴥᵔ]">@npofopr</a
 
 Всё, что я сейчас вкладываю, я вкладываю в себя: образование, здоровье, опыт, известность. Что-то из этого должно мне помочь в старости.
 
-RT <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что думаешь по поводу гельветики и сан франциско?
+RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что думаешь по поводу гельветики и сан франциско?
 
 Ставил бету OS X El Capitan, но откатился: поразило насколько разворотило большинство приложений от нового шрифта. Не то что веб!
 
@@ -722,11 +722,11 @@ RT <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
 
 Рабочий день всё, сажусь на велик и радостно мчусь с под горку домой. Вот вам и адреналин :)
 
-RT <a href="https://twitter.com/as_Crazy" title="Alexander">@as_Crazy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Не надоедает? Не хочется заменить велик чем-то более интересным? Я один сезон откатал на работу на велике - надо…
+RT [@as_Crazy](https://twitter.com/as_Crazy "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не надоедает? Не хочется заменить велик чем-то более интересным? Я один сезон откатал на работу на велике - надо…
 
 Для меня велосипед — не развлечение, он так же естественен, как ходьба. Надоедает ходить? Нет, нравится двигаться, чувствовать своё тело.
 
-RT <a href="https://twitter.com/not_plasticine" title="Marie Anykey">@not_plasticine</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а про отношение в Норвегии к велосипедистам уже спрашивали где-нибудь? и чего там у вас с велоинфраструкту…
+RT [@not_plasticine](https://twitter.com/not_plasticine "Marie Anykey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а про отношение в Норвегии к велосипедистам уже спрашивали где-нибудь? и чего там у вас с велоинфраструкту…
 
 С велоинфраструктурой в Осло всё хорошо: есть городские велосипеды, кругом парковки, проложены веломаршруты с дорожками. Словом, Европа.
 
@@ -748,17 +748,17 @@ RT <a href="https://twitter.com/not_plasticine" title="Marie Anykey">@not_plasti
 
 Не забывайте, что тема дня не отменяет разговоров на любые другие темы.
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что, не только софт, но и за сериалы тоже платишь по-честному?
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что, не только софт, но и за сериалы тоже платишь по-честному?
 
 То, что у меня есть подписка на Netflix и HBO, делает меня ужасным человеком в глазах моих соотечественников :) Надеюсь, они просто завидуют
 
-RT <a href="https://twitter.com/gxoptg_" title="Ivan Akulov">@gxoptg_</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Были ли реальные случаи, когда тебе пригождались непрофильные знания дизайна или редактуры?
+RT [@gxoptg_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Были ли реальные случаи, когда тебе пригождались непрофильные знания дизайна или редактуры?
 
 Я много занимаюсь текстами для проектов ВСТ и рабочих тоже, так что моё неоконченное журналистское образование здесь помогает.
 
 ## Четверг <small>71 твит</small>
 
-Продолжая список научпопа, который я читаю: увлекательный сайт <a href="http://t.co/3hJpxLJ5A0">popadancev.net</a> с инструкциями для путешественника во времени.
+Продолжая список научпопа, который я читаю: увлекательный сайт [popadancev.net](http://t.co/3hJpxLJ5A0 "http://www.popadancev.net/") с инструкциями для путешественника во времени.
 
 На Попаданцах можно залипнуть как на Википедии: от паровых двигателей до гравюры, как это «изобрести» в прошлом? Чаще всего никак, кстати.
 
@@ -774,9 +774,9 @@ RT <a href="https://twitter.com/gxoptg_" title="Ivan Akulov">@gxoptg_</a>: <a hr
 
 Вакансия изначально была в Осло и все рассчитывали на мой переезд, но я решил остаться ближе к рынку, с которым нужно было работать.
 
-В целом, это было правильное решение — сейчас в Осло мне до всего не могу дотянуться. Так ни разу и не доехал до <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> ещё. Но доеду.
+В целом, это было правильное решение — сейчас в Осло мне до всего не могу дотянуться. Так ни разу и не доехал до [@moscowjs](https://twitter.com/moscowjs "MoscowJS") ещё. Но доеду.
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ты в старом офисе бывал? Как в новом офисе по сравнению со старым?
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ты в старом офисе бывал? Как в новом офисе по сравнению со старым?
 
 Новый офис Opera в Осло открылся три года назад, так что в старом мне довелось бывать много раз, в нём конечно была своя прелесть.
 
@@ -788,7 +788,7 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 Если два норвежца или болгарина сидят в столовой, то они будут говорить на родном языке, но если подсядет русский, то перейдут на английский
 
-RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в связи с этим, а как ты учил язык?
+RT [@mr_skriming](https://twitter.com/mr_skriming "Pasha Grekovich"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в связи с этим, а как ты учил язык?
 
 Специально язык я не учил до минувшей зимы, просто впитывал, пока варился среди коллег и в переписке.
 
@@ -798,69 +798,69 @@ RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skrimin
 
 Русских в головном офисе много и бывает, что они кучкуются после ланча и обсуждают политику. Но прямо уж диаспоры не чувствуется.
 
-RT <a href="https://twitter.com/gunlinux" title="Vladimir, 13th">@gunlinux</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> понял, что не видел ни одного выступления на английском
+RT [@gunlinux](https://twitter.com/gunlinux "Vladimir, 13th"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") понял, что не видел ни одного выступления на английском
 
-Действительно, я всего один раз выступал на английском в Варшаве на Front-Trends, рассказывал про БЭМ :) <a href="http://t.co/5qqQ4TkXBF">pic.twitter.com/5qqQ4TkXBF</a>
+Действительно, я всего один раз выступал на английском в Варшаве на Front-Trends, рассказывал про БЭМ :) [pic.twitter.com/5qqQ4TkXBF](http://t.co/5qqQ4TkXBF)
 
 По английски не выступаю по двум причинам: фокус на российском рынке и мне так проще выражать мысли, говорить легко, импровизировать.
 
-Хотя есть документальное свидетельство моего английского с круглого стола на WSD в Яндексе в 2013 году — <a href="https://t.co/lZkKjlVRy3">events.yandex.ru/lib/talks/462/</a>
+Хотя есть документальное свидетельство моего английского с круглого стола на WSD в Яндексе в 2013 году — [events.yandex.ru/lib/talks/462/](https://t.co/lZkKjlVRy3 "https://events.yandex.ru/lib/talks/462/")
 
 Хотя не оставляю надежд начать выступать по-английски чаще и отправляю заявки на европейские конференции.
 
-RT <a href="https://twitter.com/a_kovalev" title="Alexander Kovalev">@a_kovalev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Каков основной источних дохода компании? Мобильная реклама? Имеет ли <a href="http://t.co/6GSOdLSUEk">operamediaworks.com</a> отношение к Opera S…
+RT [@a_kovalev](https://twitter.com/a_kovalev "Alexander Kovalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Каков основной источних дохода компании? Мобильная реклама? Имеет ли [operamediaworks.com](http://t.co/6GSOdLSUEk "http://operamediaworks.com/") отношение к Opera S…
 
-Opera разделена на 2 компании: Opera Software <a href="http://t.co/pK1sCBGpJf">opera.com</a> и Opera Mediaworks <a href="http://t.co/jvtcr18HyI">operamediaworks.com</a>. Софт и реклама.
+Opera разделена на 2 компании: Opera Software [opera.com](http://t.co/pK1sCBGpJf "http://opera.com/") и Opera Mediaworks [operamediaworks.com](http://t.co/jvtcr18HyI "http://operamediaworks.com/"). Софт и реклама.
 
 Mediaworks один из источников дохода компании, а также ТВ, партнёрство с операторами и производителями техники, мобильная реклама.
 
-Opera публичная компания и торгуется на бирже, за подробностями вам сюда — <a href="http://t.co/0Dx3CcDHwM">operasoftware.com/company/invest…</a>
+Opera публичная компания и торгуется на бирже, за подробностями вам сюда — [operasoftware.com/company/invest…](http://t.co/0Dx3CcDHwM "http://www.operasoftware.com/company/investors")
 
-RT <a href="https://twitter.com/gxoptg_" title="Ivan Akulov">@gxoptg_</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Развивается ли Престо дальше? Будет ли дальше появляться в нём (и в Опере Мини, соответственно) поддержка новых с…
+RT [@gxoptg_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Развивается ли Престо дальше? Будет ли дальше появляться в нём (и в Опере Мини, соответственно) поддержка новых с…
 
 Разработка Presto прекращена с момента перехода десктопа на Blink, сейчас Presto работает на серверах Opera Mini, но в итоге уйдёт и оттуда.
 
 То, что у вас на телефоне основной браузер Opera Mini совсем не значит, что всё работает на Presto, возможно браузер в режиме Turbo.
 
-Подробнее обо всех браузерах Opera, движках и режимах можно прочитать по-русски на Dev.Opera — <a href="https://t.co/kWBCJctU30">dev.opera.com/articles/ru/br…</a>
+Подробнее обо всех браузерах Opera, движках и режимах можно прочитать по-русски на Dev.Opera — [dev.opera.com/articles/ru/br…](https://t.co/kWBCJctU30 "https://dev.opera.com/articles/ru/browsers-modes-engines/")
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Бывают у вас в Опера внутренние технические ивенты?
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Бывают у вас в Опера внутренние технические ивенты?
 
 В Осло есть Opera Academy, на которой иногда выступают сотрудники или приезжие гости из какого-нибудь Blink. Но не слишком часто.
 
-В 2009 году был большой Engineering Seminar в Швеции, съехались все разработчики. Снова будет в этом году во Франции <a href="http://t.co/5zA3K07fvg">pic.twitter.com/5zA3K07fvg</a>
+В 2009 году был большой Engineering Seminar в Швеции, съехались все разработчики. Снова будет в этом году во Франции [pic.twitter.com/5zA3K07fvg](http://t.co/5zA3K07fvg)
 
-RT <a href="https://twitter.com/tonyganch" title="Tony Ganch">@tonyganch</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, а где же фоточки пляжной вечеринки?
+RT [@tonyganch](https://twitter.com/tonyganch "Tony Ganch"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), а где же фоточки пляжной вечеринки?
 
 На пляжную вечеринку в честь 20-летия Opera поедем через полчаса, погода за окном хорошая — фоточки будут.
 
-И снова к важному, к досугу в офисе. Мне несказанно повезло, что в головном офисе стоит правильный кикерный стол <a href="http://t.co/gNB6wPk8IJ">pic.twitter.com/gNB6wPk8IJ</a>
+И снова к важному, к досугу в офисе. Мне несказанно повезло, что в головном офисе стоит правильный кикерный стол [pic.twitter.com/gNB6wPk8IJ](http://t.co/gNB6wPk8IJ)
 
 Обратите внимание: если вам предлагают купить стол, то не доверяйте это завхозу. Стол должно быть Garlando, может быть Roberto.
 
 К сожалению, в большинстве офисов, которые хвастают «у нас есть кикер!» стоит пластмассовый уродец, у которого давно отваливаются ручки.
 
-Стараниями <a href="https://twitter.com/miripiruni" title="Slava Oliyanchuk">@miripiruni</a> в питерском офисе Яндекса стоит правильный Garlando Master Champion — на таких играют профессионалы.
+Стараниями [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk") в питерском офисе Яндекса стоит правильный Garlando Master Champion — на таких играют профессионалы.
 
 «Зачем нам хороший стол, если мы не профессионалы? Нам мячик погонять!» Затем, чтобы игра обрела смысл и стратегию (и стол не развалился).
 
-В общем, да, как вы могли понять, ещё одно моё хобби — кикер, он же фусбол. Жестокая одиночка в питерской лиге: <a href="http://t.co/dxBMEXResH">pic.twitter.com/dxBMEXResH</a>
+В общем, да, как вы могли понять, ещё одно моё хобби — кикер, он же фусбол. Жестокая одиночка в питерской лиге: [pic.twitter.com/dxBMEXResH](http://t.co/dxBMEXResH)
 
-RT <a href="https://twitter.com/timurKarshiev" title="Каршиев Тимур">@timurKarshiev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Я не понимаю, в крупных компаниях работы меньше чем в обычных, что даже время появляется поиграть?
+RT [@timurKarshiev](https://twitter.com/timurKarshiev "Каршиев Тимур"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я не понимаю, в крупных компаниях работы меньше чем в обычных, что даже время появляется поиграть?
 
 Есть две крайности: можно приковать разработчиков к батарее и стегать штафами, а можно распустить всех по домам и работать удалённо.
 
 Правда, как всегда, где-то посередине. Кикерный стол, настольный теннис или музыкальная комната помогают наладить связи и отдохнуть.
 
-Хокон Виум Ли представляет проект Кон-Тики 2, который стартует в ноябре при поддержке Opera Software <a href="http://t.co/TCvI5M7eqk">pic.twitter.com/TCvI5M7eqk</a>
+Хокон Виум Ли представляет проект Кон-Тики 2, который стартует в ноябре при поддержке Opera Software [pic.twitter.com/TCvI5M7eqk](http://t.co/TCvI5M7eqk)
 
-Тот же Хокон придумал развлечение: построить из палетов 2 плота и кто быстрее, Кон-Тики Мини <a href="http://t.co/IE28QJdaMi">pic.twitter.com/IE28QJdaMi</a>
+Тот же Хокон придумал развлечение: построить из палетов 2 плота и кто быстрее, Кон-Тики Мини [pic.twitter.com/IE28QJdaMi](http://t.co/IE28QJdaMi)
 
-Победа выглядела как-то так <a href="http://t.co/kFYGL0EGVw">pic.twitter.com/kFYGL0EGVw</a>
+Победа выглядела как-то так [pic.twitter.com/kFYGL0EGVw](http://t.co/kFYGL0EGVw)
 
-Ну и куда же без вейка <a href="http://t.co/gUBGq5w2dT">pic.twitter.com/gUBGq5w2dT</a>
+Ну и куда же без вейка [pic.twitter.com/gUBGq5w2dT](http://t.co/gUBGq5w2dT)
 
-RT <a href="https://twitter.com/AnroyPaul" title="AnroyPaul">@AnroyPaul</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а можешь рассказать чем больше всего пользуешься на своем смартфоне (кроме браузеров)? :)
+RT [@AnroyPaul](https://twitter.com/AnroyPaul "AnroyPaul"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а можешь рассказать чем больше всего пользуешься на своем смартфоне (кроме браузеров)? :)
 
 Телефон для меня, главным образом, набор чатов и навигации. Твиттер, Фб, Вк, Слак и Гугл-карты, Ранкипер. И ещё транспорт, об этом отдельно.
 
@@ -868,15 +868,15 @@ RT <a href="https://twitter.com/AnroyPaul" title="AnroyPaul">@AnroyPaul</a>: <a 
 
 Система сквозная: трамвай, автобус, метро, паромы до островов. Встроены смешные системы защиты: таймер, картинка дня и куаркод.
 
-RT <a href="https://twitter.com/pustovalov_p" title="Pavel Pustovalov">@pustovalov_p</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, как тебе Atom?
+RT [@pustovalov_p](https://twitter.com/pustovalov_p "Pavel Pustovalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), как тебе Atom?
 
 Atom я пробую раз в несколько месяцев: смотрю, готов ли, чтобы перейти на него с ST. Пока нет, хотя я настроил его на 80%, но 20% остаются.
 
-Не хватает нормального синтаксиса для Маркдауна (встроенный ужасный) и Хаяку, но это вопрос к <a href="https://twitter.com/ki_zu" title="Роман Комаров">@ki_zu</a> ;) — он на Python написан.
+Не хватает нормального синтаксиса для Маркдауна (встроенный ужасный) и Хаяку, но это вопрос к [@ki_zu](https://twitter.com/ki_zu "Роман Комаров") ;) — он на Python написан.
 
 Но в целом, Atom, как опенсорсный проект на JS, кажется мне перспективнее и когда-нибудь я перееду, но не сегодня.
 
-RT <a href="https://twitter.com/krasivieglaza" title="Sergei Panfilov">@krasivieglaza</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как отношения с коллегами ? Сильно отличается стиль общения ? Про что обычно шутите ?)
+RT [@krasivieglaza](https://twitter.com/krasivieglaza "Sergei Panfilov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как отношения с коллегами ? Сильно отличается стиль общения ? Про что обычно шутите ?)
 
 Отношения с коллегами, в целом, хорошие, но ближе всего, конечно, моя команда DevRel. Жалко, что многие ушли после перехода на Blink.
 
@@ -888,11 +888,11 @@ RT <a href="https://twitter.com/krasivieglaza" title="Sergei Panfilov">@krasivie
 
 Про что шутим с коллегами? Вам лучше не знать. Когда в команде был Патрик Лауке, они с Брюсом заставляли краснеть самых суровых дровосеков.
 
-RT <a href="https://twitter.com/krasivieglaza" title="Sergei Panfilov">@krasivieglaza</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а в чем это проявляется ? Тяжело было вначале влиться в коллектив ?
+RT [@krasivieglaza](https://twitter.com/krasivieglaza "Sergei Panfilov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а в чем это проявляется ? Тяжело было вначале влиться в коллектив ?
 
 Влиться было (и есть) сложно из-за языкового барьера — ты просто не так хорошо болтаешь на отвлечённые темы, ну и из-за природной скромности
 
-RT <a href="https://twitter.com/unel86" title="Peter Jah (0-)">@unel86</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> пробовал ли vs code? Он, как ни странно, в некоторых местах даже пошустрее атома
+RT [@unel86](https://twitter.com/unel86 "Peter Jah (0-)"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") пробовал ли vs code? Он, как ни странно, в некоторых местах даже пошустрее атома
 
 Visual Studio Code мне чем-то напоминает Brackets: отличное начало, но бесшовно со старыми привычками на него не перейти, как ни старайся.
 
@@ -902,7 +902,7 @@ Visual Studio Code мне чем-то напоминает Brackets: отлич�
 
 ## Пятница <small>42 твита</small>
 
-RT <a href="https://twitter.com/kalabro" title="Kate">@kalabro</a>: то, что делает на этой неделе Вадим Макеев в <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> — это просто какое-то мясо.
+RT [@kalabro](https://twitter.com/kalabro "Kate"): то, что делает на этой неделе Вадим Макеев в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") — это просто какое-то мясо.
 (проголосовала восьмью ретвитами.)
 
 Извините за радиомолчание, Вадим «это просто мясо» Макеев только что приземлился в Петербурге и вернётся к теме дня через час.
@@ -917,7 +917,7 @@ RT <a href="https://twitter.com/kalabro" title="Kate">@kalabro</a>: то, что
 
 Можно неистово гордиться тем, что ты самоучка, но я смотрю иначе: я завидую людям с хорошим техническим образованием.
 
-RT <a href="https://twitter.com/beshur" title="Shu Buznik">@beshur</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> не было желания получить второе, профильное?
+RT [@beshur](https://twitter.com/beshur "Shu Buznik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не было желания получить второе, профильное?
 
 Было некоторое разочарование в системе высшего образования, которое всегда сильно запаздывает за жизнью, поэтому о втором не думал.
 
@@ -927,73 +927,73 @@ RT <a href="https://twitter.com/beshur" title="Shu Buznik">@beshur</a>: <a href=
 
 Параллельно с самообразованием на практике и из статей в западных блогах, важным источником знаний для меня стали сообщества разработчиков.
 
-Например, упомянутый ранее <a href="http://t.co/c895SKWabz">webmascon.com</a> с переводами ALA, Нильсена и авторскими статьями Качанова <a href="http://t.co/7cFipzVHYn">webmascon.com/topics/imho/4a…</a>
+Например, упомянутый ранее [webmascon.com](http://t.co/c895SKWabz "http://webmascon.com/") с переводами ALA, Нильсена и авторскими статьями Качанова [webmascon.com/topics/imho/4a…](http://t.co/7cFipzVHYn "http://www.webmascon.com/topics/imho/4a.asp")
 
 Там же на форуме сформировался костяк нынешнего сообщества Веб-стандарты, которое появилось после закрытия этого форума.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ты расскажешь про вст? история, сайт, события, редакция, спонсирование
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ты расскажешь про вст? история, сайт, события, редакция, спонсирование
 
 Здесь мы плавно переходим к ответу на вопрос про Веб-стандарты, или ВСТ — самого главного для меня проекта.
 
-Сначала экс-вебмасконовцы назвались российским крылом международной сообщества Web Standards Group, выглядело это так <a href="http://t.co/IUhWreUqIV">pic.twitter.com/IUhWreUqIV</a>
+Сначала экс-вебмасконовцы назвались российским крылом международной сообщества Web Standards Group, выглядело это так [pic.twitter.com/IUhWreUqIV](http://t.co/IUhWreUqIV)
 
 Позже мы поняли, что быть крылом WSG это конечно круто, но если реальной связи нет, то почему бы не открыть свой лунапарк «Веб-стандарты».
 
 В итоге года с 2006 существует группа единомышленников переменной численности, которая делает полезные для русскоязычного веба вещи.
 
-Фотографии с одной из первых встреч WSG в Москве в октябре 2006 года: выступали с докладами, просто болтали. <a href="http://t.co/XJaxucJIoQ">pic.twitter.com/XJaxucJIoQ</a>
+Фотографии с одной из первых встреч WSG в Москве в октябре 2006 года: выступали с докладами, просто болтали. [pic.twitter.com/XJaxucJIoQ](http://t.co/XJaxucJIoQ)
 
-В ноябре 2007 года, всё ещё в рамках WSG, прошла первая встреча в Питере при поддержке Яндекса <a href="http://t.co/d8YK9Cfn01">pic.twitter.com/d8YK9Cfn01</a>
+В ноябре 2007 года, всё ещё в рамках WSG, прошла первая встреча в Питере при поддержке Яндекса [pic.twitter.com/d8YK9Cfn01](http://t.co/d8YK9Cfn01)
 
-Первая конференция под новым названием Web Standards Days прошла в Минске в ноябре 2009 года <a href="http://t.co/Qaca1NJuFr">pic.twitter.com/Qaca1NJuFr</a>
+Первая конференция под новым названием Web Standards Days прошла в Минске в ноябре 2009 года [pic.twitter.com/Qaca1NJuFr](http://t.co/Qaca1NJuFr)
 
-Всего с тех пор мы провели 24 конференции WSD в 7 городах — <a href="http://t.co/eRsS8yjHoV">webstandardsdays.ru/#calendar</a> Осенью планируются Минск, Киев и Москва.
+Всего с тех пор мы провели 24 конференции WSD в 7 городах — [webstandardsdays.ru/#calendar](http://t.co/eRsS8yjHoV "http://webstandardsdays.ru/#calendar") Осенью планируются Минск, Киев и Москва.
 
 Конференции и общение в сообществе помогли многим развиться как докладчикам, специалистам, найти работу, проекты и просто друзей.
 
-RT <a href="https://twitter.com/twenty" title="Павел Франков">@twenty</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> доклад «32»?
+RT [@twenty](https://twitter.com/twenty "Павел Франков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") доклад «32»?
 
-На первом WSD в Минске Вадим Макишвили читал доклад «Ошибка. Осознание, примирение, извлечение пользы», см. видео <a href="https://t.co/05z2j4uh1y">youtube.com/watch?v=4srVRo…</a>
+На первом WSD в Минске Вадим Макишвили читал доклад «Ошибка. Осознание, примирение, извлечение пользы», см. видео [youtube.com/watch?v=4srVRo…](https://t.co/05z2j4uh1y "https://www.youtube.com/watch?v=4srVRott8uU")
 
-Все опубликованные видео с WSD живут на канале Веб-стандартов на YouTube — <a href="https://t.co/dyUqbUz1S7">youtube.com/user/wstdays/v…</a> Но есть большой архив неопубликованного.
+Все опубликованные видео с WSD живут на канале Веб-стандартов на YouTube — [youtube.com/user/wstdays/v…](https://t.co/dyUqbUz1S7 "https://www.youtube.com/user/wstdays/videos") Но есть большой архив неопубликованного.
 
 Когда-то WSD была единственной независимой конференцией по фронтенду или клиент-сайду, как тогда это называлось.
 
 Сегодня активно развилось движение CityJS и подобные локальные сообщества, с которыми WSD, как конференция «раз в год» не конкурирует.
 
-Вот: <a href="https://twitter.com/4frontby" title="4frontby">@4frontby</a> <a href="https://twitter.com/ChellyJS" title="ChellyJS">@ChellyJS</a> <a href="https://twitter.com/EkbJS" title="EkbJS">@EkbJS</a> <a href="https://twitter.com/gopiterjs" title="PiterJS">@gopiterjs</a> <a href="https://twitter.com/KyivJS" title="KyivJS">@KyivJS</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> <a href="https://twitter.com/OdessaJS" title="OdessaJS">@OdessaJS</a> <a href="https://twitter.com/samara_frontend" title="SamaraJS">@samara_frontend</a> <a href="https://twitter.com/spb_frontend" title="SPB Frontend">@spb_frontend</a> <a href="https://twitter.com/VoronezhJS" title="VoronezhJS">@VoronezhJS</a> <a href="https://twitter.com/Webnotbombs" title="Web Not Bombs">@Webnotbombs</a> <a href="https://twitter.com/yarfrontend" title="Yar Frontend Meetup">@yarfrontend</a>
+Вот: [@4frontby](https://twitter.com/4frontby "4frontby") [@ChellyJS](https://twitter.com/ChellyJS "ChellyJS") [@EkbJS](https://twitter.com/EkbJS "EkbJS") [@gopiterjs](https://twitter.com/gopiterjs "PiterJS") [@KyivJS](https://twitter.com/KyivJS "KyivJS") [@moscowjs](https://twitter.com/moscowjs "MoscowJS") [@OdessaJS](https://twitter.com/OdessaJS "OdessaJS") [@samara_frontend](https://twitter.com/samara_frontend "SamaraJS") [@spb_frontend](https://twitter.com/spb_frontend "SPB Frontend") [@VoronezhJS](https://twitter.com/VoronezhJS "VoronezhJS") [@Webnotbombs](https://twitter.com/Webnotbombs "Web Not Bombs") [@yarfrontend](https://twitter.com/yarfrontend "Yar Frontend Meetup")
 
 Кого-то забыл? Подскажите, наверняка каких-то нет в Твиттере.
 
 Веб-стандарты в своих соцмедиа стараются рассказывать о всех локальных сообществах, чтобы вы знали о них и открывали новые в ваших городах.
 
-Ещё подсыпали: <a href="https://twitter.com/LvivJS" title="LvivJS">@LvivJS</a> <a href="https://twitter.com/KharkivJS" title="KharkivJS Community">@KharkivJS</a>, Рязань <a href="https://t.co/eOQvTckg2d">facebook.com/events/3914402…</a>, Нижний Новгород <a href="https://t.co/wgpM1tyRre">github.com/nnfrontend</a>
+Ещё подсыпали: [@LvivJS](https://twitter.com/LvivJS "LvivJS") [@KharkivJS](https://twitter.com/KharkivJS "KharkivJS Community"), Рязань [facebook.com/events/3914402…](https://t.co/eOQvTckg2d "https://www.facebook.com/events/391440214396425/"), Нижний Новгород [github.com/nnfrontend](https://t.co/wgpM1tyRre "https://github.com/nnfrontend")
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Что значит независимой? От чего?
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Что значит независимой? От чего?
 
 Независимость конференции это важный принцип, который мы стараемся поддерживать для WSD. Конференций, обслуживающих интересы, и так хватает.
 
 Независимость в выборе тем, докладчиков, площадки, партнёров. Некоммерческая направленность, минимальные компромиссы.
 
-RT <a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А какие конференции зависимые? Мне казалось все конференции независимы, кроме вендорных типа Google I/O.
+RT [@freiksenet_ru](https://twitter.com/freiksenet_ru "Михаил Новиков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А какие конференции зависимые? Мне казалось все конференции независимы, кроме вендорных типа Google I/O.
 
 Горячо любимый мною Яндекс.Субботник, который кажется всё — докладчики только из Яндекса, темы только важные для компании. Ничего плохого.
 
 Есть конференции, которые организуются агентствами по найму, чтобы собрать кадры или компаниями для заработка. Это накладывает отпечаток.
 
-RT <a href="https://twitter.com/MeTroFuN" title="Dmytrii Shchadei">@MeTroFuN</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Европейские конференции (i.e. <a href="https://twitter.com/fronttrends" title="Front-Trends 2015">@fronttrends</a>  <a href="https://twitter.com/jsconfeu" title="jsconfeu">@jsconfeu</a> <a href="https://twitter.com/fronteers" title="Fronteers">@fronteers</a> etc) ты считаешь обслуживают какие-то интересы?
+RT [@MeTroFuN](https://twitter.com/MeTroFuN "Dmytrii Shchadei"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Европейские конференции (i.e. [@fronttrends](https://twitter.com/fronttrends "Front-Trends 2015")  [@jsconfeu](https://twitter.com/jsconfeu "jsconfeu") [@fronteers](https://twitter.com/fronteers "Fronteers") etc) ты считаешь обслуживают какие-то интересы?
 
 Я сейчас говорю про русскоязычные конференции: встречи, ежегодные, большие и малые. Европейские, кроме CityJS, это совсем другой класс.
 
-RT <a href="https://twitter.com/akochemasov" title="Alexander Kochemasov">@akochemasov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> нужна помощь) есть ли плеер для мобильных браузеров поддерживающий загрузку видео по RTMP?
+RT [@akochemasov](https://twitter.com/akochemasov "Alexander Kochemasov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") нужна помощь) есть ли плеер для мобильных браузеров поддерживающий загрузку видео по RTMP?
 
 ## Суббота <small>20 твитов</small>
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а также теперь на главной появились аватарки авторов <a href="https://t.co/XNrm1jFu9s">jsunderhood.ru</a> <a href="http://t.co/Y1DfTIem2W">pic.twitter.com/Y1DfTIem2W</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а также теперь на главной появились аватарки авторов [jsunderhood.ru](https://t.co/XNrm1jFu9s "https://jsunderhood.ru/") [pic.twitter.com/Y1DfTIem2W](http://t.co/Y1DfTIem2W)
 
-Доброе утро, чат. В Питере сегодня Talks &amp; Works <a href="http://t.co/vZVNAWIJel">t-n-w.ru</a>, где я расскажу про установку веб-приложений <a href="http://t.co/kxxbLvaH56">pic.twitter.com/kxxbLvaH56</a>
+Доброе утро, чат. В Питере сегодня Talks &amp; Works [t-n-w.ru](http://t.co/vZVNAWIJel "http://t-n-w.ru/"), где я расскажу про установку веб-приложений [pic.twitter.com/kxxbLvaH56](http://t.co/kxxbLvaH56)
 
-RT <a href="https://twitter.com/victor_suzdalev" title="Victor Suzdalev">@victor_suzdalev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> про конференции: какие в Европе (считая Россию) самые крутые? Куда ехать в первую очередь?
+RT [@victor_suzdalev](https://twitter.com/victor_suzdalev "Victor Suzdalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") про конференции: какие в Европе (считая Россию) самые крутые? Куда ехать в первую очередь?
 
 Самые крутые конференции: всё ещё люблю Fronteers в Амстердаме, но в этом году еду на CSS Conf и JS Conf в Берлине — это сейчас самый хит.
 
@@ -1001,38 +1001,38 @@ RT <a href="https://twitter.com/victor_suzdalev" title="Victor Suzdalev">@victor
 
 В России из регулярных и больших рекомендую Web Standards Days и Frontend Conf (в составе РИТ), FrontTalks, CodeFest.
 
-Очень жалею, что не доеду до Frontend Union Conf 29 августа в Москве (буду на LvivJS), ожидается крутой дебют <a href="https://t.co/4LkEwZgH9Q">moscowjs.timepad.ru/event/229961/</a>
+Очень жалею, что не доеду до Frontend Union Conf 29 августа в Москве (буду на LvivJS), ожидается крутой дебют [moscowjs.timepad.ru/event/229961/](https://t.co/4LkEwZgH9Q "https://moscowjs.timepad.ru/event/229961/")
 
-На будущий год подыскиваю хорошую конференцию в Англии, чтобы был повод съездить. Вероятно, съезжу на <a href="https://twitter.com/ScotlandJS" title="Scotland JS">@ScotlandJS</a> 2-3 июня, подам заявку.
+На будущий год подыскиваю хорошую конференцию в Англии, чтобы был повод съездить. Вероятно, съезжу на [@ScotlandJS](https://twitter.com/ScotlandJS "Scotland JS") 2-3 июня, подам заявку.
 
-RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>: Слайды моего доклада «Ещё лучше, чем настоящие!» про установку веб-приложений — <a href="http://t.co/XCrh8iKBfW">sokr.me/wap</a> <a href="http://t.co/WUccSw1KoR">pic.twitter.com/WUccSw1KoR</a>
+RT [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев"): Слайды моего доклада «Ещё лучше, чем настоящие!» про установку веб-приложений — [sokr.me/wap](http://t.co/XCrh8iKBfW "http://sokr.me/wap") [pic.twitter.com/WUccSw1KoR](http://t.co/WUccSw1KoR)
 
-RT <a href="https://twitter.com/twenty" title="Павел Франков">@twenty</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как бы так научиться формулировать мысли, как это удаётся Вадиму Макишвили?
+RT [@twenty](https://twitter.com/twenty "Павел Франков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как бы так научиться формулировать мысли, как это удаётся Вадиму Макишвили?
 
 Нужно стать Вадимом Макишвили, чтобы выступать так же ярко: добрым, мудрым, опытным человеком и вдумчивым докладчиком. Развивайте свой стиль
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а кто эти люди на фото?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@suxxes](https://twitter.com/suxxes "Father Frodo") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а кто эти люди на фото?
 
-Возвращаясь ко вчерашним архивным фотографиям со встречи WSG в моей московской квартире в 2006 году <a href="https://t.co/wVQAmXrnjk">twitter.com/jsunderhood/st…</a>
+Возвращаясь ко вчерашним архивным фотографиям со встречи WSG в моей московской квартире в 2006 году [twitter.com/jsunderhood/st…](https://t.co/wVQAmXrnjk "https://twitter.com/jsunderhood/status/634701514318159873")
 
 На встрече были:
-— Сергей Мезенцев <a href="https://twitter.com/thebits" title="Sergey Mezentsev">@thebits</a>
-— Алексей Рыбаков <a href="https://twitter.com/flackus" title="Alex Rybakov">@flackus</a>
-— Марат Мамяшев <a href="https://twitter.com/mamyashev" title="Марат Мамяшев">@mamyashev</a>
-— Марат Таналин <a href="http://t.co/U1sirv3xhU">tanalin.com</a>
+— Сергей Мезенцев [@thebits](https://twitter.com/thebits "Sergey Mezentsev")
+— Алексей Рыбаков [@flackus](https://twitter.com/flackus "Alex Rybakov")
+— Марат Мамяшев [@mamyashev](https://twitter.com/mamyashev "Марат Мамяшев")
+— Марат Таналин [tanalin.com](http://t.co/U1sirv3xhU "http://tanalin.com")
 1/2
 
 На встрече были:
-— Александр Исаков <a href="http://t.co/gSBs32ZZyH">uggallery.tk</a>
-— Ольга Алексашенко <a href="https://twitter.com/tachisis" title="engel">@tachisis</a>
-— Вадим Макеев <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>
+— Александр Исаков [uggallery.tk](http://t.co/gSBs32ZZyH "http://uggallery.tk")
+— Ольга Алексашенко [@tachisis](https://twitter.com/tachisis "engel")
+— Вадим Макеев [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев")
 2/2
 
-RT <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а чем можно помочь проекту? как присоединиться?
+RT [@denisfedosov](https://twitter.com/denisfedosov "Denis FL"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а чем можно помочь проекту? как присоединиться?
 
 Проекту можно помочь двумя способами: перевести денег на наш кошелёк, которые мы потратим на переводы, наклейки, хостинг и конференции.
 
-Форма с переводом есть на сайте WSD — <a href="http://t.co/ZSDLHKoUBy">webstandardsdays.ru/#donate</a> Какой-то хороший человек уже давно переводит нам 1000 руб каждый месяц.
+Форма с переводом есть на сайте WSD — [webstandardsdays.ru/#donate](http://t.co/ZSDLHKoUBy "http://webstandardsdays.ru/#donate") Какой-то хороший человек уже давно переводит нам 1000 руб каждый месяц.
 
 Второй способ: принять участие в редакции Веб-стандартов, помогать с новостями, переводами, словарём и др. Пишите: wst@web-standards.ru
 
@@ -1046,67 +1046,67 @@ RT <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>
 
 Вопросы?
 
-RT <a href="https://twitter.com/ZhivotvorevNik" title="Животворев Николай">@ZhivotvorevNik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> когда решил? В опере продолжишь работать?
+RT [@ZhivotvorevNik](https://twitter.com/ZhivotvorevNik "Животворев Николай"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда решил? В опере продолжишь работать?
 
 Решил одним августовским днём, гуляя по солнечному Осло. Хорошо здесь, — подумал я, — «но сердце моё пахнет как Невский проспект».
 
 Продолжу работать в российском офисе Opera Software, как работал до сих пор. Всё остаётся по-прежнему, просто переезд.
 
-RT <a href="https://twitter.com/marinintim" title="[object Object]">@marinintim</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> чего не пришёл на нодскул?
+RT [@marinintim](https://twitter.com/marinintim "[object Object]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") чего не пришёл на нодскул?
 
-На NodeSchool <a href="https://t.co/KgCEEnK5LW">vk.com/nodeschool_3</a> не пришёл потому, что похмелье.
+На NodeSchool [vk.com/nodeschool_3](https://t.co/KgCEEnK5LW "https://vk.com/nodeschool_3") не пришёл потому, что похмелье.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что ты думаешь про теслу?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что ты думаешь про теслу?
 
 Рад, что при моей жизни появился настоящий электрокар, жду продолжения, но как поклонник науки и прогресса, а не автомобилист.
 
 Не довелось ещё прокатится на Тесле, очень хотелось бы послушать, понюхать, удивиться вкряченному в консоль айпаду.
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что ты думаешь про Илона Маска?
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что ты думаешь про Илона Маска?
 
 Илон Маск — это такой бизнесмен, успешный менеджер, без иронии. Как Джобс или Джозеф Макмиллан — посмотрите Halt and Catch Fire.
 
 Как работают мозги такого бизнесмена — мне неведомо, это представители другой расы для меня, от которых хочется держаться подальше почему-то
 
-RT <a href="https://twitter.com/wouldntfix" title="Александр (18́+)">@wouldntfix</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> хорошо сказал. Я чуть не прослезился :—)
+RT [@wouldntfix](https://twitter.com/wouldntfix "Александр (18́+)"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") хорошо сказал. Я чуть не прослезился :—)
 
-Про Невский проспект это не я сказал, это БГ в «Дороге 21» <a href="http://t.co/dJ3V7oiK5N">youtu.be/9P1xd-16nXY</a>
+Про Невский проспект это не я сказал, это БГ в «Дороге 21» [youtu.be/9P1xd-16nXY](http://t.co/dJ3V7oiK5N "http://youtu.be/9P1xd-16nXY")
 
-RT <a href="https://twitter.com/klierik" title="klierik">@klierik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вадим, а что ты думаешь про ресурс для веб-разработчиков css-live.ru?
+RT [@klierik](https://twitter.com/klierik "klierik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вадим, а что ты думаешь про ресурс для веб-разработчиков css-live.ru?
 
-CSS Live это Максим Усачёв <a href="https://twitter.com/psyw" title="Максим Усачёв">@psyw</a> и Илья Стрельцын <a href="https://twitter.com/SelenIT2" title="SelenIT">@SelenIT2</a>, которые переводят хорошие статьи очень оперативно и пишут интересные авторские.
+CSS Live это Максим Усачёв [@psyw](https://twitter.com/psyw "Максим Усачёв") и Илья Стрельцын [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"), которые переводят хорошие статьи очень оперативно и пишут интересные авторские.
 
-Максим подарил мне бумажную копию книги «Инлайновый контекст форматирования» — <a href="http://t.co/yg5qBvhrfS">css-live.ru/articles/obzor…</a>, очень вдумчивое исследование.
+Максим подарил мне бумажную копию книги «Инлайновый контекст форматирования» — [css-live.ru/articles/obzor…](http://t.co/yg5qBvhrfS "http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html"), очень вдумчивое исследование.
 
-Илья пишет отличные новости про CSS и один из немногих разбирается во всех нюансах спецификаций — <a href="http://t.co/0D0IOE2Tz8">css-live.ru/vecssti-s-pole…</a>
+Илья пишет отличные новости про CSS и один из немногих разбирается во всех нюансах спецификаций — [css-live.ru/vecssti-s-pole…](http://t.co/0D0IOE2Tz8 "http://css-live.ru/vecssti-s-polej/css-snapshot-2015.html")
 
-RT <a href="https://twitter.com/klierik" title="klierik">@klierik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вадим, и ещё интересно, что ты думаешь про <a href="http://t.co/BqagJ7cjYs">frontender.info</a>? И вообще, про ресурсы подобного рода
+RT [@klierik](https://twitter.com/klierik "klierik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вадим, и ещё интересно, что ты думаешь про [frontender.info](http://t.co/BqagJ7cjYs "http://frontender.info")? И вообще, про ресурсы подобного рода
 
-Frontender Magazine — проект Антона Немцева <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> и группы единомышленников, которые собрались вокруг проекта.
+Frontender Magazine — проект Антона Немцева [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") и группы единомышленников, которые собрались вокруг проекта.
 
 Антон долгое время участвовал в Веб-стандартах и сначала пришёл с идеей регулярных переводов к нам, очень жаль, не получилось договориться.
 
 Чем больше сайтов, тем интереснее, я стараюсь ни с кем не конкурировать, дружить и помогать. Если ваш сайт на Гитхабе, то ждите пулреквестов
 
-Вот, например, пулреквест Ильи с переводом статьи на Dev.Opera <a href="https://t.co/dgGiRJhVpd">github.com/operasoftware/…</a>, а вот перевод Антона <a href="https://t.co/r5xodNBzAl">github.com/operasoftware/…</a>
+Вот, например, пулреквест Ильи с переводом статьи на Dev.Opera [github.com/operasoftware/…](https://t.co/dgGiRJhVpd "https://github.com/operasoftware/devopera/pull/327"), а вот перевод Антона [github.com/operasoftware/…](https://t.co/r5xodNBzAl "https://github.com/operasoftware/devopera/pull/249")
 
-Поставлю вам музыки из избранного на Ютубе. Начнём с песни National, партию ударных к которой я давно разучиваю — <a href="http://t.co/j7iBPogKko">youtu.be/mZDZ1Wng9r0</a>
+Поставлю вам музыки из избранного на Ютубе. Начнём с песни National, партию ударных к которой я давно разучиваю — [youtu.be/mZDZ1Wng9r0](http://t.co/j7iBPogKko "http://youtu.be/mZDZ1Wng9r0")
 
-Очень жду 2 сезона Affair, поэтому вот вам Фиона Эппл, которая записала для него тему, но это не тема, а Hot Knife — <a href="http://t.co/tLkuMk4vfW">youtube.com/watch?v=VG1VVF…</a>
+Очень жду 2 сезона Affair, поэтому вот вам Фиона Эппл, которая записала для него тему, но это не тема, а Hot Knife — [youtube.com/watch?v=VG1VVF…](http://t.co/tLkuMk4vfW "http://www.youtube.com/watch?v=VG1VVFfOnYQ")
 
-Да что уж там, вот тема к Affair — <a href="https://t.co/JVpy3tDImh">youtu.be/6muh9kTlr88</a>
+Да что уж там, вот тема к Affair — [youtu.be/6muh9kTlr88](https://t.co/JVpy3tDImh "https://youtu.be/6muh9kTlr88")
 
-Немного из тёмного прошлого: отличная песня и клип «The Owl» группы I Love You But I’ve Chosen Darkness — <a href="https://t.co/eq5cxIuwit">youtu.be/CD6VgRUE1y0</a>
+Немного из тёмного прошлого: отличная песня и клип «The Owl» группы I Love You But I’ve Chosen Darkness — [youtu.be/CD6VgRUE1y0](https://t.co/eq5cxIuwit "https://youtu.be/CD6VgRUE1y0")
 
-RT <a href="https://twitter.com/arik0n" title="Sergey Belov">@arik0n</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Как ты отдыхаешь? Вечерами, на выходных и в отпусках. Есть ли у тебя не компьютерное хобби?
+RT [@arik0n](https://twitter.com/arik0n "Sergey Belov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Как ты отдыхаешь? Вечерами, на выходных и в отпусках. Есть ли у тебя не компьютерное хобби?
 
-Мой компьютерный досуг — это работа над собственными опенсорсными проектами: <a href="https://twitter.com/shower_me" title="Shower">@shower_me</a> и <a href="https://twitter.com/webstandards_ru" title="Веб-стандарты">@webstandards_ru</a>. Остальное вне: велик, кикер.
+Мой компьютерный досуг — это работа над собственными опенсорсными проектами: [@shower_me](https://twitter.com/shower_me "Shower") и [@webstandards_ru](https://twitter.com/webstandards_ru "Веб-стандарты"). Остальное вне: велик, кикер.
 
-RT <a href="https://twitter.com/cdrpro_ru" title="Sancho">@cdrpro_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> возможно пропустил, играете в игры? Если да, то во что, а если нет — почему?
+RT [@cdrpro_ru](https://twitter.com/cdrpro_ru "Sancho"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") возможно пропустил, играете в игры? Если да, то во что, а если нет — почему?
 
 Я совсем не геймер. Давным-давно Контра, Квейк и всё. Игры кажутся потерей времени впустую. Лучше что-нибудь создавать, т.е. опенсорс.
 
-Спасибо всем, кто читал моего спонтанного Разработчика, который на самом деле нет. Остались вопросы? В том же режиме работает <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>!
+Спасибо всем, кто читал моего спонтанного Разработчика, который на самом деле нет. Остались вопросы? В том же режиме работает [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев")!
 
 ## Ссылки
 

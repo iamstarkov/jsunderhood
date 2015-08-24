@@ -12,41 +12,41 @@ _01 марта 2015_
 
 Учёбу совмещал с работой в компании, для которой писал html+css для сайтов на c++
 
-там же столкнулся с действительно крупными сайтами и мне очень помог <a href="https://twitter.com/csswizardry" title="Harry Roberts">@csswizardry</a> со своими статьями
+там же столкнулся с действительно крупными сайтами и мне очень помог [@csswizardry](https://twitter.com/csswizardry "Harry Roberts") со своими статьями
 
-Особенно помогла статья про бэм, её я впоследствии перевёл для <a href="https://twitter.com/frontenderinfo" title="Frontender Magazine">@frontenderinfo</a> <a href="http://t.co/vYhSGbtHdy">frontender.info/MindBEMding/</a> <a href="https://twitter.com/search?q=%23b_">#b_</a>
+Особенно помогла статья про бэм, её я впоследствии перевёл для [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine") [frontender.info/MindBEMding/](http://t.co/vYhSGbtHdy "http://frontender.info/MindBEMding/") [b_](https://twitter.com/search?q=%23b_)
 
-На этой же работе я перевёл для использования внутри компании гайдлайны Гарри Робертса <a href="https://t.co/LS6p17e36p">github.com/matmuchrapna/C…</a>
+На этой же работе я перевёл для использования внутри компании гайдлайны Гарри Робертса [github.com/matmuchrapna/C…](https://t.co/LS6p17e36p "https://github.com/matmuchrapna/CSS-guidelines")
 
-Спустя почти два года я ушёл в <a href="https://twitter.com/yandex" title="Яндекс">@yandex</a>, примерно тогда же разочаровался в универе и забрал документы
+Спустя почти два года я ушёл в [@yandex](https://twitter.com/yandex "Яндекс"), примерно тогда же разочаровался в универе и забрал документы
 
-Переход в яндекс означал погружение в <a href="https://twitter.com/search?q=%23b_">#b_</a> по колено и бэмификацию головного мозга, а также боль от сборщиков
+Переход в яндекс означал погружение в [b_](https://twitter.com/search?q=%23b_) по колено и бэмификацию головного мозга, а также боль от сборщиков
 
-В яндексе я помогал делать промо-страницу яндекс.браузера <a href="http://t.co/5ixzobVLh9">browser.yandex.ru</a>
+В яндексе я помогал делать промо-страницу яндекс.браузера [browser.yandex.ru](http://t.co/5ixzobVLh9 "http://browser.yandex.ru/")
 
 Мне очень нравится бэм, и я хотел уметь его собирать и вне яндекса, но от конфигов внутри компании хотелось плакать
 
 Да и не хотелось использовать кастомный сборщик, когда у нас уже есть grunt и gulp
 
-Поэтому объединившись с могучим <a href="https://twitter.com/floatdrop" title="Vsevolod S.">@floatdrop</a> мы за две недели написали резолвер зависимостей блоков <a href="https://t.co/Het5OKQQn1">npmjs.com/package/deps-g…</a>
+Поэтому объединившись с могучим [@floatdrop](https://twitter.com/floatdrop "Vsevolod S.") мы за две недели написали резолвер зависимостей блоков [npmjs.com/package/deps-g…](https://t.co/Het5OKQQn1 "https://www.npmjs.com/package/deps-graph")
 
-А потом и сам сборщик <a href="https://t.co/vUSz8ZMZIN">npmjs.com/package/gulp-b…</a>
+А потом и сам сборщик [npmjs.com/package/gulp-b…](https://t.co/vUSz8ZMZIN "https://www.npmjs.com/package/gulp-bem")
 
-Затем для проверки жизнеспособности нашего сборщика нужно было сделать сайт и мы решили сделать свой <a href="http://t.co/b2RnJm3B84">bem.info</a>, но попроще
+Затем для проверки жизнеспособности нашего сборщика нужно было сделать сайт и мы решили сделать свой [bem.info](http://t.co/b2RnJm3B84 "http://bem.info"), но попроще
 
-Так родился <a href="http://t.co/biVhvEI7LY">getbem.com</a> also known as <a href="https://twitter.com/getbem" title="getbem">@getbem</a>
+Так родился [getbem.com](http://t.co/biVhvEI7LY "http://getbem.com/") also known as [@getbem](https://twitter.com/getbem "getbem")
 
 Сначала использовали bemjson+bh, но очень быстро (спустя 30 минут) стало больно всё это использовать и мы ушли на Jade
 
-Я совсем забыл про <a href="https://twitter.com/frontenderinfo" title="Frontender Magazine">@frontenderinfo</a> и доброго <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>. Подписывайтесь на него скорее
+Я совсем забыл про [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine") и доброго [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"). Подписывайтесь на него скорее
 
 Два года назад он начал искать переводчиков фронтендеров для того, чтобы запустить свой журнал
 
-У нас было около месяца на подготовку и запуск сайта. Всё получилось и это радостно <a href="http://t.co/qrLtViskHy">frontender.info</a>
+У нас было около месяца на подготовку и запуск сайта. Всё получилось и это радостно [frontender.info](http://t.co/qrLtViskHy "http://frontender.info/")
 
-Год назад я волонтёрствовал для <a href="https://twitter.com/fbkinfo" title="ФБК">@fbkinfo</a> и <a href="https://twitter.com/rrubanov" title="Рубанов Роман">@rrubanov</a> и мы вместе запустили <a href="http://t.co/VAqyQc2baE">blackbox.fbk.info</a>
+Год назад я волонтёрствовал для [@fbkinfo](https://twitter.com/fbkinfo "ФБК") и [@rrubanov](https://twitter.com/rrubanov "Рубанов Роман") и мы вместе запустили [blackbox.fbk.info](http://t.co/VAqyQc2baE "http://blackbox.fbk.info/")
 
-После яндекса я ушёл к замечательным ребятам из <a href="https://twitter.com/csssr_ru" title="CSSSR">@csssr_ru</a> в рабство к <a href="https://twitter.com/lise_yy" title="Elisaveta Yanovskaya">@lise_yy</a>
+После яндекса я ушёл к замечательным ребятам из [@csssr_ru](https://twitter.com/csssr_ru "CSSSR") в рабство к [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya")
 
 Одна из лучших компаний в которой я работал
 
@@ -56,7 +56,7 @@ _01 марта 2015_
 
 В общем мой обед закончился. Не переключайте канал, дальше будет интереснее
 
-RT <a href="https://twitter.com/csswizardry" title="Harry Roberts">@csswizardry</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Рад был помочь!
+RT [@csswizardry](https://twitter.com/csswizardry "Harry Roberts"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Рад был помочь!
 
 ## Вторник <small>81 твит</small>
 
@@ -68,7 +68,7 @@ RT <a href="https://twitter.com/csswizardry" title="Harry Roberts">@csswizardry<
 
 Поэтому важно контролировать то, что с тобой происходит сейчас, но также важно понимать что было в прошлом
 
-К примеру, я похудел за год на 18 килограмм используя только файлик в который по понедельникам записывал свой вес <a href="http://t.co/binbFQne3k">pic.twitter.com/binbFQne3k</a>
+К примеру, я похудел за год на 18 килограмм используя только файлик в который по понедельникам записывал свой вес [pic.twitter.com/binbFQne3k](http://t.co/binbFQne3k)
 
 В моменты плато я смотрел на вес и понимал, что пред. усилия не должны быть зря и мотивировал себя продолжать дальше
 
@@ -82,45 +82,45 @@ RT <a href="https://twitter.com/csswizardry" title="Harry Roberts">@csswizardry<
 
 Сегодня я буду с вами в 10 минутные перерывы между 50 минутными помидорами и об этом тоже расскажу и это тоже относится к контролю
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> то есть 10 января 2014 я весил 90, а вот 29 декабря 2014 уже 72
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") то есть 10 января 2014 я весил 90, а вот 29 декабря 2014 уже 72
 
-Вчера забыл рассказать, что в прошлом году с  <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a> и основателем <a href="https://twitter.com/HexletHQ" title="Hexlet">@HexletHQ</a> Рахимом <a href="https://twitter.com/freetonik" title="Rakhim Davletkaliyev">@freetonik</a> перевели книжку <a href="https://twitter.com/addyosmani" title="Addy Osmani">@addyosmani</a>
+Вчера забыл рассказать, что в прошлом году с  [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") и основателем [@HexletHQ](https://twitter.com/HexletHQ "Hexlet") Рахимом [@freetonik](https://twitter.com/freetonik "Rakhim Davletkaliyev") перевели книжку [@addyosmani](https://twitter.com/addyosmani "Addy Osmani")
 
-Так появился <a href="http://t.co/BQvXJB6jhC">largescalejs.ru</a>
+Так появился [largescalejs.ru](http://t.co/BQvXJB6jhC "http://largescalejs.ru/")
 
-Если вам тема здорового веса, то почитайте как в Дании борются с детским ожирением <a href="http://t.co/LN56yuh0On">bbc.com/news/health-29…</a>
+Если вам тема здорового веса, то почитайте как в Дании борются с детским ожирением [bbc.com/news/health-29…](http://t.co/LN56yuh0On "http://www.bbc.com/news/health-29755469")
 
 Правила очень просты и применимы к любому возрасту
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> * интересная тема
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") * интересная тема
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что же со мной не так
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что же со мной не так
 
 Про само-контроль и вес я написал специально, так как считаю, что это всё применимо и к разработке и измерению собственной эффективности
 
 Немного о волонтёрстве. вы пробовали?
 
-Подруга пишет магистерскую и нужны ваши мнения и знания о технологиях, чтобы принести их в наши музеи. Помогите ей <a href="http://t.co/ry2Yfq5rm6">goo.gl/GNbBU4</a>
+Подруга пишет магистерскую и нужны ваши мнения и знания о технологиях, чтобы принести их в наши музеи. Помогите ей [goo.gl/GNbBU4](http://t.co/ry2Yfq5rm6 "http://goo.gl/GNbBU4")
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Да, делали социальное приложение, для сбора данных о настроении толпы во время митингов.
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Да, делали социальное приложение, для сбора данных о настроении толпы во время митингов.
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> сохранились исходники <a href="https://t.co/MrNkTBx9x1">github.com/europrapor/eur…</a>
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сохранились исходники [github.com/europrapor/eur…](https://t.co/MrNkTBx9x1 "https://github.com/europrapor/europrapor")
 
-Вернёмся к эффективности. Пользуетесь ли вы техникой Помодорро? <a href="https://t.co/AhsYqLVNGr">en.wikipedia.org/wiki/Pomodoro_…</a> <a href="http://t.co/stCIYZ08gr">pic.twitter.com/stCIYZ08gr</a>
+Вернёмся к эффективности. Пользуетесь ли вы техникой Помодорро? [en.wikipedia.org/wiki/Pomodoro_…](https://t.co/AhsYqLVNGr "https://en.wikipedia.org/wiki/Pomodoro_Technique") [pic.twitter.com/stCIYZ08gr](http://t.co/stCIYZ08gr)
 
 Я пришёл к ней, чтобы a) не забывать делать перерывы в работе и б) работать по возможности не отвлекаясь во время помидоров
 
 Но получилось внедрить в свой рабочий процесс не сразу
 
-RT <a href="https://twitter.com/r3nya" title="Andrew R.">@r3nya</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, часто использую.
+RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, часто использую.
 
-Следующее, что можно использовать для само-контроля это <a href="https://twitter.com/toggl" title="Toggl">@toggl</a>, это тайм-трекер; у него есть плагин для хрома и десктопные приложения
+Следующее, что можно использовать для само-контроля это [@toggl](https://twitter.com/toggl "Toggl"), это тайм-трекер; у него есть плагин для хрома и десктопные приложения
 
 Даже если у вас на работе не ведётся учёт времени на задачи, то всё равно полезно знать на что ты тратишь время
 
 Я первое время не понимал как удобно трекать время и нервничал по этому поводу
 
-Но потом <a href="https://twitter.com/lise_yy" title="Elisaveta Yanovskaya">@lise_yy</a> подсказала очень удобный воркфлоу
+Но потом [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya") подсказала очень удобный воркфлоу
 
 1. Начинаешь пустой таск
 2. Как закончил то, чем занимался, заполняешь пустой таск и заканчиваешь его.
@@ -136,9 +136,9 @@ RT <a href="https://twitter.com/r3nya" title="Andrew R.">@r3nya</a>: <a href="ht
 
 Я нахожу этот подход очень эффективным, а помидорро позволяет не уставать
 
-Николай <a href="https://twitter.com/ksoftwaretweet" title="Nick Toverovskiy">@ksoftwaretweet</a> очень много писал и в твиттере и у себя в блоге об этом
+Николай [@ksoftwaretweet](https://twitter.com/ksoftwaretweet "Nick Toverovskiy") очень много писал и в твиттере и у себя в блоге об этом
 
-✔ Самостоятельный выход из апатичного состояния <a href="http://t.co/iWKMXHGvft">ksoftware.livejournal.com/291683.html</a>
+✔ Самостоятельный выход из апатичного состояния [ksoftware.livejournal.com/291683.html](http://t.co/iWKMXHGvft "http://ksoftware.livejournal.com/291683.html")
 
 Оказывается, что за две помидорины, то есть за час, можно довольно много успеть.
 
@@ -146,11 +146,11 @@ RT <a href="https://twitter.com/r3nya" title="Andrew R.">@r3nya</a>: <a href="ht
 
 То есть за два часа интенсивной работы можно получить очень значительный прогресс и даже закончить день с чувством выполненного долга.
 
-Это уже из другой его статьи «Сколько стоят задачи: за два часа можно сделать всё » <a href="http://t.co/lG6ztBxHvI">ksoftware.livejournal.com/282745.html</a>
+Это уже из другой его статьи «Сколько стоят задачи: за два часа можно сделать всё » [ksoftware.livejournal.com/282745.html](http://t.co/lG6ztBxHvI "http://ksoftware.livejournal.com/282745.html")
 
-И да фолловьте Товеровского <a href="https://twitter.com/ksoftwaretweet" title="Nick Toverovskiy">@ksoftwaretweet</a> он интересно и хорошо пишет
+И да фолловьте Товеровского [@ksoftwaretweet](https://twitter.com/ksoftwaretweet "Nick Toverovskiy") он интересно и хорошо пишет
 
-RT <a href="https://twitter.com/lise_yy" title="Elisaveta Yanovskaya">@lise_yy</a>: <a href="https://twitter.com/straykov" title="Илья Страйкóв">@straykov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/toggl" title="Toggl">@toggl</a> Можно. А еще мы пишем свой трекер, опенсорсный и с расширениями подо всё. Альфа будет в начале м…
+RT [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya"): [@straykov](https://twitter.com/straykov "Илья Страйкóв") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toggl](https://twitter.com/toggl "Toggl") Можно. А еще мы пишем свой трекер, опенсорсный и с расширениями подо всё. Альфа будет в начале м…
 
 Кажется у меня всё на тему эффективности
 
@@ -174,7 +174,7 @@ RT <a href="https://twitter.com/lise_yy" title="Elisaveta Yanovskaya">@lise_yy</
 
 И уметь объяснять заказчику какие-то технические моменты и настаивать на своих решениях
 
-Я так спорил с менеджером насчёт неуместности выравнивания по ширине в блоге Музобзора <a href="http://t.co/NLl0UZJieH">muzobzor.ru/blog</a> и я победил
+Я так спорил с менеджером насчёт неуместности выравнивания по ширине в блоге Музобзора [muzobzor.ru/blog](http://t.co/NLl0UZJieH "http://muzobzor.ru/blog") и я победил
 
 В это всё вкладывается также необходимость договариваться на берегу, особенно на фрилансе
 
@@ -184,7 +184,7 @@ RT <a href="https://twitter.com/lise_yy" title="Elisaveta Yanovskaya">@lise_yy</
 
 И особенно уточнял, что не буду внедрять вёрстку в никакие движки, так как на тот момент я ушёл из фуллстека
 
-Об важности работы с ожиданиями очень хорошо пишут в Бюро <a href="https://twitter.com/artgorbunov" title="Бюро Горбунова">@artgorbunov</a>
+Об важности работы с ожиданиями очень хорошо пишут в Бюро [@artgorbunov](https://twitter.com/artgorbunov "Бюро Горбунова")
 
 В приложении к фрилансерам надо заметить, что если ты проебался и пропал, то напиши письмо, о том, что пошло не так и сколько тебя не будет
 
@@ -194,17 +194,17 @@ RT <a href="https://twitter.com/lise_yy" title="Elisaveta Yanovskaya">@lise_yy</
 
 А письмо поможет скорректировать ожидания, сроки и найти людей на задачу. Тем самым ты немного исправишь ситуацию
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> думаю, что это может быть открыткой всем в различные промежутки их карьеры
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") думаю, что это может быть открыткой всем в различные промежутки их карьеры
 
-Совсем забыл про особенность <a href="https://twitter.com/toggl" title="Toggl">@toggl</a> он следит за твоей занятость во время затреканного времени и называет это таймлайном
+Совсем забыл про особенность [@toggl](https://twitter.com/toggl "Toggl") он следит за твоей занятость во время затреканного времени и называет это таймлайном
 
 Таймлайн доступен только тебе и по нему ты можешь оценивать сколько времени ты потратил на саму задачу, а сколько на соц сети
 
-RT <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> какое приложение на ios порекомендуешь?
+RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какое приложение на ios порекомендуешь?
 
-RT <a href="https://twitter.com/dkushnikov" title="Dmitry Kushnikov">@dkushnikov</a>: <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> 
+RT [@dkushnikov](https://twitter.com/dkushnikov "Dmitry Kushnikov"): [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 
 Flat Tomato (Time Management Tool Inspire By Pomodoro), Jian bu
-<a href="https://t.co/wjxAwSrqO5">appsto.re/ru/AfI4Q.i</a>
+[appsto.re/ru/AfI4Q.i](https://t.co/wjxAwSrqO5 "https://appsto.re/ru/AfI4Q.i")
 
 Про ожидания написал так много, потому что мне кажется это очень важной темой и красными нитками проходит через весь мой опыт
 
@@ -218,11 +218,11 @@ Flat Tomato (Time Management Tool Inspire By Pomodoro), Jian bu
 
 Котаны, как вам мои прямые эфиры? боюсь, что скучными выходят, а то вы не общаетесь совсем, не реплаите и не ретвитите
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> какие корявые неологизмы
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какие корявые неологизмы
 
 И конечно спрашивайте что-нибудь, что вас давно терзает. если сам не знаю (наверняка), то другие разработчики помогут
 
-RT <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> мне нравится, хоть я и не реплаю. Из сегодняшнего много полезного для себя подчерпнул.
+RT [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинский"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мне нравится, хоть я и не реплаю. Из сегодняшнего много полезного для себя подчерпнул.
 
 В целом кажется полёт нормальный, значит завтра продолжим
 
@@ -232,27 +232,27 @@ RT <a href="https://twitter.com/korochinskiy" title="Антон Корочинс
 
 Помогали ли какому-то проекту? Разрабатываете что-то в открытом доступе? Мейнтейните?
 
-Знаете ли вы, что Рома <a href="https://twitter.com/ki_zu" title="Роман Комаров">@ki_zu</a> мейнтенит Stylus? <a href="https://t.co/VGOVezmsAB">learnboost.github.io/stylus/</a>
+Знаете ли вы, что Рома [@ki_zu](https://twitter.com/ki_zu "Роман Комаров") мейнтенит Stylus? [learnboost.github.io/stylus/](https://t.co/VGOVezmsAB "https://learnboost.github.io/stylus/")
 
 Если вы положительно относитесь к опенсорсу, то вносите ли вы свой вклад?
 
 Ещё на заре своей карьеры я обнаружил, что для просмотра humans.txt для хрома есть расширение, но оно почему-то не работало по https.
 
-Я форкнул, проект, исправил всё в веб-редакторе и отправил пулл-реквест Михаилу <a href="https://twitter.com/mahemoff" title="Michael Mahemoff">@mahemoff</a>
+Я форкнул, проект, исправил всё в веб-редакторе и отправил пулл-реквест Михаилу [@mahemoff](https://twitter.com/mahemoff "Michael Mahemoff")
 
-пулл-реквест провисел около полугода, но в конце концов правки приняли и задеплоили расширение <a href="https://t.co/YSPVGJXnXY">chrome.google.com/webstore/detai…</a>
+пулл-реквест провисел около полугода, но в конце концов правки приняли и задеплоили расширение [chrome.google.com/webstore/detai…](https://t.co/YSPVGJXnXY "https://chrome.google.com/webstore/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk")
 
 При этом я не умел и не умею писать хром-расширения но исправил то, чем пользовался
 
 А какие у вас есть истории по исправлению любимого и используемого инструмента (и не только)? В общем, нить саморекламы иди (буду ретвитить)
 
-RT <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Не получается найти на это время, сначала работа, потом изучение новых вещей. Может приоритеты неправильные?)
+RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не получается найти на это время, сначала работа, потом изучение новых вещей. Может приоритеты неправильные?)
 
-. <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a> прав. Но мне кажется это вопрос отдачи, если ты пользуешься чем то, то надо как то возвращать. Типа кармы
+. [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") прав. Но мне кажется это вопрос отдачи, если ты пользуешься чем то, то надо как то возвращать. Типа кармы
 
-RT <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Есть штучные собственные библиотеки на гитхабе, чисто ради галочки в резюме.
+RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Есть штучные собственные библиотеки на гитхабе, чисто ради галочки в резюме.
 
-. <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a> затронул важную тему гитхаба, как резюме разработчика
+. [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") затронул важную тему гитхаба, как резюме разработчика
 
 Разработчику важно иметь непустой гитхаб, чтобы будущие коллеги и тимлид могли посмотреть его код
 
@@ -262,62 +262,62 @@ RT <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrm
 
 А вы воспринимаете свой гитхаб аккаунт как дополнение или даже замену резюме? Да, нет? почему?
 
-RT <a href="https://twitter.com/kuflash" title="Igor Uvarov">@kuflash</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Оупенсорс это круто. Я парочку пулл-реквестов делал в Selecter и нодовую либу для работы с Я.Фотки от <a href="https://twitter.com/tadatuta" title="Vladimir Grinenko">@tadatuta</a>
+RT [@kuflash](https://twitter.com/kuflash "Igor Uvarov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Оупенсорс это круто. Я парочку пулл-реквестов делал в Selecter и нодовую либу для работы с Я.Фотки от [@tadatuta](https://twitter.com/tadatuta "Vladimir Grinenko")
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Скорее как дополнение. Всегда интересно узнать, чем разработчик занимается в свободное время, что ему нравится …
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Скорее как дополнение. Всегда интересно узнать, чем разработчик занимается в свободное время, что ему нравится …
 
-RT <a href="https://twitter.com/purrrminator" title="Andrey Kadochnikov">@purrrminator</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а stackoverflow соискателя сталкеришь? тоже современная часть хорошего резюме.
+RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а stackoverflow соискателя сталкеришь? тоже современная часть хорошего резюме.
 
 Stackoverflow сталкерится по возможности тоже, так по нему можно определить 1) знание английского 2) знание тем
 
-дисклеймер к <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на эту неделю: будет много мыслей о работе и мало технических штуковин. Haters gonna hate
+дисклеймер к [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на эту неделю: будет много мыслей о работе и мало технических штуковин. Haters gonna hate
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> но как многие просили потом разберу каждую тему по отдельным гистам
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") но как многие просили потом разберу каждую тему по отдельным гистам
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> В опенсорсе главное не боятся спрашивать, отправлять ПР и публиковать свои наработки. Страх и чрезмерная скромн…
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") В опенсорсе главное не боятся спрашивать, отправлять ПР и публиковать свои наработки. Страх и чрезмерная скромн…
 
 тема вклада в опенсорс напрямую перекликается с темой использования своих навыков для багрепортов и исправления других сайтов
 
 Тред саморекламы продолжается. Расскажите друг другу, что вы улучшали рядом с собой в интернете
 
-К примеру, 5 лет назад я отрепортил <a href="https://twitter.com/matmancini" title="Matias Mancini">@matmancini</a> о виднеющемся из под картинки <a href="https://twitter.com/search?q=%23a11y">#a11y</a>-тексте. И он это поправил <a href="http://t.co/r0ozXVVLPS">pic.twitter.com/r0ozXVVLPS</a>
+К примеру, 5 лет назад я отрепортил [@matmancini](https://twitter.com/matmancini "Matias Mancini") о виднеющемся из под картинки [a11y](https://twitter.com/search?q=%23a11y)-тексте. И он это поправил [pic.twitter.com/r0ozXVVLPS](http://t.co/r0ozXVVLPS)
 
-Ещё 3 года назад <a href="http://t.co/39C1mFAdZ3">chelmuseum.ru/admin/</a> принимал пару admin / 123, но после письма на почту починили
+Ещё 3 года назад [chelmuseum.ru/admin/](http://t.co/39C1mFAdZ3 "http://www.chelmuseum.ru/admin/") принимал пару admin / 123, но после письма на почту починили
 
 Из интересного ещё репортил баги старой Ленте и Заур всё исправил
 
-Теперь Заур техдир ведомостей и писал о своём опыте разработки медиа-изданий на хабр <a href="http://t.co/6ry89sEEKm">habrahabr.ru/post/243939/</a>
+Теперь Заур техдир ведомостей и писал о своём опыте разработки медиа-изданий на хабр [habrahabr.ru/post/243939/](http://t.co/6ry89sEEKm "http://habrahabr.ru/post/243939/")
 
-Вы слушаете <a href="https://twitter.com/deadmau5" title="deadmau5">@deadmau5</a>? Однажды зашёл на его сайт и обнаружил, что в меню совсем нет текста. <a href="http://t.co/kAX10q2Zjp">pic.twitter.com/kAX10q2Zjp</a>
+Вы слушаете [@deadmau5](https://twitter.com/deadmau5 "deadmau5")? Однажды зашёл на его сайт и обнаружил, что в меню совсем нет текста. [pic.twitter.com/kAX10q2Zjp](http://t.co/kAX10q2Zjp)
 
-Состоялась переписка, в которой студия пошутила, что разработчика только, что уволили. /cc <a href="https://twitter.com/deadmau5" title="deadmau5">@deadmau5</a> <a href="http://t.co/JaoX97o4St">pic.twitter.com/JaoX97o4St</a>
+Состоялась переписка, в которой студия пошутила, что разработчика только, что уволили. /cc [@deadmau5](https://twitter.com/deadmau5 "deadmau5") [pic.twitter.com/JaoX97o4St](http://t.co/JaoX97o4St)
 
-Но сайт до сих пор сломан <a href="http://t.co/YuoBYBKN59">deadmau5.com</a>
+Но сайт до сих пор сломан [deadmau5.com](http://t.co/YuoBYBKN59 "http://www.deadmau5.com/")
 
-Из последнего — за два месяца переписки запилили Twitter Cards для <a href="https://twitter.com/breakingmad_" title="breakingmad">@breakingmad_</a>  <a href="http://t.co/Pg0l6tyDZa">vstarkov.ru/opengraph/</a> -&gt; <a href="https://t.co/ObNS3K34Qk">twitter.com/breakingmad_/s…</a>
+Из последнего — за два месяца переписки запилили Twitter Cards для [@breakingmad_](https://twitter.com/breakingmad_ "breakingmad")  [vstarkov.ru/opengraph/](http://t.co/Pg0l6tyDZa "http://vstarkov.ru/opengraph/") -&gt; [twitter.com/breakingmad_/s…](https://t.co/ObNS3K34Qk "https://twitter.com/breakingmad_/status/568736536579186688")
 
 То есть неважно есть у вас доступ к сайту или нет, вы всегда можете что-то улучшить
 
 Вы можете рассматривать свои навыки и время как ресурсы, которые можете потратить на какое-то улучшение
 
-И главное не стесняться этого, точно также как с опенсорсом, как заметил <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>
+И главное не стесняться этого, точно также как с опенсорсом, как заметил [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> когда вижу ошибки на сайте, то стараюсь написать об этом авторам. так с некоторыми теперь иногда общаюсь.
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда вижу ошибки на сайте, то стараюсь написать об этом авторам. так с некоторыми теперь иногда общаюсь.
 
 Поэтому пишите сюда о ваших подвигах, а я буду ретвитить
 
 Фронтенд должен знать своих героев
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> зашел на один местный сайт, а там каша из дивов, написал студии, показал как оптимизировать, после немного учил…
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") зашел на один местный сайт, а там каша из дивов, написал студии, показал как оптимизировать, после немного учил…
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> не вижу трудностей в том, чтобы помочь кому-либо, это же не заберёт много времени, а где-то станет лучше и свет…
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не вижу трудностей в том, чтобы помочь кому-либо, это же не заберёт много времени, а где-то станет лучше и свет…
 
-RT <a href="https://twitter.com/ru_rodweb" title="Igor Deryabin">@ru_rodweb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в моем гитхабе пара дохлых реп и мелких пуллреквестов, взять какую-то идею и довести до конца, не хватает мотив…
+RT [@ru_rodweb](https://twitter.com/ru_rodweb "Igor Deryabin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в моем гитхабе пара дохлых реп и мелких пуллреквестов, взять какую-то идею и довести до конца, не хватает мотив…
 
 ## Четверг <small>50 твитов</small>
 
 Японцы тоже знают, что помидорки хороши для вас 
-<a href="https://t.co/7bIpaKLjR5">youtube.com/watch?v=oUXj5b…</a> /сс <a href="https://twitter.com/neonick" title="Nick Marchenko">@neonick</a> <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>
+[youtube.com/watch?v=oUXj5b…](https://t.co/7bIpaKLjR5 "https://www.youtube.com/watch?v=oUXj5bZcNaY") /сс [@neonick](https://twitter.com/neonick "Nick Marchenko") [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov")
 
 Вы пользуетесь Chrome или Firefox?
 
@@ -328,9 +328,9 @@ safari 1
 
 Думаю в целом тренд ясен
 
-RT <a href="https://twitter.com/straykov" title="Илья Страйкóв">@straykov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> где-то плачет статистик
+RT [@straykov](https://twitter.com/straykov "Илья Страйкóв"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") где-то плачет статистик
 
-Илья <a href="https://twitter.com/straykov" title="Илья Страйкóв">@straykov</a> хочет, чтобы победил Сафари, но у этого браузера нет шансов в наши дни, когда его поддержку для винды отменили пару лет назад
+Илья [@straykov](https://twitter.com/straykov "Илья Страйкóв") хочет, чтобы победил Сафари, но у этого браузера нет шансов в наши дни, когда его поддержку для винды отменили пару лет назад
 
 Об монокультуре Хрома среди браузеров много говорили, когда опера перешла на хромиум. Но после этого почему-то замолчали
 
@@ -346,23 +346,23 @@ RT <a href="https://twitter.com/straykov" title="Илья Страйкóв">@str
 
 А в файрфоксе с этим беда. Чувствуете ли вы, как веб-разработчик, свою ответственность в этой ситуации?
 
-Некоторые пишут, что не хочется уходить с хрома. Вы знаете, что <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a> каждые полгода меняет браузер?
+Некоторые пишут, что не хочется уходить с хрома. Вы знаете, что [@bobuk](https://twitter.com/bobuk "bobuk") каждые полгода меняет браузер?
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Я пробую менять телефон, и это уже адский ад. Про браузер даже не хочется думать. <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a>
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я пробую менять телефон, и это уже адский ад. Про браузер даже не хочется думать. [@bobuk](https://twitter.com/bobuk "bobuk")
 
-Безопасный hh.ru не открывается по https <a href="https://t.co/GxzkaDVJmh">hh.ru/safety</a> (попробуйте). А как вы относитесь к своей безопасности в интернете?
+Безопасный hh.ru не открывается по https [hh.ru/safety](https://t.co/GxzkaDVJmh "https://hh.ru/safety") (попробуйте). А как вы относитесь к своей безопасности в интернете?
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Наплевательски
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Наплевательски
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> из публичных мест через впн захожу, для разных сайтов разные пароли, где возможно — двух-этапная авторизация.
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") из публичных мест через впн захожу, для разных сайтов разные пароли, где возможно — двух-этапная авторизация.
 
-RT <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a>: <a href="https://twitter.com/i_told_ya" title="Isaev Igor">@i_told_ya</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> разрабатываю, тестирую,  все делаю.
+RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i_told_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разрабатываю, тестирую,  все делаю.
 
-RT <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a>: <a href="https://twitter.com/i_told_ya" title="Isaev Igor">@i_told_ya</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в яндексе одмины тоже программируют. Драйвера например пишут :)
+RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i_told_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в яндексе одмины тоже программируют. Драйвера например пишут :)
 
 Безопасность можно рассматривать не только с точки зрения стойких паролей, верификации и тд, но также с точки зрения паранойи за свои данные
 
-Тот же <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a> держит свою почту на отдельном сервере
+Тот же [@bobuk](https://twitter.com/bobuk "bobuk") держит свою почту на отдельном сервере
 
 Вы задумывались над тем, владеете ли вы своими данными?
 
@@ -376,7 +376,7 @@ RT <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a>: <a href="https:
 
 По мнению вашего поисковика, конечно
 
-Поисковик <a href="https://twitter.com/duckduckgo" title="DuckDuckGo">@duckduckgo</a> выглядит лучшей альтернативой, так не следит за вами а значит не будет и пузыря интересов
+Поисковик [@duckduckgo](https://twitter.com/duckduckgo "DuckDuckGo") выглядит лучшей альтернативой, так не следит за вами а значит не будет и пузыря интересов
 
 и назойливой рекламы микроволновки после пары неосторожных запросов в гугл
 
@@ -384,11 +384,11 @@ RT <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a>: <a href="https:
 
 Забавный сайд-эффект — сайты открываются быстрее и вообще интернет стал отзывчивее
 
-RT <a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> параноя over9000
+RT [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") параноя over9000
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> и часто сайты с интеграцией соц. сетей ломаются :)
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и часто сайты с интеграцией соц. сетей ломаются :)
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> инфу о лекарствах и технике ищу в приватном режиме, чтобы потом реклама не сыпалась.
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") инфу о лекарствах и технике ищу в приватном режиме, чтобы потом реклама не сыпалась.
 
 Если вы таки не собираетесь уходить с гугла, то открывайте его по https чтобы вводимые запросы знали только вы и гугл
 
@@ -402,27 +402,27 @@ RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>:
 
 Вы знали, что одиночные пикеты — единственная легальная форма выражения политической воли, которой можно воспользоваться в любой момент
 
-Примерно год назад хотел повлиять на ситуацию в стране, написал Ивану <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@from_anywhere</a> и он рассказал как можно помочь фбк
+Примерно год назад хотел повлиять на ситуацию в стране, написал Ивану [@from_anywhere](https://twitter.com/from_anywhere "Иван Метелёв") и он рассказал как можно помочь фбк
 
-Дело не в <a href="https://twitter.com/navalny" title="Alexey Navalny">@navalny</a> у меня к нему неоднозначное отношение, а в желании что-то сделать и цели <a href="https://twitter.com/FBK" title="Maggie">@FBK</a> совпадали с собственными
+Дело не в [@navalny](https://twitter.com/navalny "Alexey Navalny") у меня к нему неоднозначное отношение, а в желании что-то сделать и цели [@FBK](https://twitter.com/FBK "Maggie") совпадали с собственными
 
 Расскажите ваш опыт волонтёрства
 
 котаны, я снова с вам, сейчас будет волна ретвитов
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Я ходила за продуктами для бабушки, у которой не было детей и других родственников.
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я ходила за продуктами для бабушки, у которой не было детей и других родственников.
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Потом нашлись какие-то семиюродные племянники на другом конце России, они её к себе перевезли.
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Потом нашлись какие-то семиюродные племянники на другом конце России, они её к себе перевезли.
 
-RT <a href="https://twitter.com/serebro" title="Sergey">@serebro</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а еще многие пользуются гугловым dns например 8.8.8.8, что тоже помогает им трэкать пользовательскую активность
+RT [@serebro](https://twitter.com/serebro "Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а еще многие пользуются гугловым dns например 8.8.8.8, что тоже помогает им трэкать пользовательскую активность
 
-RT <a href="https://twitter.com/GruZZ" title="Nikolay Sadovnikov">@GruZZ</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> 2-3 раза участвовал в уборке мусора у водоемов. <a href="https://twitter.com/search?q=%23мусорабольшенет">#мусорабольшенет</a> это называлось, или как-то так.
+RT [@GruZZ](https://twitter.com/GruZZ "Nikolay Sadovnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 2-3 раза участвовал в уборке мусора у водоемов. [мусорабольшенет](https://twitter.com/search?q=%23мусорабольшенет) это называлось, или как-то так.
 
-RT <a href="https://twitter.com/neonick" title="Nick Marchenko">@neonick</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> два года подряд ездим на Kubana-фест эко-волонтёрами, помогаем убирать мусор, принимаем тару с залоговой стоимост…
+RT [@neonick](https://twitter.com/neonick "Nick Marchenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") два года подряд ездим на Kubana-фест эко-волонтёрами, помогаем убирать мусор, принимаем тару с залоговой стоимост…
 
 ## Пятница <small>94 твита</small>
 
-Экспаты захватили оба коллективных твиттера. <a href="https://twitter.com/iamspacegray" title="Я дизайнер">@iamspacegray</a> ведёт эфир из Польши
+Экспаты захватили оба коллективных твиттера. [@iamspacegray](https://twitter.com/iamspacegray "Я дизайнер") ведёт эфир из Польши
 
 Поэтому давайте тоже поговорим об эмиграции, но уже для разработчиков
 
@@ -440,7 +440,7 @@ RT <a href="https://twitter.com/neonick" title="Nick Marchenko">@neonick</a>: <a
 
 Всё также важны GitHub, StackOverflow, блог, выступления на конференциях и проекты в которых вы участвовали
 
-Сейчас утихает ng-буря и набирает силу хайп вокруг <a href="https://twitter.com/reactjs" title="React">@reactjs</a>
+Сейчас утихает ng-буря и набирает силу хайп вокруг [@reactjs](https://twitter.com/reactjs "React")
 
 Я для себя сформулировал путь эмиграции такой: становишься крутым специалистом + учишь язык —&gt; прилагаешь усилия —&gt; получаешь работу
 
@@ -450,17 +450,17 @@ RT <a href="https://twitter.com/neonick" title="Nick Marchenko">@neonick</a>: <a
 
 Это всё с легкостью может занять полгода. Поэтому запаситесь терпением
 
-А ещё переезд может не получиться с первого раза, как это было у Вари <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>. От этого никто не застрахован.
+А ещё переезд может не получиться с первого раза, как это было у Вари [@toivonens](https://twitter.com/toivonens "var ya; // ru"). От этого никто не застрахован.
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Переехала в Голландию. Офомление заняло 3 месяца. Пока всё делали, фирма отказалась от моих проектов.
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Переехала в Голландию. Офомление заняло 3 месяца. Пока всё делали, фирма отказалась от моих проектов.
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Проекты мне не понравились, а хороших там больше не было. Плюс не понравилась Голландия в целом, пришлось ещё р…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Проекты мне не понравились, а хороших там больше не было. Плюс не понравилась Голландия в целом, пришлось ещё р…
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> 2й раз переехала в Финляндию на вроде бы подходящую работу. Но через 2 недели после моего приезда они передумал…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 2й раз переехала в Финляндию на вроде бы подходящую работу. Но через 2 недели после моего приезда они передумал…
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Уволить на испытательном сроке юридически можно, независимо от того мигрант вы или нет. Хорошо бы иметь запасно…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Уволить на испытательном сроке юридически можно, независимо от того мигрант вы или нет. Хорошо бы иметь запасно…
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Ну и не присоединяться к стартапам пока ваш юридический статус зыбок. Лучше выбрать компанию посолидней.
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ну и не присоединяться к стартапам пока ваш юридический статус зыбок. Лучше выбрать компанию посолидней.
 
 Это была пятиминутка Вари, которую здорово потрепало при переезде
 
@@ -494,11 +494,11 @@ RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>:
 
 * про инвестиции в себя отвечают, а про брендинг нет. не верю, что никто не развивает себя как бренд
 
-RT <a href="https://twitter.com/fliptheweb" title="Artur Kornakov">@fliptheweb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> снимаем с коллегой 3этажный дом за 500$ + коммуналка 150$ (это из-за работающих постоянно кондиционеров) на Пх…
+RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") снимаем с коллегой 3этажный дом за 500$ + коммуналка 150$ (это из-за работающих постоянно кондиционеров) на Пх…
 
-RT <a href="https://twitter.com/fliptheweb" title="Artur Kornakov">@fliptheweb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> но в больших городах будет дороже, конечно же
+RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") но в больших городах будет дороже, конечно же
 
-Это были пруфы из Азии от крутого <a href="https://twitter.com/fliptheweb" title="Artur Kornakov">@fliptheweb</a> из <a href="https://twitter.com/aviasales" title="Aviasales.ru">@aviasales</a>, (спасибо им за кураж бомбей)
+Это были пруфы из Азии от крутого [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov") из [@aviasales](https://twitter.com/aviasales "Aviasales.ru"), (спасибо им за кураж бомбей)
 
 2000$ по старому курсу это 60-70 тысяч — чуть больше, чем в миллионниках
 
@@ -510,31 +510,31 @@ RT <a href="https://twitter.com/fliptheweb" title="Artur Kornakov">@fliptheweb</
 
 Притом, что найти такие условия вполне под силу
 
-Кораны-Эмигранты, <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>, у каждого своя история. и это примечательно. У каждого есть что рассказать
+Кораны-Эмигранты, [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинский") [@toivonens](https://twitter.com/toivonens "var ya; // ru"), у каждого своя история. и это примечательно. У каждого есть что рассказать
 
-RT <a href="https://twitter.com/prbigbrother" title="Alexandru Capatina">@prbigbrother</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> надо различать: оплата почасово или помесячно, с почасовым рейтом. Так как, реально наработать 8 часов очень…
+RT [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") надо различать: оплата почасово или помесячно, с почасовым рейтом. Так как, реально наработать 8 часов очень…
 
-RT <a href="https://twitter.com/prbigbrother" title="Alexandru Capatina">@prbigbrother</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> и ты рассчитываешь на $3360 в месяц, а выходит в лучшем случае $2100, если платят за час. Надо смотреть реал…
+RT [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и ты рассчитываешь на $3360 в месяц, а выходит в лучшем случае $2100, если платят за час. Надо смотреть реал…
 
-Алекасанд <a href="https://twitter.com/prbigbrother" title="Alexandru Capatina">@prbigbrother</a> пишет о проблемах с почасовой оплатой. Я работал удалённо в <a href="https://twitter.com/csssr_ru" title="CSSSR">@csssr_ru</a> и воспринимал как постоянную работу
+Алекасанд [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina") пишет о проблемах с почасовой оплатой. Я работал удалённо в [@csssr_ru](https://twitter.com/csssr_ru "CSSSR") и воспринимал как постоянную работу
 
 Думаю, что у каждой работы есть свои особенности. Но в целом мне кажется наработать 8 часов в день не так сложно
 
 Вернёмся к само-инвестициям
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я раньше тратил много денег на книги и курсы — это все окупилось. Плюс поездки на конференциии.
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я раньше тратил много денег на книги и курсы — это все окупилось. Плюс поездки на конференциии.
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Не жалеть денег на всевозможные воркшопы и курсы. Такой вклад в себя окупается на отлично.
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не жалеть денег на всевозможные воркшопы и курсы. Такой вклад в себя окупается на отлично.
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Я потратила много денег и времени на английский. Всё окупилось :-)
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я потратила много денег и времени на английский. Всё окупилось :-)
 
 Не надо бояться платных курсов, интенсивов и конференций — это относится к самоинвестициям
 
 пару лет назад я потратил деньги и прошёл интенсив по типографике от потрясающей фриланс-студии «Ляпустин»
 
-спасибо Диме <a href="https://twitter.com/lyapustin" title="Lyapustin">@lyapustin</a> и Полине <a href="https://twitter.com/1006pieces" title="Polina Lyapustina">@1006pieces</a>
+спасибо Диме [@lyapustin](https://twitter.com/lyapustin "Lyapustin") и Полине [@1006pieces](https://twitter.com/1006pieces "Polina Lyapustina")
 
-RT <a href="https://twitter.com/axlerk" title="Pavel Khudyakov">@axlerk</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>
+RT [@axlerk](https://twitter.com/axlerk "Pavel Khudyakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинский") [@toivonens](https://twitter.com/toivonens "var ya; // ru")
 &gt; Кораны-Эмигранты
 иншалла!
 
@@ -548,15 +548,15 @@ RT <a href="https://twitter.com/axlerk" title="Pavel Khudyakov">@axlerk</a>: <a 
 
 Думаю, все поняли и согласны, что инвестиции полезны и окупаются. перейдём к брендингу
 
-RT <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Зависит от деятельности, если просто инженер, то можно без него. Если лид, Dev Rel, консультант - очень нужно.
+RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Зависит от деятельности, если просто инженер, то можно без него. Если лид, Dev Rel, консультант - очень нужно.
 
-RT <a href="https://twitter.com/fliptheweb" title="Artur Kornakov">@fliptheweb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> о брендинге, как мне кажется, должны задумываться в первую очередь фрилансеры и студии.
+RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о брендинге, как мне кажется, должны задумываться в первую очередь фрилансеры и студии.
 
-RT <a href="https://twitter.com/fliptheweb" title="Artur Kornakov">@fliptheweb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а вот для разработчиков брендинг не должен стать культом карго, а появляться сам по себе, по мере становления …
+RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а вот для разработчиков брендинг не должен стать культом карго, а появляться сам по себе, по мере становления …
 
-RT <a href="https://twitter.com/straykov" title="Илья Страйкóв">@straykov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я попросил иконочного дизайнера нарисовать мне фавиконку. Вот и весь брендинг
+RT [@straykov](https://twitter.com/straykov "Илья Страйкóв"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я попросил иконочного дизайнера нарисовать мне фавиконку. Вот и весь брендинг
 
-О само-брендинге пару лет назад хорошо писал кто-то из западных разработчиков. Потом об этом писал Влад <a href="https://twitter.com/tsyplukhin" title="Влад">@tsyplukhin</a> насколько я помню
+О само-брендинге пару лет назад хорошо писал кто-то из западных разработчиков. Потом об этом писал Влад [@tsyplukhin](https://twitter.com/tsyplukhin "Влад") насколько я помню
 
 Я вкладываю в это понятие медийность и собственную узнаваемость
 
@@ -576,11 +576,11 @@ RT <a href="https://twitter.com/straykov" title="Илья Страйкóв">@str
 
 Не развивая своё влияние, через тот же блог, например, вы теряете способ менять мир рядом с собой
 
-Об этом писал всё ещё крутой <a href="https://twitter.com/bobuk" title="bobuk">@bobuk</a>
+Об этом писал всё ещё крутой [@bobuk](https://twitter.com/bobuk "bobuk")
 
 Некоторые могут посчитать это стыдным или горделивым, но мне это непонятно. Почему собственное развитие должно быть чем-то постыдным?
 
-Это ведь в конце концов доброе дело. К примеру, замечательный Владимир <a href="https://twitter.com/mistakster" title="Vladimir Kuznetsov">@mistakster</a> написал кучу полезных статей и помог почти каждому из нас
+Это ведь в конце концов доброе дело. К примеру, замечательный Владимир [@mistakster](https://twitter.com/mistakster "Vladimir Kuznetsov") написал кучу полезных статей и помог почти каждому из нас
 
 И думаю, что даже не один раз
 
@@ -602,27 +602,27 @@ RT <a href="https://twitter.com/straykov" title="Илья Страйкóв">@str
 
 Может я ошибаюсь в чём-то? хоть это и будет обидно, но коллективный твиттер — самый просто способ выяснить это
 
-RT <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> самые крутые разработчики, которых встретил за 10 лет, не делают такого — стараюсь помнить об этом перед каждым “са…
+RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") самые крутые разработчики, которых встретил за 10 лет, не делают такого — стараюсь помнить об этом перед каждым “са…
 
-Вот мнение от Серёжи <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a>
+Вот мнение от Серёжи [@veged](https://twitter.com/veged "Sergey Berezhnoy")
 
 тут работает правило о том, что судить надо по поступкам и проектам, а не по словам. и тогда это всё приобретает смысл
 
-Ну и конечно есть тысячи крутых разработчиков, которые просто делают офигенные и сложные вещи, например Сева <a href="https://twitter.com/floatdrop" title="Vsevolod S.">@floatdrop</a>
+Ну и конечно есть тысячи крутых разработчиков, которые просто делают офигенные и сложные вещи, например Сева [@floatdrop](https://twitter.com/floatdrop "Vsevolod S.")
 
-Всем хороших выходных и открытка из Стокгольма <a href="http://t.co/zGBmuLnJpo">pic.twitter.com/zGBmuLnJpo</a>
+Всем хороших выходных и открытка из Стокгольма [pic.twitter.com/zGBmuLnJpo](http://t.co/zGBmuLnJpo)
 
 ## Суббота <small>5 твитов</small>
 
-RT <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Писать статьи — этому нужно учиться. На уроках русского языка в наших школах этому не учат, а даже наоборот, отби…
+RT [@mista_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Писать статьи — этому нужно учиться. На уроках русского языка в наших школах этому не учат, а даже наоборот, отби…
 
-Владимир <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a> правильно пишет, писать статьи тяжело. Но не начав их писать, вы и не научитесь. Поэтому просто начните
+Владимир [@mista_k](https://twitter.com/mista_k "Vladimir Kuznetsov") правильно пишет, писать статьи тяжело. Но не начав их писать, вы и не научитесь. Поэтому просто начните
 
 Я хотел вам субкоту устроить сегодня, но уже не хочу
 
 В такие моменты надо ответить себе «а было ли это простым для меня год или два назад?» и идти рассказывать
 
-RT <a href="https://twitter.com/voxpuibr" title="Stanislav Shabalin">@voxpuibr</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вот хорошая статья на тему <a href="http://t.co/le6TH3UzPv">carl.flax.ie/dothingstellpe…</a>
+RT [@voxpuibr](https://twitter.com/voxpuibr "Stanislav Shabalin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот хорошая статья на тему [carl.flax.ie/dothingstellpe…](http://t.co/le6TH3UzPv "http://carl.flax.ie/dothingstellpeople.html")
 
 ## Воскресенье <small>3 твита</small>
 
@@ -630,7 +630,7 @@ RT <a href="https://twitter.com/voxpuibr" title="Stanislav Shabalin">@voxpuibr</
 
 На этой неделе с вами был @matmuchrapna. Я многое успел рассказать и эфиры прошли хорошо, спасибо вам!
 
-Ну и напоследок оставлю тут неподражаемого Пола Тейлора <a href="https://twitter.com/blastingbrains" title="Stephen Paul Taylor">@blastingbrains</a> <a href="http://t.co/A3ADtd5MNz">youtu.be/NWxISwEBU0U</a>
+Ну и напоследок оставлю тут неподражаемого Пола Тейлора [@blastingbrains](https://twitter.com/blastingbrains "Stephen Paul Taylor") [youtu.be/NWxISwEBU0U](http://t.co/A3ADtd5MNz "http://youtu.be/NWxISwEBU0U")
 
 ## Ссылки
 

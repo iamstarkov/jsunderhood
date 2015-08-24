@@ -6,19 +6,19 @@ _16 апреля 2015_
 
 Всем привет! Меня зовут Александр Ломакин. Я руковожу веб-разработкой в Rambler Digital Solutions.
 
-На этой неделе <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> веду я. Буду рассказывать про веб-разработку, менеджмент разработки и про все около этого :)
+На этой неделе [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") веду я. Буду рассказывать про веб-разработку, менеджмент разработки и про все около этого :)
 
 Можно задавать вопросы о разработке lenta.ru, gazeta.ru, secretmag.ru, motor.ru и вообще про то, как в RDS и Rambler&amp;Co устроена рабработка
 
-.@matmuchrapna <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> ссори, теперь исправлюсь :)
+.@matmuchrapna [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih") [@toivonens](https://twitter.com/toivonens "var ya; // ru") ссори, теперь исправлюсь :)
 
-.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> в нашей CMS используем ES6. Вот небольшая подборочка нашего опенсорса :) - <a href="https://t.co/U3iBinepLE">github.com/rambler-digita…</a>
+.[@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") в нашей CMS используем ES6. Вот небольшая подборочка нашего опенсорса :) - [github.com/rambler-digita…](https://t.co/U3iBinepLE "https://github.com/rambler-digital-solutions")
 
-.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> в RDS сейчас работает около ста человек
+.[@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") в RDS сейчас работает около ста человек
 
-.<a href="https://twitter.com/Rukomoynikov" title="Maksim Rukomoynikov">@Rukomoynikov</a> Backbone любим, но знаете как говорят: любовь живет три года... Пока что мы не подтверждаем это правило :)
+.[@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") Backbone любим, но знаете как говорят: любовь живет три года... Пока что мы не подтверждаем это правило :)
 
-Недавно вышел <a href="http://t.co/ohWXrcIVym">nativegrid.com</a> от Look At Media
+Недавно вышел [nativegrid.com](http://t.co/ohWXrcIVym "http://www.nativegrid.com") от Look At Media
 
 Все бы круто, но всегда плохо относился к CMS, которые имплементируют чей-то устоявшийся процесс работы.
 
@@ -34,7 +34,7 @@ _16 апреля 2015_
 
 ## Вторник <small>12 твитов</small>
 
-RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: Продолжаю читать про React, и кажется, сейчас я скоро буду визжать как сучка. По-моему, только что взвизгнул… Вот снова…
+RT [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): Продолжаю читать про React, и кажется, сейчас я скоро буду визжать как сучка. По-моему, только что взвизгнул… Вот снова…
 
 Расскажу немного о том, как сейчас работает lenta.ru
 
@@ -48,45 +48,45 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 
 И вообще, из всех типов проектов, над которыми мне приходилось, СМИ — это самое простое в плане архитектуры
 
-.<a href="https://twitter.com/Stammru" title="Рустам Загиров">@Stammru</a> меньше 10. Вообще говоря, lenta.ru может работать на одной на напрягаясь особенно. Но для надежности их, конечно, больше.
+.[@Stammru](https://twitter.com/Stammru "Рустам Загиров") меньше 10. Вообще говоря, lenta.ru может работать на одной на напрягаясь особенно. Но для надежности их, конечно, больше.
 
-В общем что мы все про Ленту? :) Как вам новые <a href="http://t.co/Btuq0eA48X">motor.ru</a> и <a href="http://t.co/D7HPKpnpZV">secretmag.ru</a>?
+В общем что мы все про Ленту? :) Как вам новые [motor.ru](http://t.co/Btuq0eA48X "http://motor.ru") и [secretmag.ru](http://t.co/D7HPKpnpZV "http://secretmag.ru")?
 
 Кстати, вот например сегодня у нас в RDS очередной тимбилдинг среди разработчиков
 
 Будем пить горячие напитки и и холиварить на разные темы :) Например почему Angular плохо, а за React'ом будущее
 
-Всем привет с тимбилдинга! :) <a href="http://t.co/9s1LO8RWBK">pic.twitter.com/9s1LO8RWBK</a>
+Всем привет с тимбилдинга! :) [pic.twitter.com/9s1LO8RWBK](http://t.co/9s1LO8RWBK)
 
 ## Среда <small>29 твитов</small>
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> Angular хорош на коротких дистанциях, но я бы не стал его применять в больших и долгоиграющих продуктах. А вы как считаете?
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") Angular хорош на коротких дистанциях, но я бы не стал его применять в больших и долгоиграющих продуктах. А вы как считаете?
 
 .@_h4_ были ;)
 
-.<a href="https://twitter.com/VasyaRomashova" title="Vasya R">@VasyaRomashova</a> женщины работают, где же еще :)
+.[@VasyaRomashova](https://twitter.com/VasyaRomashova "Vasya R") женщины работают, где же еще :)
 
-.<a href="https://twitter.com/yoksel" title="Йоксель">@yoksel</a> ты же недалеко сидишь — приходи, советуй как правильно :)
+.[@yoksel](https://twitter.com/yoksel "Йоксель") ты же недалеко сидишь — приходи, советуй как правильно :)
 
-RT <a href="https://twitter.com/r3nya" title="Andrew R.">@r3nya</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а мне нравится новый дизайн мотора … Такие дела. :)
+RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а мне нравится новый дизайн мотора … Такие дела. :)
 
 .@_h4_ я лично каждое утро съедаю по Angular разработчику :D
 
-.<a href="https://twitter.com/yoksel" title="Йоксель">@yoksel</a> отвечу сразу про все. SVG помогает не плодить кучу спрайтов для всяких ретин и пр.
+.[@yoksel](https://twitter.com/yoksel "Йоксель") отвечу сразу про все. SVG помогает не плодить кучу спрайтов для всяких ретин и пр.
 
-RT <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>: <a href="https://twitter.com/yoksel" title="Йоксель">@yoksel</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> инлайновый SVG — меньше запросов к серверу, но минус в отсутствии поддержки IE8.
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@yoksel](https://twitter.com/yoksel "Йоксель") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") инлайновый SVG — меньше запросов к серверу, но минус в отсутствии поддержки IE8.
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> мы уже давно дружим с Backbone. Уже три года. И пока не собираемся с него резко спрыгивать :)
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") мы уже давно дружим с Backbone. Уже три года. И пока не собираемся с него резко спрыгивать :)
 
 Про что рассказать, ребята? RT - как мы нанимаем сотрудников в RDS. FAV - про Agile.
 
-.<a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a> во время разработки не мешает. По крайней мере разработчики не жалуются :)
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") во время разработки не мешает. По крайней мере разработчики не жалуются :)
 
-.<a href="https://twitter.com/yoksel" title="Йоксель">@yoksel</a> давай наводить мосты любви и дружбы! Нам очень не хватает твоей поддержки в оффлайне :)
+.[@yoksel](https://twitter.com/yoksel "Йоксель") давай наводить мосты любви и дружбы! Нам очень не хватает твоей поддержки в оффлайне :)
 
 Кажется с большим отрывом победил Agile :)
 
-Год назад я прошел курс Certified Agile Professional <a href="http://t.co/gJGAIWfHrm">scrumtrek.ru/trainings/view…</a>
+Год назад я прошел курс Certified Agile Professional [scrumtrek.ru/trainings/view…](http://t.co/gJGAIWfHrm "http://scrumtrek.ru/trainings/view/22/147/")
 
 И тогда мой взгляд на многие вещи в процессе разработки очень сильно изменился
 
@@ -100,23 +100,23 @@ Scrum же скорее подходит для тех команд, где пр
 
 Поэтому что-то конкретное рекомендовать сложно. Самое главное - готовность команды к осмысленному использованию тех или иных инструментов
 
-.<a href="https://twitter.com/subzey" title="subzey">@subzey</a> разумеется используем. По умолчанию кол-во разрабов * 2. Затем корректируем по необходимости
+.[@subzey](https://twitter.com/subzey "subzey") разумеется используем. По умолчанию кол-во разрабов * 2. Затем корректируем по необходимости
 
-.<a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a> боюсь что PMBOK и PRINCE2 запретные слова в моем Agile мирке :)
+.[@aod_toxic](https://twitter.com/aod_toxic "Leon Yeromin") боюсь что PMBOK и PRINCE2 запретные слова в моем Agile мирке :)
 
-.<a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a> там где Kanban - релизим по факту реализации фичи. Там где Скрам - по завершении спринта.
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") там где Kanban - релизим по факту реализации фичи. Там где Скрам - по завершении спринта.
 
-.<a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a> если проеб на стороне админов - они крайние. Если ошибка в коде - прогеры.
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") если проеб на стороне админов - они крайние. Если ошибка в коде - прогеры.
 
-.<a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a> трекер задач — Jira/Trello
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") трекер задач — Jira/Trello
 
-.<a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a> в качестве CI - TeamCity, правда пока не на всех проектах
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") в качестве CI - TeamCity, правда пока не на всех проектах
 
-.<a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a> откатиться легко, потому что мы держим последние n версий проекта рядышком в соседних папках :)
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") откатиться легко, потому что мы держим последние n версий проекта рядышком в соседних папках :)
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> есть три варианта Capistrano (<a href="http://t.co/BGEji78r9p">capistranorb.com</a>), Fabric (<a href="http://t.co/VXUiPzuLa8">fabfile.org</a>) и наш собственный скрипт
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") есть три варианта Capistrano ([capistranorb.com](http://t.co/BGEji78r9p "http://capistranorb.com")), Fabric ([fabfile.org](http://t.co/VXUiPzuLa8 "http://www.fabfile.org")) и наш собственный скрипт
 
-.<a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a> пока нет, но в целом у нас есть в планах внедрение метрики test coverage не менее n% :)
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") пока нет, но в целом у нас есть в планах внедрение метрики test coverage не менее n% :)
 
 ## Четверг <small>37 твитов</small>
 
@@ -140,59 +140,59 @@ HR служба подбирает потенциальных кандидато
 
 Как правило одного часа достаточно, чтобы составить впечатление о человеке
 
-RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а если, допустим, у человека хороший опыт, и практический, и теоретический, но как человек он полнейший мудак?
+RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а если, допустим, у человека хороший опыт, и практический, и теоретический, но как человек он полнейший мудак?
 
-.<a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> тогда в топку. С мудаками не готов работать, даже если они звезды мировой величины. Звезды светят, а команды делают продукты :)
+.[@rusgautama](https://twitter.com/rusgautama "Rus Buddha") тогда в топку. С мудаками не готов работать, даже если они звезды мировой величины. Звезды светят, а команды делают продукты :)
 
-RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> скажем, конфликтный, ленивый на рутинную работу, не пунктуальный. И это выясняется после исп. срока.
+RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") скажем, конфликтный, ленивый на рутинную работу, не пунктуальный. И это выясняется после исп. срока.
 
-.<a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> окончание испытательного срока не барьер. Если человек превращается в мудака, мы его выпускаем в open market :)
+.[@rusgautama](https://twitter.com/rusgautama "Rus Buddha") окончание испытательного срока не барьер. Если человек превращается в мудака, мы его выпускаем в open market :)
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> у нас был один случай, когда человек откровенно срал на нормы поведения. Приходил когда угодно, забивал на работу
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") у нас был один случай, когда человек откровенно срал на нормы поведения. Приходил когда угодно, забивал на работу
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> в общем этого уже достаточно
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") в общем этого уже достаточно
 
 Есть классное правило: если человек не умеет - научим, не учится - вылечим, не лечится - отпустим. Это как золотое сечение в менеджменте.
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> А как вы юридически этого достигаете? Платите отступные в 5-6 зарплат или увольняете по статье?
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") А как вы юридически этого достигаете? Платите отступные в 5-6 зарплат или увольняете по статье?
 
-.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> как правило никто не хочет, чтобы его увольняли по статье. В моей практике всегда договаривались на плюс один оклад.
+.[@toivonens](https://twitter.com/toivonens "var ya; // ru") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") как правило никто не хочет, чтобы его увольняли по статье. В моей практике всегда договаривались на плюс один оклад.
 
-.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> довольно обычная практика для многих компаний :)
+.[@toivonens](https://twitter.com/toivonens "var ya; // ru") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") довольно обычная практика для многих компаний :)
 
-RT <a href="https://twitter.com/janitor42" title="Валерий">@janitor42</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как "лечите"?
+RT [@janitor42](https://twitter.com/janitor42 "Валерий"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как "лечите"?
 
-.<a href="https://twitter.com/janitor42" title="Валерий">@janitor42</a> рассказываем, показываем как принято в компании работать. Бывает такое, что для человека в новинку бывает философия компании
+.[@janitor42](https://twitter.com/janitor42 "Валерий") рассказываем, показываем как принято в компании работать. Бывает такое, что для человека в новинку бывает философия компании
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> Спасибо. В разных отраслях по разному, я 5-6 не просто так написала. Значит у разработчиков пока не…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") Спасибо. В разных отраслях по разному, я 5-6 не просто так написала. Значит у разработчиков пока не…
 
-.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> теперь уже мне интересно, а где так?
+.[@toivonens](https://twitter.com/toivonens "var ya; // ru") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") теперь уже мне интересно, а где так?
 
-.<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a> у них как правило и оклады поменьше, чем у разработчиков
+.[@toivonens](https://twitter.com/toivonens "var ya; // ru") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") у них как правило и оклады поменьше, чем у разработчиков
 
 Хочу поделиться «Must read!» чтивом. Надо кому? :) RT — поделиться. FAV — забить.
 
-"45 татуировок менеджера". Обязательна к прочтению для руководителей всех мастей. Прям библия <a href="http://t.co/Y4JYi8rtDh">goo.gl/YzqUtV</a> <a href="http://t.co/Gc5aRo4nzR">pic.twitter.com/Gc5aRo4nzR</a>
+"45 татуировок менеджера". Обязательна к прочтению для руководителей всех мастей. Прям библия [goo.gl/YzqUtV](http://t.co/Y4JYi8rtDh "http://goo.gl/YzqUtV") [pic.twitter.com/Gc5aRo4nzR](http://t.co/Gc5aRo4nzR)
 
-"Руководство фасилитатора". Вот уж что поистине помогает собрать команду в кучку и "двигать" <a href="http://t.co/FL9Y3dCIbc">goo.gl/ruZWXT</a> <a href="http://t.co/r2BXs7CKXV">pic.twitter.com/r2BXs7CKXV</a>
+"Руководство фасилитатора". Вот уж что поистине помогает собрать команду в кучку и "двигать" [goo.gl/ruZWXT](http://t.co/FL9Y3dCIbc "http://goo.gl/ruZWXT") [pic.twitter.com/r2BXs7CKXV](http://t.co/r2BXs7CKXV)
 
-"Как пасти котов". Это прям о сложностях взаимоотношений с различнами типами разработчиков <a href="http://t.co/EP1zt3wEAv">goo.gl/j4jcDj</a> <a href="http://t.co/v4HuClt5FN">pic.twitter.com/v4HuClt5FN</a>
+"Как пасти котов". Это прям о сложностях взаимоотношений с различнами типами разработчиков [goo.gl/j4jcDj](http://t.co/EP1zt3wEAv "http://goo.gl/j4jcDj") [pic.twitter.com/v4HuClt5FN](http://t.co/v4HuClt5FN)
 
-"Проект Фениск". Книга про то, как DevOps побеждает "плесень" :) <a href="http://t.co/CCIeBMGtVI">goo.gl/2D45aQ</a> <a href="http://t.co/nzRIJENQbZ">pic.twitter.com/nzRIJENQbZ</a>
+"Проект Фениск". Книга про то, как DevOps побеждает "плесень" :) [goo.gl/2D45aQ](http://t.co/CCIeBMGtVI "http://goo.gl/2D45aQ") [pic.twitter.com/nzRIJENQbZ](http://t.co/nzRIJENQbZ)
 
-RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> "Как пасти скотов"... сверху вниз есть книги, а снизу вверх? Например "Как работать с менеджером, если он мудак…
+RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") "Как пасти скотов"... сверху вниз есть книги, а снизу вверх? Например "Как работать с менеджером, если он мудак…
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> одно из двух: либо такого менеджера скоро "уйдут", либо не работать с ним совсем :)
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") одно из двух: либо такого менеджера скоро "уйдут", либо не работать с ним совсем :)
 
-"Правила Ашманова". Неплохец, к слову сказать. Тоже маст рид для управленцев в IT <a href="http://t.co/3c8rZtn4XU">goo.gl/fCkIzl</a>
+"Правила Ашманова". Неплохец, к слову сказать. Тоже маст рид для управленцев в IT [goo.gl/fCkIzl](http://t.co/3c8rZtn4XU "http://goo.gl/fCkIzl")
 
-RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А если серьезно - есть книги "снизу вверх"?
+RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А если серьезно - есть книги "снизу вверх"?
 
-.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> честно говоря не встречал :( Но если кто посоветует, с удовольствием прочту
+.[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") честно говоря не встречал :( Но если кто посоветует, с удовольствием прочту
 
-"Social Intelligence". А эта книга взорвала мой мозг, она про то, как современный мир меняет взаимоотношения людей <a href="http://t.co/dRElivuvts">goo.gl/xjtYHl</a>
+"Social Intelligence". А эта книга взорвала мой мозг, она про то, как современный мир меняет взаимоотношения людей [goo.gl/xjtYHl](http://t.co/dRElivuvts "http://goo.gl/xjtYHl")
 
-В общем вот вам для затравочки :) Остальные книги буду со временим выкладывать у себя в аккаунте <a href="https://twitter.com/lomakin" title="Alexander Lomakin">@lomakin</a>
+В общем вот вам для затравочки :) Остальные книги буду со временим выкладывать у себя в аккаунте [@lomakin](https://twitter.com/lomakin "Alexander Lomakin")
 
 ## Ссылки
 

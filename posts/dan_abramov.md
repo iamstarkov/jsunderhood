@@ -4,7 +4,7 @@ _28 июня 2015_
 
 ## Понедельник <small>77 твитов</small>
 
-Привет! Меня зовут <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a>. Я веду <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на этой неделе.
+Привет! Меня зовут [@dan_abramov](https://twitter.com/dan_abramov "Dan Abramov"). Я веду [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на этой неделе.
 
 Люди часто думают, что меня зовут Денис. Но я Даниил. Денис — это совсем не я.
 
@@ -18,148 +18,148 @@ _28 июня 2015_
 
 Я пока план тем не составлял, но сегодня пойду стричься и составлю. О чем вы хотите поговорить?
 
-RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> но не потому, что ты нажимаешь CMD+R, right?
+RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") но не потому, что ты нажимаешь CMD+R, right?
 
-Не захожу… Теперь я только в Reactiflux Slack-e. Рекомендую: <a href="http://t.co/0NmipPbrDe">reactiflux.com</a> <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>
+Не захожу… Теперь я только в Reactiflux Slack-e. Рекомендую: [reactiflux.com](http://t.co/0NmipPbrDe "http://www.reactiflux.com/") [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон")
 
-Застал меня врасплох. Хм. Смотрю сериалы. Люблю вкусно покушать. Полежать на солнышке. В общем, сейчас ничем. <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>
+Застал меня врасплох. Хм. Смотрю сериалы. Люблю вкусно покушать. Полежать на солнышке. В общем, сейчас ничем. [@anton_davydov](https://twitter.com/anton_davydov "Davy Dovanton")
 
-Там хорошие тематические каналы. Типа <a href="https://twitter.com/search?q=%23redux">#redux</a> про мою новую библиотеку например. ;-) <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>
+Там хорошие тематические каналы. Типа [redux](https://twitter.com/search?q=%23redux) про мою новую библиотеку например. ;-) [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон")
 
-Для начала в React важно въехать философически. «Что это вообще такое и зачем.» Лонгрид: <a href="http://t.co/8gw0FDiXCi">jlongster.com/Removing-User-…</a> <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>
+Для начала в React важно въехать философически. «Что это вообще такое и зачем.» Лонгрид: [jlongster.com/Removing-User-…](http://t.co/8gw0FDiXCi "http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome") [@anton_davydov](https://twitter.com/anton_davydov "Davy Dovanton")
 
-В более практичных вопросах здесь очень хорошая подборка: <a href="https://t.co/BXSxZpZphd">github.com/enaqx/awesome-…</a> <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>
+В более практичных вопросах здесь очень хорошая подборка: [github.com/enaqx/awesome-…](https://t.co/BXSxZpZphd "https://github.com/enaqx/awesome-react") [@anton_davydov](https://twitter.com/anton_davydov "Davy Dovanton")
 
-В идеале React'а не станет, и он растворится в браузере: <a href="http://t.co/VxF6a18XUt">youtube.com/watch?v=4anAwX…</a> <a href="https://twitter.com/astralian" title="Konstantin">@astralian</a>
+В идеале React'а не станет, и он растворится в браузере: [youtube.com/watch?v=4anAwX…](http://t.co/VxF6a18XUt "http://www.youtube.com/watch?v=4anAwXYqLG8") [@astralian](https://twitter.com/astralian "Konstantin")
 
-Но пока он не растворился, даже авторы UIKit из iOS считают, что это не пустой хайп: <a href="https://t.co/QPacQIgtQ3">twitter.com/andy_matuschak…</a> <a href="https://twitter.com/astralian" title="Konstantin">@astralian</a>
+Но пока он не растворился, даже авторы UIKit из iOS считают, что это не пустой хайп: [twitter.com/andy_matuschak…](https://t.co/QPacQIgtQ3 "https://twitter.com/andy_matuschak/status/560511204867575808") [@astralian](https://twitter.com/astralian "Konstantin")
 
-В React не нужны темплейты. В этом его сила. Если увидишь react-templates, закрой глаза и считай до десяти. <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>
+В React не нужны темплейты. В этом его сила. Если увидишь react-templates, закрой глаза и считай до десяти. [@anton_davydov](https://twitter.com/anton_davydov "Davy Dovanton")
 
-Есть и более экспериментально-интересные вещи, типа Cycle.js. Но React лидирует в категории «прагматичная инновация». <a href="https://twitter.com/astralian" title="Konstantin">@astralian</a>
+Есть и более экспериментально-интересные вещи, типа Cycle.js. Но React лидирует в категории «прагматичная инновация». [@astralian](https://twitter.com/astralian "Konstantin")
 
-Я не делаю TDD, поэтому не могу ответить как следует. Важно, что в React-компонентах не должно быть логики <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Я не делаю TDD, поэтому не могу ответить как следует. Важно, что в React-компонентах не должно быть логики [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Поэтому даже когда я пишу тесты, я пишу их не для компонентов, а для того, что ими управляет. <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Поэтому даже когда я пишу тесты, я пишу их не для компонентов, а для того, что ими управляет. [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Если надо тестировать компонент, для меня это знак, что из него надо что-то вынести.  <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Если надо тестировать компонент, для меня это знак, что из него надо что-то вынести.  [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Нет. Cycle может, но он слишком сырой пока что. <a href="https://twitter.com/astralian" title="Konstantin">@astralian</a>
+Нет. Cycle может, но он слишком сырой пока что. [@astralian](https://twitter.com/astralian "Konstantin")
 
-Новички часто не понимают, чем силен React. Он силен констрейнтами, которые он налагает. Похожая сила есть в ФП. <a href="https://twitter.com/astralian" title="Konstantin">@astralian</a>
+Новички часто не понимают, чем силен React. Он силен констрейнтами, которые он налагает. Похожая сила есть в ФП. [@astralian](https://twitter.com/astralian "Konstantin")
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: Пользуясь случаем, прошу у  <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a> прощения за то, что много месяцев звал его Денисом ¯\_(ツ)_/¯ / <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): Пользуясь случаем, прошу у  [@dan_abramov](https://twitter.com/dan_abramov "Dan Abramov") прощения за то, что много месяцев звал его Денисом ¯\_(ツ)_/¯ / [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-Любая логика. Если надо тестировать какую-то логику, скорее всего это должна быть функция или внешний объект <a href="https://twitter.com/RusAlexander" title="Alex Pletnev">@RusAlexander</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Любая логика. Если надо тестировать какую-то логику, скорее всего это должна быть функция или внешний объект [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev") [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Да, это крайний случай, согласен. Для таких компонентов стоит писать тесты. И то я бы скорее вынес логику управления.. <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Да, это крайний случай, согласен. Для таких компонентов стоит писать тесты. И то я бы скорее вынес логику управления.. [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Например у тебя может быть объект MaskedInputValue, который имеет acceptChar(char, position) и onChange. <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Например у тебя может быть объект MaskedInputValue, который имеет acceptChar(char, position) и onChange. [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Ты можешь в нем описать логику, как маска себя ведет, а компонентом тупо рендерить текущее значение. Тогда логику легко тестить <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Ты можешь в нем описать логику, как маска себя ведет, а компонентом тупо рендерить текущее значение. Тогда логику легко тестить [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-Я немножко про это твитил здесь: <a href="https://t.co/yN5VWlL6gm">twitter.com/dan_abramov/st…</a> <a href="https://twitter.com/astralian" title="Konstantin">@astralian</a>
+Я немножко про это твитил здесь: [twitter.com/dan_abramov/st…](https://t.co/yN5VWlL6gm "https://twitter.com/dan_abramov/status/609852006107336704") [@astralian](https://twitter.com/astralian "Konstantin")
 
 Что вас радует и что расстраивает в JS комьюнити?
 
-Моя позиция — хранилища должны быть pure функциями. Поэтому я написал Redux: <a href="https://t.co/hRXgTpiKPe">github.com/gaearon/redux</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Моя позиция — хранилища должны быть pure функциями. Поэтому я написал Redux: [github.com/gaearon/redux](https://t.co/hRXgTpiKPe "https://github.com/gaearon/redux") [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
 Например, меня расстраивает, что люди всё ещё всерьёз создают новые библиотеки с two way data bindings.
 
 С другой стороны, я знаю людей, которых в принципе расстраивает, что люди создают новые библиотеки, так что всё относительно
 
-Amok пока недостаточно стабилен, чтобы о нем строго судить. Я думаю, его ниша — императивные кодбазы и быстрые прототипы. <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
+Amok пока недостаточно стабилен, чтобы о нем строго судить. Я думаю, его ниша — императивные кодбазы и быстрые прототипы. [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev")
 
-Мне кажется это «есть время разбрасывать камни и есть время их собирать». Ищем, находим, ищем, находим. <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+Мне кажется это «есть время разбрасывать камни и есть время их собирать». Ищем, находим, ищем, находим. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-RT <a href="https://twitter.com/edjafarov" title="Eldar Djafarov ッ">@edjafarov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> радует что жсеры все еще самые харизматичные, расстраивает что все больше жавистов лезут в жс со своим самоваро…
+RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") радует что жсеры все еще самые харизматичные, расстраивает что все больше жавистов лезут в жс со своим самоваро…
 
-RT <a href="https://twitter.com/gryzzly" title="gryzzly">@gryzzly</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> меня расстраивает что нету оценки модулей/библиотек кроме рейтинга в гитхабе (т.е. популярности)
+RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") меня расстраивает что нету оценки модулей/библиотек кроме рейтинга в гитхабе (т.е. популярности)
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> меня расстраивает постоянная тяга людей к уничтожению разнообразия. Все на Хром, все на Реакт, все на Babel - …
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") меня расстраивает постоянная тяга людей к уничтожению разнообразия. Все на Хром, все на Реакт, все на Babel - …
 
-RT <a href="https://twitter.com/edjafarov" title="Eldar Djafarov ッ">@edjafarov</a>: <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> это нормально в нашем нарциссичном обществе. Идеализация и разочарование - главное активнее. и быст…
+RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это нормально в нашем нарциссичном обществе. Идеализация и разочарование - главное активнее. и быст…
 
-RT <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> радует, что комюнити развивается,  огорчает, что пока нет четкой цельности
+RT [@anton_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") радует, что комюнити развивается,  огорчает, что пока нет четкой цельности
 
-Напротив, меня расстраивает, что люди уходят в ClojureScript из-за языка и делают там классные штуки. <a href="https://twitter.com/edjafarov" title="Eldar Djafarov ッ">@edjafarov</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+Напротив, меня расстраивает, что люди уходят в ClojureScript из-за языка и делают там классные штуки. [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-И никто эти штуки не портирует — не потому что никак, а потому что им и так хорошо, а кроме них никто не понимает. <a href="https://twitter.com/edjafarov" title="Eldar Djafarov ッ">@edjafarov</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+И никто эти штуки не портирует — не потому что никак, а потому что им и так хорошо, а кроме них никто не понимает. [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
 Кто знает ClojureScript?
 
-RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: Почему-то только после появления <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a> захотелось зафоловить <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>. :)
+RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): Почему-то только после появления [@dan_abramov](https://twitter.com/dan_abramov "Dan Abramov") захотелось зафоловить [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"). :)
 
 Кто знает кого-нибудь, кто знает ClojureScript?
 
-RT <a href="https://twitter.com/ALF_er" title="Illia Segeda">@ALF_er</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> все знают Соловьёва же =)
+RT [@ALF_er](https://twitter.com/ALF_er "Illia Segeda"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") все знают Соловьёва же =)
 
-<a href="http://t.co/D08qtfUkUp">pic.twitter.com/D08qtfUkUp</a>
+[pic.twitter.com/D08qtfUkUp](http://t.co/D08qtfUkUp)
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я буду пробовать кложу из-за <a href="https://twitter.com/nikitonsky" title="Nikita Prokopov">@nikitonsky</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я буду пробовать кложу из-за [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov")
 
-Меня больше расстраивает сексизм, чем треды про него. <a href="https://twitter.com/Dmiterko_Roman" title="Рома">@Dmiterko_Roman</a>
+Меня больше расстраивает сексизм, чем треды про него. [@Dmiterko_Roman](https://twitter.com/Dmiterko_Roman "Рома")
 
-RT <a href="https://twitter.com/ALF_er" title="Illia Segeda">@ALF_er</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я имел ввиду <a href="https://twitter.com/asolovyov" title="Alexander Solovyov">@asolovyov</a> =) aka "чик-чик и в продакшин"
+RT [@ALF_er](https://twitter.com/ALF_er "Illia Segeda"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я имел ввиду [@asolovyov](https://twitter.com/asolovyov "Alexander Solovyov") =) aka "чик-чик и в продакшин"
 
 Расскажите о каком-нибудь одном вашем опен-сорс JS проекте. Не важно, если нету звездочек. «Зачем» и ссылка. Го?
 
-RT <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> очень интересует "state management". я пока не въехал в концепт stateless stores. хочется понять весь жизнен…
+RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") очень интересует "state management". я пока не въехал в концепт stateless stores. хочется понять весь жизнен…
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Переводы фронтэнд (в том числе и JS) статей с неанглийского на английский <a href="http://t.co/iTgyUVefR4">frontendbabel.info</a> Чтобы мир узна…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Переводы фронтэнд (в том числе и JS) статей с неанглийского на английский [frontendbabel.info](http://t.co/iTgyUVefR4 "http://frontendbabel.info/") Чтобы мир узна…
 
-RT <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кстати, он проводил лекции по JS,  и говорит что язык дает мало, а архитектура много
+RT [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кстати, он проводил лекции по JS,  и говорит что язык дает мало, а архитектура много
 
-RT <a href="https://twitter.com/edjafarov" title="Eldar Djafarov ッ">@edjafarov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> PromisePipe-кросс процессные стримы,отделяют логику от взаимодествия между энвми <a href="https://t.co/R6WQ5ZbQVZ">github.com/edjafarov/Prom…</a> http:/<a href="http://t.co/skwITTyFeh">pic.twitter.com/skwITTyFeh</a>
+RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") PromisePipe-кросс процессные стримы,отделяют логику от взаимодествия между энвми [github.com/edjafarov/Prom…](https://t.co/R6WQ5ZbQVZ "https://github.com/edjafarov/PromisePipe") http:/[pic.twitter.com/skwITTyFeh](http://t.co/skwITTyFeh)
 
-RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> клиент-сайд мокки для superagent, чтобы не ждать бекенд и не добавлять в проект мок-серверы на ноде — http<a href="https://t.co/l8ZggpQ7y8">github.com/rambler-digita…</a>
+RT [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") клиент-сайд мокки для superagent, чтобы не ждать бекенд и не добавлять в проект мок-серверы на ноде — http[github.com/rambler-digita…](https://t.co/l8ZggpQ7y8 "https://github.com/rambler-digital-solutions/superagent-mocker")
 
-RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Плагин для eslint чтобы писать js по Крокфорду <a href="https://t.co/b3B3b5QEqV">github.com/idmitriev/esli…</a>
+RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Плагин для eslint чтобы писать js по Крокфорду [github.com/idmitriev/esli…](https://t.co/b3B3b5QEqV "https://github.com/idmitriev/eslint-plugin-better")
 
 Самая интересная статья / доклад / лекция 2014-2015 года по вашей версии?
 
-Расскажи. Once you go black you never go back? <a href="https://twitter.com/nikitonsky" title="Nikita Prokopov">@nikitonsky</a>
+Расскажи. Once you go black you never go back? [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov")
 
-RT <a href="https://twitter.com/wtfil" title="Фил">@wtfil</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> приложение для зацикливания отдельных кусков песни (полезно для начинающих музыкантов)
-<a href="https://t.co/tsf4QxZiGi">github.com/wtfil/song-loo…</a>
+RT [@wtfil](https://twitter.com/wtfil "Фил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") приложение для зацикливания отдельных кусков песни (полезно для начинающих музыкантов)
+[github.com/wtfil/song-loo…](https://t.co/tsf4QxZiGi "https://github.com/wtfil/song-looper")
 
-RT <a href="https://twitter.com/mlfrg" title="Alexey Taktarov">@mlfrg</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> Конечные поля и кольца на JS <a href="http://t.co/XsZN93WDz7">molefrog.com/rye/</a> (чтобы строить красивые картинки 😊<a href="http://t.co/MNghJe4k0W">molefrog.com/rye/demo/galoi…</a>…
+RT [@mlfrg](https://twitter.com/mlfrg "Alexey Taktarov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") Конечные поля и кольца на JS [molefrog.com/rye/](http://t.co/XsZN93WDz7 "http://molefrog.com/rye/") (чтобы строить красивые картинки 😊[molefrog.com/rye/demo/galoi…](http://t.co/MNghJe4k0W "http://molefrog.com/rye/demo/galois/")…
 
-Моя любимая — вот эта. «База данных шиворот навыворот.» <a href="http://t.co/zB6WBihQlE">blog.confluent.io/2015/03/04/tur…</a>
+Моя любимая — вот эта. «База данных шиворот навыворот.» [blog.confluent.io/2015/03/04/tur…](http://t.co/zB6WBihQlE "http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/")
 
-RT <a href="https://twitter.com/asolovyov" title="Alexander Solovyov">@asolovyov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я знаю ClojureScript и знаю тех, кто знает ClojureScript. :-)
+RT [@asolovyov](https://twitter.com/asolovyov "Alexander Solovyov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я знаю ClojureScript и знаю тех, кто знает ClojureScript. :-)
 
-RT <a href="https://twitter.com/asolovyov" title="Alexander Solovyov">@asolovyov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> люди всегда важнее всего, имхо, но качество языка вообще % на 60-70 это коммьюнити и экосистема. А так, конечно…
+RT [@asolovyov](https://twitter.com/asolovyov "Alexander Solovyov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") люди всегда важнее всего, имхо, но качество языка вообще % на 60-70 это коммьюнити и экосистема. А так, конечно…
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Social Coding Contract by <a href="https://twitter.com/searls" title="Justin Searls">@searls</a> <a href="http://t.co/SOE9SWGHIB">blog.testdouble.com/posts/2014-12-…</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Social Coding Contract by [@searls](https://twitter.com/searls "Justin Searls") [blog.testdouble.com/posts/2014-12-…](http://t.co/SOE9SWGHIB "http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html")
 
-RT <a href="https://twitter.com/nikitonsky" title="Nikita Prokopov">@nikitonsky</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вот например <a href="http://t.co/tkramypjZv">tonsky.livejournal.com/284511.html</a>
+RT [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот например [tonsky.livejournal.com/284511.html](http://t.co/tkramypjZv "http://tonsky.livejournal.com/284511.html")
 
 Что используете в основном проекте? ES5? ES6? ES6 + experimental ES7ish extensions?
 
-RT <a href="https://twitter.com/andrepolischuk" title="Andrey Polischuk">@andrepolischuk</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Манипуляции со словами после числительных <a href="https://t.co/tz60Hnu6ms">github.com/andrepolischuk…</a>
+RT [@andrepolischuk](https://twitter.com/andrepolischuk "Andrey Polischuk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Манипуляции со словами после числительных [github.com/andrepolischuk…](https://t.co/tz60Hnu6ms "https://github.com/andrepolischuk/numd")
 
-RT <a href="https://twitter.com/aluuu" title="Усиление и Манатан">@aluuu</a>: <a href="https://twitter.com/asolovyov" title="Alexander Solovyov">@asolovyov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> мда, хитро) Что на счёт Elm думаете, кстати? Стали бы в тащить в проект, если человек из команды захотел…
+RT [@aluuu](https://twitter.com/aluuu "Усиление и Манатан"): [@asolovyov](https://twitter.com/asolovyov "Alexander Solovyov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мда, хитро) Что на счёт Elm думаете, кстати? Стали бы в тащить в проект, если человек из команды захотел…
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 Извлечение свойств md-статей: заголовок, дата, описание, контент.
 Чтобы не писать YAML, как в jekyll.
-https://<a href="https://t.co/9QHs0NTf7J">npmjs.com/package/articl…</a>
+https://[npmjs.com/package/articl…](https://t.co/9QHs0NTf7J "https://www.npmjs.com/package/article-data")
 
-RT <a href="https://twitter.com/lazzy_panda" title="Dmitry Maslov">@lazzy_panda</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Web component для отображение github's gists на Polymer <a href="https://t.co/7UgD6MPq3B">github.com/dmaslov/github…</a>
+RT [@lazzy_panda](https://twitter.com/lazzy_panda "Dmitry Maslov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Web component для отображение github's gists на Polymer [github.com/dmaslov/github…](https://t.co/7UgD6MPq3B "https://github.com/dmaslov/github-gist")
 
-RT <a href="https://twitter.com/forever_frey" title="Forever Frey">@forever_frey</a>: <a href="https://twitter.com/lisovskyvlad" title="Влад Лисовский">@lisovskyvlad</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> попробуй, вдруг взлетит
+RT [@forever_frey](https://twitter.com/forever_frey "Forever Frey"): [@lisovskyvlad](https://twitter.com/lisovskyvlad "Влад Лисовский") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") попробуй, вдруг взлетит
 
-RT <a href="https://twitter.com/beshkenadze" title="Александр Бешкенадзе">@beshkenadze</a>: Кто чем пользуется для отслеживания JS ошибок на проде? Сервисы? Библиотеки?
-/сс <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): Кто чем пользуется для отслеживания JS ошибок на проде? Сервисы? Библиотеки?
+/сс [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://t.co/X4nbDN0iso">github.com/sudodoki/copy-…</a> - кнопка-компонент для копирования в буфер. Чтоб без флеша. Для nodeschool <a href="https://t.co/ysjREselx6">github.com/nodeschool/nod…</a>
+RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/sudodoki/copy-…](https://t.co/X4nbDN0iso "https://github.com/sudodoki/copy-button") - кнопка-компонент для копирования в буфер. Чтоб без флеша. Для nodeschool [github.com/nodeschool/nod…](https://t.co/ysjREselx6 "https://github.com/nodeschool/nodeschool.github.io/issues/145")
 
-RT <a href="https://twitter.com/alxe_master" title="Александр Пасынков">@alxe_master</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> gruntO оптимизатор структуры Биллд процесса <a href="https://t.co/Xy03RC5g8t">github.com/aliaksandr-pas…</a>
+RT [@alxe_master](https://twitter.com/alxe_master "Александр Пасынков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") gruntO оптимизатор структуры Биллд процесса [github.com/aliaksandr-pas…](https://t.co/Xy03RC5g8t "https://github.com/aliaksandr-pasynkau/grunto")
 
-RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> babel с es7
+RT [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") babel с es7
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> по ходу все самые хорошие разработчики не работают. Я вот вышел на работу и не знаю, хорошая ли это …
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") по ходу все самые хорошие разработчики не работают. Я вот вышел на работу и не знаю, хорошая ли это …
 
 Я пойду стричься, подумаю над темами на неделю. Кидайте еще, о чем хотите поговорить. Можно в личку если что-то скользкое.
 
@@ -169,11 +169,11 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 Давайте сегодня поговорим про стили. BEM-именование уже стало мейнстримом, правда? А видели ли вы CSS Modules?
 
-Например, есть мнение, что BEM — конечно, здорово, но это как неймспейсы в ES5 без модулей. А нужны-то модули. <a href="https://t.co/dplFa6lrmm">medium.com/seek-ui-engine…</a>
+Например, есть мнение, что BEM — конечно, здорово, но это как неймспейсы в ES5 без модулей. А нужны-то модули. [medium.com/seek-ui-engine…](https://t.co/dplFa6lrmm "https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284")
 
-Есть еще мнение, что CSS — это просто еще один compile target, а язык описания должен быть один — JS и компоненты. <a href="https://t.co/QauoDiC9mu">github.com/petehunt/jsxst…</a>
+Есть еще мнение, что CSS — это просто еще один compile target, а язык описания должен быть один — JS и компоненты. [github.com/petehunt/jsxst…](https://t.co/QauoDiC9mu "https://github.com/petehunt/jsxstyle")
 
-Скажем, <a href="https://twitter.com/andreysitnik" title="Andrey Sitnik">@andreysitnik</a> любит CSS. Именно как язык/синтаксис. А <a href="https://twitter.com/jashkenas" title="Jeremy Ashkenas">@jashkenas</a> считает, что вебу не нужно три языка. <a href="https://t.co/2gS08oT3SL">youtu.be/DspYurD75Ns?t=…</a>
+Скажем, [@andreysitnik](https://twitter.com/andreysitnik "Andrey Sitnik") любит CSS. Именно как язык/синтаксис. А [@jashkenas](https://twitter.com/jashkenas "Jeremy Ashkenas") считает, что вебу не нужно три языка. [youtu.be/DspYurD75Ns?t=…](https://t.co/2gS08oT3SL "https://youtu.be/DspYurD75Ns?t=39m")
 
 Что именно в Webpack значит require('./something.css')? Идея в том, что это никак не отличается от require('./something.coffee') и т.п.
 
@@ -187,123 +187,123 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 Зато с явными зависимостями не бывает мертвых стилей, файлов, которые боишься убрать, или watch('**/*.css'). Потому что всё явно, как в JS.
 
-Это простейший вариант. Более умная трансформация может возвращать объект вида { attach(), detach() }. <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
+Это простейший вариант. Более умная трансформация может возвращать объект вида { attach(), detach() }. [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev")
 
-RT <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> переписал свой сайт с CSS Modules. Полет отличный.
+RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") переписал свой сайт с CSS Modules. Полет отличный.
 
-RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> webpack postcss local-scope
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") webpack postcss local-scope
 bem ужасен, по-моему, потому что пытается решать не те проблемы и не теми методами
 
-RT <a href="https://twitter.com/bem_xxx" title="БЭМ">@bem_xxx</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> БЭМ это не только лишь CSS!
+RT [@bem_xxx](https://twitter.com/bem_xxx "БЭМ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") БЭМ это не только лишь CSS!
 
-RT <a href="https://twitter.com/dmitry_dok" title="dmitry">@dmitry_dok</a>: <a href="https://twitter.com/bem_xxx" title="БЭМ">@bem_xxx</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> БЭМ это обмен файлами. БЭМ это гигабайты свежей информации. БЭМ это общение. БЭМ это рост. БЭМ это св…
+RT [@dmitry_dok](https://twitter.com/dmitry_dok "dmitry"): [@bem_xxx](https://twitter.com/bem_xxx "БЭМ") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") БЭМ это обмен файлами. БЭМ это гигабайты свежей информации. БЭМ это общение. БЭМ это рост. БЭМ это св…
 
-RT <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a>: <a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> изоляция на уровне сборки, простые наименования классов, все локальное, sourcemaps можно подрубить.
+RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") изоляция на уровне сборки, простые наименования классов, все локальное, sourcemaps можно подрубить.
 
-Конечно, лучшее в CSS Modules — это их лого. <a href="https://t.co/PkmczUu0lU">github.com/css-modules/cs…</a> <a href="http://t.co/7nAR6Fzi69">pic.twitter.com/7nAR6Fzi69</a>
+Конечно, лучшее в CSS Modules — это их лого. [github.com/css-modules/cs…](https://t.co/PkmczUu0lU "https://github.com/css-modules/css-modules") [pic.twitter.com/7nAR6Fzi69](http://t.co/7nAR6Fzi69)
 
-Конечно, CSS-в-JS еще сыро. Но нельзя отмахнуться, что проблема надуманная. Семь грехов CSS: <a href="https://t.co/82AUb01zbT">speakerdeck.com/vjeux/react-cs…</a> <a href="http://t.co/QkFGneJL8r">pic.twitter.com/QkFGneJL8r</a>
+Конечно, CSS-в-JS еще сыро. Но нельзя отмахнуться, что проблема надуманная. Семь грехов CSS: [speakerdeck.com/vjeux/react-cs…](https://t.co/82AUb01zbT "https://speakerdeck.com/vjeux/react-css-in-js") [pic.twitter.com/QkFGneJL8r](http://t.co/QkFGneJL8r)
 
-RT <a href="https://twitter.com/agudulin" title="Alexander Gudulin">@agudulin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на мотив css is awesome, надо полагать <a href="http://t.co/naWrQfYheo">pic.twitter.com/naWrQfYheo</a>
+RT [@agudulin](https://twitter.com/agudulin "Alexander Gudulin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на мотив css is awesome, надо полагать [pic.twitter.com/naWrQfYheo](http://t.co/naWrQfYheo)
 
-Как BEM, компоненты и зависимости-в-JS дополняют друг друга: <a href="https://t.co/2N304i9tck">medium.com/seek-ui-engine…</a>. Этот пост — прелюдия к CSS Modules.
+Как BEM, компоненты и зависимости-в-JS дополняют друг друга: [medium.com/seek-ui-engine…](https://t.co/2N304i9tck "https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b"). Этот пост — прелюдия к CSS Modules.
 
-RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://t.co/1Wz19PUvbE">github.com/MicheleBertoli…</a>
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/MicheleBertoli…](https://t.co/1Wz19PUvbE "https://github.com/MicheleBertoli/css-in-js")
 колонка autoprefixer included
 
-RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> my bad, я отстал от жизни
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") my bad, я отстал от жизни
 Создатель postcss-local-scope задепрекейтил его в пользу развития css modules
-https://t<a href="https://t.co/397l2LwP6B">github.com/markdalgleish/…</a>
+https://t[github.com/markdalgleish/…](https://t.co/397l2LwP6B "https://github.com/markdalgleish/postcss-local-scope-example")
 
-Быстрый ответ — после Webpack для меня пропала необходимость в Grunt/Gulp. В Browserify нет Hot Module Replacement :-( <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>
+Быстрый ответ — после Webpack для меня пропала необходимость в Grunt/Gulp. В Browserify нет Hot Module Replacement :-( [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk")
 
 Давайте поговорим про деньги и фронтэнд. Что вы делаете, и сколько вы зарабатываете? Можно в личку или с throwaways — я размещу анонимно.
 
-По поводу <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a> — только что открыл DM для всех, пишите.
+По поводу [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968") — только что открыл DM для всех, пишите.
 
-Анонимно: спб, тимлид/разработчик, энтерпрайз + разработчик кода встраивающегося на сторонние сайты. ~=150к чистыми <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Анонимно: спб, тимлид/разработчик, энтерпрайз + разработчик кода встраивающегося на сторонние сайты. ~=150к чистыми [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/oleg008" title="Oleg Slobodskoi">@oleg008</a>: <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а я вот считаю что мы ничего не теряем) мы используем более гибкий язык который частично уже добавляетс…
+RT [@oleg008](https://twitter.com/oleg008 "Oleg Slobodskoi"): [@suevalov](https://twitter.com/suevalov "Alexander Suevalov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а я вот считаю что мы ничего не теряем) мы используем более гибкий язык который частично уже добавляетс…
 
-<a href="https://t.co/eelqicvjtV">github.com/petehunt/webpa…</a>, <a href="https://t.co/pTpwb1l8mN">christianalfoni.github.io/react-webpack-…</a> <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> <a href="https://twitter.com/dzhiriki" title="Aleksandr Petrov">@dzhiriki</a> <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a>
+[github.com/petehunt/webpa…](https://t.co/eelqicvjtV "https://github.com/petehunt/webpack-howto"), [christianalfoni.github.io/react-webpack-…](https://t.co/pTpwb1l8mN "https://christianalfoni.github.io/react-webpack-cookbook/") [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@dzhiriki](https://twitter.com/dzhiriki "Aleksandr Petrov") [@suevalov](https://twitter.com/suevalov "Alexander Suevalov")
 
-Фронтэнд клиентской админки в немаленькой компании (~200 чел. персонала, посещаемость 1м/мес) на хитром стеке. 110к. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Фронтэнд клиентской админки в немаленькой компании (~200 чел. персонала, посещаемость 1м/мес) на хитром стеке. 110к. [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Уточнение: Москва
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Уточнение: Москва
 
-Еще есть <a href="http://t.co/CtCuh3Y0UJ">survivejs.com/webpack_react/</a> — очень хороший ресурс. <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> <a href="https://twitter.com/dzhiriki" title="Aleksandr Petrov">@dzhiriki</a> <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a>
+Еще есть [survivejs.com/webpack_react/](http://t.co/CtCuh3Y0UJ "http://survivejs.com/webpack_react/") — очень хороший ресурс. [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@dzhiriki](https://twitter.com/dzhiriki "Aleksandr Petrov") [@suevalov](https://twitter.com/suevalov "Alexander Suevalov")
 
-Толстый клиент, компания 6 человек в Европе, 90к евро в год, 55% налоги :/ <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Толстый клиент, компания 6 человек в Европе, 90к евро в год, 55% налоги :/ [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я сижу на зарплате 800$/мес. мне хватает. но после чата dev-ua/frontend-jobs я понял что это почти плинтус. п…
+RT [@rastopyr_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я сижу на зарплате 800$/мес. мне хватает. но после чата dev-ua/frontend-jobs я понял что это почти плинтус. п…
 
 Напоминаю, что сегодня я ретвичу и публикую зарплаты фронтэндеров и фронтэндщиц. Пишите анонимно в DM.
 
-200k рублей. Удаленка, тимлид, фронт+бек. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+200k рублей. Удаленка, тимлид, фронт+бек. [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/justjsdev" title="Just Some Developer">@justjsdev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Недавно ходил по собеседованиям с Angular+D3 и прочим js. С опытом бэкэнда и аналитики получил предложения 150 …
+RT [@justjsdev](https://twitter.com/justjsdev "Just Some Developer"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Недавно ходил по собеседованиям с Angular+D3 и прочим js. С опытом бэкэнда и аналитики получил предложения 150 …
 
-RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> напоминает «нужна только Java», «нужен только XML». Это не будет работать, так как мы должны оптмизировать …
+RT [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") напоминает «нужна только Java», «нужен только XML». Это не будет работать, так как мы должны оптмизировать …
 
-RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>: <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> почему бы не взять ближайший turing-complete язык (js) для этого
+RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему бы не взять ближайший turing-complete язык (js) для этого
 
-Питер, джуниор, 60 <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Питер, джуниор, 60 [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-Голландия, фронтенд тимлид: 3900€/мес после налогов <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Голландия, фронтенд тимлид: 3900€/мес после налогов [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>: <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> jsx это это internal dsl, против CSS который external DSL. См. <a href="http://t.co/SCuPQ1B8r1">gbracha.blogspot.cz/2014/09/a-doma…</a>
+RT [@andreypopp](https://twitter.com/andreypopp "Andrey Popp"): [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") jsx это это internal dsl, против CSS который external DSL. См. [gbracha.blogspot.cz/2014/09/a-doma…](http://t.co/SCuPQ1B8r1 "http://gbracha.blogspot.cz/2014/09/a-domain-of-shadows.html?m=1")
 
-начинал с джуниора в 45 <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+начинал с джуниора в 45 [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
 Раз уж пошла такая пьянка, есть ли что-то, что вы бы хотели донести до своих коллег? (Анонимно. Я удаляю DM-ы по мере получения.)
 
-RT <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> скучаешь без secret?
+RT [@andreypopp](https://twitter.com/andreypopp "Andrey Popp"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") скучаешь без secret?
 
-Фронт, backbone, западный клиент, удалённо, около 1300-1500 евро брутто, по часам начисляется <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Фронт, backbone, западный клиент, удалённо, около 1300-1500 евро брутто, по часам начисляется [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-Провинция, тимлид, только фронтенд, опыт бекенд + аналитика, 100К чистыми <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Провинция, тимлид, только фронтенд, опыт бекенд + аналитика, 100К чистыми [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-Надо и на js уже внедрять тестирование <a href="https://t.co/apEluqo3lJ">twitter.com/jsunderhood/st…</a>
+Надо и на js уже внедрять тестирование [twitter.com/jsunderhood/st…](https://t.co/apEluqo3lJ "https://twitter.com/jsunderhood/status/613379086954663936")
 
-Интересно поговорить кто сколько спит и какая при этом производительность труда;) <a href="https://t.co/apEluqo3lJ">twitter.com/jsunderhood/st…</a>
+Интересно поговорить кто сколько спит и какая при этом производительность труда;) [twitter.com/jsunderhood/st…](https://t.co/apEluqo3lJ "https://twitter.com/jsunderhood/status/613379086954663936")
 
-RT <a href="https://twitter.com/akrekotun" title="Alexey Krekotun">@akrekotun</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> но чем раньше ложусь, тем меньше сплю
+RT [@akrekotun](https://twitter.com/akrekotun "Alexey Krekotun"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") но чем раньше ложусь, тем меньше сплю
 
 Расскажите, как вы организуете управление стейтом в JS-приложении. MVC? Flux? Rx? Что-то новое?
 
-RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Flux, но со Swarm.js это начинает выглядеть странно
+RT [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Flux, но со Swarm.js это начинает выглядеть странно
 
-Тимлид, фронт, реакт, бекбон, опыт фуллстека, 120. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Тимлид, фронт, реакт, бекбон, опыт фуллстека, 120. [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
 Уточнение: Москва
 
-Питер, front-end тимлид, 3000$/мес <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Питер, front-end тимлид, 3000$/мес [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/zemlanin" title="Anton Verinov">@zemlanin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Нечто flux-подобное на Rx-потоках
+RT [@zemlanin](https://twitter.com/zemlanin "Anton Verinov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Нечто flux-подобное на Rx-потоках
 
-Frontend-архитектор. UX/UI, development management, workflow automation, fullstack, ±devops. 10 лет, Красноярск, 50к <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Frontend-архитектор. UX/UI, development management, workflow automation, fullstack, ±devops. 10 лет, Красноярск, 50к [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/knaipa" title="Хунтовий Правосектан">@knaipa</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Винница, Фриланс - верстка + ВП. 1000
+RT [@knaipa](https://twitter.com/knaipa "Хунтовий Правосектан"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Винница, Фриланс - верстка + ВП. 1000
 
-RT <a href="https://twitter.com/MaStep92" title="Maxim Bordyuzha">@MaStep92</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Заметил по себе, что норма 8 часов.Если меньше, то после обеда уже зеваю и производительность хромает.
+RT [@MaStep92](https://twitter.com/MaStep92 "Maxim Bordyuzha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Заметил по себе, что норма 8 часов.Если меньше, то после обеда уже зеваю и производительность хромает.
 
-RT <a href="https://twitter.com/suevalov" title="Alexander Suevalov">@suevalov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на React - Flummox, попробовал Redux. На Angular все плохо. По крайней мере так кажется после React :)
+RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на React - Flummox, попробовал Redux. На Angular все плохо. По крайней мере так кажется после React :)
 
-RT <a href="https://twitter.com/MaStep92" title="Maxim Bordyuzha">@MaStep92</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Не верю в рассказы, что можно спать по 4 часа и быть продуктивным)
+RT [@MaStep92](https://twitter.com/MaStep92 "Maxim Bordyuzha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не верю в рассказы, что можно спать по 4 часа и быть продуктивным)
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ванильный Flux. FTW!
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ванильный Flux. FTW!
 
-RT <a href="https://twitter.com/dmitruksergey" title="Serhii Dmytruk">@dmitruksergey</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> сплю ~8 часов, по 3 силовых и беговых тренировки в неделю. Работается тоже хорошо :-)
+RT [@dmitruksergey](https://twitter.com/dmitruksergey "Serhii Dmytruk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сплю ~8 часов, по 3 силовых и беговых тренировки в неделю. Работается тоже хорошо :-)
 
-RT <a href="https://twitter.com/_cloudo" title="Cloudo">@_cloudo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ractive -&gt; ractive + flummox -&gt; react + flummox
+RT [@_cloudo](https://twitter.com/_cloudo "Cloudo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ractive -&gt; ractive + flummox -&gt; react + flummox
 
-RT <a href="https://twitter.com/discopalevo" title="discopalevo">@discopalevo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> flux+immutable rx тоже есть но на 99% используется просто как EventEmmiter
+RT [@discopalevo](https://twitter.com/discopalevo "discopalevo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") flux+immutable rx тоже есть но на 99% используется просто как EventEmmiter
 
-RT <a href="https://twitter.com/dimchez" title="Dmitry Demyankov">@dimchez</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> используем React + Reflux
+RT [@dimchez](https://twitter.com/dimchez "Dmitry Demyankov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") используем React + Reflux
 
-RT <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> crdt можно представить как свёртку (reduce) операций ;) <a href="http://t.co/SEQ5VplCdR">gsd.di.uminho.pt/members/cbm/ps…</a> см. там eval(op,…
+RT [@andreypopp](https://twitter.com/andreypopp "Andrey Popp"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") crdt можно представить как свёртку (reduce) операций ;) [gsd.di.uminho.pt/members/cbm/ps…](http://t.co/SEQ5VplCdR "http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf") см. там eval(op,…
 
-К слову об управлении стейтом. Три недели назад я начал писать новую библиотеку. Она называется Redux. <a href="http://t.co/Hs495FLBeQ">github.com/gaearon/redux</a>
+К слову об управлении стейтом. Три недели назад я начал писать новую библиотеку. Она называется Redux. [github.com/gaearon/redux](http://t.co/Hs495FLBeQ "http://github.com/gaearon/redux")
 
 Я не люблю изобретать велосипед, но не нашел другого пути. У меня было три цели.
 
@@ -315,643 +315,643 @@ RT <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>:
 
 Я буду рассказывать про Redux в своем докладе на React Europe в июле. В этом треде готов отвечать на вопросы. )
 
-мск, в трудовой "верстальщик", федеральный ритейл, пилю внутренние системы на ExtJS,100к р/мес на руки с премиями <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+мск, в трудовой "верстальщик", федеральный ритейл, пилю внутренние системы на ExtJS,100к р/мес на руки с премиями [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Redux клевый по первому опыту. Но крайне жаль, что мейнтейнер Flummox'а отказался его развивать дальше. Из-за вых…
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Redux клевый по первому опыту. Но крайне жаль, что мейнтейнер Flummox'а отказался его развивать дальше. Из-за вых…
 
-RT <a href="https://twitter.com/oliveroppole" title="Oliver Oppole">@oliveroppole</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Киев, синьор фронтенд-разработчик в аутсорсинге, не тимлид. $5500 чистыми в месяц после налогов.
+RT [@oliveroppole](https://twitter.com/oliveroppole "Oliver Oppole"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Киев, синьор фронтенд-разработчик в аутсорсинге, не тимлид. $5500 чистыми в месяц после налогов.
 
-Они даже не содержат её. То что во Flux хранилища, в Redux — чистые функции. (previousState, action) =&gt; nextState <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>
+Они даже не содержат её. То что во Flux хранилища, в Redux — чистые функции. (previousState, action) =&gt; nextState [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov")
 
-RT <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>: <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> хранилища как data reducers — это очень хорошая штука, имхо
+RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") хранилища как data reducers — это очень хорошая штука, имхо
 
-Я взял эту идею из Elm. <a href="https://t.co/VAfM3wu28O">github.com/evancz/elm-arc…</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>
+Я взял эту идею из Elm. [github.com/evancz/elm-arc…](https://t.co/VAfM3wu28O "https://github.com/evancz/elm-architecture-tutorial#the-basic-pattern") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov")
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а тот из Haskell. XMonad по такому же принципу построен. <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а тот из Haskell. XMonad по такому же принципу построен. [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov")
 
-RT <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>: <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> возможно такие хранилища не стоит называть хранилищами :)
+RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") возможно такие хранилища не стоит называть хранилищами :)
 
-RT <a href="https://twitter.com/23ydobemos" title="Ilya Zayats">@23ydobemos</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> есть какой-либо roadmap? Примерная дата 1.0?
+RT [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть какой-либо roadmap? Примерная дата 1.0?
 
-RT <a href="https://twitter.com/zemlanin" title="Anton Verinov">@zemlanin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> Я в своих pet-проектах использую rxStream.scan(f) для стейта. Потом подписал на это s…
+RT [@zemlanin](https://twitter.com/zemlanin "Anton Verinov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") Я в своих pet-проектах использую rxStream.scan(f) для стейта. Потом подписал на это s…
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> глупость. Флакс — всего лишь паттерн. Кто мешает написать только имплементацию сторов с нужными…
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") глупость. Флакс — всего лишь паттерн. Кто мешает написать только имплементацию сторов с нужными…
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://t.co/3Wzjy6fjFs">github.com/alexeyraspopov…</a> все те же редьюсеры. У стора есть метод, которым можно напихать в него …
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [github.com/alexeyraspopov…](https://t.co/3Wzjy6fjFs "https://github.com/alexeyraspopov/flux-stateful#immutable-pure-stores") все те же редьюсеры. У стора есть метод, которым можно напихать в него …
 
-RT <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я правильно понимаю, что в redux есть некий global state, содержащий все данные приложения, который использу…
+RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я правильно понимаю, что в redux есть некий global state, содержащий все данные приложения, который использу…
 
-Senior Frontend Engineer, Киев, 35$/час, в месяц до 6к$ <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Senior Frontend Engineer, Киев, 35$/час, в месяц до 6к$ [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-Да. В Redux я это делаю, парадоксально, через «лифтинг» экшнов, higher-order reducer и «анлифтинг» стейта <a href="https://t.co/L2WHxGYmOl">github.com/gaearon/redux/…</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Да. В Redux я это делаю, парадоксально, через «лифтинг» экшнов, higher-order reducer и «анлифтинг» стейта [github.com/gaearon/redux/…](https://t.co/L2WHxGYmOl "https://github.com/gaearon/redux/issues/113#issuecomment-114049804") [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-RT <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> все ходим вокруг одного (state,action) -&gt;state <a href="https://t.co/dBfTVhH347">goo.gl/1kUAf0</a>  demo https<a href="https://t.co/dBfTVhH347">goo.gl/1kUAf0</a>
+RT [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") все ходим вокруг одного (state,action) -&gt;state [goo.gl/1kUAf0](https://t.co/dBfTVhH347 "https://goo.gl/1kUAf0")  demo https[goo.gl/1kUAf0](https://t.co/dBfTVhH347 "https://goo.gl/1kUAf0")
 
-RT <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> поправочка демка тут - <a href="http://t.co/U3Vuh6JpUr">goo.gl/er5j6y</a>
+RT [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") поправочка демка тут - [goo.gl/er5j6y](http://t.co/U3Vuh6JpUr "http://goo.gl/er5j6y")
 
-RT <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как в redux происходит коммуникация с сервером? например во flummox за это отвечают экшены, но меня это инту…
+RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как в redux происходит коммуникация с сервером? например во flummox за это отвечают экшены, но меня это инту…
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> и вообще весь ваш data flow — пару строчек кода :D <a href="http://t.co/RTctU4NokI">pic.twitter.com/RTctU4NokI</a>
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") и вообще весь ваш data flow — пару строчек кода :D [pic.twitter.com/RTctU4NokI](http://t.co/RTctU4NokI)
 
-Зло — не global state, зло — mutable global state. :-) <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+Зло — не global state, зло — mutable global state. :-) [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> слайд взят отсюда (<a href="http://t.co/7ofP2FVVNf">alexeyraspopov.github.io/talks/what-the…</a>), вдруг будет интересным.
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") слайд взят отсюда ([alexeyraspopov.github.io/talks/what-the…](http://t.co/7ofP2FVVNf "http://alexeyraspopov.github.io/talks/what-the-flux/")), вдруг будет интересным.
 
-Это лучшая пареза про Flux, что я до сих пор видел — by <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> <a href="http://t.co/jOixPk2uki">alexeyraspopov.github.io/talks/what-the…</a> <a href="http://t.co/L3KIY1QPkW">pic.twitter.com/L3KIY1QPkW</a>
+Это лучшая пареза про Flux, что я до сих пор видел — by [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [alexeyraspopov.github.io/talks/what-the…](http://t.co/jOixPk2uki "http://alexeyraspopov.github.io/talks/what-the-flux/") [pic.twitter.com/L3KIY1QPkW](http://t.co/L3KIY1QPkW)
 
-RT <a href="https://twitter.com/safrankov" title="Il'ya Safrankov ">@safrankov</a>: Читаю <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> и немного охреневаю от уровня зп у фронтендеров. Давно надо было валить с текущего места.
+RT [@safrankov](https://twitter.com/safrankov "Il'ya Safrankov "): Читаю [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и немного охреневаю от уровня зп у фронтендеров. Давно надо было валить с текущего места.
 
-RT <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> выглядит отлично, нужно поиграться с этим подходом. Спасибо
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") выглядит отлично, нужно поиграться с этим подходом. Спасибо
 
-RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>: <a href="https://twitter.com/safrankov" title="Il'ya Safrankov ">@safrankov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> такие же ощущения, только про технологии. Как будто все уже сменили пару версий всевозможных ***u…
+RT [@_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@safrankov](https://twitter.com/safrankov "Il'ya Safrankov ") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") такие же ощущения, только про технологии. Как будто все уже сменили пару версий всевозможных ***u…
 
-Скорее нет. Смотря что ты имеешь в виду. Экшн — просто данные о том, «что случилось».  <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+Скорее нет. Смотря что ты имеешь в виду. Экшн — просто данные о том, «что случилось».  [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-Стор (или редюсер в Redux) никогда не должен сам диспетчить экшны — только реагировать на них. <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+Стор (или редюсер в Redux) никогда не должен сам диспетчить экшны — только реагировать на них. [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-С другой стороны, ты можешь сделать функцию, которая диспетчит несколько экшнов. (Например, запрос и ответ сервера.) <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+С другой стороны, ты можешь сделать функцию, которая диспетчит несколько экшнов. (Например, запрос и ответ сервера.) [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-Потому что он не сохраняет преимуществ Flux. Нельзя сделать центральный логгинг, time travel, record/replay <a href="https://twitter.com/dimchez" title="Dmitry Demyankov">@dimchez</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>
+Потому что он не сохраняет преимуществ Flux. Нельзя сделать центральный логгинг, time travel, record/replay [@dimchez](https://twitter.com/dimchez "Dmitry Demyankov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov")
 
-RT <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> нуб-вопрос: может ли экшен вызвать другой экшен? допускает ли это flux-way или таких коммуникаций лучше избе…
+RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") нуб-вопрос: может ли экшен вызвать другой экшен? допускает ли это flux-way или таких коммуникаций лучше избе…
 
-Я об это пару месяцев голову ломал, трудно в цепочке твитов объяснить. Когда сами тулзы выпущу, будет понятнее. <a href="https://twitter.com/Chudesnov" title="散厦知">@Chudesnov</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
+Я об это пару месяцев голову ломал, трудно в цепочке твитов объяснить. Когда сами тулзы выпущу, будет понятнее. [@Chudesnov](https://twitter.com/Chudesnov "散厦知") [@roman01la](https://twitter.com/roman01la "Roman Liutikov")
 
-RT <a href="https://twitter.com/vdv73rus" title="Vislov Dmitry">@vdv73rus</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а ситуация когда стор ждёт другой стор (waitFor) нормальна или это проблема с архитектурой?
+RT [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а ситуация когда стор ждёт другой стор (waitFor) нормальна или это проблема с архитектурой?
 
-Про это хорошая дискуссия здесь: <a href="https://t.co/x9MskRHZcE">gist.github.com/gaearon/d77ca8…</a>. Я объясняю почему с редьюсерами это не проблема. <a href="https://twitter.com/vdv73rus" title="Vislov Dmitry">@vdv73rus</a>
+Про это хорошая дискуссия здесь: [gist.github.com/gaearon/d77ca8…](https://t.co/x9MskRHZcE "https://gist.github.com/gaearon/d77ca812015c0356654f"). Я объясняю почему с редьюсерами это не проблема. [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry")
 
-RT <a href="https://twitter.com/23ydobemos" title="Ilya Zayats">@23ydobemos</a>: Если судить по мини-опросу про зарплаты фронтенд-разработчиков в <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, то на заработки надо валить не в Европы, а в…
+RT [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats"): Если судить по мини-опросу про зарплаты фронтенд-разработчиков в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), то на заработки надо валить не в Европы, а в…
 
-В Redux ты сам решаешь, что использовать для моделей. Ему всё равно. ) Хочешь — immutable, хочешь plain objects или что еще. <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+В Redux ты сам решаешь, что использовать для моделей. Ему всё равно. ) Хочешь — immutable, хочешь plain objects или что еще. [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-RT <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> довольно успешно пишу код без Flux на Morearty с иммутабельностью. Почему в redux ты не используешь Immutable…
+RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") довольно успешно пишу код без Flux на Morearty с иммутабельностью. Почему в redux ты не используешь Immutable…
 
-Сигнатура — (state, action) =&gt; state. Ты можешь использовать всё что угодно в качестве state в своих редюсерах. <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+Сигнатура — (state, action) =&gt; state. Ты можешь использовать всё что угодно в качестве state в своих редюсерах. [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-RT <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тот же time travel отлично ложится на immutable структуры данных
+RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тот же time travel отлично ложится на immutable структуры данных
 
-Я согласен. Redux делает ассампшн что, что бы ты ни использовал, оно нигде не мутируется. <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+Я согласен. Redux делает ассампшн что, что бы ты ни использовал, оно нигде не мутируется. [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-По моему опыту достаточно просто использовать ES7 rest/spread syntax, чтобы не мутировать объекты/массивы. <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+По моему опыту достаточно просто использовать ES7 rest/spread syntax, чтобы не мутировать объекты/массивы. [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/23ydobemos" title="Ilya Zayats">@23ydobemos</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Уровень жизни ниже. Для того чтобы жить лучше, надо платить: за "элитную" квартиру, за машину, глот…
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Уровень жизни ниже. Для того чтобы жить лучше, надо платить: за "элитную" квартиру, за машину, глот…
 
-RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a> Тут холодно и темно!!! Но через 5 лет можно получить паспорт и валить на юг :-)
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin") Тут холодно и темно!!! Но через 5 лет можно получить паспорт и валить на юг :-)
 
-Если позовут куда, расскажу ) <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Если позовут куда, расскажу ) [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-Чтобы работало, надо { "stage": 1 } в .babelrc <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+Чтобы работало, надо { "stage": 1 } в .babelrc [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-Можно let { …rest, stuffIDontCareAbout } = stuff; return rest <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>
+Можно let { …rest, stuffIDontCareAbout } = stuff; return rest [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник")
 
-Завершаю сегодняшний поток добрым видео. Спокойной ночи! <a href="https://t.co/M7TD3kbl68">vimeo.com/88035957</a>
+Завершаю сегодняшний поток добрым видео. Спокойной ночи! [vimeo.com/88035957](https://t.co/M7TD3kbl68 "https://vimeo.com/88035957")
 
-Провинция, front end (angular) - 40к и это еще много. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Провинция, front end (angular) - 40к и это еще много. [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а не было желания написать свой роутер для реакта?
+RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а не было желания написать свой роутер для реакта?
 
-Мне нравится React Router. Он еще не совсем классный, но будет классный в 1.0. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
+Мне нравится React Router. Он еще не совсем классный, но будет классный в 1.0. [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov")
 
-Миксины опциональные, ты можешь использовать контекст напрямую. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
+Миксины опциональные, ты можешь использовать контекст напрямую. [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov")
 
-Роутер 1.0 будет легко "направлять" через Flux полностью, так что состояние может лежать в твоем сторе. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
+Роутер 1.0 будет легко "направлять" через Flux полностью, так что состояние может лежать в твоем сторе. [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov")
 
 ## Среда <small>40 твитов</small>
 
-Киев, пусть будет Senior, не лид, Node.js/React, $3.5k - 4% <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Киев, пусть будет Senior, не лид, Node.js/React, $3.5k - 4% [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-$3200 после налогов, React+Flux приложения для бэкенда ритэйловых сервисов <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+$3200 после налогов, React+Flux приложения для бэкенда ритэйловых сервисов [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-а можно как нить после митапа пойти не пиво пить, а взорвать косяк, да вообщем можно и до) <a href="https://t.co/apEluqo3lJ">twitter.com/jsunderhood/st…</a>
+а можно как нить после митапа пойти не пиво пить, а взорвать косяк, да вообщем можно и до) [twitter.com/jsunderhood/st…](https://t.co/apEluqo3lJ "https://twitter.com/jsunderhood/status/613379086954663936")
 
-RT <a href="https://twitter.com/i_told_ya" title="Isaev Igor">@i_told_ya</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> mvc и модели на основе <a href="https://t.co/mepRhCB9be">github.com/share/sharejs</a>, во снах снится что все переписал на flux
+RT [@i_told_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") mvc и модели на основе [github.com/share/sharejs](https://t.co/mepRhCB9be "https://github.com/share/sharejs"), во снах снится что все переписал на flux
 
-RT <a href="https://twitter.com/paulmillr" title="Paul Miller">@paulmillr</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> “до 6к” это занятная метрика. Если считать чистые часы на почасовке, то почти всегда будет меньше 130. У многих…
+RT [@paulmillr](https://twitter.com/paulmillr "Paul Miller"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") “до 6к” это занятная метрика. Если считать чистые часы на почасовке, то почти всегда будет меньше 130. У многих…
 
-RT <a href="https://twitter.com/chicoxyzzy" title="Sergey R">@chicoxyzzy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> зарелизился Nuclide от Facebook <a href="http://t.co/ylP1xYDGqg">nuclide.io</a>
+RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") зарелизился Nuclide от Facebook [nuclide.io](http://t.co/ylP1xYDGqg "http://nuclide.io/")
 
-RT <a href="https://twitter.com/8gene" title="Eugene">@8gene</a>: <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> (1 <a href="https://t.co/ojwYDZgU3E">github.com/evancz/elm-arc…</a>) (2 <a href="https://t.co/mAWMuTUAM7">github.com/slamdata/pures…</a>)  без синтетичних су…
+RT [@8gene](https://twitter.com/8gene "Eugene"): [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") (1 [github.com/evancz/elm-arc…](https://t.co/ojwYDZgU3E "https://github.com/evancz/elm-architecture-tutorial/")) (2 [github.com/slamdata/pures…](https://t.co/mAWMuTUAM7 "https://github.com/slamdata/purescript-halogen"))  без синтетичних су…
 
-RT <a href="https://twitter.com/8gene" title="Eugene">@8gene</a>: <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> типи допомагають зрозуміти що треба 2 стейт машини - для бізнес-логіки, і д…
+RT [@8gene](https://twitter.com/8gene "Eugene"): [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") типи допомагають зрозуміти що треба 2 стейт машини - для бізнес-логіки, і д…
 
-Асинхронный action creator может вернуть просим, например, чтобы компонент имел к нему доступ. <a href="https://twitter.com/victor_suzdalev" title="Victor Suzdalev">@victor_suzdalev</a> <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+Асинхронный action creator может вернуть просим, например, чтобы компонент имел к нему доступ. [@victor_suzdalev](https://twitter.com/victor_suzdalev "Victor Suzdalev") [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-Я же ни из кого не вытягиваю клещами. Погугли движение <a href="https://twitter.com/search?q=%23talkpay">#talkpay</a>. Знать ЗП на рынке — важно. <a href="https://twitter.com/konenkov" title="Sergey Konenkov">@konenkov</a>
+Я же ни из кого не вытягиваю клещами. Погугли движение [talkpay](https://twitter.com/search?q=%23talkpay). Знать ЗП на рынке — важно. [@konenkov](https://twitter.com/konenkov "Sergey Konenkov")
 
-RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/konenkov" title="Sergey Konenkov">@konenkov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да ну, узнать, чо почём, может, ты мало получаешь для своего стажа/позиции, география - вот это вот все
+RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@konenkov](https://twitter.com/konenkov "Sergey Konenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да ну, узнать, чо почём, может, ты мало получаешь для своего стажа/позиции, география - вот это вот все
 
-RT <a href="https://twitter.com/gryzzly" title="gryzzly">@gryzzly</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> every berlinjs I attended, до, во время и после.
+RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") every berlinjs I attended, до, во время и после.
 
-RT <a href="https://twitter.com/aluuu" title="Усиление и Манатан">@aluuu</a>: <a href="https://twitter.com/8gene" title="Eugene">@8gene</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a> <a href="https://twitter.com/MostovenkoA" title="Mostovenko Alexander">@MostovenkoA</a> <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a> боже мой, это же Elm, все в машину! <a href="http://t.co/mzeytmiq1q">youtube.com/watch?v=Agu6ji…</a>
+RT [@aluuu](https://twitter.com/aluuu "Усиление и Манатан"): [@8gene](https://twitter.com/8gene "Eugene") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [@MostovenkoA](https://twitter.com/MostovenkoA "Mostovenko Alexander") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") боже мой, это же Elm, все в машину! [youtube.com/watch?v=Agu6ji…](http://t.co/mzeytmiq1q "http://www.youtube.com/watch?v=Agu6jipKfYw")
 
-RT <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>: <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/konenkov" title="Sergey Konenkov">@konenkov</a> информация особенно актуальна для большого аутсорса в СНГ, где зп пытаются занизить до мини…
+RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@konenkov](https://twitter.com/konenkov "Sergey Konenkov") информация особенно актуальна для большого аутсорса в СНГ, где зп пытаются занизить до мини…
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> <a href="https://twitter.com/konenkov" title="Sergey Konenkov">@konenkov</a> вообще, пока такие данные остаются массово закрытыми, остается простор для злоупотреблений <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") [@konenkov](https://twitter.com/konenkov "Sergey Konenkov") вообще, пока такие данные остаются массово закрытыми, остается простор для злоупотреблений [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> <a href="https://twitter.com/konenkov" title="Sergey Konenkov">@konenkov</a> сплошь и рядом вижу, как девушкам на аналогичной должности не доплачивают, например <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") [@konenkov](https://twitter.com/konenkov "Sergey Konenkov") сплошь и рядом вижу, как девушкам на аналогичной должности не доплачивают, например [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-Кстати, про себя. В российском стартапе получал от $2300 до $2700 в месяц. Сейчас — консалтинг $100/час. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Кстати, про себя. В российском стартапе получал от $2300 до $2700 в месяц. Сейчас — консалтинг $100/час. [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как ты посоветуешь решать проблему постепенной прорисовки интерфейса при асинхронной загрузке разных блоков д…
+RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как ты посоветуешь решать проблему постепенной прорисовки интерфейса при асинхронной загрузке разных блоков д…
 
-RT <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> неготовность данных, спиннеры, пустые области на странице
+RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") неготовность данных, спиннеры, пустые области на странице
 
-Специальный компонент типа AsyncProps занимается резолвингом и не рендерит детей, пока они не готовы: <a href="https://t.co/HS0Tx1l1jy">github.com/rackt/react-ro…</a> <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+Специальный компонент типа AsyncProps занимается резолвингом и не рендерит детей, пока они не готовы: [github.com/rackt/react-ro…](https://t.co/HS0Tx1l1jy "https://github.com/rackt/react-router/blob/master/examples/async-data/app.js") [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-RT <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/victor_suzdalev" title="Victor Suzdalev">@victor_suzdalev</a> что-то я совсем запутался. мы просто пока на flummox-e, а там же экшены и экшен-криэйтеры п…
+RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@victor_suzdalev](https://twitter.com/victor_suzdalev "Victor Suzdalev") что-то я совсем запутался. мы просто пока на flummox-e, а там же экшены и экшен-криэйтеры п…
 
-Вот хорошее объяснение разницы между Actions и Action Creators: <a href="https://t.co/1vukbvhDJB">github.com/gaearon/redux/…</a> <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a> <a href="https://twitter.com/victor_suzdalev" title="Victor Suzdalev">@victor_suzdalev</a>
+Вот хорошее объяснение разницы между Actions и Action Creators: [github.com/gaearon/redux/…](https://t.co/1vukbvhDJB "https://github.com/gaearon/redux/pull/140#issuecomment-114756152") [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin") [@victor_suzdalev](https://twitter.com/victor_suzdalev "Victor Suzdalev")
 
-Просто надо как-то деньги зарабатывать после ухода из компании. ) <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
+Просто надо как-то деньги зарабатывать после ухода из компании. ) [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov")
 
 Я сейчас готовлюсь к конференции React Europe. Посоветуйте, как сделать хорошо флоу рассказа? У меня нет опыта настоящих конференций.
 
-RT <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> лайв кодинг решает! Свежайший пример: <a href="http://t.co/J9kPj8Fhza">youtube.com/watch?v=j-kj2q…</a>
+RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") лайв кодинг решает! Свежайший пример: [youtube.com/watch?v=j-kj2q…](http://t.co/J9kPj8Fhza "http://www.youtube.com/watch?v=j-kj2qwJa_E")
 
-RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a>: Пацаны-ребяты, посоветуйте модульный/компонентный CSS фреймворк, прям список всех что знаете. Нужно для исследований.
+RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): Пацаны-ребяты, посоветуйте модульный/компонентный CSS фреймворк, прям список всех что знаете. Нужно для исследований.
 RT plz
 
-RT <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а как находил клиентов для консалтинга?
+RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а как находил клиентов для консалтинга?
 
-Сами пишут. Потому что много видного опен-сорса. Еще полезно нетворчиться на митапах и читать лекции, ребята подкидывают работу <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a>
+Сами пишут. Потому что много видного опен-сорса. Еще полезно нетворчиться на митапах и читать лекции, ребята подкидывают работу [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev")
 
-RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как в фильмах — вступление, закрутка, плато, раскрутка. Например: о себе, проблема, анализ, решение
+RT [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как в фильмах — вступление, закрутка, плато, раскрутка. Например: о себе, проблема, анализ, решение
 
-RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кроме того, старайся добавить сильные цитаты, которые могут уйти в Твиттер
+RT [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кроме того, старайся добавить сильные цитаты, которые могут уйти в Твиттер
 
-RT <a href="https://twitter.com/harisov" title="Vitaly Harisov">@harisov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> почитай книгу «Мастерство презентации», очень хорошая.
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почитай книгу «Мастерство презентации», очень хорошая.
 
-<a href="http://t.co/TTkESCpvsu">mann-ivanov-ferber.ru/promo/presenta…</a>
+[mann-ivanov-ferber.ru/promo/presenta…](http://t.co/TTkESCpvsu "http://www.mann-ivanov-ferber.ru/promo/presentation/")
 
-Мне комфортно два-три часа в (будний) день, чтобы остальное время заниматься опенсорсом. <a href="https://twitter.com/beshkenadze" title="Александр Бешкенадзе">@beshkenadze</a> <a href="https://twitter.com/paulmillr" title="Paul Miller">@paulmillr</a>
+Мне комфортно два-три часа в (будний) день, чтобы остальное время заниматься опенсорсом. [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе") [@paulmillr](https://twitter.com/paulmillr "Paul Miller")
 
-React/Flux <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/kojoru" title="Konstantin Yakushev">@kojoru</a>
+React/Flux [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev")
 
-Одесса, фронтенд + Node.js, $2k <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Одесса, фронтенд + Node.js, $2k [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-Разве Webpack теперь работает не через PostCSS? <a href="https://t.co/xeVJmjlSlF">github.com/webpack/css-lo…</a> <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+Разве Webpack теперь работает не через PostCSS? [github.com/webpack/css-lo…](https://t.co/xeVJmjlSlF "https://github.com/webpack/css-loader/commit/a78e007e206439348bf04d4c0ffd7b0324c75d26") [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-Я не очень понимаю, о чем ты. Чанки делаются одной строчкой в коде, и ты их получаешь автоматически. <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+Я не очень понимаю, о чем ты. Чанки делаются одной строчкой в коде, и ты их получаешь автоматически. [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-ExtractTextPlugin — оптимизация. Она не всем нужна. И если хочешь билдить CSS отдельно сам, просто делай это :-) <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+ExtractTextPlugin — оптимизация. Она не всем нужна. И если хочешь билдить CSS отдельно сам, просто делай это :-) [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-То есть, Webpack не заставляет тебя использовать его для CSS. Многие используют его только для JS. <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+То есть, Webpack не заставляет тебя использовать его для CSS. Многие используют его только для JS. [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-Странно, как это может быть аргументом в пользу Browserify. <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+Странно, как это может быть аргументом в пользу Browserify. [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-Для меня поддержка hot reloading достаточный плюс ) <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+Для меня поддержка hot reloading достаточный плюс ) [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
 ## Четверг <small>29 твитов</small>
 
-Верстка магазина и других сайтов компании. В основном только HTML/CSS, немного JS, шаблоны на PHP. Беларусь, 1300 $ <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
+Верстка магазина и других сайтов компании. В основном только HTML/CSS, немного JS, шаблоны на PHP. Беларусь, 1300 $ [twitter.com/jsunderhood/st…](https://t.co/UK8Y0YUjpX "https://twitter.com/jsunderhood/status/613323036968787968")
 
-RT <a href="https://twitter.com/dmitriyminer" title="Miner">@dmitriyminer</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> где вы берете заказы, я как начинающий даже за бесплатно не могу найти заказ Python/Django/Bootstrap
+RT [@dmitriyminer](https://twitter.com/dmitriyminer "Miner"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") где вы берете заказы, я как начинающий даже за бесплатно не могу найти заказ Python/Django/Bootstrap
 
-RT <a href="https://twitter.com/cakeinpanic" title="Katerina Tort">@cakeinpanic</a>: .<a href="https://twitter.com/dmitriyminer" title="Miner">@dmitriyminer</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>  upwork(odesk). если не справился – возвращаешь деньги, и клиент не может оставить отрицательн…
+RT [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort"): .[@dmitriyminer](https://twitter.com/dmitriyminer "Miner") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  upwork(odesk). если не справился – возвращаешь деньги, и клиент не может оставить отрицательн…
 
-RT <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Есть билет на React Europe (418€), сделай пожалуйста ретвит, может найдутся желающие.
+RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Есть билет на React Europe (418€), сделай пожалуйста ретвит, может найдутся желающие.
 
-RT <a href="https://twitter.com/dmitriyminer" title="Miner">@dmitriyminer</a>: <a href="https://twitter.com/cakeinpanic" title="Katerina Tort">@cakeinpanic</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> все хотят портфолио, а врать как-то не хочется
+RT [@dmitriyminer](https://twitter.com/dmitriyminer "Miner"): [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") все хотят портфолио, а врать как-то не хочется
 
-RT <a href="https://twitter.com/cakeinpanic" title="Katerina Tort">@cakeinpanic</a>: <a href="https://twitter.com/dmitriyminer" title="Miner">@dmitriyminer</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> у меня написано "я молодой, но страстно желающий работать падаван". ну и тесты пройдены. нормал…
+RT [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort"): [@dmitriyminer](https://twitter.com/dmitriyminer "Miner") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") у меня написано "я молодой, но страстно желающий работать падаван". ну и тесты пройдены. нормал…
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: Finally, Atom 1.0! <a href="https://t.co/F0ZpSddefo">twitter.com/AtomEditor/sta…</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Finally, Atom 1.0! [twitter.com/AtomEditor/sta…](https://t.co/F0ZpSddefo "https://twitter.com/AtomEditor/status/614085665634922496")
 
 Извините, что сегодня молчун. Готовлю слайды к React Europe. Дизайнер помогает )
 
 Давайте сегодня такой формат — отвечаю на вопросы про hot reloading JS-кода. От общих до сугубо технических.
 
-Начну с пары инструментов. Есть вот Figwheel. Кажется, он офигенный. Но увы, только ClojureScript. :-( <a href="http://t.co/fbsVeRJ3kE">youtube.com/watch?v=j-kj2q…</a>
+Начну с пары инструментов. Есть вот Figwheel. Кажется, он офигенный. Но увы, только ClojureScript. :-( [youtube.com/watch?v=j-kj2q…](http://t.co/fbsVeRJ3kE "http://www.youtube.com/watch?v=j-kj2qwJa_E")
 
-Есть React Hot Loader. Он только для реакта. Это мой проект. Вот видео, с которым он запустился: <a href="http://t.co/2DsBRTW2Nk">vimeo.com/100010922</a>
+Есть React Hot Loader. Он только для реакта. Это мой проект. Вот видео, с которым он запустился: [vimeo.com/100010922](http://t.co/2DsBRTW2Nk "http://vimeo.com/100010922")
 
-Есть Amok. В отличие от Figwheel и RHL, он зависит от конкретного браузера (Chrome). <a href="http://t.co/E81jsGz3Nk">amokjs.com</a>
+Есть Amok. В отличие от Figwheel и RHL, он зависит от конкретного браузера (Chrome). [amokjs.com](http://t.co/E81jsGz3Nk "http://amokjs.com/")
 
-LiveReactload использует тот же движок, что и RHL, но под Browserify: <a href="https://t.co/idrYKYBz6x">github.com/milankinen/liv…</a>. К сожалению, он re-evaluat-ит все модули.
+LiveReactload использует тот же движок, что и RHL, но под Browserify: [github.com/milankinen/liv…](https://t.co/idrYKYBz6x "https://github.com/milankinen/livereactload"). К сожалению, он re-evaluat-ит все модули.
 
-React Native Webpack Server позволяет использовать живую перезагрузку React Hot Loader внутри React Native: <a href="https://t.co/Xt3XHH8YLW">github.com/mjohnston/reac…</a>
+React Native Webpack Server позволяет использовать живую перезагрузку React Hot Loader внутри React Native: [github.com/mjohnston/reac…](https://t.co/Xt3XHH8YLW "https://github.com/mjohnston/react-native-webpack-server")
 
-RT <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в каких случаях применим hot loader?
+RT [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в каких случаях применим hot loader?
 
-Проект должен использовать Webpack. Работает редактирование методов компонентов на ходу + модулей, у которых нет состояния <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+Проект должен использовать Webpack. Работает редактирование методов компонентов на ходу + модулей, у которых нет состояния [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-Конечно, он работает только с React-компонентами. <a href="https://twitter.com/snejink" title="Aleksei Krasnoperov">@snejink</a>
+Конечно, он работает только с React-компонентами. [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov")
 
-RT <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в двух словах: по какому принципу это всё работает? Почему, например тот же flummox не полностью hot reloada…
+RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в двух словах: по какому принципу это всё работает? Почему, например тот же flummox не полностью hot reloada…
 
-Хот релоадинг работает в модулях, у которых нет локального стейта. Поэтому он работает для компонентов и чистых функций. <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+Хот релоадинг работает в модулях, у которых нет локального стейта. Поэтому он работает для компонентов и чистых функций. [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-В Flummox вторы — классы. Из них трудно «выдирать» стейт, потом переносить в новый инстанс, как-то перерегистрировать их. <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+В Flummox вторы — классы. Из них трудно «выдирать» стейт, потом переносить в новый инстанс, как-то перерегистрировать их. [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-В Redux вместо уторов чистые функции-редюсеры, которые «собираются» композицией в одну. Эта одна функция — всё, что заменяется <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+В Redux вместо уторов чистые функции-редюсеры, которые «собираются» композицией в одну. Эта одна функция — всё, что заменяется [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-React Hot Loader заменяет функцию render(), и в итоге рут-компонент получает новую чистую функцию в props, и ей пользуется. <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+React Hot Loader заменяет функцию render(), и в итоге рут-компонент получает новую чистую функцию в props, и ей пользуется. [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как думаешь, реально браузерным вендорам договориться о нативном стандарте для перегрузки кода, типа chrom…
+RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как думаешь, реально браузерным вендорам договориться о нативном стандарте для перегрузки кода, типа chrom…
 
-Чем дольше я занимаюсь hot reloading, тем больше я уверен, что это не имеет смысла. Это не дело браузера — это дело бандлера <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
+Чем дольше я занимаюсь hot reloading, тем больше я уверен, что это не имеет смысла. Это не дело браузера — это дело бандлера [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev")
 
-RT <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> мне кажется что произвольный код с сохранением состояния без помощи браузера не перегрузить
+RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мне кажется что произвольный код с сохранением состояния без помощи браузера не перегрузить
 
-Пытаться сохранить локальное состояние — изначально неверный подход. Отсюда проблемы. Надо выносить состояние вне. <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
+Пытаться сохранить локальное состояние — изначально неверный подход. Отсюда проблемы. Надо выносить состояние вне. [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev")
 
-RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a> FigWheel доказывает обратное. Но… ClojureScript. <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev") FigWheel доказывает обратное. Но… ClojureScript. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-Вынос состояния «вне» имеет другие плюсы — возможность строить крутые тулзы для logging и time travel. <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
+Вынос состояния «вне» имеет другие плюсы — возможность строить крутые тулзы для logging и time travel. [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev")
 
-Я думаю, что Webpack Hot Module Replacement + тулзы типа React Hot Loader достойно решают эту проблему. <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
+Я думаю, что Webpack Hot Module Replacement + тулзы типа React Hot Loader достойно решают эту проблему. [@suxxes](https://twitter.com/suxxes "Father Frodo") [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev")
 
 ## Пятница <small>79 твитов</small>
 
 Вы пользуетесь Browserify или Webpack? Почему?
 
-За Browserify: <a href="https://t.co/flciffEBa9">gist.github.com/substack/68f8d…</a>
+За Browserify: [gist.github.com/substack/68f8d…](https://t.co/flciffEBa9 "https://gist.github.com/substack/68f8d502be42d5cd4942")
 
-За Webpack: <a href="https://t.co/IBNBzEiXaF">gist.github.com/substack/68f8d…</a>
+За Webpack: [gist.github.com/substack/68f8d…](https://t.co/IBNBzEiXaF "https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980")
 
-Webpack vs Browserify на React Podcast: <a href="http://t.co/ZhSuA0wkdN">reactpodcast.com/2015/06/webpac…</a>
+Webpack vs Browserify на React Podcast: [reactpodcast.com/2015/06/webpac…](http://t.co/ZhSuA0wkdN "http://reactpodcast.com/2015/06/webpack-vs-browserify/")
 
-Пит Хант называет феномен «modularity shaming» <a href="https://t.co/dEBDVo0jrz">gist.github.com/substack/68f8d…</a>
+Пит Хант называет феномен «modularity shaming» [gist.github.com/substack/68f8d…](https://t.co/dEBDVo0jrz "https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101")
 
-Джеймс Лоно рефлексирует о том, как модули — контракт нашего взаимодействия как разработчиков. <a href="http://t.co/7FIWR2fKpw">jlongster.com/Modularity</a>
+Джеймс Лоно рефлексирует о том, как модули — контракт нашего взаимодействия как разработчиков. [jlongster.com/Modularity](http://t.co/7FIWR2fKpw "http://jlongster.com/Modularity")
 
 Лонг, Твиттер. Лон. Автокоррект :-/
 
-RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Browserify просто потому что у нас нет задач для фич специфичных для Вебпака.
+RT [@andrey_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Browserify просто потому что у нас нет задач для фич специфичных для Вебпака.
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я "не знаю” чем я пользуюсь, у меня Ember CLI - он как Тефаль думает за меня
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я "не знаю” чем я пользуюсь, у меня Ember CLI - он как Тефаль думает за меня
 
-RT <a href="https://twitter.com/esergeev" title="Evgeny Sergeev">@esergeev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а чем плох подход webpack-dev-server с перезагрузкой приложения во фрейме?
+RT [@esergeev](https://twitter.com/esergeev "Evgeny Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а чем плох подход webpack-dev-server с перезагрузкой приложения во фрейме?
 
-Не то что бы плох. Лично для меня не продуктивен. Теряю стейт, DOM. <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a>
+Не то что бы плох. Лично для меня не продуктивен. Теряю стейт, DOM. [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev")
 
-RT <a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> что есть для JS для таймтрэвела?
+RT [@marinintim](https://twitter.com/marinintim "Tim Marinin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что есть для JS для таймтрэвела?
 
-Я сам не знаю, буду благодарен за ссылки. Поскольку ничего не нашел — пришлось написать Redux. :-) <a href="https://twitter.com/marinintim" title="Tim Marinin">@marinintim</a>
+Я сам не знаю, буду благодарен за ссылки. Поскольку ничего не нашел — пришлось написать Redux. :-) [@marinintim](https://twitter.com/marinintim "Tim Marinin")
 
-RT <a href="https://twitter.com/MaxMykhailenko" title="Max Mykhailenko">@MaxMykhailenko</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a> а замена сторов?
+RT [@MaxMykhailenko](https://twitter.com/MaxMykhailenko "Max Mykhailenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin") а замена сторов?
 
-В Redux нет уторов, есть редюсеры — чистые функции. Вот корневой редюсер и заменяется. А стейт вне него. <a href="https://twitter.com/MaxMykhailenko" title="Max Mykhailenko">@MaxMykhailenko</a> <a href="https://twitter.com/smashercosmo" title="Vladislav Shkodin">@smashercosmo</a>
+В Redux нет уторов, есть редюсеры — чистые функции. Вот корневой редюсер и заменяется. А стейт вне него. [@MaxMykhailenko](https://twitter.com/MaxMykhailenko "Max Mykhailenko") [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin")
 
-Это класс. Реакту не хватает такого. <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+Это класс. Реакту не хватает такого. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-RT <a href="https://twitter.com/playpausenstop" title="Igor Davydenko">@playpausenstop</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> grunt+browserify на работе, webpack для себя. особой разницы нет, но webpack все же чуточку быстрей и удоб…
+RT [@playpausenstop](https://twitter.com/playpausenstop "Igor Davydenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") grunt+browserify на работе, webpack для себя. особой разницы нет, но webpack все же чуточку быстрей и удоб…
 
 Я сегодня буду твитить набегами. Пачками из пяти-шести штормотвитов на темы, которые меня волновали последний год.
 
-RT <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> webpack шустрее, удобнее, все из коробки, отличная документация, куча лоудеров и плагинов фактически настарте…
+RT [@hellbeast92](https://twitter.com/hellbeast92 "Александр Староверов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") webpack шустрее, удобнее, все из коробки, отличная документация, куча лоудеров и плагинов фактически настарте…
 
-RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> славабогу, а то весь мой тви из монолога :) нужно аккуратнее
+RT [@mursya_ru](https://twitter.com/mursya_ru "Елена Джетпыспаева"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") славабогу, а то весь мой тви из монолога :) нужно аккуратнее
 
-RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> насчет отличной документации - это шутка такая?
+RT [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk"): [@hellbeast92](https://twitter.com/hellbeast92 "Александр Староверов") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") насчет отличной документации - это шутка такая?
 
-У вебпака документация ок (все опции на одной странице), но вот интро/гайдов не хватает. <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a>
+У вебпака документация ок (все опции на одной странице), но вот интро/гайдов не хватает. [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@hellbeast92](https://twitter.com/hellbeast92 "Александр Староверов")
 
-RT @Ask_11: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> browserify, потому что привык к нему. Несколько раз пробовал webpack, но натыкался на странности API и возвращался…
+RT @Ask_11: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") browserify, потому что привык к нему. Несколько раз пробовал webpack, но натыкался на странности API и возвращался…
 
-That's why styles need to be incapsulated into components ;-) <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
+That's why styles need to be incapsulated into components ;-) [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov")
 
-RT <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а считается ли антипаттерном писать вместо jsx функции? вообще есть ли разница? jsx же только для ридабилити?
+RT [@rastopyr_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а считается ли антипаттерном писать вместо jsx функции? вообще есть ли разница? jsx же только для ридабилити?
 
-Ты можешь писать createElement вручную, если хочешь. JSX сильно помогает читаемости. Плюс Babel будет его оптимизировать. <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a>
+Ты можешь писать createElement вручную, если хочешь. JSX сильно помогает читаемости. Плюс Babel будет его оптимизировать. [@rastopyr_ua](https://twitter.com/rastopyr_ua "Rastopyr")
 
-RT <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> ещё JSX статически фиксирует семантику React элементов, что позволит делать более "сильные" оптим…
+RT [@andreypopp](https://twitter.com/andreypopp "Andrey Popp"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rastopyr_ua](https://twitter.com/rastopyr_ua "Rastopyr") ещё JSX статически фиксирует семантику React элементов, что позволит делать более "сильные" оптим…
 
-RT <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a>: <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a> а где про это можно подробней почитать? документация jsx? <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@rastopyr_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@andreypopp](https://twitter.com/andreypopp "Andrey Popp") а где про это можно подробней почитать? документация jsx? [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-<a href="https://t.co/ZOKy814rT0">github.com/facebook/react…</a>, <a href="https://t.co/TVcC12d1hm">github.com/facebook/react…</a> <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>
+[github.com/facebook/react…](https://t.co/ZOKy814rT0 "https://github.com/facebook/react/issues/3226"), [github.com/facebook/react…](https://t.co/TVcC12d1hm "https://github.com/facebook/react/issues/3228") [@rastopyr_ua](https://twitter.com/rastopyr_ua "Rastopyr") [@andreypopp](https://twitter.com/andreypopp "Andrey Popp")
 
-RT <a href="https://twitter.com/esergeev" title="Evgeny Sergeev">@esergeev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> покопался с redux, начинаю понимать чем удобен hot reload. Но иногда затыкается rebuild, приходится еще раз дела…
+RT [@esergeev](https://twitter.com/esergeev "Evgeny Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") покопался с redux, начинаю понимать чем удобен hot reload. Но иногда затыкается rebuild, приходится еще раз дела…
 
-RT <a href="https://twitter.com/avevlad" title="AveVlad">@avevlad</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> когда в проекте был Browserify, билд был ~30 sec на cmd+s, c Webpack 1-2 sec
+RT [@avevlad](https://twitter.com/avevlad "AveVlad"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда в проекте был Browserify, билд был ~30 sec на cmd+s, c Webpack 1-2 sec
 
 Раз сегодня пятница, давайте джаваскриптовый Follow Friday. Кого нужно фолловить в JS-мире?
 
-Вот мой список: <a href="https://t.co/gINQm6UQiy">medium.com/@dan_abramov/m…</a>
+Вот мой список: [medium.com/@dan_abramov/m…](https://t.co/gINQm6UQiy "https://medium.com/@dan_abramov/my-react-list-862227952a8c")
 
-RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/avevlad" title="AveVlad">@avevlad</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> стоило настроить кеширование и инкрементальное обновление.
+RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@avevlad](https://twitter.com/avevlad "AveVlad") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") стоило настроить кеширование и инкрементальное обновление.
 
-RT <a href="https://twitter.com/aluuu" title="Усиление и Манатан">@aluuu</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/czaplic" title="Evan Czaplicki">@czaplic</a>
+RT [@aluuu](https://twitter.com/aluuu "Усиление и Манатан"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@czaplic](https://twitter.com/czaplic "Evan Czaplicki")
 
-RT <a href="https://twitter.com/talgautb" title="Талга УтБ">@talgautb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> начал собирать <a href="https://t.co/3ulBu0n4xo">github.com/talgautb/front…</a> а потом как-то остановился :)
+RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") начал собирать [github.com/talgautb/front…](https://t.co/3ulBu0n4xo "https://github.com/talgautb/frontender") а потом как-то остановился :)
 
-RT <a href="https://twitter.com/avevlad" title="AveVlad">@avevlad</a>: <a href="https://twitter.com/talgautb" title="Талга УтБ">@talgautb</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://t.co/tE36C0jfM2">github.com/AveVlad/russia…</a>
+RT [@avevlad](https://twitter.com/avevlad "AveVlad"): [@talgautb](https://twitter.com/talgautb "Талга УтБ") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/AveVlad/russia…](https://t.co/tE36C0jfM2 "https://github.com/AveVlad/russia-it-podcast")
 
-RT <a href="https://twitter.com/317070" title="317070">@317070</a>: My work of the past week. <a href="https://t.co/qHs2yqvTDw">twitter.com/sedielem/statu…</a>
+RT [@317070](https://twitter.com/317070 "317070"): My work of the past week. [twitter.com/sedielem/statu…](https://t.co/qHs2yqvTDw "https://twitter.com/sedielem/status/613764424655073280")
 
-RT <a href="https://twitter.com/notmisha" title="Misha Denil">@notmisha</a>: Inceptionism live stream: <a href="http://t.co/iNZMWViw6o">goo.gl/A9CiGa</a> neural networks dreaming in real time.
+RT [@notmisha](https://twitter.com/notmisha "Misha Denil"): Inceptionism live stream: [goo.gl/A9CiGa](http://t.co/iNZMWViw6o "http://goo.gl/A9CiGa") neural networks dreaming in real time.
 
-RT <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>: . <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а мне вот интересно как можно распиарить например свой репозиторий на гитхабе, есть ли какие-то советы/практики…
+RT [@greybax](https://twitter.com/greybax "Aleksandr Filatov"): . [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а мне вот интересно как можно распиарить например свой репозиторий на гитхабе, есть ли какие-то советы/практики…
 
-Всё просто. Надо для начала найти комьюнити. Например, React/Ember/etc комьюнити. Люди, вокруг которых вертится экосистема. <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>
+Всё просто. Надо для начала найти комьюнити. Например, React/Ember/etc комьюнити. Люди, вокруг которых вертится экосистема. [@greybax](https://twitter.com/greybax "Aleksandr Filatov")
 
-Надо фоловить этих людей. Читать, что и почему они используют. Создавать что-то, что им нужно. Решить их проблемы. <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>
+Надо фоловить этих людей. Читать, что и почему они используют. Создавать что-то, что им нужно. Решить их проблемы. [@greybax](https://twitter.com/greybax "Aleksandr Filatov")
 
-Одному что-то очень сложно сделать, потому что ты не знаешь, что людям нужно. В комьюнити полезное разлетается. <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>
+Одному что-то очень сложно сделать, потому что ты не знаешь, что людям нужно. В комьюнити полезное разлетается. [@greybax](https://twitter.com/greybax "Aleksandr Filatov")
 
-Для меня решающее значение имеет твиттер. Не было бы твиттера — про мои проекты никто бы и не знал. Это мой рупор и фидбэк. <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>
+Для меня решающее значение имеет твиттер. Не было бы твиттера — про мои проекты никто бы и не знал. Это мой рупор и фидбэк. [@greybax](https://twitter.com/greybax "Aleksandr Filatov")
 
-Да, паре ребят, которые ты видишь что ретвитят такие ссылки. Конечно, должен быть готов README, должен соблюдаться привычный стиль <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>
+Да, паре ребят, которые ты видишь что ретвитят такие ссылки. Конечно, должен быть готов README, должен соблюдаться привычный стиль [@greybax](https://twitter.com/greybax "Aleksandr Filatov")
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> главное решать чью-то боль, затем иметь доки и тесты. А потом щепотка маркетинга
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@greybax](https://twitter.com/greybax "Aleksandr Filatov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") главное решать чью-то боль, затем иметь доки и тесты. А потом щепотка маркетинга
 
-Еще помогает писать статьи. Увеличивает доверие к тебе. <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a>
+Еще помогает писать статьи. Увеличивает доверие к тебе. [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@greybax](https://twitter.com/greybax "Aleksandr Filatov")
 
-RT <a href="https://twitter.com/gesterok" title="Vlad Marchuk">@gesterok</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a> <a href="https://t.co/gCWew2OMqx">medium.com/@Shapiro/strip…</a> вот тут <a href="https://twitter.com/Shapiro" title="Julian Shapiro">@Shapiro</a> рассказывает как пульнуть репозиторий в стратосферу
+RT [@gesterok](https://twitter.com/gesterok "Vlad Marchuk"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@greybax](https://twitter.com/greybax "Aleksandr Filatov") [medium.com/@Shapiro/strip…](https://t.co/gCWew2OMqx "https://medium.com/@Shapiro/stripe-san-francisco-and-velocity-js-37575e29a51b") вот тут [@Shapiro](https://twitter.com/Shapiro "Julian Shapiro") рассказывает как пульнуть репозиторий в стратосферу
 
-RT <a href="https://twitter.com/gesterok" title="Vlad Marchuk">@gesterok</a>: <a href="https://twitter.com/greybax" title="Aleksandr Filatov">@greybax</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/Shapiro" title="Julian Shapiro">@Shapiro</a> специально для тебя, без  SF <a href="https://t.co/o1ateLu259">hacks.mozilla.org/2014/05/open-s…</a>
+RT [@gesterok](https://twitter.com/gesterok "Vlad Marchuk"): [@greybax](https://twitter.com/greybax "Aleksandr Filatov") [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Shapiro](https://twitter.com/Shapiro "Julian Shapiro") специально для тебя, без  SF [hacks.mozilla.org/2014/05/open-s…](https://t.co/o1ateLu259 "https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/")
 
-RT <a href="https://twitter.com/tchak13" title="Paul Chavard">@tchak13</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в последней версии ember есть все что есть в react (virtual dom, sane actions etc…) + router :) <a href="https://twitter.com/kolybasov" title="Mykola Basov">@kolybasov</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+RT [@tchak13](https://twitter.com/tchak13 "Paul Chavard"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в последней версии ember есть все что есть в react (virtual dom, sane actions etc…) + router :) [@kolybasov](https://twitter.com/kolybasov "Mykola Basov") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-React — не про virtual DOM. Это просто деталь реализации. React — про декларативные компоненты на JS. <a href="https://twitter.com/tchak13" title="Paul Chavard">@tchak13</a> <a href="https://twitter.com/kolybasov" title="Mykola Basov">@kolybasov</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+React — не про virtual DOM. Это просто деталь реализации. React — про декларативные компоненты на JS. [@tchak13](https://twitter.com/tchak13 "Paul Chavard") [@kolybasov](https://twitter.com/kolybasov "Mykola Basov") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-Это позволяет делать вещи типа React Native или React Hot Loader. <a href="https://twitter.com/tchak13" title="Paul Chavard">@tchak13</a> <a href="https://twitter.com/kolybasov" title="Mykola Basov">@kolybasov</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+Это позволяет делать вещи типа React Native или React Hot Loader. [@tchak13](https://twitter.com/tchak13 "Paul Chavard") [@kolybasov](https://twitter.com/kolybasov "Mykola Basov") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> не поверишь, Эмбер тоже. Я в шоке от того, насколько мой код на Эмбер похож на то, что люди на Реактепишут <a href="https://twitter.com/tchak13" title="Paul Chavard">@tchak13</a>a href="https://twitter.com/kolybasov" title="Mykola Basov">@kolybasov</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не поверишь, Эмбер тоже. Я в шоке от того, насколько мой код на Эмбер похож на то, что люди на Реактепишут [@tchak13](https://twitter.com/tchak13 "Paul Chavard")@kolybasov](https://twitter.com/kolybasov "Mykola Basov")
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: The Debate Around “Do We Even Need CSS Anymore?”
-<a href="https://t.co/ZWbX4NkSLU">css-tricks.com/the-debate-aro…</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): The Debate Around “Do We Even Need CSS Anymore?”
+[css-tricks.com/the-debate-aro…](https://t.co/ZWbX4NkSLU "https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/")
 
-RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/avevlad" title="AveVlad">@avevlad</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да. Тоже мучался, потом нашел <a href="https://t.co/eUz8Ij3MJN">github.com/gulpjs/gulp/bl…</a>, теперь билды 300 ms максимум.
+RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@avevlad](https://twitter.com/avevlad "AveVlad") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да. Тоже мучался, потом нашел [github.com/gulpjs/gulp/bl…](https://t.co/eUz8Ij3MJN "https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md"), теперь билды 300 ms максимум.
 
-RT <a href="https://twitter.com/esergeev" title="Evgeny Sergeev">@esergeev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> можно ли сделать, чтобы при hot reload обновлялись и source maps?
+RT [@esergeev](https://twitter.com/esergeev "Evgeny Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") можно ли сделать, чтобы при hot reload обновлялись и source maps?
 
-Нужно поставить звездочку в этом issue: <a href="https://t.co/Bx4NtTH7vM">code.google.com/p/chromium/iss…</a> <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a>
+Нужно поставить звездочку в этом issue: [code.google.com/p/chromium/iss…](https://t.co/Bx4NtTH7vM "https://code.google.com/p/chromium/issues/detail?id=492902") [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev")
 
-RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a> раз разрешил всякого рода вопросы, как написать hot loader поверх webpack для не-реакт? видел ответ…
+RT [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@hellbeast92](https://twitter.com/hellbeast92 "Александр Староверов") раз разрешил всякого рода вопросы, как написать hot loader поверх webpack для не-реакт? видел ответ…
 
-<a href="http://t.co/rYdyv2gX12">webpack.github.io/docs/hot-modul…</a>, <a href="http://t.co/32mCbc9Jyr">webpack.github.io/docs/hot-modul…</a>, <a href="http://t.co/jQl4MCMmiW">jlongster.com/Backend-Apps-w…</a> <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a>
+[webpack.github.io/docs/hot-modul…](http://t.co/rYdyv2gX12 "http://webpack.github.io/docs/hot-module-replacement-with-webpack.html"), [webpack.github.io/docs/hot-modul…](http://t.co/32mCbc9Jyr "http://webpack.github.io/docs/hot-module-replacement.html"), [jlongster.com/Backend-Apps-w…](http://t.co/jQl4MCMmiW "http://jlongster.com/Backend-Apps-with-Webpack--Part-III") [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@hellbeast92](https://twitter.com/hellbeast92 "Александр Староверов")
 
-Еще я подсматривал, как style-loader это делает для CSS <a href="https://t.co/iaeOmb4fUD">github.com/webpack/style-…</a> <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a>
+Еще я подсматривал, как style-loader это делает для CSS [github.com/webpack/style-…](https://t.co/iaeOmb4fUD "https://github.com/webpack/style-loader/blob/2823eb4a5e6eb6594a98fe0ea34454b7f7ffca7d/index.js#L21-L32") [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@hellbeast92](https://twitter.com/hellbeast92 "Александр Староверов")
 
-Сегодня большой день для фронтэнд комьюнити. Встречайте NPM 3.0 beta. <a href="https://t.co/BOmbPlp68Q">github.com/npm/npm/releas…</a>
+Сегодня большой день для фронтэнд комьюнити. Встречайте NPM 3.0 beta. [github.com/npm/npm/releas…](https://t.co/BOmbPlp68Q "https://github.com/npm/npm/releases/tag/v3.0.0")
 
 Прощайте, имплиситные peerDependencies. Тем не менее не спешите их удалять — они не УХОДЯТ, они МЕНЯЮТСЯ. Становятся полезнее.
 
 Вам приходили решения проблем программирования во сне?
 
-RT <a href="https://twitter.com/_toydestroyer" title="Sergey Toy">@_toydestroyer</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я так ООП понял.
+RT [@_toydestroyer](https://twitter.com/_toydestroyer "Sergey Toy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я так ООП понял.
 
-RT <a href="https://twitter.com/beshkenadze" title="Александр Бешкенадзе">@beshkenadze</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, переспать проблему мне часто помогало.
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, переспать проблему мне часто помогало.
 
 У меня пару раз так было (и получались действительно хорошие решения), но есть риск провалиться в «не помню, я сегодня спал или нет вообще?»
 
-RT <a href="https://twitter.com/icelabaratory" title="Ivan Starkov">@icelabaratory</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Отдавая столько времени и сил opensource, когда и как успеваешь зарабатывать на жизнь?
+RT [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Отдавая столько времени и сил opensource, когда и как успеваешь зарабатывать на жизнь?
 
-Сейчас временный перерыв, немножко осталось накопленных. Потом восполню контрактной работой <a href="https://twitter.com/icelabaratory" title="Ivan Starkov">@icelabaratory</a>
+Сейчас временный перерыв, немножко осталось накопленных. Потом восполню контрактной работой [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov")
 
-RT <a href="https://twitter.com/asktwi" title="Anna">@asktwi</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Частенько. Но скорее в момент засыпания. Тогда или сразу бегу к компу, или записываю на утро. Держу блокнот возле …
+RT [@asktwi](https://twitter.com/asktwi "Anna"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Частенько. Но скорее в момент засыпания. Тогда или сразу бегу к компу, или записываю на утро. Держу блокнот возле …
 
-RT <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> requirejs уже не в моде?
+RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") requirejs уже не в моде?
 
-Думаю уже давно нет. Он очень медленный в разработке, а в продакшн приходится клеить строго одним файлом. <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Думаю уже давно нет. Он очень медленный в разработке, а в продакшн приходится клеить строго одним файлом. [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-И Webpack, и Browserify (со специальными модулями) поддерживают разбивку на чанки. Насколько я знаю, RJS этого не умеет. <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+И Webpack, и Browserify (со специальными модулями) поддерживают разбивку на чанки. Насколько я знаю, RJS этого не умеет. [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> у меня после бокса хорошо идёт решать проблемы, голова очищается. Если конечно в голову не словил пару раз н…
+RT [@_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") у меня после бокса хорошо идёт решать проблемы, голова очищается. Если конечно в голову не словил пару раз н…
 
-RT <a href="https://twitter.com/icelabaratory" title="Ivan Starkov">@icelabaratory</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Webpack главным образом за hot-reload, огромное спасибо кстати :-),
+RT [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Webpack главным образом за hot-reload, огромное спасибо кстати :-),
 плюс с browserify всегда довесок gulp g…
 
-RT <a href="https://twitter.com/23ydobemos" title="Ilya Zayats">@23ydobemos</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кучу раз просыпался и искренне удивлялся отсутствию «ночных» коммитов в репозитории
+RT [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кучу раз просыпался и искренне удивлялся отсутствию «ночных» коммитов в репозитории
 
-RT <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>, ну, Webpack я пока не пробовал, он более комплексный, чем Brwsfy/RJS, имхо. A сравнение Brwsfy …
+RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"), ну, Webpack я пока не пробовал, он более комплексный, чем Brwsfy/RJS, имхо. A сравнение Brwsfy …
 
-RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> rjs очень медленный на больших проектах. Нельзя задать кастомный лоадер для js. И это…
+RT [@Krivlenia](https://twitter.com/Krivlenia "Константин"): [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan") rjs очень медленный на больших проектах. Нельзя задать кастомный лоадер для js. И это…
 
-RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> сейчас в проекте имеем 140000 значимого кода и ветка с webpack выглядит спасением
+RT [@Krivlenia](https://twitter.com/Krivlenia "Константин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan") сейчас в проекте имеем 140000 значимого кода и ветка с webpack выглядит спасением
 
-RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, однажды во сне приснились строчки моего кода где был баг, который искал неделю.
+RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, однажды во сне приснились строчки моего кода где был баг, который искал неделю.
 
 ## Суббота <small>95 твитов</small>
 
-RT <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a>: .<a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> читаю про Webpack. Первый вопрос: почему они хотят CSS через JS грузить? http://t.co<a href="http://t.co/aYp0RORTO9">webpack.github.io/docs/tutorials…</a>
+RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): .[@Krivlenia](https://twitter.com/Krivlenia "Константин") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan") читаю про Webpack. Первый вопрос: почему они хотят CSS через JS грузить? http://t.co[webpack.github.io/docs/tutorials…](http://t.co/aYp0RORTO9 "http://webpack.github.io/docs/tutorials/getting-started/#first-loader")
 
-RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> Если ты о том,что делается require('*.css'). То это удобно,ты явно видишь зависимости…
+RT [@Krivlenia](https://twitter.com/Krivlenia "Константин"): [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan") Если ты о том,что делается require('*.css'). То это удобно,ты явно видишь зависимости…
 
-Ты можешь выделять CSS в отдельный файл плагином на этапе компиляции: <a href="http://t.co/ZiT3nYRZzu">webpack.github.io/docs/styleshee…</a>  <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Ты можешь выделять CSS в отдельный файл плагином на этапе компиляции: [webpack.github.io/docs/styleshee…](http://t.co/ZiT3nYRZzu "http://webpack.github.io/docs/stylesheets.html#separate-css-bundle")  [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-Вовсе необязательно *грузить* CSS через JS. Речь о том, чтобы *описывать* зависимости одним языком. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Вовсе необязательно *грузить* CSS через JS. Речь о том, чтобы *описывать* зависимости одним языком. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-Как именно грузится — &lt;style&gt; или выделенным CSS файлом — оптимизация, и может меняться в dev/prod. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Как именно грузится — &lt;style&gt; или выделенным CSS файлом — оптимизация, и может меняться в dev/prod. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-К примеру, &lt;style&gt; удобнее во время разработки, потому что работает hot reloading для CSS из коробки. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+К примеру, &lt;style&gt; удобнее во время разработки, потому что работает hot reloading для CSS из коробки. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-RT <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, а как это дальше попадает в DOM? Тоже через JS? А если у тебя min+rev на images? Есть ли manifest? <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), а как это дальше попадает в DOM? Тоже через JS? А если у тебя min+rev на images? Есть ли manifest? [@Krivlenia](https://twitter.com/Krivlenia "Константин")@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-Webpack подразумевает, что всё это делается через него. Там есть встроенная поддержка хешей и тп. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Webpack подразумевает, что всё это делается через него. Там есть встроенная поддержка хешей и тп. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-Например, вот результат компиляции. В исходном коде имена нормальные. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> <a href="http://t.co/xvcSxyCGBu">pic.twitter.com/xvcSxyCGBu</a>
+Например, вот результат компиляции. В исходном коде имена нормальные. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan") [pic.twitter.com/xvcSxyCGBu](http://t.co/xvcSxyCGBu)
 
-Всё это полностью настраиваемо. На каждом этапе можно добавить любые дополнительные трансформации. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Всё это полностью настраиваемо. На каждом этапе можно добавить любые дополнительные трансформации. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-По сути, ты можешь описать любые зависимости. Вебпак не имеет каких-то особых знаний о CSS/картинках <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+По сути, ты можешь описать любые зависимости. Вебпак не имеет каких-то особых знаний о CSS/картинках [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-Просто есть несколько официально поддерживаемых плагинов для css/files. Вместо них можно свои юзать. <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>
+Просто есть несколько официально поддерживаемых плагинов для css/files. Вместо них можно свои юзать. [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan")
 
-RT <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Вопрос по реакту и флаксу. Могут ли компоненты, типа попапов, хранить в себе стейт, или же его тоже лучше …
+RT [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вопрос по реакту и флаксу. Могут ли компоненты, типа попапов, хранить в себе стейт, или же его тоже лучше …
 
-Мой rule of thumb простой. Если стейт нигде в аппе больше не понадобится — локально. Если может понадобиться, стор. <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>
+Мой rule of thumb простой. Если стейт нигде в аппе больше не понадобится — локально. Если может понадобиться, стор. [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy")
 
-Вот плагин, который превращает require('xyz') в относительный URL результата <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> <a href="http://t.co/0TZSwh0WUy">pic.twitter.com/0TZSwh0WUy</a>
+Вот плагин, который превращает require('xyz') в относительный URL результата [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan") [pic.twitter.com/0TZSwh0WUy](http://t.co/0TZSwh0WUy)
 
-RT <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a> а как в этом случае hot reload отрабатывает? Убивает локальный стейт?
+RT [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") а как в этом случае hot reload отрабатывает? Убивает локальный стейт?
 
-React Hot Loader не убивает локальный стейт компонентов. В этом его фишка. ) Он делает это, проксируя все методы <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>
+React Hot Loader не убивает локальный стейт компонентов. В этом его фишка. ) Он делает это, проксируя все методы [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy")
 
-RT <a href="https://twitter.com/drzhbe" title="Сальников Станислав">@drzhbe</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> насколько я знаю у тебя как минимум 2 крупных опенсорс проекта (redux, dnd). Как распределяешь свое время между ни…
+RT [@drzhbe](https://twitter.com/drzhbe "Сальников Станислав"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") насколько я знаю у тебя как минимум 2 крупных опенсорс проекта (redux, dnd). Как распределяешь свое время между ни…
 
-Еще React Hot Loader. :-) Перемещаю фокус. DnD 1.0 выпущен, я занялся Redux. После конференции выпущу Redux — пересмотрю приоритеты <a href="https://twitter.com/drzhbe" title="Сальников Станислав">@drzhbe</a>
+Еще React Hot Loader. :-) Перемещаю фокус. DnD 1.0 выпущен, я занялся Redux. После конференции выпущу Redux — пересмотрю приоритеты [@drzhbe](https://twitter.com/drzhbe "Сальников Станислав")
 
-Заниматься несколькими вещами у меня никогда не получалось. Надо доводить проекты, чтобы они какое-то время могли жить без меня. <a href="https://twitter.com/drzhbe" title="Сальников Станислав">@drzhbe</a>
+Заниматься несколькими вещами у меня никогда не получалось. Надо доводить проекты, чтобы они какое-то время могли жить без меня. [@drzhbe](https://twitter.com/drzhbe "Сальников Станислав")
 
-RT <a href="https://twitter.com/limpbrains" title="Ivan">@limpbrains</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> используешь что-нибудь для генерации и валидации форм в React?
+RT [@limpbrains](https://twitter.com/limpbrains "Ivan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") используешь что-нибудь для генерации и валидации форм в React?
 
-Лично я нет, но вопрос интересный, потому что какой-то одной лидирующей либы я не знаю. Подписчики? <a href="https://twitter.com/limpbrains" title="Ivan">@limpbrains</a>
+Лично я нет, но вопрос интересный, потому что какой-то одной лидирующей либы я не знаю. Подписчики? [@limpbrains](https://twitter.com/limpbrains "Ivan")
 
-В целом, даже если не в сторы, всё равно стейт лучше выносить наверх: <a href="https://t.co/9elnPjzDWZ">medium.com/@dan_abramov/s…</a>
+В целом, даже если не в сторы, всё равно стейт лучше выносить наверх: [medium.com/@dan_abramov/s…](https://t.co/9elnPjzDWZ "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0")
 
-RT <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>: <a href="https://twitter.com/dmitruksergey" title="Serhii Dmytruk">@dmitruksergey</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> если в умном компоненте несколько попапов, то каждый должен хранить состояние в сторе?
+RT [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy"): [@dmitruksergey](https://twitter.com/dmitruksergey "Serhii Dmytruk") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если в умном компоненте несколько попапов, то каждый должен хранить состояние в сторе?
 
-Хороший вопрос. Либо стол знает о разных попапах, и у них есть какие-то ID для разделения состояния. <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a> <a href="https://twitter.com/dmitruksergey" title="Serhii Dmytruk">@dmitruksergey</a>
+Хороший вопрос. Либо стол знает о разных попапах, и у них есть какие-то ID для разделения состояния. [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") [@dmitruksergey](https://twitter.com/dmitruksergey "Serhii Dmytruk")
 
-Либо ты можешь использовать Redux, в котором это решается композицией редюсеров. <a href="https://t.co/x9MskRHZcE">gist.github.com/gaearon/d77ca8…</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a> <a href="https://twitter.com/dmitruksergey" title="Serhii Dmytruk">@dmitruksergey</a>
+Либо ты можешь использовать Redux, в котором это решается композицией редюсеров. [gist.github.com/gaearon/d77ca8…](https://t.co/x9MskRHZcE "https://gist.github.com/gaearon/d77ca812015c0356654f") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") [@dmitruksergey](https://twitter.com/dmitruksergey "Serhii Dmytruk")
 
-RT <a href="https://twitter.com/milk_is_my_life" title="Sebastyan Pereiro">@milk_is_my_life</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a> Дэн, а насколько твоя реализация хот лоадера зависит от реакта? Реально ли испо…
+RT [@milk_is_my_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") Дэн, а насколько твоя реализация хот лоадера зависит от реакта? Реально ли испо…
 
-Webpack предоставляет API, который можно использовать для любой библиотеки. <a href="https://twitter.com/milk_is_my_life" title="Sebastyan Pereiro">@milk_is_my_life</a> <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>
+Webpack предоставляет API, который можно использовать для любой библиотеки. [@milk_is_my_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy")
 
-Другое дело — насколько Knockout декларативный? Можно ли просто «заменить» функцию render? <a href="https://twitter.com/milk_is_my_life" title="Sebastyan Pereiro">@milk_is_my_life</a> <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>
+Другое дело — насколько Knockout декларативный? Можно ли просто «заменить» функцию render? [@milk_is_my_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy")
 
-React Hot Loader работает, потому что render() не имеет сайт эффектов, и можно заменить на ходу <a href="https://twitter.com/milk_is_my_life" title="Sebastyan Pereiro">@milk_is_my_life</a> <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a> <a href="https://twitter.com/YevhenBoyarsky" title="Yevhen Boyarskiy">@YevhenBoyarsky</a>
+React Hot Loader работает, потому что render() не имеет сайт эффектов, и можно заменить на ходу [@milk_is_my_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev") [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy")
 
-RT <a href="https://twitter.com/icelabaratory" title="Ivan Starkov">@icelabaratory</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/limpbrains" title="Ivan">@limpbrains</a> Недавно исследовал эту тему это <a href="https://t.co/dSkMLxoePe">github.com/gcanti/tcomb-f…</a> выглядит как единственное что-то еще жи…
+RT [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@limpbrains](https://twitter.com/limpbrains "Ivan") Недавно исследовал эту тему это [github.com/gcanti/tcomb-f…](https://t.co/dSkMLxoePe "https://github.com/gcanti/tcomb-form") выглядит как единственное что-то еще жи…
 
-RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a> привет! Не хочешь провести неделю <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>? Было бы чертовски круто!
+RT [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@andreypopp](https://twitter.com/andreypopp "Andrey Popp") привет! Не хочешь провести неделю [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")? Было бы чертовски круто!
 
-Мой любимый блог по программированию: <a href="http://t.co/0Qj0UtX8Ka">prog21.dadgum.com</a>. А ваш?
+Мой любимый блог по программированию: [prog21.dadgum.com](http://t.co/0Qj0UtX8Ka "http://prog21.dadgum.com/"). А ваш?
 
-RT <a href="https://twitter.com/icelabaratory" title="Ivan Starkov">@icelabaratory</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Этот <a href="https://t.co/SUQsCQm8d3">github.com/sebmarkbage?ta…</a> каждый раз когда я чувствую что я крут, читаю его комментарии. Крутизна слетае…
+RT [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Этот [github.com/sebmarkbage?ta…](https://t.co/SUQsCQm8d3 "https://github.com/sebmarkbage?tab=activity") каждый раз когда я чувствую что я крут, читаю его комментарии. Крутизна слетае…
 
-RT <a href="https://twitter.com/gxoptg_" title="Ivan Akulov">@gxoptg_</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Я обожаю <a href="https://twitter.com/2ality" title="The 2ality blog">@2ality</a> за подробности и технические детали.
+RT [@gxoptg_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я обожаю [@2ality](https://twitter.com/2ality "The 2ality blog") за подробности и технические детали.
 
-Мой второй любимый блог по программированию: <a href="http://t.co/2HwHwm3xpl">johndcook.com/blog/</a>
+Мой второй любимый блог по программированию: [johndcook.com/blog/](http://t.co/2HwHwm3xpl "http://www.johndcook.com/blog/")
 
-RT <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> твиттер заполняет всю информационную нишу. Чем пользуешься для агрегации блогов?
+RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") твиттер заполняет всю информационную нишу. Чем пользуешься для агрегации блогов?
 
-Раньше Google Docs, сейчас ничем. Просто захожу раз в месяц на те, которые помню. <a href="https://twitter.com/mbektimirov" title="Marat Bektimirov">@mbektimirov</a>
+Раньше Google Docs, сейчас ничем. Просто захожу раз в месяц на те, которые помню. [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov")
 
-RT <a href="https://twitter.com/Sullenor" title="Литвинов Алексей">@Sullenor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="http://t.co/Wzb8D0fnO2">codewars.com</a> - хорошее обучение на практике :)
+RT [@Sullenor](https://twitter.com/Sullenor "Литвинов Алексей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [codewars.com](http://t.co/Wzb8D0fnO2 "http://www.codewars.com") - хорошее обучение на практике :)
 
-RT <a href="https://twitter.com/talgautb" title="Талга УтБ">@talgautb</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Твиттер основной источник + подписки на недельный забугорный дайджест + Хабр чисто для интереса
+RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Твиттер основной источник + подписки на недельный забугорный дайджест + Хабр чисто для интереса
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, он милый. Я когда Underhood вел, кидал вот это: <a href="http://t.co/BpnfuZVOvJ">steve-yegge.blogspot.com</a> и <a href="https://t.co/pIBVPHTuAx">sites.google.com/site/steveyegg…</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, он милый. Я когда Underhood вел, кидал вот это: [steve-yegge.blogspot.com](http://t.co/BpnfuZVOvJ "http://steve-yegge.blogspot.com/") и [sites.google.com/site/steveyegg…](https://t.co/pIBVPHTuAx "https://sites.google.com/site/steveyegge2/blog-rants")
 
-RT <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как относишься к <a href="https://t.co/HmTngLgRAA">github.com/feross/standard</a> ? Меня он немного пугает. Karma на него перевели недавно, напрмер, я…
+RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как относишься к [github.com/feross/standard](https://t.co/HmTngLgRAA "https://github.com/feross/standard") ? Меня он немного пугает. Karma на него перевели недавно, напрмер, я…
 
-Лично я не впечатлен. Использую гораздо более «стандартный» Airbnb-стиль. <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+Лично я не впечатлен. Использую гораздо более «стандартный» Airbnb-стиль. [@silentroach](https://twitter.com/silentroach "Игорь")
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a> ничего, наши в теме: <a href="https://t.co/rlJFPGjaUU">github.com/Flet/semistand…</a> Я им много месяцев пользуюсь, он ближе к AirBnB, в том числе <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@silentroach](https://twitter.com/silentroach "Игорь") ничего, наши в теме: [github.com/Flet/semistand…](https://t.co/rlJFPGjaUU "https://github.com/Flet/semistandard") Я им много месяцев пользуюсь, он ближе к AirBnB, в том числе [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-По правде я не вижу смысла в отдельных стайл чекерах, если есть ESLint, и он поддерживает extend-ы конфигов. <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+По правде я не вижу смысла в отдельных стайл чекерах, если есть ESLint, и он поддерживает extend-ы конфигов. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") [@silentroach](https://twitter.com/silentroach "Игорь")
 
-Например меня пару дней назад научили такой мудрости, это всё, что мне нужно. <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a> <a href="http://t.co/N1OJY8FBTy">pic.twitter.com/N1OJY8FBTy</a>
+Например меня пару дней назад научили такой мудрости, это всё, что мне нужно. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") [@silentroach](https://twitter.com/silentroach "Игорь") [pic.twitter.com/N1OJY8FBTy](http://t.co/N1OJY8FBTy)
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я зашел к тебе на <a href="https://t.co/lZScBrMl8s">github.com/gaearon/redux</a> а у тебя там всего 2 баджа. А должно быть ну хотя бы 5, а лучше 15 :<a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я зашел к тебе на [github.com/gaearon/redux](https://t.co/lZScBrMl8s "https://github.com/gaearon/redux") а у тебя там всего 2 баджа. А должно быть ну хотя бы 5, а лучше 15 :[@silentroach](https://twitter.com/silentroach "Игорь")
 
 Через полчаса я превращусь в тыкву. Что-нибудь, о чем хотите спросить напоследок?
 
-Хаха. Я уже счет дням недели потерял. Всё из-за конференции этой. ) <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
+Хаха. Я уже счет дням недели потерял. Всё из-за конференции этой. ) [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov")
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> сегодня только суббота
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сегодня только суббота
 
-RT <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> почему flux (и аналоги, в том числе твой) такой сложный и расплывчатый? И ни в одном нет примеров с простейши…
+RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему flux (и аналоги, в том числе твой) такой сложный и расплывчатый? И ни в одном нет примеров с простейши…
 
-Есть пример с AJAX и Redux: <a href="http://t.co/gBgmrBim49">github.com/emmenko/redux-…</a>. Ссылка из README есть. Официальный пример будет позже. <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+Есть пример с AJAX и Redux: [github.com/emmenko/redux-…](http://t.co/gBgmrBim49 "http://github.com/emmenko/redux-react-router-async-example"). Ссылка из README есть. Официальный пример будет позже. [@silentroach](https://twitter.com/silentroach "Игорь")
 
-Я сейчас усиленно готовлюсь к конференции React Europe, где я покажу, зачем в принципе я делал Redux. <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+Я сейчас усиленно готовлюсь к конференции React Europe, где я покажу, зачем в принципе я делал Redux. [@silentroach](https://twitter.com/silentroach "Игорь")
 
-Поэтому сейчас он не такой документированный, как мне хотелось бы. Я займусь этим после конфы обязательно. <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+Поэтому сейчас он не такой документированный, как мне хотелось бы. Я займусь этим после конфы обязательно. [@silentroach](https://twitter.com/silentroach "Игорь")
 
-По поводу общего вопроса — поясни, что ты называешь расплывчатостью. Твой вопрос тоже расплывчатый. ) <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+По поводу общего вопроса — поясни, что ты называешь расплывчатостью. Твой вопрос тоже расплывчатый. ) [@silentroach](https://twitter.com/silentroach "Игорь")
 
-В целом про «о чем Flux» я написал вот эту статью: <a href="https://t.co/f1MJKgkzHu">medium.com/@dan_abramov/t…</a> <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+В целом про «о чем Flux» я написал вот эту статью: [medium.com/@dan_abramov/t…](https://t.co/f1MJKgkzHu "https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6") [@silentroach](https://twitter.com/silentroach "Игорь")
 
-В целом, для каждого уважающего себя Flux-фреймворка есть пример с AJAX. Просто они обычно в отдельных репах. <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+В целом, для каждого уважающего себя Flux-фреймворка есть пример с AJAX. Просто они обычно в отдельных репах. [@silentroach](https://twitter.com/silentroach "Игорь")
 
-Согласен, не хватает «лучших практик». В Redux я стараюсь ограничить то, что можно сделать, чтобы таких вопросов было меньше. <a href="https://twitter.com/silentroach" title="Игорь">@silentroach</a>
+Согласен, не хватает «лучших практик». В Redux я стараюсь ограничить то, что можно сделать, чтобы таких вопросов было меньше. [@silentroach](https://twitter.com/silentroach "Игорь")
 
 Вы программируете под музыку? Под какую?
 
 Про себя — в последнее время кручу по кругу по очереди To Pimp a Butterly (Kendrick Lamar) и Born to Die (Lana Del Rey :-)
 
-RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> конечно. Dead Kennedys, ZZ Top, the rumjacks, judas priest, Beethoven!
+RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") конечно. Dead Kennedys, ZZ Top, the rumjacks, judas priest, Beethoven!
 
-RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> последний месяц только под это, рекомендую <a href="https://t.co/0ZQFAXukfY">soundcloud.com/podval-capella…</a>
+RT [@_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") последний месяц только под это, рекомендую [soundcloud.com/podval-capella…](https://t.co/0ZQFAXukfY "https://soundcloud.com/podval-capella/sets/main")
 
-Еще меня вот этот микс очень завораживает. <a href="https://t.co/xjKx5ryyOT">soundcloud.com/taras3000/the-…</a>
+Еще меня вот этот микс очень завораживает. [soundcloud.com/taras3000/the-…](https://t.co/xjKx5ryyOT "https://soundcloud.com/taras3000/the-sailing-away")
 
-RT <a href="https://twitter.com/beshkenadze" title="Александр Бешкенадзе">@beshkenadze</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Rammstein, мотивирует :)
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Rammstein, мотивирует :)
 
-RT <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> есть хороший сервис — mixcloud. Выбираешь тег-жанр и слушаешь миксы по часу и больше
+RT [@kuksikus](https://twitter.com/kuksikus "R.M."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть хороший сервис — mixcloud. Выбираешь тег-жанр и слушаешь миксы по часу и больше
 
 Программирование и вещества. Совместимо? Скучно?
 
-RT <a href="https://twitter.com/ALF_er" title="Illia Segeda">@ALF_er</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> виски иногда
+RT [@ALF_er](https://twitter.com/ALF_er "Illia Segeda"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") виски иногда
 
-RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Отлично программируется, когда чуть-чуть пьяный. Самую малость.
+RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Отлично программируется, когда чуть-чуть пьяный. Самую малость.
 
-То есть Ballmer Peak это не миф? <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>
+То есть Ballmer Peak это не миф? [@suxxes](https://twitter.com/suxxes "Father Frodo")
 
-RT <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как-то писал код пьяным, дома. Утром пришлось всё переписать) если покурить, совсем не хочется писать код
+RT [@kuksikus](https://twitter.com/kuksikus "R.M."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как-то писал код пьяным, дома. Утром пришлось всё переписать) если покурить, совсем не хочется писать код
 
-Мне тоже не хочется. А вот подумать про абстракции иногда тянет. Связи и паттерны захватывают <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Мне тоже не хочется. А вот подумать про абстракции иногда тянет. Связи и паттерны захватывают [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> В добавление к музыке: не могу работать под музыку со словами, особенно если люблю и знаю слова. Сижу и вместо код…
+RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") В добавление к музыке: не могу работать под музыку со словами, особенно если люблю и знаю слова. Сижу и вместо код…
 
-Пока не знаю слова, меня они отвлекают. Когда я их помню, я на автомате напеваю, и они не «занимают» словесный процессор мозга <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>
+Пока не знаю слова, меня они отвлекают. Когда я их помню, я на автомате напеваю, и они не «занимают» словесный процессор мозга [@suxxes](https://twitter.com/suxxes "Father Frodo")
 
-RT <a href="https://twitter.com/cakeinpanic" title="Katerina Tort">@cakeinpanic</a>: <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> write drunk, edit sober. Ernest Hemingway <a href="http://t.co/bfkFKTkRE3">pic.twitter.com/bfkFKTkRE3</a>
+RT [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort"): [@kuksikus](https://twitter.com/kuksikus "R.M.") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") write drunk, edit sober. Ernest Hemingway [pic.twitter.com/bfkFKTkRE3](http://t.co/bfkFKTkRE3)
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> судьбоносный вопрос: StarTrek смотрел? Кирк или Пиккар? DS9 - торт или говно? Захари Кину - новая надежда или …
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") судьбоносный вопрос: StarTrek смотрел? Кирк или Пиккар? DS9 - торт или говно? Захари Кину - новая надежда или …
 
-Хаха. Я пока не смотрел толком. Чуть-чуть начинал только. <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>
+Хаха. Я пока не смотрел толком. Чуть-чуть начинал только. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кофеин, совместимо)
+RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кофеин, совместимо)
 
-Десктопная картинка тред. <a href="http://t.co/KhbCy39TdH">pic.twitter.com/KhbCy39TdH</a>
+Десктопная картинка тред. [pic.twitter.com/KhbCy39TdH](http://t.co/KhbCy39TdH)
 
-RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="http://t.co/Y3F0zGIUA5">pic.twitter.com/Y3F0zGIUA5</a>
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/Y3F0zGIUA5](http://t.co/Y3F0zGIUA5)
 
-RT <a href="https://twitter.com/beshur" title="Shu Buznik">@beshur</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="http://t.co/QFD7aHEI7F">pic.twitter.com/QFD7aHEI7F</a>
+RT [@beshur](https://twitter.com/beshur "Shu Buznik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/QFD7aHEI7F](http://t.co/QFD7aHEI7F)
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> какой прекрасный субботний вещества-тред
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@kuksikus](https://twitter.com/kuksikus "R.M.") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") какой прекрасный субботний вещества-тред
 
-Есть еще интересный лайфхак на эту тему, который мне показал друг. Сейчас расскажу. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Есть еще интересный лайфхак на эту тему, который мне показал друг. Сейчас расскажу. [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну если MDMA, то митинг растянется на весь день и будет самым успешным в ис…
+RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@kuksikus](https://twitter.com/kuksikus "R.M.") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну если MDMA, то митинг растянется на весь день и будет самым успешным в ис…
 
-Так вот. Берете приложение <a href="https://t.co/OgzyYOote3">vk.com/app2462</a>. Запускаете во вкладках три радиостанции. <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Так вот. Берете приложение [vk.com/app2462](https://t.co/OgzyYOote3 "https://vk.com/app2462"). Запускаете во вкладках три радиостанции. [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-Станции такие: Relax &gt; Nature Sounds, Разное &gt; Детское радио и Электроника &gt; Cliqhop IDM. <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Станции такие: Relax &gt; Nature Sounds, Разное &gt; Детское радио и Электроника &gt; Cliqhop IDM. [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-Настраиваете уровни громкости, затягиваетесь и наслаждаетесь. <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Настраиваете уровни громкости, затягиваетесь и наслаждаетесь. [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-Я думаю если свести их и записать, это будет самая модная пластинка <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Я думаю если свести их и записать, это будет самая модная пластинка [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-Думаю его тоже туда можно подмешать.. <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
+Думаю его тоже туда можно подмешать.. [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov") [@kuksikus](https://twitter.com/kuksikus "R.M.")
 
-Ме нравится. В духе <a href="https://t.co/M7TD3kbl68">vimeo.com/88035957</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
+Ме нравится. В духе [vimeo.com/88035957](https://t.co/M7TD3kbl68 "https://vimeo.com/88035957") [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov")
 
-RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> бтв, новую айдентику мтв тоже как будто под веществами делали
-<a href="http://t.co/UnIYJ2m36o">creativereview.co.uk/cr-blog/2015/j…</a> <a href="http://t.co/KXCSXVVKZ0">pic.twitter.com/KXCSXVVKZ0</a>
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") бтв, новую айдентику мтв тоже как будто под веществами делали
+[creativereview.co.uk/cr-blog/2015/j…](http://t.co/UnIYJ2m36o "http://www.creativereview.co.uk/cr-blog/2015/june/mtv") [pic.twitter.com/KXCSXVVKZ0](http://t.co/KXCSXVVKZ0)
 
-RT <a href="https://twitter.com/mbarinov" title="Max Barinov">@mbarinov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> как тебе второй Angular?
+RT [@mbarinov](https://twitter.com/mbarinov "Max Barinov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как тебе второй Angular?
 
-Пока не смотрел. По блогам нравится, что есть возможность делать top down data flow и immutable модели. <a href="https://twitter.com/mbarinov" title="Max Barinov">@mbarinov</a>
+Пока не смотрел. По блогам нравится, что есть возможность делать top down data flow и immutable модели. [@mbarinov](https://twitter.com/mbarinov "Max Barinov")
 
-RT <a href="https://twitter.com/ilnurkhalilov" title="Ilnur Khalilov">@ilnurkhalilov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Run the Jewels — отличнейший рэп. Лана была прошлым летом :)
+RT [@ilnurkhalilov](https://twitter.com/ilnurkhalilov "Ilnur Khalilov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Run the Jewels — отличнейший рэп. Лана была прошлым летом :)
 
-RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А есть еще разрабы с кератоконусом? Как выживают?
+RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А есть еще разрабы с кератоконусом? Как выживают?
 
-Как не надо писать комментарии на Github: <a href="https://t.co/RUyznc5jHn">github.com/gaearon/react-…</a>
+Как не надо писать комментарии на Github: [github.com/gaearon/react-…](https://t.co/RUyznc5jHn "https://github.com/gaearon/react-dnd/issues/200")
 
 ## Воскресенье <small>17 твитов</small>
 
-RT <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> воскресный вопрос, какие хобби у программистов? Мне кажется что почти все либо музыканты, либо фотографы)
+RT [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") воскресный вопрос, какие хобби у программистов? Мне кажется что почти все либо музыканты, либо фотографы)
 
-RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а кто в очках?
+RT [@denswor](https://twitter.com/denswor "denswor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а кто в очках?
 
-Курт Гёдель, доказавший, что если формальная система достаточно выразительна для арифметики, её консистентность не доказать изнутри <a href="https://twitter.com/denswor" title="denswor">@denswor</a>
+Курт Гёдель, доказавший, что если формальная система достаточно выразительна для арифметики, её консистентность не доказать изнутри [@denswor](https://twitter.com/denswor "denswor")
 
-RT <a href="https://twitter.com/dmitruksergey" title="Serhii Dmytruk">@dmitruksergey</a>: <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> у меня бег и силовые.
+RT [@dmitruksergey](https://twitter.com/dmitruksergey "Serhii Dmytruk"): [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") у меня бег и силовые.
 
 Репетирую доклад. Выходит 50 минут. Надо 25. Как вы выбираете, что выкинуть?
 
 Например, понятно, что демо выигрывает у просто слайдов. Но бросаться из одного демо в другое — может быть недостаточно понятно.
 
-RT <a href="https://twitter.com/beshkenadze" title="Александр Бешкенадзе">@beshkenadze</a>: <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> пет-проекты, книги и игры.
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") пет-проекты, книги и игры.
 
-RT <a href="https://twitter.com/Sullenor" title="Литвинов Алексей">@Sullenor</a>: <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> кино, лонгборд и бас-гитара :)
+RT [@Sullenor](https://twitter.com/Sullenor "Литвинов Алексей"): [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кино, лонгборд и бас-гитара :)
 
-RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a> комиксы, стройка, бег <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей") комиксы, стройка, бег [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-RT <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Оставляю то, что складывается в историю. У каждой истории есть главная линия, а также есть ответвления. Руби ветк…
+RT [@mista_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Оставляю то, что складывается в историю. У каждой истории есть главная линия, а также есть ответвления. Руби ветк…
 
-RT <a href="https://twitter.com/_cloudo" title="Cloudo">@_cloudo</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> расскажи о своем пути обучения английскому? может какие-нибудь лайфхаки/советы/сервисы/методики?
+RT [@_cloudo](https://twitter.com/_cloudo "Cloudo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") расскажи о своем пути обучения английскому? может какие-нибудь лайфхаки/советы/сервисы/методики?
 
-Я просто Гарри Поттера прочитал всего. К седьмой книжке хочешь не хочешь выучишь <a href="https://twitter.com/_cloudo" title="Cloudo">@_cloudo</a>
+Я просто Гарри Поттера прочитал всего. К седьмой книжке хочешь не хочешь выучишь [@_cloudo](https://twitter.com/_cloudo "Cloudo")
 
-RT <a href="https://twitter.com/sashakavun" title="Aleksandr Kavun">@sashakavun</a>: <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> практическая стрельба, книги, бег.
+RT [@sashakavun](https://twitter.com/sashakavun "Aleksandr Kavun"): [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") практическая стрельба, книги, бег.
 
-RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a>: <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> банальные книги/музыка/игры, бокс, стрельба, пет-проекты
+RT [@_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") банальные книги/музыка/игры, бокс, стрельба, пет-проекты
 
-RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a href="https://twitter.com/_cloudo" title="Cloudo">@_cloudo</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> курсера, сериалы, skyeng
+RT [@soider](https://twitter.com/soider "Michael Sakhnov"): [@_cloudo](https://twitter.com/_cloudo "Cloudo") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") курсера, сериалы, skyeng
 
 Прощаюсь с вами, спасибо всем за отличную неделю! Скоро в Париж на React Europe, буду вас вспоминать )
 
-Мой основной аккаунт <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a>, в основном англоязычный, но я отвечаю по-русски, если спросите по-русски. Следите за апдейтами! &lt;3
+Мой основной аккаунт [@dan_abramov](https://twitter.com/dan_abramov "Dan Abramov"), в основном англоязычный, но я отвечаю по-русски, если спросите по-русски. Следите за апдейтами! &lt;3
 
 ## Ссылки
 
