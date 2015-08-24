@@ -20,4 +20,4 @@ setTimeout(function() {
     fs.outputJson(`./dump/latest-info.json`, info, err =>
       log(`latest info done`));
   });
-}, 10000)
+}, 60000);
