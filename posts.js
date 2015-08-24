@@ -48,7 +48,9 @@ const post = (author, post = true) => {
             groups[domain] = [];
           }
 
-          groups[domain].push(url);
+          if (-1 === groups[domain].indexOf(url)) {
+            groups[domain].push(url);
+          }
         }
       }
 
