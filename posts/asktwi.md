@@ -799,6 +799,7 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 
 ## Ссылки
 
+<a href="http://thirdrockradio.net" target="_blank">http://thirdrockradio.net</a>  
 <a href="http://verdure.net/" target="_blank">http://verdure.net/</a>  
 <a href="https://www.npmjs.com/package/grulp" target="_blank">https://www.npmjs.com/package/grulp</a>  
 <a href="http://course.by/whatsthat/" target="_blank">http://course.by/whatsthat/</a>  
@@ -815,15 +816,18 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 <a href="http://wheel.by/" target="_blank">http://wheel.by/</a>  
 <a href="http://websitesfromhell.net/" target="_blank">http://websitesfromhell.net/</a>  
 <a href="https://jsunderhood.ru/stats/" target="_blank">https://jsunderhood.ru/stats/</a>  
+<a href="http://JavaScript.com" target="_blank">http://JavaScript.com</a>  
 <a href="https://www.youtube.com/watch?v=iUtwKqSIH90&list=PLMBnwIwFEFHcnfvD14to6fMcbNmH25_Yk" target="_blank">https://www.youtube.com/watch?v=iUtwKqSIH90&list=PLMBnwIwFEFHcnfvD14to6fMcbNmH25_Yk</a>  
 <a href="https://www.youtube.com/watch?v=yRsT5wBSYZ0" target="_blank">https://www.youtube.com/watch?v=yRsT5wBSYZ0</a>  
 <a href="http://caniuse.com/#feat=viewport-units" target="_blank">http://caniuse.com/#feat=viewport-units</a>  
 <a href="http://vsevolodustinov.ru/blog/all/o-polze-vedeniya-professionalnogo-bloga/" target="_blank">http://vsevolodustinov.ru/blog/all/o-polze-vedeniya-professionalnogo-bloga/</a>  
 <a href="http://sapegin.ru/" target="_blank">http://sapegin.ru/</a>  
 <a href="http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/" target="_blank">http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/</a>  
+<a href="http://sunify.github.io" target="_blank">http://sunify.github.io</a>  
 <a href="http://vstarkov.ru/" target="_blank">http://vstarkov.ru/</a>  
 <a href="http://vstarkov.com/" target="_blank">http://vstarkov.com/</a>  
 <a href="https://iamstarkov.com/" target="_blank">https://iamstarkov.com/</a>  
+<a href="http://rdcm.com" target="_blank">http://rdcm.com</a>  
 <a href="https://events.yandex.ru/lib/talks/1518/" target="_blank">https://events.yandex.ru/lib/talks/1518/</a>  
 <a href="http://stackoverflow.com/questions/10025141/removing-red-eye-from-an-image-on-the-client-side-using-jquery" target="_blank">http://stackoverflow.com/questions/10025141/removing-red-eye-from-an-image-on-the-client-side-using-jquery</a>  
 <a href="http://www.2ality.com/2015/03/no-promises.html" target="_blank">http://www.2ality.com/2015/03/no-promises.html</a>  
@@ -832,6 +836,7 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 <a href="https://svgontheweb.com/" target="_blank">https://svgontheweb.com/</a>  
 <a href="https://www.facebook.com/FrontendLeague" target="_blank">https://www.facebook.com/FrontendLeague</a>  
 <a href="https://www.facebook.com/geekbattle.by" target="_blank">https://www.facebook.com/geekbattle.by</a>  
+<a href="http://geizer.com" target="_blank">http://geizer.com</a>  
 <a href="http://largescalejs.ru/" target="_blank">http://largescalejs.ru/</a>  
 <a href="http://hudochenkov.com/pro/rozovoz/js/scripts.js" target="_blank">http://hudochenkov.com/pro/rozovoz/js/scripts.js</a>  
 <a href="http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications" target="_blank">http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications</a>  

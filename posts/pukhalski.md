@@ -384,6 +384,7 @@ RT <a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a>: 
 
 <a href="http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none" target="_blank">http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none</a>  
 <a href="https://myspace.com/obediencetoauthority/music/songs" target="_blank">https://myspace.com/obediencetoauthority/music/songs</a>  
+<a href="https://fcfrwrd.bandcamp.com" target="_blank">https://fcfrwrd.bandcamp.com</a>  
 <a href="https://vk.com/slavexship" target="_blank">https://vk.com/slavexship</a>  
 <a href="https://vimeo.com/67050196" target="_blank">https://vimeo.com/67050196</a>  
 <a href="https://vimeo.com/110554082" target="_blank">https://vimeo.com/110554082</a>  
@@ -391,4 +392,5 @@ RT <a href="https://twitter.com/aod_toxic" title="Leon Yeromin">@aod_toxic</a>: 
 <a href="http://code.joejag.com/2014/why-zsh.html" target="_blank">http://code.joejag.com/2014/why-zsh.html</a>  
 <a href="http://shirtjs.com/about/" target="_blank">http://shirtjs.com/about/</a>  
 <a href="http://iamstarkov.com/" target="_blank">http://iamstarkov.com/</a>  
-<a href="http://buff.ly/1HzVVbR" target="_blank">http://buff.ly/1HzVVbR</a>
+<a href="http://buff.ly/1HzVVbR" target="_blank">http://buff.ly/1HzVVbR</a>  
+<a href="http://pukhalski.com" target="_blank">http://pukhalski.com</a>

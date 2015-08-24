@@ -947,7 +947,7 @@ RT <a href="https://twitter.com/sevaisnotcow" title="wwwsevolod">@sevaisnotcow</
 
 RT <a href="https://twitter.com/esergeev" title="Evgeniy Sergeev">@esergeev</a>: Думается мне, что <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> агитирует за JSON+Схема+Транспорт только для того, чтобы потом заявить, что и это решение говн…
 
-## Пятница <small>199 твитов</small>
+## Пятница <small>207 твитов</small>
 
 RT <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a>: Давайте поговорим о дискриминации. <a href="http://t.co/reJypOKSfj">m.geektimes.ru/post/259762/</a> Знаете красивых девушек программистов?
 
@@ -1349,8 +1349,6 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 Но по ретвитам у тебя больше engagement, мне больше отвечают. <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
 
-## Суббота <small>77 твитов</small>
-
 RT <a href="https://twitter.com/ZhivotvorevNik" title="Животворев Николай">@ZhivotvorevNik</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> неужели даже взорванные пуканы не помогли?)))
 
 Старею, слишком быстро остыл и стало стыдно :) <a href="https://twitter.com/ZhivotvorevNik" title="Животворев Николай">@ZhivotvorevNik</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
@@ -1366,6 +1364,8 @@ RT <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a>
 В просто коде нет никакой ценности, он должен решать задачу. Чтобы понять задачу надо уметь общаться с люди. <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a> <a href="https://twitter.com/Spellful" title="Соколов Виталий">@Spellful</a>
 
 RT <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a>: Всё-таки <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> "прекрасен": как только человек до туда добирается, так становится единственным-человеком-с-правильным-м…
+
+## Суббота <small>69 твитов</small>
 
 Суббота, поговорим про опен сорс. Делает ли ваша компания опен сорс? Какое отношение начальства? Кидайте ссылки на oss вашей фирмы.
 
@@ -1744,6 +1744,7 @@ RT <a href="https://twitter.com/Timrael" title="Timur Kozmenko">@Timrael</a>: <a
 <a href="https://facebook.github.io/react/tips/dangerously-set-inner-html.html" target="_blank">https://facebook.github.io/react/tips/dangerously-set-inner-html.html</a>  
 <a href="https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/" target="_blank">https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/</a>  
 <a href="https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/" target="_blank">https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/</a>  
+<a href="http://www.zenrobotics.com" target="_blank">http://www.zenrobotics.com</a>  
 <a href="https://instagram.com/p/y413-exPyZ/" target="_blank">https://instagram.com/p/y413-exPyZ/</a>  
 <a href="https://speakerdeck.com/laneyk/mutations-in-relay" target="_blank">https://speakerdeck.com/laneyk/mutations-in-relay</a>  
 <a href="http://d3js.org/" target="_blank">http://d3js.org/</a>  

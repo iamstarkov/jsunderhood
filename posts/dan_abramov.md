@@ -163,7 +163,7 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 Я пойду стричься, подумаю над темами на неделю. Кидайте еще, о чем хотите поговорить. Можно в личку если что-то скользкое.
 
-## Вторник <small>119 твитов</small>
+## Вторник <small>124 твита</small>
 
 Привет. Я проснулся.
 
@@ -407,8 +407,6 @@ RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>:
 
 Завершаю сегодняшний поток добрым видео. Спокойной ночи! <a href="https://t.co/M7TD3kbl68">vimeo.com/88035957</a>
 
-## Среда <small>45 твитов</small>
-
 Провинция, front end (angular) - 40к и это еще много. <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
 
 RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а не было желания написать свой роутер для реакта?
@@ -418,6 +416,8 @@ RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebr
 Миксины опциональные, ты можешь использовать контекст напрямую. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
 
 Роутер 1.0 будет легко "направлять" через Flux полностью, так что состояние может лежать в твоем сторе. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>
+
+## Среда <small>40 твитов</small>
 
 Киев, пусть будет Senior, не лид, Node.js/React, $3.5k - 4% <a href="https://t.co/UK8Y0YUjpX">twitter.com/jsunderhood/st…</a>
 
@@ -562,7 +562,7 @@ RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a hre
 
 Я думаю, что Webpack Hot Module Replacement + тулзы типа React Hot Loader достойно решают эту проблему. <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> <a href="https://twitter.com/somerandstring" title="Ivan Dmitriev">@somerandstring</a>
 
-## Пятница <small>78 твитов</small>
+## Пятница <small>79 твитов</small>
 
 Вы пользуетесь Browserify или Webpack? Почему?
 
@@ -722,9 +722,9 @@ RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlen
 
 RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> сейчас в проекте имеем 140000 значимого кода и ветка с webpack выглядит спасением
 
-## Суббота <small>82 твита</small>
-
 RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> да, однажды во сне приснились строчки моего кода где был баг, который искал неделю.
+
+## Суббота <small>95 твитов</small>
 
 RT <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a>: .<a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a> читаю про Webpack. Первый вопрос: почему они хотят CSS через JS грузить? http://t.co<a href="http://t.co/aYp0RORTO9">webpack.github.io/docs/tutorials…</a>
 
@@ -888,8 +888,6 @@ RT <a href="https://twitter.com/beshur" title="Shu Buznik">@beshur</a>: <a href=
 
 RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> какой прекрасный субботний вещества-тред
 
-## Воскресенье <small>31 твит</small>
-
 Есть еще интересный лайфхак на эту тему, который мне показал друг. Сейчас расскажу. <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a>
 
 RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/kuksikus" title="R.M.">@kuksikus</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну если MDMA, то митинг растянется на весь день и будет самым успешным в ис…
@@ -918,6 +916,8 @@ RT <a href="https://twitter.com/ilnurkhalilov" title="Ilnur Khalilov">@ilnurkhal
 RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А есть еще разрабы с кератоконусом? Как выживают?
 
 Как не надо писать комментарии на Github: <a href="https://t.co/RUyznc5jHn">github.com/gaearon/react-…</a>
+
+## Воскресенье <small>17 твитов</small>
 
 RT <a href="https://twitter.com/soundinyourmind" title="Гранкин Андрей">@soundinyourmind</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> воскресный вопрос, какие хобби у программистов? Мне кажется что почти все либо музыканты, либо фотографы)
 
@@ -955,12 +955,6 @@ RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a 
 
 ## Ссылки
 
-### gist.github.com  
-<a href="https://gist.github.com/gaearon/d77ca812015c0356654f" target="_blank">https://gist.github.com/gaearon/d77ca812015c0356654f</a>  
-<a href="https://gist.github.com/substack/68f8d502be42d5cd4942" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942</a>  
-<a href="https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980</a>  
-<a href="https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101</a>  
-<a href="https://gist.github.com/gaearon/d77ca812015c0356654f" target="_blank">https://gist.github.com/gaearon/d77ca812015c0356654f</a>  
 ### github.com  
 <a href="https://github.com/enaqx/awesome-react" target="_blank">https://github.com/enaqx/awesome-react</a>  
 <a href="https://github.com/gaearon/redux" target="_blank">https://github.com/gaearon/redux</a>  
@@ -1001,7 +995,6 @@ RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a 
 <a href="https://github.com/sebmarkbage?tab=activity" target="_blank">https://github.com/sebmarkbage?tab=activity</a>  
 <a href="https://github.com/feross/standard" target="_blank">https://github.com/feross/standard</a>  
 <a href="https://github.com/Flet/semistandard" target="_blank">https://github.com/Flet/semistandard</a>  
-<a href="https://github.com/gaearon/redux" target="_blank">https://github.com/gaearon/redux</a>  
 <a href="http://github.com/emmenko/redux-react-router-async-example" target="_blank">http://github.com/emmenko/redux-react-router-async-example</a>  
 <a href="https://github.com/gaearon/react-dnd/issues/200" target="_blank">https://github.com/gaearon/react-dnd/issues/200</a>  
 ### medium.com  
@@ -1021,7 +1014,6 @@ RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a 
 <a href="http://www.youtube.com/watch?v=4anAwXYqLG8" target="_blank">http://www.youtube.com/watch?v=4anAwXYqLG8</a>  
 <a href="http://www.youtube.com/watch?v=Agu6jipKfYw" target="_blank">http://www.youtube.com/watch?v=Agu6jipKfYw</a>  
 <a href="http://www.youtube.com/watch?v=j-kj2qwJa_E" target="_blank">http://www.youtube.com/watch?v=j-kj2qwJa_E</a>  
-<a href="http://www.youtube.com/watch?v=j-kj2qwJa_E" target="_blank">http://www.youtube.com/watch?v=j-kj2qwJa_E</a>  
 <a href="http://frontendbabel.info/" target="_blank">http://frontendbabel.info/</a>  
 <a href="http://molefrog.com/rye/" target="_blank">http://molefrog.com/rye/</a>  
 <a href="http://molefrog.com/rye/demo/galois/" target="_blank">http://molefrog.com/rye/demo/galois/</a>  
@@ -1036,14 +1028,15 @@ RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a 
 <a href="http://gbracha.blogspot.cz/2014/09/a-domain-of-shadows.html?m=1" target="_blank">http://gbracha.blogspot.cz/2014/09/a-domain-of-shadows.html?m=1</a>  
 <a href="http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf" target="_blank">http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf</a>  
 <a href="https://goo.gl/1kUAf0" target="_blank">https://goo.gl/1kUAf0</a>  
-<a href="https://goo.gl/1kUAf0" target="_blank">https://goo.gl/1kUAf0</a>  
 <a href="http://goo.gl/er5j6y" target="_blank">http://goo.gl/er5j6y</a>  
 <a href="http://goo.gl/A9CiGa" target="_blank">http://goo.gl/A9CiGa</a>  
 <a href="http://alexeyraspopov.github.io/talks/what-the-flux/" target="_blank">http://alexeyraspopov.github.io/talks/what-the-flux/</a>  
-<a href="http://alexeyraspopov.github.io/talks/what-the-flux/" target="_blank">http://alexeyraspopov.github.io/talks/what-the-flux/</a>  
+<a href="https://gist.github.com/gaearon/d77ca812015c0356654f" target="_blank">https://gist.github.com/gaearon/d77ca812015c0356654f</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1364980</a>  
+<a href="https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942#comment-1365101</a>  
 <a href="https://vimeo.com/88035957" target="_blank">https://vimeo.com/88035957</a>  
 <a href="http://vimeo.com/100010922" target="_blank">http://vimeo.com/100010922</a>  
-<a href="https://vimeo.com/88035957" target="_blank">https://vimeo.com/88035957</a>  
 <a href="http://nuclide.io/" target="_blank">http://nuclide.io/</a>  
 <a href="http://www.mann-ivanov-ferber.ru/promo/presentation/" target="_blank">http://www.mann-ivanov-ferber.ru/promo/presentation/</a>  
 <a href="http://amokjs.com/" target="_blank">http://amokjs.com/</a>  
@@ -1057,6 +1050,7 @@ RT <a href="https://twitter.com/soider" title="Michael Sakhnov">@soider</a>: <a 
 <a href="http://webpack.github.io/docs/stylesheets.html#separate-css-bundle" target="_blank">http://webpack.github.io/docs/stylesheets.html#separate-css-bundle</a>  
 <a href="http://prog21.dadgum.com/" target="_blank">http://prog21.dadgum.com/</a>  
 <a href="http://www.johndcook.com/blog/" target="_blank">http://www.johndcook.com/blog/</a>  
+<a href="http://www.codewars.com" target="_blank">http://www.codewars.com</a>  
 <a href="http://steve-yegge.blogspot.com/" target="_blank">http://steve-yegge.blogspot.com/</a>  
 <a href="https://sites.google.com/site/steveyegge2/blog-rants" target="_blank">https://sites.google.com/site/steveyegge2/blog-rants</a>  
 <a href="https://soundcloud.com/podval-capella/sets/main" target="_blank">https://soundcloud.com/podval-capella/sets/main</a>  

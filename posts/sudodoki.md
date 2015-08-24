@@ -2,7 +2,7 @@
 
 _04 мая 2015_
 
-## Вторник <small>32 твита</small>
+## Вторник <small>33 твита</small>
 
 На этой неделе управление этим аккаунтом доверили мне, <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> - Джон, просто Джон, ex-Ebay, SoftDev+ в RailsReactor, проездом в Бостоне.
 
@@ -68,9 +68,9 @@ RT <a href="https://twitter.com/naorunaoru" title="рома">@naorunaoru</a>: <a
 
 <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> также в общем случае работают <a href="http://t.co/cVgqfBbupd">lanyrd.com</a> и <a href="http://t.co/yZ098cdFha">meetup.com</a> (теперь там можно только 1 город иметь, правда)
 
-## Среда <small>66 твитов</small>
-
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/ru_rodweb" title="Igor Deryabin">@ru_rodweb</a> <a href="https://t.co/H1oAwBYJJ2">github.com/mathiasbynens/…</a>
+
+## Среда <small>66 твитов</small>
 
 RT <a href="https://twitter.com/NealMoreau" title="Атланов Евгений">@NealMoreau</a>: Как молодому разработчику выбрать страну проживания ( если опустить момент «Родину не выбирают» ). Какой есть опыт? <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
@@ -203,9 +203,9 @@ RT <a href="https://twitter.com/fxposter" title="Pavel Forkert">@fxposter</a>: <
 
 Если кому интересно, то вот хороший список русскоговорящих чатов профильных - <a href="https://t.co/UaFUmC7DVT">github.com/mr-mig/ru-it-c…</a>
 
-## Четверг <small>32 твита</small>
-
 Нужно будет попробовать следующую секцию лайв-кодинга в <a href="http://t.co/WLv8vg04tb">code.visualstudio.com</a>
+
+## Четверг <small>31 твит</small>
 
 RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: Короче совет: поедете в Нью Йорк - всеми правдами и неправдами селитесь на Манхеттане.
 
@@ -272,7 +272,7 @@ RT <a href="https://twitter.com/ALF_er" title="Illia Segeda">@ALF_er</a>: Оче
 
 <a href="https://t.co/MA53ZqIBn9">github.com/mattdiamond/fu…</a> - Eval-Rinse-Reload-And-Repeat to make sure your javascript code runs whether your compiler likes it or not.
 
-## Пятница <small>33 твита</small>
+## Пятница <small>35 твитов</small>
 
 Сегодня 20 лет JS 🎉<a href="https://t.co/QM9VKC4mBN">twitter.com/JavaScriptDail…</a>N
 
@@ -343,11 +343,11 @@ RT <a href="https://twitter.com/skif_by" title="Alexandre">@skif_by</a>: <a href
 
 .<a href="https://twitter.com/skif_by" title="Alexandre">@skif_by</a> <a href="https://twitter.com/komzpa" title="Komяpa">@komzpa</a> читайте ленту - вчера слушал про настоящую многопоточность в жс. Сначала в FF, потом хром. До конца года обещают.
 
-## Суббота <small>39 твитов</small>
-
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> вот хз. Лучше почитать документацию и узнать что еще им можно забивать, чем читать второсортный пересказ @<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/rastopyr_ua" title="Rastopyr">@rastopyr_ua</a> а-то так окажется, что для дюпелей нужен свой особенный молоток, а для грецких орехов свой. <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+
+## Суббота <small>37 твитов</small>
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: Кажется, <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> уходит на каникулы со следующей недели и до 11-го — праздники.
 
@@ -487,41 +487,44 @@ RT <a href="https://twitter.com/levwalkin" title="Lev Walkin">@levwalkin</a>: <a
 <a href="https://github.com/mattdiamond/fuckitjs" target="_blank">https://github.com/mattdiamond/fuckitjs</a>  
 <a href="https://github.com/kmmbvnr/django-fsm" target="_blank">https://github.com/kmmbvnr/django-fsm</a>  
 <a href="https://github.com/selenodium/selenodium-grid" target="_blank">https://github.com/selenodium/selenodium-grid</a>  
-<a href="https://github.com/glowbox/maptasticjs" target="_blank">https://github.com/glowbox/maptasticjs</a>  
-<a href="https://github.com/mr-mig/ru-it-chats" target="_blank">https://github.com/mr-mig/ru-it-chats</a>  
-### www.slideshare.net  
-<a href="http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js" target="_blank">http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js</a>  
-<a href="http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js" target="_blank">http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js</a>  
-<a href="http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter" target="_blank">http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter</a>  
-<a href="http://www.slideshare.net/moscowjs/ss-47567934" target="_blank">http://www.slideshare.net/moscowjs/ss-47567934</a>  
-<a href="http://www.slideshare.net/michaelklishin/scalable-open-source" target="_blank">http://www.slideshare.net/michaelklishin/scalable-open-source</a>
+<a href="https://github.com/glowbox/maptasticjs" target="_blank">https://github.com/glowbox/maptasticjs</a>
 
 ### Другие
 
+<a href="http://foamdev.com" target="_blank">http://foamdev.com</a>  
 <a href="http://en.wikipedia.org/wiki/Model-driven_architecture" target="_blank">http://en.wikipedia.org/wiki/Model-driven_architecture</a>  
 <a href="http://www.asterank.com/" target="_blank">http://www.asterank.com/</a>  
 <a href="http://www.asterank.com/discover" target="_blank">http://www.asterank.com/discover</a>  
 <a href="https://vimeo.com/61087285" target="_blank">https://vimeo.com/61087285</a>  
 <a href="http://aem1k.com/" target="_blank">http://aem1k.com/</a>  
+<a href="http://aem1k.com" target="_blank">http://aem1k.com</a>  
 <a href="http://www.140byt.es/" target="_blank">http://www.140byt.es/</a>  
 <a href="https://www.youtube.com/watch?v=RTxtiLp1C8Y" target="_blank">https://www.youtube.com/watch?v=RTxtiLp1C8Y</a>  
 <a href="https://www.youtube.com/watch?v=lDkrXTDwbJQ&index=2&list=PLfPYYNRetSN8FGm0ga2khUmeTjQH0XO1B" target="_blank">https://www.youtube.com/watch?v=lDkrXTDwbJQ&index=2&list=PLfPYYNRetSN8FGm0ga2khUmeTjQH0XO1B</a>  
+<a href="http://demojs.com" target="_blank">http://demojs.com</a>  
 <a href="http://www.pouet.net/prodlist.php?platform%5B%5D=JavaScript" target="_blank">http://www.pouet.net/prodlist.php?platform%5B%5D=JavaScript</a>  
 <a href="http://www.p01.org/releases/" target="_blank">http://www.p01.org/releases/</a>  
 <a href="http://xem.github.io/" target="_blank">http://xem.github.io/</a>  
 <a href="https://www.google.ru/?q=(js1k%7Cjs13kgames)%20postmortem" target="_blank">https://www.google.ru/?q=(js1k%7Cjs13kgames)%20postmortem</a>  
 <a href="https://speakerdeck.com/subzey/korochie" target="_blank">https://speakerdeck.com/subzey/korochie</a>  
 <a href="https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1" target="_blank">https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1</a>  
+<a href="http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js" target="_blank">http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js</a>  
+<a href="http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter" target="_blank">http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter</a>  
+<a href="http://www.slideshare.net/moscowjs/ss-47567934" target="_blank">http://www.slideshare.net/moscowjs/ss-47567934</a>  
+<a href="http://www.slideshare.net/michaelklishin/scalable-open-source" target="_blank">http://www.slideshare.net/michaelklishin/scalable-open-source</a>  
 <a href="http://webvr.info/" target="_blank">http://webvr.info/</a>  
 <a href="https://www.google.com/get/cardboard/" target="_blank">https://www.google.com/get/cardboard/</a>  
+<a href="http://c5vr.com" target="_blank">http://c5vr.com</a>  
 <a href="http://www.moscowjs.ru/" target="_blank">http://www.moscowjs.ru/</a>  
 <a href="http://lanyrd.com/" target="_blank">http://lanyrd.com/</a>  
+<a href="http://meetup.com" target="_blank">http://meetup.com</a>  
 <a href="http://paulmillr.com/mnp/" target="_blank">http://paulmillr.com/mnp/</a>  
 <a href="https://ti.to/" target="_blank">https://ti.to/</a>  
 <a href="http://nodeschool.io/" target="_blank">http://nodeschool.io/</a>  
 <a href="http://oneshot.nodeconf.com/" target="_blank">http://oneshot.nodeconf.com/</a>  
 <a href="http://railsgirls.com/" target="_blank">http://railsgirls.com/</a>  
 <a href="http://djangogirls.org/" target="_blank">http://djangogirls.org/</a>  
+<a href="http://kottans.org" target="_blank">http://kottans.org</a>  
 <a href="http://dou.ua/forums/topic/10190/" target="_blank">http://dou.ua/forums/topic/10190/</a>  
 <a href="http://dou.ua/forums/topic/13249/" target="_blank">http://dou.ua/forums/topic/13249/</a>  
 <a href="https://gitter.im/MoscowJS/chat" target="_blank">https://gitter.im/MoscowJS/chat</a>  
@@ -530,12 +533,13 @@ RT <a href="https://twitter.com/levwalkin" title="Lev Walkin">@levwalkin</a>: <a
 <a href="https://gist.github.com/s-panferov/97015d97d2213d84814f" target="_blank">https://gist.github.com/s-panferov/97015d97d2213d84814f</a>  
 <a href="https://gist.github.com/dherman/5463054" target="_blank">https://gist.github.com/dherman/5463054</a>  
 <a href="http://gcanti.github.io/flowcheck/" target="_blank">http://gcanti.github.io/flowcheck/</a>  
+<a href="http://code.visualstudio.com" target="_blank">http://code.visualstudio.com</a>  
+<a href="http://altjs.org" target="_blank">http://altjs.org</a>  
 <a href="http://arcturo.github.io/library/coffeescript/" target="_blank">http://arcturo.github.io/library/coffeescript/</a>  
 <a href="http://shop.oreilly.com/product/0636920025139.do" target="_blank">http://shop.oreilly.com/product/0636920025139.do</a>  
 <a href="http://shop.oreilly.com/product/0636920025719.do" target="_blank">http://shop.oreilly.com/product/0636920025719.do</a>  
 <a href="https://www.syncfusion.com/resources/techportal/ebooks/typescript" target="_blank">https://www.syncfusion.com/resources/techportal/ebooks/typescript</a>  
 <a href="http://clojurescriptkoans.com/" target="_blank">http://clojurescriptkoans.com/</a>  
-<a href="https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5" target="_blank">https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5</a>  
 <a href="https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5" target="_blank">https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5</a>  
 <a href="http://rapmycode.ru/" target="_blank">http://rapmycode.ru/</a>  
 <a href="http://rapmycode.ru/track/916" target="_blank">http://rapmycode.ru/track/916</a>  
@@ -550,6 +554,7 @@ RT <a href="https://twitter.com/levwalkin" title="Lev Walkin">@levwalkin</a>: <a
 <a href="http://www.uncontext.com/" target="_blank">http://www.uncontext.com/</a>  
 <a href="http://frontender.info/" target="_blank">http://frontender.info/</a>  
 <a href="http://chlg.co/1DOc20O" target="_blank">http://chlg.co/1DOc20O</a>  
+<a href="http://frontendbabel.info" target="_blank">http://frontendbabel.info</a>  
 <a href="http://learnxinyminutes.com/" target="_blank">http://learnxinyminutes.com/</a>  
 <a href="https://www.udacity.com/course/browser-rendering-optimization--ud860" target="_blank">https://www.udacity.com/course/browser-rendering-optimization--ud860</a>  
 <a href="http://learningwebgl.com/blog/?p=1828" target="_blank">http://learningwebgl.com/blog/?p=1828</a>  

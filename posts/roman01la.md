@@ -352,5 +352,6 @@ RT <a href="https://twitter.com/prbigbrother" title="Alexandru Capatina">@prbigb
 <a href="http://www.reddit.com/r/WatchPeopleCode/" target="_blank">http://www.reddit.com/r/WatchPeopleCode/</a>  
 <a href="https://angular.io/" target="_blank">https://angular.io/</a>  
 <a href="https://icomoon.io/app/" target="_blank">https://icomoon.io/app/</a>  
+<a href="http://fontello.com" target="_blank">http://fontello.com</a>  
 <a href="https://www.livecoding.tv/" target="_blank">https://www.livecoding.tv/</a>  
 <a href="https://fitzgen.github.io/wu.js/" target="_blank">https://fitzgen.github.io/wu.js/</a>

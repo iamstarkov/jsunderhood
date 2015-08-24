@@ -1,6 +1,6 @@
 # bashmish
 
-_17 мая 2015_
+_16 мая 2015_
 
 ## Понедельник <small>9 твитов</small>
 
@@ -186,7 +186,7 @@ RT <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспа�
 
 .<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> <a href="https://twitter.com/mursya_ru" title="Елена Джетпыспаева">@mursya_ru</a> <a href="https://twitter.com/dfilatov_" title="Филатов Дмитрий">@dfilatov_</a> <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a> вопросы всегда принимают через твиттер, хоть где-то он по настоящему полезен)
 
-## Суббота <small>7 твитов</small>
+## Суббота <small>8 твитов</small>
 
 RT <a href="https://twitter.com/spugachev" title="Sergey Pugachev">@spugachev</a>: <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/radio_t" title="radio_t">@radio_t</a> парни в подкастах - это вообще ни в какие ворота! Не слушаю подкасты с парнями
 
@@ -202,8 +202,6 @@ RT <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a>: А вы
 
 Узнал про понятие Front End Ops.
 
-## Воскресенье <small>1 твит</small>
-
 .<a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> мб, все дело в том, что я плохой дипломат и только учусь, и совсем недавно стал публичным человеком. Все новое...
 
 ## Ссылки
@@ -211,4 +209,5 @@ RT <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a>: А вы
 <a href="https://github.com/dypsilon/frontend-dev-bookmarks" target="_blank">https://github.com/dypsilon/frontend-dev-bookmarks</a>  
 <a href="https://github.com/iojs/io.js/issues/1664#issuecomment-101847867" target="_blank">https://github.com/iojs/io.js/issues/1664#issuecomment-101847867</a>  
 <a href="http://esweekly.com/" target="_blank">http://esweekly.com/</a>  
+<a href="http://jsconfbp.com" target="_blank">http://jsconfbp.com</a>  
 <a href="http://www.wikiwand.com/en/Mark_Pilgrim" target="_blank">http://www.wikiwand.com/en/Mark_Pilgrim</a>

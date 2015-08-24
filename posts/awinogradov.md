@@ -257,5 +257,16 @@ RT <a href="https://twitter.com/tproger" title="Типичный програм�
 <a href="http://akshaykumar6.github.io/github-js/" target="_blank">http://akshaykumar6.github.io/github-js/</a>  
 <a href="http://www.youtube.com/watch?v=fQuImk7VvMg" target="_blank">http://www.youtube.com/watch?v=fQuImk7VvMg</a>  
 <a href="http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-" target="_blank">http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-</a>  
+<a href="http://materialup.com" target="_blank">http://materialup.com</a>  
+<a href="http://css-weekly.com" target="_blank">http://css-weekly.com</a>  
+<a href="http://ewebdesign.com" target="_blank">http://ewebdesign.com</a>  
+<a href="http://html5weekly.com" target="_blank">http://html5weekly.com</a>  
+<a href="http://hackingui.com" target="_blank">http://hackingui.com</a>  
+<a href="http://nodeweekly.com" target="_blank">http://nodeweekly.com</a>  
+<a href="http://responsivedesignweekly.com" target="_blank">http://responsivedesignweekly.com</a>  
+<a href="http://web-design-weekly.com" target="_blank">http://web-design-weekly.com</a>  
+<a href="http://webtoolsweekly.com" target="_blank">http://webtoolsweekly.com</a>  
+<a href="http://wdrl.info" target="_blank">http://wdrl.info</a>  
+<a href="http://javascriptweekly.com" target="_blank">http://javascriptweekly.com</a>  
 <a href="http://wamer.net/sketch" target="_blank">http://wamer.net/sketch</a>  
 <a href="http://meandmax.github.io/lory" target="_blank">http://meandmax.github.io/lory</a>

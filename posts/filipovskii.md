@@ -39,6 +39,8 @@ RT <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>: 14-15 
 <a href="http://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr" target="_blank">http://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr</a>  
 <a href="https://www.youtube.com/playlist?list=PL95OM-7UObpEfPxwbbYzn4Pnk8HCSo2lB" target="_blank">https://www.youtube.com/playlist?list=PL95OM-7UObpEfPxwbbYzn4Pnk8HCSo2lB</a>  
 <a href="http://bit.ly/1zNVk1N" target="_blank">http://bit.ly/1zNVk1N</a>  
+<a href="http://reapp.io" target="_blank">http://reapp.io</a>  
+<a href="https://iojs.org" target="_blank">https://iojs.org</a>  
 <a href="https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md" target="_blank">https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md</a>  
 <a href="http://www.2ality.com/2015/02/soundscript.html?m=1" target="_blank">http://www.2ality.com/2015/02/soundscript.html?m=1</a>  
 <a href="http://jsconfbp.com/" target="_blank">http://jsconfbp.com/</a>  

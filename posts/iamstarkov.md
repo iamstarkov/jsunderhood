@@ -1,6 +1,6 @@
 # iamstarkov
 
-_02 марта 2015_
+_01 марта 2015_
 
 ## Понедельник <small>27 твитов</small>
 
@@ -624,7 +624,7 @@ RT <a href="https://twitter.com/mista_k" title="Vladimir Kuznetsov">@mista_k</a>
 
 RT <a href="https://twitter.com/voxpuibr" title="Stanislav Shabalin">@voxpuibr</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> вот хорошая статья на тему <a href="http://t.co/le6TH3UzPv">carl.flax.ie/dothingstellpe…</a>
 
-## Понедельник <small>3 твита</small>
+## Воскресенье <small>3 твита</small>
 
 Сегодня ночной эфир!
 
@@ -641,6 +641,7 @@ RT <a href="https://twitter.com/voxpuibr" title="Stanislav Shabalin">@voxpuibr</
 <a href="http://browser.yandex.ru/" target="_blank">http://browser.yandex.ru/</a>  
 <a href="https://www.npmjs.com/package/deps-graph" target="_blank">https://www.npmjs.com/package/deps-graph</a>  
 <a href="https://www.npmjs.com/package/gulp-bem" target="_blank">https://www.npmjs.com/package/gulp-bem</a>  
+<a href="http://bem.info" target="_blank">http://bem.info</a>  
 <a href="http://getbem.com/" target="_blank">http://getbem.com/</a>  
 <a href="http://blackbox.fbk.info/" target="_blank">http://blackbox.fbk.info/</a>  
 <a href="http://largescalejs.ru/" target="_blank">http://largescalejs.ru/</a>  

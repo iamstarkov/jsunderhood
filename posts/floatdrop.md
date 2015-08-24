@@ -312,7 +312,6 @@ Live React: Hot Reloading with Time Travel at react-europe 2015 by <a href="http
 <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank">https://github.com/h5bp/Front-end-Developer-Interview-Questions</a>  
 <a href="https://github.com/floatdrop/chnpm/blob/193fdf0541e3c085b9f08eb241a53f7238faa662/index.js" target="_blank">https://github.com/floatdrop/chnpm/blob/193fdf0541e3c085b9f08eb241a53f7238faa662/index.js</a>  
 <a href="https://github.com/floatdrop/chnpm/blob/master/index.js" target="_blank">https://github.com/floatdrop/chnpm/blob/master/index.js</a>  
-<a href="https://github.com/c4milo/node-webkit-agent" target="_blank">https://github.com/c4milo/node-webkit-agent</a>  
 <a href="https://github.com/sindresorhus/max-safe-integer/blob/master/index.js" target="_blank">https://github.com/sindresorhus/max-safe-integer/blob/master/index.js</a>  
 <a href="https://github.com/floatdrop/express-dinja" target="_blank">https://github.com/floatdrop/express-dinja</a>  
 <a href="https://github.com/progrium/dokku" target="_blank">https://github.com/progrium/dokku</a>  
@@ -363,6 +362,7 @@ Live React: Hot Reloading with Time Travel at react-europe 2015 by <a href="http
 <a href="http://habrahabr.ru/company/skbkontur/blog/260781/" target="_blank">http://habrahabr.ru/company/skbkontur/blog/260781/</a>  
 <a href="http://thecodelesscode.com/case/90" target="_blank">http://thecodelesscode.com/case/90</a>  
 <a href="http://thecodelesscode.com/case/90?lang=ru" target="_blank">http://thecodelesscode.com/case/90?lang=ru</a>  
+<a href="http://es6katas.org" target="_blank">http://es6katas.org</a>  
 <a href="http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/" target="_blank">http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/</a>  
 <a href="http://www.infoq.com/presentations/Simple-Made-Easy" target="_blank">http://www.infoq.com/presentations/Simple-Made-Easy</a>  
 <a href="http://2014.jsconf.eu/speakers/james-coglan-practical-functional-programming-pick-two.html" target="_blank">http://2014.jsconf.eu/speakers/james-coglan-practical-functional-programming-pick-two.html</a>  
@@ -376,13 +376,16 @@ Live React: Hot Reloading with Time Travel at react-europe 2015 by <a href="http
 <a href="https://gist.github.com/floatdrop/d316850e08c4eaaf29a0" target="_blank">https://gist.github.com/floatdrop/d316850e08c4eaaf29a0</a>  
 <a href="https://gist.github.com/alekseykulikov/c63ac825e176fa650fb6" target="_blank">https://gist.github.com/alekseykulikov/c63ac825e176fa650fb6</a>  
 <a href="https://gist.github.com/beshkenadze/fe05485f4d635886ca1a" target="_blank">https://gist.github.com/beshkenadze/fe05485f4d635886ca1a</a>  
+<a href="http://jwt.io" target="_blank">http://jwt.io</a>  
 <a href="http://research.google.com/pubs/pub41892.html" target="_blank">http://research.google.com/pubs/pub41892.html</a>  
 <a href="http://thenewstack.io/docker-is-driving-a-new-breed-of-paas/" target="_blank">http://thenewstack.io/docker-is-driving-a-new-breed-of-paas/</a>  
 <a href="http://bash.im/quote/429538" target="_blank">http://bash.im/quote/429538</a>  
+<a href="http://jspm.io" target="_blank">http://jspm.io</a>  
 <a href="http://m.youtube.com/watch?v=NpMnRifyGyw" target="_blank">http://m.youtube.com/watch?v=NpMnRifyGyw</a>  
 <a href="http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6" target="_blank">http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6</a>  
-<a href="http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6" target="_blank">http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6</a>  
 <a href="https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime" target="_blank">https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime</a>  
+<a href="http://getbem.com" target="_blank">http://getbem.com</a>  
+<a href="http://getsentry.com" target="_blank">http://getsentry.com</a>  
 <a href="http://chlg.co/1HDI3A3" target="_blank">http://chlg.co/1HDI3A3</a>  
 <a href="http://jsforcats.com/javascript-for-cats.pdf" target="_blank">http://jsforcats.com/javascript-for-cats.pdf</a>  
 <a href="http://shop.oreilly.com/product/9780596517748.do" target="_blank">http://shop.oreilly.com/product/9780596517748.do</a>

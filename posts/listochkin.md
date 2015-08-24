@@ -2,7 +2,7 @@
 
 _31 мая 2015_
 
-## Понедельник <small>53 твита</small>
+## Понедельник <small>59 твитов</small>
 
 Хо-хо!  Всем привет! Я - Андрей <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> Разработчик из Киева, люблю JavaScript. Эту неделю я с вами :)
 
@@ -112,8 +112,6 @@ RT <a href="https://twitter.com/tlyapun" title="Taras Lyapun">@tlyapun</a>: <a h
 
 RT <a href="https://twitter.com/nkbtnk" title="Nik Butenko">@nkbtnk</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> не хотят учить новый синтаксис и ленятся почитать, чем он лучше. Рекомендую  <a href="https://t.co/eNyuK14ras">leanpub.com/understandinge…</a>
 
-## Вторник <small>158 твитов</small>
-
 RT <a href="https://twitter.com/oshibka404" title="Andrey Ozornin">@oshibka404</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> прозвучит как неуместная шутка, но JS-ник должен знать JS. Тогда его оторвут с руками.
 
 RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a>: А вы используете Crome Canary, FF Nightly и Opera beta или их релизные версии как основные? Что установлено и в чем тестируе…
@@ -125,6 +123,8 @@ RT <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a
 RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> браузер поддерживает веб открытым, хендлит 2000+ табов, аддоны.
 
 RT <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: <a href="https://twitter.com/_sashashakun" title="Alexander">@_sashashakun</a> <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> для разработки особые плюсы есть у обоих инструментов, и разработчик должен уметь ими пользоваться.
+
+## Вторник <small>158 твитов</small>
 
 Всем доброе утро! Напоминаю, что твиттер ведет <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> и у нас на повестке 2 вопроса.
 
@@ -436,8 +436,6 @@ RT <a href="https://twitter.com/denswor" title="denswor">@denswor</a>: <a href="
 
 Еще один классический блог пост - о визуализации алгоритмов от автора <a href="https://twitter.com/search?q=%23d3js">#d3js</a> <a href="http://t.co/PEWXkxTj3j">bost.ocks.org/mike/algorithm…</a>
 
-## Среда <small>156 твитов</small>
-
 Кстати, вчера обсуждали Bower в негативном ключе - и вот проскочила ссылка: <a href="http://t.co/uKguq3iva7">gofore.com/ohjelmistokehi…</a>
 
 RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a> меняй билд-тул для Sass на PostCSS. А если по делу, собираете чем? На libsass переключались?
@@ -449,6 +447,8 @@ RT <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a>: <a 
 В ответах на этот твит предлагайте темы на завтра. Что хочется больше? Node? JS Frameworks? Не совсем JS? Совсем не JS? Нетехнические темы?
 
 <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> а я спать.
+
+## Среда <small>150 твитов</small>
 
 RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/morhetz" title="Pavel Pertsev">@morhetz</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на самом деле мы less собираем грантом, много файлов, куча миксинов, используем middleware для dev и gr…
 
@@ -1369,7 +1369,7 @@ RT <a href="https://twitter.com/iSnifer" title="Anton Kuznetsov">@iSnifer</a>: <
 
 У меня к вам серьезный вопрос: вы в выходные в инете будете? Мне стоит вам что-то писать? И если да, то о чем?
 
-## Суббота <small>63 твита</small>
+## Суббота <small>102 твита</small>
 
 RT <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> можешь периодически напоминать, что, кроме компьютеров, там за окном - целый мир непосещеный.
 
@@ -1505,8 +1505,6 @@ RT <a href="https://twitter.com/Kern_0" title="Арсений Максимов">
 
 RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> но зачем столько табов?)
 
-## Воскресенье <small>66 твитов</small>
-
 Помнишь раньше почтовые сервисы ограничивали место, а потом Yahoo! рекламировало Unlimited со словами “теперь письма можно не удалять”?
 
 Так вот, тут та же ситуация. Зачем закрывать вкладки? Какую цель ты преследуешь? Нужна вкладка? - открыл новую и делай что хочешь.
@@ -1585,6 +1583,8 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 В общем <a href="https://twitter.com/brackets" title="Brackets">@brackets</a> - отличный редактор для CSS, верстки и фронтенда, а <a href="https://twitter.com/code" title="code">@code</a> - для Node. Рекомендую обратить внимание.
 
+## Воскресенье <small>27 твитов</small>
+
 А для меня flux - это такая регулировка цветовой температуры монитора. А для вас?
 
 RT <a href="https://twitter.com/incredibletoy" title="Боты и тестирование">@incredibletoy</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> fluxbox - оконный менеджер для линукса.
@@ -1655,7 +1655,6 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 <a href="https://github.com/substack/dotc" target="_blank">https://github.com/substack/dotc</a>  
 <a href="https://github.com/edjafarov/PromisePipe/blob/master/example/mongotodo/main.js#L53-L89" target="_blank">https://github.com/edjafarov/PromisePipe/blob/master/example/mongotodo/main.js#L53-L89</a>  
 <a href="https://github.com/petehunt/minimongo-cache" target="_blank">https://github.com/petehunt/minimongo-cache</a>  
-<a href="https://github.com/dev-ua" target="_blank">https://github.com/dev-ua</a>  
 ### www.youtube.com  
 <a href="http://www.youtube.com/watch?v=xPPCzryZK44" target="_blank">http://www.youtube.com/watch?v=xPPCzryZK44</a>  
 <a href="https://www.youtube.com/watch?v=lKXe3HUG2l4" target="_blank">https://www.youtube.com/watch?v=lKXe3HUG2l4</a>  
@@ -1671,7 +1670,6 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 <a href="https://www.youtube.com/watch?v=HYiLzji7MuY" target="_blank">https://www.youtube.com/watch?v=HYiLzji7MuY</a>  
 <a href="http://www.youtube.com/playlist?list=PLEuFTdwwmXpxgfmkE2wXFWDatrmAUPEZk" target="_blank">http://www.youtube.com/playlist?list=PLEuFTdwwmXpxgfmkE2wXFWDatrmAUPEZk</a>  
 <a href="https://www.youtube.com/watch?v=kXTP8XqrSwE" target="_blank">https://www.youtube.com/watch?v=kXTP8XqrSwE</a>  
-<a href="https://www.youtube.com/watch?v=kXTP8XqrSwE" target="_blank">https://www.youtube.com/watch?v=kXTP8XqrSwE</a>  
 <a href="http://www.youtube.com/watch?v=M-Dcf6HhwYM" target="_blank">http://www.youtube.com/watch?v=M-Dcf6HhwYM</a>  
 <a href="https://www.youtube.com/watch?v=M-Dcf6HhwYM" target="_blank">https://www.youtube.com/watch?v=M-Dcf6HhwYM</a>  
 <a href="https://www.youtube.com/watch?v=RgJMIbAB5Yg" target="_blank">https://www.youtube.com/watch?v=RgJMIbAB5Yg</a>  
@@ -1680,6 +1678,8 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 
 ### Другие
 
+<a href="http://fronendua.im" target="_blank">http://fronendua.im</a>  
+<a href="http://frontendua.im" target="_blank">http://frontendua.im</a>  
 <a href="https://leanpub.com/understandinges6/read/" target="_blank">https://leanpub.com/understandinges6/read/</a>  
 <a href="http://kyivjs.org.ua/" target="_blank">http://kyivjs.org.ua/</a>  
 <a href="https://gitter.im/dev-ua/ember" target="_blank">https://gitter.im/dev-ua/ember</a>  
@@ -1696,16 +1696,17 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 <a href="https://changelog.com/rich-hickeys-greatest-hits/" target="_blank">https://changelog.com/rich-hickeys-greatest-hits/</a>  
 <a href="http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract" target="_blank">http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract</a>  
 <a href="http://confreaks.tv/videos/keeprubyweird14-opening-keynote" target="_blank">http://confreaks.tv/videos/keeprubyweird14-opening-keynote</a>  
-<a href="http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract" target="_blank">http://confreaks.tv/videos/rubyconf2014-the-social-coding-contract</a>  
 <a href="http://daringfireball.net/linked/2015/05/14/facebook-instant-karma" target="_blank">http://daringfireball.net/linked/2015/05/14/facebook-instant-karma</a>  
 <a href="http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/" target="_blank">http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/</a>  
+<a href="http://bigplans.megaplan.ru" target="_blank">http://bigplans.megaplan.ru</a>  
 <a href="http://artgorbunov.ru/bb/soviet/" target="_blank">http://artgorbunov.ru/bb/soviet/</a>  
+<a href="http://frontender.info" target="_blank">http://frontender.info</a>  
+<a href="http://frontender.info/es6-in-depth-generators/" target="_blank">http://frontender.info/es6-in-depth-generators/</a>  
 <a href="https://sites.google.com/site/steveyegge2/blog-rants" target="_blank">https://sites.google.com/site/steveyegge2/blog-rants</a>  
 <a href="https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough" target="_blank">https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough</a>  
 <a href="https://sites.google.com/site/steveyegge2/practical-magic" target="_blank">https://sites.google.com/site/steveyegge2/practical-magic</a>  
 <a href="http://steve-yegge.blogspot.com/" target="_blank">http://steve-yegge.blogspot.com/</a>  
 <a href="http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html" target="_blank">http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html</a>  
-<a href="https://plus.google.com/+RipRowan/posts/eVeouesvaVX" target="_blank">https://plus.google.com/+RipRowan/posts/eVeouesvaVX</a>  
 <a href="https://plus.google.com/+RipRowan/posts/eVeouesvaVX" target="_blank">https://plus.google.com/+RipRowan/posts/eVeouesvaVX</a>  
 <a href="http://xpinjection.com/uadevclub/" target="_blank">http://xpinjection.com/uadevclub/</a>  
 <a href="http://m.youtube.com/watch?v=SeLOt_BRAqc" target="_blank">http://m.youtube.com/watch?v=SeLOt_BRAqc</a>  
@@ -1719,7 +1720,6 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 <a href="https://packagist.org/statistics" target="_blank">https://packagist.org/statistics</a>  
 <a href="https://search.maven.org/#stats" target="_blank">https://search.maven.org/#stats</a>  
 <a href="http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html" target="_blank">http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html</a>  
-<a href="http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html" target="_blank">http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html</a>  
 <a href="http://frameworksdays.com/event/mk-listochkin-emberjs/participants" target="_blank">http://frameworksdays.com/event/mk-listochkin-emberjs/participants</a>  
 <a href="http://www.joelonsoftware.com/" target="_blank">http://www.joelonsoftware.com/</a>  
 <a href="http://www.mast.queensu.ca/~math474/shannon1948.pdf" target="_blank">http://www.mast.queensu.ca/~math474/shannon1948.pdf</a>  
@@ -1728,23 +1728,25 @@ RT <a href="https://twitter.com/reklatsmasters" title="Дмитрий Цветц
 <a href="https://gist.github.com/substack/68f8d502be42d5cd4942" target="_blank">https://gist.github.com/substack/68f8d502be42d5cd4942</a>  
 <a href="https://gist.github.com/listochkin/ca68471783d13a0ba95f" target="_blank">https://gist.github.com/listochkin/ca68471783d13a0ba95f</a>  
 <a href="http://xkcd.com/927/" target="_blank">http://xkcd.com/927/</a>  
-<a href="http://frontender.info/es6-in-depth-generators/" target="_blank">http://frontender.info/es6-in-depth-generators/</a>  
 <a href="http://cdn.mozilla.net/pdfjs/tracemonkey.pdf" target="_blank">http://cdn.mozilla.net/pdfjs/tracemonkey.pdf</a>  
 <a href="https://mozilla.github.io/pdf.js/" target="_blank">https://mozilla.github.io/pdf.js/</a>  
 <a href="http://habrahabr.ru/post/205878/" target="_blank">http://habrahabr.ru/post/205878/</a>  
 <a href="http://habrahabr.ru/post/249183/" target="_blank">http://habrahabr.ru/post/249183/</a>  
-<a href="http://habrahabr.ru/post/249183/" target="_blank">http://habrahabr.ru/post/249183/</a>  
 <a href="https://www.mockable.io/" target="_blank">https://www.mockable.io/</a>  
+<a href="http://parse.com" target="_blank">http://parse.com</a>  
 <a href="https://parse.com/docs/rest/guide#quick-reference" target="_blank">https://parse.com/docs/rest/guide#quick-reference</a>  
 <a href="http://blog.npmjs.org/post/120036339840/npm-weekly-18" target="_blank">http://blog.npmjs.org/post/120036339840/npm-weekly-18</a>  
 <a href="http://npmjs.org/package/get-tweets" target="_blank">http://npmjs.org/package/get-tweets</a>  
 <a href="http://roy.brianmckenna.org/" target="_blank">http://roy.brianmckenna.org/</a>  
+<a href="https://www.parse.com" target="_blank">https://www.parse.com</a>  
+<a href="http://asp.net" target="_blank">http://asp.net</a>  
 <a href="http://headjs.ru/info#" target="_blank">http://headjs.ru/info#</a>  
 <a href="https://www.facebook.com/robert.haritonov/posts/913336762056724" target="_blank">https://www.facebook.com/robert.haritonov/posts/913336762056724</a>  
 <a href="http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/" target="_blank">http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/</a>  
 <a href="https://app.keymetrics.io/" target="_blank">https://app.keymetrics.io/</a>  
 <a href="https://jsunderhood.ru/stats/" target="_blank">https://jsunderhood.ru/stats/</a>  
 <a href="http://www.raywenderlich.com/" target="_blank">http://www.raywenderlich.com/</a>  
+<a href="http://turtle-roy.herokuapp.com" target="_blank">http://turtle-roy.herokuapp.com</a>  
 <a href="http://martinfowler.com/articles/microservices.html" target="_blank">http://martinfowler.com/articles/microservices.html</a>  
 <a href="http://martinfowler.com/bliki/MicroservicePremium.html" target="_blank">http://martinfowler.com/bliki/MicroservicePremium.html</a>  
 <a href="http://nginx.com/resources/library/oreilly-building-microservices/" target="_blank">http://nginx.com/resources/library/oreilly-building-microservices/</a>  

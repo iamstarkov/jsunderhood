@@ -518,6 +518,7 @@ RT <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
 ### Другие
 
 <a href="http://m.youtube.com/watch?v=BF58ZJ1ZQxY" target="_blank">http://m.youtube.com/watch?v=BF58ZJ1ZQxY</a>  
+<a href="http://bem.info" target="_blank">http://bem.info</a>  
 <a href="http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html" target="_blank">http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html</a>  
 <a href="https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be" target="_blank">https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be</a>  
 <a href="https://www.youtube.com/watch?v=UNFcq8nkDrI" target="_blank">https://www.youtube.com/watch?v=UNFcq8nkDrI</a>  
@@ -528,5 +529,7 @@ RT <a href="https://twitter.com/roman01la" title="Roman Liutikov">@roman01la</a>
 <a href="http://apple.co/1LaFFPi" target="_blank">http://apple.co/1LaFFPi</a>  
 <a href="http://bit.ly/1Eu9xl4" target="_blank">http://bit.ly/1Eu9xl4</a>  
 <a href="https://www.youneedabudget.com/" target="_blank">https://www.youneedabudget.com/</a>  
+<a href="http://travelbydrone.com" target="_blank">http://travelbydrone.com</a>  
 <a href="https://www.npmjs.com/package/throttle-proxy" target="_blank">https://www.npmjs.com/package/throttle-proxy</a>  
+<a href="http://toshl.com" target="_blank">http://toshl.com</a>  
 <a href="https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084" target="_blank">https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084</a>

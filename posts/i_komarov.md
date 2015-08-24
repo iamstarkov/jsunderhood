@@ -110,7 +110,7 @@ RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantie
 
 Впрочем, моя психика непоправимо травмирована Subversion'ом, который приходится использовать на работе.
 
-## Вторник <small>13 твитов</small>
+## Вторник <small>24 твита</small>
 
 RT <a href="https://twitter.com/baxxabit" title="Uladzimir Havenchyk">@baxxabit</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> расскажи еще про Я. какие плюшки :) ? офис просторный? опенспейс? стулья удобные? слышал, в украине крутой офис …
 
@@ -138,8 +138,6 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 
 Ну и в целом, всегда полезно понимать, что «ты делаешь не фигню»™. Поэтому я за code review всех коммитов, кроме «поправил опечатку в имени»
 
-## Среда <small>30 твитов</small>
-
 RT <a href="https://twitter.com/konenkov" title="Sergey Konenkov">@konenkov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> А расскажите, пожалуйста, как в яндексе мониторят сервисы?
 
 Зависит от команды. Наши разработчики смотрят в графики на Graphite (<a href="http://t.co/xi2BlGWvqy">graphite.readthedocs.org/en/latest/over…</a>), плюс у админов (<a href="https://twitter.com/market_ops_crew" title="Админы Маркета ">@market_ops_crew</a>) свои приборы
@@ -161,6 +159,8 @@ RT <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davy
 ...а уж уехать совсем и изолироваться — это я вообще не представляю себе, как можно заставить себя дольше недели в таком режиме продержаться
 
 То есть с технической точки зрения — абсолютно никаких проблем работать не из офиса, но психологически это было бы для меня дико некомфортно
+
+## Среда <small>19 твитов</small>
 
 В реплаях пишут, что повсеместная удалённая работа выгодна экономике и обществу в целом. В таком ключе я над этим ещё не думал.
 
@@ -213,6 +213,7 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 <a href="http://shop.oreilly.com/product/9780596159825.do" target="_blank">http://shop.oreilly.com/product/9780596159825.do</a>  
 <a href="http://dfyz.livejournal.com/189261.html" target="_blank">http://dfyz.livejournal.com/189261.html</a>  
 <a href="http://dfyz.livejournal.com/190120.html" target="_blank">http://dfyz.livejournal.com/190120.html</a>  
+<a href="http://rosalind.info" target="_blank">http://rosalind.info</a>  
 <a href="http://www.csedays.ru/theory2014/tindexes" target="_blank">http://www.csedays.ru/theory2014/tindexes</a>  
 <a href="http://yager.io/programming/go.html" target="_blank">http://yager.io/programming/go.html</a>  
 <a href="http://graphite.readthedocs.org/en/latest/overview.html" target="_blank">http://graphite.readthedocs.org/en/latest/overview.html</a>  

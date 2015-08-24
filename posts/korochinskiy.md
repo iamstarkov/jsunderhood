@@ -340,6 +340,7 @@ RT <a href="https://twitter.com/harisov" title="Vitaly Harisov">@harisov</a>: Р
 
 ## Ссылки
 
+<a href="http://Booking.com" target="_blank">http://Booking.com</a>  
 <a href="http://bit.ly/1Cmt5vt" target="_blank">http://bit.ly/1Cmt5vt</a>  
 <a href="http://bit.ly/1i6wuzm" target="_blank">http://bit.ly/1i6wuzm</a>  
 <a href="http://bit.ly/1EYrgoN" target="_blank">http://bit.ly/1EYrgoN</a>  

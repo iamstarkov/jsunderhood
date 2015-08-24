@@ -207,4 +207,9 @@ RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a
 ### Другие
 
 <a href="https://github.com/rambler-digital-solutions" target="_blank">https://github.com/rambler-digital-solutions</a>  
-<a href="http://scrumtrek.ru/trainings/view/22/147/" target="_blank">http://scrumtrek.ru/trainings/view/22/147/</a>
+<a href="http://www.nativegrid.com" target="_blank">http://www.nativegrid.com</a>  
+<a href="http://motor.ru" target="_blank">http://motor.ru</a>  
+<a href="http://secretmag.ru" target="_blank">http://secretmag.ru</a>  
+<a href="http://scrumtrek.ru/trainings/view/22/147/" target="_blank">http://scrumtrek.ru/trainings/view/22/147/</a>  
+<a href="http://capistranorb.com" target="_blank">http://capistranorb.com</a>  
+<a href="http://www.fabfile.org" target="_blank">http://www.fabfile.org</a>

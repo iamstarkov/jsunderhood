@@ -1065,12 +1065,6 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 
 ## Ссылки
 
-### facebook.github.io  
-<a href="https://facebook.github.io/react/docs/top-level-api.html" target="_blank">https://facebook.github.io/react/docs/top-level-api.html</a>  
-<a href="https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html" target="_blank">https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html</a>  
-<a href="https://facebook.github.io/react/docs/why-react.html" target="_blank">https://facebook.github.io/react/docs/why-react.html</a>  
-<a href="https://facebook.github.io/react/docs/test-utils.html" target="_blank">https://facebook.github.io/react/docs/test-utils.html</a>  
-<a href="https://facebook.github.io/react/docs/test-utils.html" target="_blank">https://facebook.github.io/react/docs/test-utils.html</a>  
 ### github.com  
 <a href="https://github.com/css-modules/css-modules/blob/master/examples/theming.md#theming" target="_blank">https://github.com/css-modules/css-modules/blob/master/examples/theming.md#theming</a>  
 <a href="https://github.com/webpack/css-loader#local-scope" target="_blank">https://github.com/webpack/css-loader#local-scope</a>  
@@ -1081,10 +1075,8 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 <a href="https://github.com/cdebotton/react-universal" target="_blank">https://github.com/cdebotton/react-universal</a>  
 <a href="https://github.com/yummies/yummies#overview" target="_blank">https://github.com/yummies/yummies#overview</a>  
 <a href="https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6" target="_blank">https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6</a>  
-<a href="https://github.com/yummies/babel-plugin-yummies" target="_blank">https://github.com/yummies/babel-plugin-yummies</a>  
 <a href="https://github.com/yummies/theme-reset" target="_blank">https://github.com/yummies/theme-reset</a>  
 <a href="https://github.com/yummies/babel-plugin-yummies#mods" target="_blank">https://github.com/yummies/babel-plugin-yummies#mods</a>  
-<a href="https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6" target="_blank">https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6</a>  
 <a href="https://github.com/yummies/starter-kit" target="_blank">https://github.com/yummies/starter-kit</a>  
 <a href="https://github.com/sebmarkbage/ecmascript-rest-spread" target="_blank">https://github.com/sebmarkbage/ecmascript-rest-spread</a>  
 <a href="https://github.com/tc39/ecma262" target="_blank">https://github.com/tc39/ecma262</a>  
@@ -1118,7 +1110,6 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 <a href="https://github.com/codemix/babel-plugin-typecheck" target="_blank">https://github.com/codemix/babel-plugin-typecheck</a>  
 <a href="https://github.com/babel/babel/blob/master/packages/babel/src/util.js" target="_blank">https://github.com/babel/babel/blob/master/packages/babel/src/util.js</a>  
 <a href="https://github.com/babel-plugins/babel-plugin-flow-comments" target="_blank">https://github.com/babel-plugins/babel-plugin-flow-comments</a>  
-<a href="https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23" target="_blank">https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23</a>  
 <a href="https://github.com/rambler-digital-solutions/superagent-mocker" target="_blank">https://github.com/rambler-digital-solutions/superagent-mocker</a>  
 <a href="https://github.com/Microsoft/TypeScript/wiki/Roadmap" target="_blank">https://github.com/Microsoft/TypeScript/wiki/Roadmap</a>  
 <a href="https://github.com/Yomguithereal/baobab/wiki/Select-state" target="_blank">https://github.com/Yomguithereal/baobab/wiki/Select-state</a>  
@@ -1142,16 +1133,9 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 <a href="https://github.com/typicode/husky" target="_blank">https://github.com/typicode/husky</a>  
 <a href="https://github.com/beeftornado/homebrew-rmtree" target="_blank">https://github.com/beeftornado/homebrew-rmtree</a>  
 <a href="https://github.com/facebook/flow/issues/277#event-338421297" target="_blank">https://github.com/facebook/flow/issues/277#event-338421297</a>  
-<a href="https://github.com/codemix/babel-plugin-typecheck" target="_blank">https://github.com/codemix/babel-plugin-typecheck</a>  
 <a href="https://github.com/gcanti/flowcheck" target="_blank">https://github.com/gcanti/flowcheck</a>  
 <a href="https://github.com/gaearon/flowcheck-loader" target="_blank">https://github.com/gaearon/flowcheck-loader</a>  
-<a href="https://github.com/babel/babel/issues/1851" target="_blank">https://github.com/babel/babel/issues/1851</a>  
-### medium.com  
-<a href="https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852" target="_blank">https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852</a>  
-<a href="https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2" target="_blank">https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2</a>  
-<a href="https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247" target="_blank">https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247</a>  
-<a href="https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852" target="_blank">https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852</a>  
-<a href="https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4" target="_blank">https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4</a>
+<a href="https://github.com/babel/babel/issues/1851" target="_blank">https://github.com/babel/babel/issues/1851</a>
 
 ### Другие
 
@@ -1161,8 +1145,17 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 <a href="https://www.youtube.com/watch?v=I7IdS-PbEgI" target="_blank">https://www.youtube.com/watch?v=I7IdS-PbEgI</a>  
 <a href="http://www.youtube.com/watch?v=lDkrXTDwbJQ" target="_blank">http://www.youtube.com/watch?v=lDkrXTDwbJQ</a>  
 <a href="http://www.youtube.com/watch?v=tUtLe1VlkYc" target="_blank">http://www.youtube.com/watch?v=tUtLe1VlkYc</a>  
+<a href="https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852" target="_blank">https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852</a>  
+<a href="https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2" target="_blank">https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2</a>  
+<a href="https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247" target="_blank">https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247</a>  
+<a href="https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4" target="_blank">https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4</a>  
+<a href="http://alt.js.org" target="_blank">http://alt.js.org</a>  
 <a href="https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0" target="_blank">https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0</a>  
 <a href="http://codepen.io/SitePoint/pen/VLXyZw" target="_blank">http://codepen.io/SitePoint/pen/VLXyZw</a>  
+<a href="https://facebook.github.io/react/docs/top-level-api.html" target="_blank">https://facebook.github.io/react/docs/top-level-api.html</a>  
+<a href="https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html" target="_blank">https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html</a>  
+<a href="https://facebook.github.io/react/docs/why-react.html" target="_blank">https://facebook.github.io/react/docs/why-react.html</a>  
+<a href="https://facebook.github.io/react/docs/test-utils.html" target="_blank">https://facebook.github.io/react/docs/test-utils.html</a>  
 <a href="http://koajs.com/" target="_blank">http://koajs.com/</a>  
 <a href="http://visionmedia.github.com/superagent/" target="_blank">http://visionmedia.github.com/superagent/</a>  
 <a href="http://bit.ly/1TPnKSn" target="_blank">http://bit.ly/1TPnKSn</a>  
@@ -1173,8 +1166,10 @@ RT <a href="https://twitter.com/mistadikay" title="Denis Koltsov">@mistadikay</a
 <a href="http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/" target="_blank">http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/</a>  
 <a href="http://pioneerjs.com/" target="_blank">http://pioneerjs.com/</a>  
 <a href="http://shpuntik.github.io/isomorphic-apps-presentation" target="_blank">http://shpuntik.github.io/isomorphic-apps-presentation</a>  
+<a href="http://webdriver.io" target="_blank">http://webdriver.io</a>  
 <a href="http://flowtype.org/docs/quick-reference.html" target="_blank">http://flowtype.org/docs/quick-reference.html</a>  
 <a href="http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/" target="_blank">http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/</a>  
+<a href="http://angular-formly.com" target="_blank">http://angular-formly.com</a>  
 <a href="http://status.coveralls.io/" target="_blank">http://status.coveralls.io/</a>  
 <a href="http://eslint.org/blog/2015/07/eslint-1.0.0-rc-3-released/#reset-is-now-the-default" target="_blank">http://eslint.org/blog/2015/07/eslint-1.0.0-rc-3-released/#reset-is-now-the-default</a>  
 <a href="http://eslint.org/docs/rules/" target="_blank">http://eslint.org/docs/rules/</a>  

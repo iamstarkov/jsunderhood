@@ -39,6 +39,7 @@ Big Web App? Compile it! <a href="http://t.co/vuLsUgPI4U">kripken.github.io/mloc
 
 ## Ссылки
 
+<a href="http://www.2ality.com" target="_blank">http://www.2ality.com</a>  
 <a href="http://mikefowler.me/2014/06/11/backbone-with-es6/" target="_blank">http://mikefowler.me/2014/06/11/backbone-with-es6/</a>  
 <a href="https://github.com/domenic/mocha-traceur" target="_blank">https://github.com/domenic/mocha-traceur</a>  
 <a href="https://github.com/google/traceur-compiler/wiki/Using-Traceur-with-Node.js" target="_blank">https://github.com/google/traceur-compiler/wiki/Using-Traceur-with-Node.js</a>  

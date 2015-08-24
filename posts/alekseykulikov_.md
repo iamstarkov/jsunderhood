@@ -215,7 +215,6 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 <a href="https://github.com/treojs/treo/issues/14#issuecomment-68018036" target="_blank">https://github.com/treojs/treo/issues/14#issuecomment-68018036</a>  
 <a href="https://github.com/HubSpot/offline" target="_blank">https://github.com/HubSpot/offline</a>  
 <a href="https://github.com/ottypes" target="_blank">https://github.com/ottypes</a>  
-<a href="https://github.com/ottypes" target="_blank">https://github.com/ottypes</a>  
 <a href="https://github.com/share/livedb" target="_blank">https://github.com/share/livedb</a>  
 <a href="https://github.com/alekseykulikov/dreamy" target="_blank">https://github.com/alekseykulikov/dreamy</a>  
 <a href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>  
@@ -225,7 +224,6 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 
 <a href="http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/" target="_blank">http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/</a>  
 <a href="http://www.lancelist.com/" target="_blank">http://www.lancelist.com/</a>  
-<a href="https://www.toptal.com/#utilize-wise-software-freelancers" target="_blank">https://www.toptal.com/#utilize-wise-software-freelancers</a>  
 <a href="https://www.toptal.com/#utilize-wise-software-freelancers" target="_blank">https://www.toptal.com/#utilize-wise-software-freelancers</a>  
 <a href="https://codility.com/" target="_blank">https://codility.com/</a>  
 <a href="http://kulikovaelena.tumblr.com/movetoSlovenia" target="_blank">http://kulikovaelena.tumblr.com/movetoSlovenia</a>  
@@ -246,9 +244,12 @@ RT <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov
 <a href="https://hacks.mozilla.org/2015/06/the-state-of-web-components/" target="_blank">https://hacks.mozilla.org/2015/06/the-state-of-web-components/</a>  
 <a href="https://hacks.mozilla.org/category/es6-in-depth/" target="_blank">https://hacks.mozilla.org/category/es6-in-depth/</a>  
 <a href="http://silentimp.github.io/offline-first/" target="_blank">http://silentimp.github.io/offline-first/</a>  
+<a href="http://navigator.onLine" target="_blank">http://navigator.onLine</a>  
 <a href="http://www.dataprotocols.org/en/latest/sleep.html" target="_blank">http://www.dataprotocols.org/en/latest/sleep.html</a>  
 <a href="http://alistapart.com/article/application-cache-is-a-douchebag" target="_blank">http://alistapart.com/article/application-cache-is-a-douchebag</a>  
 <a href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/" target="_blank">http://www.html5rocks.com/en/tutorials/service-worker/introduction/</a>  
+<a href="http://fedsonslack.com" target="_blank">http://fedsonslack.com</a>  
+<a href="http://frontendlondon-slack.herokuapp.com" target="_blank">http://frontendlondon-slack.herokuapp.com</a>  
 <a href="http://gitter.im/dev-ua/" target="_blank">http://gitter.im/dev-ua/</a>  
 <a href="http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/" target="_blank">http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/</a>  
 <a href="http://techdistortion.com/podcasts/pragmatic/episode-30-coffee" target="_blank">http://techdistortion.com/podcasts/pragmatic/episode-30-coffee</a>  

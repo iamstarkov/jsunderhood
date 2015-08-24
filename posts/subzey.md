@@ -192,7 +192,7 @@ RT <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantie
 
 RT <a href="https://twitter.com/maxmaximov" title="Max Maximov">@maxmaximov</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> спроси лучше, у многих ли тут есть образование :)
 
-## Среда <small>60 твитов</small>
+## Среда <small>67 твитов</small>
 
 Предлагаю ещё одну музыкальную паузу: <a href="http://t.co/27KBFmEF5G">pouet.net/prod.php?which…</a> (1 место на DemoJS'12 в категории 1K), в ней ещё нет ни Web Audio, ни WebGL
 
@@ -314,8 +314,6 @@ RT <a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp<
 
 .<a href="https://twitter.com/SilentImp" title="Тихий Бес">@SilentImp</a> В обработчике жеста для меню проверять scrollWidth и scrollLeft у e.target? Не знаю. Не уверен, что правильно понял
 
-## Четверг <small>66 твитов</small>
-
 Вот юзкейс. Есть открытое меню и какой-то блок с кнопкой внутри. При клике куда-нибудь вовне выпадалка скрывается <a href="http://t.co/rkC0lOJzin">pic.twitter.com/rkC0lOJzin</a>
 
 …кликаем на кнопку внутри. Обработчик на самом блоке нам вызывать нельзя, мы глушим событие через stopPropagation()…
@@ -329,6 +327,8 @@ RT <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a>
 RT <a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> Кейс имеет право на жизнь :) В моем понимании контейнер должен заботиться о том, что происходит у него внутри, а …
 
 .<a href="https://twitter.com/likhter" title="Konstantin Likhter">@likhter</a> трудно не согласиться) Я лишь о том, что блок не должен делать stopP, а то в этом случае он решает вообще за всю страницу
+
+## Четверг <small>60 твитов</small>
 
 Когда я в конторе служил версталём,
 Ко мне постучался сеньор девелопер.
@@ -451,9 +451,9 @@ RT <a href="https://twitter.com/rusgautama" title="Rus Buddha">@rusgautama</a>: 
 
 RT <a href="https://twitter.com/iSnifer" title="Anton Kuznetsov">@iSnifer</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> ну как мне кажется, это большое дело. Мердж давно напрашивался. Это всегда интересно,когда форк становится популя…
 
-## Пятница <small>90 твитов</small>
-
 RT <a href="https://twitter.com/Krivlenia" title="Константин">@Krivlenia</a>: <a href="https://twitter.com/Vitalliumm" title="Vitaly Slobodin">@Vitalliumm</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> У bower есть одно преимущество ему не важно наличие meta.jsonЧто полезно при проверке библиотек. Не…
+
+## Пятница <small>89 твитов</small>
 
 Bret Victor круто рассказывает о «so meta». Особенно хорош его доклад Inventing on a Principle <a href="http://t.co/LBooJg2a9f">youtu.be/a-OyoVcbwWE</a> Всем доброго утра!
 
@@ -1074,13 +1074,17 @@ eval(unescape(escape('𬱥𭁉𫡴𩑲𭡡𫀨𡡵𫡣𭁩𫱮𚀧𚁥👣𫱮�
 <a href="http://jsfiddle.net/92ewxh6k/" target="_blank">http://jsfiddle.net/92ewxh6k/</a>  
 <a href="http://jsfiddle.net/wbvyz17h/" target="_blank">http://jsfiddle.net/wbvyz17h/</a>  
 <a href="http://frontendconf.ru/2015/abstracts/1724" target="_blank">http://frontendconf.ru/2015/abstracts/1724</a>  
+<a href="http://aurelia.io" target="_blank">http://aurelia.io</a>  
 <a href="http://frontender.info/zero_framework_manifesto/" target="_blank">http://frontender.info/zero_framework_manifesto/</a>  
+<a href="http://frontender.info" target="_blank">http://frontender.info</a>  
 <a href="https://pbs.twimg.com/media/Bt8NEveIcAEsTqH.png" target="_blank">https://pbs.twimg.com/media/Bt8NEveIcAEsTqH.png</a>  
 <a href="http://www.amazon.ca/Field-Guide-Understanding-Human-Error/dp/0754648265" target="_blank">http://www.amazon.ca/Field-Guide-Understanding-Human-Error/dp/0754648265</a>  
 <a href="http://jsfuck.com/" target="_blank">http://jsfuck.com/</a>  
 <a href="https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object" target="_blank">https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object</a>  
 <a href="https://javascript.spec.whatwg.org/" target="_blank">https://javascript.spec.whatwg.org/</a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding#The_.22Unicode_Problem.22" target="_blank">https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding#The_.22Unicode_Problem.22</a>  
+<a href="http://location.host" target="_blank">http://location.host</a>  
+<a href="http://baz.com" target="_blank">http://baz.com</a>  
 <a href="https://www.npmjs.com/package/rhubarb" target="_blank">https://www.npmjs.com/package/rhubarb</a>  
 <a href="http://abstract.properties/jsconfbp-2015/" target="_blank">http://abstract.properties/jsconfbp-2015/</a>  
 <a href="https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070" target="_blank">https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070</a>  

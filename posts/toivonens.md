@@ -2,7 +2,7 @@
 
 _15 марта 2015_
 
-## Понедельник <small>79 твитов</small>
+## Понедельник <small>80 твитов</small>
 
 Привет! На этой неделе с вами я, <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>. Наконец-то добавила аккаунт во все свои устройства.
 
@@ -166,9 +166,9 @@ RT <a href="https://twitter.com/ki_zu" title="Роман Комаров">@ki_zu<
 
 В Гарвардском университете придумали cyborg flesh <a href="http://t.co/fyVlmqSh8p">extremetech.com/extreme/135207…</a>
 
-## Вторник <small>79 твитов</small>
-
 Собственные npm-пакеты можно выкладывать в приватный репозиторий пакетов. А вот и он <a href="https://t.co/e2DiadttqO">npmjs.com/package/sinopia</a> Говорят, удобный.
+
+## Вторник <small>78 твитов</small>
 
 Доброе утро! В Европах рано работать начинают :-) Я прихожу к 10 (остальные ещё раньше) и никак не могу к этому привыкнуть.
 
@@ -599,12 +599,14 @@ RT <a href="https://twitter.com/JustJenFelice" title="JustJenFelice">@JustJenFel
 <a href="http://www.extremetech.com/extreme/135207-harvard-creates-cyborg-flesh-thats-half-man-half-machine" target="_blank">http://www.extremetech.com/extreme/135207-harvard-creates-cyborg-flesh-thats-half-man-half-machine</a>  
 <a href="http://ponyfoo.com/articles/cross-tab-communication" target="_blank">http://ponyfoo.com/articles/cross-tab-communication</a>  
 <a href="https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24" target="_blank">https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24</a>  
+<a href="http://ya.ru" target="_blank">http://ya.ru</a>  
 <a href="https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png" target="_blank">https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png</a>  
 <a href="http://dou.ua/calendar/6885/" target="_blank">http://dou.ua/calendar/6885/</a>  
 <a href="http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/" target="_blank">http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/</a>  
 <a href="http://getbem.com/" target="_blank">http://getbem.com/</a>  
 <a href="http://www.asport.pl/images/arena08/12/czepki/smartcap-txt.jpg" target="_blank">http://www.asport.pl/images/arena08/12/czepki/smartcap-txt.jpg</a>  
 <a href="http://meiert.com/en/blog/20150310/important/" target="_blank">http://meiert.com/en/blog/20150310/important/</a>  
+<a href="https://surge.sh" target="_blank">https://surge.sh</a>  
 <a href="http://2015.empirejs.org/speakers" target="_blank">http://2015.empirejs.org/speakers</a>  
 <a href="http://frontendbabel.info/" target="_blank">http://frontendbabel.info/</a>  
 <a href="http://yoksel.github.io/about-svg/assets/demo/clown-car/index.html" target="_blank">http://yoksel.github.io/about-svg/assets/demo/clown-car/index.html</a>  

@@ -297,7 +297,7 @@ RT <a href="https://twitter.com/fleg31" title="Алексей">@fleg31</a>: <a h
 
 Сертификат с SHA1 истекает в 2015 году — нет ворнинга. Подробнее в <a href="http://t.co/1KW5TAPeTV">googleonlinesecurity.blogspot.co.uk/2014/09/gradua…</a> +<a href="https://twitter.com/slonoed" title="Dmitry M.">@slonoed</a> <a href="https://t.co/5O27xFXE5S">twitter.com/slonoed/status…</a>
 
-## Среда <small>39 твитов</small>
+## Среда <small>42 твита</small>
 
 RT <a href="https://twitter.com/deepwalker" title="Кривушин Михаил">@deepwalker</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> тема правильных шифров не раскрыта.
 
@@ -379,13 +379,13 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 У Ильи все презентации информативные. Посмотрите «Is TLS Fast Yet?» и «HTTPS Everywhere» <a href="https://t.co/IRa0mvR879">igvita.com</a> <a href="http://t.co/GnTjaqxmfI">pic.twitter.com/GnTjaqxmfI</a>
 
-## Четверг <small>74 твита</small>
-
 RT <a href="https://twitter.com/kasanop" title="Ivan Poddubny">@kasanop</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a> ещё есть h2o (MIT) <a href="https://t.co/TaS3MchY3W">h2o.examp1e.net</a>
 
 RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/ihc_ru" title="Интернет Хостинг">@ihc_ru</a> У меня все заработало.
 
 RT <a href="https://twitter.com/gladkih_m" title="Maxim Gladkih">@gladkih_m</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> мне чуть меньше, но я согласен с каждым словом.
+
+## Четверг <small>71 твит</small>
 
 RT <a href="https://twitter.com/PanyaKor" title="Mikhail Korepanov">@PanyaKor</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/oelifantiev" title="Oleg Elifantiev">@oelifantiev</a> их довльно много в том числе и открытых, например <a href="https://t.co/Tdqo1oOM6q">nghttp2.org</a>, вообще см. <a href="https://t.co/OGHDOPW3lJ">github.com/http2/http2-sp…</a>
 
@@ -980,6 +980,7 @@ Ciao!
 
 ### Другие
 
+<a href="https://www.graph.uk" target="_blank">https://www.graph.uk</a>  
 <a href="http://i.imgur.com/MB4oSDO.gif" target="_blank">http://i.imgur.com/MB4oSDO.gif</a>  
 <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi" target="_blank">https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi</a>  
 <a href="https://developer.chrome.com/devtools/docs/javascript-memory-profiling" target="_blank">https://developer.chrome.com/devtools/docs/javascript-memory-profiling</a>  
@@ -989,7 +990,6 @@ Ciao!
 <a href="https://letsencrypt.org/" target="_blank">https://letsencrypt.org/</a>  
 <a href="https://forum.startcom.org/viewtopic.php?f=15&t=15929" target="_blank">https://forum.startcom.org/viewtopic.php?f=15&t=15929</a>  
 <a href="https://community.qualys.com/blogs/securitylabs/2014/09/09/sha1-deprecation-what-you-need-to-know" target="_blank">https://community.qualys.com/blogs/securitylabs/2014/09/09/sha1-deprecation-what-you-need-to-know</a>  
-<a href="http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html" target="_blank">http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html</a>  
 <a href="http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html" target="_blank">http://googleonlinesecurity.blogspot.co.uk/2014/09/gradually-sunsetting-sha-1.html</a>  
 <a href="https://mozilla.github.io/server-side-tls/ssl-config-generator" target="_blank">https://mozilla.github.io/server-side-tls/ssl-config-generator</a>  
 <a href="https://www.ssllabs.com/ssltest" target="_blank">https://www.ssllabs.com/ssltest</a>  
@@ -1009,9 +1009,10 @@ Ciao!
 <a href="http://habrahabr.ru/post/260249/" target="_blank">http://habrahabr.ru/post/260249/</a>  
 <a href="https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility" target="_blank">https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility</a>  
 <a href="http://chimera.labs.oreilly.com/books/1230000000545/index.html" target="_blank">http://chimera.labs.oreilly.com/books/1230000000545/index.html</a>  
+<a href="https://www.igvita.com" target="_blank">https://www.igvita.com</a>  
+<a href="https://h2o.examp1e.net" target="_blank">https://h2o.examp1e.net</a>  
 <a href="https://nghttp2.org/" target="_blank">https://nghttp2.org/</a>  
 <a href="http://webpack.github.io/docs/code-splitting.html#require" target="_blank">http://webpack.github.io/docs/code-splitting.html#require</a>  
-<a href="http://webpack.github.io/docs/hot-module-replacement-with-webpack.html" target="_blank">http://webpack.github.io/docs/hot-module-replacement-with-webpack.html</a>  
 <a href="http://webpack.github.io/docs/hot-module-replacement-with-webpack.html" target="_blank">http://webpack.github.io/docs/hot-module-replacement-with-webpack.html</a>  
 <a href="https://gist.github.com/Olegas/26d059a9b16514828b3a" target="_blank">https://gist.github.com/Olegas/26d059a9b16514828b3a</a>  
 <a href="https://gist.github.com/mistakster/2e1aa0247005b675fe98" target="_blank">https://gist.github.com/mistakster/2e1aa0247005b675fe98</a>  
@@ -1033,4 +1034,6 @@ Ciao!
 <a href="https://www.safaribooksonline.com/library/view/javascript-the-definitive/9781449393854/" target="_blank">https://www.safaribooksonline.com/library/view/javascript-the-definitive/9781449393854/</a>  
 <a href="https://academy.yandex.ru/events/shri/msk-2015/" target="_blank">https://academy.yandex.ru/events/shri/msk-2015/</a>  
 <a href="http://dou.ua/lenta/articles/welcome-to-kyiv-companies" target="_blank">http://dou.ua/lenta/articles/welcome-to-kyiv-companies</a>  
+<a href="http://eloquentjavascript.net" target="_blank">http://eloquentjavascript.net</a>  
+<a href="http://www.browsersync.io" target="_blank">http://www.browsersync.io</a>  
 <a href="http://webdevchecklist.ru/" target="_blank">http://webdevchecklist.ru/</a>
