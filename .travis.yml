@@ -5,13 +5,12 @@ branches:
   - master
 node_js:
 - iojs-2
-before_script:
+after_script:
 - git config --global user.email "iamstarkov+tachikombie@gmail.com"
 - git config --global user.name "Tachikoma Zombie"
 - git remote rm origin
 - git remote add origin https://tachikombie:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git
 - git checkout master
-after_script:
 - npm run f5
 - npm run save
 - npm run deploy
