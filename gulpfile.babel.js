@@ -22,7 +22,7 @@ var path = require('path');
 var numd = require('numd');
 var numbers = require('typographic-numbers');
 var gm = require('gulp-gm');
-var renderTweet = require('./helpers/tweet');
+var bake = require('tweet-baker');
 
 var latestInfo = fs.readJsonSync('./dump/latest-info.json');
 var authors = require('./authors.js');
@@ -75,7 +75,7 @@ var articleHarvesting = function() {
       url: url + '/',
       title: title,
       image: article.image,
-      desc: renderTweet(author.tweets[author.tweets.length - 1]),
+      desc: bake(author.tweets[author.tweets.length - 1]),
       descText: author.tweets[author.tweets.length - 1].text,
       date: d(author.tweets[author.tweets.length - 1].created_at),
       content: article.content,
