@@ -3,8 +3,8 @@ var fs = require('fs-extra');
 var cheerio = require('cheerio');
 var numbers = (input) => require('typographic-numbers')(input, { locale: 'ru' });
 
-var latestInfo = fs.readJsonSync('./dump/latest-info.json');
-var authors = require('./authors.js');
+var latestInfo = fs.readJsonSync('../dump/latest-info.json');
+var authors = require('../authors.js');
 
 const make$ = (file) => cheerio.load(fs.readFileSync(file, { encoding: 'utf8' }));
 
