@@ -1,8 +1,8 @@
 language: node_js
 node_js:
 - iojs-2
-# after_script:
-# - [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git config --global user.email "iamstarkov+tachikombie@gmail.com"
+after_script:
+- [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git config --global user.email "iamstarkov+tachikombie@gmail.com"
 # - [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git config --global user.name "Tachikoma Zombie"
 # - [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git remote rm origin
 # - [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git remote add origin https://tachikombie:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git
