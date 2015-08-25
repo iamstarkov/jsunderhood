@@ -1,7 +1,4 @@
 language: node_js
-branches:
-  only:
-  - master
 node_js:
 - iojs-2
 after_script:
