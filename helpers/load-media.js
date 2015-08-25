@@ -6,7 +6,7 @@ import media from 'twitter-profile-media';
 export default function loadMedia(author, path, authorNameForSave, cb) {
   mkdirs('dump/images/original', (err) => {
     if (err) throw err;
-    media(tokens, author, (err, { image, banner }) => {
+    media(tokens, author, (err, { image, banner }={}) => {
       if (err) throw err;
 
       if (load && banner) {
