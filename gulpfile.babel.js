@@ -24,6 +24,8 @@ var numbers = require('typographic-numbers');
 var gm = require('gulp-gm');
 var renderTweet = require('./helpers/tweet');
 
+import { html } from 'commonmark-helpers';
+
 var latestInfo = fs.readJsonSync('./dump/latest-info.json');
 var authors = require('./authors.js');
 var getStats = require('./stats.js');
@@ -75,7 +77,7 @@ var articleHarvesting = function() {
       url: url + '/',
       title: title,
       image: article.image,
-      desc: renderTweet(author.tweets[author.tweets.length - 1]),
+      desc: html(renderTweet(author.tweets[author.tweets.length - 1])),
       descText: author.tweets[author.tweets.length - 1].text,
       date: d(author.tweets[author.tweets.length - 1].created_at),
       content: article.content,
