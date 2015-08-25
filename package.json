@@ -6,6 +6,7 @@
   "scripts": {
     "update": "babel-node update",
     "posts": "babel-node posts",
+    "git-ci-setup": "git remote rm origin && git remote add origin https://tachikombie:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git",
     "save": "git add . && git commit -m 'save dump' && git push origin master &>/dev/null",
     "f5": "npm-run-all update posts",
     "deploy": "gulp gh",
