@@ -6,7 +6,8 @@
   "scripts": {
     "update": "babel-node update",
     "posts": "babel-node posts",
-    "git-ci-setup": "git remote rm origin && git remote add origin https://tachikombie:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git",
+    "git-ci-setup": "git config --global user.email \"iamstarkov+tachikombie@gmail.com\" && git config --global user.name \"Tachikoma Zombie\"",
+    "git-switch-origins": "git remote rm origin && git remote add origin https://tachikombie:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git",
     "save": "git add . && git commit -m 'save dump' && git push origin master &>/dev/null",
     "f5": "npm-run-all update posts",
     "deploy": "gulp gh",
