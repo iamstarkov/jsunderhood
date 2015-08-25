@@ -6,7 +6,6 @@ node_js:
 - iojs-2
 after_script:
 - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm-run-all git-ci-setup git-switch-origins || false'
-- '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && git checkout master || false'
 - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run f5 || false'
 - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run save || false'
 - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run deploy || false'
