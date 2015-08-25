@@ -14,13 +14,13 @@ _01 марта 2015_
 
 там же столкнулся с действительно крупными сайтами и мне очень помог [@csswizardry](https://twitter.com/csswizardry "Harry Roberts") со своими статьями
 
-Особенно помогла статья про бэм, её я впоследствии перевёл для [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine") [frontender.info/MindBEMding/](http://t.co/vYhSGbtHdy "http://frontender.info/MindBEMding/") [b_](https://twitter.com/search?q=%23b_)
+Особенно помогла статья про бэм, её я впоследствии перевёл для [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine") [frontender.info\/MindBEMding\/](http://t.co/vYhSGbtHdy "http://frontender.info/MindBEMding/") [b\_](https://twitter.com/search?q=%23b_)
 
-На этой же работе я перевёл для использования внутри компании гайдлайны Гарри Робертса [github.com/matmuchrapna/C…](https://t.co/LS6p17e36p "https://github.com/matmuchrapna/CSS-guidelines")
+На этой же работе я перевёл для использования внутри компании гайдлайны Гарри Робертса [github.com\/matmuchrapna\/C…](https://t.co/LS6p17e36p "https://github.com/matmuchrapna/CSS-guidelines")
 
 Спустя почти два года я ушёл в [@yandex](https://twitter.com/yandex "Яндекс"), примерно тогда же разочаровался в универе и забрал документы
 
-Переход в яндекс означал погружение в [b_](https://twitter.com/search?q=%23b_) по колено и бэмификацию головного мозга, а также боль от сборщиков
+Переход в яндекс означал погружение в [b\_](https://twitter.com/search?q=%23b_) по колено и бэмификацию головного мозга, а также боль от сборщиков
 
 В яндексе я помогал делать промо-страницу яндекс.браузера [browser.yandex.ru](http://t.co/5ixzobVLh9 "http://browser.yandex.ru/")
 
@@ -28,15 +28,15 @@ _01 марта 2015_
 
 Да и не хотелось использовать кастомный сборщик, когда у нас уже есть grunt и gulp
 
-Поэтому объединившись с могучим [@floatdrop](https://twitter.com/floatdrop "Vsevolod S.") мы за две недели написали резолвер зависимостей блоков [npmjs.com/package/deps-g…](https://t.co/Het5OKQQn1 "https://www.npmjs.com/package/deps-graph")
+Поэтому объединившись с могучим [@floatdrop](https://twitter.com/floatdrop "Vsevolod S.") мы за две недели написали резолвер зависимостей блоков [npmjs.com\/package\/deps-g…](https://t.co/Het5OKQQn1 "https://www.npmjs.com/package/deps-graph")
 
-А потом и сам сборщик [npmjs.com/package/gulp-b…](https://t.co/vUSz8ZMZIN "https://www.npmjs.com/package/gulp-bem")
+А потом и сам сборщик [npmjs.com\/package\/gulp-b…](https://t.co/vUSz8ZMZIN "https://www.npmjs.com/package/gulp-bem")
 
 Затем для проверки жизнеспособности нашего сборщика нужно было сделать сайт и мы решили сделать свой [bem.info](http://t.co/b2RnJm3B84 "http://bem.info"), но попроще
 
 Так родился [getbem.com](http://t.co/biVhvEI7LY "http://getbem.com/") also known as [@getbem](https://twitter.com/getbem "getbem")
 
-Сначала использовали bemjson+bh, но очень быстро (спустя 30 минут) стало больно всё это использовать и мы ушли на Jade
+Сначала использовали bemjson+bh, но очень быстро \(спустя 30 минут\) стало больно всё это использовать и мы ушли на Jade
 
 Я совсем забыл про [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine") и доброго [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"). Подписывайтесь на него скорее
 
@@ -46,7 +46,7 @@ _01 марта 2015_
 
 Год назад я волонтёрствовал для [@fbkinfo](https://twitter.com/fbkinfo "ФБК") и [@rrubanov](https://twitter.com/rrubanov "Рубанов Роман") и мы вместе запустили [blackbox.fbk.info](http://t.co/VAqyQc2baE "http://blackbox.fbk.info/")
 
-После яндекса я ушёл к замечательным ребятам из [@csssr_ru](https://twitter.com/csssr_ru "CSSSR") в рабство к [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya")
+После яндекса я ушёл к замечательным ребятам из [@csssr\_ru](https://twitter.com/csssr_ru "CSSSR") в рабство к [@lise\_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya")
 
 Одна из лучших компаний в которой я работал
 
@@ -68,7 +68,7 @@ RT [@csswizardry](https://twitter.com/csswizardry "Harry Roberts"): [@jsunderhoo
 
 Поэтому важно контролировать то, что с тобой происходит сейчас, но также важно понимать что было в прошлом
 
-К примеру, я похудел за год на 18 килограмм используя только файлик в который по понедельникам записывал свой вес [pic.twitter.com/binbFQne3k](http://t.co/binbFQne3k)
+К примеру, я похудел за год на 18 килограмм используя только файлик в который по понедельникам записывал свой вес [pic.twitter.com\/binbFQne3k](http://t.co/binbFQne3k)
 
 В моменты плато я смотрел на вес и понимал, что пред. усилия не должны быть зря и мотивировал себя продолжать дальше
 
@@ -84,15 +84,15 @@ RT [@csswizardry](https://twitter.com/csswizardry "Harry Roberts"): [@jsunderhoo
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") то есть 10 января 2014 я весил 90, а вот 29 декабря 2014 уже 72
 
-Вчера забыл рассказать, что в прошлом году с  [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") и основателем [@HexletHQ](https://twitter.com/HexletHQ "Hexlet") Рахимом [@freetonik](https://twitter.com/freetonik "Rakhim Davletkaliyev") перевели книжку [@addyosmani](https://twitter.com/addyosmani "Addy Osmani")
+Вчера забыл рассказать, что в прошлом году с  [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") и основателем [@HexletHQ](https://twitter.com/HexletHQ "Hexlet") Рахимом [@freetonik](https://twitter.com/freetonik "Rakhim Davletkaliyev") перевели книжку [@addyosmani](https://twitter.com/addyosmani "Addy Osmani")
 
 Так появился [largescalejs.ru](http://t.co/BQvXJB6jhC "http://largescalejs.ru/")
 
-Если вам тема здорового веса, то почитайте как в Дании борются с детским ожирением [bbc.com/news/health-29…](http://t.co/LN56yuh0On "http://www.bbc.com/news/health-29755469")
+Если вам тема здорового веса, то почитайте как в Дании борются с детским ожирением [bbc.com\/news\/health-29…](http://t.co/LN56yuh0On "http://www.bbc.com/news/health-29755469")
 
 Правила очень просты и применимы к любому возрасту
 
-[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") * интересная тема
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") \* интересная тема
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что же со мной не так
 
@@ -100,15 +100,15 @@ RT [@csswizardry](https://twitter.com/csswizardry "Harry Roberts"): [@jsunderhoo
 
 Немного о волонтёрстве. вы пробовали?
 
-Подруга пишет магистерскую и нужны ваши мнения и знания о технологиях, чтобы принести их в наши музеи. Помогите ей [goo.gl/GNbBU4](http://t.co/ry2Yfq5rm6 "http://goo.gl/GNbBU4")
+Подруга пишет магистерскую и нужны ваши мнения и знания о технологиях, чтобы принести их в наши музеи. Помогите ей [goo.gl\/GNbBU4](http://t.co/ry2Yfq5rm6 "http://goo.gl/GNbBU4")
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Да, делали социальное приложение, для сбора данных о настроении толпы во время митингов.
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сохранились исходники [github.com/europrapor/eur…](https://t.co/MrNkTBx9x1 "https://github.com/europrapor/europrapor")
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сохранились исходники [github.com\/europrapor\/eur…](https://t.co/MrNkTBx9x1 "https://github.com/europrapor/europrapor")
 
-Вернёмся к эффективности. Пользуетесь ли вы техникой Помодорро? [en.wikipedia.org/wiki/Pomodoro_…](https://t.co/AhsYqLVNGr "https://en.wikipedia.org/wiki/Pomodoro_Technique") [pic.twitter.com/stCIYZ08gr](http://t.co/stCIYZ08gr)
+Вернёмся к эффективности. Пользуетесь ли вы техникой Помодорро? [en.wikipedia.org\/wiki\/Pomodoro\_…](https://t.co/AhsYqLVNGr "https://en.wikipedia.org/wiki/Pomodoro_Technique") [pic.twitter.com\/stCIYZ08gr](http://t.co/stCIYZ08gr)
 
-Я пришёл к ней, чтобы a) не забывать делать перерывы в работе и б) работать по возможности не отвлекаясь во время помидоров
+Я пришёл к ней, чтобы a\) не забывать делать перерывы в работе и б\) работать по возможности не отвлекаясь во время помидоров
 
 Но получилось внедрить в свой рабочий процесс не сразу
 
@@ -120,7 +120,7 @@ RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitt
 
 Я первое время не понимал как удобно трекать время и нервничал по этому поводу
 
-Но потом [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya") подсказала очень удобный воркфлоу
+Но потом [@lise\_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya") подсказала очень удобный воркфлоу
 
 1. Начинаешь пустой таск
 2. Как закончил то, чем занимался, заполняешь пустой таск и заканчиваешь его.
@@ -138,7 +138,7 @@ RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitt
 
 Николай [@ksoftwaretweet](https://twitter.com/ksoftwaretweet "Nick Toverovskiy") очень много писал и в твиттере и у себя в блоге об этом
 
-✔ Самостоятельный выход из апатичного состояния [ksoftware.livejournal.com/291683.html](http://t.co/iWKMXHGvft "http://ksoftware.livejournal.com/291683.html")
+✔ Самостоятельный выход из апатичного состояния [ksoftware.livejournal.com\/291683.html](http://t.co/iWKMXHGvft "http://ksoftware.livejournal.com/291683.html")
 
 Оказывается, что за две помидорины, то есть за час, можно довольно много успеть.
 
@@ -146,11 +146,11 @@ RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitt
 
 То есть за два часа интенсивной работы можно получить очень значительный прогресс и даже закончить день с чувством выполненного долга.
 
-Это уже из другой его статьи «Сколько стоят задачи: за два часа можно сделать всё » [ksoftware.livejournal.com/282745.html](http://t.co/lG6ztBxHvI "http://ksoftware.livejournal.com/282745.html")
+Это уже из другой его статьи «Сколько стоят задачи: за два часа можно сделать всё » [ksoftware.livejournal.com\/282745.html](http://t.co/lG6ztBxHvI "http://ksoftware.livejournal.com/282745.html")
 
 И да фолловьте Товеровского [@ksoftwaretweet](https://twitter.com/ksoftwaretweet "Nick Toverovskiy") он интересно и хорошо пишет
 
-RT [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya"): [@straykov](https://twitter.com/straykov "Илья Страйкóв") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toggl](https://twitter.com/toggl "Toggl") Можно. А еще мы пишем свой трекер, опенсорсный и с расширениями подо всё. Альфа будет в начале м…
+RT [@lise\_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya"): [@straykov](https://twitter.com/straykov "Илья Страйкóв") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toggl](https://twitter.com/toggl "Toggl") Можно. А еще мы пишем свой трекер, опенсорсный и с расширениями подо всё. Альфа будет в начале м…
 
 Кажется у меня всё на тему эффективности
 
@@ -174,11 +174,11 @@ RT [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya"): [@straykov](h
 
 И уметь объяснять заказчику какие-то технические моменты и настаивать на своих решениях
 
-Я так спорил с менеджером насчёт неуместности выравнивания по ширине в блоге Музобзора [muzobzor.ru/blog](http://t.co/NLl0UZJieH "http://muzobzor.ru/blog") и я победил
+Я так спорил с менеджером насчёт неуместности выравнивания по ширине в блоге Музобзора [muzobzor.ru\/blog](http://t.co/NLl0UZJieH "http://muzobzor.ru/blog") и я победил
 
 В это всё вкладывается также необходимость договариваться на берегу, особенно на фрилансе
 
-Вы должны проговорить то, что вы будете делать и особенно то, что вы не будете делать (особенно, если для вас это важно)
+Вы должны проговорить то, что вы будете делать и особенно то, что вы не будете делать \(особенно, если для вас это важно\)
 
 В бытность фриланс-верстальщица я обговаривал с заказчиками условие того, что я сверстаю, за какое время, как буду доделывать правки
 
@@ -203,8 +203,8 @@ RT [@lise_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya"): [@straykov](h
 RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какое приложение на ios порекомендуешь?
 
 RT [@dkushnikov](https://twitter.com/dkushnikov "Dmitry Kushnikov"): [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 
-Flat Tomato (Time Management Tool Inspire By Pomodoro), Jian bu
-[appsto.re/ru/AfI4Q.i](https://t.co/wjxAwSrqO5 "https://appsto.re/ru/AfI4Q.i")
+Flat Tomato \(Time Management Tool Inspire By Pomodoro\), Jian bu
+[appsto.re\/ru\/AfI4Q.i](https://t.co/wjxAwSrqO5 "https://appsto.re/ru/AfI4Q.i")
 
 Про ожидания написал так много, потому что мне кажется это очень важной темой и красными нитками проходит через весь мой опыт
 
@@ -220,7 +220,7 @@ Flat Tomato (Time Management Tool Inspire By Pomodoro), Jian bu
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какие корявые неологизмы
 
-И конечно спрашивайте что-нибудь, что вас давно терзает. если сам не знаю (наверняка), то другие разработчики помогут
+И конечно спрашивайте что-нибудь, что вас давно терзает. если сам не знаю \(наверняка\), то другие разработчики помогут
 
 RT [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинский"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мне нравится, хоть я и не реплаю. Из сегодняшнего много полезного для себя подчерпнул.
 
@@ -232,7 +232,7 @@ RT [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинс
 
 Помогали ли какому-то проекту? Разрабатываете что-то в открытом доступе? Мейнтейните?
 
-Знаете ли вы, что Рома [@ki_zu](https://twitter.com/ki_zu "Роман Комаров") мейнтенит Stylus? [learnboost.github.io/stylus/](https://t.co/VGOVezmsAB "https://learnboost.github.io/stylus/")
+Знаете ли вы, что Рома [@ki\_zu](https://twitter.com/ki_zu "Роман Комаров") мейнтенит Stylus? [learnboost.github.io\/stylus\/](https://t.co/VGOVezmsAB "https://learnboost.github.io/stylus/")
 
 Если вы положительно относитесь к опенсорсу, то вносите ли вы свой вклад?
 
@@ -240,13 +240,13 @@ RT [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинс
 
 Я форкнул, проект, исправил всё в веб-редакторе и отправил пулл-реквест Михаилу [@mahemoff](https://twitter.com/mahemoff "Michael Mahemoff")
 
-пулл-реквест провисел около полугода, но в конце концов правки приняли и задеплоили расширение [chrome.google.com/webstore/detai…](https://t.co/YSPVGJXnXY "https://chrome.google.com/webstore/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk")
+пулл-реквест провисел около полугода, но в конце концов правки приняли и задеплоили расширение [chrome.google.com\/webstore\/detai…](https://t.co/YSPVGJXnXY "https://chrome.google.com/webstore/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk")
 
 При этом я не умел и не умею писать хром-расширения но исправил то, чем пользовался
 
-А какие у вас есть истории по исправлению любимого и используемого инструмента (и не только)? В общем, нить саморекламы иди (буду ретвитить)
+А какие у вас есть истории по исправлению любимого и используемого инструмента \(и не только\)? В общем, нить саморекламы иди \(буду ретвитить\)
 
-RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не получается найти на это время, сначала работа, потом изучение новых вещей. Может приоритеты неправильные?)
+RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не получается найти на это время, сначала работа, потом изучение новых вещей. Может приоритеты неправильные?\)
 
 . [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") прав. Но мне кажется это вопрос отдачи, если ты пользуешься чем то, то надо как то возвращать. Типа кармы
 
@@ -268,7 +268,7 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а stackoverflow соискателя сталкеришь? тоже современная часть хорошего резюме.
 
-Stackoverflow сталкерится по возможности тоже, так по нему можно определить 1) знание английского 2) знание тем
+Stackoverflow сталкерится по возможности тоже, так по нему можно определить 1\) знание английского 2\) знание тем
 
 дисклеймер к [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на эту неделю: будет много мыслей о работе и мало технических штуковин. Haters gonna hate
 
@@ -280,21 +280,21 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 Тред саморекламы продолжается. Расскажите друг другу, что вы улучшали рядом с собой в интернете
 
-К примеру, 5 лет назад я отрепортил [@matmancini](https://twitter.com/matmancini "Matias Mancini") о виднеющемся из под картинки [a11y](https://twitter.com/search?q=%23a11y)-тексте. И он это поправил [pic.twitter.com/r0ozXVVLPS](http://t.co/r0ozXVVLPS)
+К примеру, 5 лет назад я отрепортил [@matmancini](https://twitter.com/matmancini "Matias Mancini") о виднеющемся из под картинки [a11y](https://twitter.com/search?q=%23a11y)-тексте. И он это поправил [pic.twitter.com\/r0ozXVVLPS](http://t.co/r0ozXVVLPS)
 
-Ещё 3 года назад [chelmuseum.ru/admin/](http://t.co/39C1mFAdZ3 "http://www.chelmuseum.ru/admin/") принимал пару admin / 123, но после письма на почту починили
+Ещё 3 года назад [chelmuseum.ru\/admin\/](http://t.co/39C1mFAdZ3 "http://www.chelmuseum.ru/admin/") принимал пару admin \/ 123, но после письма на почту починили
 
 Из интересного ещё репортил баги старой Ленте и Заур всё исправил
 
-Теперь Заур техдир ведомостей и писал о своём опыте разработки медиа-изданий на хабр [habrahabr.ru/post/243939/](http://t.co/6ry89sEEKm "http://habrahabr.ru/post/243939/")
+Теперь Заур техдир ведомостей и писал о своём опыте разработки медиа-изданий на хабр [habrahabr.ru\/post\/243939\/](http://t.co/6ry89sEEKm "http://habrahabr.ru/post/243939/")
 
-Вы слушаете [@deadmau5](https://twitter.com/deadmau5 "deadmau5")? Однажды зашёл на его сайт и обнаружил, что в меню совсем нет текста. [pic.twitter.com/kAX10q2Zjp](http://t.co/kAX10q2Zjp)
+Вы слушаете [@deadmau5](https://twitter.com/deadmau5 "deadmau5")? Однажды зашёл на его сайт и обнаружил, что в меню совсем нет текста. [pic.twitter.com\/kAX10q2Zjp](http://t.co/kAX10q2Zjp)
 
-Состоялась переписка, в которой студия пошутила, что разработчика только, что уволили. /cc [@deadmau5](https://twitter.com/deadmau5 "deadmau5") [pic.twitter.com/JaoX97o4St](http://t.co/JaoX97o4St)
+Состоялась переписка, в которой студия пошутила, что разработчика только, что уволили. \/cc [@deadmau5](https://twitter.com/deadmau5 "deadmau5") [pic.twitter.com\/JaoX97o4St](http://t.co/JaoX97o4St)
 
 Но сайт до сих пор сломан [deadmau5.com](http://t.co/YuoBYBKN59 "http://www.deadmau5.com/")
 
-Из последнего — за два месяца переписки запилили Twitter Cards для [@breakingmad_](https://twitter.com/breakingmad_ "breakingmad")  [vstarkov.ru/opengraph/](http://t.co/Pg0l6tyDZa "http://vstarkov.ru/opengraph/") -&gt; [twitter.com/breakingmad_/s…](https://t.co/ObNS3K34Qk "https://twitter.com/breakingmad_/status/568736536579186688")
+Из последнего — за два месяца переписки запилили Twitter Cards для [@breakingmad\_](https://twitter.com/breakingmad_ "breakingmad")  [vstarkov.ru\/opengraph\/](http://t.co/Pg0l6tyDZa "http://vstarkov.ru/opengraph/") -&gt; [twitter.com\/breakingmad\_\/s…](https://t.co/ObNS3K34Qk "https://twitter.com/breakingmad_/status/568736536579186688")
 
 То есть неважно есть у вас доступ к сайту или нет, вы всегда можете что-то улучшить
 
@@ -302,22 +302,22 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 И главное не стесняться этого, точно также как с опенсорсом, как заметил [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
 
-RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда вижу ошибки на сайте, то стараюсь написать об этом авторам. так с некоторыми теперь иногда общаюсь.
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда вижу ошибки на сайте, то стараюсь написать об этом авторам. так с некоторыми теперь иногда общаюсь.
 
 Поэтому пишите сюда о ваших подвигах, а я буду ретвитить
 
 Фронтенд должен знать своих героев
 
-RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") зашел на один местный сайт, а там каша из дивов, написал студии, показал как оптимизировать, после немного учил…
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") зашел на один местный сайт, а там каша из дивов, написал студии, показал как оптимизировать, после немного учил…
 
-RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не вижу трудностей в том, чтобы помочь кому-либо, это же не заберёт много времени, а где-то станет лучше и свет…
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не вижу трудностей в том, чтобы помочь кому-либо, это же не заберёт много времени, а где-то станет лучше и свет…
 
-RT [@ru_rodweb](https://twitter.com/ru_rodweb "Igor Deryabin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в моем гитхабе пара дохлых реп и мелких пуллреквестов, взять какую-то идею и довести до конца, не хватает мотив…
+RT [@ru\_rodweb](https://twitter.com/ru_rodweb "Igor Deryabin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в моем гитхабе пара дохлых реп и мелких пуллреквестов, взять какую-то идею и довести до конца, не хватает мотив…
 
 ## Четверг <small>50 твитов</small>
 
 Японцы тоже знают, что помидорки хороши для вас 
-[youtube.com/watch?v=oUXj5b…](https://t.co/7bIpaKLjR5 "https://www.youtube.com/watch?v=oUXj5bZcNaY") /сс [@neonick](https://twitter.com/neonick "Nick Marchenko") [@shuvalov_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov")
+[youtube.com\/watch?v=oUXj5b…](https://t.co/7bIpaKLjR5 "https://www.youtube.com/watch?v=oUXj5bZcNaY") \/сс [@neonick](https://twitter.com/neonick "Nick Marchenko") [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov")
 
 Вы пользуетесь Chrome или Firefox?
 
@@ -350,15 +350,15 @@ RT [@straykov](https://twitter.com/straykov "Илья Страйкóв"): [@jsun
 
 RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я пробую менять телефон, и это уже адский ад. Про браузер даже не хочется думать. [@bobuk](https://twitter.com/bobuk "bobuk")
 
-Безопасный hh.ru не открывается по https [hh.ru/safety](https://t.co/GxzkaDVJmh "https://hh.ru/safety") (попробуйте). А как вы относитесь к своей безопасности в интернете?
+Безопасный hh.ru не открывается по https [hh.ru\/safety](https://t.co/GxzkaDVJmh "https://hh.ru/safety") \(попробуйте\). А как вы относитесь к своей безопасности в интернете?
 
 RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Наплевательски
 
-RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") из публичных мест через впн захожу, для разных сайтов разные пароли, где возможно — двух-этапная авторизация.
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") из публичных мест через впн захожу, для разных сайтов разные пароли, где возможно — двух-этапная авторизация.
 
-RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i_told_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разрабатываю, тестирую,  все делаю.
+RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разрабатываю, тестирую,  все делаю.
 
-RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i_told_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в яндексе одмины тоже программируют. Драйвера например пишут :)
+RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в яндексе одмины тоже программируют. Драйвера например пишут :\)
 
 Безопасность можно рассматривать не только с точки зрения стойких паролей, верификации и тд, но также с точки зрения паранойи за свои данные
 
@@ -386,9 +386,9 @@ RT [@bobuk](https://twitter.com/bobuk "bobuk"): [@i_told_ya](https://twitter.com
 
 RT [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") параноя over9000
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и часто сайты с интеграцией соц. сетей ломаются :)
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и часто сайты с интеграцией соц. сетей ломаются :\)
 
-RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") инфу о лекарствах и технике ищу в приватном режиме, чтобы потом реклама не сыпалась.
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") инфу о лекарствах и технике ищу в приватном режиме, чтобы потом реклама не сыпалась.
 
 Если вы таки не собираетесь уходить с гугла, то открывайте его по https чтобы вводимые запросы знали только вы и гугл
 
@@ -402,7 +402,7 @@ RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](h
 
 Вы знали, что одиночные пикеты — единственная легальная форма выражения политической воли, которой можно воспользоваться в любой момент
 
-Примерно год назад хотел повлиять на ситуацию в стране, написал Ивану [@from_anywhere](https://twitter.com/from_anywhere "Иван Метелёв") и он рассказал как можно помочь фбк
+Примерно год назад хотел повлиять на ситуацию в стране, написал Ивану [@from\_anywhere](https://twitter.com/from_anywhere "Иван Метелёв") и он рассказал как можно помочь фбк
 
 Дело не в [@navalny](https://twitter.com/navalny "Alexey Navalny") у меня к нему неоднозначное отношение, а в желании что-то сделать и цели [@FBK](https://twitter.com/FBK "Maggie") совпадали с собственными
 
@@ -436,7 +436,7 @@ RT [@neonick](https://twitter.com/neonick "Nick Marchenko"): [@jsunderhood](http
 
 Там же на Stackoverflow вы сможете честно оценить себя: «Смогу ли я вживую разговаривать с этими людьми?«
 
-Поиск работы за границей, не отличается от поиска просто хорошей работы (кроме языка)
+Поиск работы за границей, не отличается от поиска просто хорошей работы \(кроме языка\)
 
 Всё также важны GitHub, StackOverflow, блог, выступления на конференциях и проекты в которых вы участвовали
 
@@ -482,7 +482,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 Но факт, за тысячу долларов вы можете иметь крышу над головой от восточной до западной европы
 
-В азии кажется тоже можно снимать неплохое жильё за эти деньги (фолловеры из азии, поправьте если я неправ)
+В азии кажется тоже можно снимать неплохое жильё за эти деньги \(фолловеры из азии, поправьте если я неправ\)
 
 На это накладывается развитость общественного транспорта и в итоге вы можете жить в десятках километров от места работы
 
@@ -490,15 +490,15 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 Добавим к этому тысячу долларов на еду и отдых
 
-В итоге вам достаточно получать 2000$, чтобы сносно жить где угодно (финансовая подушка безопасности всё равно необходима)
+В итоге вам достаточно получать 2000$, чтобы сносно жить где угодно \(финансовая подушка безопасности всё равно необходима\)
 
-* про инвестиции в себя отвечают, а про брендинг нет. не верю, что никто не развивает себя как бренд
+\* про инвестиции в себя отвечают, а про брендинг нет. не верю, что никто не развивает себя как бренд
 
-RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") снимаем с коллегой 3этажный дом за 500$ + коммуналка 150$ (это из-за работающих постоянно кондиционеров) на Пх…
+RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") снимаем с коллегой 3этажный дом за 500$ + коммуналка 150$ \(это из-за работающих постоянно кондиционеров\) на Пх…
 
 RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") но в больших городах будет дороже, конечно же
 
-Это были пруфы из Азии от крутого [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov") из [@aviasales](https://twitter.com/aviasales "Aviasales.ru"), (спасибо им за кураж бомбей)
+Это были пруфы из Азии от крутого [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov") из [@aviasales](https://twitter.com/aviasales "Aviasales.ru"), \(спасибо им за кураж бомбей\)
 
 2000$ по старому курсу это 60-70 тысяч — чуть больше, чем в миллионниках
 
@@ -506,7 +506,7 @@ RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood
 
 При условии 168 рабочих часов в месяц ваш часовой рейт должен начинаться с 12$
 
-А рейт в 20$/h принесёт вам 3360$ в месяц
+А рейт в 20$\/h принесёт вам 3360$ в месяц
 
 Притом, что найти такие условия вполне под силу
 
@@ -516,17 +516,17 @@ RT [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina"): [@jsu
 
 RT [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и ты рассчитываешь на $3360 в месяц, а выходит в лучшем случае $2100, если платят за час. Надо смотреть реал…
 
-Алекасанд [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina") пишет о проблемах с почасовой оплатой. Я работал удалённо в [@csssr_ru](https://twitter.com/csssr_ru "CSSSR") и воспринимал как постоянную работу
+Алекасанд [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina") пишет о проблемах с почасовой оплатой. Я работал удалённо в [@csssr\_ru](https://twitter.com/csssr_ru "CSSSR") и воспринимал как постоянную работу
 
 Думаю, что у каждой работы есть свои особенности. Но в целом мне кажется наработать 8 часов в день не так сложно
 
 Вернёмся к само-инвестициям
 
-RT [@gladkih_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я раньше тратил много денег на книги и курсы — это все окупилось. Плюс поездки на конференциии.
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я раньше тратил много денег на книги и курсы — это все окупилось. Плюс поездки на конференциии.
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не жалеть денег на всевозможные воркшопы и курсы. Такой вклад в себя окупается на отлично.
 
-RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я потратила много денег и времени на английский. Всё окупилось :-)
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я потратила много денег и времени на английский. Всё окупилось :-\)
 
 Не надо бояться платных курсов, интенсивов и конференций — это относится к самоинвестициям
 
@@ -610,19 +610,19 @@ RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https:
 
 Ну и конечно есть тысячи крутых разработчиков, которые просто делают офигенные и сложные вещи, например Сева [@floatdrop](https://twitter.com/floatdrop "Vsevolod S.")
 
-Всем хороших выходных и открытка из Стокгольма [pic.twitter.com/zGBmuLnJpo](http://t.co/zGBmuLnJpo)
+Всем хороших выходных и открытка из Стокгольма [pic.twitter.com\/zGBmuLnJpo](http://t.co/zGBmuLnJpo)
 
 ## Суббота <small>5 твитов</small>
 
-RT [@mista_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Писать статьи — этому нужно учиться. На уроках русского языка в наших школах этому не учат, а даже наоборот, отби…
+RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Писать статьи — этому нужно учиться. На уроках русского языка в наших школах этому не учат, а даже наоборот, отби…
 
-Владимир [@mista_k](https://twitter.com/mista_k "Vladimir Kuznetsov") правильно пишет, писать статьи тяжело. Но не начав их писать, вы и не научитесь. Поэтому просто начните
+Владимир [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov") правильно пишет, писать статьи тяжело. Но не начав их писать, вы и не научитесь. Поэтому просто начните
 
 Я хотел вам субкоту устроить сегодня, но уже не хочу
 
 В такие моменты надо ответить себе «а было ли это простым для меня год или два назад?» и идти рассказывать
 
-RT [@voxpuibr](https://twitter.com/voxpuibr "Stanislav Shabalin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот хорошая статья на тему [carl.flax.ie/dothingstellpe…](http://t.co/le6TH3UzPv "http://carl.flax.ie/dothingstellpeople.html")
+RT [@voxpuibr](https://twitter.com/voxpuibr "Stanislav Shabalin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот хорошая статья на тему [carl.flax.ie\/dothingstellpe…](http://t.co/le6TH3UzPv "http://carl.flax.ie/dothingstellpeople.html")
 
 ## Воскресенье <small>3 твита</small>
 
@@ -630,7 +630,7 @@ RT [@voxpuibr](https://twitter.com/voxpuibr "Stanislav Shabalin"): [@jsunderhood
 
 На этой неделе с вами был @matmuchrapna. Я многое успел рассказать и эфиры прошли хорошо, спасибо вам!
 
-Ну и напоследок оставлю тут неподражаемого Пола Тейлора [@blastingbrains](https://twitter.com/blastingbrains "Stephen Paul Taylor") [youtu.be/NWxISwEBU0U](http://t.co/A3ADtd5MNz "http://youtu.be/NWxISwEBU0U")
+Ну и напоследок оставлю тут неподражаемого Пола Тейлора [@blastingbrains](https://twitter.com/blastingbrains "Stephen Paul Taylor") [youtu.be\/NWxISwEBU0U](http://t.co/A3ADtd5MNz "http://youtu.be/NWxISwEBU0U")
 
 ## Ссылки
 
