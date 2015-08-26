@@ -22,8 +22,8 @@ var path = require('path');
 var numd = require('numd');
 var numbers = require('typographic-numbers');
 var gm = require('gulp-gm');
-var renderTweet = require('./helpers/tweet');
 
+import renderTweet from 'tweet.md';
 import { html } from 'commonmark-helpers';
 
 var latestInfo = fs.readJsonSync('./dump/latest-info.json');

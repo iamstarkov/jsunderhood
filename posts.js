@@ -3,7 +3,7 @@ import authors from './authors';
 import moment from 'moment';
 import numd from 'numd';
 import urlRegexp from 'twitter-regexps/url';
-import renderTweet from './helpers/tweet';
+import renderTweet from 'tweet.md';
 
 moment.locale('ru');
 
