@@ -8,11 +8,11 @@ _12 апреля 2015_
 
 ## Понедельник <small>14 твитов</small>
 
-утро понедельника начинается с чтения LLVM Weekly - на прошлой неделе ничего интересного, впрочем, не случилось [llvmweekly.org\/issue\/66](http://t.co/pwYE9sH0wx "http://llvmweekly.org/issue/66")
+утро понедельника начинается с чтения LLVM Weekly - на прошлой неделе ничего интересного, впрочем, не случилось [llvmweekly.org/issue/66](http://t.co/pwYE9sH0wx "http://llvmweekly.org/issue/66")
 
 RT [@GrantedN](https://twitter.com/GrantedN "Alex Grand"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") появились ли какие-то отпимизации в V8, связанные с defineProperty? Почему U\*Array \(UInt32\) не содержит всех мет…
 
-. [@GrantedN](https://twitter.com/GrantedN "Alex Grand") typedarrays исторически не были array, поэтому у них другой прототип; в ES6 все методы типа map будут  [people.mozilla.org\/~jorendorff\/es…](https://t.co/aHzphLndYT "https://people.mozilla.org/~jorendorff/es6-draft.html#sec-%typedarray%.prototype")
+. [@GrantedN](https://twitter.com/GrantedN "Alex Grand") typedarrays исторически не были array, поэтому у них другой прототип; в ES6 все методы типа map будут  [people.mozilla.org/~jorendorff/es…](https://t.co/aHzphLndYT "https://people.mozilla.org/~jorendorff/es6-draft.html#sec-%typedarray%.prototype")
 
 . [@GrantedN](https://twitter.com/GrantedN "Alex Grand") про defineProperty: зависит от того, что именно вас интересует: сам defineProperty или проперти им созданные?
 
@@ -20,27 +20,25 @@ RT [@GrantedN](https://twitter.com/GrantedN "Alex Grand"): [@jsunderhood](https:
 
 .[@GrantedN](https://twitter.com/GrantedN "Alex Grand") с другой стороны если определять им non-writable свойство на прототипе какого-нибудь объекта то это используется в оптимизациях
 
-а вот демка скрытой проблемы с производительностью при использовании accessors [mrale.ph\/irhydra\/2\/\#gis…](http://t.co/csgOqPM7gA "http://mrale.ph/irhydra/2/#gist:88ef8e9f7d8b17090777") \/ [gist.github.com\/mraleph\/88ef8e…](https://t.co/Eh40zPeg8f "https://gist.github.com/mraleph/88ef8e9f7d8b17090777")
+а вот демка скрытой проблемы с производительностью при использовании accessors [mrale.ph/irhydra/2/\#gis…](http://t.co/csgOqPM7gA "http://mrale.ph/irhydra/2/#gist:88ef8e9f7d8b17090777") / [gist.github.com/mraleph/88ef8e…](https://t.co/Eh40zPeg8f "https://gist.github.com/mraleph/88ef8e9f7d8b17090777")
 
-... смотреть надо что заинлайнилось во вкладке Source [pic.twitter.com\/lZpppn1cY2](http://t.co/lZpppn1cY2)
+... смотреть надо что заинлайнилось во вкладке Source [pic.twitter.com/lZpppn1cY2](http://t.co/lZpppn1cY2)
 
-на работе сегодня выходной, тут в твиттере - тоже. чувствую себя героем фантастического рассказа "Позвоните!" [fantlab.ru\/work65898](http://t.co/FS75JrG7ne "http://fantlab.ru/work65898")
+на работе сегодня выходной, тут в твиттере - тоже. чувствую себя героем фантастического рассказа "Позвоните!" [fantlab.ru/work65898](http://t.co/FS75JrG7ne "http://fantlab.ru/work65898")
 
-обнаружил у себя в рюкзаке распечатку статьи "Common Compiler Optimisations are Invalid in the C11 Memory Model" [mpi-sws.org\/~viktor\/papers…](https://t.co/ZbinSfue8v "https://mpi-sws.org/~viktor/papers/popl2015-c11comp.pdf")
+обнаружил у себя в рюкзаке распечатку статьи "Common Compiler Optimisations are Invalid in the C11 Memory Model" [mpi-sws.org/~viktor/papers…](https://t.co/ZbinSfue8v "https://mpi-sws.org/~viktor/papers/popl2015-c11comp.pdf")
 
-казалось бы при чем тут JS? а вот при чем: [docs.google.com\/document\/d\/1ND…](https://t.co/IUSSwZcNwO "https://docs.google.com/document/d/1NDGA_gZJ7M7w1Bh8S0AoDyEqwDdRh4uSoTPSNn77PFk/view")
+казалось бы при чем тут JS? а вот при чем: [docs.google.com/document/d/1ND…](https://t.co/IUSSwZcNwO "https://docs.google.com/document/d/1NDGA_gZJ7M7w1Bh8S0AoDyEqwDdRh4uSoTPSNn77PFk/view")
 
 RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вячеслав, немного не по теме, но всё же... Что вы думаете о реализациях виртуального дома в js? Есть ли з…
 
-.[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") на мой взгляд за ними есть настоящее, 
-
-кто знает, что будет в будущем? может веб умрет, может DOM станет легковесным
+.[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") на мой взгляд за ними есть настоящее, <br /><br />кто знает, что будет в будущем? может веб умрет, может DOM станет легковесным
 
 .[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") а тема у нас JS и все-все-все, так что любой вопрос по теме, даже если я на него ответа не знаю :\)
 
 ## Вторник <small>88 твитов</small>
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тогда как JS стать лучше\/быстрее? В чем слабые места современных движков?
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тогда как JS стать лучше/быстрее? В чем слабые места современных движков?
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") я бы сказал, что самое слабое место современных движков это непредсказуемость производительности
 
@@ -56,25 +54,25 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") или пример с accessors который я вчера твитнул - можно сделать Clash случай таким же быстрым как NoClash.
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") или Object.defineProperty \/ Object.prototype.hasOwnProperty они не очень-то быстрые, а можно сделать быстрыми
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") или Object.defineProperty / Object.prototype.hasOwnProperty они не очень-то быстрые, а можно сделать быстрыми
 
-в JS сообществе очень популярно изобретать велосипеды, вот и для меня это самый удобный способ добраться до работы [pic.twitter.com\/UqqXgBfnKc](http://t.co/UqqXgBfnKc)
+в JS сообществе очень популярно изобретать велосипеды, вот и для меня это самый удобный способ добраться до работы [pic.twitter.com/UqqXgBfnKc](http://t.co/UqqXgBfnKc)
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") реализация forEach внутри отличается от for-loop? Почему бы JIT не инлайнить forEach в for-loop.
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") forEach реализован через for-loop [github.com\/v8\/v8-git-mirr…](https://t.co/cVodtJAkdb "https://github.com/v8/v8-git-mirror/blob/ba41489da55a3484ceb5ac84c07de546578a2161/src/array.js#L1176-L1205")
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") forEach реализован через for-loop [github.com/v8/v8-git-mirr…](https://t.co/cVodtJAkdb "https://github.com/v8/v8-git-mirror/blob/ba41489da55a3484ceb5ac84c07de546578a2161/src/array.js#L1176-L1205")
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") проблема как раз в том, что никто пока не озаботился тем, чтобы forEach инлайнился и все лишнее оптимизировалось в никуда
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") я для этого как раз написал тулзу -&gt; [mrale.ph\/irhydra\/2\/](http://t.co/pHZEWPybDb "http://mrale.ph/irhydra/2/"), там флаги и инструкции на первой странице
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") я для этого как раз написал тулзу -&gt; [mrale.ph/irhydra/2/](http://t.co/pHZEWPybDb "http://mrale.ph/irhydra/2/"), там флаги и инструкции на первой странице
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Как можно посмотреть оптимизированный код в рантайме?
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть будущее у компиляции LLVM-кода под браузеры, asm.js — как нового ассемблера и js на уровне железа? ht[destroyallsoftware.com\/talks\/the-birt…](https://t.co/W7KlmcAEM8 "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript")
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть будущее у компиляции LLVM-кода под браузеры, asm.js — как нового ассемблера и js на уровне железа? ht[destroyallsoftware.com/talks/the-birt…](https://t.co/W7KlmcAEM8 "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript")
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") asm.js - весьма неполноценный. и мне кажется весьма странным решение "прятать" байткод внутри JSкода
 
-.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") все мое отношение к нему было выражено 2 года назад [mrale.ph\/blog\/2013\/03\/2…](http://t.co/Qq1paUkVvf "http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html") и почти не изменилось с тех пор.
+.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") все мое отношение к нему было выражено 2 года назад [mrale.ph/blog/2013/03/2…](http://t.co/Qq1paUkVvf "http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html") и почти не изменилось с тех пор.
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") однако веб достаточно странная штука. тут часто побеждает популизм и политика, а не нормальные технические решения.
 
@@ -84,7 +82,7 @@ RT [@dosyara](https://twitter.com/dosyara "Sergey Maksimov"): [@jsunderhood](htt
 
 .[@dosyara](https://twitter.com/dosyara "Sergey Maksimov") еще близкий аналог русского "костыля", это "kludge" \(a workaround or quick-and-dirty solution that is clumsy, inelegant\)
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") В FF Nightly реализованы типизированные объекты [wiki.ecmascript.org\/doku.php?id=ha…](http://t.co/l0Gtje43ik "http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects") Нужна ли в JS статическая типизация?
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") В FF Nightly реализованы типизированные объекты [wiki.ecmascript.org/doku.php?id=ha…](http://t.co/l0Gtje43ik "http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects") Нужна ли в JS статическая типизация?
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") типизированные объекты не привносят статической типизации в язык, поэтому вопрос не совсем понятен
 
@@ -148,13 +146,13 @@ RT [@GrantedN](https://twitter.com/GrantedN "Alex Grand"): [@jsunderhood](https:
 
 .[@GrantedN](https://twitter.com/GrantedN "Alex Grand") в неоптимизированном случае call быстрее за счет того, что нет нужды выделять временный массив аргументов
 
-еще случайный факт об о мне: в моем "музыка для программирования" плейлисте [youtube.com\/watch?v=\_2xa46…](https://t.co/HC4sJzK4Hx "https://www.youtube.com/watch?v=_2xa46ytiSs") соседствует с [youtube.com\/watch?v=foGkU6…](https://t.co/o2j7IAUDAM "https://www.youtube.com/watch?v=foGkU6x3eSE")
+еще случайный факт об о мне: в моем "музыка для программирования" плейлисте [youtube.com/watch?v=\_2xa46…](https://t.co/HC4sJzK4Hx "https://www.youtube.com/watch?v=_2xa46ytiSs") соседствует с [youtube.com/watch?v=foGkU6…](https://t.co/o2j7IAUDAM "https://www.youtube.com/watch?v=foGkU6x3eSE")
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а что с иммутабельными данными в движках? Они используют преимущества неизменяемости для оптимизаций?
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") V8 не особо использует, могла бы и лучше. я уже приводил, пример с non-writable свойством на прототипе  [twitter.com\/jsunderhood\/st…](https://t.co/zjVhLXC6mu "https://twitter.com/jsunderhood/status/585078802616819712")
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") V8 не особо использует, могла бы и лучше. я уже приводил, пример с non-writable свойством на прототипе  [twitter.com/jsunderhood/st…](https://t.co/zjVhLXC6mu "https://twitter.com/jsunderhood/status/585078802616819712")
 
-. [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") с другой стороны если написать вот такой цикл [gist.github.com\/mraleph\/141f0e…](https://t.co/VW3wBz4rdm "https://gist.github.com/mraleph/141f0ed76bd24fb28243"), то там o.x не будет вынесено за цикл, хотя могло бы.
+. [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") с другой стороны если написать вот такой цикл [gist.github.com/mraleph/141f0e…](https://t.co/VW3wBz4rdm "https://gist.github.com/mraleph/141f0ed76bd24fb28243"), то там o.x не будет вынесено за цикл, хотя могло бы.
 
 . [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") одновременно в этом примере hidden class check будет убран - т.е. вроде как V8 понимает что объект immutable но вроде как и нет
 
@@ -174,7 +172,7 @@ RT [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda"): [@jsunderhood](https:/
 
 . [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") в современных JS VM эти фрагменты = функции, т.е. оптимизирующий компилятор оптимизирует ф-ии отдельно друг от друга  [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
 
-. [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") например в [gist.github.com\/mraleph\/141f0e…](https://t.co/VW3wByMPOM "https://gist.github.com/mraleph/141f0ed76bd24fb28243") он придет оптимизировать foo и не сможет заинлайнить вызов bar   [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
+. [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") например в [gist.github.com/mraleph/141f0e…](https://t.co/VW3wByMPOM "https://gist.github.com/mraleph/141f0ed76bd24fb28243") он придет оптимизировать foo и не сможет заинлайнить вызов bar   [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
 
 . [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") поэтому вызов bar будет для него непрозрачен [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
 
@@ -186,22 +184,21 @@ RT [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda"): [@jsunderhood](https:/
 
 . [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") поэтому надо взвешивать стоимость и какой выхлоп получается. поэтому пока в JS мире intraprocedural + inlining работает ОК
 
-. [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") тот же asm.js и Strong Mode [developers.google.com\/v8\/experiments](https://t.co/pFTvLGmy0R "https://developers.google.com/v8/experiments") у них ноги растут от нежелания делать interprocedural analysis
+. [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") тот же asm.js и Strong Mode [developers.google.com/v8/experiments](https://t.co/pFTvLGmy0R "https://developers.google.com/v8/experiments") у них ноги растут от нежелания делать interprocedural analysis
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот здесь [github.com\/babel\/babel\/is…](https://t.co/PRrbihqVVA "https://github.com/babel/babel/issues/1176") для оптимизации предлагают выносить try-catch в отдельную функцию, это правда…
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот здесь [github.com/babel/babel/is…](https://t.co/PRrbihqVVA "https://github.com/babel/babel/issues/1176") для оптимизации предлагают выносить try-catch в отдельную функцию, это правда…
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") Crankshaft не поддерживает try-catch по историческим причинам, поэтому горячим функциям это помогает быть оптимизированными.
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") но у них должно быть нетривиальное тело \(циклы там всякие\), что бы прирост производительности был хорошо заметен
 
-адаптивная оптимизация одной картинкой [pic.twitter.com\/t3KiTwWaNO](http://t.co/t3KiTwWaNO)
+адаптивная оптимизация одной картинкой [pic.twitter.com/t3KiTwWaNO](http://t.co/t3KiTwWaNO)
 
-RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а я опять о насущном :\)
-Вячеслав, что вы думаете о реактивном подходе в построении сложных spa приложений…
+RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а я опять о насущном :\)<br />Вячеслав, что вы думаете о реактивном подходе в построении сложных spa приложений…
 
 .[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") я думаю, что это функциональненько, и больше ничего :\)
 
-.[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") я UI практически не делаю =&gt; нет опыта для сравнения. а когда делаю, то тяп-ляп на коленке \(e.g. [mrale.ph\/saga\/](http://t.co/YdcYuNI7TC "http://mrale.ph/saga/") \)
+.[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") я UI практически не делаю =&gt; нет опыта для сравнения. а когда делаю, то тяп-ляп на коленке \(e.g. [mrale.ph/saga/](http://t.co/YdcYuNI7TC "http://mrale.ph/saga/") \)
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Если бы это была основная архитектура, какими были бы современные ЯП? Или это не влияет?
 
@@ -209,17 +206,17 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") Charles Moore вон выпускает сейчас clockless CPU который по сути дела реализует Forth. ничего необычного :\)
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") с другой стороны я стал сейчас искать последние новости --- оказывается IBM сделала [en.wikipedia.org\/wiki\/TrueNorth](http://t.co/P3Rw2ccJN2 "http://en.wikipedia.org/wiki/TrueNorth")
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") с другой стороны я стал сейчас искать последние новости --- оказывается IBM сделала [en.wikipedia.org/wiki/TrueNorth](http://t.co/P3Rw2ccJN2 "http://en.wikipedia.org/wiki/TrueNorth")
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") я сомневаюсь что этот TrueNorth "a neuromorphic CMOS chip" программируется на каком-нибудь С++ или JS
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") нашел я, как они его программируют [dl1.frz.ir\/FREE\/papers-we…](http://t.co/Df8vH3tOQn "http://dl1.frz.ir/FREE/papers-we-love/new_paradigms/cognitive-computing-programming-paradigm-corelet-language.pdf") вообщем это из другой реальности все.
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") нашел я, как они его программируют [dl1.frz.ir/FREE/papers-we…](http://t.co/Df8vH3tOQn "http://dl1.frz.ir/FREE/papers-we-love/new_paradigms/cognitive-computing-programming-paradigm-corelet-language.pdf") вообщем это из другой реальности все.
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") лучше уж посмотреть на Chuck Moore с его 144 core Forth CPU [infoq.com\/presentations\/…](http://t.co/aZsC7BpmVL "http://www.infoq.com/presentations/power-144-chip") это как-то ближе и понятнее
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") лучше уж посмотреть на Chuck Moore с его 144 core Forth CPU [infoq.com/presentations/…](http://t.co/aZsC7BpmVL "http://www.infoq.com/presentations/power-144-chip") это как-то ближе и понятнее
 
 ## Среда <small>41 твит</small>
 
-начнем утро головоломкой из разряда "и на старуху бывает проруха" [jsperf.com\/es6-map-vs-obj…](http://t.co/Ca3uOLbNL9 "http://jsperf.com/es6-map-vs-object-lookup")
+начнем утро головоломкой из разряда "и на старуху бывает проруха" [jsperf.com/es6-map-vs-obj…](http://t.co/Ca3uOLbNL9 "http://jsperf.com/es6-map-vs-object-lookup")
 
 ... напихали в объект кучу свойств obj\[keys\[i\]\] = i и почему-то читать эти свойства быстрее c ключами из Object.keys\(obj\), а не из keys
 
@@ -227,7 +224,7 @@ RT [@vecmezoni](https://twitter.com/vecmezoni "Alexander Inozemtsev"): [@jsunder
 
 .[@vecmezoni](https://twitter.com/vecmezoni "Alexander Inozemtsev") нет, я пишу код в Sublime Text - основная рабочая машина у меня на Linux.
 
-никто что-то не спешит отгадывать мою головоломку, а я меж тем пью кофе из своей любимой JS-кружки [pic.twitter.com\/mA61kNUbSs](http://t.co/mA61kNUbSs)
+никто что-то не спешит отгадывать мою головоломку, а я меж тем пью кофе из своей любимой JS-кружки [pic.twitter.com/mA61kNUbSs](http://t.co/mA61kNUbSs)
 
 RT [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о, расскажи про kinesis, как тебе?
 
@@ -245,7 +242,7 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") иными словами интернализация строки - это поиск посимвольно равной ей строки в некотором глобальной таблице.
 
-.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") подробнее: [en.wikipedia.org\/wiki\/String\_in…](http://t.co/GQgeiFgqnK "http://en.wikipedia.org/wiki/String_interning")
+.[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") подробнее: [en.wikipedia.org/wiki/String\_in…](http://t.co/GQgeiFgqnK "http://en.wikipedia.org/wiki/String_interning")
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") некоторые реализации некотрых языков, наприер, Lua интернализуют все строки
 
@@ -261,9 +258,9 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") и вот как раз случай obj\[objectKeys\[i\]\] всегда попадает на этот fast path и никогда не идет в slowPath.
 
-в сорцах chromium есть прикольные тулзы: вот, например, одна раскладывает бинарник на части и рисует с помощью d3 [pic.twitter.com\/LK50ttKymi](http://t.co/LK50ttKymi)
+в сорцах chromium есть прикольные тулзы: вот, например, одна раскладывает бинарник на части и рисует с помощью d3 [pic.twitter.com/LK50ttKymi](http://t.co/LK50ttKymi)
 
-... можно кликая найти из какого файла пришла куча кода в бинарник, сама тулза здесь -&gt; [chromium.googlesource.com\/chromium\/src\/+…](https://t.co/tv1F2GsHhD "https://chromium.googlesource.com/chromium/src/+/master/tools/binary_size")
+... можно кликая найти из какого файла пришла куча кода в бинарник, сама тулза здесь -&gt; [chromium.googlesource.com/chromium/src/+…](https://t.co/tv1F2GsHhD "https://chromium.googlesource.com/chromium/src/+/master/tools/binary_size")
 
 RT [@reklatsmasters](https://twitter.com/reklatsmasters "Дмитрий Цветцих"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") Получается V8 копирует строки? Крайне не экономное расходование памяти.можно же владеть указате…
 
@@ -285,7 +282,7 @@ RT [@reklatsmasters](https://twitter.com/reklatsmasters "Дмитрий Цвет
 
 .[@reklatsmasters](https://twitter.com/reklatsmasters "Дмитрий Цветцих") вот какая-то такая логика стоит за не интернингом всех подряд строк. строковые литералы "a" и ключи всегда интернятся.
 
-про строки \(я от этих картинок даже прослезился, вспомнив как конспекты одногрупниц ксерил\) [pic.twitter.com\/bDzh96Kvkx](http://t.co/bDzh96Kvkx)
+про строки \(я от этих картинок даже прослезился, вспомнив как конспекты одногрупниц ксерил\) [pic.twitter.com/bDzh96Kvkx](http://t.co/bDzh96Kvkx)
 
 RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") flatten-строка быстрее? Может какие-то конкретные операции? Стоит игра свеч? [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]")
 
@@ -305,13 +302,13 @@ RT [@dmitryshimkin](https://twitter.com/dmitryshimkin "Dmitry Shimkin"): [@jsund
 
 сегодня был самый безвопросый день - все JS программисты видимо готовятся к выходным
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Правду пишут? [twitter.com\/roman01la\/stat…](https://t.co/XPSvqp14uE "https://twitter.com/roman01la/status/586294394275389441")
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Правду пишут? [twitter.com/roman01la/stat…](https://t.co/XPSvqp14uE "https://twitter.com/roman01la/status/586294394275389441")
 
 .[@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") да
 
 ## Пятница <small>9 твитов</small>
 
-внезапно натолкнулся на вопрос про таинственное замедление JS кода в Chrome [stackoverflow.com\/questions\/2942…](http://t.co/Jmmgjn5dWZ "http://stackoverflow.com/questions/29424013/strange-javascript-performance")
+внезапно натолкнулся на вопрос про таинственное замедление JS кода в Chrome [stackoverflow.com/questions/2942…](http://t.co/Jmmgjn5dWZ "http://stackoverflow.com/questions/29424013/strange-javascript-performance")
 
 ... глянул на это дело в IRHydra по быстрому: оказывается это связано с тем, что сломалась одна оптимизация, которую я делал 3 года назад
 
@@ -319,7 +316,7 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 ... отгадка - что сломалось и как чинить, будет через час :\)
 
-добрался до написания ответа на утренний вопрос [stackoverflow.com\/questions\/2942…](http://t.co/i2i5ofCsKH "http://stackoverflow.com/questions/29424013/strange-javascript-performance/29562128#29562128") и фикса этого бага [codereview.chromium.org\/1077113002\/](https://t.co/vu1nCV2yin "https://codereview.chromium.org/1077113002/")
+добрался до написания ответа на утренний вопрос [stackoverflow.com/questions/2942…](http://t.co/i2i5ofCsKH "http://stackoverflow.com/questions/29424013/strange-javascript-performance/29562128#29562128") и фикса этого бага [codereview.chromium.org/1077113002/](https://t.co/vu1nCV2yin "https://codereview.chromium.org/1077113002/")
 
 чем короче фикс, тем сложнее объяснить почему что-то в оптимизаторе не работает без него
 
@@ -345,7 +342,7 @@ RT [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin"): [@jsunderhood](h
 
 стоит ли сделать digest из всех технических вопросов, на которые я ответил? \(исключая секретные рецепты моей любимой еды\)
 
-[stefan-marr.de\/papers\/pldi-ma…](http://t.co/VMNURsiyrq "http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/") &lt;- скоро все смогут писать быстрые виртуальные машины на коленке, поэтому надо рубить бабло пока эта тема горячая
+[stefan-marr.de/papers/pldi-ma…](http://t.co/VMNURsiyrq "http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/") &lt;- скоро все смогут писать быстрые виртуальные машины на коленке, поэтому надо рубить бабло пока эта тема горячая
 
 я думаю если устану писать код, напишу книгу "Еда и Программирование"
 
@@ -359,9 +356,9 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") а Go... овсянная каша? очень просто и полезно для желудка, если от С++ у тебя язва.
 
-окей, всех с прошедшей неделей, поднимаю бокал за вас, пишущих на JS без страха и сомнений [pic.twitter.com\/wBI9t4bDxP](http://t.co/wBI9t4bDxP)
+окей, всех с прошедшей неделей, поднимаю бокал за вас, пишущих на JS без страха и сомнений [pic.twitter.com/wBI9t4bDxP](http://t.co/wBI9t4bDxP)
 
-вот краткое содержание недели [mrale.ph\/blog\/2015\/04\/1…](http://t.co/mtCaGVM1Am "http://mrale.ph/blog/2015/04/12/jsunderhood.html"), ловите меня на [mrale.ph](http://t.co/8NGUcgwQ1w "http://mrale.ph") и в основном твиттере [@mraleph](https://twitter.com/mraleph "Vyacheslav Egorov"). всем пока!
+вот краткое содержание недели [mrale.ph/blog/2015/04/1…](http://t.co/mtCaGVM1Am "http://mrale.ph/blog/2015/04/12/jsunderhood.html"), ловите меня на [mrale.ph](http://t.co/8NGUcgwQ1w "http://mrale.ph") и в основном твиттере [@mraleph](https://twitter.com/mraleph "Vyacheslav Egorov"). всем пока!
 
 и еще, смотрите на языки программирования за пределами JS: C++, Haskell, Rust, Go, C\#, Lua, Dart, OCaml, Clojure, Agda, всёвсёвсё
 
@@ -381,9 +378,9 @@ RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешке
 
 вот еще интересный вопрос: есть сериалы про агентов FBI, есть сериалы про врачей, а есть ли сериалы про программистов?
 
-последний сериал про программистов, который я видел выглядел как-то так \(главный программист в центре \o\/\) [pic.twitter.com\/DU16J3yTsH](http://t.co/DU16J3yTsH)
+последний сериал про программистов, который я видел выглядел как-то так \(главный программист в центре \\o/\) [pic.twitter.com/DU16J3yTsH](http://t.co/DU16J3yTsH)
 
-всё, 12:07, мой пароль превратился в тыкву. вот вам стихотворение Фернандо Пессоа напоследок [pic.twitter.com\/M5RlwAJLYW](http://t.co/M5RlwAJLYW)
+всё, 12:07, мой пароль превратился в тыкву. вот вам стихотворение Фернандо Пессоа напоследок [pic.twitter.com/M5RlwAJLYW](http://t.co/M5RlwAJLYW)
 
 ## Ссылки
 

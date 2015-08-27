@@ -12,7 +12,7 @@ _16 апреля 2015_
 
 .@matmuchrapna [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih") [@toivonens](https://twitter.com/toivonens "var ya; // ru") ссори, теперь исправлюсь :\)
 
-.[@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") в нашей CMS используем ES6. Вот небольшая подборочка нашего опенсорса :\) - [github.com\/rambler-digita…](https://t.co/U3iBinepLE "https://github.com/rambler-digital-solutions")
+.[@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") в нашей CMS используем ES6. Вот небольшая подборочка нашего опенсорса :\) - [github.com/rambler-digita…](https://t.co/U3iBinepLE "https://github.com/rambler-digital-solutions")
 
 .[@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") в RDS сейчас работает около ста человек
 
@@ -56,7 +56,7 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): Пр
 
 Будем пить горячие напитки и и холиварить на разные темы :\) Например почему Angular плохо, а за React'ом будущее
 
-Всем привет с тимбилдинга! :\) [pic.twitter.com\/9s1LO8RWBK](http://t.co/9s1LO8RWBK)
+Всем привет с тимбилдинга! :\) [pic.twitter.com/9s1LO8RWBK](http://t.co/9s1LO8RWBK)
 
 ## Среда <small>29 твитов</small>
 
@@ -86,7 +86,7 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@yoksel](
 
 Кажется с большим отрывом победил Agile :\)
 
-Год назад я прошел курс Certified Agile Professional [scrumtrek.ru\/trainings\/view…](http://t.co/gJGAIWfHrm "http://scrumtrek.ru/trainings/view/22/147/")
+Год назад я прошел курс Certified Agile Professional [scrumtrek.ru/trainings/view…](http://t.co/gJGAIWfHrm "http://scrumtrek.ru/trainings/view/22/147/")
 
 И тогда мой взгляд на многие вещи в процессе разработки очень сильно изменился
 
@@ -108,7 +108,7 @@ Scrum же скорее подходит для тех команд, где пр
 
 .[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") если проеб на стороне админов - они крайние. Если ошибка в коде - прогеры.
 
-.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") трекер задач — Jira\/Trello
+.[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") трекер задач — Jira/Trello
 
 .[@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov") в качестве CI - TeamCity, правда пока не на всех проектах
 
@@ -172,25 +172,25 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 Хочу поделиться «Must read!» чтивом. Надо кому? :\) RT — поделиться. FAV — забить.
 
-"45 татуировок менеджера". Обязательна к прочтению для руководителей всех мастей. Прям библия [goo.gl\/YzqUtV](http://t.co/Y4JYi8rtDh "http://goo.gl/YzqUtV") [pic.twitter.com\/Gc5aRo4nzR](http://t.co/Gc5aRo4nzR)
+"45 татуировок менеджера". Обязательна к прочтению для руководителей всех мастей. Прям библия [goo.gl/YzqUtV](http://t.co/Y4JYi8rtDh "http://goo.gl/YzqUtV") [pic.twitter.com/Gc5aRo4nzR](http://t.co/Gc5aRo4nzR)
 
-"Руководство фасилитатора". Вот уж что поистине помогает собрать команду в кучку и "двигать" [goo.gl\/ruZWXT](http://t.co/FL9Y3dCIbc "http://goo.gl/ruZWXT") [pic.twitter.com\/r2BXs7CKXV](http://t.co/r2BXs7CKXV)
+"Руководство фасилитатора". Вот уж что поистине помогает собрать команду в кучку и "двигать" [goo.gl/ruZWXT](http://t.co/FL9Y3dCIbc "http://goo.gl/ruZWXT") [pic.twitter.com/r2BXs7CKXV](http://t.co/r2BXs7CKXV)
 
-"Как пасти котов". Это прям о сложностях взаимоотношений с различнами типами разработчиков [goo.gl\/j4jcDj](http://t.co/EP1zt3wEAv "http://goo.gl/j4jcDj") [pic.twitter.com\/v4HuClt5FN](http://t.co/v4HuClt5FN)
+"Как пасти котов". Это прям о сложностях взаимоотношений с различнами типами разработчиков [goo.gl/j4jcDj](http://t.co/EP1zt3wEAv "http://goo.gl/j4jcDj") [pic.twitter.com/v4HuClt5FN](http://t.co/v4HuClt5FN)
 
-"Проект Фениск". Книга про то, как DevOps побеждает "плесень" :\) [goo.gl\/2D45aQ](http://t.co/CCIeBMGtVI "http://goo.gl/2D45aQ") [pic.twitter.com\/nzRIJENQbZ](http://t.co/nzRIJENQbZ)
+"Проект Фениск". Книга про то, как DevOps побеждает "плесень" :\) [goo.gl/2D45aQ](http://t.co/CCIeBMGtVI "http://goo.gl/2D45aQ") [pic.twitter.com/nzRIJENQbZ](http://t.co/nzRIJENQbZ)
 
 RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") "Как пасти скотов"... сверху вниз есть книги, а снизу вверх? Например "Как работать с менеджером, если он мудак…
 
 .[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") одно из двух: либо такого менеджера скоро "уйдут", либо не работать с ним совсем :\)
 
-"Правила Ашманова". Неплохец, к слову сказать. Тоже маст рид для управленцев в IT [goo.gl\/fCkIzl](http://t.co/3c8rZtn4XU "http://goo.gl/fCkIzl")
+"Правила Ашманова". Неплохец, к слову сказать. Тоже маст рид для управленцев в IT [goo.gl/fCkIzl](http://t.co/3c8rZtn4XU "http://goo.gl/fCkIzl")
 
 RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А если серьезно - есть книги "снизу вверх"?
 
 .[@dcromster](https://twitter.com/dcromster "Roman Milovskiy") честно говоря не встречал :\( Но если кто посоветует, с удовольствием прочту
 
-"Social Intelligence". А эта книга взорвала мой мозг, она про то, как современный мир меняет взаимоотношения людей [goo.gl\/xjtYHl](http://t.co/dRElivuvts "http://goo.gl/xjtYHl")
+"Social Intelligence". А эта книга взорвала мой мозг, она про то, как современный мир меняет взаимоотношения людей [goo.gl/xjtYHl](http://t.co/dRElivuvts "http://goo.gl/xjtYHl")
 
 В общем вот вам для затравочки :\) Остальные книги буду со временим выкладывать у себя в аккаунте [@lomakin](https://twitter.com/lomakin "Alexander Lomakin")
 

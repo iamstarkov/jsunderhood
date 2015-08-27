@@ -6,13 +6,13 @@ _05 апреля 2015_
 
 Всем привет!;\) Меня зовут Антон Виноградов. Я разработчик интерфейсов в Альфа-Банке. На целую неделю я с вами. Пишем не стесняемся\)
 
-Еще я сумасшедший евангелист БЭМ, автор опенсорс библиотек, которые можно найти тут [github.com\/verybigman](https://t.co/lvULYosyPD "https://github.com/verybigman") [b\_](https://twitter.com/search?q=%23b_)
+Еще я сумасшедший евангелист БЭМ, автор опенсорс библиотек, которые можно найти тут [github.com/verybigman](https://t.co/lvULYosyPD "https://github.com/verybigman") [#b\_](https://twitter.com/search?q=%23b_)
 
-New Альфа-Стек: БЭМ, BEMHTML + BH, Stylus, ENB, NodeJS, Express [b\_](https://twitter.com/search?q=%23b_) [@bem\_ru](https://twitter.com/bem_ru "БЭМ")
+New Альфа-Стек: БЭМ, BEMHTML + BH, Stylus, ENB, NodeJS, Express [#b\_](https://twitter.com/search?q=%23b_) [@bem\_ru](https://twitter.com/bem_ru "БЭМ")
 
 Меня заставили!;\) Я работаю в Альфа-Лаборатории - инновационном подразделении Альфы. Пилим сервисы, где клиенты оперируют деньгами! [@denisx](https://twitter.com/denisx "denisx")
 
-Вот из новостей\) Буду рассказывать на frontendconf в мае [frontendconf.ru\/2015\/abstracts…](http://t.co/fbWathSsoC "http://frontendconf.ru/2015/abstracts/1723") про компоненты и БЭМ в том числе!
+Вот из новостей\) Буду рассказывать на frontendconf в мае [frontendconf.ru/2015/abstracts…](http://t.co/fbWathSsoC "http://frontendconf.ru/2015/abstracts/1723") про компоненты и БЭМ в том числе!
 
 Я люблю ходить в кино и бесцельно шататься по улицам и паркам. Заходить в кафешки и лопать вкусняшки\) [@voischev](https://twitter.com/voischev "Ваня Воищев")
 
@@ -58,7 +58,7 @@ RT [@VovanR](https://twitter.com/VovanR "Vladimir Rodkin"): [@jsunderhood](https
 
 .[@VovanR](https://twitter.com/VovanR "Vladimir Rodkin") это нормально, значит растешь и видишь свои недостатки. Хуже, если этого нет
 
-.[@DmitryMakhnev](https://twitter.com/DmitryMakhnev "Dmitry Makhnev") в опенсорсе работаем над [github.com\/bem\/bem-forms](https://t.co/H1O5qlFlxQ "https://github.com/bem/bem-forms") и стараемся уходить от монструозных форм. Делаем руками и красиво!
+.[@DmitryMakhnev](https://twitter.com/DmitryMakhnev "Dmitry Makhnev") в опенсорсе работаем над [github.com/bem/bem-forms](https://t.co/H1O5qlFlxQ "https://github.com/bem/bem-forms") и стараемся уходить от монструозных форм. Делаем руками и красиво!
 
 .[@DmitryMakhnev](https://twitter.com/DmitryMakhnev "Dmitry Makhnev") мы строим stateless системы и ни фронт ни рест не контролирует авторизации. Плюс анализируем код на уязвимости
 
@@ -108,7 +108,7 @@ RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood
 
 .[@dshster](https://twitter.com/dshster "Дмитрий Швалёв") по-моему coffee умер совсем, а доп слой для ES6 кажется совсем не нужен, ибо лишает гибкости
 
-В Москве ранняя весна:\) [pic.twitter.com\/8F2saSUrBK](http://t.co/8F2saSUrBK)
+В Москве ранняя весна:\) [pic.twitter.com/8F2saSUrBK](http://t.co/8F2saSUrBK)
 
 Может есть у кого тайное желание что-нибудь попробовать из новинок?:\) я вот хочу посмотреть как себя реакт нейтив ведет и будет ли на часах
 
@@ -144,7 +144,7 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 Пахабщина \#1: ангуляр 2 будет на тайпскрипте!:\) как вам? Есть любители?
 
-Ништяки в офисе:\) сломался автомат с едой:\) [pic.twitter.com\/U7d3aam7bJ](http://t.co/U7d3aam7bJ)
+Ништяки в офисе:\) сломался автомат с едой:\) [pic.twitter.com/U7d3aam7bJ](http://t.co/U7d3aam7bJ)
 
 Кто-нибудь использует в реально мощном продакшене под нагрузкой Angular, React, Ember?
 
@@ -154,15 +154,15 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 Похабщина \#2: переписать Facebook на Angular :\) вот ржака будет:\)
 
-А видели такую новость?:\) [developers.google.com\/web\/fundamenta…](https://t.co/HE5HZX8VV8 "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier")
+А видели такую новость?:\) [developers.google.com/web/fundamenta…](https://t.co/HE5HZX8VV8 "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier")
 
-Похабщина \#3: переписать inbox по БЭМ :\) из предыдущего следует:\) [b\_](https://twitter.com/search?q=%23b_)
+Похабщина \#3: переписать inbox по БЭМ :\) из предыдущего следует:\) [#b\_](https://twitter.com/search?q=%23b_)
 
 .[@kompotium](https://twitter.com/kompotium "Anton Fedchenko") таки да рекламу на ангуляр не перепишешь. Это их основной доход:\)
 
 .[@kompotium](https://twitter.com/kompotium "Anton Fedchenko") основной продукт всегда один. Он приносит деньги на побочные
 
-Это просто должно быть у вас в блоге [akshaykumar6.github.io\/github-js\/](http://t.co/UNkIASToyP "http://akshaykumar6.github.io/github-js/")
+Это просто должно быть у вас в блоге [akshaykumar6.github.io/github-js/](http://t.co/UNkIASToyP "http://akshaykumar6.github.io/github-js/")
 
 Кстати, кто ведет свой блог?:\) какая платформа? Хочу писать на medium, но кажется, что с трафиком на мои посты будет туго:\)
 
@@ -190,10 +190,9 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 Сегодня Альфа обнуляет остатки на неактивных счетах:\) вот ржака, да?:\)\)\)
 
-Новость из центра событий\) Только что мы открыли на конференции новый сайт Альфа-Банка. Вот видео: [youtube.com\/watch?v=fQuImk…](http://t.co/vgreFcTsSc "http://www.youtube.com/watch?v=fQuImk7VvMg") сайт: alfabank.ru
+Новость из центра событий\) Только что мы открыли на конференции новый сайт Альфа-Банка. Вот видео: [youtube.com/watch?v=fQuImk…](http://t.co/vgreFcTsSc "http://www.youtube.com/watch?v=fQuImk7VvMg") сайт: alfabank.ru
 
-RT [@tereshenkov](https://twitter.com/tereshenkov "Костя Терещенков"): — У нас будет серьезный стек технологий. Node.JS, Redis, Ruby on Rails…
-— Петрович, заебал! Мы же просто сайт для трех наш…
+RT [@tereshenkov](https://twitter.com/tereshenkov "Костя Терещенков"): — У нас будет серьезный стек технологий. Node.JS, Redis, Ruby on Rails…<br />— Петрович, заебал! Мы же просто сайт для трех наш…
 
 Соберу сюда чуть позже список своих рассылок. Думаю кому-то будет интересно
 
@@ -211,7 +210,7 @@ RT [@tereshenkov](https://twitter.com/tereshenkov "Костя Терещенко
 
 RT [@safrankov](https://twitter.com/safrankov "Il'ya Safrankov "): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") будь плохим парнем \*{ box-sizing: border-box; }
 
-.[@unel86](https://twitter.com/unel86 "Peter Jah (0-)") глобальные ресеты это зло\) [getbem.com\/faq\/\#i-ve-hear…](http://t.co/B1gYT9QX0S "http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-")
+.[@unel86](https://twitter.com/unel86 "Peter Jah (0-)") глобальные ресеты это зло\) [getbem.com/faq/\#i-ve-hear…](http://t.co/B1gYT9QX0S "http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-")
 
 .[@safrankov](https://twitter.com/safrankov "Il'ya Safrankov ") можно круче! \*{display:none;}
 
@@ -223,8 +222,7 @@ RT [@safrankov](https://twitter.com/safrankov "Il'ya Safrankov "): [@jsunderh
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") думаю это того стоит:\) да:\)
 
-Как и обещал, список рассылок: [materialup.com](http://t.co/CADp1hpQT3 "http://materialup.com")
-[css-weekly.com](http://t.co/04mx5EMi2a "http://css-weekly.com"), [ewebdesign.com](http://t.co/xKc3gI6KJJ "http://ewebdesign.com"), [html5weekly.com](http://t.co/3JdlSSwuaJ "http://html5weekly.com") ...
+Как и обещал, список рассылок: [materialup.com](http://t.co/CADp1hpQT3 "http://materialup.com")<br />[css-weekly.com](http://t.co/04mx5EMi2a "http://css-weekly.com"), [ewebdesign.com](http://t.co/xKc3gI6KJJ "http://ewebdesign.com"), [html5weekly.com](http://t.co/3JdlSSwuaJ "http://html5weekly.com") ...
 
 ... [hackingui.com](http://t.co/Svd1o1CyoK "http://hackingui.com"), [nodeweekly.com](http://t.co/dUij04FPd3 "http://nodeweekly.com"), [responsivedesignweekly.com](http://t.co/ZHVUWCuRfO "http://responsivedesignweekly.com"), [web-design-weekly.com](http://t.co/xYws3lsXud "http://web-design-weekly.com")
 
@@ -234,13 +232,13 @@ RT [@safrankov](https://twitter.com/safrankov "Il'ya Safrankov "): [@jsunderh
 
 RT [@rsboarder](https://twitter.com/rsboarder "rsboarder"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [webtoolsweekly.com](http://t.co/Pn4mGpmQo6 "http://webtoolsweekly.com") [wdrl.info](http://t.co/iVYyuRpuaT "http://wdrl.info") [javascriptweekly.com](http://t.co/FYZRPDoiYi "http://javascriptweekly.com")
 
-Вот вам игрушка на 5 секунд [wamer.net\/sketch](http://t.co/xSYHXNkUHU "http://wamer.net/sketch")
+Вот вам игрушка на 5 секунд [wamer.net/sketch](http://t.co/xSYHXNkUHU "http://wamer.net/sketch")
 
-Еще вот абсолютно минималистичный слайдер [meandmax.github.io\/lory](http://t.co/qyGrocZf95 "http://meandmax.github.io/lory")
+Еще вот абсолютно минималистичный слайдер [meandmax.github.io/lory](http://t.co/qyGrocZf95 "http://meandmax.github.io/lory")
 
 ## Суббота <small>1 твит</small>
 
-RT [@tproger](https://twitter.com/tproger "Типичный программист"): [pic.twitter.com\/34mtapQwFR](http://t.co/34mtapQwFR)
+RT [@tproger](https://twitter.com/tproger "Типичный программист"): [pic.twitter.com/34mtapQwFR](http://t.co/34mtapQwFR)
 
 ## Воскресенье <small>2 твита</small>
 

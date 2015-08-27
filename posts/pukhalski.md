@@ -22,7 +22,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 .[@toivonens](https://twitter.com/toivonens "var ya; // ru"), и теперь я понимаю, что иногда просто необходимо ставить задачу прыгнуть выше своей головы. Иначе ничего не получится.
 
-.[@iiiii](https://twitter.com/iiiii "iiiii") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [pic.twitter.com\/V87pSb1N8H](http://t.co/V87pSb1N8H)
+.[@iiiii](https://twitter.com/iiiii "iiiii") [@Krivlenia](https://twitter.com/Krivlenia "Константин") [pic.twitter.com/V87pSb1N8H](http://t.co/V87pSb1N8H)
 
 RT [@Krivlenia](https://twitter.com/Krivlenia "Константин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ты работаешь архитектором, как выбираешь технологии, если они не спускаются, от заказчика? Или пользуешься нара…
 
@@ -32,25 +32,13 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") ранее играл в нескольких низкобюджетных панк и метал бандах. Сейчас занимаю позицию сочувствующего меломана.
 
-RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru")
-&gt; jack of all trades, master of none
-что это?
+RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru")<br />&gt; jack of all trades, master of none<br />что это?
 
-.@matmuchrapna [@toivonens](https://twitter.com/toivonens "var ya; // ru") самоирония.
-
-[en.wikipedia.org\/wiki\/Jack\_of\_a…](http://t.co/aJYAIlu7TS "http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none")
+.@matmuchrapna [@toivonens](https://twitter.com/toivonens "var ya; // ru") самоирония.<br /><br />[en.wikipedia.org/wiki/Jack\_of\_a…](http://t.co/aJYAIlu7TS "http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none")
 
 RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") знакомо\) А есть записи?
 
-.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") 
-2005-2007: 
-- [myspace.com\/obediencetoaut…](https://t.co/OTvbqUHuOV "https://myspace.com/obediencetoauthority/music/songs")
-
-2010-2013: 
-- [fcfrwrd.bandcamp.com](https://t.co/6dvq51yTI1 "https://fcfrwrd.bandcamp.com")
-
-2013: 
-- [vk.com\/slavexship](https://t.co/GkKnyqkwQO "https://vk.com/slavexship")
+.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") <br />2005-2007: <br />- [myspace.com/obediencetoaut…](https://t.co/OTvbqUHuOV "https://myspace.com/obediencetoauthority/music/songs")<br /><br />2010-2013: <br />- [fcfrwrd.bandcamp.com](https://t.co/6dvq51yTI1 "https://fcfrwrd.bandcamp.com")<br /><br />2013: <br />- [vk.com/slavexship](https://t.co/GkKnyqkwQO "https://vk.com/slavexship")
 
 А сейчас мы поделимся на две группы: сторонники MV\* в правом углу в красных шортах и приверженцы Flux в левом углу в белых подгузниках...
 
@@ -60,9 +48,7 @@ RT @itgek: [@jsunderhood](https://twitter.com/jsunderhood "Разработчи�
 
 RT @matmuchrapna: @itgek [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") реферри
 
-Рубрику "Послеобеденное видео" сегодня представляет [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock") с докладом о JS как языке эры распределенных вычислений.
-
-[vimeo.com\/67050196](https://t.co/34dKB4I7vg "https://vimeo.com/67050196")
+Рубрику "Послеобеденное видео" сегодня представляет [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock") с докладом о JS как языке эры распределенных вычислений.<br /><br />[vimeo.com/67050196](https://t.co/34dKB4I7vg "https://vimeo.com/67050196")
 
 RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мне интересно мы говорим frontend developer, подразумеваем в том числе и крутого-верстальщика? Или вёрстка э…
 
@@ -100,7 +86,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@dshster](https
 
 .[@dshster](https://twitter.com/dshster "Дмитрий Швалёв") [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"). В гостях у программы "Чистосердечное признание" Варя [@toivonens](https://twitter.com/toivonens "var ya; // ru").
 
-Черт, Рейсиг нашел оправдание и для следующей версии jQuery. [twitter.com\/jeresig\/status…](https://t.co/wEGrtPt8OM "https://twitter.com/jeresig/status/590199945174634497")
+Черт, Рейсиг нашел оправдание и для следующей версии jQuery. [twitter.com/jeresig/status…](https://t.co/wEGrtPt8OM "https://twitter.com/jeresig/status/590199945174634497")
 
 ## Вторник <small>32 твита</small>
 
@@ -138,26 +124,21 @@ RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@dshster](ht
 
 RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я считаю что будущее за переходом дизайнеров в верстку и фронтендеров в full stack \(но с фокусом на UI\) [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov")
 
-RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Тогда UI\UX должны уйти дальше уйти от граф.дизайна, тогда так:
+RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Тогда UI\\UX должны уйти дальше уйти от граф.дизайна, тогда так:<br /><br />1. ui\\ux.<br />2. граф.диз + вёрстка.…
 
-1. ui\ux.
-2. граф.диз + вёрстка.…
-
-RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") Скорей наоборот UI\/UX с версткой, а граф. дизайнеры отдельно [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") Скорей наоборот UI/UX с версткой, а граф. дизайнеры отдельно [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а вам не кажется что всегда будут нужны "узкие" специалисты?
 
 .[@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant") [@operatino](https://twitter.com/operatino "Robert Haritonov") [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"), мне не кажется, я уверен в этом :\)
 
-RT [@lomakin](https://twitter.com/lomakin "Alexander Lomakin"): Из всех туду-менеджеров у меня лучше всего прижился OmniFocus 2 \([goo.gl\/lUNev9](http://t.co/IvunpIwnMV "http://goo.gl/lUNev9")\). А что используете вы?
+RT [@lomakin](https://twitter.com/lomakin "Alexander Lomakin"): Из всех туду-менеджеров у меня лучше всего прижился OmniFocus 2 \([goo.gl/lUNev9](http://t.co/IvunpIwnMV "http://goo.gl/lUNev9")\). А что используете вы?
 
 .[@lomakin](https://twitter.com/lomakin "Alexander Lomakin"), я снова на Wunderlist. Долго сидел на Things из-за GTD, но они медленные в плане фич. Только WL стал GTD-like — перешел на него.
 
 RT [@dshster](https://twitter.com/dshster "Дмитрий Швалёв"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") ни разу не встречал pure-js client-side. Как он работает в отрыве от браузера?
 
-Послеобеденное видео: Эрик [@headinthebox](https://twitter.com/headinthebox "Erik Meijer") Мейер объясняет, в чем программисты должны быть похожи на футболистов.
-
-[vimeo.com\/110554082](https://t.co/DrZQPUeWzX "https://vimeo.com/110554082")
+Послеобеденное видео: Эрик [@headinthebox](https://twitter.com/headinthebox "Erik Meijer") Мейер объясняет, в чем программисты должны быть похожи на футболистов.<br /><br />[vimeo.com/110554082](https://t.co/DrZQPUeWzX "https://vimeo.com/110554082")
 
 RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А как будет "Это не моя работа" на голландском?
 
@@ -185,7 +166,7 @@ RT [@deepwalker](https://twitter.com/deepwalker "Кривушин Михаил")
 
 RT [@a\_lithium](https://twitter.com/a_lithium "Aliaksei Lithium"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использую каждый день, но этот привычка, вроде можно и на баше сделать такие же фичи. Минус - долгий старт ново…
 
-RT [@me\_mrsum](https://twitter.com/me_mrsum "Sum"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вообще zsh очень хорош, вот некоторые из бонусов [code.joejag.com\/2014\/why-zsh.h…](http://t.co/oBcpcATwNR "http://code.joejag.com/2014/why-zsh.html") особенно kill &lt;TAB&gt;
+RT [@me\_mrsum](https://twitter.com/me_mrsum "Sum"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вообще zsh очень хорош, вот некоторые из бонусов [code.joejag.com/2014/why-zsh.h…](http://t.co/oBcpcATwNR "http://code.joejag.com/2014/why-zsh.html") особенно kill &lt;TAB&gt;
 
 RT [@deepwalker](https://twitter.com/deepwalker "Кривушин Михаил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на ум приходит fish - сам не смотрел, но пара ребят были в восторге и евангелизировали по этому поводу.
 
@@ -201,7 +182,7 @@ RT [@p\_grekovich](https://twitter.com/p_grekovich "Fast Cat"): [@jsunderhood](h
 
 .[@p\_grekovich](https://twitter.com/p_grekovich "Fast Cat"), в случае с dev-мерчем, тут скорее больше левых контор, которые просто печатают цветные лого.
 
-RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ShirtJS](https://twitter.com/ShirtJS "ShirtJS") донатят часть прибыли интересным проектам [shirtjs.com\/about\/](http://t.co/2uS1oK69SI "http://shirtjs.com/about/")
+RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ShirtJS](https://twitter.com/ShirtJS "ShirtJS") донатят часть прибыли интересным проектам [shirtjs.com/about/](http://t.co/2uS1oK69SI "http://shirtjs.com/about/")
 
 Вот если бы был выбор, новый Macbook Pro или [@jsconfeu](https://twitter.com/jsconfeu "jsconfeu"), то...
 
@@ -247,10 +228,7 @@ RT [@mursya\_ru](https://twitter.com/mursya_ru "Елена Джетпыспае�
 
 .[@mursya\_ru](https://twitter.com/mursya_ru "Елена Джетпыспаева"), спасибо. Но я еще тот раздолбай. Поэтому наши митапы всегда больше тусовки, чем вычурные миниконференции \)
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Look! [iamstarkov.com](http://t.co/6iTmxqYVHF "http://iamstarkov.com/")
-Look Ma’ — No CSS! and JS!
-Look Ma’ — Still Mobile Friendly!
-Look Ma’ — Blazingly Fast!
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Look! [iamstarkov.com](http://t.co/6iTmxqYVHF "http://iamstarkov.com/")<br />Look Ma’ — No CSS! and JS!<br />Look Ma’ — Still Mobile Friendly!<br />Look Ma’ — Blazingly Fast!
 
 .[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") Модник!
 
@@ -274,7 +252,7 @@ RT [@dosyara](https://twitter.com/dosyara "Sergey Maksimov"): [@jsunderhood](htt
 
 ## Пятница <small>1 твит</small>
 
-RT [@torinaki](https://twitter.com/torinaki "Dmitry Balabka"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") QnA about [V8](https://twitter.com/search?q=%23V8) [performance](https://twitter.com/search?q=%23performance) \(in Russian\)  [buff.ly\/1HzVVbR](http://t.co/gVykwujNGG "http://buff.ly/1HzVVbR") [JS](https://twitter.com/search?q=%23JS)
+RT [@torinaki](https://twitter.com/torinaki "Dmitry Balabka"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") QnA about [#V8](https://twitter.com/search?q=%23V8) [#performance](https://twitter.com/search?q=%23performance) \(in Russian\)  [buff.ly/1HzVVbR](http://t.co/gVykwujNGG "http://buff.ly/1HzVVbR") [#JS](https://twitter.com/search?q=%23JS)
 
 ## Суббота <small>20 твитов</small>
 
@@ -308,7 +286,7 @@ RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@jsunderhood](ht
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@mktoid](https://twitter.com/mktoid "Oleg Cheremisin") я только что из цветников праги транзитом через польскую тюрьму :D мне пока никуда не хочется никуда ех…
 
-RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну хорошо хоть TOEFL\/IELTS не надо сдавать.
+RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну хорошо хоть TOEFL/IELTS не надо сдавать.
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вообще то надо для многих вакансий. Меня неоднократно спрашивали.
 
@@ -316,7 +294,7 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@rusgautama
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rusgautama](https://twitter.com/rusgautama "Rus Buddha") у меня когда речь шла о UK требовали. Когда об NL — да, просто интересовались и оценивали язык на с…
 
-RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") UK конечно. А так блог на английском\/статьи\/ответы должны помочь.
+RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") UK конечно. А так блог на английском/статьи/ответы должны помочь.
 
 ## Воскресенье <small>30 твитов</small>
 

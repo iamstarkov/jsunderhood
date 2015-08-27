@@ -26,8 +26,7 @@ RT [@svenyurgensson](https://twitter.com/svenyurgensson "YuryBatenko"): [@jsunde
 
 Про переписывание никто и не говорит, это как раз крайняя мера, которая очень редко оказывается оправданной [@svenyurgensson](https://twitter.com/svenyurgensson "YuryBatenko")
 
-RT [@CreWarior](https://twitter.com/CreWarior "Тонкошкурик Сергей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") взвесить все +\/- ну и выдвигать свое мнение. 
-Разве не так?\) Как бы если переход целесообразен, тогда ОК. Если …
+RT [@CreWarior](https://twitter.com/CreWarior "Тонкошкурик Сергей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") взвесить все +/- ну и выдвигать свое мнение. <br />Разве не так?\) Как бы если переход целесообразен, тогда ОК. Если …
 
 Главная проблема любого изменения, как мне кажется, не технологии, а люди. Очень часто встречаешь сопротивление всему новому
 
@@ -69,7 +68,7 @@ RT [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko"): [@jsund
 
 «ну уж в этот раз мы все сделаем правильно!» [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko")
 
-RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") пытаюсь внедрить [bem](https://twitter.com/search?q=%23bem) \(методологию, не тулзы\) в гос. легаси . Пока с трудом. Большим. Но результаты есть. Это р…
+RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") пытаюсь внедрить [#bem](https://twitter.com/search?q=%23bem) \(методологию, не тулзы\) в гос. легаси . Пока с трудом. Большим. Но результаты есть. Это р…
 
 расскажешь как внедряешь? [@vladimore](https://twitter.com/vladimore "Waldemar")
 
@@ -77,7 +76,7 @@ RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood
 
 RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Причем "перешли полностью, по пути делая новые фичи по плану".
 
-RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У Райана был ток про это: [m.youtube.com\/watch?v=BF58ZJ…](http://t.co/cnkxPM7rpf "http://m.youtube.com/watch?v=BF58ZJ1ZQxY"). Проекты на Реакт переводить легко, бенефит есть сразу.
+RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У Райана был ток про это: [m.youtube.com/watch?v=BF58ZJ…](http://t.co/cnkxPM7rpf "http://m.youtube.com/watch?v=BF58ZJ1ZQxY"). Проекты на Реакт переводить легко, бенефит есть сразу.
 
 RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") всё началось с того, что я попал на проект по разработке нового UI для гос. услуг на ангуляре.
 
@@ -93,9 +92,9 @@ RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https:
 
 RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не знал способностей команды. Нюансов старого кода. Начал с малого - структура и сборка галпом. Её до этого не …
 
-RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с [bem](https://twitter.com/search?q=%23bem) было сложнее. сначала я показал ребятам на доки и попросил переверстать часть проекта.
+RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с [#bem](https://twitter.com/search?q=%23bem) было сложнее. сначала я показал ребятам на доки и попросил переверстать часть проекта.
 
-RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вторая волна проблем - элементы элементов и прочее, что разъясняют на форумe [bem](https://twitter.com/search?q=%23bem). Так я узнал, что никто ничег…
+RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вторая волна проблем - элементы элементов и прочее, что разъясняют на форумe [#bem](https://twitter.com/search?q=%23bem). Так я узнал, что никто ничег…
 
 RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") начал давать ребятам таски по проекту, но вне основного репо.  Типа наверстать кусочек страницы. Небольшие порц…
 
@@ -115,7 +114,7 @@ RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https:
 
 Первые результаты реалити-шоу «мигрируем на реакт c бекбона»
 
-создали bridge views, основная задача которых — прикидываться обычными collection\/item views, но в методе render тайно вызывать React
+создали bridge views, основная задача которых — прикидываться обычными collection/item views, но в методе render тайно вызывать React
 
 При этом они же и оборачивают React-компоненты в &lt;Provider&gt; для связи с redux-store
 
@@ -129,7 +128,7 @@ RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https:
 
 RT [@denysbutenko](https://twitter.com/denysbutenko "Denys Butenko"): Лента твитера теперь интереснее с появлением [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@cssunderhood](https://twitter.com/cssunderhood "Верстальщик") [@backendsecret](https://twitter.com/backendsecret "Разработчик Бэкенда") [@rubyunderhood](https://twitter.com/rubyunderhood "Ruby Разработчик") [@iamspacegray](https://twitter.com/iamspacegray "Я дизайнер"). Спас…
 
-Переключимся от обновления кода на «обновление» себя. Есть ли у вас правила по поводу расчистки покета\/заметок\/подкастов, что накопились?
+Переключимся от обновления кода на «обновление» себя. Есть ли у вас правила по поводу расчистки покета/заметок/подкастов, что накопились?
 
 я обычно стараюсь придерживаться правила, что на неделе читаю только книги, а на выходных — покет. В дороге, обычно, подкасты
 
@@ -143,17 +142,17 @@ RT [@pomeo](https://twitter.com/pomeo "Sergey Ovechkin"): [@jsunderhood](https:/
 
 RT [@Akurganow](https://twitter.com/Akurganow "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А я наконец прочитал статью про прокрастинацию... не помогло :\(
 
-Тут даже проблема не в прокрастинации, а в том что информации просто становится больше с каждым днем [банальность](https://twitter.com/search?q=%23банальность)
+Тут даже проблема не в прокрастинации, а в том что информации просто становится больше с каждым днем [#банальность](https://twitter.com/search?q=%23банальность)
 
-Если раньше помогало прослушивание\/просмотр на двойной скорости, то сейчас и этого мало. А выпадать из этого потока, как мне кажется, нельзя
+Если раньше помогало прослушивание/просмотр на двойной скорости, то сейчас и этого мало. А выпадать из этого потока, как мне кажется, нельзя
 
 Остается только приоритизация. Но с этим тоже плохо, потому что, черт, все интересно
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") еще, кмк, сложную информацию не всегда хочется читать прямо сейчас, поэтому откладываешь
 
-Хотя, может это старость, и через пару лет захочется написать манифест типа Stop pushing the web forward [quirksmode.org\/blog\/archives\/…](http://t.co/fSpvgLs9s8 "http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html")
+Хотя, может это старость, и через пару лет захочется написать манифест типа Stop pushing the web forward [quirksmode.org/blog/archives/…](http://t.co/fSpvgLs9s8 "http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html")
 
-RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") старость и есть. Нужно просто дать дорогу молодым как советует Вадим Макишвили в этом душевном докладе https:\/\/[youtube.com\/watch?v=xPPCzr…](https://t.co/BD72cU1RoN "https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be")
+RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") старость и есть. Нужно просто дать дорогу молодым как советует Вадим Макишвили в этом душевном докладе https://[youtube.com/watch?v=xPPCzr…](https://t.co/BD72cU1RoN "https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be")
 
 Да, если у кого-то этот доклад лежит в покете, то сегодня именно тот день, когда нужно его посмотреть
 
@@ -161,27 +160,27 @@ RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood
 
 Так а чем рассылки лучше? [@\_sashashakun](https://twitter.com/_sashashakun "Alexander")
 
-RT [@beshur](https://twitter.com/beshur "Shu Buznik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [buznik.net\/lifeChart\/](http://t.co/7KhSZfFKui "http://buznik.net/lifeChart/")
+RT [@beshur](https://twitter.com/beshur "Shu Buznik"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [buznik.net/lifeChart/](http://t.co/7KhSZfFKui "http://buznik.net/lifeChart/")
 
 ## Вторник <small>39 твитов</small>
 
 Так, давайте сегодня поговорим про universal javascript. И под этим я подразумеваю не только перенос рендеринга на сервер
 
-Но и, например, десктопные приложения. Пробовали уже делать что-то на nw.js\/electron?
+Но и, например, десктопные приложения. Пробовали уже делать что-то на nw.js/electron?
 
-А может уже во всю работаете над чем-то с использованием React Native? Или вообще роботов\/дома на js программируете? Расскажите про опыт
+А может уже во всю работаете над чем-то с использованием React Native? Или вообще роботов/дома на js программируете? Расскажите про опыт
 
-RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я делал на nw.js. У [@nedudi](https://twitter.com/nedudi "Dmitry Dudin") отличный доклад про nw.js  есть [html5.by\/blog\/nwjs\/](http://t.co/Ti79V8j3ZO "http://html5.by/blog/nwjs/")
+RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я делал на nw.js. У [@nedudi](https://twitter.com/nedudi "Dmitry Dudin") отличный доклад про nw.js  есть [html5.by/blog/nwjs/](http://t.co/Ti79V8j3ZO "http://html5.by/blog/nwjs/")
 
 а что именно делал? [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih") [@nedudi](https://twitter.com/nedudi "Dmitry Dudin")
 
 RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") нативная реализация внутренного сервиса компании. Шеф захотел, чтобы не через браузер, а приложение было =\)
 
-RT [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") переносим desktop web приложения на мобильные устройства во время выполнения [youtube.com\/watch?v=UNFcq8…](https://t.co/ICsvbbQh15 "https://www.youtube.com/watch?v=UNFcq8nkDrI")
+RT [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") переносим desktop web приложения на мобильные устройства во время выполнения [youtube.com/watch?v=UNFcq8…](https://t.co/ICsvbbQh15 "https://www.youtube.com/watch?v=UNFcq8nkDrI")
 
 RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") развернул внутри React-приложение целое, которое билдится сначала через Webpack, а потом заворачивается в Elec…
 
-RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я игрался с Electron, начал делать эпп для менеджмента npm-зависимостей [github.com\/mistadikay\/bum…](https://t.co/goURkSM0vD "https://github.com/mistadikay/bumper") Пока чисто экс…
+RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я игрался с Electron, начал делать эпп для менеджмента npm-зависимостей [github.com/mistadikay/bum…](https://t.co/goURkSM0vD "https://github.com/mistadikay/bumper") Пока чисто экс…
 
 можешь немного рассказать про стек и механику? [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin")
 
@@ -209,33 +208,33 @@ RT [@sevaisnotcow](https://twitter.com/sevaisnotcow "wwwsevolod"): [@jsunderhood
 
 Сейчас будет немного ссылок для тех, кто все же решит попробовать электрон
 
-Starter Kit, который выдрали из атома. Дает структуру и очень полезный набор грант-тасков  [github.com\/atom-archive\/e…](https://t.co/pWEgWlaDfc "https://github.com/atom-archive/electron-starter")  …
+Starter Kit, который выдрали из атома. Дает структуру и очень полезный набор грант-тасков  [github.com/atom-archive/e…](https://t.co/pWEgWlaDfc "https://github.com/atom-archive/electron-starter")  …
 
 Он во многом далек от совершенства, но местами работает. Не смотрите на то, что депрекейтед,те аналоги, что указаны, чаще не работают вообще
 
-Дальше идет grunt-electron-installer, который, хоть и является частью starter kit, заслуживает отдельного твита [github.com\/atom\/grunt-ele…](https://t.co/S8beBPAoOp "https://github.com/atom/grunt-electron-installer")
+Дальше идет grunt-electron-installer, который, хоть и является частью starter kit, заслуживает отдельного твита [github.com/atom/grunt-ele…](https://t.co/S8beBPAoOp "https://github.com/atom/grunt-electron-installer")
 
 Удобно через него создавать one-click-installer для windows + это уже обертка вокруг squirrel, так что получаете autoupdate почти бесплатно
 
-«Почти» потому что, autoupdate для  windows до сих пор не в ядре электрона. Приходится воротить нечто подобное: [github.com\/atom\/electron\/…](https://t.co/4hVRKhARI9 "https://github.com/atom/electron/pull/1984")
+«Почти» потому что, autoupdate для  windows до сих пор не в ядре электрона. Приходится воротить нечто подобное: [github.com/atom/electron/…](https://t.co/4hVRKhARI9 "https://github.com/atom/electron/pull/1984")
 
-Не совсем электрон, но удобный таск для создания dmg-образов из вашего приложения [github.com\/rakuten-fronte…](https://t.co/8WOJYzem91 "https://github.com/rakuten-frontend/grunt-appdmg")
+Не совсем электрон, но удобный таск для создания dmg-образов из вашего приложения [github.com/rakuten-fronte…](https://t.co/8WOJYzem91 "https://github.com/rakuten-frontend/grunt-appdmg")
 
 это все то, что использовал я сам за последние пару месяцев. Но честно скажу, оно хоть и работает, но настраивается болезненно
 
-Есть еще список Awesome Electron, где постоянно появляется что-то новое, так что может вам повезет больше [github.com\/sindresorhus\/a…](https://t.co/r73GqWwXou "https://github.com/sindresorhus/awesome-electron")
+Есть еще список Awesome Electron, где постоянно появляется что-то новое, так что может вам повезет больше [github.com/sindresorhus/a…](https://t.co/r73GqWwXou "https://github.com/sindresorhus/awesome-electron")
 
-Кто поможет советом? [twitter.com\/Seleckis\/statu…](https://t.co/FUNbDM7A7T "https://twitter.com/Seleckis/status/631192550695698432")
+Кто поможет советом? [twitter.com/Seleckis/statu…](https://t.co/FUNbDM7A7T "https://twitter.com/Seleckis/status/631192550695698432")
 
 Сегодня днем хотел уже было написать, что реалити-шоу «переводим бекбон-приложение на реакт и redux» можно закрывать...
 
 ... потому что осталась рутина по клепанию компонентов. Но потом решили провести тест и показать новую архитектуру другому разработчику
 
-Который ни реакта, ни флакса\/редакса до этого не видел. По ошалелым глазам поняли, что немного \(всего чуть-чуть!\) все усложнили
+Который ни реакта, ни флакса/редакса до этого не видел. По ошалелым глазам поняли, что немного \(всего чуть-чуть!\) все усложнили
 
 Поэтому завтра с утра попробую описать как получилось это все немного упростить
 
-Но урок выучили. К новым технологиям\/подходам надо относиться как к продуктам: сделал mvp и быстрее показывай пользователям и получай фидбек
+Но урок выучили. К новым технологиям/подходам надо относиться как к продуктам: сделал mvp и быстрее показывай пользователям и получай фидбек
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") иммутабельные структуры ему ещё не показывали?
 
@@ -245,11 +244,11 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 ## Среда <small>19 твитов</small>
 
-Доброе утро, обсудим свежие новости? [twitter.com\/roman01la\/stat…](https://t.co/HvVcX4kwrY "https://twitter.com/roman01la/status/631344247032160256")
+Доброе утро, обсудим свежие новости? [twitter.com/roman01la/stat…](https://t.co/HvVcX4kwrY "https://twitter.com/roman01la/status/631344247032160256")
 
 RT [@freiksenet\_ru](https://twitter.com/freiksenet_ru "Михаил Новиков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ко-фаундер уже пробует рилей, а я обновляю наш бакенд под обновленную спеку...
 
-Вчера пообещал, что расскажу про новый виток архитектуры в нашем шоу «переводим бекбон-приложение на реакт+redux» [twitter.com\/jsunderhood\/st…](https://t.co/Q4tZhQw3vE "https://twitter.com/jsunderhood/status/631196241519636480")
+Вчера пообещал, что расскажу про новый виток архитектуры в нашем шоу «переводим бекбон-приложение на реакт+redux» [twitter.com/jsunderhood/st…](https://t.co/Q4tZhQw3vE "https://twitter.com/jsunderhood/status/631196241519636480")
 
 Главная проблема, которую захотели решить — уменьшить количество концептов, с которыми разработчикам придется сходу познакомиться
 
@@ -269,23 +268,19 @@ RT [@freiksenet\_ru](https://twitter.com/freiksenet_ru "Михаил Новик�
 
 Стор же меняется через «большое ухо» — объект, который следит за всеми моделями и коллекциями и уже сам вызывает action creators
 
-В итоге получается, что flux\/redux есть, но он немного сбоку. И можно заранее написать большинство редьюсеров для основных моделей
+В итоге получается, что flux/redux есть, но он немного сбоку. И можно заранее написать большинство редьюсеров для основных моделей
 
-Я тут методом тыка написал array wrap на es2015, но теперь не могу понять, почему оно работает и можно ли упростить [pic.twitter.com\/hll8rQ2PSI](http://t.co/hll8rQ2PSI)
+Я тут методом тыка написал array wrap на es2015, но теперь не могу понять, почему оно работает и можно ли упростить [pic.twitter.com/hll8rQ2PSI](http://t.co/hll8rQ2PSI)
 
 Ну и главная проблема тут в доверии к babel, потому что не понимаешь, стечение ли это обстоятельств \(и возможных багов\) или валидная спека
 
-Ребят, я понимаю, что можно смотреть код, что генерит babel.  Мне больше интересно, почему, например, это происходит [pic.twitter.com\/6s9Wfdzex3](http://t.co/6s9Wfdzex3)
+Ребят, я понимаю, что можно смотреть код, что генерит babel.  Мне больше интересно, почему, например, это происходит [pic.twitter.com/6s9Wfdzex3](http://t.co/6s9Wfdzex3)
 
-RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") const wrap = ::Array.prototype.concat
-
-или если чисто ES6:
-
-const wrap = Array.prototype.concat.bind\(Array.prot…
+RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") const wrap = ::Array.prototype.concat<br /><br />или если чисто ES6:<br /><br />const wrap = Array.prototype.concat.bind\(Array.prot…
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Хотел написать, но на самом деле, похоже на багу с тайп-инференсом, в обоих случаях должна быть ошибка для wrap…
 
-Кто подскажет по гугл-мапс? [twitter.com\/d3head\/status\/…](https://t.co/odLAI3wXph "https://twitter.com/d3head/status/631436448747622400")
+Кто подскажет по гугл-мапс? [twitter.com/d3head/status/…](https://t.co/odLAI3wXph "https://twitter.com/d3head/status/631436448747622400")
 
 ## Четверг <small>44 твита</small>
 
@@ -335,16 +330,13 @@ RT [@isquariel](https://twitter.com/isquariel "isqua"): [@jsunderhood](https://t
 
 Это даже не идеал, это обязательно. Если код у вас не проверяется линтерами, то и стайлгайда у вас нет
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") используйте husky и хук будет настраиваться атоматически с npm install [github.com\/typicode\/husky…](https://t.co/7UE5L3EF0O "https://github.com/typicode/husky#readme")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") используйте husky и хук будет настраиваться атоматически с npm install [github.com/typicode/husky…](https://t.co/7UE5L3EF0O "https://github.com/typicode/husky#readme")
 
 Вариант, но это если все репозитории на js [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov")
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сделайте конфиг shareable и подключайте его в jscs и eslint, тем самы он будет один на все репы
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): New Features in Ember.js 2.0 &lt;This space intentionally left blank!&gt;
-
-[emberjs.com\/blog\/2015\/08\/1…](http://t.co/qFvE2DtBIk "http://emberjs.com/blog/2015/08/13/ember-2-0-released.html")
-Awesome work by [@emberjs](https://twitter.com/emberjs "EmberJS") team. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): New Features in Ember.js 2.0 &lt;This space intentionally left blank!&gt;<br /><br />[emberjs.com/blog/2015/08/1…](http://t.co/qFvE2DtBIk "http://emberjs.com/blog/2015/08/13/ember-2-0-released.html")<br />Awesome work by [@emberjs](https://twitter.com/emberjs "EmberJS") team. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@kotschrdngra](https://twitter.com/kotschrdngra "A.I."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") все так, фраза не несет конструктива — любой код можно написать 10-ю способами и, соотв., про любой код спро…
 
@@ -368,7 +360,7 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https:/
 
 … и хорошо знаете человека, чей код ревьюете. Тогда даже на фразу «что это за говно?» никто не обидится, и все лишь посмеются
 
-Но если компания побольше и еще с удаленными работниками, которых вы могли никогда в жизни лично не видеть и пива\/колы\/воды вместе не пить..
+Но если компания побольше и еще с удаленными работниками, которых вы могли никогда в жизни лично не видеть и пива/колы/воды вместе не пить..
 
 … то тут уже даже «а почему не» может задеть. Потому что вашу интонацию и мимику комменты на гитхабе передать не могут, увы
 
@@ -388,11 +380,11 @@ RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@xwoody](https://tw
 
 RT [@Borovikov](https://twitter.com/Borovikov "Денис Боровиков"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это смотря какая страна. В англоязычных странах обычно IELTS. В Европе экзамен не нужен.
 
-RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") У программиста вряд ли где-то потребуют сертификат\/экзамен английского. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") У программиста вряд ли где-то потребуют сертификат/экзамен английского. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-Раз уж такой вопрос подняли с утра, и многие из фолловеров\/ведущих живут и работают вне России, то можем сегодня обсудить тему релокации
+Раз уж такой вопрос подняли с утра, и многие из фолловеров/ведущих живут и работают вне России, то можем сегодня обсудить тему релокации
 
-Хотели бы вы пожить в другой стране? В какой? Какие вопросы\/страхи останавливают?
+Хотели бы вы пожить в другой стране? В какой? Какие вопросы/страхи останавливают?
 
 Или уже живете? С какими основными проблемами столкнулись? «Советы новичкам?»
 
@@ -456,7 +448,7 @@ RT [@freiksenet\_ru](https://twitter.com/freiksenet_ru "Михаил Новик�
 
 RT [@freiksenet\_ru](https://twitter.com/freiksenet_ru "Михаил Новиков"): [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") Отлично и бесплатно, да.
 
-RT [@rajdee\_mhm](https://twitter.com/rajdee_mhm "Ruslan Abdullaev"): [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть неплохой подкаст [apple.co\/1LaFFPi](http://t.co/rpLnrYYazU "http://apple.co/1LaFFPi") о Лондоне, его обитателях, традициях и п…
+RT [@rajdee\_mhm](https://twitter.com/rajdee_mhm "Ruslan Abdullaev"): [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть неплохой подкаст [apple.co/1LaFFPi](http://t.co/rpLnrYYazU "http://apple.co/1LaFFPi") о Лондоне, его обитателях, традициях и п…
 
 ## Суббота <small>3 твита</small>
 
@@ -464,11 +456,11 @@ RT [@kipruss](https://twitter.com/kipruss "Konstantin Baev"): [@jsunderhood](htt
 
 RT [@kureevalexey](https://twitter.com/kureevalexey "Kureev Alexey"): [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Могу только про Нидерланды рассказать 😊 Очень много людей из Лондона переезжают сюда
 
-RT [@rajdee\_mhm](https://twitter.com/rajdee_mhm "Ruslan Abdullaev"): [@kureevalexey](https://twitter.com/kureevalexey "Kureev Alexey") [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") про Нидерланды еще [@toivonens](https://twitter.com/toivonens "var ya; // ru") писала в своем блоге, правда она уже in Fnld \) http:\/[bit.ly\/1Eu9xl4](http://t.co/iwdbU0AtsU "http://bit.ly/1Eu9xl4")
+RT [@rajdee\_mhm](https://twitter.com/rajdee_mhm "Ruslan Abdullaev"): [@kureevalexey](https://twitter.com/kureevalexey "Kureev Alexey") [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") про Нидерланды еще [@toivonens](https://twitter.com/toivonens "var ya; // ru") писала в своем блоге, правда она уже in Fnld \) http:/[bit.ly/1Eu9xl4](http://t.co/iwdbU0AtsU "http://bit.ly/1Eu9xl4")
 
 ## Воскресенье <small>17 твитов</small>
 
-Обычно в конце выпусков [@frontflip\_js](https://twitter.com/frontflip_js "Frontflip Podcast") мы просим всех участников поделиться ссылкой на то, что очень их удивило\/порадовало за последнее время
+Обычно в конце выпусков [@frontflip\_js](https://twitter.com/frontflip_js "Frontflip Podcast") мы просим всех участников поделиться ссылкой на то, что очень их удивило/порадовало за последнее время
 
 Эти ссылки называются picks. А так как сегодня последний день моего дежурства, то хочу попробовать устроить picks day в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
@@ -478,7 +470,7 @@ RT [@rajdee\_mhm](https://twitter.com/rajdee_mhm "Ruslan Abdullaev"): [@kureeval
 
 RT [@alex\_ivantsov](https://twitter.com/alex_ivantsov "Alexander Ivantsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сайт, где собраны видео, снятые дроном, со всего мира - [travelbydrone.com](http://t.co/vYcpBVgZDS "http://travelbydrone.com"). Там можно часами зависать :\)
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [npmjs.com\/package\/thrott…](https://t.co/cpigTxLbCt "https://www.npmjs.com/package/throttle-proxy") — прокси от [@mistakster](https://twitter.com/mistakster "Vladimir Kuznetsov"), через который можно создать медленное соединение. Иногда …
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [npmjs.com/package/thrott…](https://t.co/cpigTxLbCt "https://www.npmjs.com/package/throttle-proxy") — прокси от [@mistakster](https://twitter.com/mistakster "Vladimir Kuznetsov"), через который можно создать медленное соединение. Иногда …
 
 RT [@immuzov](https://twitter.com/immuzov "Aleksey Immuzov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Пользуюсь пару лет [toshl.com](http://t.co/sPgCNHl247 "http://toshl.com"). Скоро будет вторая версия, пока публичная бета. Приятная на дизайн, уд…
 
@@ -486,11 +478,11 @@ RT [@freiksenet\_ru](https://twitter.com/freiksenet_ru "Михаил Новик�
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот
 
-RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): stream video to multiple clients using database? sure! xD [github.com\/AtnNn\/rethinkd…](https://t.co/d7kv9v80lF "https://github.com/AtnNn/rethinkdb-stream")
+RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): stream video to multiple clients using database? sure! xD [github.com/AtnNn/rethinkd…](https://t.co/d7kv9v80lF "https://github.com/AtnNn/rethinkdb-stream")
 
-RT [@mr\_mig\_by](https://twitter.com/mr_mig_by "Alexey Migutsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") “выученный оптимизм” открыл мне глаза на моё поведение: [github.com\/raganwald-depr…](https://t.co/rHoJaVwHD9 "https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-05-01/optimism.md")
+RT [@mr\_mig\_by](https://twitter.com/mr_mig_by "Alexey Migutsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") “выученный оптимизм” открыл мне глаза на моё поведение: [github.com/raganwald-depr…](https://t.co/rHoJaVwHD9 "https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-05-01/optimism.md")
 
-RT [@mr\_mig\_by](https://twitter.com/mr_mig_by "Alexey Migutsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не могу не поделиться еще и “манифестом менеджера”: [medium.com\/the-year-of-th…](https://t.co/gYHUsJQ6rZ "https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084")
+RT [@mr\_mig\_by](https://twitter.com/mr_mig_by "Alexey Migutsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не могу не поделиться еще и “манифестом менеджера”: [medium.com/the-year-of-th…](https://t.co/gYHUsJQ6rZ "https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084")
 
 RT [@tonyganch](https://twitter.com/tonyganch "Tony Ganch"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), обожаю ynab, в том числе за хорошо продуманную идеологию. Но мобильное приложение у них ужасное :\(
 
@@ -500,7 +492,7 @@ RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): .[@jsunderhood]
 
 В общем, пришла пора прощаться. Спасибо всем за эту неделю! С вами ее провел [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats")
 
-Приходите в гости в новые выпуски [@frontflip\_js](https://twitter.com/frontflip_js "Frontflip Podcast") и, если вы из\/будете в Петербурге, то заглядывайте на встречи [@spb\_frontend](https://twitter.com/spb_frontend "SPB Frontend")
+Приходите в гости в новые выпуски [@frontflip\_js](https://twitter.com/frontflip_js "Frontflip Podcast") и, если вы из/будете в Петербурге, то заглядывайте на встречи [@spb\_frontend](https://twitter.com/spb_frontend "SPB Frontend")
 
 ## Ссылки
 

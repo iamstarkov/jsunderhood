@@ -10,7 +10,7 @@ _21 июня 2015_
 
 Планирую писать о сообществах, работе в одиночку, мотивациях, увлечениях, хорошем дизайне. Посмотрим, что из этого получится ;\)
 
-RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): О наконец-то :\) подписываемся на новости из Минска :D [twitter.com\/jsunderhood\/st…](https://t.co/TGJQk22Tgd "https://twitter.com/jsunderhood/status/610294906653904896")
+RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): О наконец-то :\) подписываемся на новости из Минска :D [twitter.com/jsunderhood/st…](https://t.co/TGJQk22Tgd "https://twitter.com/jsunderhood/status/610294906653904896")
 
 . [@talgautb](https://twitter.com/talgautb "Талга УтБ") Отлично, сегодня расскажу немного о минском фронтенд-сообществе
 
@@ -72,7 +72,7 @@ RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@SelenIT2](https://t
 
 RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): Ещё вопрос [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"). А что программисты делают в пятиминутных перерывах между помидорками? \([@asktwi](https://twitter.com/asktwi "Anna") вот гладит кота, да.\)
 
-RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну когда совсем буквально кушать нечего, то да:\( я про отсутствие стимула к росту $800\/мес. — $1k+\/мес.
+RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну когда совсем буквально кушать нечего, то да:\( я про отсутствие стимула к росту $800/мес. — $1k+/мес.
 
 . [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") У меня всегда есть стимул съездить на море. Поэтому лишние деньги на карманные расходы не помешают ;\)
 
@@ -118,9 +118,9 @@ RT [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov"): [@jsunderhood
 
 . [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov") Начинала с grunt, потом перешла на gulp. Синтаксис показался удобнее + плагины для моих задач более... качественные что ли
 
-RT [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant"): [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov") gulp понятнее как-то, а grunt умер и не обновляется уже год :\/ [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@dcromster](https://twitter.com/dcromster "Roman Milovskiy")
+RT [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant"): [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov") gulp понятнее как-то, а grunt умер и не обновляется уже год :/ [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@dcromster](https://twitter.com/dcromster "Roman Milovskiy")
 
-. [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant") [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov") [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") На самом деле, всех нас ждёт [npmjs.com\/package\/grulp](https://t.co/KYSjrdmDqV "https://www.npmjs.com/package/grulp") ;\)
+. [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant") [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov") [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") На самом деле, всех нас ждёт [npmjs.com/package/grulp](https://t.co/KYSjrdmDqV "https://www.npmjs.com/package/grulp") ;\)
 
 RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant") [@klimsemenov](https://twitter.com/klimsemenov "Klim Semenov") [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") Я пересел на вебпак и не скучаю ни по гулпу, ни по грунту. \)
 
@@ -144,13 +144,13 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@SelenIT2](
 
 . [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") К тому же путешествовать очень интересно и познавательно. Втайне мечтаю о такой жизни ;\) [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") [@akrekotun](https://twitter.com/akrekotun "Alexey Krekotun") [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov")
 
-RT [@chayn1k](https://twitter.com/chayn1k "Pavel Tchaikovsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") Еще вспомнил про [course.by\/whatsthat\/](http://t.co/pdI3MI2sBU "http://course.by/whatsthat/"), которые проводят свои занятия на беларускай мове
+RT [@chayn1k](https://twitter.com/chayn1k "Pavel Tchaikovsky"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") Еще вспомнил про [course.by/whatsthat/](http://t.co/pdI3MI2sBU "http://course.by/whatsthat/"), которые проводят свои занятия на беларускай мове
 
 Спасибо всем за интересную дискуссию на тему мотивации в работе. Между прочим, тоже неплохо мотивирует ;\)
 
 RT [@mursya\_ru](https://twitter.com/mursya_ru "Елена Джетпыспаева"): [@Webnotbombs](https://twitter.com/Webnotbombs "Web Not Bombs") Можно всем трем друг друга поддерживать и говорить друг про друга :\) И будет сильно! [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") [@harisov](https://twitter.com/harisov "Vitaly Harisov")
 
-RT [@webstandards\_ru](https://twitter.com/webstandards_ru "Веб-стандарты"): Свежий выпуск подкаста RadioJS с Андреем Ситником: PostCSS, Ruby-сообщество, диалекты JS — [radiojs.ru\/2015\/06\/radioj…](http://t.co/JzAoQtYyOv "http://radiojs.ru/2015/06/radiojs-24/") http[pic.twitter.com\/Ytv61F9Lht](http://t.co/Ytv61F9Lht)
+RT [@webstandards\_ru](https://twitter.com/webstandards_ru "Веб-стандарты"): Свежий выпуск подкаста RadioJS с Андреем Ситником: PostCSS, Ruby-сообщество, диалекты JS — [radiojs.ru/2015/06/radioj…](http://t.co/JzAoQtYyOv "http://radiojs.ru/2015/06/radiojs-24/") http[pic.twitter.com/Ytv61F9Lht](http://t.co/Ytv61F9Lht)
 
 Продолжая тему сообществ: в рамках [@Webnotbombs](https://twitter.com/Webnotbombs "Web Not Bombs") проводятся митапы Girls Not Bombs, где выступают только девушки. Как вы думаете, зачем? ;\)
 
@@ -186,7 +186,7 @@ RT [@iSalem100](https://twitter.com/iSalem100 "Valentin Banshchikov"): [@jsunder
 
 Что касается меня, то однажды рассказывала коллегам в [@cpeople\_ru](https://twitter.com/cpeople_ru "CreativePeople") про адаптивный дизайн, пришёл [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") ... точка ;\) А потом затянуло.
 
-RT [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") все, кто берутся вести этот твиттер берут отпуск на неделю? Как можно так много читать\/писать по рабочим дням?…
+RT [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") все, кто берутся вести этот твиттер берут отпуск на неделю? Как можно так много читать/писать по рабочим дням?…
 
 . [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk") Когда давала согласие, то подозревала, что придётся потратить часть рабочего времени. Ничего, наверстаю ;\)
 
@@ -204,13 +204,13 @@ RT [@delaz](https://twitter.com/delaz "Igor Zenich"): [@jsunderhood](https://twi
 
 RT [@delaz](https://twitter.com/delaz "Igor Zenich"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А вообще просто хотел выступить с докладом, первый рассказал за полгода до WSD,на маленькой конференции, сделав сла…
 
-RT [@Webnotbombs](https://twitter.com/Webnotbombs "Web Not Bombs"): 4-я версия WinJS увидела свет. Делаем приложения для Windows Store на HTML\/JS [dev.windows.com\/en-us\/develop\/…](https://t.co/Tz20WoTfKh "https://dev.windows.com/en-us/develop/winjs")
+RT [@Webnotbombs](https://twitter.com/Webnotbombs "Web Not Bombs"): 4-я версия WinJS увидела свет. Делаем приложения для Windows Store на HTML/JS [dev.windows.com/en-us/develop/…](https://t.co/Tz20WoTfKh "https://dev.windows.com/en-us/develop/winjs")
 
 RT [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с доклада про асинхронность в Python. Это был провал :\)
 
 . [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin") Молодец, что не остановился на этом ;\)
 
-RT [@gurugray](https://twitter.com/gurugray "Sergey Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с лекций в университете :\) а потом пришлось изучить [git](https://twitter.com/search?q=%23git), а потом рассказывать и про него остальным :\)
+RT [@gurugray](https://twitter.com/gurugray "Sergey Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с лекций в университете :\) а потом пришлось изучить [#git](https://twitter.com/search?q=%23git), а потом рассказывать и про него остальным :\)
 
 RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") начал с доклада про Grunt — посмотрел потом свое мычание, пошел к преподу по сценической речи. +работа и б…
 
@@ -236,23 +236,23 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@an
 
 . [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Почему-то вспомнился asm.js
 
-RT [@OdessaJS](https://twitter.com/OdessaJS "OdessaJS"): Итак, мы снова вместе - известны первые доклады конференции [OdessaJS](https://twitter.com/search?q=%23OdessaJS) [odessajs.org](http://t.co/S8b2G4syFZ "http://odessajs.org/") . Регистрация откроется ближе к …
+RT [@OdessaJS](https://twitter.com/OdessaJS "OdessaJS"): Итак, мы снова вместе - известны первые доклады конференции [#OdessaJS](https://twitter.com/search?q=%23OdessaJS) [odessajs.org](http://t.co/S8b2G4syFZ "http://odessajs.org/") . Регистрация откроется ближе к …
 
 RT [@denchistyakov](https://twitter.com/denchistyakov "Denis Chistyakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мы запустили первый большой проект в Я на nodejs для олимпиады в Лондоне, это было очень круто и про это хо…
 
-RT [@nmishin](https://twitter.com/nmishin "nikolay mishin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с желания помочь другим, рассказать про секреты и открытия, которые открылись тебе, у меня это было [slideshare.net\/pavelscherbini…](http://t.co/Fk9gReSoV4 "http://www.slideshare.net/pavelscherbinin/perl-fornotprogrammersnikolaymishin")
+RT [@nmishin](https://twitter.com/nmishin "nikolay mishin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с желания помочь другим, рассказать про секреты и открытия, которые открылись тебе, у меня это было [slideshare.net/pavelscherbini…](http://t.co/Fk9gReSoV4 "http://www.slideshare.net/pavelscherbinin/perl-fornotprogrammersnikolaymishin")
 
 ## Вторник <small>65 твитов</small>
 
-Мне тоже интересно послушать [twitter.com\/VitaliyKirenko…](https://t.co/8su8VEeyBv "https://twitter.com/VitaliyKirenkov/status/610548020350947328")
+Мне тоже интересно послушать [twitter.com/VitaliyKirenko…](https://t.co/8su8VEeyBv "https://twitter.com/VitaliyKirenkov/status/610548020350947328")
 
 Если говорить о ReactJS, то в первом приближении он мне скорее понравился
 
 Хотя при работе с ним состояние менялось от щенячьего восторга до глубокой депрессии. Иногда несколько раз в день
 
-Негативные эмоции были связаны в основном с бурным развитием языка. Даже картинку в тему нашла [pic.twitter.com\/217kV8eyMq](http://t.co/217kV8eyMq)
+Негативные эмоции были связаны в основном с бурным развитием языка. Даже картинку в тему нашла [pic.twitter.com/217kV8eyMq](http://t.co/217kV8eyMq)
 
-Восхищаюсь теми, кто начинал проект на 0.12, потом перешёл на 0.13 и таки закончил [reactjs](https://twitter.com/search?q=%23reactjs)
+Восхищаюсь теми, кто начинал проект на 0.12, потом перешёл на 0.13 и таки закончил [#reactjs](https://twitter.com/search?q=%23reactjs)
 
 RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") у меня наоборот, при изучении сплошной what the fuck, а при работе восторг от контроля любого стейта.
 
@@ -330,7 +330,7 @@ RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://t
 
 . [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") Но на тач-девайсах mouseover тоже срабатывает. Впрочем, после touchstart. Можно проверять комбинацию. Это идея, спасибо!
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") через определение браузера [github.com\/ded\/bowser](https://t.co/WN0VBpokPB "https://github.com/ded/bowser") или Modernizr.
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") через определение браузера [github.com/ded/bowser](https://t.co/WN0VBpokPB "https://github.com/ded/bowser") или Modernizr.
 
 Иногда трачу слишком много времени, чтобы придумать адекватное имя для переменной или класса
 
@@ -344,13 +344,13 @@ RT [@dimsemenov](https://twitter.com/dimsemenov "Dmitry Semenov"): [@jsunderhood
 
 . [@dimsemenov](https://twitter.com/dimsemenov "Dmitry Semenov") Да, вот эта идея мне понравилась. Возьму на вооружение
 
-Отвезти что ли свою скромную коллекцию? Ибо я, похоже, никогда не соберусь наклеить что-нибудь на ноут ;\( [twitter.com\/webstandards\_r…](https://t.co/d83QPwvk70 "https://twitter.com/webstandards_ru/status/610779242822004736")
+Отвезти что ли свою скромную коллекцию? Ибо я, похоже, никогда не соберусь наклеить что-нибудь на ноут ;\( [twitter.com/webstandards\_r…](https://t.co/d83QPwvk70 "https://twitter.com/webstandards_ru/status/610779242822004736")
 
 RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") кажется уже есть что то, что быстрее реакта в три раза. Но может конечно у реакта уже состоявшийся набор…
 
 . [@voischev](https://twitter.com/voischev "Ваня Воищев") Честно пыталась вспомнить название этого нового быстрого фреймворка, но не смогла ;\( [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov")
 
-RT [@PaulColomiets](https://twitter.com/PaulColomiets "PaulColomiets"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@voischev](https://twitter.com/voischev "Ваня Воищев") [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [vdom-benchmark.github.io\/vdom-benchmark\/](http://t.co/sQOK2t3HZR "http://vdom-benchmark.github.io/vdom-benchmark/")
+RT [@PaulColomiets](https://twitter.com/PaulColomiets "PaulColomiets"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@voischev](https://twitter.com/voischev "Ваня Воищев") [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [vdom-benchmark.github.io/vdom-benchmark/](http://t.co/sQOK2t3HZR "http://vdom-benchmark.github.io/vdom-benchmark/")
 
 RT [@verylazydreamer](https://twitter.com/verylazydreamer "Ziyadin Shemsedinov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@voischev](https://twitter.com/voischev "Ваня Воищев") [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") не этот случайно [jsblocks.com](http://t.co/TGKKqJkNi8 "http://jsblocks.com/") ?
 
@@ -358,7 +358,7 @@ RT [@verylazydreamer](https://twitter.com/verylazydreamer "Ziyadin Shemsedinov")
 
 RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") так лучше не делать — есть куча устройств и с тачем, и с мышкой
 
-. [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") В этом и задача. Если взаимодействие с интерфейсом для touch\/notouch принципиально разное, то нужно предлагать подходящее
+. [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") В этом и задача. Если взаимодействие с интерфейсом для touch/notouch принципиально разное, то нужно предлагать подходящее
 
 RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Кажется, адаптировать сайт в момент загрузки - порочная техника, нужно изначально продумывать подходящий для всех …
 
@@ -368,7 +368,7 @@ RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](h
 
 RT [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") решение, пришедшее через боль - решать на уровне интерфейса.
 
-RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@Chudesnov](https://twitter.com/Chudesnov "散厦知") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть [dev.w3.org\/csswg\/mediaque…](http://t.co/LMN5YFYDS9 "http://dev.w3.org/csswg/mediaqueries4/#mf-interaction") с ::hover и ::pointer, но поддержка браузеров ясно какая
+RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@Chudesnov](https://twitter.com/Chudesnov "散厦知") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть [dev.w3.org/csswg/mediaque…](http://t.co/LMN5YFYDS9 "http://dev.w3.org/csswg/mediaqueries4/#mf-interaction") с ::hover и ::pointer, но поддержка браузеров ясно какая
 
 RT [@cherenkevich](https://twitter.com/cherenkevich "Aleksey Cherenkevich"): А расскажите, что нового в мире верстки и фронтенда случилось за последний год?
 
@@ -396,14 +396,13 @@ RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://t
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") тогда это кладбище памятников [websitesfromhell.net](http://t.co/5Nrr1rj5df "http://websitesfromhell.net/")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") обновил статистику [jsunderhood.ru\/stats\/](https://t.co/NmJm8oXNmI "https://jsunderhood.ru/stats/"),
-я настроил тревис, поэтому она теперь будет несколько раз в день о…
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") обновил статистику [jsunderhood.ru/stats/](https://t.co/NmJm8oXNmI "https://jsunderhood.ru/stats/"),<br />я настроил тревис, поэтому она теперь будет несколько раз в день о…
 
-RT [@webstandards\_ru](https://twitter.com/webstandards_ru "Веб-стандарты"): [JavaScript.com](http://t.co/XLkP16wHbV "http://JavaScript.com"), портал о JS при Code School с введением, новостями и ресурсами для начинающих и продолжающих. [pic.twitter.com\/caMXVloZ8V](http://t.co/caMXVloZ8V)
+RT [@webstandards\_ru](https://twitter.com/webstandards_ru "Веб-стандарты"): [JavaScript.com](http://t.co/XLkP16wHbV "http://JavaScript.com"), портал о JS при Code School с введением, новостями и ресурсами для начинающих и продолжающих. [pic.twitter.com/caMXVloZ8V](http://t.co/caMXVloZ8V)
 
-А ты записался на Web Standards Days 20 июня в Питере? ;\) Смотри, какие отличные докладчики тебя ждут: [youtube.com\/watch?v=iUtwKq…](https://t.co/rs7AjDj9VX "https://www.youtube.com/watch?v=iUtwKqSIH90&list=PLMBnwIwFEFHcnfvD14to6fMcbNmH25_Yk")
+А ты записался на Web Standards Days 20 июня в Питере? ;\) Смотри, какие отличные докладчики тебя ждут: [youtube.com/watch?v=iUtwKq…](https://t.co/rs7AjDj9VX "https://www.youtube.com/watch?v=iUtwKqSIH90&list=PLMBnwIwFEFHcnfvD14to6fMcbNmH25_Yk")
 
-Этот неловкий момент, когда анимация чище всего работает в Firefox ¯\\_\(ツ\)\_\/¯
+Этот неловкий момент, когда анимация чище всего работает в Firefox ¯\\\_\(ツ\)\_/¯
 
 RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я удивился, когда то же самое обнаружил в отношении IE12
 
@@ -411,7 +410,7 @@ RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"):
 
 RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") к IE \(как минимум, 11\) есть вопросы к единице vmin в трансформациях, она, похоже, воспринимается там к…
 
-. [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") С viewport units у всех браузеров есть проблемы. Посмотри issues [caniuse.com\/\#feat=viewport…](http://t.co/nasi5eCt98 "http://caniuse.com/#feat=viewport-units") [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler")
+. [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") С viewport units у всех браузеров есть проблемы. Посмотри issues [caniuse.com/\#feat=viewport…](http://t.co/nasi5eCt98 "http://caniuse.com/#feat=viewport-units") [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler")
 
 А у вас есть личный сайт? Нужен ли он разработчику в принципе? Или аккаунтов в соцсетях и на github хватает?
 
@@ -431,9 +430,9 @@ RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): [@jsunderhood](h
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") главная проблема в том,что ты не понимаешь что писать полезного, так как все что ты знаешь-для тебя уже не …
 
-. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Это почти как с докладом. Думаешь - а что нового я могу сказать\/написать? Но для кого-то это так или иначе будет полезно
+. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Это почти как с докладом. Думаешь - а что нового я могу сказать/написать? Но для кого-то это так или иначе будет полезно
 
-RT [@green343](https://twitter.com/green343 "Rogozhkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разработчику нужен блог, но это же себя надо заставить; прочитал весомые доводы [vsevolodustinov.ru\/blog\/all\/o-pol…](http://t.co/oQrdI6DENn "http://vsevolodustinov.ru/blog/all/o-polze-vedeniya-professionalnogo-bloga/") и нафигач…
+RT [@green343](https://twitter.com/green343 "Rogozhkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разработчику нужен блог, но это же себя надо заставить; прочитал весомые доводы [vsevolodustinov.ru/blog/all/o-pol…](http://t.co/oQrdI6DENn "http://vsevolodustinov.ru/blog/all/o-polze-vedeniya-professionalnogo-bloga/") и нафигач…
 
 . [@green343](https://twitter.com/green343 "Rogozhkin") Хорошие советы. Надо попробовать. Спасибо
 
@@ -459,7 +458,7 @@ RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а я не в курсе что это, можно ссылку? \)
 
-. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Завидую, ты будешь слушать его впервые ;\) Он читал его несколько раз, по-разному. Держи с WSD [youtube.com\/watch?v=yRsT5w…](https://t.co/7LF6APxl9g "https://www.youtube.com/watch?v=yRsT5wBSYZ0")
+. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Завидую, ты будешь слушать его впервые ;\) Он читал его несколько раз, по-разному. Держи с WSD [youtube.com/watch?v=yRsT5w…](https://t.co/7LF6APxl9g "https://www.youtube.com/watch?v=yRsT5wBSYZ0")
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@sapegin](https://twitter.com/sapegin "Artem Sapegin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") пока так и выходит, да :D а если серьезно - у меня нет идеи дизайна + мне кажется что нечего пока …
 
@@ -485,7 +484,7 @@ RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://t
 
 RT [@AntonShevchuk](https://twitter.com/AntonShevchuk "Anton Shevchuk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть и нужен - подобный опыт реально помогает в работе - ведь не просто блогер - а ещё учитель, докладчик, …
 
-RT [@delaz](https://twitter.com/delaz "Igor Zenich"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, завел для блога, чтоб постить идеи\/мысли по разработке, что не впишутся как посты на Хабре, например http:\/\/t.c[delka.name\/blog\/2013\/04\/b…](http://t.co/VYCNOrhPW2 "http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/")
+RT [@delaz](https://twitter.com/delaz "Igor Zenich"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, завел для блога, чтоб постить идеи/мысли по разработке, что не впишутся как посты на Хабре, например http://t.c[delka.name/blog/2013/04/b…](http://t.co/VYCNOrhPW2 "http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/")
 
 RT [@AntonShevchuk](https://twitter.com/AntonShevchuk "Anton Shevchuk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а испытать хабраэффект на своём блоге - бесценно
 
@@ -519,11 +518,11 @@ RT [@sagrenite](https://twitter.com/sagrenite "Konstantin Sazonov"): [@jsunderho
 
 . [@sagrenite](https://twitter.com/sagrenite "Konstantin Sazonov") Юзаю для тестрования проектов. В последние пару дней было несколько жёстких зависаний и вылетов
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Dance, everybody dance [twitter.com\/awbjs\/status\/6…](https://t.co/OqudGrDwap "https://twitter.com/awbjs/status/611210011302203392")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Dance, everybody dance [twitter.com/awbjs/status/6…](https://t.co/OqudGrDwap "https://twitter.com/awbjs/status/611210011302203392")
 
 ## Четверг <small>36 твитов</small>
 
-RT [@vafelman](https://twitter.com/vafelman "Таня"): [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вариант. И далеко не самое нетехничное получится:\) Вспомнилось про опенсорс от [@ki\_zu](https://twitter.com/ki_zu "Роман Комаров") – https:\/\/t[events.yandex.ru\/lib\/talks\/1518\/](https://t.co/rOmqKtVQSm "https://events.yandex.ru/lib/talks/1518/")
+RT [@vafelman](https://twitter.com/vafelman "Таня"): [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вариант. И далеко не самое нетехничное получится:\) Вспомнилось про опенсорс от [@ki\_zu](https://twitter.com/ki_zu "Роман Комаров") – https://t[events.yandex.ru/lib/talks/1518/](https://t.co/rOmqKtVQSm "https://events.yandex.ru/lib/talks/1518/")
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Есть открытый, бесплатный инструмент, который с некоторой  вероятностью может определить имеет ли текст отношение к фронтенд[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
@@ -531,7 +530,7 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Есть о�
 
 В моём случае это было много лет назад, тогда я занималась бэкендом. Уволилась с работы, отдохнула, а вернулась в строй уже в роли фронтенд
 
-RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): Вся суть популярности jQuery в одной фразе. [stackoverflow.com\/questions\/1002…](http://t.co/nwtchTwNDz "http://stackoverflow.com/questions/10025141/removing-red-eye-from-an-image-on-the-client-side-using-jquery") [pic.twitter.com\/0Lgag8bNk4](http://t.co/0Lgag8bNk4)
+RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): Вся суть популярности jQuery в одной фразе. [stackoverflow.com/questions/1002…](http://t.co/nwtchTwNDz "http://stackoverflow.com/questions/10025141/removing-red-eye-from-an-image-on-the-client-side-using-jquery") [pic.twitter.com/0Lgag8bNk4](http://t.co/0Lgag8bNk4)
 
 RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А вообще, это ж как надо было отдыхать, чтоб профориентацию поменять :—\)
 
@@ -547,13 +546,13 @@ RT [@Daemon\_Freak](https://twitter.com/Daemon_Freak "Daemon Freak"): [@jsunderh
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") генераторы хорошо подходят для ленивых вычислений, но на клиенте это редко нужно, имхо
 
-RT [@unel86](https://twitter.com/unel86 "Peter Jah (0-)"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не могу придумать им применения, кроме бесконечных списков и ленивого filter\/map. А кто-то их использует как замен…
+RT [@unel86](https://twitter.com/unel86 "Peter Jah (0-)"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не могу придумать им применения, кроме бесконечных списков и ленивого filter/map. А кто-то их использует как замен…
 
-RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") чаще всего используют для написания асинхронного кода в синхронном стиле [2ality.com\/2015\/03\/no-pro…](http://t.co/rPDhrenfa9 "http://www.2ality.com/2015/03/no-promises.html")
+RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") чаще всего используют для написания асинхронного кода в синхронном стиле [2ality.com/2015/03/no-pro…](http://t.co/rPDhrenfa9 "http://www.2ality.com/2015/03/no-promises.html")
 
-RT [@deepwalker](https://twitter.com/deepwalker "Кривушин Михаил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") они много лет в других языках, например в python. [dabeaz.com\/generators\/](http://t.co/xkLtljlrTS "http://www.dabeaz.com/generators/") Думаю многое приложится и в ES6
+RT [@deepwalker](https://twitter.com/deepwalker "Кривушин Михаил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") они много лет в других языках, например в python. [dabeaz.com/generators/](http://t.co/xkLtljlrTS "http://www.dabeaz.com/generators/") Думаю многое приложится и в ES6
 
-RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что скажешь про это? [opennet.ru\/opennews\/art.s…](http://t.co/Brt2QrH6hn "http://www.opennet.ru/opennews/art.shtml?num=42451")
+RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что скажешь про это? [opennet.ru/opennews/art.s…](http://t.co/Brt2QrH6hn "http://www.opennet.ru/opennews/art.shtml?num=42451")
 
 . [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") Думаю, это интересно. Надо будет посмотреть поближе. Судя по команде, потенциал хороший. Посмотрим, как будут развивать.
 
@@ -575,15 +574,15 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@kuksikus]
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а можно где-нибудь подробнее почитать об этом? желательно который фронт-енд :\)
 
-. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Вот он: [facebook.com\/FrontendLeague](https://t.co/YuC44kRjYp "https://www.facebook.com/FrontendLeague")
+. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Вот он: [facebook.com/FrontendLeague](https://t.co/YuC44kRjYp "https://www.facebook.com/FrontendLeague")
 
-. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Есть ещё вот такой айтишный паб-квиз: [facebook.com\/geekbattle.by](https://t.co/mLxmh9P41O "https://www.facebook.com/geekbattle.by") Но я никак на него не попаду ;\(
+. [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") Есть ещё вот такой айтишный паб-квиз: [facebook.com/geekbattle.by](https://t.co/mLxmh9P41O "https://www.facebook.com/geekbattle.by") Но я никак на него не попаду ;\(
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вброс в чат. пользуетесь ли вы [@gitchat](https://twitter.com/gitchat "Gitter") в браузере? если да, то тормозит ли он у вас? \/cc  [@SilentImp](https://twitter.com/SilentImp "Тихий Бес")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вброс в чат. пользуетесь ли вы [@gitchat](https://twitter.com/gitchat "Gitter") в браузере? если да, то тормозит ли он у вас? /cc  [@SilentImp](https://twitter.com/SilentImp "Тихий Бес")
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") пользуюсь и им и слаком, MBP, 16gb, FFDevEdition - полет отличный. \/cc [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес")
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") пользуюсь и им и слаком, MBP, 16gb, FFDevEdition - полет отличный. /cc [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес")
 
-RT [@pvlpvs](https://twitter.com/pvlpvs "Верстальщик надо? "): Фавикон в 64 метра. Вот это я понимаю фронтенд! [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  [twitter.com\/a\_de\_pasquale\/…](https://t.co/UvTcr5qqbf "https://twitter.com/a_de_pasquale/status/608997818913665024")
+RT [@pvlpvs](https://twitter.com/pvlpvs "Верстальщик надо? "): Фавикон в 64 метра. Вот это я понимаю фронтенд! [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  [twitter.com/a\_de\_pasquale/…](https://t.co/UvTcr5qqbf "https://twitter.com/a_de_pasquale/status/608997818913665024")
 
 RT [@rdvornov](https://twitter.com/rdvornov "Roman Dvornov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да просто поменьше работать, много читать, больше спать, встречаться с друзьями, куда нибудь ходить и т.д...
 
@@ -625,7 +624,7 @@ RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https
 
 Взяла себя в руки и отработала пару помидорок. Вот уже и посадка на самолёт. Питер, жди ;\)
 
-RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): Вчера после CSSConf был Brooklyn.js — он начался с пения, а потом были стихи от спонсоров [pic.twitter.com\/B1YcgHD1Sx](http://t.co/B1YcgHD1Sx)
+RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): Вчера после CSSConf был Brooklyn.js — он начался с пения, а потом были стихи от спонсоров [pic.twitter.com/B1YcgHD1Sx](http://t.co/B1YcgHD1Sx)
 
 RT [@two\_in\_one](https://twitter.com/two_in_one "Владислава Т."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я жду иногда этого времени, чтобы спокойно почитать и не думать, что тратишь время зря.
 
@@ -637,14 +636,13 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 . [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") Ты вообще уникален. Видела, как ты работаешь в минском метро ;\)
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а ещё вот эту штуку хочу, чтобы ноут не разряжался на природе [twitter.com\/contrahacks\/st…](https://t.co/cWiELGfBpa "https://twitter.com/contrahacks/status/611687522918273024")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а ещё вот эту штуку хочу, чтобы ноут не разряжался на природе [twitter.com/contrahacks/st…](https://t.co/cWiELGfBpa "https://twitter.com/contrahacks/status/611687522918273024")
 
-RT [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko"): [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") ты спрашивал в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему вы не пишете на es6\/next еще \)
-— мне пока что быстрее думать в es5, потом…
+RT [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko"): [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") ты спрашивал в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему вы не пишете на es6/next еще \)<br />— мне пока что быстрее думать в es5, потом…
 
 . [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko") А мне в некоторых случаях наоборот ;\) [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-RT [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") подскажи, пожалуйста, книги\/материалы как научиться делать JS как на [rdcm.com](http://t.co/ylReBdb2mN "http://rdcm.com") [geizer.com](http://t.co/RYAZnkC2MN "http://geizer.com").
+RT [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") подскажи, пожалуйста, книги/материалы как научиться делать JS как на [rdcm.com](http://t.co/ylReBdb2mN "http://rdcm.com") [geizer.com](http://t.co/RYAZnkC2MN "http://geizer.com").
 
 . [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") Мне, кстати, js там не нравится \(там еще jquery используется ;\(\). Какие именно приёмы тебя заинтересовали?
 
@@ -660,11 +658,11 @@ RT [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov"): [@jsunderhood](htt
 
 . [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") Мне в своё время очень помог всё уложить в голове Эдди Османи. Вот даже перевод есть: [largescalejs.ru](http://t.co/BQvXJB6jhC "http://largescalejs.ru/")
 
-RT [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот пример как у меня сейчас получается приложение [hudochenkov.com\/pro\/rozovoz\/js…](http://t.co/LX4w033E38 "http://hudochenkov.com/pro/rozovoz/js/scripts.js") Это ужасно. Что почитать, чтобы научитьс…
+RT [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот пример как у меня сейчас получается приложение [hudochenkov.com/pro/rozovoz/js…](http://t.co/LX4w033E38 "http://hudochenkov.com/pro/rozovoz/js/scripts.js") Это ужасно. Что почитать, чтобы научитьс…
 
 . [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") Тут сейчас набегут адепты фреймворков ;\) Но поковырять хотя бы один из них - тоже хороший вариант. Мышление перестроить
 
-RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [peter.michaux.ca\/articles\/mvc-a…](http://t.co/E5aB0RHobK "http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications")
+RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [peter.michaux.ca/articles/mvc-a…](http://t.co/E5aB0RHobK "http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications")
 
 RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разделить информацию от интерфейса может быть первым шагом, разбить все на модули.
 
@@ -672,9 +670,9 @@ RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@xwoody](https://twitter.
 
 RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тем же как раз занимаюсь. Какой из туториалов flux больше всего понравился?
 
-. [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [blog.andrewray.me\/flux-for-stupi…](http://t.co/IpAfxy5L8g "http://blog.andrewray.me/flux-for-stupid-people/") ;\) На самом деле, просматриваю всё, что попадается. По сути гуглю по ключевым словам
+. [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [blog.andrewray.me/flux-for-stupi…](http://t.co/IpAfxy5L8g "http://blog.andrewray.me/flux-for-stupid-people/") ;\) На самом деле, просматриваю всё, что попадается. По сути гуглю по ключевым словам
 
-RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему-то совершенно не выношу его стиль, но очень люблю Nicholas Zakas, например [amazon.com\/Maintainable-J…](http://t.co/XuSOrBOQ3r "http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680?tag=nczonline-20")
+RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему-то совершенно не выношу его стиль, но очень люблю Nicholas Zakas, например [amazon.com/Maintainable-J…](http://t.co/XuSOrBOQ3r "http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680?tag=nczonline-20")
 
 RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") я думаю что это именно хороший шаг, понять почему появился backbone в 2010. Мне кажется mvc -&gt; flux скоре…
 
@@ -684,8 +682,7 @@ RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"):
 
 . [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") Ну вот практические приёмы пока приходится гуглить под задачу
 
-RT [@Lendar](https://twitter.com/Lendar "Denis Elistratov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") The Case for Flux от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") — хороший вводный пост
-[medium.com\/@dan\_abramov\/t…](https://t.co/Fn0ZZ2px9w "https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6")
+RT [@Lendar](https://twitter.com/Lendar "Denis Elistratov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") The Case for Flux от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") — хороший вводный пост<br />[medium.com/@dan\_abramov/t…](https://t.co/Fn0ZZ2px9w "https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6")
 
 RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну вот я сначала начал сам писать, гугля решения, но потом понял, что у меня слишком сильная каша в голове
 
@@ -717,21 +714,19 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Sigiller]
 
 RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а в чем соль redux, если в двух словах?
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 
-раз [medium.com\/@dan\_abramov\/t…](https://t.co/fsFPeCm256 "https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31")
-два [github.com\/gaearon\/redux\#…](https://t.co/cjzwcvukk4 "https://github.com/gaearon/redux#philosophy--design-goals")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />раз [medium.com/@dan\_abramov/t…](https://t.co/fsFPeCm256 "https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31")<br />два [github.com/gaearon/redux\#…](https://t.co/cjzwcvukk4 "https://github.com/gaearon/redux#philosophy--design-goals")
 
 RT [@pvlpvs](https://twitter.com/pvlpvs "Верстальщик надо? "): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о, надо нам с тобой дружить, у меня то же самое 😀
 
 . [@pvlpvs](https://twitter.com/pvlpvs "Почти Фронтенд") [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") Главное, что желание избавляться от вермишели в коде есть \*thumbsup\*
 
-RT [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk"): До встречи завтра на [wstdays](https://twitter.com/search?q=%23wstdays) [pic.twitter.com\/ewtBRuCeoz](http://t.co/ewtBRuCeoz)
+RT [@miripiruni](https://twitter.com/miripiruni "Slava Oliyanchuk"): До встречи завтра на [#wstdays](https://twitter.com/search?q=%23wstdays) [pic.twitter.com/ewtBRuCeoz](http://t.co/ewtBRuCeoz)
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@chayn1k](https://twitter.com/chayn1k "Pavel Tchaikovsky") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") мне на работу на трамвайчике ехать 16 минут. и я на эти 30 минут в день половину jsunderho…
 
 ## Суббота <small>15 твитов</small>
 
-RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): Выходные веб-разработчика? Пятничный drink up с [@spb\_frontend](https://twitter.com/spb_frontend "SPB Frontend"), субботняя конфа [wstdays](https://twitter.com/search?q=%23wstdays), воскресный workshop по ноде от NodeS[spb\_dev](https://twitter.com/search?q=%23spb_dev)
+RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): Выходные веб-разработчика? Пятничный drink up с [@spb\_frontend](https://twitter.com/spb_frontend "SPB Frontend"), субботняя конфа [#wstdays](https://twitter.com/search?q=%23wstdays), воскресный workshop по ноде от NodeS[#spb\_dev](https://twitter.com/search?q=%23spb_dev)
 
 Я познакомилась с сообществом WSD несколько лет назад и с тех пор стараюсь посещать встречи. А вы знаете, что первая прошла в Минске?
 
@@ -739,23 +734,23 @@ RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): Выходн�
 
 Если вы сегодня не в Питере, можно будет смотреть трансляцию \(позже будет ссылка\) или читать текстовую [@webstandards\_up](https://twitter.com/webstandards_up "Веб-стандарты")
 
-Обмен книгами и наклейками на WSD. Есть несколько неожиданных экземпляров [pic.twitter.com\/6ns1tPDksO](http://t.co/6ns1tPDksO)
+Обмен книгами и наклейками на WSD. Есть несколько неожиданных экземпляров [pic.twitter.com/6ns1tPDksO](http://t.co/6ns1tPDksO)
 
-RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): На буккроссинге на [wstdays](https://twitter.com/search?q=%23wstdays) можно проследить всю историю [JS](https://twitter.com/search?q=%23JS), от 90-х до полноценной платформы для приложений [pic.twitter.com\/faxn9ybDOA](http://t.co/faxn9ybDOA)
+RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): На буккроссинге на [#wstdays](https://twitter.com/search?q=%23wstdays) можно проследить всю историю [#JS](https://twitter.com/search?q=%23JS), от 90-х до полноценной платформы для приложений [pic.twitter.com/faxn9ybDOA](http://t.co/faxn9ybDOA)
 
-Да, вот и ссылка на трансляцию WSD в Питере [twitter.com\/makingoff\_name…](https://t.co/JRmNzpXyOx "https://twitter.com/makingoff_name/status/612156156954443776")
+Да, вот и ссылка на трансляцию WSD в Питере [twitter.com/makingoff\_name…](https://t.co/JRmNzpXyOx "https://twitter.com/makingoff_name/status/612156156954443776")
 
-Альтернативный вариант трансляции [wstdays](https://twitter.com/search?q=%23wstdays) в Питере [twitter.com\/silentimp\/stat…](https://t.co/YKkIeOkwdB "https://twitter.com/silentimp/status/612166208775942144")
+Альтернативный вариант трансляции [#wstdays](https://twitter.com/search?q=%23wstdays) в Питере [twitter.com/silentimp/stat…](https://t.co/YKkIeOkwdB "https://twitter.com/silentimp/status/612166208775942144")
 
-RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): Подходите на [wstdays](https://twitter.com/search?q=%23wstdays), давайте развиртуализироваться. Меня легко найти по белой майке с логотипом [@RadioJSPodcast](https://twitter.com/RadioJSPodcast "RadioJS Podcast") на спине.
+RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): Подходите на [#wstdays](https://twitter.com/search?q=%23wstdays), давайте развиртуализироваться. Меня легко найти по белой майке с логотипом [@RadioJSPodcast](https://twitter.com/RadioJSPodcast "RadioJS Podcast") на спине.
 
-Цитаты с [wstdays](https://twitter.com/search?q=%23wstdays): «Сам я bem не использую, потому что считаю, что он нарушает правила web»
+Цитаты с [#wstdays](https://twitter.com/search?q=%23wstdays): «Сам я bem не использую, потому что считаю, что он нарушает правила web»
 
-RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): В актуальных темах России [wstdays](https://twitter.com/search?q=%23wstdays) популярнее [Putin](https://twitter.com/search?q=%23Putin). Не хухры-мухры событие ;\)
+RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): В актуальных темах России [#wstdays](https://twitter.com/search?q=%23wstdays) популярнее [#Putin](https://twitter.com/search?q=%23Putin). Не хухры-мухры событие ;\)
 
-Трансляция [wstdays](https://twitter.com/search?q=%23wstdays) на youtube не работает \(возможно там будет финальное видео\). Используйте [ustream.tv\/channel\/wstdays](http://t.co/iYrHj5rfP1 "http://www.ustream.tv/channel/wstdays")
+Трансляция [#wstdays](https://twitter.com/search?q=%23wstdays) на youtube не работает \(возможно там будет финальное видео\). Используйте [ustream.tv/channel/wstdays](http://t.co/iYrHj5rfP1 "http://www.ustream.tv/channel/wstdays")
 
-Цитаты с [wstdays](https://twitter.com/search?q=%23wstdays) \(+народное творчество\): «Я ваш svg на канвасе вертела»
+Цитаты с [#wstdays](https://twitter.com/search?q=%23wstdays) \(+народное творчество\): «Я ваш svg на канвасе вертела»
 
 Технология SVG в последнее время — альтернативный кроссбраузерный вариант для решения самых разных задач
 
@@ -777,7 +772,7 @@ RT [@a\_lithium](https://twitter.com/a_lithium "Aliaksei Lithium"): [@jsunderhoo
 
 RT [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в наш век очень сложно найти что либо, не связанное с компьютером.
 
-RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да ну ладно вам :\) возьмите любой вид спорта. Или покатушки на великах\/роликах\/досках…
+RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да ну ладно вам :\) возьмите любой вид спорта. Или покатушки на великах/роликах/досках…
 
 RT [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin"): [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") к спорту захочешь трекер с пульсометром. Я недавно гитарой занялся. Через USB к компу подрубаю.
 

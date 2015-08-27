@@ -4,13 +4,13 @@ _17 июля 2015_
 
 ## Понедельник <small>47 твитов</small>
 
-Привет! На этой неделе с вами [@andreypopp](https://twitter.com/andreypopp "Andrey Popp"). Занимаюсь разработкой на JS\/Python. С недавнего времени живу в Санкт-Петербурге.
+Привет! На этой неделе с вами [@andreypopp](https://twitter.com/andreypopp "Andrey Popp"). Занимаюсь разработкой на JS/Python. С недавнего времени живу в Санкт-Петербурге.
 
 Давайте поговорим о ФП в разработке интерфейсов. От концептов и языков программирования до библиотек и фрэймворков.
 
 FRP: все о нём говорят, но мне до сих пор непонятна его ценность, хотя очень интересно. Кто-нибудь расскажет?
 
-PureScript интересен тем, что позволяет судить об “эффектах” в приложении. Например: “пусть эта функция не пишет в DOM”, “тут нет I\/O"
+PureScript интересен тем, что позволяет судить об “эффектах” в приложении. Например: “пусть эта функция не пишет в DOM”, “тут нет I/O"
 
 React: "опиши UI один раз как функцию от данных, не надо описывать миллион способов изменить UI при изменении данных”
 
@@ -18,17 +18,17 @@ React: "опиши UI один раз как функцию от данных, �
 
 Из интересного для меня на эту тему: Immediate mode UI \(React, …\), стат. типизация \(PureScript, OCaml, …\), FRP.
 
-К сожалению не знаю такой. Были бы добровольцы перевести офиц. документацию… Перевод на китайский идет полным ходом. [twitter.com\/pvlpvs\/status\/…](https://t.co/GmNB6ZPY5B "https://twitter.com/pvlpvs/status/620511990361026560")
+К сожалению не знаю такой. Были бы добровольцы перевести офиц. документацию… Перевод на китайский идет полным ходом. [twitter.com/pvlpvs/status/…](https://t.co/GmNB6ZPY5B "https://twitter.com/pvlpvs/status/620511990361026560")
 
-Разговор про Elm: Да, но у того же PureScript система типов и FFI объективно лучше. Биндинги для React есть. [twitter.com\/aluuu\/status\/6…](https://t.co/0yOkGnosmE "https://twitter.com/aluuu/status/620512479219744769")
+Разговор про Elm: Да, но у того же PureScript система типов и FFI объективно лучше. Биндинги для React есть. [twitter.com/aluuu/status/6…](https://t.co/0yOkGnosmE "https://twitter.com/aluuu/status/620512479219744769")
 
-Согласен! Вот, как пример, PR для добавления перевода части документации на китайский. [github.com\/facebook\/react…](https://t.co/icmqMqGFuF "https://github.com/facebook/react/pull/2877") [twitter.com\/talgautb\/statu…](https://t.co/4iom9CpJR1 "https://twitter.com/talgautb/status/620512734958882816")
+Согласен! Вот, как пример, PR для добавления перевода части документации на китайский. [github.com/facebook/react…](https://t.co/icmqMqGFuF "https://github.com/facebook/react/pull/2877") [twitter.com/talgautb/statu…](https://t.co/4iom9CpJR1 "https://twitter.com/talgautb/status/620512734958882816")
 
-Однозначно Петроградская сторона, но у меня предвзятое мнение, я закончил ИТМО. [twitter.com\/listochkin\/sta…](https://t.co/Wg5iRzagoE "https://twitter.com/listochkin/status/620513872424779776")
+Однозначно Петроградская сторона, но у меня предвзятое мнение, я закончил ИТМО. [twitter.com/listochkin/sta…](https://t.co/Wg5iRzagoE "https://twitter.com/listochkin/status/620513872424779776")
 
 RT [@aluuu](https://twitter.com/aluuu "Alexander Dinu"): .[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ого, в purescript даже typeclasses запилены, крутяк.
 
-RT [@aluuu](https://twitter.com/aluuu "Усиление и Манатан"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [elm-lang.org\/blog\/blazing-f…](http://t.co/8DZnNsqrmJ "http://elm-lang.org/blog/blazing-fast-html")
+RT [@aluuu](https://twitter.com/aluuu "Усиление и Манатан"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [elm-lang.org/blog/blazing-f…](http://t.co/8DZnNsqrmJ "http://elm-lang.org/blog/blazing-fast-html")
 
 . [@aluuu](https://twitter.com/aluuu "Alexander Dinu") когда я смотрел Elm этого еще не было. Но и теперь непонятно что мне даст FRP. По-моему сложно постоянно брать “время” в расчет.
 
@@ -36,13 +36,13 @@ RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин
 
 . [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") согласен, но есть же какие-то специфичные штуки: immediate mode ui тот же
 
-RT [@is\_ruslan](https://twitter.com/is_ruslan "Ruslan  Ismagilov"): Awesome Elm: [bit.ly\/1M5EeV2](http://t.co/SHG8ixP1iA "http://bit.ly/1M5EeV2") список ресурсов, статей и примеров для Elm. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com\/HawBQ07MH2](http://t.co/HawBQ07MH2)
+RT [@is\_ruslan](https://twitter.com/is_ruslan "Ruslan  Ismagilov"): Awesome Elm: [bit.ly/1M5EeV2](http://t.co/SHG8ixP1iA "http://bit.ly/1M5EeV2") список ресурсов, статей и примеров для Elm. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/HawBQ07MH2](http://t.co/HawBQ07MH2)
 
-Не думаю что это хайп, просто функциональный подход работает [twitter.com\/\_cloudo\/status…](https://t.co/DDmcXkWGvt "https://twitter.com/_cloudo/status/620526653698019328")
+Не думаю что это хайп, просто функциональный подход работает [twitter.com/\_cloudo/status…](https://t.co/DDmcXkWGvt "https://twitter.com/_cloudo/status/620526653698019328")
 
-Хороший список книг\/материалов на русском [alexott.net\/ru\/fp\/books\/](http://t.co/aV9T3Cj1pA "http://alexott.net/ru/fp/books/") от [@alexott](https://twitter.com/alexott "Alex Ott") книги Харрисона неплохи  [twitter.com\/bagadim\/status…](https://t.co/wtXJ57mlTO "https://twitter.com/bagadim/status/620521558608642048")
+Хороший список книг/материалов на русском [alexott.net/ru/fp/books/](http://t.co/aV9T3Cj1pA "http://alexott.net/ru/fp/books/") от [@alexott](https://twitter.com/alexott "Alex Ott") книги Харрисона неплохи  [twitter.com/bagadim/status…](https://t.co/wtXJ57mlTO "https://twitter.com/bagadim/status/620521558608642048")
 
-Действительно интересно почитать. Кстати gist от создателя [cycle.js.org](http://t.co/3We0KJKI4F "http://cycle.js.org/") [@andrestaltz](https://twitter.com/andrestaltz "André Staltz")  [twitter.com\/\_\_fro\/status\/6…](https://t.co/5ddxvzp3IJ "https://twitter.com/__fro/status/620597355130261504")
+Действительно интересно почитать. Кстати gist от создателя [cycle.js.org](http://t.co/3We0KJKI4F "http://cycle.js.org/") [@andrestaltz](https://twitter.com/andrestaltz "André Staltz")  [twitter.com/\_\_fro/status/6…](https://t.co/5ddxvzp3IJ "https://twitter.com/__fro/status/620597355130261504")
 
 Но даже в простейших примерах FRP прослеживается главный его недостаток: необходимость учитывать время, даже там где это не нужно.
 
@@ -50,7 +50,7 @@ RT [@is\_ruslan](https://twitter.com/is_ruslan "Ruslan  Ismagilov"): Awesome Elm
 
 Хорошие абстракции должны изолировать время и асинхронность.
 
-В React\/Flux архитектуре время изолируется в хранилищах вместо того, чтобы утекать в UI. UI — отображение определенного момента времени.
+В React/Flux архитектуре время изолируется в хранилищах вместо того, чтобы утекать в UI. UI — отображение определенного момента времени.
 
 Redux от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") реализует управление состоянием лучше чем Flux: вместо изменяющегося состояния есть "рецепт как изменить состояние"
 
@@ -64,7 +64,7 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https:/
 
 . [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") операции над данными можно менять местами и в какой-то момент у всех \(сервер, клиент, другой клиент, ...\) будет одна картина мира
 
-. [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") вот кстати классный понятный paper на тему CRDT: [gsd.di.uminho.pt\/members\/cbm\/ps…](http://t.co/sFhLmdHBgS "http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf") \(осторожно PDF\)
+. [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") вот кстати классный понятный paper на тему CRDT: [gsd.di.uminho.pt/members/cbm/ps…](http://t.co/sFhLmdHBgS "http://gsd.di.uminho.pt/members/cbm/ps/crdtOpsMiddleware.pdf") \(осторожно PDF\)
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и что будет, если, скажем, у нас googledocs и оба юзера одновременно вставили разные символы в одно и тоже место?
 
@@ -78,33 +78,33 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@gritzko](https://twi
 
 RT [@gritzko](https://twitter.com/gritzko "Victor Grishchenko"): [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это CRDT в [@swarm\_js](https://twitter.com/swarm_js "Swarm.js"), op-based с lamport timestamps; CRDT в целом это очень широкое определение
 
-RT [@gritzko](https://twitter.com/gritzko "Victor Grishchenko"): [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кстати, статья в WP очень хорошего качества [en.wikipedia.org\/wiki\/Conflict-…](https://t.co/eNMZoY5d3f "https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type"), вариант Swarm: [swarmjs.github.io\/articles\/lampo…](http://t.co/qCHlTHQKyF "http://swarmjs.github.io/articles/lamport/")
+RT [@gritzko](https://twitter.com/gritzko "Victor Grishchenko"): [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кстати, статья в WP очень хорошего качества [en.wikipedia.org/wiki/Conflict-…](https://t.co/eNMZoY5d3f "https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type"), вариант Swarm: [swarmjs.github.io/articles/lampo…](http://t.co/qCHlTHQKyF "http://swarmjs.github.io/articles/lamport/")
 
-On FRP: [twitter.com\/andrestaltz\/st…](https://t.co/jx57cTywXI "https://twitter.com/andrestaltz/status/620632774509219840")
+On FRP: [twitter.com/andrestaltz/st…](https://t.co/jx57cTywXI "https://twitter.com/andrestaltz/status/620632774509219840")
 
 RT [@andrestaltz](https://twitter.com/andrestaltz "André Staltz"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") and declare dependencies between phenomena, and that's it. A Cycle.js app is fully declarative.
 
 RT [@Semenov](https://twitter.com/Semenov "Бодхисаттва Семенов"): .[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Давайте обудим тестирование. Кто, что и как теститует. У кого какое покрытие.
 
-У нас тонкая “запускалка” поверх webpack для Jasmine спек: [github.com\/prometheusrese…](https://t.co/FW9kCdaXzl "https://github.com/prometheusresearch/webtest")
+У нас тонкая “запускалка” поверх webpack для Jasmine спек: [github.com/prometheusrese…](https://t.co/FW9kCdaXzl "https://github.com/prometheusresearch/webtest")
 
-в этом суть React [twitter.com\/\_\_fro\/status\/6…](https://t.co/M2g4BLNUek "https://twitter.com/__fro/status/620637952692088832")
+в этом суть React [twitter.com/\_\_fro/status/6…](https://t.co/M2g4BLNUek "https://twitter.com/__fro/status/620637952692088832")
 
 RT [@slonoed](https://twitter.com/slonoed "Dmitry M."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") mocha + react в нодовом окружении для юнитов. Еще где то в моем идеальном мире должен быть селениум, но пока увы
 
 RT [@ebronnik](https://twitter.com/ebronnik "Evgeny"): [@Semenov](https://twitter.com/Semenov "Бодхисаттва Семенов") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тестировать должны пользователи и сообщать об ошибках разработчику.
 
-Отличная статья: “UI как функция без побочных эффектов” \/cc [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") есть примеры к нашей недавней дискуссии [twitter.com\/AndryRochev\/st…](https://t.co/XHxceQ6Yfh "https://twitter.com/AndryRochev/status/620698640982519808")
+Отличная статья: “UI как функция без побочных эффектов” /cc [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") есть примеры к нашей недавней дискуссии [twitter.com/AndryRochev/st…](https://t.co/XHxceQ6Yfh "https://twitter.com/AndryRochev/status/620698640982519808")
 
-RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А на чем нынче модно\/удобно делать REST API на Node?
+RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А на чем нынче модно/удобно делать REST API на Node?
 
 ## Вторник <small>28 твитов</small>
 
 Создатель [@babeljs](https://twitter.com/babeljs "Babel") присоединяется к команде FB — хорошо когда за таким полезным проектом целая компания.
 
-Вчера ночью чуть-чуть обсуждали REST API. Интересно, появление GraphQL\/Relay и Falcor вытеснит классический REST или нет?
+Вчера ночью чуть-чуть обсуждали REST API. Интересно, появление GraphQL/Relay и Falcor вытеснит классический REST или нет?
 
-У нас есть своя похожая штука:  HTSQL [htsql.org\/doc\/overview.h…](http://t.co/JkQt6yMcZZ "http://htsql.org/doc/overview.html#what-is-htsql"), более близка к полноценному языку запросов, но у нас и требования другие
+У нас есть своя похожая штука:  HTSQL [htsql.org/doc/overview.h…](http://t.co/JkQt6yMcZZ "http://htsql.org/doc/overview.html#what-is-htsql"), более близка к полноценному языку запросов, но у нас и требования другие
 
 RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Для внутренних API - вытеснит 100%.
 
@@ -112,7 +112,7 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](ht
 
 . [@freiksenet](https://twitter.com/freiksenet "freiksenet") если бы еще в одном запросе и разные источники можно было запрашивать — вообще класс. Идея для стартапа — GraphQL Mashups ;-\)
 
-Коммент от участника TC39 про то почему ваши любимые фичи [@babeljs](https://twitter.com/babeljs "Babel") не попадут в ES2016…  [twitter.com\/RReverser\/stat…](https://t.co/fhIxlXyfKi "https://twitter.com/RReverser/status/620872737213427712")
+Коммент от участника TC39 про то почему ваши любимые фичи [@babeljs](https://twitter.com/babeljs "Babel") не попадут в ES2016…  [twitter.com/RReverser/stat…](https://t.co/fhIxlXyfKi "https://twitter.com/RReverser/status/620872737213427712")
 
 RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А, ну сделай схему и resolve. GraphQL только систему типов дает, он нейтрален в плане источника\(ов\).
 
@@ -132,21 +132,21 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](ht
 
 RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я бы ставил на Datomic
 
-. [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") Datomic хорош, но это БД. GraphQL\/Falcor не заботятся о хранении данных, думаю их легче начать использовать
+. [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") Datomic хорош, но это БД. GraphQL/Falcor не заботятся о хранении данных, думаю их легче начать использовать
 
-RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") так ведь [docs.datomic.com\/query.html](http://t.co/lLeMl1S6on "http://docs.datomic.com/query.html") считай тот же GraphQL. Уже есть тонна реализаций для JS
+RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") так ведь [docs.datomic.com/query.html](http://t.co/lLeMl1S6on "http://docs.datomic.com/query.html") считай тот же GraphQL. Уже есть тонна реализаций для JS
 
 . [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") ок, это про Datalog, а что за реализации для JS? Я видел DataScript для CLJS
 
 RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") стоит немного подождать, Datomic и его инфраструктура достаточно молоды, но IMHO это гораздо перспекти…
 
-RT [@sergtitov](https://twitter.com/sergtitov "Sergey Titov"): [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") not sure who from [graphql](https://twitter.com/search?q=%23graphql)\/Datomic\/Falcor group will win, but definitely not REST. It will …
+RT [@sergtitov](https://twitter.com/sergtitov "Sergey Titov"): [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") not sure who from [#graphql](https://twitter.com/search?q=%23graphql)/Datomic/Falcor group will win, but definitely not REST. It will …
 
 RT [@sergtitov](https://twitter.com/sergtitov "Sergey Titov"): [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") using REST for apps dev always felt awkward, http was never designed for apps and has are t…
 
-RT [@sergtitov](https://twitter.com/sergtitov "Sergey Titov"): [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") I don't want to solve countless sync problems, I just want to work with data and code biz l[Firebase](https://twitter.com/search?q=%23Firebase)
+RT [@sergtitov](https://twitter.com/sergtitov "Sergey Titov"): [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda") I don't want to solve countless sync problems, I just want to work with data and code biz l[#Firebase](https://twitter.com/search?q=%23Firebase)
 
-Отличный стартер-кит \(React, ESLint, Mocha, Babel, Webpack\) от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"). Но я бы заменил npm скрипты на Makefile [twitter.com\/dan\_abramov\/st…](https://t.co/PmpkunlctV "https://twitter.com/dan_abramov/status/621012736193994752")
+Отличный стартер-кит \(React, ESLint, Mocha, Babel, Webpack\) от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"). Но я бы заменил npm скрипты на Makefile [twitter.com/dan\_abramov/st…](https://t.co/PmpkunlctV "https://twitter.com/dan_abramov/status/621012736193994752")
 
 Кто-нибудь должен сделать фрэймворк для shell скриптов, чтобы подтягивать функции с npm. Я с удовольствием буду его использовать.
 
@@ -154,17 +154,17 @@ RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood
 
 "Makefile это JSX командной строки” — пока не попробуешь не поймешь в чем польза
 
-Вот пример тонкого Makefile для JS проекта: [github.com\/andreypopp\/aut…](https://t.co/Dbnpg99Ldr "https://github.com/andreypopp/autobind-decorator/blob/master/Makefile") на мой взгляд приятнее чем npm скрипты + директория scripts\/
+Вот пример тонкого Makefile для JS проекта: [github.com/andreypopp/aut…](https://t.co/Dbnpg99Ldr "https://github.com/andreypopp/autobind-decorator/blob/master/Makefile") на мой взгляд приятнее чем npm скрипты + директория scripts/
 
 ## Среда <small>37 твитов</small>
 
-Поэкспериментировал с темингом для React компонент [github.com\/andreypopp\/ret…](https://t.co/ussnTSA7Jm "https://github.com/andreypopp/rethemeable") Идея: протокол для компонент, которым можно изменять внешний вид
+Поэкспериментировал с темингом для React компонент [github.com/andreypopp/ret…](https://t.co/ussnTSA7Jm "https://github.com/andreypopp/rethemeable") Идея: протокол для компонент, которым можно изменять внешний вид
 
 Можно использовать с inline styles, css modules, … Как вам API? Чего не хватает?
 
 RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вероятно разработчик столкнется с тем что для другой темы нужна другая разметка. Такое было два раза из двух, в …
 
-. [@olebedev](https://twitter.com/olebedev "Oleg Lebedev") можно передавать функции\/компоненты как часть темы для компонента — так можно заменять часть разметки
+. [@olebedev](https://twitter.com/olebedev "Oleg Lebedev") можно передавать функции/компоненты как часть темы для компонента — так можно заменять часть разметки
 
 RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Но при этом в самом компоненте должно быть предусмотрено заранее, что вот такую-то часть можно заменять? [@olebedev](https://twitter.com/olebedev "Oleg Lebedev")
 
@@ -180,7 +180,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 . [@toivonens](https://twitter.com/toivonens "var ya; // ru") я бы сказал что он должен определить контракт для своих тем, мне кажется это хорошо
 
-Кто еще не знаком с CSS modules [github.com\/css-modules\/cs…](https://t.co/PkmczUu0lU "https://github.com/css-modules/css-modules") компонентный подход к стилям
+Кто еще не знаком с CSS modules [github.com/css-modules/cs…](https://t.co/PkmczUu0lU "https://github.com/css-modules/css-modules") компонентный подход к стилям
 
 RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") хочу заметить, что первый компонентный подход — БЭМ. CSS Modules интересны тем, что он автоматический.
 
@@ -188,7 +188,7 @@ RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситни�
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вообще,как вариант, можно сделать фабрику фабрик компонентов, которая бы возвращала themed фабрики.Их и использоват…
 
-Подсказали классную утилиту для демок React компонент [github.com\/insin\/react-he…](https://t.co/D82bvIxnjz "https://github.com/insin/react-heatpack") — heatpack .\/WidgetDemo.js
+Подсказали классную утилиту для демок React компонент [github.com/insin/react-he…](https://t.co/D82bvIxnjz "https://github.com/insin/react-heatpack") — heatpack ./WidgetDemo.js
 
 Идея: плагин для webpack который позволяет редактировать props компонент прямо в браузере. Сохраняет обратно в исходники.
 
@@ -212,9 +212,9 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@iamstarkov](https://
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@ChromeDevTools](https://twitter.com/ChromeDevTools "Chrome DevTools") не знаю, но я могу запилить. Я могу править из CDT, идет сохранение в FS и происходит h…
 
-Альтернатива Chrome Workspaces от FB [twitter.com\/RReverser\/stat…](https://t.co/yRUylyIN2R "https://twitter.com/RReverser/status/621283973176672257")
+Альтернатива Chrome Workspaces от FB [twitter.com/RReverser/stat…](https://t.co/yRUylyIN2R "https://twitter.com/RReverser/status/621283973176672257")
 
-Есть мнение что devtools должны быть не в отдельной панели UI, а частью самого приложения. \/\/cc [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") как эксперта по DX
+Есть мнение что devtools должны быть не в отдельной панели UI, а частью самого приложения. //cc [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") как эксперта по DX
 
 DX — developer experience, аналог UX.
 
@@ -224,19 +224,19 @@ RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@listochkin]
 
 RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и я о том же. Для девелопера важно, что инструмент умеет, а не как работает или г…
 
-. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") согласен, просто chrome devtools это “прошлое" когда интроспекцию можно было делать только на DOM\/BOM уровне
+. [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") согласен, просто chrome devtools это “прошлое" когда интроспекцию можно было делать только на DOM/BOM уровне
 
 Сейчас когда интроспекцию можно делать на уровне приложения \(React, Redux\) можно экспериментировать с новыми видами, интерфейсами devtools
 
 RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с моей точки зрения CDT - это удобная панелька с табиками, куда можно добавить ништяков. Каких? - дело фантази[@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov")
 
-В сочетании с Babel-ESLint это просто замечательный инструмент. Появился 1.0-RC [twitter.com\/geteslint\/stat…](https://t.co/zAnRkWEgS5 "https://twitter.com/geteslint/status/621410300042960896")
+В сочетании с Babel-ESLint это просто замечательный инструмент. Появился 1.0-RC [twitter.com/geteslint/stat…](https://t.co/zAnRkWEgS5 "https://twitter.com/geteslint/status/621410300042960896")
 
 ## Четверг <small>4 твита</small>
 
-Дискуссия про Babel и нестандартные расширения языка \(JSX\):   [reddit.com\/r\/javascript\/c…](https://t.co/5vxEbanMqx "https://www.reddit.com/r/javascript/comments/3df2qm/interested_in_babel_with_nonstandard_features/")
+Дискуссия про Babel и нестандартные расширения языка \(JSX\):   [reddit.com/r/javascript/c…](https://t.co/5vxEbanMqx "https://www.reddit.com/r/javascript/comments/3df2qm/interested_in_babel_with_nonstandard_features/")
 
-Не люблю работать из дома [twitter.com\/MarkAgee\/statu…](https://t.co/Uew2XEQY8M "https://twitter.com/MarkAgee/status/620990471720992768")
+Не люблю работать из дома [twitter.com/MarkAgee/statu…](https://t.co/Uew2XEQY8M "https://twitter.com/MarkAgee/status/620990471720992768")
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Из DOMа.
 
@@ -244,7 +244,7 @@ RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): К�
 
 ## Пятница <small>13 твитов</small>
 
-Действительно, let, const или var? В es6 я использую let, так меньше набирать да и читается отлично. [twitter.com\/\_ericelliott\/s…](https://t.co/mquZChOabh "https://twitter.com/_ericelliott/status/621863257633103872")
+Действительно, let, const или var? В es6 я использую let, так меньше набирать да и читается отлично. [twitter.com/\_ericelliott/s…](https://t.co/mquZChOabh "https://twitter.com/_ericelliott/status/621863257633103872")
 
 . [@marinintim](https://twitter.com/marinintim "Tim Marinin") в es6 выбор фактически между const и let, var сломан
 
@@ -256,8 +256,7 @@ RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"):
 
 RT [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@marinintim](https://twitter.com/marinintim "Tim Marinin") Нет задач под var. Есть let \(который к тому-же избавляет от лишних замыканий\) и const для …
 
-RT [@\_nezed](https://twitter.com/_nezed "Дмитрий Наумов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") врывающийся в студию вопрос \(прощу прощения\)
-Ребята, есть идеи как описывать JS Doc на props в React классах\/компо…
+RT [@\_nezed](https://twitter.com/_nezed "Дмитрий Наумов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") врывающийся в студию вопрос \(прощу прощения\)<br />Ребята, есть идеи как описывать JS Doc на props в React классах/компо…
 
 RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@marinintim](https://twitter.com/marinintim "Tim Marinin") Я бы вообще сделал что var = let, а let = const.
 
@@ -265,11 +264,7 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@ymatuhin](https
 
 RT [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko"): [@\_nezed](https://twitter.com/_nezed "Дмитрий Наумов") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Оригинальный вариант — использовать propTypes
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): const - normal
-let - code smell
-var - legacy
-
-\/cc [@\_ericelliott](https://twitter.com/_ericelliott "Eric Elliott")  [twitter.com\/jsunderhood\/st…](https://t.co/Ik8CRI9QN8 "https://twitter.com/jsunderhood/status/621989667005669376")
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): const - normal<br />let - code smell<br />var - legacy<br /><br />/cc [@\_ericelliott](https://twitter.com/_ericelliott "Eric Elliott")  [twitter.com/jsunderhood/st…](https://t.co/Ik8CRI9QN8 "https://twitter.com/jsunderhood/status/621989667005669376")
 
 RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Расскажи, пожалуйста, про своё рабочее окружение, IDE, какие-нибудь полезные инстументы, которыми ты часто пользу…
 

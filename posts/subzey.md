@@ -4,19 +4,19 @@ _24 мая 2015_
 
 ## Понедельник <small>40 твитов</small>
 
--~\/-~\/-~\/-~\/-~\/-~\/
+-~/-~/-~/-~/-~/-~/
 
 Доброй ночи, дамы и господа! На этой неделе этот аккаунт буду вести я, Антон [@subzey](https://twitter.com/subzey "subzey") Хлыновский. Я JS-кодер в одном финансовом стартапе
 
 Моя излюбленная тема — «сырой» JS, т.е., всё что ниже уровнем, чем фреймворки и библиотеки, в том числе code golf и демосцена
 
-Кстати, вот эта штука в начале [twitter.com\/jsunderhood\/st…](https://t.co/rCdD7SFGgi "https://twitter.com/jsunderhood/status/600095365254270976?s=09") — это не просто сепаратор, а вполне валидный js-код, попробуйте в консоли :\)
+Кстати, вот эта штука в начале [twitter.com/jsunderhood/st…](https://t.co/rCdD7SFGgi "https://twitter.com/jsunderhood/status/600095365254270976?s=09") — это не просто сепаратор, а вполне валидный js-код, попробуйте в консоли :\)
 
-Никто не расскажет про code golf на js лучше, чем [@aemkei](https://twitter.com/aemkei "Martin Kleppe") [m.ustream.tv\/recorded\/62250…](http://t.co/MTd3ecM018 "http://m.ustream.tv/recorded/62250630") \(начало где-то на 1:00:00\)
+Никто не расскажет про code golf на js лучше, чем [@aemkei](https://twitter.com/aemkei "Martin Kleppe") [m.ustream.tv/recorded/62250…](http://t.co/MTd3ecM018 "http://m.ustream.tv/recorded/62250630") \(начало где-то на 1:00:00\)
 
 Когда я начнал ковырять ES6, Google Traceur эмулировал \`let x\` через try-throw-catch\(x\). После такого адового трэша я надолго на него забил
 
-… в новых версиях try-throw нет, но и код генерится неправильный [goo.gl\/VyOVbL](https://t.co/olzv40GH1x "https://goo.gl/VyOVbL") Вот то же самое на Babel: [goo.gl\/a3wrou](https://t.co/Pyr92O9cdc "https://goo.gl/a3wrou")
+… в новых версиях try-throw нет, но и код генерится неправильный [goo.gl/VyOVbL](https://t.co/olzv40GH1x "https://goo.gl/VyOVbL") Вот то же самое на Babel: [goo.gl/a3wrou](https://t.co/Pyr92O9cdc "https://goo.gl/a3wrou")
 
 А вы уже пользуетесь транспилерами из ES6? В продакшне, или для развлечения?
 
@@ -26,7 +26,7 @@ RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https
 
 RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") На каком стэке работаете? Как в целом среда в компании \(фин. темы обычно клонятся в сторону костенелого энтерпрай…
 
-.[@morhetz](https://twitter.com/morhetz "Pavel Pertsev") JS+Python \(Django\)+Erlang. Подробнее есть видео от моего коллеги [youtu.be\/l1lr2ckSrTo](https://t.co/HNjHWyAL6t "https://youtu.be/l1lr2ckSrTo") При разработке используем Канбан
+.[@morhetz](https://twitter.com/morhetz "Pavel Pertsev") JS+Python \(Django\)+Erlang. Подробнее есть видео от моего коллеги [youtu.be/l1lr2ckSrTo](https://t.co/HNjHWyAL6t "https://youtu.be/l1lr2ckSrTo") При разработке используем Канбан
 
 RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Какого работать в Ростове? Есть ли мотивация уезжать за более интересными проектами или удаленная разработка реша…
 
@@ -38,7 +38,7 @@ RT [@greybax](https://twitter.com/greybax "Aleksandr Filatov"): [@Vitalliumm](ht
 
 .[@greybax](https://twitter.com/greybax "Aleksandr Filatov") А в вижл-студии есть какие-то особые плюшки для TS? Ну там, рефакторинг в один клик или что-то подобное?
 
-RT [@greybax](https://twitter.com/greybax "Aleksandr Filatov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в VS синтаксис подсвечивается, а по рефакторингу юзаю Resharper, а там есть довольно много [blog.jetbrains.com\/dotnet\/2014\/12…](http://t.co/R4Ahx0YC4D "http://blog.jetbrains.com/dotnet/2014/12/15/improved-typescript-support-in-resharper-9/")
+RT [@greybax](https://twitter.com/greybax "Aleksandr Filatov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в VS синтаксис подсвечивается, а по рефакторингу юзаю Resharper, а там есть довольно много [blog.jetbrains.com/dotnet/2014/12…](http://t.co/R4Ahx0YC4D "http://blog.jetbrains.com/dotnet/2014/12/15/improved-typescript-support-in-resharper-9/")
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ни для прода, и ни для развлечения. Все свои новые npm-модули пишу в es6
 
@@ -48,7 +48,7 @@ RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https:
 
 RT [@an4ger](https://twitter.com/an4ger "an4 ger"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну блочный скоуп убирается, если перед блоком действительно обьявить переменную x, тогда все работает правильно.
 
-.[@an4ger](https://twitter.com/an4ger "an4 ger") Но это же «затмит» глобальную переменную. Да даже и не глобальную, а просто из внешнего скопа [goo.gl\/W13kdd](https://t.co/ovGzLeB9qe "https://goo.gl/W13kdd")
+.[@an4ger](https://twitter.com/an4ger "an4 ger") Но это же «затмит» глобальную переменную. Да даже и не глобальную, а просто из внешнего скопа [goo.gl/W13kdd](https://t.co/ovGzLeB9qe "https://goo.gl/W13kdd")
 
 .[@an4ger](https://twitter.com/an4ger "an4 ger") let же вроде специально сделан, чтобы упростить жизнь и не запоминать все глобалы \(как в руби\). А тут, как по мне, явный баг.
 
@@ -68,17 +68,17 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@toivonens]
 
 RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") никак
 
-.[@veged](https://twitter.com/veged "Sergey Berezhnoy") А как контролируете пропущенные var и протечки в глобал? \/\*jshint undef:true\*\/?
+.[@veged](https://twitter.com/veged "Sergey Berezhnoy") А как контролируете пропущенные var и протечки в глобал? /\*jshint undef:true\*/?
 
 RT [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") по одному на модуль \(он же файл, но внутри define\)
 
-RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") никак, потому что babel. До этого юзал strict-loader, чтобы вручную не писать [github.com\/mistadikay\/str…](https://t.co/NBDL6F1FbG "https://github.com/mistadikay/strict-loader")
+RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") никак, потому что babel. До этого юзал strict-loader, чтобы вручную не писать [github.com/mistadikay/str…](https://t.co/NBDL6F1FbG "https://github.com/mistadikay/strict-loader")
 
 RT [@lolmaus](https://twitter.com/lolmaus "Pussy Monster"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я обожаю CoffeeScript и пишу только на нем, несмотря на наличие Babel в пайплайне проекта. Могу обосновать, но не…
 
 RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, линтеры всё равно нужны и спасают от большего
 
-У Python и JS больше общего, чем может показаться. Например, не поверите, модель наследования [repl.it\/oZV](http://t.co/Y7Q8dzgAiE "http://repl.it/oZV") [repl.it\/ozU](http://t.co/Lc5x4Kkswx "http://repl.it/ozU")
+У Python и JS больше общего, чем может показаться. Например, не поверите, модель наследования [repl.it/oZV](http://t.co/Y7Q8dzgAiE "http://repl.it/oZV") [repl.it/ozU](http://t.co/Lc5x4Kkswx "http://repl.it/ozU")
 
 [js13kGames.com](http://t.co/jwx1cppAki "http://js13kGames.com/") — интересное ежегодное компо. Цель создать за месяц игру на js и уложиться в 13кб \(в .zip\) со всей графикой и звуками
 
@@ -86,7 +86,7 @@ RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https:
 
 ## Вторник <small>52 твита</small>
 
-Начнём утро, если не возражаете, с музыкальной паузы: [js1k.com\/2313](http://t.co/1aXg41asvk "http://js1k.com/2313") Как по мне, эта интра была самой крутой на js1k 2015
+Начнём утро, если не возражаете, с музыкальной паузы: [js1k.com/2313](http://t.co/1aXg41asvk "http://js1k.com/2313") Как по мне, эта интра была самой крутой на js1k 2015
 
 …хотя бы потому что в ней используется Web Audio API и WebGL, что, в общем-то, не характерно для килобайтных интро.
 
@@ -96,31 +96,31 @@ RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https:
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не применяют
 
-Почти все демки на js1k запакованы RegPack'ом \([github.com\/Siorki\/RegPack\/](https://t.co/vmVWQdBncK "https://github.com/Siorki/RegPack/")\), он заменяет длинные повторяющиеся строки на один символ
+Почти все демки на js1k запакованы RegPack'ом \([github.com/Siorki/RegPack/](https://t.co/vmVWQdBncK "https://github.com/Siorki/RegPack/")\), он заменяет длинные повторяющиеся строки на один символ
 
-RegPack не просто взялся с неба, он основан на [iteral.com\/jscrush\/](http://t.co/48wsv7ZNGf "http://www.iteral.com/jscrush/"), если захотите разобраться в принципе работы, лучше начать с JsCrush
+RegPack не просто взялся с неба, он основан на [iteral.com/jscrush/](http://t.co/48wsv7ZNGf "http://www.iteral.com/jscrush/"), если захотите разобраться в принципе работы, лучше начать с JsCrush
 
-Код под RegPack пишется не так, как «обычный» гольферский код: цель не минимальный размер, а минимальная энтропия \([goo.gl\/RS3FNF](https://t.co/iUNzYiCbJw "https://goo.gl/RS3FNF")\)
+Код под RegPack пишется не так, как «обычный» гольферский код: цель не минимальный размер, а минимальная энтропия \([goo.gl/RS3FNF](https://t.co/iUNzYiCbJw "https://goo.gl/RS3FNF")\)
 
 …иными словами, как можно больше повторяющихся строк и как можно меньше набор символов. Вплоть по повторного использования переменных
 
-Но задротские демосценерские подходы неожиданно близки к реальности. [goo.gl\/xY4Suu](http://t.co/DTnCilWV9d "http://goo.gl/xY4Suu") тут ryry.min.js явно больше, чем dry.min.js
+Но задротские демосценерские подходы неожиданно близки к реальности. [goo.gl/xY4Suu](http://t.co/DTnCilWV9d "http://goo.gl/xY4Suu") тут ryry.min.js явно больше, чем dry.min.js
 
 Но после сжатия GZIP \(все современные браузеры так делают\) dry.min.js.gz 70 байт, а ryry.min.js.gz — 64.  Тут всё дело в энтропии :\)
 
-UglifyJS может заменять имена переменных на однобуквенные. Он тоже не берёт их с потолка, а использует самые частые [pic.twitter.com\/xTMXN4Q5zl](http://t.co/xTMXN4Q5zl)
+UglifyJS может заменять имена переменных на однобуквенные. Он тоже не берёт их с потолка, а использует самые частые [pic.twitter.com/xTMXN4Q5zl](http://t.co/xTMXN4Q5zl)
 
-Наконец, Closure Compiler может даже повторно использовать переменные: [goo.gl\/HG8vFn](https://t.co/206LWcgSOb "https://goo.gl/HG8vFn") \(Uglify, похоже, не умеет\)
+Наконец, Closure Compiler может даже повторно использовать переменные: [goo.gl/HG8vFn](https://t.co/206LWcgSOb "https://goo.gl/HG8vFn") \(Uglify, похоже, не умеет\)
 
-Яркий пример «переоптимизации»: [github.com\/cowboy\/jquery-…](https://t.co/zhyFNf269f "https://github.com/cowboy/jquery-resize/blob/master/jquery.ba-resize.js"). Если выкинуть трюк с  Reused strings, вес js.min.gz уменьшится с 468 байт до 451
+Яркий пример «переоптимизации»: [github.com/cowboy/jquery-…](https://t.co/zhyFNf269f "https://github.com/cowboy/jquery-resize/blob/master/jquery.ba-resize.js"). Если выкинуть трюк с  Reused strings, вес js.min.gz уменьшится с 468 байт до 451
 
 Не всегда стоит стараться перехитрить свой компилятор
 
-Прошу прощения за битую ссылку, спасибо [@ru\_rodweb](https://twitter.com/ru_rodweb "Igor Deryabin")  [twitter.com\/ru\_rodweb\/stat…](https://t.co/jngoNfR6Cf "https://twitter.com/ru_rodweb/status/600636243697868801")
+Прошу прощения за битую ссылку, спасибо [@ru\_rodweb](https://twitter.com/ru_rodweb "Igor Deryabin")  [twitter.com/ru\_rodweb/stat…](https://t.co/jngoNfR6Cf "https://twitter.com/ru_rodweb/status/600636243697868801")
 
 [microjs.com](http://t.co/csOJEQ3Nyf "http://microjs.com/") — россыпь маленьких полезных билиотек. Пожалуй, то место, где мир гольфо-сценеров соприкасается с миром «продакшна»
 
-Шах и мат, функциональщики! [pic.twitter.com\/Ej3X4teDKm](http://t.co/Ej3X4teDKm)
+Шах и мат, функциональщики! [pic.twitter.com/Ej3X4teDKm](http://t.co/Ej3X4teDKm)
 
 Кстати, часто ли вас на собеседованиях просили написать функцию для подсчёта чисел Фибонначи, факториалов или прочей математики?
 
@@ -146,29 +146,27 @@ RT [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy"): [@j
 
 RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а ещё не дорос до проведения интервью\) но как отвечающему интересно когда дают кусок кода и …
 
-RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 2\/2 по не у рассказать. В мой небольшой практике были и достойные ответы и знатные фейлы\)
+RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 2/2 по не у рассказать. В мой небольшой практике были и достойные ответы и знатные фейлы\)
 
 RT [@dosyara](https://twitter.com/dosyara "Sergey Maksimov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не всегда просто по таким задачам сделать вывод. Часто фронтендщики пугаются "математики".
 
-RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 
-- Я слышал ты любишь опасных парней? Я хожу на собеседования ради острых ощущений!
+RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />- Я слышал ты любишь опасных парней? Я хожу на собеседования ради острых ощущений!
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а потом двигаешь пиксели и центруешь по вертикали
 
-Вот это интересный пойнт:
-RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") отлавливают любителей неуместной рекурсии?
+Вот это интересный пойнт:<br />RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") отлавливают любителей неуместной рекурсии?
 
 RT [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А по событийной петле есть примеры вопросов? :\)
 
-.[@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") Раскрою карты — вопрос на ивентлуп у нас один :\) «[gist.github.com\/subzey\/47d7720…](https://t.co/EZXEKEhpmd "https://gist.github.com/subzey/47d772020089b6e41cab") — как будет работать этот код?»
+.[@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy") Раскрою карты — вопрос на ивентлуп у нас один :\) «[gist.github.com/subzey/47d7720…](https://t.co/EZXEKEhpmd "https://gist.github.com/subzey/47d772020089b6e41cab") — как будет работать этот код?»
 
 RT [@reklatsmasters](https://twitter.com/reklatsmasters "Дмитрий Цветцих"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на собеседовании в яндекс.екатеринбург просили что-то с числами Фибонначи. Я провалился к счастью.
 
-За статью о событийной петле, кстати, я получил \(зачёркнуто: диплом\) инвайт на Хабре. Вот она, если интересно: [habrahabr.ru\/company\/tradin…](http://t.co/TwothmHY1G "http://habrahabr.ru/company/tradingview/blog/178261/")
+За статью о событийной петле, кстати, я получил \(зачёркнуто: диплом\) инвайт на Хабре. Вот она, если интересно: [habrahabr.ru/company/tradin…](http://t.co/TwothmHY1G "http://habrahabr.ru/company/tradingview/blog/178261/")
 
 А диплом я так и не получил
 
-RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот еще отличный доклад по этой теме [youtube.com\/watch?v=8aGhZQ…](https://t.co/iuxdWfpv1M "https://www.youtube.com/watch?v=8aGhZQkoFbQ")
+RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот еще отличный доклад по этой теме [youtube.com/watch?v=8aGhZQ…](https://t.co/iuxdWfpv1M "https://www.youtube.com/watch?v=8aGhZQkoFbQ")
 
 Я же надеюсь, никого не отпугнёт то, что у меня из образования 4 курса «1205 00 3 Оборудование и технология сварочного производства»? :D
 
@@ -178,7 +176,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 RT [@denysbutenko](https://twitter.com/denysbutenko "Denys Butenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") несколько раз.
 
-RT [@pomidore](https://twitter.com/pomidore "Александр Лунев"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [twitter.com\/iamdevloper\/st…](https://t.co/3GVx8IJQeH "https://twitter.com/iamdevloper/status/560081615221972992")
+RT [@pomidore](https://twitter.com/pomidore "Александр Лунев"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [twitter.com/iamdevloper/st…](https://t.co/3GVx8IJQeH "https://twitter.com/iamdevloper/status/560081615221972992")
 
 RT [@oshibka404](https://twitter.com/oshibka404 "Andrey Ozornin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Был за последние пару лет примерно на двадцати собеседованиях, про образование спросили дважды, и то исключите…
 
@@ -188,21 +186,21 @@ RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderh
 
 RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") у меня сразу ассоциации - черная дыра, теория относительности. А асинхронный вызов - горизонт событий :\)
 
-Хм, действительно, по запросу «событийная петля» гуглится какая-то атсральная ересь. Пора завязывать с жаргонизмами [pic.twitter.com\/xTJP2QfMJh](http://t.co/xTJP2QfMJh)
+Хм, действительно, по запросу «событийная петля» гуглится какая-то атсральная ересь. Пора завязывать с жаргонизмами [pic.twitter.com/xTJP2QfMJh](http://t.co/xTJP2QfMJh)
 
 RT [@maxmaximov](https://twitter.com/maxmaximov "Max Maximov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") спроси лучше, у многих ли тут есть образование :\)
 
 ## Среда <small>67 твитов</small>
 
-Предлагаю ещё одну музыкальную паузу: [pouet.net\/prod.php?which…](http://t.co/27KBFmEF5G "http://www.pouet.net/prod.php?which=59403") \(1 место на DemoJS'12 в категории 1K\), в ней ещё нет ни Web Audio, ни WebGL
+Предлагаю ещё одну музыкальную паузу: [pouet.net/prod.php?which…](http://t.co/27KBFmEF5G "http://www.pouet.net/prod.php?which=59403") \(1 место на DemoJS'12 в категории 1K\), в ней ещё нет ни Web Audio, ни WebGL
 
-Зато есть ручное псевдо-3d, хитрая генерация звука \([p01.org\/releases\/140by…](http://t.co/c8tYTtUMDh "http://www.p01.org/releases/140bytes_music_softSynth/")\) и ещё более хитрая упаковка JS в PNG \([pouet.net\/prod.php?which…](http://t.co/7bB7rSLdx4 "http://www.pouet.net/prod.php?which=59298")\)
+Зато есть ручное псевдо-3d, хитрая генерация звука \([p01.org/releases/140by…](http://t.co/c8tYTtUMDh "http://www.p01.org/releases/140bytes_music_softSynth/")\) и ещё более хитрая упаковка JS в PNG \([pouet.net/prod.php?which…](http://t.co/7bB7rSLdx4 "http://www.pouet.net/prod.php?which=59298")\)
 
-Но лучше давайте послушаем автора этого интро, великого и ужасного [@p01](https://twitter.com/p01 "Mathieu 'p01' Henri"): [2014.jsconf.eu\/speakers\/mathi…](http://t.co/5zRK53iaSn "http://2014.jsconf.eu/speakers/mathieu-p01-henri-monster-audiovisual-demos-in-a-tcp-packet.html")
+Но лучше давайте послушаем автора этого интро, великого и ужасного [@p01](https://twitter.com/p01 "Mathieu 'p01' Henri"): [2014.jsconf.eu/speakers/mathi…](http://t.co/5zRK53iaSn "http://2014.jsconf.eu/speakers/mathieu-p01-henri-monster-audiovisual-demos-in-a-tcp-packet.html")
 
-Если вы рисуете на канвасе, вот вам хинт: между определением кривой и её обводкой\/заливкой можно менять трансформации [jsfiddle.net\/subzey\/phb4976…](http://t.co/WuMD1PhzcM "http://jsfiddle.net/subzey/phb49762/")
+Если вы рисуете на канвасе, вот вам хинт: между определением кривой и её обводкой/заливкой можно менять трансформации [jsfiddle.net/subzey/phb4976…](http://t.co/WuMD1PhzcM "http://jsfiddle.net/subzey/phb49762/")
 
-…в продакшне этот приём нужен нечасто, но вот в приглашении на js1k'15 \([pouet.net\/prod.php?which…](http://t.co/mxYuwo01QG "http://www.pouet.net/prod.php?which=64966")\) я его применял более чем активно
+…в продакшне этот приём нужен нечасто, но вот в приглашении на js1k'15 \([pouet.net/prod.php?which…](http://t.co/mxYuwo01QG "http://www.pouet.net/prod.php?which=64966")\) я его применял более чем активно
 
 Получил массу приятных эмоций всего за полчаса: штраф за переход на красный, мудаки в РЖД и слоупочный общественный транспорт
 
@@ -214,15 +212,15 @@ RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@Vitalliumm](https://twit
 
 RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@serebro](https://twitter.com/serebro "Sergey") 9 классов, + 1,5 курса "программирования" местячкового техникума
 
-RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@serebro](https://twitter.com/serebro "Sergey") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [twitter.com\/dan\_abramov\/st…](https://t.co/svf9lsH77j "https://twitter.com/dan_abramov/status/593874112323411968")
+RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@serebro](https://twitter.com/serebro "Sergey") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [twitter.com/dan\_abramov/st…](https://t.co/svf9lsH77j "https://twitter.com/dan_abramov/status/593874112323411968")
 
-Этот ответ я специально приберёг [twitter.com\/le0\_nik\/status…](https://t.co/YLHa8Yd00l "https://twitter.com/le0_nik/status/600624286462832640")
+Этот ответ я специально приберёг [twitter.com/le0\_nik/status…](https://t.co/YLHa8Yd00l "https://twitter.com/le0_nik/status/600624286462832640")
 
 Использутете ли вы модули? Много ли было проблем при переводе legacy-кода на модули?
 
 С новыми проектами-то всё просто: берём и сразу пилим на модулях, как взрослые дяди и тёти. :\)
 
-RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") С legacy-кодом неплохо управляется browserify + browserify-shim. В пятницу упомяну это в докладе [frontendconf.ru\/2015\/abstracts…](http://t.co/tdF3xZw2RE "http://frontendconf.ru/2015/abstracts/1724")
+RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") С legacy-кодом неплохо управляется browserify + browserify-shim. В пятницу упомяну это в докладе [frontendconf.ru/2015/abstracts…](http://t.co/tdF3xZw2RE "http://frontendconf.ru/2015/abstracts/1724")
 
 RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") есть некоторый монолит который как швейцарский нож. умеет все но не очень плохо. сущий легаси. сейчас делаю е…
 
@@ -256,9 +254,9 @@ RT [@tommy\_diaver](https://twitter.com/tommy_diaver "Aнтoн Kапycтин"): 
 
 RT [@serebro](https://twitter.com/serebro "Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что можете сказать по поводу js фреймворка [aurelia.io](http://t.co/jyOKUkmNdM "http://aurelia.io") и на чем сейчас имеет смысл начинать большие пр…
 
-.[@serebro](https://twitter.com/serebro "Sergey") Фреймворки и их особенности, увы, не моя сильная сторона, я сразу в этом и признался [twitter.com\/jsunderhood\/st…](https://t.co/wbA8eagyoG "https://twitter.com/jsunderhood/status/600099312031408128?s=09") Беру помощь зала :\)
+.[@serebro](https://twitter.com/serebro "Sergey") Фреймворки и их особенности, увы, не моя сильная сторона, я сразу в этом и признался [twitter.com/jsunderhood/st…](https://t.co/wbA8eagyoG "https://twitter.com/jsunderhood/status/600099312031408128?s=09") Беру помощь зала :\)
 
-.[@serebro](https://twitter.com/serebro "Sergey") Но с виду ничего так. Хотя и ничего революционно нового. А про то, какой ф\/в выбрать — it depends, серебряной пули не существует
+.[@serebro](https://twitter.com/serebro "Sergey") Но с виду ничего так. Хотя и ничего революционно нового. А про то, какой ф/в выбрать — it depends, серебряной пули не существует
 
 RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@serebro](https://twitter.com/serebro "Sergey") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если речь идет о фронтенде, то я бы предложил ember.js
 
@@ -270,13 +268,13 @@ RT [@instanceofpro](https://twitter.com/instanceofpro "abrosimov"): [@jsunderhoo
 
 .[@instanceofpro](https://twitter.com/instanceofpro "abrosimov") а фреймворк — это самолёт. Всё включено, заранее продумано и отлично летает, но на работу по городу на нём не поездишь
 
-.[@instanceofpro](https://twitter.com/instanceofpro "abrosimov") На эту тему есть хорошая статья, [frontender.info\/zero\_framework…](http://t.co/7u40TqHn6z "http://frontender.info/zero_framework_manifesto/") Автор несколько экстремален, но кое в чём я с ним согласен
+.[@instanceofpro](https://twitter.com/instanceofpro "abrosimov") На эту тему есть хорошая статья, [frontender.info/zero\_framework…](http://t.co/7u40TqHn6z "http://frontender.info/zero_framework_manifesto/") Автор несколько экстремален, но кое в чём я с ним согласен
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если бы единственная доступная отвертка была с анально-педальным приводом, то я бы определнно считал её «необхо…
 
 RT [@\_elergy\_](https://twitter.com/_elergy_ "Elergy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@instanceofpro](https://twitter.com/instanceofpro "abrosimov") сейчас все без разбора называют и либами и фреймворками. А разница лишь в размере отвертки и кол-…
 
-.[@\_elergy\_](https://twitter.com/_elergy_ "Elergy") Как говорилось в «Осторожно, Модерн!», разница — коrенная! [pbs.twimg.com\/media\/Bt8NEveI…](https://t.co/zOMUDDjPok "https://pbs.twimg.com/media/Bt8NEveIcAEsTqH.png")
+.[@\_elergy\_](https://twitter.com/_elergy_ "Elergy") Как говорилось в «Осторожно, Модерн!», разница — коrенная! [pbs.twimg.com/media/Bt8NEveI…](https://t.co/zOMUDDjPok "https://pbs.twimg.com/media/Bt8NEveIcAEsTqH.png")
 
 RT [@dmitry\_dok](https://twitter.com/dmitry_dok "dmitry"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@instanceofpro](https://twitter.com/instanceofpro "abrosimov") отверткой можно чай размешивать
 
@@ -294,7 +292,7 @@ RT [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda"): [@\_elergy\_](https://
 
 RT [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort"): [@\_elergy\_](https://twitter.com/_elergy_ "Elergy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr") [@instanceofpro](https://twitter.com/instanceofpro "abrosimov") ох не люба мне либа, люб – фреймворк\)
 
-RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [jsfiddle.net\/92ewxh6k\/](http://t.co/n4LgbAjlGP "http://jsfiddle.net/92ewxh6k/")
+RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [jsfiddle.net/92ewxh6k/](http://t.co/n4LgbAjlGP "http://jsfiddle.net/92ewxh6k/")
 
 .[@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev") Спасибо! Вот это очень важная поправка, не знал, прошу прощения
 
@@ -314,11 +312,11 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@ap\_savin]
 
 .[@SilentImp](https://twitter.com/SilentImp "Тихий Бес") В обработчике жеста для меню проверять scrollWidth и scrollLeft у e.target? Не знаю. Не уверен, что правильно понял
 
-Вот юзкейс. Есть открытое меню и какой-то блок с кнопкой внутри. При клике куда-нибудь вовне выпадалка скрывается [pic.twitter.com\/rkC0lOJzin](http://t.co/rkC0lOJzin)
+Вот юзкейс. Есть открытое меню и какой-то блок с кнопкой внутри. При клике куда-нибудь вовне выпадалка скрывается [pic.twitter.com/rkC0lOJzin](http://t.co/rkC0lOJzin)
 
 …кликаем на кнопку внутри. Обработчик на самом блоке нам вызывать нельзя, мы глушим событие через stopPropagation\(\)…
 
-…но заглушенное событие не долетает до body\/documentElement, и выпадалка не знает, что ей надо закрыться. Проблема.
+…но заглушенное событие не долетает до body/documentElement, и выпадалка не знает, что ей надо закрыться. Проблема.
 
 RT [@likhter](https://twitter.com/likhter "Konstantin Likhter"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") странное условие не вызывать обработчик на блоке. Тогда блок должен смотреть, что клик не в кнопку. Тогда не буде…
 
@@ -330,22 +328,19 @@ RT [@likhter](https://twitter.com/likhter "Konstantin Likhter"): [@jsunderhood](
 
 ## Четверг <small>60 твитов</small>
 
-Когда я в конторе служил версталём,
-Ко мне постучался сеньор девелопер.
-И глядя на код мой в открытом окне,
-Он усмехнулся мне.
+Когда я в конторе служил версталём,<br />Ко мне постучался сеньор девелопер.<br />И глядя на код мой в открытом окне,<br />Он усмехнулся мне.
 
 …это вам сегодня вместо музыкальной паузы :\) Всем доброго утра!
 
-RT [@dmitryshimkin](https://twitter.com/dmitryshimkin "Dmitry Shimkin"): [@likhter](https://twitter.com/likhter "Konstantin Likhter") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот пример проблемы: [jsfiddle.net\/wbvyz17h\/](http://t.co/3awU39CYck "http://jsfiddle.net/wbvyz17h/") Решение: capture phase или stopPropagation.
+RT [@dmitryshimkin](https://twitter.com/dmitryshimkin "Dmitry Shimkin"): [@likhter](https://twitter.com/likhter "Konstantin Likhter") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот пример проблемы: [jsfiddle.net/wbvyz17h/](http://t.co/3awU39CYck "http://jsfiddle.net/wbvyz17h/") Решение: capture phase или stopPropagation.
 
-Сейчас проходит крупный ивент [FrontConfMsk](https://twitter.com/search?q=%23FrontConfMsk), на [@webstandards\_up](https://twitter.com/webstandards_up "Веб-стандарты") вы можете почитать текстовую трансляцию [pic.twitter.com\/cuPPylhCiQ](http://t.co/cuPPylhCiQ)
+Сейчас проходит крупный ивент [#FrontConfMsk](https://twitter.com/search?q=%23FrontConfMsk), на [@webstandards\_up](https://twitter.com/webstandards_up "Веб-стандарты") вы можете почитать текстовую трансляцию [pic.twitter.com/cuPPylhCiQ](http://t.co/cuPPylhCiQ)
 
 RT [@Eisenhoden](https://twitter.com/Eisenhoden "Пухлина Путіна"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@huigovnomuravei](https://twitter.com/huigovnomuravei "Хуй Говно и Муравей") он рассказал, как плачет QA
 
 Писать сейчас про фронтенд, пока идёт масштабная конфа, это как транслировать местный матч во время финала кубка чемпионов. Или нет? :\)
 
-[habrahabr.ru\/post\/258449\/](http://t.co/7eOxwK9nKu "http://habrahabr.ru/post/258449/") — весьма интересная статья. И показательная. А сообщали ли вы когда-нибудь об уязвимостях, и что вам за это было?
+[habrahabr.ru/post/258449/](http://t.co/7eOxwK9nKu "http://habrahabr.ru/post/258449/") — весьма интересная статья. И показательная. А сообщали ли вы когда-нибудь об уязвимостях, и что вам за это было?
 
 Свою первую «нормальную» уязвимость я нашёл 9 лет назад в одной браузерной игрушке. Отрепортил. Получил бан на четыре года.
 
@@ -419,13 +414,13 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@teardrop\_
 
 .[@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@teardrop\_lisa](https://twitter.com/teardrop_lisa "Lisa Katorgina ") У меня вообще морда нефотогигиеничная. Но что поделать, Кодекс Ведущего Подкапотного требует фото на аватарке.
 
-Прямо какой-то месяц мержев [github.com\/jashkenas\/unde…](https://t.co/rJQfWPOcpp "https://github.com/jashkenas/underscore/issues/2182")
+Прямо какой-то месяц мержев [github.com/jashkenas/unde…](https://t.co/rJQfWPOcpp "https://github.com/jashkenas/underscore/issues/2182")
 
 Интересно, что дальше? Grulp? Emberbone? Npmower?
 
 RT [@twokul](https://twitter.com/twokul "Alex Navasardyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Embularactymerbone
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") bower был не нужен с самого начала. npm вполне мог работать с css\/html и тд, Grulp был планом Gulpовцев на мом…
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") bower был не нужен с самого начала. npm вполне мог работать с css/html и тд, Grulp был планом Gulpовцев на мом…
 
 .[@listochkin](https://twitter.com/listochkin "Андрей Листочкин") про bower — в самую точку! Мне кажется, fat написал его не потому что он нужен, а потому что хипстер
 
@@ -433,7 +428,7 @@ RT [@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin"): [@jsunderhoo
 
 .[@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin") Но никто же не мешает подключать только то, что нужно, а остальное — нехай лежит, много места не займёт [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
-RT [@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") да, но бывает так, что автор меняет директорию\/название\/etc., приходится подстраиваться.
+RT [@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") да, но бывает так, что автор меняет директорию/название/etc., приходится подстраиваться.
 
 RT [@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") или вспомните истории, когда автор внезапно удаляет свою библиотеку с гитхаба, с корнями.
 
@@ -455,7 +450,7 @@ RT [@Krivlenia](https://twitter.com/Krivlenia "Константин"): [@Vitalli
 
 ## Пятница <small>89 твитов</small>
 
-Bret Victor круто рассказывает о «so meta». Особенно хорош его доклад Inventing on a Principle [youtu.be\/a-OyoVcbwWE](http://t.co/LBooJg2a9f "http://youtu.be/a-OyoVcbwWE") Всем доброго утра!
+Bret Victor круто рассказывает о «so meta». Особенно хорош его доклад Inventing on a Principle [youtu.be/a-OyoVcbwWE](http://t.co/LBooJg2a9f "http://youtu.be/a-OyoVcbwWE") Всем доброго утра!
 
 Предлагаю сегодня и поговорить о всяких мета-штуках. Не о том, как пилить фронтенд, а почему именно вы фронтендеры?
 
@@ -479,8 +474,7 @@ RT [@sc0rp1d](https://twitter.com/sc0rp1d "Mark Langovoi"): [@jsunderhood](https
 
 Странно. Точно помню, что на работе лежала книжка по HTML где-то 2000 года. Наверное, её всё-таки сожгли, чтобы не дай бог никто не прочитал
 
-RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): Мой друг хотел срубить бабла по легкому в интернете, всё началось с порносайта :D
-так вот я попал в веб \)\) [twitter.com\/jsunderhood\/st…](https://t.co/GKJxDUwQv2 "https://twitter.com/jsunderhood/status/601672130883952641")
+RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): Мой друг хотел срубить бабла по легкому в интернете, всё началось с порносайта :D<br />так вот я попал в веб \)\) [twitter.com/jsunderhood/st…](https://t.co/GKJxDUwQv2 "https://twitter.com/jsunderhood/status/601672130883952641")
 
 RT [@green343](https://twitter.com/green343 "Rogozhkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в айти приходится "переучиваться" каждые 3 года; странно слышать "не умею"; программист может освоить много проф…
 
@@ -488,7 +482,7 @@ RT [@green343](https://twitter.com/green343 "Rogozhkin"): [@jsunderhood](https:/
 
 Вам же приходилось слышать вопросы «как получить в php результат из функции js на странице», да? Такие люди не понимают, что происходит
 
-Чтобы уверенно работать с клиентским js, нужно хотя бы иметь представление о http и, желательно, о tcp\/ip
+Чтобы уверенно работать с клиентским js, нужно хотя бы иметь представление о http и, желательно, о tcp/ip
 
 RT [@akrekotun](https://twitter.com/akrekotun "Alexey Krekotun"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") В библиотеке нашел книгу "Сам себе WEB программист". Пожалуй, последняя книга, с которой надо было начинать зна…
 
@@ -508,13 +502,13 @@ RT [@VovanR](https://twitter.com/VovanR "Vladimir Rodkin"): [@jsunderhood](https
 
 .[@VovanR](https://twitter.com/VovanR "Vladimir Rodkin") Хм, мой коллега ушёл из труъ-вебдизайна в хардкорный JS. А вот случаев перехода из кодеров в дизайнеры я не знаю
 
-Отлично! Это же чертовски простой план, как привлекать в нашу отрасль новые кадры :\) [twitter.com\/safrankov\/stat…](https://t.co/EmZx4i2kNP "https://twitter.com/safrankov/status/601687402428702720")
+Отлично! Это же чертовски простой план, как привлекать в нашу отрасль новые кадры :\) [twitter.com/safrankov/stat…](https://t.co/EmZx4i2kNP "https://twitter.com/safrankov/status/601687402428702720")
 
 RT [@soider](https://twitter.com/soider "Michael Sakhnov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@VovanR](https://twitter.com/VovanR "Vladimir Rodkin") знаю одного дизайнера бывшего админа. Не эникейщика, а вполне нормального сетевика в провайдере.
 
 RT [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@green343](https://twitter.com/green343 "Rogozhkin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") освоил какие нибудь профессии еще?
 
-.[@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") Что до меня, я верстаю для полиграфии, в меру фотошоплю, сисадминю, знаю основы UI\/UX и перевожу для [frontender.info](http://t.co/eJDFpM7P5u "http://frontender.info") :\)
+.[@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") Что до меня, я верстаю для полиграфии, в меру фотошоплю, сисадминю, знаю основы UI/UX и перевожу для [frontender.info](http://t.co/eJDFpM7P5u "http://frontender.info") :\)
 
 .[@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") …это, конечно, скорее, навыки, а не профессии. Но когда диз забухал, а надо оконтурить иконки в svg, и Jack of all trades сойдёт
 
@@ -532,7 +526,7 @@ RT [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@jsunderhood](ht
 
 RT [@green343](https://twitter.com/green343 "Rogozhkin"): [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") плитку умею, электрику\(3 года назад научился\); после ряда внедрений могу работать менеджером в некото…
 
-Ещё из книг очень хвалили [amazon.ca\/Field-Guide-Un…](http://t.co/FXmQrE3P6U "http://www.amazon.ca/Field-Guide-Understanding-Human-Error/dp/0754648265")
+Ещё из книг очень хвалили [amazon.ca/Field-Guide-Un…](http://t.co/FXmQrE3P6U "http://www.amazon.ca/Field-Guide-Understanding-Human-Error/dp/0754648265")
 
 Иногда, когда мне очень грустно, я хочу бросить вебдев и стать водителем маршрутки
 
@@ -544,7 +538,7 @@ RT [@Dmiterko\_Roman](https://twitter.com/Dmiterko_Roman "Рома"): [@jsunderh
 
 RT [@evlogii](https://twitter.com/evlogii "Evlogiy Sutormin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") книга очень средняя на троечку
 
-На [twitter.com\/jsunderhood\/st…](https://t.co/y0vmHQN3cE "https://twitter.com/jsunderhood/status/601700901796065281") много интересных ответов
+На [twitter.com/jsunderhood/st…](https://t.co/y0vmHQN3cE "https://twitter.com/jsunderhood/status/601700901796065281") много интересных ответов
 
 RT [@arik0n](https://twitter.com/arik0n "Sergey Belov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У этого вопроса есть ответ, отличный от «никак»
 
@@ -572,7 +566,7 @@ RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood]
 
 RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") там, где проседает один программист, подхватывает другой и наоборот — получается довольно эффективно
 
-RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [youtube.com\/watch?v=F\_cD6X…](https://t.co/yjkLKKv65M "https://www.youtube.com/watch?v=F_cD6XOrfAc") вот кстати достаточно подробная лекция на тему
+RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [youtube.com/watch?v=F\_cD6X…](https://t.co/yjkLKKv65M "https://www.youtube.com/watch?v=F_cD6XOrfAc") вот кстати достаточно подробная лекция на тему
 
 RT [@Vitalliumm](https://twitter.com/Vitalliumm "Vitaly Slobodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а есть такие? \(из дева\) :\)
 
@@ -584,7 +578,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@sc0rp1d](https://twitter.com/sc0rp1d "Mark Langovoi") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Привет, меня зовут Александр и я программирую дома уже 12 лет…\*всхлипывает\*
 
-RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): Только вряд ли у кого-то есть хобби "фиксить баги" или "разбирать чужой говнокод". А это приходится тоже делать https:\/\/t.c[twitter.com\/jsunderhood\/st…](https://t.co/02rpsJPhn6 "https://twitter.com/jsunderhood/status/601756042897285120")
+RT [@rusgautama](https://twitter.com/rusgautama "Rus Buddha"): Только вряд ли у кого-то есть хобби "фиксить баги" или "разбирать чужой говнокод". А это приходится тоже делать https://t.c[twitter.com/jsunderhood/st…](https://t.co/02rpsJPhn6 "https://twitter.com/jsunderhood/status/601756042897285120")
 
 .[@rusgautama](https://twitter.com/rusgautama "Rus Buddha") С адским говнокодом я — тьфу-тьфу — уже сталкиваюсь нечасто. А правка багов — это медитативный процесс, улучшение Вселенной
 
@@ -608,7 +602,7 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 RT [@okertanov](https://twitter.com/okertanov "Oleg Kertanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") идиотизм
 
-Cheers! [pic.twitter.com\/lXkOX9TYe9](http://t.co/lXkOX9TYe9)
+Cheers! [pic.twitter.com/lXkOX9TYe9](http://t.co/lXkOX9TYe9)
 
 RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr") тогда я с коллегами работаю в утопии ;-\) у нас уже триплпрограммирование работает, пробуем квадропрогр…
 
@@ -636,8 +630,7 @@ RT [@tommy\_diaver](https://twitter.com/tommy_diaver "Aнтoн Kапycтин"): 
 
 ## Суббота <small>75 твитов</small>
 
-Одна из моих излюбленных «дисциплин» js-гольфа — злоупотребление DOM и BOM. Например,
-var escapedHTML = new Option\(”&lt;"\).innerHTML; \/\/ "&amp;lt;"
+Одна из моих излюбленных «дисциплин» js-гольфа — злоупотребление DOM и BOM. Например,<br />var escapedHTML = new Option\(”&lt;"\).innerHTML; // "&amp;lt;"
 
 В том же [jsfuck.com](http://t.co/CT444OU1Mp "http://jsfuck.com/") символ "&lt;" добывается весьма изощрённым способом: ““.italics\(\)\[0\]
 
@@ -645,14 +638,13 @@ var escapedHTML = new Option\(”&lt;"\).innerHTML; \/\/ "&amp;lt;"
 
 RT [@kuksikus](https://twitter.com/kuksikus "R.M."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, жена только рада, что я развиваюсь профессионально\) но до трёх не сидел, максимум пару часов после работы
 
-RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Мне кажется что настоящие айтишники — они до мозга костей. И, конечно, же прогят\/админят\/изучают\/читают во вне р…
+RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Мне кажется что настоящие айтишники — они до мозга костей. И, конечно, же прогят/админят/изучают/читают во вне р…
 
-RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") → но жены\/подруги, если они не айтишницы, обычно смотрят на это не очень воодушевленно. У меня так.
+RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") → но жены/подруги, если они не айтишницы, обычно смотрят на это не очень воодушевленно. У меня так.
 
-Вопрос читателям:
-Есть строка с таким содержимым: текст в UTF-8, закодированный в base64. Как его оттуда вытащить на клиенте?
+Вопрос читателям:<br />Есть строка с таким содержимым: текст в UTF-8, закодированный в base64. Как его оттуда вытащить на клиенте?
 
-RT [@vkurchatkin](https://twitter.com/vkurchatkin "vkurchatkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему нестандартные-то? Annex B: [people.mozilla.org\/~jorendorff\/es…](https://t.co/Ktf3ovwli9 "https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object")
+RT [@vkurchatkin](https://twitter.com/vkurchatkin "vkurchatkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему нестандартные-то? Annex B: [people.mozilla.org/~jorendorff/es…](https://t.co/Ktf3ovwli9 "https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object")
 
 .[@vkurchatkin](https://twitter.com/vkurchatkin "vkurchatkin") Забавно, похоже их уже «легализовали». В es5 их не было
 
@@ -662,7 +654,7 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 RT [@vkurchatkin](https://twitter.com/vkurchatkin "vkurchatkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") такой еще есть стандарт: [javascript.spec.whatwg.org](https://t.co/WwCA4WjzaW "https://javascript.spec.whatwg.org/")
 
-RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [developer.mozilla.org\/en-US\/docs\/Web…](https://t.co/5h0Et9xVLt "https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding#The_.22Unicode_Problem.22") Solution 1, функция b64\_to\_utf8. Работает в IE10+ и остальных браузерах.
+RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [developer.mozilla.org/en-US/docs/Web…](https://t.co/5h0Et9xVLt "https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding#The_.22Unicode_Problem.22") Solution 1, функция b64\_to\_utf8. Работает в IE10+ и остальных браузерах.
 
 .[@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko") Йеп! Это как раз тот случай, когда два метода со странным поведением дают ровно то, что нужно
 
@@ -698,37 +690,29 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 .[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@DimkaSerov](https://twitter.com/DimkaSerov "Dmitry Serov") Раньше я мог потратить три дня, чтобы отконфигать и вылизать Миранду или Тотал с нуля. Но уже как-то надоело
 
-Вот ещё загадка на смекалку: как проще всего  в браузере редиректнуть на другой домен, то тот же uri? Скажем с foo.сom\/bar\/ на baz.сom\/bar\/
+Вот ещё загадка на смекалку: как проще всего  в браузере редиректнуть на другой домен, то тот же uri? Скажем с foo.сom/bar/ на baz.сom/bar/
 
 RT [@mostolovista](https://twitter.com/mostolovista "Georgiy Mostolovitsa"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [location.host](http://t.co/GSGtnluwR7 "http://location.host") = ‘[baz.com](http://t.co/kXSBBgdItq "http://baz.com")’?
 
 .[@mostolovista](https://twitter.com/mostolovista "Georgiy Mostolovitsa") В точку!
 
-Ещё задачка для скучающих джаваскриптстеров \(если ещё не надоело\), какая строка будет соостветствовать регулярке: \/\(\cb\)\1\2\/
+Ещё задачка для скучающих джаваскриптстеров \(если ещё не надоело\), какая строка будет соостветствовать регулярке: /\(\\cb\)\\1\\2/
 
 Самый «завальный» вопрос, который можно задать на собеседовании, это не про равно-равно и сложение строк с числами…
 
-…вот кто уверен, что знает, что вернёт такая функция?
-function foo\(\){
-try { return 1}
-finally { return 2}
-}
+…вот кто уверен, что знает, что вернёт такая функция?<br />function foo\(\){<br />try { return 1}<br />finally { return 2}<br />}
 
 RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 2 она всегда вернет. Инфа 100%
 
-Уважаемые Знатоки, внимание, ответ: "\x02\x02\x02"
+Уважаемые Знатоки, внимание, ответ: "\\x02\\x02\\x02"
 
-… \cb — это Ctrl-b, т.е, \x02. \1 — ссылка на первую скобку, которая явно равна \x02. А второй скобки нет, поэтому \2 парсистся как \002
+… \\cb — это Ctrl-b, т.е, \\x02. \\1 — ссылка на первую скобку, которая явно равна \\x02. А второй скобки нет, поэтому \\2 парсистся как \\002
 
-Вот ещё кусочек «адокода»:
-with\({foo: 42}\){
-  var foo = 33;
-}
-Как оно отработает?
+Вот ещё кусочек «адокода»:<br />with\({foo: 42}\){<br />  var foo = 33;<br />}<br />Как оно отработает?
 
 RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") правильный ответ - кинет ошибку, т.к. должен быть 'use strict', блеат. А вообще в объекте foo станет равным 33.
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com\/TQCS1O8Jj5](http://t.co/TQCS1O8Jj5)
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/TQCS1O8Jj5](http://t.co/TQCS1O8Jj5)
 
 .[@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko") тут можно ещё дополнить, что переменная foo всё же объявится \(= undefined\)
 
@@ -742,7 +726,7 @@ RT [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev"): [@jsunderhoo
 
 RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") с ним только так и надо работать!… жаль нет нормальных редакторов :-\(
 
-Желание поработать с AST появилось после ужасного хака, где код парсился регуляркой. И вылилось в [npmjs.com\/package\/rhubarb](https://t.co/ZqgZbwC62O "https://www.npmjs.com/package/rhubarb")
+Желание поработать с AST появилось после ужасного хака, где код парсился регуляркой. И вылилось в [npmjs.com/package/rhubarb](https://t.co/ZqgZbwC62O "https://www.npmjs.com/package/rhubarb")
 
 На всякий случай: никогда, слышите, никогда! не парсите js регулярками!
 
@@ -774,19 +758,17 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 Кто-нибудь может посоветовать REPL джаваскрипта под андроид? Для проверки чего-нибудь в полевых условиях пользуюсь repl.it, не очень удобно
 
-RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com\/jxcore\/jxcore](https://t.co/W52mh9p0Op "https://github.com/jxcore/jxcore") + repl его, мб?
+RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/jxcore/jxcore](https://t.co/W52mh9p0Op "https://github.com/jxcore/jxcore") + repl его, мб?
 
-.[@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") Выглядит очень многообещающе, особенно после полуживого anode \([github.com\/paddybyers\/ano…](https://t.co/3l1BqSS4Ay "https://github.com/paddybyers/anode")\)
+.[@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") Выглядит очень многообещающе, особенно после полуживого anode \([github.com/paddybyers/ano…](https://t.co/3l1BqSS4Ay "https://github.com/paddybyers/anode")\)
 
 Джаваскипт со скрипом, медленно, но верно расползается по платформам и скоро будет в вашем холодильнике. Если его ещё там нет, конечно
 
-RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот этот доклад гляньте, там пример реальный. [abstract.properties\/jsconfbp-2015\/](http://t.co/CNOiCBw0Fk "http://abstract.properties/jsconfbp-2015/")
+RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот этот доклад гляньте, там пример реальный. [abstract.properties/jsconfbp-2015/](http://t.co/CNOiCBw0Fk "http://abstract.properties/jsconfbp-2015/")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") йеп
-The JS World Domination [medium.com\/@slsoftworks\/j…](https://t.co/T3mvR15hwc "https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070")
-и The Birth &amp; Death of JS [destroyallsoftware.com\/talks\/the-birt…](https://t.co/1QfrPtj7Tw "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript") http:\/\/t[pic.twitter.com\/7qOsUUz4d8](http://t.co/7qOsUUz4d8)
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") йеп<br />The JS World Domination [medium.com/@slsoftworks/j…](https://t.co/T3mvR15hwc "https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070")<br />и The Birth &amp; Death of JS [destroyallsoftware.com/talks/the-birt…](https://t.co/1QfrPtj7Tw "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript") http://t[pic.twitter.com/7qOsUUz4d8](http://t.co/7qOsUUz4d8)
 
-Тащемта, даже Рендалл Манро не обошёл это явление стороной [xkcd.com\/1508\/](https://t.co/kb6nfwqZ5T "https://xkcd.com/1508/")
+Тащемта, даже Рендалл Манро не обошёл это явление стороной [xkcd.com/1508/](https://t.co/kb6nfwqZ5T "https://xkcd.com/1508/")
 
 RT [@Moroz\_v](https://twitter.com/Moroz_v "Moroz_v"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") конкуренты: Python или Go, близки или далеки от js в этом деле ?
 
@@ -794,13 +776,13 @@ RT [@Moroz\_v](https://twitter.com/Moroz_v "Moroz_v"): [@jsunderhood](https://tw
 
 .[@Moroz\_v](https://twitter.com/Moroz_v "Moroz_v") Как обстоят дела с Go увы, не знаю. О Go или Dart я слышу только когда собирается очередной митап по Go или Dart
 
-.[@Moroz\_v](https://twitter.com/Moroz_v "Moroz_v") Весьма вероятно, JS как таковой ни при чём, и любой браузерный язык был бы так же популярен. Снова Ренделл [xkcd.com\/1367\/](https://t.co/lQJVdCJ182 "https://xkcd.com/1367/")
+.[@Moroz\_v](https://twitter.com/Moroz_v "Moroz_v") Весьма вероятно, JS как таковой ни при чём, и любой браузерный язык был бы так же популярен. Снова Ренделл [xkcd.com/1367/](https://t.co/lQJVdCJ182 "https://xkcd.com/1367/")
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") меня вот ещё один вопрос интересует у Python или Go есть такое же сообщество и пакетный менеджер, как у JS?
 
 ## Воскресенье <small>107 твитов</small>
 
-Вопрос [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") превратился в интересное обсуждение пакетных менеджеров [twitter.com\/iamstarkov\/sta…](https://t.co/jwX1jCEVvA "https://twitter.com/iamstarkov/status/602219793945653248?s=09")
+Вопрос [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") превратился в интересное обсуждение пакетных менеджеров [twitter.com/iamstarkov/sta…](https://t.co/jwX1jCEVvA "https://twitter.com/iamstarkov/status/602219793945653248?s=09")
 
 Похоже, и в других языках наметился переход от глобальной установки модулей к локальной \(у каждого проекта своё собственное окружение\)
 
@@ -820,9 +802,7 @@ RT [@sagrenite](https://twitter.com/sagrenite "Konstantin Sazonov"): [@jsunderho
 
 .[@sagrenite](https://twitter.com/sagrenite "Konstantin Sazonov") Примерно в одно время со мной. Жаль, мне тогда никто не сказал For great justice использовать virtualenv
 
-float: left;
-display: inline;
-Кто-нибудь ещё помнит, зачем эти два CSS-свойства применяются вместе? :\)
+float: left;<br />display: inline;<br />Кто-нибудь ещё помнит, зачем эти два CSS-свойства применяются вместе? :\)
 
 RT [@Denis\_dp](https://twitter.com/Denis_dp "Denis Sergeevich"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что за дичь?\)
 
@@ -838,7 +818,7 @@ RT [@rainrb](https://twitter.com/rainrb "rainrb"): [@jsunderhood](https://twitte
 
 RT [@xufocoder](https://twitter.com/xufocoder "Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") tables, inline-css :\(
 
-RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вот таблица, полная боли: [templates.mailchimp.com\/resources\/emai…](http://t.co/DsuBaF5Ccy "http://templates.mailchimp.com/resources/email-client-css-support/")
+RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вот таблица, полная боли: [templates.mailchimp.com/resources/emai…](http://t.co/DsuBaF5Ccy "http://templates.mailchimp.com/resources/email-client-css-support/")
 
 RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): Специально для подписчиков [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"), которые просили больше ада и шуток - твиттер [@horse\_js](https://twitter.com/horse_js "Horse JS")!
 
@@ -848,7 +828,7 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@bashmish]
 
 Чуть больше девяти часов остаётся мне на подкапотном посту. Пожалуй, я уже спросил и рассказал всё, что хотел.
 
-Что не рассказал, можете почитать тут [gist.github.com\/subzey](https://t.co/ntqiAfVTpL "https://gist.github.com/subzey") или тут [habrahabr.ru\/users\/subzey\/t…](http://t.co/y4yqkPXe1p "http://habrahabr.ru/users/subzey/topics/")
+Что не рассказал, можете почитать тут [gist.github.com/subzey](https://t.co/ntqiAfVTpL "https://gist.github.com/subzey") или тут [habrahabr.ru/users/subzey/t…](http://t.co/y4yqkPXe1p "http://habrahabr.ru/users/subzey/topics/")
 
 В оставшееся время я поотвечаю на ваши вопросы. Задавайте любые, даже не связанные с вебдевом
 
@@ -868,19 +848,19 @@ RT [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@jsunderhood](ht
 
 RT [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какие у тебя музыкальные пристрастия?
 
-.[@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") По большей части Industrial rock\/metal, IDM, ambient и chiptune
+.[@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor") По большей части Industrial rock/metal, IDM, ambient и chiptune
 
 RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я — джуниор, читавший Code Complete и учивший JS по MDN. Что мне стоит почитать?
 
 .[@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") Почитай «The Good Parts», и айда фигачить код! Только практика, только хардкор, а там по ходу и сам поймёшь, что ещё почитать
 
-RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ну и вдогонку: какие книги\/ресурсы\/навыки\/etc тебе больше всего помогли в карьере и развитии?
+RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ну и вдогонку: какие книги/ресурсы/навыки/etc тебе больше всего помогли в карьере и развитии?
 
 .[@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") javascript.ru и как ни странно, стандарт ES5 в переводе Д. Сошникова. Ну и остальное по мелочи, уже не помню
 
 .[@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") Ах, да, код сам по себе хорошая книга. Можно открыть сорц какого-нибудь jquery или underscore и изучать, как пишут маститые кодеры
 
-RT [@xufocoder](https://twitter.com/xufocoder "Sergey"): [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Пробовал на досуге как-то пособирать gist получился небольшой [gist.github.com\/ufocoder\/13eb3…](https://t.co/Oct0mivIXe "https://gist.github.com/ufocoder/13eb354d9463850d654b")
+RT [@xufocoder](https://twitter.com/xufocoder "Sergey"): [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Пробовал на досуге как-то пособирать gist получился небольшой [gist.github.com/ufocoder/13eb3…](https://t.co/Oct0mivIXe "https://gist.github.com/ufocoder/13eb354d9463850d654b")
 
 RT [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") jQuery скорее учебник того, как не надо писать. По крайней мере в 2015 году.
 
@@ -892,18 +872,15 @@ jQuery можно поблагодарить за популяризацию ч�
 
 Например, метод .end\(\). Используется чуть чаще, чем никогда. А ссылку на предыдущий объект держит, отличное место для утечки памяти
 
-…в каком-то из плагинов было что-то вроде setInterval\(fn\(\){
-null = null.closest\(".foo"\);
-}
-Ух, как оно текло!
+…в каком-то из плагинов было что-то вроде setInterval\(fn\(\){<br />$a = $a.closest\(".foo"\);<br />}<br />Ух, как оно текло!
 
 Или вот: в ноде .emit\(\) возвращает то, было ли обработано событие. В DOM dispatchEvent — то, был ли он defaultPrevented…
 
 В jquery $\(…\).trigger\(\) возвращает this. А зачем нам знать, было обработано событие или нет? Чейнинг-то важнее
 
-RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") помимо JS, на чем разрабатываешь\/что изучаешь и почему? Нравится ли?
+RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") помимо JS, на чем разрабатываешь/что изучаешь и почему? Нравится ли?
 
-.[@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko") ответил чуть выше, [twitter.com\/jsunderhood\/st…](https://t.co/aSlHk9NK1b "https://twitter.com/jsunderhood/status/602444280716734464?s=09") Сейчас изучаю Open\/WebGL, без фреймворков WebGL — злая вещь, но пока не унываю\)
+.[@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko") ответил чуть выше, [twitter.com/jsunderhood/st…](https://t.co/aSlHk9NK1b "https://twitter.com/jsunderhood/status/602444280716734464?s=09") Сейчас изучаю Open/WebGL, без фреймворков WebGL — злая вещь, но пока не унываю\)
 
 RT [@DimkaSerov](https://twitter.com/DimkaSerov "Dmitry Serov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что ты думаешь на счёт раскладок ? Дворака и тд?
 
@@ -921,7 +898,7 @@ RT [@DimkaSerov](https://twitter.com/DimkaSerov "Dmitry Serov"): [@jsunderhood](
 
 RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я сейчас верстаю письмо. Это как и прежде ужас: таблицы, inline CSS. Только Premailer немного упрощает жизнь.
 
-Кстати, разработчики, как у вас с английским языком? Общаетесь ли вы с иностранными коллегами в скайпе\/слэке\/чем-нибудь ещё?
+Кстати, разработчики, как у вас с английским языком? Общаетесь ли вы с иностранными коллегами в скайпе/слэке/чем-нибудь ещё?
 
 Я частенько переписываюсь с французами, они говорят, что у них английский знают практически все
 
@@ -933,23 +910,23 @@ RT [@DimkaSerov](https://twitter.com/DimkaSerov "Dmitry Serov"): .[@jsunderhood]
 
 RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на работе все общение на английском языке, 95% всей информации из англоязычных источников, ну и общение с комм…
 
-RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Общаюсь только на англ, но с сообществом из России\/Украины\/Беларуси - по русски
+RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Общаюсь только на англ, но с сообществом из России/Украины/Беларуси - по русски
 
-RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev") есть такой how-to по верстке писем [habrahabr.ru\/company\/pechki…](http://t.co/nDRvfNBJ9u "http://habrahabr.ru/company/pechkin/blog/255819/") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev") есть такой how-to по верстке писем [habrahabr.ru/company/pechki…](http://t.co/nDRvfNBJ9u "http://habrahabr.ru/company/pechkin/blog/255819/") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") можно было сразу ссылку дать на профиль [@DmitrySoshnikov](https://twitter.com/DmitrySoshnikov "Dmitry Soshnikov") :\)
 
 RT [@Krivlenia](https://twitter.com/Krivlenia "Константин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Если в целом говорить в рамках event drivent development, то нам действительно не нужно знать обработалось ли с…
 
-Вы наверняка видели выступление Вадима Макишвили «36» [youtu.be\/xPPCzryZK44](http://t.co/BaEqqrLIcU "http://youtu.be/xPPCzryZK44"). Делюсь ссылкой на его новое выступление [youtu.be\/iBHr8gKc5L8](http://t.co/4UUtW1t3pF "http://youtu.be/iBHr8gKc5L8")
+Вы наверняка видели выступление Вадима Макишвили «36» [youtu.be/xPPCzryZK44](http://t.co/BaEqqrLIcU "http://youtu.be/xPPCzryZK44"). Делюсь ссылкой на его новое выступление [youtu.be/iBHr8gKc5L8](http://t.co/4UUtW1t3pF "http://youtu.be/iBHr8gKc5L8")
 
-RT [@VovanR](https://twitter.com/VovanR "Vladimir Rodkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") отличная идея про this [gist.github.com\/subzey\/8115612](https://t.co/PHEJ17fmjJ "https://gist.github.com/subzey/8115612") Еще нигде не встречал до этого
+RT [@VovanR](https://twitter.com/VovanR "Vladimir Rodkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") отличная идея про this [gist.github.com/subzey/8115612](https://t.co/PHEJ17fmjJ "https://gist.github.com/subzey/8115612") Еще нигде не встречал до этого
 
 .[@VovanR](https://twitter.com/VovanR "Vladimir Rodkin") Рад, что понравилось!
 
 RT [@VovanR](https://twitter.com/VovanR "Vladimir Rodkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") хватает только на чтение и написание комментариев к коду. Разговаривать не с кем, так как никто не знает английски…
 
-Я всё думаю, в coffescript же нельзя принудительно объявить переменную как локальную \([coffeescript.org\/\#try:%23%20%D1…](http://t.co/SQzSG0G1gA "http://coffeescript.org/#try:%23%20%D1%83%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%0Astate%20%3D%20%7B%7D%0A%0A%23%20...%20100%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%20%D1%81%D0%BF%D1%83%D1%81%D1%82%D1%8F%0A%0Apluck%20%3D%20(arr)-%3E%0A%20%20state.foo%20for%20state%20in%20arr%0A%0A")\) и нет неймспейсов…
+Я всё думаю, в coffescript же нельзя принудительно объявить переменную как локальную \([coffeescript.org/\#try:%23%20%D1…](http://t.co/SQzSG0G1gA "http://coffeescript.org/#try:%23%20%D1%83%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%0Astate%20%3D%20%7B%7D%0A%0A%23%20...%20100%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%20%D1%81%D0%BF%D1%83%D1%81%D1%82%D1%8F%0A%0Apluck%20%3D%20(arr)-%3E%0A%20%20state.foo%20for%20state%20in%20arr%0A%0A")\) и нет неймспейсов…
 
 …товарищи кофескриптеры, вы что, все имена глобальных \(или в общем случае из внешних скопов\) переменных запоминаете?
 
@@ -965,11 +942,7 @@ RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood]
 
 RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") иногда, зависит от обстоятельств. Точно нет если я - один разработчик на проекте :\) И да, стараюсь не делать вай…
 
-Я считаю, singlevar — плохая практика. После мержа может остаться
-var a=1,
-b=2;
-c=3;
-«Одна переменная — один var» в этом железобетонно.
+Я считаю, singlevar — плохая практика. После мержа может остаться<br />var a=1,<br />b=2;<br />c=3;<br />«Одна переменная — один var» в этом железобетонно.
 
 …да и замена ; на , меняет строку и делает тебя последним в блейме :\)
 
@@ -981,11 +954,11 @@ RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): [@jsunderh
 
 RT [@lancedikson](https://twitter.com/lancedikson "Denis Demchenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") поэтому, отвечая на твой вопрос: да, стараюсь задумываться обо всём, что делаю
 
-RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а что есть из годных программ периодические перерывы\/нотификейшены делать под мак?
+RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а что есть из годных программ периодические перерывы/нотификейшены делать под мак?
 
 .[@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") Я на работе под виндами. Подсказка зала?
 
-Эксперимента ради использовал в одной строчке let, стрелочную функцию, дестр. присваивание и аргументы по умолчанию: [babeljs.io\/repl\/\#?experim…](https://t.co/bbnTn6CB8S "https://babeljs.io/repl/#?experimental=true&evaluate=true&loose=false&spec=false&code=let%20foo%20%3D%20(%7Bbar%20%3D%2042%2C%20baz%7D%20%3D%20%7B%7D)%20%3D%3E%20console.log(bar%2C%20baz)%20%20%0A%0Afoo()%3B%0Afoo(%7B%7D)%0Afoo(%7Bbar%3A%2033%7D)%0A")
+Эксперимента ради использовал в одной строчке let, стрелочную функцию, дестр. присваивание и аргументы по умолчанию: [babeljs.io/repl/\#?experim…](https://t.co/bbnTn6CB8S "https://babeljs.io/repl/#?experimental=true&evaluate=true&loose=false&spec=false&code=let%20foo%20%3D%20(%7Bbar%20%3D%2042%2C%20baz%7D%20%3D%20%7B%7D)%20%3D%3E%20console.log(bar%2C%20baz)%20%20%0A%0Afoo()%3B%0Afoo(%7B%7D)%0Afoo(%7Bbar%3A%2033%7D)%0A")
 
 …Тото, мне кажется, мы больше не в Канзасе.
 
@@ -1017,12 +990,11 @@ RT [@iPoplava](https://twitter.com/iPoplava "Igor Poplavsky"): [@listochkin](htt
 
 Вот вам на прощание микроскопическая демка:
 
-eval\(unescape\(escape\('𬱥𭁉𫡴𩑲𭡡𫀨𡡵𫡣𭁩𫱮𚀧𚁥👣𫱮𬱯𫁥𚐮𨱬𩑡𬠦𙡥𛡣𫁥𨑲𚀩𛁥𛡬𫱧𚀧𚰨𨰽𙰢𧁜𫠢𚰧𚐫𚁡🐧𠑲𬡡𮐨𜐶𚐮𪡯𪑮𚁩🰢𘂷𘠺𘢷𘀢𚐫𙰩𚱣𚰨𨠽𙰢𛡜𙰢𦱩𙠱𧐫𙰩𚰧𚁩🐡𪐬𘠠𥁨𨑮𪰠𮑯𭐡𘀭𛐠𠁪𬱕𫡤𩑲𢁯𫱤𘀢𚐫𙰫𨠫𨰫𨐫𙰢𘠩𙰩𛁩🐱𩐳𚐠'\).replace\(\/uD.\/g,''\)\)\)
+eval\(unescape\(escape\('𬱥𭁉𫡴𩑲𭡡𫀨𡡵𫡣𭁩𫱮𚀧𚁥👣𫱮𬱯𫁥𚐮𨱬𩑡𬠦𙡥𛡣𫁥𨑲𚀩𛁥𛡬𫱧𚀧𚰨𨰽𙰢𧁜𫠢𚰧𚐫𚁡🐧𠑲𬡡𮐨𜐶𚐮𪡯𪑮𚁩🰢𘂷𘠺𘢷𘀢𚐫𙰩𚱣𚰨𨠽𙰢𛡜𙰢𦱩𙠱𧐫𙰩𚰧𚁩🐡𪐬𘠠𥁨𨑮𪰠𮑯𭐡𘀭𛐠𠁪𬱕𫡤𩑲𢁯𫱤𘀢𚐫𙰫𨠫𨰫𨐫𙰢𘠩𙰩𛁩🐱𩐳𚐠'\).replace\(/uD./g,''\)\)\)
 
 …да, это тоже исполняемый код, не бойтесь, скопируйте и запустите его в консоли браузера или ноды :\)
 
-На этой неделе с вами был Антон [@subzey](https://twitter.com/subzey "subzey") Хлыновский.
-Для меня это было очень новым, необычайно интересным впечатлением. Вы офигенные!
+На этой неделе с вами был Антон [@subzey](https://twitter.com/subzey "subzey") Хлыновский.<br />Для меня это было очень новым, необычайно интересным впечатлением. Вы офигенные!
 
 ## Ссылки
 

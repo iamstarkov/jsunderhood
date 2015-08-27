@@ -20,9 +20,9 @@ RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@js
 
 .[@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") да, смотрели ещё с первых коммитов в css-loader – сама идея уникального локального скоупа для стилей компонента заманчивая.
 
-.[@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") но лично мне совсем не нравится подход к внедрению этого в React – [github.com\/css-modules\/cs…](https://t.co/tekip9QFqk "https://github.com/css-modules/css-modules/blob/master/examples/theming.md#theming") – когда компонент думает о теме.
+.[@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov") но лично мне совсем не нравится подход к внедрению этого в React – [github.com/css-modules/cs…](https://t.co/tekip9QFqk "https://github.com/css-modules/css-modules/blob/master/examples/theming.md#theming") – когда компонент думает о теме.
 
-для всех – тема CSS Modules началась примерно отсюда [github.com\/webpack\/css-lo…](https://t.co/I9nbsCi5Dm "https://github.com/webpack/css-loader#local-scope"), и развивается дальше здесь [github.com\/css-modules](https://t.co/Ivf0SsyjZx "https://github.com/css-modules")
+для всех – тема CSS Modules началась примерно отсюда [github.com/webpack/css-lo…](https://t.co/I9nbsCi5Dm "https://github.com/webpack/css-loader#local-scope"), и развивается дальше здесь [github.com/css-modules](https://t.co/Ivf0SsyjZx "https://github.com/css-modules")
 
 идея в чём-то гениальна: css-loader для webpack превращает классы из стилей в хэши, которые потом экспортируются как из обычного js-модуля.
 
@@ -44,27 +44,27 @@ RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@js
 
 RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У вас есть где-то снаружи project-stub или мини-проект, где можно увидеть как именно это красиво переплетено?
 
-.[@toivonens](https://twitter.com/toivonens "var ya; // ru") "стаба" нет, мы слишком ленивые и занятые. есть только все нужные технологии [github.com\/yummies\/yummies](https://t.co/JfwnUFvEeX "https://github.com/yummies/yummies") + [github.com\/yummies\/babel-…](https://t.co/TpvMzn8asB "https://github.com/yummies/babel-plugin-yummies")
+.[@toivonens](https://twitter.com/toivonens "var ya; // ru") "стаба" нет, мы слишком ленивые и занятые. есть только все нужные технологии [github.com/yummies/yummies](https://t.co/JfwnUFvEeX "https://github.com/yummies/yummies") + [github.com/yummies/babel-…](https://t.co/TpvMzn8asB "https://github.com/yummies/babel-plugin-yummies")
 
-кстати, как вам затея с эмоджи в коммитах? [github.com\/yummies\/genera…](https://t.co/8RB2j8G8Os "https://github.com/yummies/generator-yummies-repo/blob/master/app/templates/CONTRIBUTING.md#commit-emojis") 😼
+кстати, как вам затея с эмоджи в коммитах? [github.com/yummies/genera…](https://t.co/8RB2j8G8Os "https://github.com/yummies/generator-yummies-repo/blob/master/app/templates/CONTRIBUTING.md#commit-emojis") 😼
 
-RT [@kompotium](https://twitter.com/kompotium "Anton Fedchenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") мне вот этот стартер кит понравился из последних [github.com\/cdebotton\/reac…](https://t.co/QJxzy1fkNs "https://github.com/cdebotton/react-universal") там есть css modules
+RT [@kompotium](https://twitter.com/kompotium "Anton Fedchenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") мне вот этот стартер кит понравился из последних [github.com/cdebotton/reac…](https://t.co/QJxzy1fkNs "https://github.com/cdebotton/react-universal") там есть css modules
 
-собственно, основная идея React + BEM в том, что JSX – говно, а BEMJSON – добро [github.com\/yummies\/yummie…](https://t.co/tXgceVaD8Y "https://github.com/yummies/yummies#overview")
+собственно, основная идея React + BEM в том, что JSX – говно, а BEMJSON – добро [github.com/yummies/yummie…](https://t.co/tXgceVaD8Y "https://github.com/yummies/yummies#overview")
 
-дальше – наследование [github.com\/yummies\/core-c…](https://t.co/wJBZRIWcSP "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6"), ещё дальше – "уровни переопределения" или, как мы их называем, "слои" [github.com\/yummies\/babel-…](https://t.co/TpvMzn8asB "https://github.com/yummies/babel-plugin-yummies")
+дальше – наследование [github.com/yummies/core-c…](https://t.co/wJBZRIWcSP "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6"), ещё дальше – "уровни переопределения" или, как мы их называем, "слои" [github.com/yummies/babel-…](https://t.co/TpvMzn8asB "https://github.com/yummies/babel-plugin-yummies")
 
-BEM-модификатор – это класс, который \(автоматически\) наследуется от класса react-компонента и до\/переопределяет BEMJSON из его render\(\)'а.
+BEM-модификатор – это класс, который \(автоматически\) наследуется от класса react-компонента и до/переопределяет BEMJSON из его render\(\)'а.
 
 про это всё определённо нужна отдельная статья + отдельный стартер-кит, но я уже даже не решаюсь давать обещания, всё тянется уже с мая.
 
 самое крутое, что это в принципе никак не отменяет ни компоненты высшего порядка, ни декораторы, ни прочие подходы. очень удачно уложилось.
 
-уже в черновиках статья. в целом – Flux может быть абсолютно любым. RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на чью реализацию похож ваш [flux](https://twitter.com/search?q=%23flux) ?
+уже в черновиках статья. в целом – Flux может быть абсолютно любым. RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на чью реализацию похож ваш [#flux](https://twitter.com/search?q=%23flux) ?
 
 завтра будет день Flux: иммутабельные деревья, единое состояние, курсоры, GraphQL-like декларативность, префетчинг на сервере, изоморфность.
 
-RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как вы относитесь к [@WebComponents](https://twitter.com/WebComponents "Web Components")  ? Правда ли что появление [react](https://twitter.com/search?q=%23react) есть следствие провала компонентов ?
+RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как вы относитесь к [@WebComponents](https://twitter.com/WebComponents "Web Components")  ? Правда ли что появление [#react](https://twitter.com/search?q=%23react) есть следствие провала компонентов ?
 
 .[@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev") личное моё мнение – это мертворожденная технология, которую зря пытаются форсить. React появился из-за общей убогости DOM.
 
@@ -74,33 +74,29 @@ RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood
 
 .[@operatino](https://twitter.com/operatino "Robert Haritonov") в конечном итоге импортируется фабрика уже собранного и склеенного по всем уровням реакт-компонента.
 
-.[@operatino](https://twitter.com/operatino "Robert Haritonov") можно до\/переопределять что угодно, как в BEMHTML, хоть тэг, хоть внутренности.
+.[@operatino](https://twitter.com/operatino "Robert Haritonov") можно до/переопределять что угодно, как в BEMHTML, хоть тэг, хоть внутренности.
 
-довольно интересная концепция получилась с "темами" – тема просто является отдельным слоем, начиная с темы "reset" [github.com\/yummies\/theme-…](https://t.co/PBHDgGzA5J "https://github.com/yummies/theme-reset")
+довольно интересная концепция получилась с "темами" – тема просто является отдельным слоем, начиная с темы "reset" [github.com/yummies/theme-…](https://t.co/PBHDgGzA5J "https://github.com/yummies/theme-reset")
 
 RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") То есть это кастомная реализация сборки с мерджем компонентов? Без БЭМ шаблонизаторов? Какие тулзы замешаны?
 
 .[@operatino](https://twitter.com/operatino "Robert Haritonov") основа – webpack + Babel, кастомной сборки как таковой нет, всё нужное уже есть в webpack + немного магии через babel-плагин.
 
-пример корневого \`.yummies.yml\` из внутреннего проекта [gist.github.com\/deepsweet\/15c8…](https://t.co/rm2jmteBMg "https://gist.github.com/deepsweet/15c8f2eb3a85004adad0")
+пример корневого \`.yummies.yml\` из внутреннего проекта [gist.github.com/deepsweet/15c8…](https://t.co/rm2jmteBMg "https://gist.github.com/deepsweet/15c8f2eb3a85004adad0")
 
 видимо эта неделя наконец-то заставит нас с [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov") сделать starter-kit.
 
-магия заключается в спец. \#-импорте:
-
-import Example from '[example](https://twitter.com/search?q=%23example)';
-import ExampleTypeTestSizeBig from '[example](https://twitter.com/search?q=%23example)?\_type=test&amp;\_size=big';
+магия заключается в спец. \#-импорте:<br /><br />import Example from '[#example](https://twitter.com/search?q=%23example)';<br />import ExampleTypeTestSizeBig from '[#example](https://twitter.com/search?q=%23example)?\_type=test&amp;\_size=big';
 
 Babel-плагин матчится на символ \`\#\` в импорте и начинает искать файлы по слоям из конфига. находит – включает в цепочку наследований.
 
 в конечном итоге в Example попадает обычная фабрика реактового компонента, который отнаследован по очереди от класса каждого слоя.
 
-↓ [github.com\/yummies\/babel-…](https://t.co/MGoroGYIrb "https://github.com/yummies/babel-plugin-yummies#mods")
+↓ [github.com/yummies/babel-…](https://t.co/MGoroGYIrb "https://github.com/yummies/babel-plugin-yummies#mods")
 
-пример модификатора [github.com\/yummies\/core-c…](https://t.co/wJBZRIEBuf "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6") – \`super.render\(\)\`
+пример модификатора [github.com/yummies/core-c…](https://t.co/wJBZRIEBuf "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6") – \`super.render\(\)\`
 
-RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") много времени уже прошло, не сожалеешь? :\)
-1. что ушел из яндексов 2. что переехал во Вьетнам
+RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") много времени уже прошло, не сожалеешь? :\)<br />1. что ушел из яндексов 2. что переехал во Вьетнам
 
 .[@silentroach](https://twitter.com/silentroach "Игорь") 1\) не сожалею, по-моему я ушёл очень вовремя 2\) уже жалею :\) но опыт жизни в Азии всё равно очень интересный и бесценный.
 
@@ -128,25 +124,25 @@ RT [@beshur](https://twitter.com/beshur "Shu Buznik"): [@jsunderhood](https://tw
 
 .[@beshur](https://twitter.com/beshur "Shu Buznik") почему – без понятия, просто было интересно :\) вне офиса круглый год душное и влажное лето. вот уже почти год как живём.
 
-быстро набросал кое-какой Starter Kit [github.com\/yummies\/starte…](https://t.co/JIgzFXDRrE "https://github.com/yummies/starter-kit") 🔥
+быстро набросал кое-какой Starter Kit [github.com/yummies/starte…](https://t.co/JIgzFXDRrE "https://github.com/yummies/starter-kit") 🔥
 
-уже не представляю как можно жить без "Object Rest\/Spread Properties" [github.com\/sebmarkbage\/ec…](https://t.co/6LE8zf15HF "https://github.com/sebmarkbage/ecmascript-rest-spread") – даже если не войдёт в ES7, буду юзать плагин
+уже не представляю как можно жить без "Object Rest/Spread Properties" [github.com/sebmarkbage/ec…](https://t.co/6LE8zf15HF "https://github.com/sebmarkbage/ecmascript-rest-spread") – даже если не войдёт в ES7, буду юзать плагин
 
-вообще, колонка Stage в ES7+ пока выглядит довольно печально [github.com\/tc39\/ecma262](https://t.co/0acCGQDJtu "https://github.com/tc39/ecma262")
+вообще, колонка Stage в ES7+ пока выглядит довольно печально [github.com/tc39/ecma262](https://t.co/0acCGQDJtu "https://github.com/tc39/ecma262")
 
-Create random JSON objects using json-spawn and Chance.js [github.com\/luisfarzati\/js…](https://t.co/Ndkl8Z1uOv "https://github.com/luisfarzati/json-chance")
+Create random JSON objects using json-spawn and Chance.js [github.com/luisfarzati/js…](https://t.co/Ndkl8Z1uOv "https://github.com/luisfarzati/json-chance")
 
-Awesome list of Redux examples and middlewares [github.com\/xgrommx\/awesom…](https://t.co/on4zf6Rq1l "https://github.com/xgrommx/awesome-redux")
+Awesome list of Redux examples and middlewares [github.com/xgrommx/awesom…](https://t.co/on4zf6Rq1l "https://github.com/xgrommx/awesome-redux")
 
 совсем забыл, со мной можно говорить про Diablo 2.
 
-RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Еще вот мои наработки по коллекционировании ресурсов об реактивности [xgrommx.github.io\/rx-book\/conten…](http://t.co/AQWwqrqEeE "http://xgrommx.github.io/rx-book/content/similar_libraries/index.html") также тут есть видео,…
+RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Еще вот мои наработки по коллекционировании ресурсов об реактивности [xgrommx.github.io/rx-book/conten…](http://t.co/AQWwqrqEeE "http://xgrommx.github.io/rx-book/content/similar_libraries/index.html") также тут есть видео,…
 
 ## Вторник <small>92 твита</small>
 
 доброе утро. вчера спрашивали какое Flux решение мы используем… начну немного издалека, а закончу постом в медиум со ссылкой на репозиторий.
 
-хорошее интро в Immutable Data на примере Immutable.js всё от того же фейсбука [youtube.com\/watch?v=I7IdS-…](https://t.co/7VC2rhvHPv "https://www.youtube.com/watch?v=I7IdS-PbEgI")
+хорошее интро в Immutable Data на примере Immutable.js всё от того же фейсбука [youtube.com/watch?v=I7IdS-…](https://t.co/7VC2rhvHPv "https://www.youtube.com/watch?v=I7IdS-PbEgI")
 
 а что если представить одно большое дерево данных, в котором хранится всё состояние приложения, от нажатости чекбокса до запрошенных данных.
 
@@ -154,11 +150,11 @@ RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](http
 
 в типичном приложении в дереве будет не так много основных явных веток, типа products list, product info и т.п.
 
-"курсор" – это своеобразная ссылка на ветку данных в дереве. простой пример на основе всё того же Immutable.js [github.com\/facebook\/immut…](https://t.co/cS1qCJDOjm "https://github.com/facebook/immutable-js/tree/master/contrib/cursor")
+"курсор" – это своеобразная ссылка на ветку данных в дереве. простой пример на основе всё того же Immutable.js [github.com/facebook/immut…](https://t.co/cS1qCJDOjm "https://github.com/facebook/immutable-js/tree/master/contrib/cursor")
 
 "cursor path" – это путь к этой ветке или к конечным данным. обычно представляется в виде массива, \[ 'products', ID, 'details', 'price' \].
 
-для дерева и курсоров мы используем Baobab [github.com\/Yomguithereal\/…](https://t.co/9Iv0xmAWnK "https://github.com/Yomguithereal/baobab") – ничего лишнего, всё довольно просто и прозрачно.
+для дерева и курсоров мы используем Baobab [github.com/Yomguithereal/…](https://t.co/9Iv0xmAWnK "https://github.com/Yomguithereal/baobab") – ничего лишнего, всё довольно просто и прозрачно.
 
 дерево эмитит событие \`update\`, на основе которого можно и нужно обновлять, например, курсоры, т.к. дерево уже новое, а ссылки старые.
 
@@ -178,7 +174,7 @@ RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](http
 
 т.е. в теории можно было узнать, что запрошены данные, которых ещё нет в ветке. и сделать замозаполняющееся дерево :\)
 
-Declarative data fetching in React components with Baobab [medium.com\/@mistadikay\/de…](https://t.co/URslHl1nKD "https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852")
+Declarative data fetching in React components with Baobab [medium.com/@mistadikay/de…](https://t.co/URslHl1nKD "https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852")
 
 компоненты – максимально тупые. они просто рисуют данные как будто эти есть и всегда были. почти каждый компонент сам знает свой cursor path
 
@@ -190,7 +186,7 @@ Declarative data fetching in React components with Baobab [medium.com\/@mistadik
 
 по ссылке ниже есть более подробное описание и даже тестовый репозиторий с простым, но в том же время полноценным примером.
 
-самый жир затеи – [github.com\/mistadikay\/rea…](https://t.co/x5jdxNDdJa "https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23") – декларативный "запрос" данных. что-то вроде того же GraphQL, только поверх обычного Rest.
+самый жир затеи – [github.com/mistadikay/rea…](https://t.co/x5jdxNDdJa "https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23") – декларативный "запрос" данных. что-то вроде того же GraphQL, только поверх обычного Rest.
 
 т.е. компонент просто декларативно описывает откуда в дереве брать данные. а как, когда и почему они там оказались – не важно. просто рисуй.
 
@@ -200,7 +196,7 @@ Declarative data fetching in React components with Baobab [medium.com\/@mistadik
 
 т.к. иммутабельное дерево создаёт новую версию на каждое изменение, ни что не мешает сохранять эти версии и сделать историю как в фотошопе.
 
-RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Правда про CLJS, но отлично про иммутабельность, историю из оной и вообще. [youtube.com\/watch?v=lDkrXT…](http://t.co/GTF7FpEm1M "http://www.youtube.com/watch?v=lDkrXTDwbJQ") [youtube.com\/watch?v=tUtLe1…](http://t.co/d1dsnvNQ9n "http://www.youtube.com/watch?v=tUtLe1VlkYc")
+RT [@suxxes](https://twitter.com/suxxes "Father Frodo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Правда про CLJS, но отлично про иммутабельность, историю из оной и вообще. [youtube.com/watch?v=lDkrXT…](http://t.co/GTF7FpEm1M "http://www.youtube.com/watch?v=lDkrXTDwbJQ") [youtube.com/watch?v=tUtLe1…](http://t.co/d1dsnvNQ9n "http://www.youtube.com/watch?v=tUtLe1VlkYc")
 
 RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А в вашем случае "дерево" — это BEMJSON или ещё над ним абстракция?
 
@@ -218,7 +214,7 @@ RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](
 
 .[@silentroach](https://twitter.com/silentroach "Игорь") мы \(пока\) взяли только ту часть GraphQL, которая про декларативность в компоненте. а вот бэкендовый кусок – да, необычный.
 
-два поста в тему: Your First GraphQL Server [medium.com\/@clayallsopp\/y…](https://t.co/WeYrVib6py "https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2") \/ Moving from REST to GraphQL [medium.com\/@frikille\/movi…](https://t.co/GQF6ept3DB "https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247")
+два поста в тему: Your First GraphQL Server [medium.com/@clayallsopp/y…](https://t.co/WeYrVib6py "https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2") / Moving from REST to GraphQL [medium.com/@frikille/movi…](https://t.co/GQF6ept3DB "https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247")
 
 на данном этапе меня смущает даже сам синтаксис graphQL Query, но это просто с непривычки. с самой идеей по-моему всё в порядке.
 
@@ -244,15 +240,15 @@ RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](
 
 .[@silentroach](https://twitter.com/silentroach "Игорь") но я примерно понимаю почему это может раздражать.
 
-\(речь о [github.com\/sindresorhus](https://t.co/rlWHh7Mqt8 "https://github.com/sindresorhus") и его модулях типа [github.com\/sindresorhus\/c…](https://t.co/i1id2VHz6R "https://github.com/sindresorhus/cat-names")\)
+\(речь о [github.com/sindresorhus](https://t.co/rlWHh7Mqt8 "https://github.com/sindresorhus") и его модулях типа [github.com/sindresorhus/c…](https://t.co/i1id2VHz6R "https://github.com/sindresorhus/cat-names")\)
 
 RT [@\_cloudo](https://twitter.com/_cloudo "Cloudo"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") идея - заменить путь к данным в дереве более семантичной константой
 
 .[@\_cloudo](https://twitter.com/_cloudo "Cloudo") вполне нормальная идея :\) импортировать это из тех же constants, по аналогии с именами событий.
 
-.[@\_cloudo](https://twitter.com/_cloudo "Cloudo") но это не работает с динамическими путями типа [github.com\/mistadikay\/rea…](https://t.co/XYqlzClwl5 "https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L14-L16")
+.[@\_cloudo](https://twitter.com/_cloudo "Cloudo") но это не работает с динамическими путями типа [github.com/mistadikay/rea…](https://t.co/XYqlzClwl5 "https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L14-L16")
 
-RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") буквально вчера об это спросил [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") оказалось сделать это самому гораздо проще, чем кажется https[github.com\/gaearon\/redux\/…](https://t.co/jip3DUtMKO "https://github.com/gaearon/redux/blob/improve-docs/docs/store.md")
+RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") буквально вчера об это спросил [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") оказалось сделать это самому гораздо проще, чем кажется https[github.com/gaearon/redux/…](https://t.co/jip3DUtMKO "https://github.com/gaearon/redux/blob/improve-docs/docs/store.md")
 
 .[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") в моём мире set и не должен напрямую возвращать новое дерево, всё летает по кругу почти как в каноническом Flux.
 
@@ -270,7 +266,7 @@ RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https
 
 RT [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk"): [@sapegin](https://twitter.com/sapegin "Artem Sapegin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") тоже используюем alt.js. попробовать redux интересно.
 
-RT [@lapanoid](https://twitter.com/lapanoid "Lapin Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") делал в свое время анализ флаксов для заказщика, в результате и перешел на redux [docs.google.com\/spreadsheets\/d…](https://t.co/erVnaIYUyP "https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0")
+RT [@lapanoid](https://twitter.com/lapanoid "Lapin Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") делал в свое время анализ флаксов для заказщика, в результате и перешел на redux [docs.google.com/spreadsheets/d…](https://t.co/erVnaIYUyP "https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0")
 
 RT [@lapanoid](https://twitter.com/lapanoid "Lapin Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Если у кого есть комментарии, критика к документу - это крайне желательно. Буду править\)
 
@@ -286,16 +282,15 @@ brace yourself, завтра изоморфность.
 
 о да. жду адептов секты правильных слов :\) RT [@lapanoid](https://twitter.com/lapanoid "Lapin Sergey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") универсальность ;\)
 
-RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") vanilla js + свои сторы [github.com\/alexeyraspopov…](https://t.co/oGdQX8rKWt "https://github.com/alexeyraspopov/flux-stateful")
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") vanilla js + свои сторы [github.com/alexeyraspopov…](https://t.co/oGdQX8rKWt "https://github.com/alexeyraspopov/flux-stateful")
 
 RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У вас есть i18n? Кто как решает эту задачу с React?
 
-RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использовал [github.com\/yahoo\/react-in…](https://t.co/JNQY0cK3fb "https://github.com/yahoo/react-intl") все ок.
+RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использовал [github.com/yahoo/react-in…](https://t.co/JNQY0cK3fb "https://github.com/yahoo/react-intl") все ок.
 
 RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@dimchez](https://twitter.com/dimchez "Dmitry Demyankov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") метод translate прокидывался в компоненты как props.
 
-RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использую [github.com\/piranha\/puttext](https://t.co/rjdrniZ79a "https://github.com/piranha/puttext"):
-парсинг вызовов -&gt; \*.po -&gt; \*.json -&gt; puttext\(require\('\*.json'\)\)
+RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использую [github.com/piranha/puttext](https://t.co/rjdrniZ79a "https://github.com/piranha/puttext"):<br />парсинг вызовов -&gt; \*.po -&gt; \*.json -&gt; puttext\(require\('\*.json'\)\)
 
 RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Polyglot.js от airbnb + своя привязка к Redux
 
@@ -307,13 +302,13 @@ RT [@prbigbrother](https://twitter.com/prbigbrother "Alexandru Capatina"): Фр�
 
 RT [@temrdm](https://twitter.com/temrdm "Artem Pogrebnoy"): Все что обсуждал с [@ir4y\_ix](https://twitter.com/ir4y_ix "ilya beda") и планировал запилить на прошлых выходных, сегодня рассказывает [@deepsweet](https://twitter.com/deepsweet " k i r") в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик"). Супер!
 
-ооок, в CSS есть outline-offset [codepen.io\/SitePoint\/pen\/…](http://t.co/rH8z8S0ncJ "http://codepen.io/SitePoint/pen/VLXyZw")
+ооок, в CSS есть outline-offset [codepen.io/SitePoint/pen/…](http://t.co/rH8z8S0ncJ "http://codepen.io/SitePoint/pen/VLXyZw")
 
 RT [@subzey](https://twitter.com/subzey "subzey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А ещё он может быть отрицательным! В опере удобно было вёрстку так отлаживать, пока нормальный дебаггер не появился
 
 минутка ванильной вёрстки закончилась.
 
-какое название вашей должности\/профессии наиболее полно отражает реальность и в целом вас устраивает?
+какое название вашей должности/профессии наиболее полно отражает реальность и в целом вас устраивает?
 
 моё "Senior Front-End Developer" уже явно вносит больше путаницы в головы менеджеров, чем что-либо проясняет.
 
@@ -327,29 +322,29 @@ RT [@d3head](https://twitter.com/d3head "Олег"): [@jsunderhood](https://twit
 
 RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") разработчик интерфейсов
 
-RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Frontend Developer или разработчик интерфейсов. не люблю деление на Junior\/Senior — оно искусственное.
+RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Frontend Developer или разработчик интерфейсов. не люблю деление на Junior/Senior — оно искусственное.
 
 ## Среда <small>81 твит</small>
 
-A modular, progressive, and beautiful Markdown and HTML editor [github.com\/bevacqua\/woofm…](https://t.co/XXEtPx50Cx "https://github.com/bevacqua/woofmark")
+A modular, progressive, and beautiful Markdown and HTML editor [github.com/bevacqua/woofm…](https://t.co/XXEtPx50Cx "https://github.com/bevacqua/woofmark")
 
-могу расписать по шагам идею изоморфности на примере того же реакта, начиная со сборки. интересно\/актуально?
+могу расписать по шагам идею изоморфности на примере того же реакта, начиная со сборки. интересно/актуально?
 
-готовых starter kit'ов и прочих стабов хватает, например [github.com\/RickWong\/react…](https://t.co/mxnKbZ4ggE "https://github.com/RickWong/react-isomorphic-starterkit") \/ [github.com\/webpack\/react-…](https://t.co/R3l6Qa8iL2 "https://github.com/webpack/react-starter") \/ [github.com\/DavidWells\/iso…](https://t.co/9LAAv0Pow7 "https://github.com/DavidWells/isomorphic-react-example")
+готовых starter kit'ов и прочих стабов хватает, например [github.com/RickWong/react…](https://t.co/mxnKbZ4ggE "https://github.com/RickWong/react-isomorphic-starterkit") / [github.com/webpack/react-…](https://t.co/R3l6Qa8iL2 "https://github.com/webpack/react-starter") / [github.com/DavidWells/iso…](https://t.co/9LAAv0Pow7 "https://github.com/DavidWells/isomorphic-react-example")
 
 суть одна: один и тот же "изоморфный" код должен строить начальный HTML на сервере и продолжать работать дальше на клиенте.
 
-в React для этого предусмотрены обычный DOM \`render\(\)\` и "серверные" \`renderToString\(\)\` \/ \`renderToStaticMarkup\(\)\` [facebook.github.io\/react\/docs\/top…](https://t.co/0MFvlUVJk0 "https://facebook.github.io/react/docs/top-level-api.html")
+в React для этого предусмотрены обычный DOM \`render\(\)\` и "серверные" \`renderToString\(\)\` / \`renderToStaticMarkup\(\)\` [facebook.github.io/react/docs/top…](https://t.co/0MFvlUVJk0 "https://facebook.github.io/react/docs/top-level-api.html")
 
-к слову, в react@0.14 их даже разнесут по разным модулям [facebook.github.io\/react\/blog\/201…](https://t.co/nSzVgYDxtO "https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html")
+к слову, в react@0.14 их даже разнесут по разным модулям [facebook.github.io/react/blog/201…](https://t.co/nSzVgYDxtO "https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html")
 
 обычно webpack'ом делают одновременно два билда с двумя наборами бандлов на выходе: серверный и клиентский.
 
 точками входа в каждый из бандлов являются своеобразные конструкторы роутеров, которые ждут текущий запрощенный URL в виде аргумента.
 
-на сервере это обычный \`request.url\` из Express \/ Koa \([koajs.com](http://t.co/nOSN4i1JNR "http://koajs.com/"), наш выбор\) \/ whatever, на клиенте – HTML5 History API.
+на сервере это обычный \`request.url\` из Express / Koa \([koajs.com](http://t.co/nOSN4i1JNR "http://koajs.com/"), наш выбор\) / whatever, на клиенте – HTML5 History API.
 
-стандартом де-факто является react-router [github.com\/rackt\/react-ro…](https://t.co/plmj29aAMm "https://github.com/rackt/react-router")
+стандартом де-факто является react-router [github.com/rackt/react-ro…](https://t.co/plmj29aAMm "https://github.com/rackt/react-router")
 
 на сервере:
 
@@ -371,8 +366,7 @@ A modular, progressive, and beautiful Markdown and HTML editor [github.com\/beva
 
 пришёл ответ – рендерим. передав данные через пропсы, или просто тупо, если всё построено на дереве, из которого компонент возьмёт всё сам.
 
-Ajax with less suck - \(and node.js HTTP client to match\) 
-[visionmedia.github.com\/superagent\/](http://t.co/6x3UQks4Zp "http://visionmedia.github.com/superagent/") – чуть не забыл, "изоморфный ajax".
+Ajax with less suck - \(and node.js HTTP client to match\) <br />[visionmedia.github.com/superagent/](http://t.co/6x3UQks4Zp "http://visionmedia.github.com/superagent/") – чуть не забыл, "изоморфный ajax".
 
 RT [@lyxdenv](https://twitter.com/lyxdenv "Alexander Gorbunov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") И все это быстро?
 
@@ -404,15 +398,11 @@ RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https:
 
 ведь если подумать, то между сервером и клиентом нет абсолютно никакой связи, кроме как HTML, и только так можно связать "сессию".
 
-RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а почему нельзя:
-React.render\(&lt;Handler \/&gt;, document\);
-?
+RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а почему нельзя:<br />React.render\(&lt;Handler /&gt;, document\);<br />?
 
 .[@olebedev](https://twitter.com/olebedev "Oleg Lebedev") можно и нужно, вот только сторы пустые.
 
-т.е. при серверном рендеринге, куда-нибудь в &lt;body&gt;:
-
-&lt;script id="\_bootstrap" type="application\/json"&gt;{ ololo: true }&lt;\/script&gt;
+т.е. при серверном рендеринге, куда-нибудь в &lt;body&gt;:<br /><br />&lt;script id="\_bootstrap" type="application/json"&gt;{ ololo: true }&lt;/script&gt;
 
 для клиентского бандла точкой входа является клиентский конструктор роутера, который, если есть "bootstrap", возьмёт оттуда данные.
 
@@ -438,7 +428,7 @@ RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): ~[@jsunderhood](htt
 
 RT [@subzey](https://twitter.com/subzey "subzey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Как по мне, тут чейнинг используется только ради чейнинга. Какой профит по сравнению с window.fetch\(url, {…}\)?
 
-.[@subzey](https://twitter.com/subzey "subzey") [github.com\/matthew-andrew…](https://t.co/z4XwG3cRB4 "https://github.com/matthew-andrews/isomorphic-fetch") для любителей.
+.[@subzey](https://twitter.com/subzey "subzey") [github.com/matthew-andrew…](https://t.co/z4XwG3cRB4 "https://github.com/matthew-andrews/isomorphic-fetch") для любителей.
 
 RT [@snejink](https://twitter.com/snejink "Aleksei Krasnoperov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") на клиенте используете тот же маппинг или другой подход к работе с данными?
 
@@ -452,7 +442,7 @@ RT [@kra1g0](https://twitter.com/kra1g0 "Крайго"): [@jsunderhood](https://
 
 .[@kra1g0](https://twitter.com/kra1g0 "Крайго") afaik нет, но они очень обещают. без чётких сроков, как обычно у Facebook.
 
-RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") данные для render нужно заранее готовить и в отдельном от React месте. Я вот для этого либу написал [bit.ly\/1TPnKSn](http://t.co/hCRILB9ZGg "http://bit.ly/1TPnKSn")
+RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") данные для render нужно заранее готовить и в отдельном от React месте. Я вот для этого либу написал [bit.ly/1TPnKSn](http://t.co/hCRILB9ZGg "http://bit.ly/1TPnKSn")
 
 .[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") можно в двух словах основной принцип?
 
@@ -460,7 +450,7 @@ RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https
 
 разница между серверным и клиентским webpack-бандлами небольшая: разные точки входа, и упрощённый процессинг на сервере, без стилей и т.п.
 
-в серверный бандл так же можно не включать всё вендорное, чтобы мучать зря файл на пару мегабайт – [webpack.github.io\/docs\/library-a…](https://t.co/duEhtH6nuW "https://webpack.github.io/docs/library-and-externals.html")
+в серверный бандл так же можно не включать всё вендорное, чтобы мучать зря файл на пару мегабайт – [webpack.github.io/docs/library-a…](https://t.co/duEhtH6nuW "https://webpack.github.io/docs/library-and-externals.html")
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") НЕ мучать, идиот.
 
@@ -470,7 +460,7 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@sbmaxx](https:
 
 RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ого, какая печалька \(почитал дальше\). Какая-то так себе изоморфность получается. Неужто более лучше ничего не…
 
-.[@silentroach](https://twitter.com/silentroach "Игорь") [github.com\/facebook\/react…](https://t.co/cWPkS5i2Bh "https://github.com/facebook/react/issues/3009") когда-нибудь…
+.[@silentroach](https://twitter.com/silentroach "Игорь") [github.com/facebook/react…](https://t.co/cWPkS5i2Bh "https://github.com/facebook/react/issues/3009") когда-нибудь…
 
 этот наш роут -&gt; экшн\(ы\) маппинг плюс ко всему позволяет довольно легко решить, какой компонент рендерить на сервере, а какой на клиенте.
 
@@ -488,7 +478,7 @@ RT [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин"): [@jsunde
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") фича в том, что ты можнешь думать о приложении, как о функции. В математическом смысле слова.
 
-RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин") [facebook.github.io\/react\/docs\/why…](https://t.co/7TsswDl7Fs "https://facebook.github.io/react/docs/why-react.html") + [jlongster.com\/Removing-User-…](http://t.co/bz8u9ZYUzF "http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov"): [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин") [facebook.github.io/react/docs/why…](https://t.co/7TsswDl7Fs "https://facebook.github.io/react/docs/why-react.html") + [jlongster.com/Removing-User-…](http://t.co/bz8u9ZYUzF "http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@slonoed](https://twitter.com/slonoed "Dmitry M."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а если таких компонента два? оба дернут?
 
@@ -500,19 +490,19 @@ RT [@slonoed](https://twitter.com/slonoed "Dmitry M."): [@jsunderhood](https://t
 
 ## Четверг <small>69 твитов</small>
 
-появились подвижки в мёрдже isparta в istanbul [github.com\/douglasduteil\/…](https://t.co/RnGnXJqPGI "https://github.com/douglasduteil/isparta/issues/31#issuecomment-123894638") – покрытие оригинального ES6 кода через sourcemaps от Babel.
+появились подвижки в мёрдже isparta в istanbul [github.com/douglasduteil/…](https://t.co/RnGnXJqPGI "https://github.com/douglasduteil/isparta/issues/31#issuecomment-123894638") – покрытие оригинального ES6 кода через sourcemaps от Babel.
 
-к слову, лоадеры к вебпаку для обоих – [github.com\/deepsweet\/ista…](https://t.co/1NmkG1Y2mE "https://github.com/deepsweet/istanbul-instrumenter-loader") \/ [github.com\/deepsweet\/ispa…](https://t.co/sE2uc4rVfc "https://github.com/deepsweet/isparta-loader")
+к слову, лоадеры к вебпаку для обоих – [github.com/deepsweet/ista…](https://t.co/1NmkG1Y2mE "https://github.com/deepsweet/istanbul-instrumenter-loader") / [github.com/deepsweet/ispa…](https://t.co/sE2uc4rVfc "https://github.com/deepsweet/isparta-loader")
 
-Approaches to testing React components [reactkungfu.com\/2015\/07\/approa…](http://t.co/BV2bwDC1DP "http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/") – а как вы тестируете реакт-приложения?
+Approaches to testing React components [reactkungfu.com/2015/07/approa…](http://t.co/BV2bwDC1DP "http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/") – а как вы тестируете реакт-приложения?
 
-у нас \(пока\) jsdom [github.com\/tmpvar\/jsdom](https://t.co/pRKh62245N "https://github.com/tmpvar/jsdom") + старая добрая mocha [github.com\/rstacruz\/mocha…](https://t.co/IcRYH52hhZ "https://github.com/rstacruz/mocha-jsdom") + TestUtils [facebook.github.io\/react\/docs\/tes…](https://t.co/LHa51Lo8ej "https://facebook.github.io/react/docs/test-utils.html")
+у нас \(пока\) jsdom [github.com/tmpvar/jsdom](https://t.co/pRKh62245N "https://github.com/tmpvar/jsdom") + старая добрая mocha [github.com/rstacruz/mocha…](https://t.co/IcRYH52hhZ "https://github.com/rstacruz/mocha-jsdom") + TestUtils [facebook.github.io/react/docs/tes…](https://t.co/LHa51Lo8ej "https://facebook.github.io/react/docs/test-utils.html")
 
-RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") используя Shallow Rendering [facebook.github.io\/react\/docs\/tes…](https://t.co/rF299uL4MS "https://facebook.github.io/react/docs/test-utils.html")
+RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") используя Shallow Rendering [facebook.github.io/react/docs/tes…](https://t.co/rF299uL4MS "https://facebook.github.io/react/docs/test-utils.html")
 
 RT [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") такой же набор + sinon
 
-RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну а дальше mocha, chai с параметром —compilers js:babel\/register
+RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну а дальше mocha, chai с параметром —compilers js:babel/register
 
 RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему не Karma? Для браузера же пишете, jsdom - читерство
 
@@ -534,7 +524,7 @@ RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](
 
 RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а это тестировать и не надо, надо тестировать работоспособность своего проекта :\) которая может быть сломана …
 
-RT [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") насколько я понял и подход и даже частично реализация совпадает с вот этим примером: [github.com\/erikras\/react-…](https://t.co/0gLUqMpLNr "https://github.com/erikras/react-redux-universal-hot-example"), в…
+RT [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") насколько я понял и подход и даже частично реализация совпадает с вот этим примером: [github.com/erikras/react-…](https://t.co/0gLUqMpLNr "https://github.com/erikras/react-redux-universal-hot-example"), в…
 
 .[@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin") очень может быть, конкретно на это я не смотрел. идея у всех плюс-минус одна.
 
@@ -550,9 +540,9 @@ RT [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk"): [@milk\_is\_my
 
 RT [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko"): [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk") [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@silentroach](https://twitter.com/silentroach "Игорь") я не понял, чем он лучше cucumber.js?
 
-RT [@alex\_ivantsov](https://twitter.com/alex_ivantsov "Alexander Ivantsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") немного опоздал, но вот небольшой пример isomorphic app \([github.com\/ShpuntiK\/isomo…](https://t.co/vYFzqqIwJE "https://github.com/ShpuntiK/isomorphic-app-sample")\) с идеями, которые ты опис…
+RT [@alex\_ivantsov](https://twitter.com/alex_ivantsov "Alexander Ivantsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") немного опоздал, но вот небольшой пример isomorphic app \([github.com/ShpuntiK/isomo…](https://t.co/vYFzqqIwJE "https://github.com/ShpuntiK/isomorphic-app-sample")\) с идеями, которые ты опис…
 
-RT [@alex\_ivantsov](https://twitter.com/alex_ivantsov "Alexander Ivantsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [shpuntik.github.io\/isomorphic-app…](http://t.co/LuV2uSclSO "http://shpuntik.github.io/isomorphic-apps-presentation") - и презентация на основе этого кода \(2\/2\)
+RT [@alex\_ivantsov](https://twitter.com/alex_ivantsov "Alexander Ivantsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [shpuntik.github.io/isomorphic-app…](http://t.co/LuV2uSclSO "http://shpuntik.github.io/isomorphic-apps-presentation") - и презентация на основе этого кода \(2/2\)
 
 RT [@alex\_ivantsov](https://twitter.com/alex_ivantsov "Alexander Ivantsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") про синглотоны очень верно :\) сам долго осознавал эту проблему
 
@@ -560,17 +550,17 @@ RT [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko"): [@milk\_is\_my\_
 
 RT [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk"): [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko") [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@silentroach](https://twitter.com/silentroach "Игорь") хороший вопрос, я пока не знаю. по зависимостям pioneer ссылается на фор…
 
-RT [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko"): [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk") [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@silentroach](https://twitter.com/silentroach "Игорь") понял, это враппер над ним, с e2e API. Но мне больше нравится http:\/\/t.c[webdriver.io](http://t.co/A0mUtDcGhX "http://webdriver.io")
+RT [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko"): [@adaniliuk](https://twitter.com/adaniliuk "Andrei Daniliuk") [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@silentroach](https://twitter.com/silentroach "Игорь") понял, это враппер над ним, с e2e API. Но мне больше нравится http://t.c[webdriver.io](http://t.co/A0mUtDcGhX "http://webdriver.io")
 
-Babylon is a JavaScript parser used in Babel [github.com\/babel\/babel\/tr…](https://t.co/nopJz2X1Cy "https://github.com/babel/babel/tree/master/packages/babylon")
+Babylon is a JavaScript parser used in Babel [github.com/babel/babel/tr…](https://t.co/nopJz2X1Cy "https://github.com/babel/babel/tree/master/packages/babylon")
 
-кажется решились на babel-plugin-typecheck, по крайней мере простые вещи. ненавижу JSDoc. [github.com\/codemix\/babel-…](https://t.co/90obOQPQKU "https://github.com/codemix/babel-plugin-typecheck") + [flowtype.org\/docs\/quick-ref…](http://t.co/9wllD3YRnF "http://flowtype.org/docs/quick-reference.html")
+кажется решились на babel-plugin-typecheck, по крайней мере простые вещи. ненавижу JSDoc. [github.com/codemix/babel-…](https://t.co/90obOQPQKU "https://github.com/codemix/babel-plugin-typecheck") + [flowtype.org/docs/quick-ref…](http://t.co/9wllD3YRnF "http://flowtype.org/docs/quick-reference.html")
 
-хочется как в Babel – [github.com\/babel\/babel\/bl…](https://t.co/FRjrfxxaVN "https://github.com/babel/babel/blob/master/packages/babel/src/util.js") – комменты комментами, а типы через flow type annotations.
+хочется как в Babel – [github.com/babel/babel/bl…](https://t.co/FRjrfxxaVN "https://github.com/babel/babel/blob/master/packages/babel/src/util.js") – комменты комментами, а типы через flow type annotations.
 
 \(TypeScript для бедных\)
 
-Turn flow type annotations into comments [github.com\/babel-plugins\/…](https://t.co/9BfMaYJN52 "https://github.com/babel-plugins/babel-plugin-flow-comments")
+Turn flow type annotations into comments [github.com/babel-plugins/…](https://t.co/9BfMaYJN52 "https://github.com/babel-plugins/babel-plugin-flow-comments")
 
 RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Все задаю вопрос почему flow? Почему не typescript?
 
@@ -578,11 +568,11 @@ RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](http
 
 пруф или не было :\) RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov") уже и с ES7
 
-на сегодня так [github.com\/mistadikay\/rea…](https://t.co/x5jdxNDdJa "https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23"), мы над этим работает. RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У вас своя реализация query в компонентах?
+на сегодня так [github.com/mistadikay/rea…](https://t.co/x5jdxNDdJa "https://github.com/mistadikay/react-auto-fetching-example/blob/master/src/components/products-list/index.es6#L9-L23"), мы над этим работает. RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У вас своя реализация query в компонентах?
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о-да! Суперагент очень крутой! Я даже написал для него REST-моккер который работает прямо в браузере https[github.com\/rambler-digita…](https://t.co/l8ZggpQ7y8 "https://github.com/rambler-digital-solutions/superagent-mocker")
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о-да! Суперагент очень крутой! Я даже написал для него REST-моккер который работает прямо в браузере https[github.com/rambler-digita…](https://t.co/l8ZggpQ7y8 "https://github.com/rambler-digital-solutions/superagent-mocker")
 
-RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вот их roadmap [github.com\/Microsoft\/Type…](https://t.co/7D5mvtEAiX "https://github.com/Microsoft/TypeScript/wiki/Roadmap")
+RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вот их roadmap [github.com/Microsoft/Type…](https://t.co/7D5mvtEAiX "https://github.com/Microsoft/TypeScript/wiki/Roadmap")
 
 хм, ок. тогда почему не TypeScript?
 
@@ -590,19 +580,19 @@ RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](
 
 .[@roman01la](https://twitter.com/roman01la "Roman Liutikov") да, стандартными средствами Baobab. мы когда осознали, кажется взвизгнули.
 
-[github.com\/Yomguithereal\/…](https://t.co/L4r5MG0pom "https://github.com/Yomguithereal/baobab/wiki/Select-state") RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ану покаж!
+[github.com/Yomguithereal/…](https://t.co/L4r5MG0pom "https://github.com/Yomguithereal/baobab/wiki/Select-state") RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ану покаж!
 
-btw, скоро Baobab@v2 [github.com\/Yomguithereal\/…](https://t.co/oTIBUpR0Xz "https://github.com/Yomguithereal/baobab/tree/v2")
+btw, скоро Baobab@v2 [github.com/Yomguithereal/…](https://t.co/oTIBUpR0Xz "https://github.com/Yomguithereal/baobab/tree/v2")
 
 RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Круто! А как быть с динамическими query? Например листы. Как вы расширяете query?
 
 .[@roman01la](https://twitter.com/roman01la "Roman Liutikov") по ссылке на наш пример видно, что query – это функция, принимающая props и state :\)
 
-RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я написал новый ридми для Redux: [github.com\/gaearon\/redux\/…](https://t.co/s0q28MdIX3 "https://github.com/gaearon/redux/tree/rewrite-docs"). Фидбэк вэлкам! \(Доки пока не готовы\)
+RT [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Я написал новый ридми для Redux: [github.com/gaearon/redux/…](https://t.co/s0q28MdIX3 "https://github.com/gaearon/redux/tree/rewrite-docs"). Фидбэк вэлкам! \(Доки пока не готовы\)
 
-RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") А что о [github.com\/mquan\/cortex](https://t.co/7ajTIaDBak "https://github.com/mquan/cortex") скажете?
+RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") А что о [github.com/mquan/cortex](https://t.co/7ajTIaDBak "https://github.com/mquan/cortex") скажете?
 
-RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") Вообще есть целый список [github.com\/enaqx\/awesome-…](https://t.co/FRdVOypIDe "https://github.com/enaqx/awesome-react#data-managing")
+RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") Вообще есть целый список [github.com/enaqx/awesome-…](https://t.co/FRdVOypIDe "https://github.com/enaqx/awesome-react#data-managing")
 
 RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Хм, вижу. А что, если часть динамического query зависит от данных из глобального состояния?
 
@@ -628,55 +618,55 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@roman01la](https://t
 
 .[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") именно это мы и собираемся попробовать. в каком-то виде :\)
 
-RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") глянул, очень круто \). А это [github.com\/tonsky\/datascr…](https://t.co/ZuDwn9KmEd "https://github.com/tonsky/datascript") - следующая итерация идеи [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov")
+RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") глянул, очень круто \). А это [github.com/tonsky/datascr…](https://t.co/ZuDwn9KmEd "https://github.com/tonsky/datascript") - следующая итерация идеи [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov")
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я это в своем slt как раз имел ввиду \). Короче, состояние целостно только в случае, когда все причины хранятся в не…
 
-RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и тут основаная моя претензия к flux.Вызов экшена никак не фиксируется,теряются причины.В [redux](https://twitter.com/search?q=%23redux) такая же проблема [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov")
+RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и тут основаная моя претензия к flux.Вызов экшена никак не фиксируется,теряются причины.В [#redux](https://twitter.com/search?q=%23redux) такая же проблема [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov")
 
 ↓ и дальше по реплаям.
 
-JSCity is an implementation of the Code City metaphor for visualizing source code [github.com\/aserg-ufmg\/JSC…](https://t.co/1nk6M643H3 "https://github.com/aserg-ufmg/JSCity/wiki/JSCITY") 😻
+JSCity is an implementation of the Code City metaphor for visualizing source code [github.com/aserg-ufmg/JSC…](https://t.co/1nk6M643H3 "https://github.com/aserg-ufmg/JSCity/wiki/JSCITY") 😻
 
 ## Пятница <small>40 твитов</small>
 
-RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): Пс, парень, немного рекурсии не желаешь? [pic.twitter.com\/tw4p65bqnB](http://t.co/tw4p65bqnB)
+RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): Пс, парень, немного рекурсии не желаешь? [pic.twitter.com/tw4p65bqnB](http://t.co/tw4p65bqnB)
 
 RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") расскажи вот что про реакт. Как люди валидируют пользовательский ввод в формах, трансформируют его и так далее?
 
 RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ибо формы, по-моему, это головная боль на реакте в отличие от того же ангуляря. В ангуляре это прям великолепно с…
 
-.[@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") мы не придумали ничего лучше, чем заюзать validator [github.com\/chriso\/validat…](https://t.co/rl3IkwPVMa "https://github.com/chriso/validator.js") с кастомным выводом ошибок.
+.[@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") мы не придумали ничего лучше, чем заюзать validator [github.com/chriso/validat…](https://t.co/rl3IkwPVMa "https://github.com/chriso/validator.js") с кастомным выводом ошибок.
 
-.[@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") пробовали даже нативную HTML5 валидацию [html5rocks.com\/en\/tutorials\/f…](http://t.co/igxQPCEYNJ "http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/"), но это просто ад. более невменяемого API я не помню.
+.[@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") пробовали даже нативную HTML5 валидацию [html5rocks.com/en/tutorials/f…](http://t.co/igxQPCEYNJ "http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/"), но это просто ад. более невменяемого API я не помню.
 
 тема лично для меня всё ещё актуальная, может есть что-то очевидное и крутое?
 
-RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что по поводу [github.com\/gcanti\/tcomb-f…](https://t.co/5oeiGckltc "https://github.com/gcanti/tcomb-form") и [github.com\/insin\/newforms](https://t.co/A6hjUPfn3G "https://github.com/insin/newforms")?
+RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что по поводу [github.com/gcanti/tcomb-f…](https://t.co/5oeiGckltc "https://github.com/gcanti/tcomb-form") и [github.com/insin/newforms](https://t.co/A6hjUPfn3G "https://github.com/insin/newforms")?
 
 RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") tcomb интересный, был небольшой опыт, но newforms поддерживают isomorphic
 
 RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А еще в ангуляре есть великолепнейшая либа [angular-formly.com](http://t.co/CIGnyZMRLG "http://angular-formly.com")
 
-coveralls в read-only, ну круто [status.coveralls.io](http://t.co/Zk2biV4ydi "http://status.coveralls.io/") – видимо с этим же связаны последние затупы с pending очередью \/[@toivonens](https://twitter.com/toivonens "var ya; // ru")
+coveralls в read-only, ну круто [status.coveralls.io](http://t.co/Zk2biV4ydi "http://status.coveralls.io/") – видимо с этим же связаны последние затупы с pending очередью /[@toivonens](https://twitter.com/toivonens "var ya; // ru")
 
-.[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") первая попытка, по-моему получилось круто [github.com\/mistadikay\/rea…](https://t.co/i0Ebulcgl9 "https://github.com/mistadikay/react-auto-fetching-example/blob/doob/src/components/product/index.es6#L8-L17") – cursor path как часть другого cursor path
+.[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") первая попытка, по-моему получилось круто [github.com/mistadikay/rea…](https://t.co/i0Ebulcgl9 "https://github.com/mistadikay/react-auto-fetching-example/blob/doob/src/components/product/index.es6#L8-L17") – cursor path как часть другого cursor path
 
 .[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") до того как делать баобабовый select мы подготавливаем cursor path через рекурсивный поиск вложенных массивов.
 
-.[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") на любой глубине как и раньше могут быть части props\/state из функции, в скоупе которой это всё происходит.
+.[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") на любой глубине как и раньше могут быть части props/state из функции, в скоупе которой это всё происходит.
 
 RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А тогда скажи, форма для тебя должна быть smart- \(с внутренним состоянием\) или dumb-компонентом \(с состоянием в с…
 
 .[@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov") у нас получилось что-то между: у формы есть своё внутреннее состояние, которое можно менять внешними пропсами.
 
-RT [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") для валидации форм использую [github.com\/christianalfon…](https://t.co/zcPK0e7JeR "https://github.com/christianalfoni/formsy-react")
+RT [@soundinyourmind](https://twitter.com/soundinyourmind "Гранкин Андрей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") для валидации форм использую [github.com/christianalfon…](https://t.co/zcPK0e7JeR "https://github.com/christianalfoni/formsy-react")
 
 RT [@cssunderhood](https://twitter.com/cssunderhood "HTML, CSS, BDSM"): Всем привет \) Меня зовут Денис [@denisfedosov](https://twitter.com/denisfedosov "Denis FL") и люблю верстать. Работаю удаленно в ⚑ Passenger.me.
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а поделись годными материалами про spa \(на стек пофиг\) :\)
 
-RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну ок, кастомный вывод ошибок нормальная тема. А что на счет модификации пользовательского ввода onkeyup? Как $fi
+RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну ок, кастомный вывод ошибок нормальная тема. А что на счет модификации пользовательского ввода onkeyup? Как $fi…
 
 RT [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") могу сделать простенький gist для поля ввода номера кредитки, там все очень просто
 
@@ -692,15 +682,15 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https:/
 
 .[@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") в идеальном случае – да, согласен. он просто удобен "в виде хранилища" тем, что при обновлении дёргает рендер сам.
 
-RT [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") собственно вот: [gist.github.com\/afitiskin\/a65c…](https://t.co/SZy9WMURov "https://gist.github.com/afitiskin/a65c26ff923d13788980")
+RT [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin"): [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") собственно вот: [gist.github.com/afitiskin/a65c…](https://t.co/SZy9WMURov "https://gist.github.com/afitiskin/a65c26ff923d13788980")
 
 RT [@Chudesnov](https://twitter.com/Chudesnov "散厦知"): [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin") [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") onchange в Реакте - это только change, или он другие какие-то события подмешивает?
 
 RT [@afitiskin](https://twitter.com/afitiskin "Alex Fitiskin"): [@Chudesnov](https://twitter.com/Chudesnov "散厦知") [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") любое изменение в input триггерит реактовский onchange, на мобилках должно работать так же
 
-оформили наш подход к работе со стэйтом в реакте [github.com\/mistadikay\/doob](https://t.co/0BqgLIOpbq "https://github.com/mistadikay/doob"), по мотивам поста [medium.com\/@mistadikay\/de…](https://t.co/URslHl1nKD "https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852") 🔥
+оформили наш подход к работе со стэйтом в реакте [github.com/mistadikay/doob](https://t.co/0BqgLIOpbq "https://github.com/mistadikay/doob"), по мотивам поста [medium.com/@mistadikay/de…](https://t.co/URslHl1nKD "https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852") 🔥
 
-горячий тред :\) RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov") [twitter.com\/isnifer\/status…](https://t.co/zGkq4zTHTC "https://twitter.com/isnifer/status/624512816599441408") , не? \)
+горячий тред :\) RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov") [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov") [twitter.com/isnifer/status…](https://t.co/zGkq4zTHTC "https://twitter.com/isnifer/status/624512816599441408") , не? \)
 
 RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это все какие-то библиотеки, которые подменяют привычное написание элементов форм. Фу на такое
 
@@ -718,19 +708,19 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@milk\_is\_my\_life](
 
 извините, у вас есть минутка поговорить о баобабе? RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@\_\_fro](https://twitter.com/__fro "Alexey Frolov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") точно, не заметил. нафиг флакс, всем по баобабу!
 
-A Virtual DOM based AngularJS view renderer designed to be used with immutable data structures [github.com\/teropa\/angular…](https://t.co/JpyZCe7Nph "https://github.com/teropa/angular-virtual-dom")
+A Virtual DOM based AngularJS view renderer designed to be used with immutable data structures [github.com/teropa/angular…](https://t.co/JpyZCe7Nph "https://github.com/teropa/angular-virtual-dom")
 
 ## Суббота <small>53 твита</small>
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): So true [twitter.com\/fioroco\/status…](https://t.co/qRMrtK97oD "https://twitter.com/fioroco/status/624321843755814913")
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): So true [twitter.com/fioroco/status…](https://t.co/qRMrtK97oD "https://twitter.com/fioroco/status/624321843755814913")
 
-в ESLint@1.0.0-rc-3 наконец-то сделали reset по умолчанию [eslint.org\/blog\/2015\/07\/e…](http://t.co/79RjU2U6h7 "http://eslint.org/blog/2015/07/eslint-1.0.0-rc-3-released/#reset-is-now-the-default"), т.е. нужно заполнять конфиг с нуля вдумчиво и руками.
+в ESLint@1.0.0-rc-3 наконец-то сделали reset по умолчанию [eslint.org/blog/2015/07/e…](http://t.co/79RjU2U6h7 "http://eslint.org/blog/2015/07/eslint-1.0.0-rc-3-released/#reset-is-now-the-default"), т.е. нужно заполнять конфиг с нуля вдумчиво и руками.
 
 если вы по какой-то странной причине всё ещё используете JSHint, то самое время перейти с выходом ESLint@1.0.0.
 
-+ [github.com\/babel\/babel-es…](https://t.co/AgmTtRFXgI "https://github.com/babel/babel-eslint") + [github.com\/babel\/eslint-p…](https://t.co/pypDE5iXSu "https://github.com/babel/eslint-plugin-babel")
++ [github.com/babel/babel-es…](https://t.co/AgmTtRFXgI "https://github.com/babel/babel-eslint") + [github.com/babel/eslint-p…](https://t.co/pypDE5iXSu "https://github.com/babel/eslint-plugin-babel")
 
-+ [github.com\/yannickcr\/esli…](https://t.co/QTmYB7ydBf "https://github.com/yannickcr/eslint-plugin-react")
++ [github.com/yannickcr/esli…](https://t.co/QTmYB7ydBf "https://github.com/yannickcr/eslint-plugin-react")
 
 у инструмента, который связан с парсингом ES6, нет практически никаких шансов выжить без Babel. Себастиан не просто так выделил Babylon.
 
@@ -740,13 +730,13 @@ RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Esprima, собственно, тоже уже догоняет, тем более что общую спецификацию мы уже написали.
 
-.[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") на ES7 уйдёт ещё год догонов [github.com\/estree\/estree](https://t.co/fPhadJCVhc "https://github.com/estree/estree"). парсер Babel хорош именно тем, что он bleeding edge.
+.[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") на ES7 уйдёт ещё год догонов [github.com/estree/estree](https://t.co/fPhadJCVhc "https://github.com/estree/estree"). парсер Babel хорош именно тем, что он bleeding edge.
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") И тем же одновременно и плох, так как использует внутренние типы нод, которые внешние либы могут принять за ста…
 
 .[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") но на его основе потом и обсуждается формат для ESTree. кому-то нравится теория, а мне нужно использовать ещё вчера.
 
-.[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") я начал говорить о конкретных инструментах типа ESLint\/JSCS, а ты про глобальное. совершенно очевидно, что есть эсприма и акорн.
+.[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") я начал говорить о конкретных инструментах типа ESLint/JSCS, а ты про глобальное. совершенно очевидно, что есть эсприма и акорн.
 
 .[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") про esprima-fb нужно напоминать? :\) да, оно когда-нибудь будет стабильное и покрывающее всё-всё. но не сегодня.
 
@@ -764,7 +754,7 @@ RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Это основная политика Бабеля - можно экспериментировать с новыми фичами, но мы их в любой момент можем убрать.
 
-.[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") ты снова про какую-то абстрактную теорию. у тебя есть живой проект на ES6\/ES7, который нужно, например, линтить? похоже, что нет
+.[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") ты снова про какую-то абстрактную теорию. у тебя есть живой проект на ES6/ES7, который нужно, например, линтить? похоже, что нет
 
 .[@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") можно сколько угодно обсуждать инструмент в вакууме, но если бы не появился babel-eslint, ваш "ESPree" до сих пор бы тужился.
 
@@ -808,25 +798,25 @@ RT [@tvii](https://twitter.com/tvii "Vladimir Varankin"): [@jsunderhood](https:/
 
 RT [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а есть смысл переходить, если пишешь на es5 и не на react? мне это видится переходом ради перехода
 
-.[@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") помимо ES6 и прочих JSX смысл есть уже просто потому, что это новое поколение знакомого инструмента [eslint.org\/docs\/rules\/](http://t.co/Z3Gr8BHixJ "http://eslint.org/docs/rules/")
+.[@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") помимо ES6 и прочих JSX смысл есть уже просто потому, что это новое поколение знакомого инструмента [eslint.org/docs/rules/](http://t.co/Z3Gr8BHixJ "http://eslint.org/docs/rules/")
 
 RT [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") можно новое начать писать на ES6
 
 RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А причём тут React?
 
-.[@freiksenet](https://twitter.com/freiksenet "freiksenet") [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") заметили, как мощно React\/JSX зафорсили ES6, что иногда даже одно без другого уже кажется странным? :\)
+.[@freiksenet](https://twitter.com/freiksenet "freiksenet") [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk") заметили, как мощно React/JSX зафорсили ES6, что иногда даже одно без другого уже кажется странным? :\)
 
 \(по большому счёту и JSCS не нужен, codestyle-правил в ESLint по крайней мере для меня уже достаточно\)
 
 \(с одной стороны, разделение обязанностей это хорошо, с другой – два разных инструмента это слишком\)
 
-btw, husky – "Prevents bad commit or push \(git hooks, pre-commit, pre-push and all that stuff…\)" [github.com\/typicode\/husky](https://t.co/bgUmZ60heP "https://github.com/typicode/husky")
+btw, husky – "Prevents bad commit or push \(git hooks, pre-commit, pre-push and all that stuff…\)" [github.com/typicode/husky](https://t.co/bgUmZ60heP "https://github.com/typicode/husky")
 
-когда кто-то всерьёз говорит "ES2015" вместо "ES6" \[gif\] [replygif.net\/i\/100.gif](http://t.co/eqUGi0qO89 "http://replygif.net/i/100.gif")
+когда кто-то всерьёз говорит "ES2015" вместо "ES6" \[gif\] [replygif.net/i/100.gif](http://t.co/eqUGi0qO89 "http://replygif.net/i/100.gif")
 
 перестал следить за Node.js + io.js с момента анонса "foundation". что там? мёрдж? роадмапы?
 
-homebrew-rmtree – remove a formula and its unused dependencies [github.com\/beeftornado\/ho…](https://t.co/lC2JMjZDyC "https://github.com/beeftornado/homebrew-rmtree")
+homebrew-rmtree – remove a formula and its unused dependencies [github.com/beeftornado/ho…](https://t.co/lC2JMjZDyC "https://github.com/beeftornado/homebrew-rmtree")
 
 ## Воскресенье <small>116 твитов</small>
 
@@ -838,33 +828,33 @@ RT [@alexfedoseev](https://twitter.com/alexfedoseev "Alex"): [@jsunderhood](http
 
 \(мы даже сделали в Yummies безумный экстенд отдельных файлов с propTypes по слоям, но пока так ни разу не воспользовались\)
 
-был хороший issue в тему [github.com\/facebook\/flow\/…](https://t.co/hTKSXRQj1F "https://github.com/facebook/flow/issues/277#event-338421297") – propTypes на фоне нормальной типизации кажется костылём, хоть в нём и есть свои фишки.
+был хороший issue в тему [github.com/facebook/flow/…](https://t.co/hTKSXRQj1F "https://github.com/facebook/flow/issues/277#event-338421297") – propTypes на фоне нормальной типизации кажется костылём, хоть в нём и есть свои фишки.
 
-\(Flow, конечно, хорош, но он статический "типизатор". по поводу динамической типизации я всё ещё верю в штуки типа [github.com\/codemix\/babel-…](https://t.co/90obOQPQKU "https://github.com/codemix/babel-plugin-typecheck")\)
+\(Flow, конечно, хорош, но он статический "типизатор". по поводу динамической типизации я всё ещё верю в штуки типа [github.com/codemix/babel-…](https://t.co/90obOQPQKU "https://github.com/codemix/babel-plugin-typecheck")\)
 
 RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сон не нужен? \(:
 
 .[@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов") у меня уже почти 10 утра
 
-+ [github.com\/gcanti\/flowche…](https://t.co/0vBqsGI7Rc "https://github.com/gcanti/flowcheck") + [github.com\/gaearon\/flowch…](https://t.co/o21PpXTKcn "https://github.com/gaearon/flowcheck-loader")
++ [github.com/gcanti/flowche…](https://t.co/0vBqsGI7Rc "https://github.com/gcanti/flowcheck") + [github.com/gaearon/flowch…](https://t.co/o21PpXTKcn "https://github.com/gaearon/flowcheck-loader")
 
 задумка простая: перед тем как удалять, превращать все flow types annotations в инлайновые ассерты. только в dev-режиме, конечно же.
 
 RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и да, typescript тащит!
 
-RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@backendsecret](https://twitter.com/backendsecret "Разработчик Бэкенда") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rubyunderhood](https://twitter.com/rubyunderhood "Ruby Разработчик") думаю, картинка будет полезна [pic.twitter.com\/6tkRlf8CqN](http://t.co/6tkRlf8CqN)
+RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@backendsecret](https://twitter.com/backendsecret "Разработчик Бэкенда") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@rubyunderhood](https://twitter.com/rubyunderhood "Ruby Разработчик") думаю, картинка будет полезна [pic.twitter.com/6tkRlf8CqN](http://t.co/6tkRlf8CqN)
 
-RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 1\/6 A young developer approached me after a conf talk and said, “You must feel really bad about the failure of object-oriented p…
+RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 1/6 A young developer approached me after a conf talk and said, “You must feel really bad about the failure of object-oriented p…
 
-RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 2\/6 I was confused. I said, “What do you mean that object-orient programming was a failure. Why do you think that?”
+RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 2/6 I was confused. I said, “What do you mean that object-orient programming was a failure. Why do you think that?”
 
-RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 3\/6 He said, “OOP was supposed to fix all of our software engineering problems and it clearly hasn’t."
+RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 3/6 He said, “OOP was supposed to fix all of our software engineering problems and it clearly hasn’t."
 
-RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 4\/6 He continued: "Building software today is just as hard as it was before OOP. came along.”
+RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 4/6 He continued: "Building software today is just as hard as it was before OOP. came along.”
 
-RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 5\/6 I said: “Have you ever look at the programs we were building in the early 1980s? At how limited their functionality and UIs …
+RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 5/6 I said: “Have you ever look at the programs we were building in the early 1980s? At how limited their functionality and UIs …
 
-RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 6\/6 OOP has been an incredible success. It enabled us to manage complexity as we grew from 100KB applications to today’s 100MB a…
+RT [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock"): 6/6 OOP has been an incredible success. It enabled us to manage complexity as we grew from 100KB applications to today’s 100MB a…
 
 промежуток времени, через который собственный код уже кажется корявым, стал измеряться не годом, а месяцем. мозг постоянно нагрет.
 
@@ -926,7 +916,7 @@ RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@sevaisnot
 
 ультрагиком хорошо быть, когда ты мальчишка, и все вокруг тебя тоже мальчишки, и вы меряетесь странными для обычных людей письками.
 
-RT [@sevaisnotcow](https://twitter.com/sevaisnotcow "wwwsevolod"): [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это был крупный соцсервис, с миллионом а\/б тестов, из за них это и произошло, и из за отсутств…
+RT [@sevaisnotcow](https://twitter.com/sevaisnotcow "wwwsevolod"): [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это был крупный соцсервис, с миллионом а/б тестов, из за них это и произошло, и из за отсутств…
 
 RT [@sevaisnotcow](https://twitter.com/sevaisnotcow "wwwsevolod"): [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кнопочку то я вставил быстро, неделю я делал так что бы она одинаково везде работала
 
@@ -946,7 +936,7 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https:/
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") даже не знаю, у меня такого нет, причины почему код был написан так или иначе мне как-то понятны..
 
-RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Причем всегда известно, какие есть опции по улучшению\/изменению. Но чаще объективных причин менять нет.
+RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Причем всегда известно, какие есть опции по улучшению/изменению. Но чаще объективных причин менять нет.
 
 RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") код должен быть выразительным и без мусора.
 
@@ -994,12 +984,11 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@vladimore](http
 
 RT [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") проблема большинства программистов - инфантелизм. Отсюда и бескончные размышления о коде как о высшей ценности.
 
-[pic.twitter.com\/6uDrgh3c4Y](http://t.co/6uDrgh3c4Y)
+[pic.twitter.com/6uDrgh3c4Y](http://t.co/6uDrgh3c4Y)
 
-RT [@int16h](https://twitter.com/int16h "⠀KØLIBABCHUK"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com\/AoqHwjWsKr](http://t.co/AoqHwjWsKr)
+RT [@int16h](https://twitter.com/int16h "⠀KØLIBABCHUK"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/AoqHwjWsKr](http://t.co/AoqHwjWsKr)
 
-RT [@apostololeg](https://twitter.com/apostololeg "^_^"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда N обработчиков с 80% копипаста лучше, чем один обработчик c декларацией параметров для них ?
-https:\/\/t.[jsfiddle.net\/trnt\/savrdygy\/](https://t.co/rk1bR3lDXo "https://jsfiddle.net/trnt/savrdygy/")
+RT [@apostololeg](https://twitter.com/apostololeg "^_^"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда N обработчиков с 80% копипаста лучше, чем один обработчик c декларацией параметров для них ?<br />https://t.[jsfiddle.net/trnt/savrdygy/](https://t.co/rk1bR3lDXo "https://jsfiddle.net/trnt/savrdygy/")
 
 .[@apostololeg](https://twitter.com/apostololeg "^_^") когда один обработчик становится слишком полиморфным и сложным
 
@@ -1023,7 +1012,7 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](ht
 
 .[@freiksenet](https://twitter.com/freiksenet "freiksenet") задрачивать покрытие на 100% рационально разве что на небольших проектах. задача №1 – убедиться, что покрыто то, что должно.
 
-ну или если это действительно критично [github.com\/babel\/babel\/is…](https://t.co/PYU2JY836v "https://github.com/babel/babel/issues/1851")
+ну или если это действительно критично [github.com/babel/babel/is…](https://t.co/PYU2JY836v "https://github.com/babel/babel/issues/1851")
 
 .[@freiksenet](https://twitter.com/freiksenet "freiksenet") код Babel довольно сильно меняется, отсюда потребность сразу видеть то, что из нового или переделанного старого не покрыто.
 
@@ -1033,15 +1022,15 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](ht
 
 RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Когда у тебя очевидный ввод и вывод в программе, как в babel, то тестировать не так сложно.
 
-чем умнее программист, тем тупее его функции [pic.twitter.com\/Fw3a6BSZqk](http://t.co/Fw3a6BSZqk)
+чем умнее программист, тем тупее его функции [pic.twitter.com/Fw3a6BSZqk](http://t.co/Fw3a6BSZqk)
 
 RT [@superv1s0r](https://twitter.com/superv1s0r "Александр Коротков"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") нормальному?
 
 .[@superv1s0r](https://twitter.com/superv1s0r "Александр Коротков") ну в смысле прикрутить к проекту новый инструмент не составляет труда :\) бывает же всякое.
 
-RT [@illbullet](https://twitter.com/illbullet "Ill Bullet"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@freiksenet](https://twitter.com/freiksenet "freiksenet")  что про tape думаете\/знаете?
+RT [@illbullet](https://twitter.com/illbullet "Ill Bullet"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@freiksenet](https://twitter.com/freiksenet "freiksenet")  что про tape думаете/знаете?
 
-.[@illbullet](https://twitter.com/illbullet "Ill Bullet") [@freiksenet](https://twitter.com/freiksenet "freiksenet") знал, что он есть, и что это в каком-то смысле альтернатива mocha. вот пошёл читать подробно [medium.com\/javascript-sce…](https://t.co/qjN6O5iJyy "https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4")
+.[@illbullet](https://twitter.com/illbullet "Ill Bullet") [@freiksenet](https://twitter.com/freiksenet "freiksenet") знал, что он есть, и что это в каком-то смысле альтернатива mocha. вот пошёл читать подробно [medium.com/javascript-sce…](https://t.co/qjN6O5iJyy "https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4")
 
 .[@illbullet](https://twitter.com/illbullet "Ill Bullet") [@freiksenet](https://twitter.com/freiksenet "freiksenet") а можно преимущества в своих двух словах?
 
@@ -1051,9 +1040,9 @@ RT [@mostolovista](https://twitter.com/mostolovista "Georgiy Mostolovitsa"): [@j
 
 RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о, да! Однажды я решил что ифы не нужны — есть же тернарки. Потом правда одумался, но 2 проекта так написа[@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov")
 
-.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") [pic.twitter.com\/mXDcV16Huk](http://t.co/mXDcV16Huk)
+.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") [pic.twitter.com/mXDcV16Huk](http://t.co/mXDcV16Huk)
 
-эту забавную неделю с вами был [@deepsweet](https://twitter.com/deepsweet " k i r"). надеюсь, что было интересно, спасибо всем за общение :\) логи будут здесь [jsunderhood.ru\/deepsweet](https://t.co/mwSBEsyWtI "https://jsunderhood.ru/deepsweet")
+эту забавную неделю с вами был [@deepsweet](https://twitter.com/deepsweet " k i r"). надеюсь, что было интересно, спасибо всем за общение :\) логи будут здесь [jsunderhood.ru/deepsweet](https://t.co/mwSBEsyWtI "https://jsunderhood.ru/deepsweet")
 
 часто говоря "мы" я имел в виду себя и [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov") – моего коллегу, напарника по парному программированию и просто хорошего трансгендера.
 
