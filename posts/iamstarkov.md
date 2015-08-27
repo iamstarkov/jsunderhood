@@ -122,7 +122,9 @@ RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitt
 
 Но потом [@lise\_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya") подсказала очень удобный воркфлоу
 
-1\. Начинаешь пустой таск<br />2. Как закончил то, чем занимался, заполняешь пустой таск и заканчиваешь его.<br />3. Повтори с пункта 1
+1\. Начинаешь пустой таск  
+2. Как закончил то, чем занимался, заполняешь пустой таск и заканчиваешь его.  
+3. Повтори с пункта 1
 
 Так даже появляется драйв, так как ты видишь сколько времени потратил на то, что делал
 
@@ -200,7 +202,9 @@ RT [@lise\_yy](https://twitter.com/lise_yy "Elisaveta Yanovskaya"): [@straykov](
 
 RT [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") какое приложение на ios порекомендуешь?
 
-RT [@dkushnikov](https://twitter.com/dkushnikov "Dmitry Kushnikov"): [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />Flat Tomato \(Time Management Tool Inspire By Pomodoro\), Jian bu<br />[appsto.re/ru/AfI4Q.i](https://t.co/wjxAwSrqO5 "https://appsto.re/ru/AfI4Q.i")
+RT [@dkushnikov](https://twitter.com/dkushnikov "Dmitry Kushnikov"): [@purrrminator](https://twitter.com/purrrminator "Andrey Kadochnikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")   
+Flat Tomato \(Time Management Tool Inspire By Pomodoro\), Jian bu  
+[appsto.re/ru/AfI4Q.i](https://t.co/wjxAwSrqO5 "https://appsto.re/ru/AfI4Q.i")
 
 Про ожидания написал так много, потому что мне кажется это очень важной темой и красными нитками проходит через весь мой опыт
 
@@ -312,11 +316,15 @@ RT [@ru\_rodweb](https://twitter.com/ru_rodweb "Igor Deryabin"): [@jsunderhood](
 
 ## Четверг <small>50 твитов</small>
 
-Японцы тоже знают, что помидорки хороши для вас <br />[youtube.com/watch?v=oUXj5b…](https://t.co/7bIpaKLjR5 "https://www.youtube.com/watch?v=oUXj5bZcNaY") /сс [@neonick](https://twitter.com/neonick "Nick Marchenko") [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov")
+Японцы тоже знают, что помидорки хороши для вас   
+[youtube.com/watch?v=oUXj5b…](https://t.co/7bIpaKLjR5 "https://www.youtube.com/watch?v=oUXj5bZcNaY") /сс [@neonick](https://twitter.com/neonick "Nick Marchenko") [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov")
 
 Вы пользуетесь Chrome или Firefox?
 
-Итоги опроса используемых разработчиками браузеров:<br />chrome 6<br />firefox 1<br />safari 1
+Итоги опроса используемых разработчиками браузеров:  
+chrome 6  
+firefox 1  
+safari 1
 
 Думаю в целом тренд ясен
 
@@ -526,7 +534,9 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 
 спасибо Диме [@lyapustin](https://twitter.com/lyapustin "Lyapustin") и Полине [@1006pieces](https://twitter.com/1006pieces "Polina Lyapustina")
 
-RT [@axlerk](https://twitter.com/axlerk "Pavel Khudyakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинский") [@toivonens](https://twitter.com/toivonens "var ya; // ru")<br />&gt; Кораны-Эмигранты<br />иншалла!
+RT [@axlerk](https://twitter.com/axlerk "Pavel Khudyakov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@korochinskiy](https://twitter.com/korochinskiy "Антон Корочинский") [@toivonens](https://twitter.com/toivonens "var ya; // ru")  
+&gt; Кораны-Эмигранты  
+иншалла!
 
 Простите, это всё автокоррект
 

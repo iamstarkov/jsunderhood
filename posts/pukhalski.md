@@ -32,13 +32,25 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") ранее играл в нескольких низкобюджетных панк и метал бандах. Сейчас занимаю позицию сочувствующего меломана.
 
-RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru")<br />&gt; jack of all trades, master of none<br />что это?
+RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru")  
+&gt; jack of all trades, master of none  
+что это?
 
-.@matmuchrapna [@toivonens](https://twitter.com/toivonens "var ya; // ru") самоирония.<br /><br />[en.wikipedia.org/wiki/Jack\_of\_a…](http://t.co/aJYAIlu7TS "http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none")
+.@matmuchrapna [@toivonens](https://twitter.com/toivonens "var ya; // ru") самоирония.  
+  
+[en.wikipedia.org/wiki/Jack\_of\_a…](http://t.co/aJYAIlu7TS "http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none")
 
 RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") знакомо\) А есть записи?
 
-.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") <br />2005-2007: <br />- [myspace.com/obediencetoaut…](https://t.co/OTvbqUHuOV "https://myspace.com/obediencetoauthority/music/songs")<br /><br />2010-2013: <br />- [fcfrwrd.bandcamp.com](https://t.co/6dvq51yTI1 "https://fcfrwrd.bandcamp.com")<br /><br />2013: <br />- [vk.com/slavexship](https://t.co/GkKnyqkwQO "https://vk.com/slavexship")
+.[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov")   
+2005-2007:   
+- [myspace.com/obediencetoaut…](https://t.co/OTvbqUHuOV "https://myspace.com/obediencetoauthority/music/songs")  
+  
+2010-2013:   
+- [fcfrwrd.bandcamp.com](https://t.co/6dvq51yTI1 "https://fcfrwrd.bandcamp.com")  
+  
+2013:   
+- [vk.com/slavexship](https://t.co/GkKnyqkwQO "https://vk.com/slavexship")
 
 А сейчас мы поделимся на две группы: сторонники MV\* в правом углу в красных шортах и приверженцы Flux в левом углу в белых подгузниках...
 
@@ -48,7 +60,9 @@ RT @itgek: [@jsunderhood](https://twitter.com/jsunderhood "Разработчи�
 
 RT @matmuchrapna: @itgek [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") реферри
 
-Рубрику "Послеобеденное видео" сегодня представляет [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock") с докладом о JS как языке эры распределенных вычислений.<br /><br />[vimeo.com/67050196](https://t.co/34dKB4I7vg "https://vimeo.com/67050196")
+Рубрику "Послеобеденное видео" сегодня представляет [@awbjs](https://twitter.com/awbjs "Allen Wirfs-Brock") с докладом о JS как языке эры распределенных вычислений.  
+  
+[vimeo.com/67050196](https://t.co/34dKB4I7vg "https://vimeo.com/67050196")
 
 RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мне интересно мы говорим frontend developer, подразумеваем в том числе и крутого-верстальщика? Или вёрстка э…
 
@@ -124,7 +138,10 @@ RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@dshster](ht
 
 RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я считаю что будущее за переходом дизайнеров в верстку и фронтендеров в full stack \(но с фокусом на UI\) [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov")
 
-RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Тогда UI\\UX должны уйти дальше уйти от граф.дизайна, тогда так:<br /><br />1. ui\\ux.<br />2. граф.диз + вёрстка.…
+RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Тогда UI\\UX должны уйти дальше уйти от граф.дизайна, тогда так:  
+  
+1. ui\\ux.  
+2. граф.диз + вёрстка.…
 
 RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") Скорей наоборот UI/UX с версткой, а граф. дизайнеры отдельно [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
@@ -138,7 +155,9 @@ RT [@lomakin](https://twitter.com/lomakin "Alexander Lomakin"): Из всех т
 
 RT [@dshster](https://twitter.com/dshster "Дмитрий Швалёв"): [@operatino](https://twitter.com/operatino "Robert Haritonov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") ни разу не встречал pure-js client-side. Как он работает в отрыве от браузера?
 
-Послеобеденное видео: Эрик [@headinthebox](https://twitter.com/headinthebox "Erik Meijer") Мейер объясняет, в чем программисты должны быть похожи на футболистов.<br /><br />[vimeo.com/110554082](https://t.co/DrZQPUeWzX "https://vimeo.com/110554082")
+Послеобеденное видео: Эрик [@headinthebox](https://twitter.com/headinthebox "Erik Meijer") Мейер объясняет, в чем программисты должны быть похожи на футболистов.  
+  
+[vimeo.com/110554082](https://t.co/DrZQPUeWzX "https://vimeo.com/110554082")
 
 RT [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А как будет "Это не моя работа" на голландском?
 
@@ -228,7 +247,10 @@ RT [@mursya\_ru](https://twitter.com/mursya_ru "Елена Джетпыспае�
 
 .[@mursya\_ru](https://twitter.com/mursya_ru "Елена Джетпыспаева"), спасибо. Но я еще тот раздолбай. Поэтому наши митапы всегда больше тусовки, чем вычурные миниконференции \)
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Look! [iamstarkov.com](http://t.co/6iTmxqYVHF "http://iamstarkov.com/")<br />Look Ma’ — No CSS! and JS!<br />Look Ma’ — Still Mobile Friendly!<br />Look Ma’ — Blazingly Fast!
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): Look! [iamstarkov.com](http://t.co/6iTmxqYVHF "http://iamstarkov.com/")  
+Look Ma’ — No CSS! and JS!  
+Look Ma’ — Still Mobile Friendly!  
+Look Ma’ — Blazingly Fast!
 
 .[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") Модник!
 

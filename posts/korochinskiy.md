@@ -202,7 +202,11 @@ RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood]
 
 RT [@kudesa](https://twitter.com/kudesa "Dmitry"): [@evlogii](https://twitter.com/evlogii "Evlogiy Sutormin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Не нужно себя заставлять пить воду, нужно не забывать пить регулярно, чтобы сохранять баланс воды в орган…
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@GruZZ](https://twitter.com/GruZZ "Nikolay Sadovnikov") @matmuchrapna [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru")<br /><br />«Питание и физическая дегенерация»<br /><br />[bookmate.com/books/oQENE3qj](https://t.co/RSdG1mStiK "https://bookmate.com/books/oQENE3qj")
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@GruZZ](https://twitter.com/GruZZ "Nikolay Sadovnikov") @matmuchrapna [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru")  
+  
+«Питание и физическая дегенерация»  
+  
+[bookmate.com/books/oQENE3qj](https://t.co/RSdG1mStiK "https://bookmate.com/books/oQENE3qj")
 
 ## Среда <small>16 твитов</small>
 
@@ -318,7 +322,8 @@ RT [@neonick](https://twitter.com/neonick "Nick Marchenko"): [@jsunderhood](http
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 4 дня в неделю по 4ч + 3ч на обед и перерывы, 5-й день коллективное обучение команды \(хакатон, обмен знаниями, …
 
-RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если я каждый день по 9 часов, то к концу работы "труп".<br />Работа не всегда = делать полезности.Полезности можно …
+RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если я каждый день по 9 часов, то к концу работы "труп".  
+Работа не всегда = делать полезности.Полезности можно …
 
 RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Например кодить, но OpenSource проекты. учить чужих детей. Заниматься волонтёрством.
 
@@ -328,7 +333,8 @@ RT [@veged](https://twitter.com/veged "Sergey Berezhnoy"): [@jsunderhood](https:
 
 ## Воскресенье <small>2 твита</small>
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): Раздумываю над тем, чтобы перейти на 4-х дневную рабочую<br />неделю.
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): Раздумываю над тем, чтобы перейти на 4-х дневную рабочую  
+неделю.
 
 Хочу поделиться с вами примером отличной документации [angular-translate.github.io/docs/\#/guide](http://t.co/7KHugGcO4W "http://angular-translate.github.io/docs/#/guide")
 

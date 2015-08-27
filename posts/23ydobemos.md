@@ -26,7 +26,8 @@ RT [@svenyurgensson](https://twitter.com/svenyurgensson "YuryBatenko"): [@jsunde
 
 Про переписывание никто и не говорит, это как раз крайняя мера, которая очень редко оказывается оправданной [@svenyurgensson](https://twitter.com/svenyurgensson "YuryBatenko")
 
-RT [@CreWarior](https://twitter.com/CreWarior "Тонкошкурик Сергей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") взвесить все +/- ну и выдвигать свое мнение. <br />Разве не так?\) Как бы если переход целесообразен, тогда ОК. Если …
+RT [@CreWarior](https://twitter.com/CreWarior "Тонкошкурик Сергей"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") взвесить все +/- ну и выдвигать свое мнение.   
+Разве не так?\) Как бы если переход целесообразен, тогда ОК. Если …
 
 Главная проблема любого изменения, как мне кажется, не технологии, а люди. Очень часто встречаешь сопротивление всему новому
 
@@ -276,7 +277,11 @@ RT [@freiksenet\_ru](https://twitter.com/freiksenet_ru "Михаил Новик�
 
 Ребят, я понимаю, что можно смотреть код, что генерит babel.  Мне больше интересно, почему, например, это происходит [pic.twitter.com/6s9Wfdzex3](http://t.co/6s9Wfdzex3)
 
-RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") const wrap = ::Array.prototype.concat<br /><br />или если чисто ES6:<br /><br />const wrap = Array.prototype.concat.bind\(Array.prot…
+RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") const wrap = ::Array.prototype.concat  
+  
+или если чисто ES6:  
+  
+const wrap = Array.prototype.concat.bind\(Array.prot…
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Хотел написать, но на самом деле, похоже на багу с тайп-инференсом, в обоих случаях должна быть ошибка для wrap…
 
@@ -336,7 +341,10 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сделайте конфиг shareable и подключайте его в jscs и eslint, тем самы он будет один на все репы
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): New Features in Ember.js 2.0 &lt;This space intentionally left blank!&gt;<br /><br />[emberjs.com/blog/2015/08/1…](http://t.co/qFvE2DtBIk "http://emberjs.com/blog/2015/08/13/ember-2-0-released.html")<br />Awesome work by [@emberjs](https://twitter.com/emberjs "EmberJS") team. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): New Features in Ember.js 2.0 &lt;This space intentionally left blank!&gt;  
+  
+[emberjs.com/blog/2015/08/1…](http://t.co/qFvE2DtBIk "http://emberjs.com/blog/2015/08/13/ember-2-0-released.html")  
+Awesome work by [@emberjs](https://twitter.com/emberjs "EmberJS") team. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@kotschrdngra](https://twitter.com/kotschrdngra "A.I."): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") все так, фраза не несет конструктива — любой код можно написать 10-ю способами и, соотв., про любой код спро…
 

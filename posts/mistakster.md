@@ -100,7 +100,8 @@ RT [@kohgpat](https://twitter.com/kohgpat "Nikolay Burlov"): [@jsunderhood](http
 
 RT [@kohgpat](https://twitter.com/kohgpat "Nikolay Burlov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я думаю у всех так бывает :\). я не исключение.
 
-RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Да как-то так :\) Если серьёзно, то когда как. Если уже навёлся фокус на задачу, то уже ничто не оторвёт.<br />http://t.[i.imgur.com/MB4oSDO.gif](http://t.co/YSLWEBa4Ax "http://i.imgur.com/MB4oSDO.gif")
+RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Да как-то так :\) Если серьёзно, то когда как. Если уже навёлся фокус на задачу, то уже ничто не оторвёт.  
+http://t.[i.imgur.com/MB4oSDO.gif](http://t.co/YSLWEBa4Ax "http://i.imgur.com/MB4oSDO.gif")
 
 .[@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов") Ха-ха! Зачётный скринкаст получился. ;-\)
 
@@ -350,7 +351,9 @@ RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@Selen
 
 RT [@kohgpat](https://twitter.com/kohgpat "Nikolay Burlov"): “Burnout”, судя по ответам, самая частая причина, почему люди хотят покинуть индустрию. [twitter.com/jesslynnrose/s…](https://t.co/HVmgeTSri5 "https://twitter.com/jesslynnrose/status/618764063196250112") /cc [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") [@rubyunderhood](https://twitter.com/rubyunderhood "Ruby Разработчик") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@backendsecret](https://twitter.com/backendsecret "Разработчик Бэкенда") смотрите<br />[mtrpl.ru/troubles](http://t.co/F21InjcqnB "http://mtrpl.ru/troubles") про терапию <br />[habrahabr.ru/post/260249/](http://t.co/fycMLXZVnV "http://habrahabr.ru/post/260249/")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") [@rubyunderhood](https://twitter.com/rubyunderhood "Ruby Разработчик") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@backendsecret](https://twitter.com/backendsecret "Разработчик Бэкенда") смотрите  
+[mtrpl.ru/troubles](http://t.co/F21InjcqnB "http://mtrpl.ru/troubles") про терапию   
+[habrahabr.ru/post/260249/](http://t.co/fycMLXZVnV "http://habrahabr.ru/post/260249/")
 
 Наша постоянная телезрительница из г.Хельсинки Финляндской АССР спрашивает у меня про «36». +[@toivonens](https://twitter.com/toivonens "var ya; // ru") [twitter.com/toivonens/stat…](https://t.co/MEEAg19E2q "https://twitter.com/toivonens/status/618053771814391808")
 
@@ -446,7 +449,9 @@ RT [@kinday](https://twitter.com/kinday "Леонард Киндай"): [@jsunde
 
 RT [@me\_mrsum](https://twitter.com/me_mrsum "Sum"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") пробую webpack уже 4 месяца. Полностью отказался от gulp/grunt за ненадобностью
 
-RT [@me\_mrsum](https://twitter.com/me_mrsum "Sum"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У нас в [#rambler](https://twitter.com/search?q=%23rambler) есть boilerplate с webpack <br />[github.com/rambler-digita…](https://t.co/J390akbcNu "https://github.com/rambler-digital-solutions/rambler-webpack-boilerplate")<br />Может кому будет интересно =\)
+RT [@me\_mrsum](https://twitter.com/me_mrsum "Sum"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") У нас в [#rambler](https://twitter.com/search?q=%23rambler) есть boilerplate с webpack   
+[github.com/rambler-digita…](https://t.co/J390akbcNu "https://github.com/rambler-digital-solutions/rambler-webpack-boilerplate")  
+Может кому будет интересно =\)
 
 RT [@verkholantsev](https://twitter.com/verkholantsev "billy shears"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ее не понять без чтения документации. И почему для настроек используется строка? Почему не хэш?
 
@@ -474,11 +479,13 @@ RT [@gryzzly](https://twitter.com/gryzzly "gryzzly"): [@pomidore](https://twitte
 
 RT [@iAdramelk](https://twitter.com/iAdramelk "Alexey Ivanov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") gzip по идее должен очень хорошо жать одинаковые картинки в data-uri, поэтому пофиг.
 
-RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот: [gist.github.com/Olegas/26d059a…](https://t.co/vZ7aPZYph3 "https://gist.github.com/Olegas/26d059a9b16514828b3a")<br />Я хочу чтобы все собралось, кроме async. А он загрузился асинхр. но без чанков w…
+RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот: [gist.github.com/Olegas/26d059a…](https://t.co/vZ7aPZYph3 "https://gist.github.com/Olegas/26d059a9b16514828b3a")  
+Я хочу чтобы все собралось, кроме async. А он загрузился асинхр. но без чанков w…
 
 Обсуждение конфигурации загрузчиков. Не пропустите. Тред начинается тут ↓ [twitter.com/andreypopp/sta…](https://t.co/zSg5ylNgPu "https://twitter.com/andreypopp/status/619128559894986752")
 
-RT [@pvlpvs](https://twitter.com/pvlpvs "П . П"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") нагоняет на меня тоску.<br />"Сколько я ещё чего не знаю..."
+RT [@pvlpvs](https://twitter.com/pvlpvs "П . П"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") нагоняет на меня тоску.  
+"Сколько я ещё чего не знаю..."
 
 Простите, никого не хотел печалить. Пошли обмазываться Вебпаком дальше!
 
@@ -520,9 +527,12 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@vmakhaev]
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@vmakhaev](https://twitter.com/vmakhaev "Vladimir Makhaev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и ещё одно горячее [youtube.com/watch?v=IrgHur…](https://t.co/ND8secHE1V "https://www.youtube.com/watch?v=IrgHurBjQbg")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ещё не пробовал, но вот свежий доклад [youtube.com/watch?v=WQLzZf…](https://t.co/6UIrVXntaA "https://www.youtube.com/watch?v=WQLzZf34FJ8")<br />спека [facebook.github.io/graphql/](http://t.co/aeYtaBjDz3 "http://facebook.github.io/graphql/")<br />и js [github.com/graphql/graphq…](https://t.co/kcanrLPlKX "https://github.com/graphql/graphql-js")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ещё не пробовал, но вот свежий доклад [youtube.com/watch?v=WQLzZf…](https://t.co/6UIrVXntaA "https://www.youtube.com/watch?v=WQLzZf34FJ8")  
+спека [facebook.github.io/graphql/](http://t.co/aeYtaBjDz3 "http://facebook.github.io/graphql/")  
+и js [github.com/graphql/graphq…](https://t.co/kcanrLPlKX "https://github.com/graphql/graphql-js")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") или быть [@paul\_irish](https://twitter.com/paul_irish "Paul Irish") <br />[paulirish.com/contact-me/](http://t.co/1aB9CaDOEs "http://www.paulirish.com/contact-me/") [pic.twitter.com/17a1XhlOPY](http://t.co/17a1XhlOPY)
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") или быть [@paul\_irish](https://twitter.com/paul_irish "Paul Irish")   
+[paulirish.com/contact-me/](http://t.co/1aB9CaDOEs "http://www.paulirish.com/contact-me/") [pic.twitter.com/17a1XhlOPY](http://t.co/17a1XhlOPY)
 
 RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") для начала стоит определить критерии "работа мечты".
 
@@ -632,7 +642,8 @@ RT [@unel86](https://twitter.com/unel86 "Peter Jah (0-)"): [@Bizi](https://twitt
 
 Давно знаю Льва [@ruGreLI](https://twitter.com/ruGreLI "GreLI") как опытного CSS-ера. В последнее время он мейнтейнит [#svgo](https://twitter.com/search?q=%23svgo) ↓ [twitter.com/ruGreLI/status…](https://t.co/SSbY42VWMZ "https://twitter.com/ruGreLI/status/619456493419659264")
 
-RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") спасибо! А теперь я воспользуюсь твоей мощью снова.<br />Вопрос: как кто дебажит node.js? \(хоть тут и фронтендщики, но …
+RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") спасибо! А теперь я воспользуюсь твоей мощью снова.  
+Вопрос: как кто дебажит node.js? \(хоть тут и фронтендщики, но …
 
 RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я пользовался [github.com/adobe-research…](https://t.co/6FUpL7yGQx "https://github.com/adobe-research/theseus") в [@brackets](https://twitter.com/brackets "Brackets") и очень доволен. Но не могу найти чего-то подобного для [@AtomEditor](https://twitter.com/AtomEditor "Atom Editor")
 
@@ -680,7 +691,8 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Kern\_0](
 
 Любознательности Андрея [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник") нет предела. Подписка на его аккаунт сразу даёт баф +20 к интеллекту ↓ [twitter.com/andrey\_sitnik/…](https://t.co/Fdch1BPtnw "https://twitter.com/andrey_sitnik/status/619491333003182080")
 
-RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Владелец [github.com/rockncoders](https://t.co/UHECZKSxoC "https://github.com/rockncoders") отзовись пожалуйста!<br />[#frontend](https://twitter.com/search?q=%23frontend)
+RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Владелец [github.com/rockncoders](https://t.co/UHECZKSxoC "https://github.com/rockncoders") отзовись пожалуйста!  
+[#frontend](https://twitter.com/search?q=%23frontend)
 
 Подписывайтесь на ленту Олега [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"). Он расскажет вам про клиентский и серверный JS.  ↓  [twitter.com/oelifantiev/st…](https://t.co/a2GSA9RdeF "https://twitter.com/oelifantiev/status/619554548319916032")
 
@@ -728,7 +740,9 @@ RT [@teddyp1cker](https://twitter.com/teddyp1cker "teddyp1cker"): [@jsunderhood]
 
 .[@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") Я сам не участвовал в подобном. Как минимум 2 моих знакомых в Челябинске целенаправленно идут читать курсы дизайна или разработки
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") мы в Симферополе делали спецкурс по фронтенду в университете.<br /><br />Провели ШРИ в 2013, из 33 взяли 14 на ра…
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") мы в Симферополе делали спецкурс по фронтенду в университете.  
+  
+Провели ШРИ в 2013, из 33 взяли 14 на ра…
 
 .[@harisov](https://twitter.com/harisov "Vitaly Harisov"), я знаю, что в ШРИ ещё и большой конкурс был. Стоит устраивать жёсткий предварительный отбор? [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry"), в вузе такого нет?
 
@@ -738,15 +752,25 @@ RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](http
 
 RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") когда мы делали Школы вёрстки в Симферополе мы брали всех, кто приходил \(было мало\). Цель была засеять …
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")<br /><br />ШРИ в этом году будет в Москве с 7-го сентября.<br /><br />Регистрация открыта, можно подавать заявку<br /><br />https://t[academy.yandex.ru/events/shri/ms…](https://t.co/rs5A02K5pa "https://academy.yandex.ru/events/shri/msk-2015/")
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  
+  
+ШРИ в этом году будет в Москве с 7-го сентября.  
+  
+Регистрация открыта, можно подавать заявку  
+  
+https://t[academy.yandex.ru/events/shri/ms…](https://t.co/rs5A02K5pa "https://academy.yandex.ru/events/shri/msk-2015/")
 
 RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а еще им интересно пригласить лекцию/мероприятие - для PR &amp; свои туда обычно приходят, например - [dou.ua/lenta/articles…](http://t.co/xGpeqSZOK6 "http://dou.ua/lenta/articles/welcome-to-kyiv-companies")
 
 Мне любопытно, сколько времени преподаватели таких школ и курсов тратят времени на подготовку лекций? +[@harisov](https://twitter.com/harisov "Vitaly Harisov") +[@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") +[@xraizor](https://twitter.com/xraizor "Andrew Shapiro")
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") [@xraizor](https://twitter.com/xraizor "Andrew Shapiro") <br /><br />Дофига. В несколько раз больше, чем на подготовку доклада на конференцию такой же длительнос…
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") [@xraizor](https://twitter.com/xraizor "Andrew Shapiro")   
+  
+Дофига. В несколько раз больше, чем на подготовку доклада на конференцию такой же длительнос…
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@xraizor](https://twitter.com/xraizor "Andrew Shapiro") <br /><br />У нас каждую лекцию в ШРИ готовило несколько человек, чтобы она была более объективной. Я сч…
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@xraizor](https://twitter.com/xraizor "Andrew Shapiro")   
+  
+У нас каждую лекцию в ШРИ готовило несколько человек, чтобы она была более объективной. Я сч…
 
 RT [@vdv73rus](https://twitter.com/vdv73rus "Vislov Dmitry"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@harisov](https://twitter.com/harisov "Vitaly Harisov") [@xraizor](https://twitter.com/xraizor "Andrew Shapiro") У меня примерно 1 к 1 выходило.
 
@@ -760,7 +784,8 @@ RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood
 
 Меня иногда спрашивают что почитать новичку. А ты, [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"), что посоветуешь?
 
-RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если по js, то "Eloquent JavaScript": [eloquentjavascript.net](http://t.co/yvz9F4RZH0 "http://eloquentjavascript.net")<br />Есть перевод на русский: [github.com/karmazzin/eloq…](https://t.co/v8I1kr6p4y "https://github.com/karmazzin/eloquentjavascript_ru")
+RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") если по js, то "Eloquent JavaScript": [eloquentjavascript.net](http://t.co/yvz9F4RZH0 "http://eloquentjavascript.net")  
+Есть перевод на русский: [github.com/karmazzin/eloq…](https://t.co/v8I1kr6p4y "https://github.com/karmazzin/eloquentjavascript_ru")
 
 RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") здесь очень просто подается теория + практические примеры, типа собственного языка программирования или Paint…
 
@@ -932,7 +957,9 @@ RT [@verylazydreamer](https://twitter.com/verylazydreamer "Ziyadin Shemsedinov")
 
 Спасибо за интересные беседы, критику и похвалу.
 
-На этой неделе с вами был Владимир [@mistakster](https://twitter.com/mistakster "Vladimir Kuznetsov") \(он же [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov")\).<br /><br />Ciao!
+На этой неделе с вами был Владимир [@mistakster](https://twitter.com/mistakster "Vladimir Kuznetsov") \(он же [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov")\).  
+  
+Ciao!
 
 ## Ссылки
 

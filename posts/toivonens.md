@@ -72,7 +72,8 @@ RT [@Kiiiir](https://twitter.com/Kiiiir "Kir Shatrov"): [@jsunderhood](https://t
 
 RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") расскажи про то, как ты видишь феминизм
 
-.@matmuchrapna спросил про феминизм.<br />Про современное движение ничего не знаю, иногда только читаю популярные статьи. В целом поддерживаю.
+.@matmuchrapna спросил про феминизм.  
+Про современное движение ничего не знаю, иногда только читаю популярные статьи. В целом поддерживаю.
 
 Мотивации две: гуманистическая и ресурсная. Гуманистическая, наверное и так понятно. Про ресурсную поясню.
 
@@ -138,7 +139,9 @@ Gemini может сравнивать скриншоты [ru.bem.info/tools/tes
 
 Используем собственный открытый инструмент — SC5 StyleGuide, в четверг опубликовали статью об этом в SmashingMagazine [smashingmagazine.com/2015/03/05/aut…](http://t.co/mgP7xYovmP "http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/")
 
-Прямую ссылку тоже дам<br />"SC5 Style Guide Generator"<br />[styleguide.sc5.io](http://t.co/WC7QS0RGf3 "http://styleguide.sc5.io/")
+Прямую ссылку тоже дам  
+"SC5 Style Guide Generator"  
+[styleguide.sc5.io](http://t.co/WC7QS0RGf3 "http://styleguide.sc5.io/")
 
 И последний вопрос в серии от [@DmitryMakhnev](https://twitter.com/DmitryMakhnev "Dmitry Makhnev"), о том как синхронизируем шаблоны библиотеки с кодом сервиса. Ответ — никак.
 
@@ -148,7 +151,8 @@ Gemini может сравнивать скриншоты [ru.bem.info/tools/tes
 
 Сейчас я не делаю резких шагов и наношу пользу постепенно. Сначала CSS библиотека, стандартизация кода, отладка процесса. А потом посмотрим.
 
-Сегодня день рождения Юрия Гагарина.<br />Вот вам песня Space Oddity, поёт астронавт Крис Хадфилд [youtu.be/KaOC9danxNo](http://t.co/4DXTwKpKJg "http://youtu.be/KaOC9danxNo") [pic.twitter.com/0hlw6N1yPq](http://t.co/0hlw6N1yPq)
+Сегодня день рождения Юрия Гагарина.  
+Вот вам песня Space Oddity, поёт астронавт Крис Хадфилд [youtu.be/KaOC9danxNo](http://t.co/4DXTwKpKJg "http://youtu.be/KaOC9danxNo") [pic.twitter.com/0hlw6N1yPq](http://t.co/0hlw6N1yPq)
 
 Автор песни David Bowie, он же и первый исполнитель. С этой песни началась его музыкальная карьера. По-моему очень романтично и пронзительно
 
@@ -182,7 +186,9 @@ RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitt
 
 .[@r3nya](https://twitter.com/r3nya "Andrew R.") спросил про Финляндию. Это не по порядку вопрос, но начну сегодня с него — так удобнее.
 
-Сначала пошарю посты про Финляндию. Они правда личные, про мою жизнь<br />[varya-daily.tumblr.com/post/110379049…](http://t.co/nQLM1inFcb "http://varya-daily.tumblr.com/post/110379049793/1")<br />[varya-daily.tumblr.com/post/112073231…](http://t.co/CTkReznzSk "http://varya-daily.tumblr.com/post/112073231938")
+Сначала пошарю посты про Финляндию. Они правда личные, про мою жизнь  
+[varya-daily.tumblr.com/post/110379049…](http://t.co/nQLM1inFcb "http://varya-daily.tumblr.com/post/110379049793/1")  
+[varya-daily.tumblr.com/post/112073231…](http://t.co/CTkReznzSk "http://varya-daily.tumblr.com/post/112073231938")
 
 Обезличенные не писала, не о чем писать, настолько всё прекрасно :-\) Зарплаты меньше чем в Г, но и расходы меньше \(хотя цены на еду больше\).
 
@@ -246,7 +252,8 @@ RT [@r3nya](https://twitter.com/r3nya "Andrew R."): [@jsunderhood](https://twitt
 
 Например, с костюмами на Хеллоуин или про Рождество. А раз в год, в начале декабря, большой ивент, приезжают сотрудники из других городов.
 
-“[@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я думал, @matmuchrapna генерит дофига твитов, но я ошибался O.o”<br />Что думаете?
+“[@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я думал, @matmuchrapna генерит дофига твитов, но я ошибался O.o”  
+Что думаете?
 
 Как вым новые макбуки? Уже захотели купить золотой?
 
@@ -280,7 +287,8 @@ RT [@theigel](https://twitter.com/theigel "Ежила"): Разделение ф
 
 Реакт уже похоже все одобрили, теперь думают как скрестить его с БЭМ [#b\_](https://twitter.com/search?q=%23b_). Вот одно из решений [gist.github.com/arsemyonov/0ad…](https://t.co/QZIaG4jdiK "https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24")
 
-RT [@apostololeg](https://twitter.com/apostololeg "TRNT"): откопал старый скрин времён разработки бесконечно крутого тачевого [ya.ru](http://t.co/nPBIeYjp2Q "http://ya.ru") с багой на Android 2.x<br />https://t[dl.dropboxusercontent.com/u/7624831/img/…](https://t.co/vcSv4mSPbj "https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png")
+RT [@apostololeg](https://twitter.com/apostololeg "TRNT"): откопал старый скрин времён разработки бесконечно крутого тачевого [ya.ru](http://t.co/nPBIeYjp2Q "http://ya.ru") с багой на Android 2.x  
+https://t[dl.dropboxusercontent.com/u/7624831/img/…](https://t.co/vcSv4mSPbj "https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png")
 
 Давайте еще Инстаграмм разработчика заведем ;-\)
 
@@ -316,7 +324,8 @@ RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разрабо
 
 Во время обсуждений, всегда говорю, что я знакома с автором и "he is russian". Если это "she", стараюсь чтобы "she" прозвучало несколько раз
 
-Понравилась как [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") говорил о людях в презентации<br />Поэтому в моей лекции для студентов были и наши разработчики [varya.me/component-deve…](http://t.co/pBCwmNnX8k "http://varya.me/component-development-css/")
+Понравилась как [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") говорил о людях в презентации  
+Поэтому в моей лекции для студентов были и наши разработчики [varya.me/component-deve…](http://t.co/pBCwmNnX8k "http://varya.me/component-development-css/")
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") csscomb забыла. Про него тоже всем тут говорю.
 
@@ -386,7 +395,9 @@ RT [@restrry](https://twitter.com/restrry "Mikhail Shust"): [@jsunderhood](https
 
 Начать разбираться с Accessibility можно с этого видео \(10 минут\) [fronteers.nl/congres/2014/j…](https://t.co/jjj06xhz3L "https://fronteers.nl/congres/2014/jam-session/web-accessibility")
 
-Автор SMACSS интересуется БЭМ [#b\_](https://twitter.com/search?q=%23b_) <br />[twitter.com/snookca/status…](https://t.co/eMt1lErBD8 "https://twitter.com/snookca/status/575672591224029186")<br />То ли осознал, то ли готовит ревашн :-\)
+Автор SMACSS интересуется БЭМ [#b\_](https://twitter.com/search?q=%23b_)   
+[twitter.com/snookca/status…](https://t.co/eMt1lErBD8 "https://twitter.com/snookca/status/575672591224029186")  
+То ли осознал, то ли готовит ревашн :-\)
 
 Когда ещё жила в Москве, мне [@harisov](https://twitter.com/harisov "Vitaly Harisov") рассказал, как составить "план жизни", вот тут примерно описана идея [ycnex2.ru/planirovanie-z…](http://t.co/WDtR5iPuQs "http://www.ycnex2.ru/planirovanie-zhizni.html")
 
@@ -394,7 +405,10 @@ RT [@restrry](https://twitter.com/restrry "Mikhail Shust"): [@jsunderhood](https
 
 При этом есть мы ходили по-прежнему в кафе, а продукты покупали в Азбуке Вкуса. Надо бы снова такой план забахать.
 
-Профессиональные новости можно потреблять через рассылки:<br />[css-weekly.com](http://t.co/f3mwk4seuB "http://css-weekly.com/")<br />[javascriptweekly.com](http://t.co/xrc9SQVjim "http://javascriptweekly.com/")<br />[nodeweekly.com](http://t.co/XjyuIQFXSe "http://nodeweekly.com/")
+Профессиональные новости можно потреблять через рассылки:  
+[css-weekly.com](http://t.co/f3mwk4seuB "http://css-weekly.com/")  
+[javascriptweekly.com](http://t.co/xrc9SQVjim "http://javascriptweekly.com/")  
+[nodeweekly.com](http://t.co/XjyuIQFXSe "http://nodeweekly.com/")
 
 Если ваша статья или проект попадет в такую рассылку, бешенный траффик обеспечен. В десятки раз больше чем с reddit, echojs и т.п.
 
@@ -430,7 +444,8 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 Воспользуюсь положением: на каком блоке вы бы продемонстрировали новичку, как хорош БЭМ CSS? [#b\_](https://twitter.com/search?q=%23b_)
 
-Готовлюсь к workshop по БЭМ. Спасибо [@glibin](https://twitter.com/glibin "Vitaly Glibin") за идею с кнопками :-\) [varya.me/bem-css-worksh…](http://t.co/b3yv81hbKM "http://varya.me/bem-css-workshop/")<br />Что дальше можно рассказать? Меню ещё предлагали.
+Готовлюсь к workshop по БЭМ. Спасибо [@glibin](https://twitter.com/glibin "Vitaly Glibin") за идею с кнопками :-\) [varya.me/bem-css-worksh…](http://t.co/b3yv81hbKM "http://varya.me/bem-css-workshop/")  
+Что дальше можно рассказать? Меню ещё предлагали.
 
 В Фи, если на профессиональном митапе к девушке подходит человек и спрашивает "Are you interested in sauna?", бить пока рано.
 
@@ -438,21 +453,26 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 ## Пятница <small>23 твита</small>
 
-RT [@morketolog](https://twitter.com/morketolog "Стартапы и бизнес"): Хостинг проектов Google Code закрывается с 25 января 2016 года — не выдержал конкуриренции с GitHub<br />[siliconrus.com/2015/03/google…](http://t.co/WLGHDm9bP8 "http://siliconrus.com/2015/03/google-code-off/")
+RT [@morketolog](https://twitter.com/morketolog "Стартапы и бизнес"): Хостинг проектов Google Code закрывается с 25 января 2016 года — не выдержал конкуриренции с GitHub  
+[siliconrus.com/2015/03/google…](http://t.co/WLGHDm9bP8 "http://siliconrus.com/2015/03/google-code-off/")
 
 Универсальный X-колоночный грид на LESS [github.com/ingdir/x-respo…](https://t.co/oNbf6iGlZm "https://github.com/ingdir/x-responsable-grid")
 
 Список полезных штук для разработки frontend [github.com/miripiruni/fro…](https://t.co/BtkYDF1aNp "https://github.com/miripiruni/frontdesk")
 
-Скриншоты редакторов кода разных разработчиков [github.com/shuvalov-anton…](https://t.co/k1TtMf7ziD "https://github.com/shuvalov-anton/code-screenshots")<br />Сразу видно и цветовую схему, и как организовано, и сам рекдактор.
+Скриншоты редакторов кода разных разработчиков [github.com/shuvalov-anton…](https://t.co/k1TtMf7ziD "https://github.com/shuvalov-anton/code-screenshots")  
+Сразу видно и цветовую схему, и как организовано, и сам рекдактор.
 
-Не с кем говорить на иностранном языке? Можно познакомиться с носителями на [sharedtalk.com](http://t.co/56a6jGnv8x "http://sharedtalk.com/")<br />Я знакомилась с голландцами и финнами.
+Не с кем говорить на иностранном языке? Можно познакомиться с носителями на [sharedtalk.com](http://t.co/56a6jGnv8x "http://sharedtalk.com/")  
+Я знакомилась с голландцами и финнами.
 
 Знакомства могут быть неожиданно хороши. Мой финский знакомый — backender, сейчас изучает frontend, все спрашивает у меня. По-фински.
 
-JavaScript CodeStyle от AirBNB — с ни согласились почти все в компании \(редкость!\) [github.com/airbnb/javascr…](https://t.co/8QIArTWXH9 "https://github.com/airbnb/javascript")<br />В JSCS есть для него пресет.
+JavaScript CodeStyle от AirBNB — с ни согласились почти все в компании \(редкость!\) [github.com/airbnb/javascr…](https://t.co/8QIArTWXH9 "https://github.com/airbnb/javascript")  
+В JSCS есть для него пресет.
 
-Быстрые промисы, и всего 1Kb кода от Артурчика :-\)<br />[github.com/artjock/p0](https://t.co/2QghrVIuC9 "https://github.com/artjock/p0")
+Быстрые промисы, и всего 1Kb кода от Артурчика :-\)  
+[github.com/artjock/p0](https://t.co/2QghrVIuC9 "https://github.com/artjock/p0")
 
 Рабочий день в Фи 7,5 часов, а не 8. Это лишних 2,5 часа жизни в неделю.
 
@@ -462,11 +482,14 @@ JavaScript CodeStyle от AirBNB — с ни согласились почти �
 
 RT [@kipruss](https://twitter.com/kipruss "Konstantin Baev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") \(в прошлый раз со ссылкой ошибся немного\). Есть ещё [verbling.com/community](https://t.co/ZwTfpDbigc "https://www.verbling.com/community")
 
-Открытка для тех кто не верит в секзизм :-\)<br />\(Это про маникюр Меркель, сейчас гуляет по немецкому интернету.\) [pic.twitter.com/NepLKRm7Oz](http://t.co/NepLKRm7Oz)
+Открытка для тех кто не верит в секзизм :-\)  
+\(Это про маникюр Меркель, сейчас гуляет по немецкому интернету.\) [pic.twitter.com/NepLKRm7Oz](http://t.co/NepLKRm7Oz)
 
-Найти бар в Хельсинки? Вот проект от моего коллеги [kipp.is/map](http://t.co/HqgeBKSD6R "http://kipp.is/map")<br />Запомните его, скоро будет русская локализация.
+Найти бар в Хельсинки? Вот проект от моего коллеги [kipp.is/map](http://t.co/HqgeBKSD6R "http://kipp.is/map")  
+Запомните его, скоро будет русская локализация.
 
-Очень хорошее видео про доступность веб-сайтов [teamtreehouse.com/library/css-ac…](https://t.co/BS7ZdaAeVo "https://teamtreehouse.com/library/css-accessibility-and-you")<br />Обязательно посмотрите.
+Очень хорошее видео про доступность веб-сайтов [teamtreehouse.com/library/css-ac…](https://t.co/BS7ZdaAeVo "https://teamtreehouse.com/library/css-accessibility-and-you")  
+Обязательно посмотрите.
 
 Особенно если вы раньше не видели как программы "читают" сайты, как меняют контрастность и так далее.
 
@@ -492,17 +515,37 @@ RT [@rdvornov](https://twitter.com/rdvornov "Roman Dvornov"): [@jsunderhood](htt
 
 Вот такая задачка например: напишите функцию, которая бы выводила по очереди 'tick', 'tack', 'tick', 'tack'.
 
-Тем кому 30+ или около того советую этот доклад [events.yandex.ru/lib/talks/2235/](https://t.co/isPSAkQNPE "https://events.yandex.ru/lib/talks/2235/")<br />А тем кто младше — сохранить его в закладках, скоро пригодится :-\)
+Тем кому 30+ или около того советую этот доклад [events.yandex.ru/lib/talks/2235/](https://t.co/isPSAkQNPE "https://events.yandex.ru/lib/talks/2235/")  
+А тем кто младше — сохранить его в закладках, скоро пригодится :-\)
 
 А, давайте так: она выводит 'tick' или 'tack' при каждом следующем вызове, а не 500 раз подряд.
 
-То есть:<br />ticktack\(\) // 'tick'<br />ticktack\(\) // 'tack'<br />ticktack\(\) // 'tick'<br />и так далее.
+То есть:  
+ticktack\(\) // 'tick'  
+ticktack\(\) // 'tack'  
+ticktack\(\) // 'tick'  
+и так далее.
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort") <br />function fn\(\) {<br />  return \(fn.st = !fn.st\) <br />    ? 'tick' <br />    : 'tack';<br />}
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@cakeinpanic](https://twitter.com/cakeinpanic "Katerina Tort")   
+function fn\(\) {  
+  return \(fn.st = !fn.st\)   
+    ? 'tick'   
+    : 'tack';  
+}
 
-RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />let g = \(function \*\(\) {<br />  while \(true\) {<br />    yield 'tick'<br />    yield 'tack'<br />  }<br />}\)\(\)<br />g.next\(\).value //tick…
+RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")   
+let g = \(function \*\(\) {  
+  while \(true\) {  
+    yield 'tick'  
+    yield 'tack'  
+  }  
+}\)\(\)  
+g.next\(\).value //tick…
 
-Другая:<br />var A = { B : C : function\(\) { console.log\(this\) }}}<br />Каким будет this при A.B.C\(\); \(A.B\).C\(\); и \(A.B.C\)\(\);<br />В консоль не смотреть :-\)
+Другая:  
+var A = { B : C : function\(\) { console.log\(this\) }}}  
+Каким будет this при A.B.C\(\); \(A.B\).C\(\); и \(A.B.C\)\(\);  
+В консоль не смотреть :-\)
 
 Cкобочка потерялась, вот верный объект var A = { B : { C: function\( { console.log\(this\) }}}
 

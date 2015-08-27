@@ -396,7 +396,8 @@ RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://t
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton") тогда это кладбище памятников [websitesfromhell.net](http://t.co/5Nrr1rj5df "http://websitesfromhell.net/")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") обновил статистику [jsunderhood.ru/stats/](https://t.co/NmJm8oXNmI "https://jsunderhood.ru/stats/"),<br />я настроил тревис, поэтому она теперь будет несколько раз в день о…
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") обновил статистику [jsunderhood.ru/stats/](https://t.co/NmJm8oXNmI "https://jsunderhood.ru/stats/"),  
+я настроил тревис, поэтому она теперь будет несколько раз в день о…
 
 RT [@webstandards\_ru](https://twitter.com/webstandards_ru "Веб-стандарты"): [JavaScript.com](http://t.co/XLkP16wHbV "http://JavaScript.com"), портал о JS при Code School с введением, новостями и ресурсами для начинающих и продолжающих. [pic.twitter.com/caMXVloZ8V](http://t.co/caMXVloZ8V)
 
@@ -638,7 +639,8 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а ещё вот эту штуку хочу, чтобы ноут не разряжался на природе [twitter.com/contrahacks/st…](https://t.co/cWiELGfBpa "https://twitter.com/contrahacks/status/611687522918273024")
 
-RT [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko"): [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") ты спрашивал в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему вы не пишете на es6/next еще \)<br />— мне пока что быстрее думать в es5, потом…
+RT [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko"): [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") ты спрашивал в [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему вы не пишете на es6/next еще \)  
+— мне пока что быстрее думать в es5, потом…
 
 . [@yuritkachenko](https://twitter.com/yuritkachenko "Yuri Tkachenko") А мне в некоторых случаях наоборот ;\) [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")
 
@@ -682,7 +684,8 @@ RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"):
 
 . [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") Ну вот практические приёмы пока приходится гуглить под задачу
 
-RT [@Lendar](https://twitter.com/Lendar "Denis Elistratov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") The Case for Flux от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") — хороший вводный пост<br />[medium.com/@dan\_abramov/t…](https://t.co/Fn0ZZ2px9w "https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6")
+RT [@Lendar](https://twitter.com/Lendar "Denis Elistratov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") The Case for Flux от [@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") — хороший вводный пост  
+[medium.com/@dan\_abramov/t…](https://t.co/Fn0ZZ2px9w "https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6")
 
 RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну вот я сначала начал сам писать, гугля решения, но потом понял, что у меня слишком сильная каша в голове
 
@@ -714,7 +717,9 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Sigiller]
 
 RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а в чем соль redux, если в двух словах?
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />раз [medium.com/@dan\_abramov/t…](https://t.co/fsFPeCm256 "https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31")<br />два [github.com/gaearon/redux\#…](https://t.co/cjzwcvukk4 "https://github.com/gaearon/redux#philosophy--design-goals")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")   
+раз [medium.com/@dan\_abramov/t…](https://t.co/fsFPeCm256 "https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31")  
+два [github.com/gaearon/redux\#…](https://t.co/cjzwcvukk4 "https://github.com/gaearon/redux#philosophy--design-goals")
 
 RT [@pvlpvs](https://twitter.com/pvlpvs "Верстальщик надо? "): [@xwoody](https://twitter.com/xwoody "Aleks Hudochenkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") о, надо нам с тобой дружить, у меня то же самое 😀
 

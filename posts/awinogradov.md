@@ -192,7 +192,8 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@js
 
 Новость из центра событий\) Только что мы открыли на конференции новый сайт Альфа-Банка. Вот видео: [youtube.com/watch?v=fQuImk…](http://t.co/vgreFcTsSc "http://www.youtube.com/watch?v=fQuImk7VvMg") сайт: alfabank.ru
 
-RT [@tereshenkov](https://twitter.com/tereshenkov "Костя Терещенков"): — У нас будет серьезный стек технологий. Node.JS, Redis, Ruby on Rails…<br />— Петрович, заебал! Мы же просто сайт для трех наш…
+RT [@tereshenkov](https://twitter.com/tereshenkov "Костя Терещенков"): — У нас будет серьезный стек технологий. Node.JS, Redis, Ruby on Rails…  
+— Петрович, заебал! Мы же просто сайт для трех наш…
 
 Соберу сюда чуть позже список своих рассылок. Думаю кому-то будет интересно
 
@@ -222,7 +223,8 @@ RT [@safrankov](https://twitter.com/safrankov "Il'ya Safrankov "): [@jsunderh
 
 .[@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov") думаю это того стоит:\) да:\)
 
-Как и обещал, список рассылок: [materialup.com](http://t.co/CADp1hpQT3 "http://materialup.com")<br />[css-weekly.com](http://t.co/04mx5EMi2a "http://css-weekly.com"), [ewebdesign.com](http://t.co/xKc3gI6KJJ "http://ewebdesign.com"), [html5weekly.com](http://t.co/3JdlSSwuaJ "http://html5weekly.com") ...
+Как и обещал, список рассылок: [materialup.com](http://t.co/CADp1hpQT3 "http://materialup.com")  
+[css-weekly.com](http://t.co/04mx5EMi2a "http://css-weekly.com"), [ewebdesign.com](http://t.co/xKc3gI6KJJ "http://ewebdesign.com"), [html5weekly.com](http://t.co/3JdlSSwuaJ "http://html5weekly.com") ...
 
 ... [hackingui.com](http://t.co/Svd1o1CyoK "http://hackingui.com"), [nodeweekly.com](http://t.co/dUij04FPd3 "http://nodeweekly.com"), [responsivedesignweekly.com](http://t.co/ZHVUWCuRfO "http://responsivedesignweekly.com"), [web-design-weekly.com](http://t.co/xYws3lsXud "http://web-design-weekly.com")
 

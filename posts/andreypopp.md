@@ -256,7 +256,8 @@ RT [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler"):
 
 RT [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин"): [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@marinintim](https://twitter.com/marinintim "Tim Marinin") Нет задач под var. Есть let \(который к тому-же избавляет от лишних замыканий\) и const для …
 
-RT [@\_nezed](https://twitter.com/_nezed "Дмитрий Наумов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") врывающийся в студию вопрос \(прощу прощения\)<br />Ребята, есть идеи как описывать JS Doc на props в React классах/компо…
+RT [@\_nezed](https://twitter.com/_nezed "Дмитрий Наумов"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") врывающийся в студию вопрос \(прощу прощения\)  
+Ребята, есть идеи как описывать JS Doc на props в React классах/компо…
 
 RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@ymatuhin](https://twitter.com/ymatuhin "Юрий Матюхин") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Sigiller](https://twitter.com/Sigiller "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler") [@marinintim](https://twitter.com/marinintim "Tim Marinin") Я бы вообще сделал что var = let, а let = const.
 
@@ -264,7 +265,11 @@ RT [@freiksenet](https://twitter.com/freiksenet "freiksenet"): [@ymatuhin](https
 
 RT [@vslinko](https://twitter.com/vslinko "Vyacheslav Slinko"): [@\_nezed](https://twitter.com/_nezed "Дмитрий Наумов") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Оригинальный вариант — использовать propTypes
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): const - normal<br />let - code smell<br />var - legacy<br /><br />/cc [@\_ericelliott](https://twitter.com/_ericelliott "Eric Elliott")  [twitter.com/jsunderhood/st…](https://t.co/Ik8CRI9QN8 "https://twitter.com/jsunderhood/status/621989667005669376")
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): const - normal  
+let - code smell  
+var - legacy  
+  
+/cc [@\_ericelliott](https://twitter.com/_ericelliott "Eric Elliott")  [twitter.com/jsunderhood/st…](https://t.co/Ik8CRI9QN8 "https://twitter.com/jsunderhood/status/621989667005669376")
 
 RT [@mista\_k](https://twitter.com/mista_k "Vladimir Kuznetsov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Расскажи, пожалуйста, про своё рабочее окружение, IDE, какие-нибудь полезные инстументы, которыми ты часто пользу…
 

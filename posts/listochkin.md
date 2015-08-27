@@ -78,7 +78,9 @@ RT [@Semenov](https://twitter.com/Semenov "Папа Мегатрончика"): 
 
 Специально для [@Semenov](https://twitter.com/Semenov "Папа Мегатрончика") и других любителей Node: эти простые шаги сделают процесс разработки прекраснее [twitter.com/RReverser/stat…](https://t.co/0gMEv6Qv3v "https://twitter.com/RReverser/status/602876818304151552")
 
-RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): Explanations:<br /><br />1\) source-map-support gives you, well, Source Maps support in Node.js error stacks - extremely useful tool by[@evanwallace](https://twitter.com/evanwallace "Evan Wallace")
+RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): Explanations:  
+  
+1\) source-map-support gives you, well, Source Maps support in Node.js error stacks - extremely useful tool by[@evanwallace](https://twitter.com/evanwallace "Evan Wallace")
 
 RT [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"): 2\) More readable console.log\(\) outputs - see [twitter.com/RReverser/stat…](https://t.co/0USNQ4MDhN "https://twitter.com/RReverser/status/601680333134766080") for showcase.
 
@@ -240,7 +242,11 @@ RT [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев"): [@jsun
 
 . [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") так он не русскоязычный, он мультиязычный - все равно у тебя куча постов на английском, а реплаи - на языке задающего вопрос.
 
-RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): cd ./[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")<br />npm install i18n<br />npm start<br /><br />:\)
+RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): cd ./[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  
+npm install i18n  
+npm start  
+  
+:\)
 
 . [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") да, Вадиму как популяризатору технологий важно делать посты на русском, и для него разделять акт есть смысл
 
@@ -292,7 +298,9 @@ RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@js
 
 Вопрос 6: какие блоги вы считаете обязательными к прочтению? Это может быть один пост, серия или блог целиком. Делимся-делимся!
 
-RT [@lukew](https://twitter.com/lukew "Luke Wroblewski"): Explain to me how the Web "lost"?<br />[twitter.com/lukew/status/6…](https://t.co/kFJZ9GNZkG "https://twitter.com/lukew/status/603228964228702209")<br />Stop thinking Web VS. native &amp; it's all good: [daringfireball.net/linked/2015/05…](http://t.co/ryw62x2htC "http://daringfireball.net/linked/2015/05/14/facebook-instant-karma")
+RT [@lukew](https://twitter.com/lukew "Luke Wroblewski"): Explain to me how the Web "lost"?  
+[twitter.com/lukew/status/6…](https://t.co/kFJZ9GNZkG "https://twitter.com/lukew/status/603228964228702209")  
+Stop thinking Web VS. native &amp; it's all good: [daringfireball.net/linked/2015/05…](http://t.co/ryw62x2htC "http://daringfireball.net/linked/2015/05/14/facebook-instant-karma")
 
 Мой вам хороший совет: люди пишут библиотеки и инструменты бескорыстно. Они не заслуживают такого обращения.  [twitter.com/DmitryAuine/st…](https://t.co/RrDDp05hA5 "https://twitter.com/DmitryAuine/status/603055400951353345")
 
@@ -472,15 +480,27 @@ RT [@Seleckis](https://twitter.com/Seleckis "Seleckis"): [@jsunderhood](https://
 
 уже был ответ - npm всегда [twitter.com/antonfrolovsky…](https://t.co/GSZ0Kevagc "https://twitter.com/antonfrolovsky/status/603502309981757440")
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [#stats](https://twitter.com/search?q=%23stats): <br /><br />[cpan.org](http://t.co/fQk8nho8UB "http://www.cpan.org/") 31870<br />[pypi.python.org/pypi](https://t.co/MRRpwAMdMj "https://pypi.python.org/pypi") 60341<br />[rubygems.org/stats](https://t.co/GxBfM1zGvN "https://rubygems.org/stats") 101995<br />[npmjs.com](https://t.co/qTWUu1gC70 "https://www.npmjs.com/")…
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [#stats](https://twitter.com/search?q=%23stats):   
+  
+[cpan.org](http://t.co/fQk8nho8UB "http://www.cpan.org/") 31870  
+[pypi.python.org/pypi](https://t.co/MRRpwAMdMj "https://pypi.python.org/pypi") 60341  
+[rubygems.org/stats](https://t.co/GxBfM1zGvN "https://rubygems.org/stats") 101995  
+[npmjs.com](https://t.co/qTWUu1gC70 "https://www.npmjs.com/")…
 
-RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): . [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") <br /><br />[packagist.org/statistics](https://t.co/vX3AwUBzRO "https://packagist.org/statistics") 60034<br />[search.maven.org/\#stats](https://t.co/Y95aibf28r "https://search.maven.org/#stats") 106708
+RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): . [@listochkin](https://twitter.com/listochkin "Андрей Листочкин")   
+  
+[packagist.org/statistics](https://t.co/vX3AwUBzRO "https://packagist.org/statistics") 60034  
+[search.maven.org/\#stats](https://t.co/Y95aibf28r "https://search.maven.org/#stats") 106708
 
 RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): Mind that many Java libs are not published to Central and instead run their own reps. Also, not all PHP libraries migrated …
 
-Итак напоминаю, что с вами [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"), и мы обсуждали ряд вопросов.<br />1: почему не используете ES6? 2: онлайн IDE<br />3: aurelia - что думаете?
+Итак напоминаю, что с вами [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"), и мы обсуждали ряд вопросов.  
+1: почему не используете ES6? 2: онлайн IDE  
+3: aurelia - что думаете?
 
-4\.5: если вы живете в мультиязыковой среде, ведете ли вы 2-3 твиттера на разных языках или нет?<br />5. Рекомендуемые доклады<br />6. Блоги
+4\.5: если вы живете в мультиязыковой среде, ведете ли вы 2-3 твиттера на разных языках или нет?  
+5. Рекомендуемые доклады  
+6. Блоги
 
 Продолжаем высказываться! Особенно интересуют 5й и 6й вопросы
 
@@ -572,7 +592,8 @@ RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): Второй д�
 
 . [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr") прости, затерялось. cljs - не пользовался, но одобряю. Реактивщина существует со времен Knockout JS, использую постоянно
 
-RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@sapegin](https://twitter.com/sapegin "Artem Sapegin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кто сказал что это автозамена?<br />просто Андрей очень честный
+RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@sapegin](https://twitter.com/sapegin "Artem Sapegin") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кто сказал что это автозамена?  
+просто Андрей очень честный
 
 RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") vim на удаленной машине еще удобнее
 
@@ -592,9 +613,12 @@ RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https
 
 RT [@ilavriv](https://twitter.com/ilavriv "ilavriv"): [@\_sashashakun](https://twitter.com/_sashashakun "Alexander") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон") в MIT є курс Programming paradigms, де вчать розуміти принципи дизайну мов
 
-RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") читаю. Вот два которые очень на меня \(как на разработчика\) повлияли:<br />[mast.queensu.ca/~math474/shann…](http://t.co/ROP0X8UyoF "http://www.mast.queensu.ca/~math474/shannon1948.pdf")<br />[dces.essex.ac.uk/technical-repo…](http://t.co/at6ZfwejlP "http://dces.essex.ac.uk/technical-reports/2004/csm-411.pdf")
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") читаю. Вот два которые очень на меня \(как на разработчика\) повлияли:  
+[mast.queensu.ca/~math474/shann…](http://t.co/ROP0X8UyoF "http://www.mast.queensu.ca/~math474/shannon1948.pdf")  
+[dces.essex.ac.uk/technical-repo…](http://t.co/at6ZfwejlP "http://dces.essex.ac.uk/technical-reports/2004/csm-411.pdf")
 
-RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): .[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вспомнился один хороший доклад, "на злобу дня"<br />[vimeo.com/110554082](https://t.co/XHXRfCQQXK "https://vimeo.com/110554082")
+RT [@alexeyraspopov](https://twitter.com/alexeyraspopov "Alexey Raspopov"): .[@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вспомнился один хороший доклад, "на злобу дня"  
+[vimeo.com/110554082](https://t.co/XHXRfCQQXK "https://vimeo.com/110554082")
 
 RT [@bashmish](https://twitter.com/bashmish "Misha Bashkirov"): Сегодня наконец-то запишем новый подкаст. Может у кого есть какие-то темы, которые хотели бы подкинуть к обсуждению?
 
@@ -716,7 +740,9 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 Not yet и вряд ли так легко можно будет это обойти: [github.com/isaacs/rimraf/…](https://t.co/71LWUb004R "https://github.com/isaacs/rimraf/issues/72") [twitter.com/lancedikson/st…](https://t.co/37DA5Cezd7 "https://twitter.com/lancedikson/status/603656384866086913")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): TIL: [@browserify](https://twitter.com/browserify "browserify") can do a lot more, than I used to think <br />spoiler: a lot of webpack-like features<br />[gist.github.com/substack/68f8d…](https://t.co/QRlLi6nwU4 "https://gist.github.com/substack/68f8d502be42d5cd4942")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): TIL: [@browserify](https://twitter.com/browserify "browserify") can do a lot more, than I used to think   
+spoiler: a lot of webpack-like features  
+[gist.github.com/substack/68f8d…](https://t.co/QRlLi6nwU4 "https://gist.github.com/substack/68f8d502be42d5cd4942")
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): comments are good to read too
 
@@ -806,7 +832,8 @@ RT [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine"): 
 
 Представьте, что вам 10 лет и вы учитесь программировать. Гораздо лучше делать это с помощью такого качественного ресурса [@frontenderinfo](https://twitter.com/frontenderinfo "Frontender Magazine")
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, я помню, один из ведущих то же придерживался взглядов, не знаешь английского – вон из профессии. <br />Я это ф…
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да, я помню, один из ведущих то же придерживался взглядов, не знаешь английского – вон из профессии.   
+Я это ф…
 
 RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе") вообще сложно быть хорошим разработчиком без английского: комьюнити, доки, книги — все недоступно. Но пере[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
@@ -998,7 +1025,11 @@ RT [@dmitrytrigonis](https://twitter.com/dmitrytrigonis "Dmitry Trigonis"): [@js
 
 .[@dmitrytrigonis](https://twitter.com/dmitrytrigonis "Dmitry Trigonis") в универе я думал, что мне нужно доказать профпригодность, и сдал серт по Java 5. Хорошо, что под Новый Год скидки были :\)
 
-А я люблю Руби. Мне их блоки всегда казались ну очень крутыми:<br />\[1, 2, 3\].each do | i |<br />   puts i<br />end<br />&lt;3
+А я люблю Руби. Мне их блоки всегда казались ну очень крутыми:  
+\[1, 2, 3\].each do | i |  
+   puts i  
+end  
+&lt;3
 
 RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Питон. Но сейчас 99% — JS, 1% — Баш ;-\)
 
@@ -1108,17 +1139,21 @@ RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood]
 
 RT [@Ask\_11](https://twitter.com/Ask_11 "Aleksey Kulikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мой список подкастов о JavaScript, вебе и фрилансе \(в основном на английском\) [pic.twitter.com/oiPcjN3oWp](http://t.co/oiPcjN3oWp)
 
-RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") Ещё выборочно EaxCast от [@afiskon](https://twitter.com/afiskon "Eax Melanhovich"), если тема интересна.<br />Очень радует, что выпускают текстовую расшифр…
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") Ещё выборочно EaxCast от [@afiskon](https://twitter.com/afiskon "Eax Melanhovich"), если тема интересна.  
+Очень радует, что выпускают текстовую расшифр…
 
 RT [@ZhivotvorevNik](https://twitter.com/ZhivotvorevNik "Животворев Николай"): [@greybax](https://twitter.com/greybax "Aleksandr Filatov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@listochkin](https://twitter.com/listochkin "Андрей Листочкин") [@RadioJSPodcast](https://twitter.com/RadioJSPodcast "RadioJS Podcast") еще [@frontflip\_js](https://twitter.com/frontflip_js "Frontflip Podcast") SDcast
 
 RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Один раз попытался послушать какой-то продкаст, услышал новости полумесячной давности и перехотел.
 
-RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") \*подкаст.<br />А в чем от них польза вообще?
+RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") \*подкаст.  
+А в чем от них польза вообще?
 
 .[@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov") Прощупывание трендов - какие новости решили обсуждать, какие решили вообще не освещать. И самое главное - мнения.
 
-RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Отписаля о причинах, по которым стоит ходить или не ходить на профильные митапы. Чего и вам желаю. <br /><br />[facebook.com/robert.hariton…](https://t.co/aUQSXuu7iU "https://www.facebook.com/robert.haritonov/posts/913336762056724")[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Отписаля о причинах, по которым стоит ходить или не ходить на профильные митапы. Чего и вам желаю.   
+  
+[facebook.com/robert.hariton…](https://t.co/aUQSXuu7iU "https://www.facebook.com/robert.haritonov/posts/913336762056724")[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А что вы думаете о небольших митапах в небольших городах? Стоит проводить опрос перед тем как занять…
 
@@ -1166,7 +1201,8 @@ RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https
 
 RT [@asaenko](https://twitter.com/asaenko "Alexey Saenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") JS Jabber, Codepen radio, Hanselminutes, раньше ещё был This Developer's Life, но уже давно нет ноых выпусков
 
-RT [@dmitrytrigonis](https://twitter.com/dmitrytrigonis "Dmitry Trigonis"): [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я слушал это некоторое время на общие темы<br />[raywenderlich.com](http://t.co/HQqbLdyvih "http://www.raywenderlich.com/")
+RT [@dmitrytrigonis](https://twitter.com/dmitrytrigonis "Dmitry Trigonis"): [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я слушал это некоторое время на общие темы  
+[raywenderlich.com](http://t.co/HQqbLdyvih "http://www.raywenderlich.com/")
 
 RT [@asaenko](https://twitter.com/asaenko "Alexey Saenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ещё в очереди The Changelog и новые TTL Podcast от [@rmurphey](https://twitter.com/rmurphey "Rebecca Murphey") и React Podcast
 
@@ -1226,7 +1262,11 @@ RT [@greybax](https://twitter.com/greybax "Aleksandr Filatov"): . [@listochkin](
 
 RT [@tommy\_diaver](https://twitter.com/tommy_diaver "Aнтoн Kапycтин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") сервисы, микросервисы какая к чёрту разница, лишь бы заказчик и архитектор довольны былы.
 
-Похоже на правду?<br />2000 - бум сервисов CORBA и COM на C++<br />2005 - SOAP и SOA в Java<br />2010 - REST в Ruby on Rails<br />2015 - микросервисы на Node/Go
+Похоже на правду?  
+2000 - бум сервисов CORBA и COM на C++  
+2005 - SOAP и SOA в Java  
+2010 - REST в Ruby on Rails  
+2015 - микросервисы на Node/Go
 
 RT [@a\_lithium](https://twitter.com/a_lithium "Aliaksei Lithium"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  Но сперва прочитать микросервисы Мартина Фаулера [martinfowler.com/articles/micro…](http://t.co/UCsBl8DIfi "http://martinfowler.com/articles/microservices.html")  \(перевод может быть не полным http://[habrahabr.ru/post/249183/](http://t.co/mnijvsb7RA "http://habrahabr.ru/post/249183/")
 
@@ -1258,7 +1298,10 @@ RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](h
 
 У меня есть подозрение, что есть граница, после которой дробить сервисы уже не имеет смысла. Насколько “микро” должны быть микросервисы?
 
-Например: регистрация пользователей.<br />1. Приняли форму и послали письмо<br />2. Приняли get из письма и активировали аккаунт.<br />Один сервис? 2? 3?
+Например: регистрация пользователей.  
+1. Приняли форму и послали письмо  
+2. Приняли get из письма и активировали аккаунт.  
+Один сервис? 2? 3?
 
 Или сервис “управление пользователями”, который логинит, регистрирует, роли меняет и все такое?
 
@@ -1304,7 +1347,9 @@ RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](h
 
 RT [@jergason](https://twitter.com/jergason "Jamison ¯\_(ツ)_/¯"): Tomorrow's legacy code, today!™
 
-RT [@horse\_js](https://twitter.com/horse_js "Horse JS"): you want really good performance. <br /><br />So what
+RT [@horse\_js](https://twitter.com/horse_js "Horse JS"): you want really good performance.   
+  
+So what
 
 Dun-dun-duuun!!! [twitter.com/dan\_abramov/st…](https://t.co/5zj9fZx5W4 "https://twitter.com/dan_abramov/status/604356871722569728")
 
@@ -1342,9 +1387,15 @@ RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): 
 
 Зато сейчас после полутора месяцев каждая строчка кода - в кайф! :\)
 
-Кстати о строчках! Вот такая недавно завелась в арсенале:<br />const test = generator =&gt; done =&gt; co\(generator\).then\(done, done\);<br />Это для тестов
+Кстати о строчках! Вот такая недавно завелась в арсенале:  
+const test = generator =&gt; done =&gt; co\(generator\).then\(done, done\);  
+Это для тестов
 
-Выглядит так:<br />it\(’should pass’, test\(function\* \(\) {<br />  const something = yield async\( .. \)<br />  expect\(something\).to.equal\( .. \)<br />}\)\);
+Выглядит так:  
+it\(’should pass’, test\(function\* \(\) {  
+  const something = yield async\( .. \)  
+  expect\(something\).to.equal\( .. \)  
+}\)\);
 
 RT [@akrekotun](https://twitter.com/akrekotun "Alexey Krekotun"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Как работодатель к этому отнесся?
 
@@ -1372,9 +1423,11 @@ RT [@edjafarov](https://twitter.com/edjafarov "Eldar Djafarov ッ"): [@sudodoki]
 
 А вот это как я вижу себя в команде: [medium.com/@jliszka/good-…](https://t.co/rLRSR7fyto "https://medium.com/@jliszka/good-tech-lead-bad-tech-lead-948b2b806d86")
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") за всю свою жизнь я ездил в настоящий отпуск один раз, был вообще в отпуске раза 3.<br />Burnout у меня за 12 лет …
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") за всю свою жизнь я ездил в настоящий отпуск один раз, был вообще в отпуске раза 3.  
+Burnout у меня за 12 лет …
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") моё хобби – программирование, если я не могу что-то делать по работе, я развлекаюсь с новыми технологиями.<br />Мн…
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") моё хобби – программирование, если я не могу что-то делать по работе, я развлекаюсь с новыми технологиями.  
+Мн…
 
 .[@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе") у меня тоже программирование - хобби, а уже потом работа
 

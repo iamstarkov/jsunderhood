@@ -150,11 +150,13 @@ RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@YevhenBoyar
 
 RT [@dosyara](https://twitter.com/dosyara "Sergey Maksimov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не всегда просто по таким задачам сделать вывод. Часто фронтендщики пугаются "математики".
 
-RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />- Я слышал ты любишь опасных парней? Я хожу на собеседования ради острых ощущений!
+RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")   
+- Я слышал ты любишь опасных парней? Я хожу на собеседования ради острых ощущений!
 
 RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а потом двигаешь пиксели и центруешь по вертикали
 
-Вот это интересный пойнт:<br />RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") отлавливают любителей неуместной рекурсии?
+Вот это интересный пойнт:  
+RT [@SelenIT2](https://twitter.com/SelenIT2 "SelenIT"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") отлавливают любителей неуместной рекурсии?
 
 RT [@YevhenBoyarsky](https://twitter.com/YevhenBoyarsky "Yevhen Boyarskiy"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А по событийной петле есть примеры вопросов? :\)
 
@@ -328,7 +330,10 @@ RT [@likhter](https://twitter.com/likhter "Konstantin Likhter"): [@jsunderhood](
 
 ## Четверг <small>60 твитов</small>
 
-Когда я в конторе служил версталём,<br />Ко мне постучался сеньор девелопер.<br />И глядя на код мой в открытом окне,<br />Он усмехнулся мне.
+Когда я в конторе служил версталём,  
+Ко мне постучался сеньор девелопер.  
+И глядя на код мой в открытом окне,  
+Он усмехнулся мне.
 
 …это вам сегодня вместо музыкальной паузы :\) Всем доброго утра!
 
@@ -474,7 +479,8 @@ RT [@sc0rp1d](https://twitter.com/sc0rp1d "Mark Langovoi"): [@jsunderhood](https
 
 Странно. Точно помню, что на работе лежала книжка по HTML где-то 2000 года. Наверное, её всё-таки сожгли, чтобы не дай бог никто не прочитал
 
-RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): Мой друг хотел срубить бабла по легкому в интернете, всё началось с порносайта :D<br />так вот я попал в веб \)\) [twitter.com/jsunderhood/st…](https://t.co/GKJxDUwQv2 "https://twitter.com/jsunderhood/status/601672130883952641")
+RT [@talgautb](https://twitter.com/talgautb "Талга УтБ"): Мой друг хотел срубить бабла по легкому в интернете, всё началось с порносайта :D  
+так вот я попал в веб \)\) [twitter.com/jsunderhood/st…](https://t.co/GKJxDUwQv2 "https://twitter.com/jsunderhood/status/601672130883952641")
 
 RT [@green343](https://twitter.com/green343 "Rogozhkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в айти приходится "переучиваться" каждые 3 года; странно слышать "не умею"; программист может освоить много проф…
 
@@ -630,7 +636,8 @@ RT [@tommy\_diaver](https://twitter.com/tommy_diaver "Aнтoн Kапycтин"): 
 
 ## Суббота <small>75 твитов</small>
 
-Одна из моих излюбленных «дисциплин» js-гольфа — злоупотребление DOM и BOM. Например,<br />var escapedHTML = new Option\(”&lt;"\).innerHTML; // "&amp;lt;"
+Одна из моих излюбленных «дисциплин» js-гольфа — злоупотребление DOM и BOM. Например,  
+var escapedHTML = new Option\(”&lt;"\).innerHTML; // "&amp;lt;"
 
 В том же [jsfuck.com](http://t.co/CT444OU1Mp "http://jsfuck.com/") символ "&lt;" добывается весьма изощрённым способом: ““.italics\(\)\[0\]
 
@@ -642,7 +649,8 @@ RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhoo
 
 RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") → но жены/подруги, если они не айтишницы, обычно смотрят на это не очень воодушевленно. У меня так.
 
-Вопрос читателям:<br />Есть строка с таким содержимым: текст в UTF-8, закодированный в base64. Как его оттуда вытащить на клиенте?
+Вопрос читателям:  
+Есть строка с таким содержимым: текст в UTF-8, закодированный в base64. Как его оттуда вытащить на клиенте?
 
 RT [@vkurchatkin](https://twitter.com/vkurchatkin "vkurchatkin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почему нестандартные-то? Annex B: [people.mozilla.org/~jorendorff/es…](https://t.co/Ktf3ovwli9 "https://people.mozilla.org/~jorendorff/es6-draft.html#sec-additional-properties-of-the-string.prototype-object")
 
@@ -700,7 +708,11 @@ RT [@mostolovista](https://twitter.com/mostolovista "Georgiy Mostolovitsa"): [@j
 
 Самый «завальный» вопрос, который можно задать на собеседовании, это не про равно-равно и сложение строк с числами…
 
-…вот кто уверен, что знает, что вернёт такая функция?<br />function foo\(\){<br />try { return 1}<br />finally { return 2}<br />}
+…вот кто уверен, что знает, что вернёт такая функция?  
+function foo\(\){  
+try { return 1}  
+finally { return 2}  
+}
 
 RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") 2 она всегда вернет. Инфа 100%
 
@@ -708,7 +720,11 @@ RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood]
 
 … \\cb — это Ctrl-b, т.е, \\x02. \\1 — ссылка на первую скобку, которая явно равна \\x02. А второй скобки нет, поэтому \\2 парсистся как \\002
 
-Вот ещё кусочек «адокода»:<br />with\({foo: 42}\){<br />  var foo = 33;<br />}<br />Как оно отработает?
+Вот ещё кусочек «адокода»:  
+with\({foo: 42}\){  
+  var foo = 33;  
+}  
+Как оно отработает?
 
 RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") правильный ответ - кинет ошибку, т.к. должен быть 'use strict', блеат. А вообще в объекте foo станет равным 33.
 
@@ -766,7 +782,9 @@ RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): 
 
 RT [@oelifantiev](https://twitter.com/oelifantiev "Oleg Elifantiev"): [@mkazantsev](https://twitter.com/mkazantsev "Maxim Kazantsev") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") вот этот доклад гляньте, там пример реальный. [abstract.properties/jsconfbp-2015/](http://t.co/CNOiCBw0Fk "http://abstract.properties/jsconfbp-2015/")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") йеп<br />The JS World Domination [medium.com/@slsoftworks/j…](https://t.co/T3mvR15hwc "https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070")<br />и The Birth &amp; Death of JS [destroyallsoftware.com/talks/the-birt…](https://t.co/1QfrPtj7Tw "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript") http://t[pic.twitter.com/7qOsUUz4d8](http://t.co/7qOsUUz4d8)
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") йеп  
+The JS World Domination [medium.com/@slsoftworks/j…](https://t.co/T3mvR15hwc "https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070")  
+и The Birth &amp; Death of JS [destroyallsoftware.com/talks/the-birt…](https://t.co/1QfrPtj7Tw "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript") http://t[pic.twitter.com/7qOsUUz4d8](http://t.co/7qOsUUz4d8)
 
 Тащемта, даже Рендалл Манро не обошёл это явление стороной [xkcd.com/1508/](https://t.co/kb6nfwqZ5T "https://xkcd.com/1508/")
 
@@ -802,7 +820,9 @@ RT [@sagrenite](https://twitter.com/sagrenite "Konstantin Sazonov"): [@jsunderho
 
 .[@sagrenite](https://twitter.com/sagrenite "Konstantin Sazonov") Примерно в одно время со мной. Жаль, мне тогда никто не сказал For great justice использовать virtualenv
 
-float: left;<br />display: inline;<br />Кто-нибудь ещё помнит, зачем эти два CSS-свойства применяются вместе? :\)
+float: left;  
+display: inline;  
+Кто-нибудь ещё помнит, зачем эти два CSS-свойства применяются вместе? :\)
 
 RT [@Denis\_dp](https://twitter.com/Denis_dp "Denis Sergeevich"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") что за дичь?\)
 
@@ -872,7 +892,10 @@ jQuery можно поблагодарить за популяризацию ч�
 
 Например, метод .end\(\). Используется чуть чаще, чем никогда. А ссылку на предыдущий объект держит, отличное место для утечки памяти
 
-…в каком-то из плагинов было что-то вроде setInterval\(fn\(\){<br />$a = $a.closest\(".foo"\);<br />}<br />Ух, как оно текло!
+…в каком-то из плагинов было что-то вроде setInterval\(fn\(\){  
+$a = $a.closest\(".foo"\);  
+}  
+Ух, как оно текло!
 
 Или вот: в ноде .emit\(\) возвращает то, было ли обработано событие. В DOM dispatchEvent — то, был ли он defaultPrevented…
 
@@ -942,7 +965,11 @@ RT [@le0\_nik](https://twitter.com/le0_nik "Leonid Nikiforenko"): [@jsunderhood]
 
 RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") иногда, зависит от обстоятельств. Точно нет если я - один разработчик на проекте :\) И да, стараюсь не делать вай…
 
-Я считаю, singlevar — плохая практика. После мержа может остаться<br />var a=1,<br />b=2;<br />c=3;<br />«Одна переменная — один var» в этом железобетонно.
+Я считаю, singlevar — плохая практика. После мержа может остаться  
+var a=1,  
+b=2;  
+c=3;  
+«Одна переменная — один var» в этом железобетонно.
 
 …да и замена ; на , меняет строку и делает тебя последним в блейме :\)
 
@@ -994,7 +1021,8 @@ eval\(unescape\(escape\('𬱥𭁉𫡴𩑲𭡡𫀨𡡵𫡣𭁩𫱮𚀧𚁥👣�
 
 …да, это тоже исполняемый код, не бойтесь, скопируйте и запустите его в консоли браузера или ноды :\)
 
-На этой неделе с вами был Антон [@subzey](https://twitter.com/subzey "subzey") Хлыновский.<br />Для меня это было очень новым, необычайно интересным впечатлением. Вы офигенные!
+На этой неделе с вами был Антон [@subzey](https://twitter.com/subzey "subzey") Хлыновский.  
+Для меня это было очень новым, необычайно интересным впечатлением. Вы офигенные!
 
 ## Ссылки
 

@@ -58,13 +58,17 @@ GraphQL позволяет на сервере описать все данны�
 
 А бакендеры написали один ендпоинт и просто добавляют туда фичи, когда они становятся доступны.
 
-Несколько ссылок - introduction от FB.<br />[facebook.github.io/react/blog/201…](http://t.co/AGwC5h2izW "http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html")
+Несколько ссылок - introduction от FB.  
+[facebook.github.io/react/blog/201…](http://t.co/AGwC5h2izW "http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html")
 
-Программный пост от нас.<br />[reindex.io/blog/how-faceb…](https://t.co/zd3dFwXZcd "https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/")
+Программный пост от нас.  
+[reindex.io/blog/how-faceb…](https://t.co/zd3dFwXZcd "https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/")
 
-Референс имплементация<br />[github.com/graphql/graphq…](https://t.co/5ng5KpH9eb "https://github.com/graphql/graphql-js")
+Референс имплементация  
+[github.com/graphql/graphq…](https://t.co/5ng5KpH9eb "https://github.com/graphql/graphql-js")
 
-Вот только что запостил гайд, как писать простой сервер на надо юзая reference implementation.<br />[reindex.io/blog/building-…](https://t.co/fI6QbWJStA "https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/")
+Вот только что запостил гайд, как писать простой сервер на надо юзая reference implementation.  
+[reindex.io/blog/building-…](https://t.co/fI6QbWJStA "https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/")
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") На ноде, естественно.
 
@@ -88,7 +92,8 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 RT [@astralian](https://twitter.com/astralian "Konstantin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Можно пример с позиционными и индексными ключами?
 
-Первое сделает un-mount и mount если список поменятся. Второе скорее сделает апдейт и поменяет contents.<br />[gist.github.com/freiksenet/f96…](https://t.co/1LpPUId8km "https://gist.github.com/freiksenet/f96e02ddee7a352448d3") [@astralian](https://twitter.com/astralian "Konstantin")
+Первое сделает un-mount и mount если список поменятся. Второе скорее сделает апдейт и поменяет contents.  
+[gist.github.com/freiksenet/f96…](https://t.co/1LpPUId8km "https://gist.github.com/freiksenet/f96e02ddee7a352448d3") [@astralian](https://twitter.com/astralian "Konstantin")
 
 RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") работал на заводе, которые авиадвижки делает, в отделе не разрушаемого контроля :\)
 
@@ -98,7 +103,8 @@ RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsund
 
 RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") писал софт для TV-приставок, правда всё на тех же веб-технологиях: в приставку был встроен webkit.
 
-RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") чо бы все понимали что это такое - вот фотография :\)<br />[instagram.com/p/y413-exPyZ/](https://t.co/XpeVWHhTKO "https://instagram.com/p/y413-exPyZ/")
+RT [@anton\_davydov](https://twitter.com/anton_davydov "Davy Dovanton"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") чо бы все понимали что это такое - вот фотография :\)  
+[instagram.com/p/y413-exPyZ/](https://t.co/XpeVWHhTKO "https://instagram.com/p/y413-exPyZ/")
 
 RT [@AndrewGurylev](https://twitter.com/AndrewGurylev "Andrew Gurylev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") этот вопрос сделал мой день. НИ-ЧЕ-ГО.
 
@@ -156,7 +162,8 @@ Pagination - для страничных вещей, для каждого об�
 
 RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [speakerdeck.com/laneyk/mutatio…](https://t.co/9lVZveHxc1 "https://speakerdeck.com/laneyk/mutations-in-relay") – вот здесь как обычно много слов и мало примеров кода, но в целом концепцию уловить мо…
 
-Самый подробный набор примеров про Relay<br />[facebook.github.io/react/blog/201…](http://t.co/QWBibXLs8E "http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html")
+Самый подробный набор примеров про Relay  
+[facebook.github.io/react/blog/201…](http://t.co/QWBibXLs8E "http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html")
 
 Про relay и мутации - раз у нас есть уникальный кеш, мы можем даже при мутациях которые меняют несколько обьектов обновить наше состояние.
 
@@ -296,7 +303,8 @@ RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://
 
 RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@vladimore](https://twitter.com/vladimore "Waldemar") в реакте все компонентно, а в ангуларе директиву лишний раз писать не хочется, вот все и в шаблон…
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") текущий angular, это версия 2, остальное Legacy.<br />Ты ведь не сравниваешь chrome и ie6?
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") текущий angular, это версия 2, остальное Legacy.  
+Ты ведь не сравниваешь chrome и ie6?
 
 Насколько народ юзает 2.0? Мне кажется legacy не стремятся переводить на 2.0, чую как с питоном 3 и перл 6 будет :\) [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе")
 
@@ -376,7 +384,8 @@ RT [@naorunaoru](https://twitter.com/naorunaoru "рома"): [@ilavriv](https://
 
 Всегда бесило что ; опциональна, нелюблю такой код. Всегда надо думать нужна она или нет. Легче всегда ставить. [@naorunaoru](https://twitter.com/naorunaoru "рома") [@ilavriv](https://twitter.com/ilavriv "ilavriv")
 
-RT [@iamale\_ru](https://twitter.com/iamale_ru "Я @mocaddishu"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@naorunaoru](https://twitter.com/naorunaoru "рома") \*brofist\*<br />Что думаешь насчёт Standard style? \(Помимо того, что там ; нет\) [github.com/feross/standard](https://t.co/bxARFKkoGH "https://github.com/feross/standard")
+RT [@iamale\_ru](https://twitter.com/iamale_ru "Я @mocaddishu"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@naorunaoru](https://twitter.com/naorunaoru "рома") \*brofist\*  
+Что думаешь насчёт Standard style? \(Помимо того, что там ; нет\) [github.com/feross/standard](https://t.co/bxARFKkoGH "https://github.com/feross/standard")
 
 Что он нифига не standard. [@iamale\_ru](https://twitter.com/iamale_ru "Эль") [@naorunaoru](https://twitter.com/naorunaoru "рома")
 
@@ -618,7 +627,8 @@ RT [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant"): [@jsunderhood]
 
 А зачем тогда вообще глобальная? [@antonfrolovsky](https://twitter.com/antonfrolovsky "Frant")
 
-Еще пример scripts с большим количеством вещей:<br />[gist.github.com/freiksenet/773…](https://t.co/ecnl39wYRe "https://gist.github.com/freiksenet/773747a2812c9b66507b")
+Еще пример scripts с большим количеством вещей:  
+[gist.github.com/freiksenet/773…](https://t.co/ecnl39wYRe "https://gist.github.com/freiksenet/773747a2812c9b66507b")
 
 Всё большое можно перенести в отдельные скрипты, либо баш либо просто js. Гарантирую что будет чище чем писaть это gulp-ом.
 
@@ -840,7 +850,8 @@ RT [@11bit](https://twitter.com/11bit "inky"): [@jsunderhood](https://twitter.co
 
 Он другие assets кроме js умеет? Не могу найти с первого просмотра. [@11bit](https://twitter.com/11bit "inky")
 
-RT [@from\_anywhere](https://twitter.com/from_anywhere "Иван Метелёв"): А потом удивляются, откуда у них reflow ползет<br />[twitter.com/jsunderhood/st…](https://t.co/l3ab3ZSuXp "https://twitter.com/jsunderhood/status/629195944807018496")
+RT [@from\_anywhere](https://twitter.com/from_anywhere "Иван Метелёв"): А потом удивляются, откуда у них reflow ползет  
+[twitter.com/jsunderhood/st…](https://t.co/l3ab3ZSuXp "https://twitter.com/jsunderhood/status/629195944807018496")
 
 Это смотря как сделать. [@from\_anywhere](https://twitter.com/from_anywhere "Иван Метелёв")
 
@@ -1076,7 +1087,8 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@jsunderhood](https:/
 
 Это не повод этим пользоватся для экономии\) В итоге все разузнают зп друг и друга и будет грустно. [@\_\_fro](https://twitter.com/__fro "Alexey Frolov")
 
-Статья про формулы для зп<br />[open.bufferapp.com/introducing-op…](https://t.co/UsOaKb7AIl "https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/")
+Статья про формулы для зп  
+[open.bufferapp.com/introducing-op…](https://t.co/UsOaKb7AIl "https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/")
 
 Buffer вообще дальше идут, у них все публично даже наружу, не только внутри компании.
 
@@ -1222,7 +1234,8 @@ Sunk costs fallacy и все такое :\) [@Sigiller](https://twitter.com/Sigi
 
 Гитхаб - [zachholman.com/posts/how-gith…](http://t.co/nSO2QEycHE "http://zachholman.com/posts/how-github-works/")
 
-Valve<br />[valvesoftware.com/company/Valve\_…](http://t.co/XJ8YMxynJ2 "http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf")
+Valve  
+[valvesoftware.com/company/Valve\_…](http://t.co/XJ8YMxynJ2 "http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf")
 
 Идея в том что если вы набрали себе команду талантливых, амбициозных и мотивированных людей, то ставить над ними менеджера контрпродуктивно.
 
@@ -1364,9 +1377,12 @@ RT [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov"): [@jsunderhood](https:
 
 Не обязывали, но типа через peer pressure. Все контрибьютят, а ты нет. Ты разве не любишь опен сорс? [@gxoptg\_](https://twitter.com/gxoptg_ "Ivan Akulov")
 
-RT [@lunat1que](https://twitter.com/lunat1que "Stanislav K"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") было три разных опыта:<br />- запрещали даже использование осс<br />- разрешали выкладывать наработки, без офиширования  …
+RT [@lunat1que](https://twitter.com/lunat1que "Stanislav K"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") было три разных опыта:  
+- запрещали даже использование осс  
+- разрешали выкладывать наработки, без офиширования  …
 
-RT [@lunat1que](https://twitter.com/lunat1que "Stanislav K"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />- платили за контребьютерство в qt, но имена обскьюрили, выдавая нашу работу за кого-то другого
+RT [@lunat1que](https://twitter.com/lunat1que "Stanislav K"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")   
+- платили за контребьютерство в qt, но имена обскьюрили, выдавая нашу работу за кого-то другого
 
 Последнее интересно, это как и зачем? [@lunat1que](https://twitter.com/lunat1que "Stanislav K")
 

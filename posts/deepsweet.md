@@ -86,7 +86,10 @@ RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood
 
 видимо эта неделя наконец-то заставит нас с [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov") сделать starter-kit.
 
-магия заключается в спец. \#-импорте:<br /><br />import Example from '[#example](https://twitter.com/search?q=%23example)';<br />import ExampleTypeTestSizeBig from '[#example](https://twitter.com/search?q=%23example)?\_type=test&amp;\_size=big';
+магия заключается в спец. \#-импорте:  
+  
+import Example from '[#example](https://twitter.com/search?q=%23example)';  
+import ExampleTypeTestSizeBig from '[#example](https://twitter.com/search?q=%23example)?\_type=test&amp;\_size=big';
 
 Babel-плагин матчится на символ \`\#\` в импорте и начинает искать файлы по слоям из конфига. находит – включает в цепочку наследований.
 
@@ -96,7 +99,8 @@ Babel-плагин матчится на символ \`\#\` в импорте �
 
 пример модификатора [github.com/yummies/core-c…](https://t.co/wJBZRIEBuf "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6") – \`super.render\(\)\`
 
-RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") много времени уже прошло, не сожалеешь? :\)<br />1. что ушел из яндексов 2. что переехал во Вьетнам
+RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") много времени уже прошло, не сожалеешь? :\)  
+1. что ушел из яндексов 2. что переехал во Вьетнам
 
 .[@silentroach](https://twitter.com/silentroach "Игорь") 1\) не сожалею, по-моему я ушёл очень вовремя 2\) уже жалею :\) но опыт жизни в Азии всё равно очень интересный и бесценный.
 
@@ -290,7 +294,8 @@ RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@roman01la
 
 RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@dimchez](https://twitter.com/dimchez "Dmitry Demyankov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@roman01la](https://twitter.com/roman01la "Roman Liutikov") метод translate прокидывался в компоненты как props.
 
-RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использую [github.com/piranha/puttext](https://t.co/rjdrniZ79a "https://github.com/piranha/puttext"):<br />парсинг вызовов -&gt; \*.po -&gt; \*.json -&gt; puttext\(require\('\*.json'\)\)
+RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") использую [github.com/piranha/puttext](https://t.co/rjdrniZ79a "https://github.com/piranha/puttext"):  
+парсинг вызовов -&gt; \*.po -&gt; \*.json -&gt; puttext\(require\('\*.json'\)\)
 
 RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): [@roman01la](https://twitter.com/roman01la "Roman Liutikov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Polyglot.js от airbnb + своя привязка к Redux
 
@@ -366,7 +371,8 @@ A modular, progressive, and beautiful Markdown and HTML editor [github.com/bevac
 
 пришёл ответ – рендерим. передав данные через пропсы, или просто тупо, если всё построено на дереве, из которого компонент возьмёт всё сам.
 
-Ajax with less suck - \(and node.js HTTP client to match\) <br />[visionmedia.github.com/superagent/](http://t.co/6x3UQks4Zp "http://visionmedia.github.com/superagent/") – чуть не забыл, "изоморфный ajax".
+Ajax with less suck - \(and node.js HTTP client to match\)   
+[visionmedia.github.com/superagent/](http://t.co/6x3UQks4Zp "http://visionmedia.github.com/superagent/") – чуть не забыл, "изоморфный ajax".
 
 RT [@lyxdenv](https://twitter.com/lyxdenv "Alexander Gorbunov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") И все это быстро?
 
@@ -398,11 +404,15 @@ RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https:
 
 ведь если подумать, то между сервером и клиентом нет абсолютно никакой связи, кроме как HTML, и только так можно связать "сессию".
 
-RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а почему нельзя:<br />React.render\(&lt;Handler /&gt;, document\);<br />?
+RT [@olebedev](https://twitter.com/olebedev "Oleg Lebedev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а почему нельзя:  
+React.render\(&lt;Handler /&gt;, document\);  
+?
 
 .[@olebedev](https://twitter.com/olebedev "Oleg Lebedev") можно и нужно, вот только сторы пустые.
 
-т.е. при серверном рендеринге, куда-нибудь в &lt;body&gt;:<br /><br />&lt;script id="\_bootstrap" type="application/json"&gt;{ ololo: true }&lt;/script&gt;
+т.е. при серверном рендеринге, куда-нибудь в &lt;body&gt;:  
+  
+&lt;script id="\_bootstrap" type="application/json"&gt;{ ololo: true }&lt;/script&gt;
 
 для клиентского бандла точкой входа является клиентский конструктор роутера, который, если есть "bootstrap", возьмёт оттуда данные.
 
@@ -988,7 +998,8 @@ RT [@esergeev](https://twitter.com/esergeev "Evgeniy Sergeev"): [@jsunderhood](h
 
 RT [@int16h](https://twitter.com/int16h "⠀KØLIBABCHUK"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/AoqHwjWsKr](http://t.co/AoqHwjWsKr)
 
-RT [@apostololeg](https://twitter.com/apostololeg "^_^"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда N обработчиков с 80% копипаста лучше, чем один обработчик c декларацией параметров для них ?<br />https://t.[jsfiddle.net/trnt/savrdygy/](https://t.co/rk1bR3lDXo "https://jsfiddle.net/trnt/savrdygy/")
+RT [@apostololeg](https://twitter.com/apostololeg "^_^"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") когда N обработчиков с 80% копипаста лучше, чем один обработчик c декларацией параметров для них ?  
+https://t.[jsfiddle.net/trnt/savrdygy/](https://t.co/rk1bR3lDXo "https://jsfiddle.net/trnt/savrdygy/")
 
 .[@apostololeg](https://twitter.com/apostololeg "^_^") когда один обработчик становится слишком полиморфным и сложным
 

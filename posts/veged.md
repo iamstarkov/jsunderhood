@@ -52,7 +52,9 @@ RT [@Sullenor](https://twitter.com/Sullenor "Литвинов Алексей"): 
 
 ## Вторник <small>23 твита</small>
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@1vank1n](https://twitter.com/1vank1n "Ivan Lukyanets") тут есть ответ:<br /><br />[yoga23.com/m23/howitworks/](http://t.co/LfJsQyKf4l "http://www.yoga23.com/m23/howitworks/")
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@SilentImp](https://twitter.com/SilentImp "Тихий Бес") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@1vank1n](https://twitter.com/1vank1n "Ivan Lukyanets") тут есть ответ:  
+  
+[yoga23.com/m23/howitworks/](http://t.co/LfJsQyKf4l "http://www.yoga23.com/m23/howitworks/")
 
 .[@rusgautama](https://twitter.com/rusgautama "Rus Buddha") [@DieGelassenheit](https://twitter.com/DieGelassenheit "Die_Gelassenheit") [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе") все 9 лет регулярно возникает желание — взвешиваю+пробую — пока Я для меня побеждает ;-\) не устал
 
@@ -90,7 +92,11 @@ RT [@arik0n](https://twitter.com/arik0n "Sergey Belov"): [@jsunderhood](https://
 
 RT [@arik0n](https://twitter.com/arik0n "Sergey Belov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@Rukomoynikov](https://twitter.com/Rukomoynikov "Maksim Rukomoynikov") И менеджеры в разработчики тоже. Бывают случаи \(один был в моей группе\).
 
-RT [@rauschma](https://twitter.com/rauschma "Axel Rauschmayer"): Style rule: “no semicolons”<br />Next style rule:<br />Never start a line with \( or \[<br />Instead, use ;\[1, 2, 3\].join\(' '\) <br />[github.com/feross/standar…](https://t.co/spnaNA3XB5 "https://github.com/feross/standard#rules")
+RT [@rauschma](https://twitter.com/rauschma "Axel Rauschmayer"): Style rule: “no semicolons”  
+Next style rule:  
+Never start a line with \( or \[  
+Instead, use ;\[1, 2, 3\].join\(' '\)   
+[github.com/feross/standar…](https://t.co/spnaNA3XB5 "https://github.com/feross/standard#rules")
 
 давно ищу повод и возможность написать много кода в no semicolons comma first стиле — пока почему-то все боятся :-\(
 
@@ -150,7 +156,9 @@ RT [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov"): [@jsunderhood
 
 RT [@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") помню что ты говорил о кодстайле, что в каждой команде его делают так как им удобнее. решили унифицировать?\)
 
-.[@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr") скажем так… есть мнения ;-\)<br /><br />унифицированный xsltшный кодстайл \([@knopsh](https://twitter.com/knopsh "Sergey Nikitin") вспомнил\) помещался в твит: “индент 4 пробела”
+.[@rastopyr\_ua](https://twitter.com/rastopyr_ua "Rastopyr") скажем так… есть мнения ;-\)  
+  
+унифицированный xsltшный кодстайл \([@knopsh](https://twitter.com/knopsh "Sergey Nikitin") вспомнил\) помещался в твит: “индент 4 пробела”
 
 ## Суббота <small>3 твита</small>
 

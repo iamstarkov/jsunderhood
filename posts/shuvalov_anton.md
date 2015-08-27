@@ -22,7 +22,8 @@ Arrow-функции очень крутые! [bit.ly/1zJkGze](http://t.co/U1ODB
 
 RT [@rdvornov](https://twitter.com/rdvornov "Roman Dvornov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это если не брать в расчет, что на понимание кода из примера уйдет куда больше времени, чем на понимание эквивал…
 
-В arrow-функциях — this указывает на тот  в котором функция объявленна: <br />this.$\('select'\).on\('change', e =&gt; this.setValue\($\(e.target\).val\(\)\)
+В arrow-функциях — this указывает на тот  в котором функция объявленна:   
+this.$\('select'\).on\('change', e =&gt; this.setValue\($\(e.target\).val\(\)\)
 
 Кстати, io.js поддерживает достаточно много всего из спеки ES6. Еще один камень в огород Joyent :D [iojs.org/es6.html](https://t.co/VtTWv98RPl "https://iojs.org/es6.html")
 

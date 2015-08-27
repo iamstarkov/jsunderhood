@@ -32,7 +32,9 @@ RT [@GrantedN](https://twitter.com/GrantedN "Alex Grand"): [@jsunderhood](https:
 
 RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вячеслав, немного не по теме, но всё же... Что вы думаете о реализациях виртуального дома в js? Есть ли з…
 
-.[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") на мой взгляд за ними есть настоящее, <br /><br />кто знает, что будет в будущем? может веб умрет, может DOM станет легковесным
+.[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") на мой взгляд за ними есть настоящее,   
+  
+кто знает, что будет в будущем? может веб умрет, может DOM станет легковесным
 
 .[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") а тема у нас JS и все-все-все, так что любой вопрос по теме, даже если я на него ответа не знаю :\)
 
@@ -194,7 +196,8 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 адаптивная оптимизация одной картинкой [pic.twitter.com/t3KiTwWaNO](http://t.co/t3KiTwWaNO)
 
-RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а я опять о насущном :\)<br />Вячеслав, что вы думаете о реактивном подходе в построении сложных spa приложений…
+RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а я опять о насущном :\)  
+Вячеслав, что вы думаете о реактивном подходе в построении сложных spa приложений…
 
 .[@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro") я думаю, что это функциональненько, и больше ничего :\)
 

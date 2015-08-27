@@ -114,7 +114,8 @@ RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](h
 
 Из тех, что направлены на повышение diversity, радуют [railsgirls.com](http://t.co/jOFDvzvLq9 "http://railsgirls.com/") и [djangogirls.org](http://t.co/lDH1H11YBr "http://djangogirls.org/"). 16 Мая, кстати, [@DjangoGirlsKyiv](https://twitter.com/DjangoGirlsKyiv "DjangoGirls Kyiv")
 
-Самыми сложными моментами в организации ивентов зачастую бывают 1\) место, 2\) спикеры, 3\) мерчандайз.<br />Сверху посыпать рандомными факапами.
+Самыми сложными моментами в организации ивентов зачастую бывают 1\) место, 2\) спикеры, 3\) мерчандайз.  
+Сверху посыпать рандомными факапами.
 
 Какой самый полезный стафф из материального вам доводилось получать на конференциях?
 
@@ -238,7 +239,8 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 .[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") ClojureScript: Up and Running - [shop.oreilly.com/product/063692…](http://t.co/Ukj8CRXkdZ "http://shop.oreilly.com/product/0636920025139.do")
 
-.[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") TypeScript Succinctly - [syncfusion.com/resources/tech…](https://t.co/cvFTB2a7JM "https://www.syncfusion.com/resources/techportal/ebooks/typescript")<br />правда, немного устаревшее чтиво.
+.[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") TypeScript Succinctly - [syncfusion.com/resources/tech…](https://t.co/cvFTB2a7JM "https://www.syncfusion.com/resources/techportal/ebooks/typescript")  
+правда, немного устаревшее чтиво.
 
 .[@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") Dart: Up and Running - [shop.oreilly.com/product/063692…](http://t.co/PZk26ygqZd "http://shop.oreilly.com/product/0636920025719.do")
 
@@ -248,7 +250,9 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): О! Я да�
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и я бы не сказал, что это правильно.
 
-.[@SilentImp](https://twitter.com/SilentImp "Тихий Бес") People love to do work they feel they own,<br />And that ownership can be shared,<br />But so is the sense of responsibility.
+.[@SilentImp](https://twitter.com/SilentImp "Тихий Бес") People love to do work they feel they own,  
+And that ownership can be shared,  
+But so is the sense of responsibility.
 
 .[@SilentImp](https://twitter.com/SilentImp "Тихий Бес") это из статьи Майкла Роджерса [medium.com/node-js-javasc…](https://t.co/iYV9tApE2c "https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5") про то, как строить опен-сорс комьюнити
 
@@ -278,7 +282,10 @@ RT [@brianloveswords](https://twitter.com/brianloveswords "a leathery bat"): 20 
 
 По ключевикам нашел только [gist.github.com/dherman/5463054](https://t.co/TmCZGCWQP2 "https://gist.github.com/dherman/5463054"). Ток будет еще - [2015.jsconf.us/speakers.html\#…](http://t.co/vM2cFXecDR "http://2015.jsconf.us/speakers.html#ihsanullah"). Демо - расчет фрактала на 8 ядрах. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-После появления многопоточности:<br />- Вы хотите делать формочки, работая на нас?<br />- Да<br />- Расскажите про Race Condition &amp; deadlocks в жс
+После появления многопоточности:  
+- Вы хотите делать формочки, работая на нас?  
+- Да  
+- Расскажите про Race Condition &amp; deadlocks в жс
 
 "бутсрат" - новый ui-kit фреймворк. Главный слоган "будем вносить несемантические говнокомпоненты в любой маркап". \(not really\)
 
@@ -346,7 +353,8 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): Ка
 
 Как-то не очень люди откликнулись, вброшу свои. 5 еще лежат и нужно придумать, куда наклеить &gt;\_&lt; [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [pic.twitter.com/aGwVTO0GLk](http://t.co/aGwVTO0GLk)
 
-Эмпатия - важный скилл для разработчика, чем бы он не занимался: <br />работал в команде или общался бы с заказчиком. [speakerdeck.com/hipsterbrown/t…](https://t.co/rXrjacX9Ik "https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1")
+Эмпатия - важный скилл для разработчика, чем бы он не занимался:   
+работал в команде или общался бы с заказчиком. [speakerdeck.com/hipsterbrown/t…](https://t.co/rXrjacX9Ik "https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1")
 
 Если вас часто спрашивают "ты что, не понимаешь, почему это важно?", то вам стоит задуматься о мотивации окружающих.
 
@@ -418,7 +426,8 @@ RT [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda"): [@jsunderhood](https:/
 
 ## Воскресенье <small>17 твитов</small>
 
-[github.com/glowbox/maptas…](https://t.co/LqD2CpEeeJ "https://github.com/glowbox/maptasticjs") - полезная тула для подстройки<br />проецируемого на кривые поверхности изображения от [@purdybot](https://twitter.com/purdybot "Ben Purdy")
+[github.com/glowbox/maptas…](https://t.co/LqD2CpEeeJ "https://github.com/glowbox/maptasticjs") - полезная тула для подстройки  
+проецируемого на кривые поверхности изображения от [@purdybot](https://twitter.com/purdybot "Ben Purdy")
 
 Кто чего больше ждет: Relay'а или Falcor'а? Кто из них решит все ваши проблемы с персистенсом в приложении \(если вы не на эмбере пишете\)?
 
@@ -438,13 +447,16 @@ RT [@gladkih\_m](https://twitter.com/gladkih_m "Maxim Gladkih"): [@jsunderhood](
 
 два самых важных анрелейтед вопроса по видео: что за иконка и как Никита научился так маркер подкидывать [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov") [pic.twitter.com/sHI3x5S0ms](http://t.co/sHI3x5S0ms)
 
-RT [@iSalem100](https://twitter.com/iSalem100 "Valentin Banshchikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Типографская раскладка<br />Бирмана [ilyabirman.ru/projects/typog…](http://t.co/CWFbha10P8 "http://ilyabirman.ru/projects/typography-layout/")
+RT [@iSalem100](https://twitter.com/iSalem100 "Valentin Banshchikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Типографская раскладка  
+Бирмана [ilyabirman.ru/projects/typog…](http://t.co/CWFbha10P8 "http://ilyabirman.ru/projects/typography-layout/")
 
 Насмотревшись видео про ФП и React, пошел делать калькулятор на react-native. В кои-то веки радует факт обладания Mac'ом.
 
-Не чурайтесь участвовать в онлайн-комьюнити, будь вы ментором или учащимся;<br />вносить свою лепту в обсуждения в чатах- [github.com/mr-mig/ru-it-c…](https://t.co/UaFUmC7DVT "https://github.com/mr-mig/ru-it-chats")
+Не чурайтесь участвовать в онлайн-комьюнити, будь вы ментором или учащимся;  
+вносить свою лепту в обсуждения в чатах- [github.com/mr-mig/ru-it-c…](https://t.co/UaFUmC7DVT "https://github.com/mr-mig/ru-it-chats")
 
-Плавно закругляем неделю. С вами был [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"), спасибо, что терпели.<br />Пингуйте, если хотите поговорить на темы обучения, опенсорса, JS и FP
+Плавно закругляем неделю. С вами был [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"), спасибо, что терпели.  
+Пингуйте, если хотите поговорить на темы обучения, опенсорса, JS и FP
 
 Это все объясняет [twitter.com/nikitonsky/sta…](https://t.co/9noLzFEWIh "https://twitter.com/nikitonsky/status/594960292167229442")
 

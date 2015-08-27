@@ -4,11 +4,13 @@ _14 июня 2015_
 
 ## Понедельник <small>24 твита</small>
 
-Всем привет! <br />На этой неделе с вами Алексей \([@Ask\_11](https://twitter.com/Ask_11 "Aleksey Kulikov")\). Я фрилансер, JS разработчик, живу в Словении.
+Всем привет!   
+На этой неделе с вами Алексей \([@Ask\_11](https://twitter.com/Ask_11 "Aleksey Kulikov")\). Я фрилансер, JS разработчик, живу в Словении.
 
 На этой неделе я планирую писать о freelance, javascript, модульной разработке, работе программиста и с удовольствием отвечу на вопросы.
 
-Советы от гуру фриланса, а также вдохновение для тех кто думает двигаться в этом направлении<br /> [kenwestgaard.com/the-gurus-got-…](http://t.co/g9pAL6LPz7 "http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/") [pic.twitter.com/Ks0KB8g42M](http://t.co/Ks0KB8g42M)
+Советы от гуру фриланса, а также вдохновение для тех кто думает двигаться в этом направлении  
+ [kenwestgaard.com/the-gurus-got-…](http://t.co/g9pAL6LPz7 "http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/") [pic.twitter.com/Ks0KB8g42M](http://t.co/Ks0KB8g42M)
 
 RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Где ты ищешь заказы? Биржи? Если да, то какие?
 
@@ -18,7 +20,11 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 RT [@sapegin](https://twitter.com/sapegin "Artem Sapegin"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Топтал — крутые. Я тоже к ним прошёл, но понял, что не мой формат.
 
-На Toptal [toptal.com/\#utilize-wise-…](https://t.co/bih5jgc9g2 "https://www.toptal.com/#utilize-wise-software-freelancers") 4 собеседования:<br />- язык<br />- [codility.com](https://t.co/yyyJp9cQa5 "https://codility.com/")<br />- скрининг<br />- мини-приложение [twitter.com/justusebrain/s…](https://t.co/cZPvPbtdFu "https://twitter.com/justusebrain/status/607809469544861696")
+На Toptal [toptal.com/\#utilize-wise-…](https://t.co/bih5jgc9g2 "https://www.toptal.com/#utilize-wise-software-freelancers") 4 собеседования:  
+- язык  
+- [codility.com](https://t.co/yyyJp9cQa5 "https://codility.com/")  
+- скрининг  
+- мини-приложение [twitter.com/justusebrain/s…](https://t.co/cZPvPbtdFu "https://twitter.com/justusebrain/status/607809469544861696")
 
 В Словении мы живём с женой. У меня было ИП в Перми, я его закрыл, и открыл там DOO, на основании этого мне дали ВНЖ. [pic.twitter.com/WLL9MO0bXQ](http://t.co/WLL9MO0bXQ)
 
@@ -54,7 +60,8 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 ## Вторник <small>14 твитов</small>
 
-Список изменений в Safari 9: force touch events, css blur effect, улучшенная поддержка es6<br />[developer.apple.com/library/prerel…](https://t.co/x9tculGRX5 "https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html") [pic.twitter.com/M2Fw4JTC7a](http://t.co/M2Fw4JTC7a)
+Список изменений в Safari 9: force touch events, css blur effect, улучшенная поддержка es6  
+[developer.apple.com/library/prerel…](https://t.co/x9tculGRX5 "https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html") [pic.twitter.com/M2Fw4JTC7a](http://t.co/M2Fw4JTC7a)
 
 Думаю, сегодня будет больше подробностей с [#WWDC15](https://twitter.com/search?q=%23WWDC15), но в целом немного грустно, что Apple ничего значительного для веба не анонсировали.
 
@@ -62,7 +69,8 @@ RT [@roman01la](https://twitter.com/roman01la "λ [Roman Liutikov]"): [@jsunderh
 
 RT [@bem\_xxx](https://twitter.com/bem_xxx "БЭМ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А могли бы на БЭМ перейти. Теперь им ещё год ждать, чтобы объявить о таком громком событии.
 
-1/3 В nodeup 87 [nodeup.com/eightyseven](http://t.co/dR8R4MRXVj "http://nodeup.com/eightyseven") обсуждали npm модули, и каждый из гостей называл 2 своих любимых.<br />Что бы назвали Вы?
+1/3 В nodeup 87 [nodeup.com/eightyseven](http://t.co/dR8R4MRXVj "http://nodeup.com/eightyseven") обсуждали npm модули, и каждый из гостей называл 2 своих любимых.  
+Что бы назвали Вы?
 
 2/3 component-type [npmjs.com/package/compon…](https://t.co/xNYD9puyUj "https://www.npmjs.com/package/component-type") - легковесная альтернатива typeof, которая просто работает [pic.twitter.com/jKLuxpoQBt](http://t.co/jKLuxpoQBt)
 
@@ -78,13 +86,15 @@ RT [@MRinat](https://twitter.com/MRinat "Rinat Mullayanov"): [@jsunderhood](http
 
 RT [@subzey](https://twitter.com/subzey "subzey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Вдогонку: О том, как разработать апи, не вызывающее желания разбить клавиатуру, есть шикарная статья: [frontender.info/designing-java…](http://t.co/f4dK8VXQoF "http://frontender.info/designing-javascript-apis-usability/")
 
-Познавательное видео о том, как в Automatic пишут веб модули [youtube.com/watch?v=5EFAnF…](https://t.co/Kn1a40YVqo "https://www.youtube.com/watch?v=5EFAnFske_w")<br />+ мой небольшой конспект [pic.twitter.com/sKtnto8Nse](http://t.co/sKtnto8Nse)
+Познавательное видео о том, как в Automatic пишут веб модули [youtube.com/watch?v=5EFAnF…](https://t.co/Kn1a40YVqo "https://www.youtube.com/watch?v=5EFAnFske_w")  
++ мой небольшой конспект [pic.twitter.com/sKtnto8Nse](http://t.co/sKtnto8Nse)
 
 RT [@sc0rp1d](https://twitter.com/sc0rp1d "Mark Langovoi"): Ищу интересных спикеров для мероприятия по веб-деву в Краснодаре [@webstandards\_ru](https://twitter.com/webstandards_ru "Веб-стандарты") [@forwebdev](https://twitter.com/forwebdev "For Web") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@frontflip\_js](https://twitter.com/frontflip_js "Frontflip Podcast") [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin")
 
 ## Среда <small>25 твитов</small>
 
-Всем приятной среды!<br />Сегодня предлагаю обсудить и поделиться опытом на тему "Оффлайн веб приложения"
+Всем приятной среды!  
+Сегодня предлагаю обсудить и поделиться опытом на тему "Оффлайн веб приложения"
 
 Мои слайды с permjs meetup об “Оффлайн Веб” \(текущая ситуация, возможные решения\) [slides.com/alekseykulikov…](http://t.co/47i4ppwgsh "http://slides.com/alekseykulikov/offline-web-perm-js-meetup#/")
 
@@ -114,7 +124,9 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@jsunderhoo
 
 Но есть желание написать более универсальную обёртку вокруг ottypes [github.com/ottypes](https://t.co/9RL96P4vCF "https://github.com/ottypes") и использовать OT \([en.wikipedia.org/wiki/Operation…](http://t.co/kGNwj0t7QB "http://en.wikipedia.org/wiki/Operational_transformation")\)
 
-Для желающих погрузиться в Operational Transformations есть: ottypes, livedb и sharejs.<br />[github.com/ottypes](https://t.co/9RL96P4vCF "https://github.com/ottypes")<br />[github.com/share/livedb](https://t.co/SmW6yGXwyu "https://github.com/share/livedb")
+Для желающих погрузиться в Operational Transformations есть: ottypes, livedb и sharejs.  
+[github.com/ottypes](https://t.co/9RL96P4vCF "https://github.com/ottypes")  
+[github.com/share/livedb](https://t.co/SmW6yGXwyu "https://github.com/share/livedb")
 
 Тем кто не знаком с Виктором [@gritzko](https://twitter.com/gritzko "Victor Grishchenko"), можно посмотреть [youtube.com/watch?v=uyZKWy…](https://t.co/XFGJLSsA7y "https://www.youtube.com/watch?v=uyZKWyciSXY") и обязательно его зафоловить :\) [twitter.com/KSDaemon/statu…](https://t.co/ZiYn5cTwxL "https://twitter.com/KSDaemon/status/608560049334661120")
 
@@ -128,11 +140,18 @@ RT [@i\_told\_ya](https://twitter.com/i_told_ya "Isaev Igor"): [@jsunderhood](ht
 
 Cтатья объясняющих проблемы с Application Cache [alistapart.com/article/applic…](http://t.co/WLReGAB8lq "http://alistapart.com/article/application-cache-is-a-douchebag"), после которой Jake устроился в Google и разработал Service Worker
 
-Кто нибудь уже экспериментировал с Service Worker для создания оффлайн веб-приложений? Поделитесь, пожалуйста, опытом<br />[html5rocks.com/en/tutorials/s…](http://t.co/YlVszNSplq "http://www.html5rocks.com/en/tutorials/service-worker/introduction/")
+Кто нибудь уже экспериментировал с Service Worker для создания оффлайн веб-приложений? Поделитесь, пожалуйста, опытом  
+[html5rocks.com/en/tutorials/s…](http://t.co/YlVszNSplq "http://www.html5rocks.com/en/tutorials/service-worker/introduction/")
 
 RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): The State of Web Components [hacks.mozilla.org/2015/06/the-st…](https://t.co/eG1Ro83SDT "https://hacks.mozilla.org/2015/06/the-state-of-web-components/") tldr: things are complicated, don’t expect native support anytime soo. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
-RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Какие есть сообщества фронтендеров в slack и gitter?<br /><br />[fedsonslack.com](http://t.co/tIstXICets "http://fedsonslack.com")<br />[frontendlondon-slack.herokuapp.com](http://t.co/19CIOjDO6C "http://frontendlondon-slack.herokuapp.com")<br /><br />[gitter.im/dev-ua/](http://t.co/MceQIgXV3u "http://gitter.im/dev-ua/")<br />[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Какие есть сообщества фронтендеров в slack и gitter?  
+  
+[fedsonslack.com](http://t.co/tIstXICets "http://fedsonslack.com")  
+[frontendlondon-slack.herokuapp.com](http://t.co/19CIOjDO6C "http://frontendlondon-slack.herokuapp.com")  
+  
+[gitter.im/dev-ua/](http://t.co/MceQIgXV3u "http://gitter.im/dev-ua/")  
+[@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 ## Четверг <small>4 твита</small>
 
@@ -146,13 +165,17 @@ RT [@doochik](https://twitter.com/doochik "Aleksei Androsov"): [@jsunderhood](ht
 
 ## Пятница <small>6 твитов</small>
 
-Всем приятной пятницы!<br />Вчера мало писал в twitter, зато сделал 24 коммита. Сегодня поделюсь с Вами разными классными штуками.
+Всем приятной пятницы!  
+Вчера мало писал в twitter, зато сделал 24 коммита. Сегодня поделюсь с Вами разными классными штуками.
 
-Любимая книга о JavaScript - "JavaScript. Подробное руководство"<br />Там не хватает ES6, но об ES5 и DOM хорошо написано.<br />[books.ru/books/javascri…](http://t.co/YFY23y5z5f "http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/")
+Любимая книга о JavaScript - "JavaScript. Подробное руководство"  
+Там не хватает ES6, но об ES5 и DOM хорошо написано.  
+[books.ru/books/javascri…](http://t.co/YFY23y5z5f "http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/")
 
 На Github есть движение "awesome lists", Синдре Сорхус собрал ссылки на такие списки [github.com/sindresorhus/a…](https://t.co/YAMmKXyXFe "https://github.com/sindresorhus/awesome") [pic.twitter.com/NjHe2Wktg8](http://t.co/NjHe2Wktg8)
 
-Отличный разговор двух гиков о кофе, его истории, способах приготовления и свойствах.<br />[techdistortion.com/podcasts/pragm…](http://t.co/wRi5mylpKo "http://techdistortion.com/podcasts/pragmatic/episode-30-coffee") [pic.twitter.com/lEGTHfxvL6](http://t.co/lEGTHfxvL6)
+Отличный разговор двух гиков о кофе, его истории, способах приготовления и свойствах.  
+[techdistortion.com/podcasts/pragm…](http://t.co/wRi5mylpKo "http://techdistortion.com/podcasts/pragmatic/episode-30-coffee") [pic.twitter.com/lEGTHfxvL6](http://t.co/lEGTHfxvL6)
 
 Ещё одна коллекция "awesome lists" [twitter.com/medvezhopok/st…](https://t.co/1qRnY2SFNL "https://twitter.com/medvezhopok/status/609248424664375297")
 
@@ -176,7 +199,10 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): Ок
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") это мой вольный перевод [hugo.ferreira.cc/post/565346460…](http://t.co/aKTGVcuA3U "http://hugo.ferreira.cc/post/56534646042/her-diary-tonight-i-thought-my-husband-was")
 
-На этой неделе с Вами был Алексей Куликов: <br />- мой твиттер: [@Ask\_11](https://twitter.com/Ask_11 "Aleksey Kulikov")<br />- мой гитхаб: [github.com/alekseykulikov](https://t.co/SnSM4XH4LT "https://github.com/alekseykulikov")<br />Это было классно, удачи, пока!
+На этой неделе с Вами был Алексей Куликов:   
+- мой твиттер: [@Ask\_11](https://twitter.com/Ask_11 "Aleksey Kulikov")  
+- мой гитхаб: [github.com/alekseykulikov](https://t.co/SnSM4XH4LT "https://github.com/alekseykulikov")  
+Это было классно, удачи, пока!
 
 ## Ссылки
 

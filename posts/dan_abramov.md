@@ -120,7 +120,8 @@ RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@jsun
 
 Расскажи. Once you go black you never go back? [@nikitonsky](https://twitter.com/nikitonsky "Nikita Prokopov")
 
-RT [@wtfil](https://twitter.com/wtfil "Фил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") приложение для зацикливания отдельных кусков песни \(полезно для начинающих музыкантов\)<br />[github.com/wtfil/song-loo…](https://t.co/tsf4QxZiGi "https://github.com/wtfil/song-looper")
+RT [@wtfil](https://twitter.com/wtfil "Фил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") приложение для зацикливания отдельных кусков песни \(полезно для начинающих музыкантов\)  
+[github.com/wtfil/song-loo…](https://t.co/tsf4QxZiGi "https://github.com/wtfil/song-looper")
 
 RT [@mlfrg](https://twitter.com/mlfrg "Alexey Taktarov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") Конечные поля и кольца на JS [molefrog.com/rye/](http://t.co/XsZN93WDz7 "http://molefrog.com/rye/") \(чтобы строить красивые картинки 😊[molefrog.com/rye/demo/galoi…](http://t.co/MNghJe4k0W "http://molefrog.com/rye/demo/galois/")…
 
@@ -140,13 +141,17 @@ RT [@andrepolischuk](https://twitter.com/andrepolischuk "Andrey Polischuk"): [@j
 
 RT [@aluuu](https://twitter.com/aluuu "Усиление и Манатан"): [@asolovyov](https://twitter.com/asolovyov "Alexander Solovyov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") мда, хитро\) Что на счёт Elm думаете, кстати? Стали бы в тащить в проект, если человек из команды захотел…
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")<br />Извлечение свойств md-статей: заголовок, дата, описание, контент.<br />Чтобы не писать YAML, как в jekyll.<br />https://[npmjs.com/package/articl…](https://t.co/9QHs0NTf7J "https://www.npmjs.com/package/article-data")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")  
+Извлечение свойств md-статей: заголовок, дата, описание, контент.  
+Чтобы не писать YAML, как в jekyll.  
+https://[npmjs.com/package/articl…](https://t.co/9QHs0NTf7J "https://www.npmjs.com/package/article-data")
 
 RT [@lazzy\_panda](https://twitter.com/lazzy_panda "Dmitry Maslov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Web component для отображение github's gists на Polymer [github.com/dmaslov/github…](https://t.co/7UgD6MPq3B "https://github.com/dmaslov/github-gist")
 
 RT [@forever\_frey](https://twitter.com/forever_frey "Forever Frey"): [@lisovskyvlad](https://twitter.com/lisovskyvlad "Влад Лисовский") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") попробуй, вдруг взлетит
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): Кто чем пользуется для отслеживания JS ошибок на проде? Сервисы? Библиотеки?<br />/сс [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): Кто чем пользуется для отслеживания JS ошибок на проде? Сервисы? Библиотеки?  
+/сс [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 RT [@sudodoki](https://twitter.com/sudodoki "Джон, просто Джон"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/sudodoki/copy-…](https://t.co/X4nbDN0iso "https://github.com/sudodoki/copy-button") - кнопка-компонент для копирования в буфер. Чтоб без флеша. Для nodeschool [github.com/nodeschool/nod…](https://t.co/ysjREselx6 "https://github.com/nodeschool/nodeschool.github.io/issues/145")
 
@@ -186,7 +191,8 @@ RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин
 
 RT [@suevalov](https://twitter.com/suevalov "Alexander Suevalov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") переписал свой сайт с CSS Modules. Полет отличный.
 
-RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") webpack postcss local-scope<br />bem ужасен, по-моему, потому что пытается решать не те проблемы и не теми методами
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") webpack postcss local-scope  
+bem ужасен, по-моему, потому что пытается решать не те проблемы и не теми методами
 
 RT [@bem\_xxx](https://twitter.com/bem_xxx "БЭМ"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") БЭМ это не только лишь CSS!
 
@@ -202,9 +208,12 @@ RT [@agudulin](https://twitter.com/agudulin "Alexander Gudulin"): [@jsunderhood]
 
 Как BEM, компоненты и зависимости-в-JS дополняют друг друга: [medium.com/seek-ui-engine…](https://t.co/2N304i9tck "https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b"). Этот пост — прелюдия к CSS Modules.
 
-RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/MicheleBertoli…](https://t.co/1Wz19PUvbE "https://github.com/MicheleBertoli/css-in-js")<br />колонка autoprefixer included
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [github.com/MicheleBertoli…](https://t.co/1Wz19PUvbE "https://github.com/MicheleBertoli/css-in-js")  
+колонка autoprefixer included
 
-RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") my bad, я отстал от жизни<br />Создатель postcss-local-scope задепрекейтил его в пользу развития css modules<br />https://t[github.com/markdalgleish/…](https://t.co/397l2LwP6B "https://github.com/markdalgleish/postcss-local-scope-example")
+RT [@morhetz](https://twitter.com/morhetz "Pavel Pertsev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") my bad, я отстал от жизни  
+Создатель postcss-local-scope задепрекейтил его в пользу развития css modules  
+https://t[github.com/markdalgleish/…](https://t.co/397l2LwP6B "https://github.com/markdalgleish/postcss-local-scope-example")
 
 Быстрый ответ — после Webpack для меня пропала необходимость в Grunt/Gulp. В Browserify нет Hot Module Replacement :-\( [@baxxabit](https://twitter.com/baxxabit "Uladzimir Havenchyk")
 
@@ -460,7 +469,8 @@ RT [@smashercosmo](https://twitter.com/smashercosmo "Vladislav Shkodin"): [@jsun
 
 RT [@mbektimirov](https://twitter.com/mbektimirov "Marat Bektimirov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") лайв кодинг решает! Свежайший пример: [youtube.com/watch?v=j-kj2q…](http://t.co/J9kPj8Fhza "http://www.youtube.com/watch?v=j-kj2qwJa_E")
 
-RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): Пацаны-ребяты, посоветуйте модульный/компонентный CSS фреймворк, прям список всех что знаете. Нужно для исследований.<br />RT plz
+RT [@voischev](https://twitter.com/voischev "Ваня Воищев"): Пацаны-ребяты, посоветуйте модульный/компонентный CSS фреймворк, прям список всех что знаете. Нужно для исследований.  
+RT plz
 
 RT [@kojoru](https://twitter.com/kojoru "Konstantin Yakushev"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а как находил клиентов для консалтинга?
 
@@ -470,7 +480,9 @@ RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситни�
 
 RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситник"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кроме того, старайся добавить сильные цитаты, которые могут уйти в Твиттер
 
-RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почитай книгу «Мастерство презентации», очень хорошая.<br /><br />[mann-ivanov-ferber.ru/promo/presenta…](http://t.co/TTkESCpvsu "http://www.mann-ivanov-ferber.ru/promo/presentation/")
+RT [@harisov](https://twitter.com/harisov "Vitaly Harisov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") почитай книгу «Мастерство презентации», очень хорошая.  
+  
+[mann-ivanov-ferber.ru/promo/presenta…](http://t.co/TTkESCpvsu "http://www.mann-ivanov-ferber.ru/promo/presentation/")
 
 Мне комфортно два-три часа в \(будний\) день, чтобы остальное время заниматься опенсорсом. [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе") [@paulmillr](https://twitter.com/paulmillr "Paul Miller")
 
@@ -658,7 +670,8 @@ React — не про virtual DOM. Это просто деталь реализ
 
 RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не поверишь, Эмбер тоже. Я в шоке от того, насколько мой код на Эмбер похож на то, что люди на Реактепишут [@tchak13](https://twitter.com/tchak13 "Paul Chavard")[@kolybasov](https://twitter.com/kolybasov "Mykola Basov")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): The Debate Around “Do We Even Need CSS Anymore?”<br />[css-tricks.com/the-debate-aro…](https://t.co/ZWbX4NkSLU "https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/")
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): The Debate Around “Do We Even Need CSS Anymore?”  
+[css-tricks.com/the-debate-aro…](https://t.co/ZWbX4NkSLU "https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/")
 
 RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@avevlad](https://twitter.com/avevlad "AveVlad") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") да. Тоже мучался, потом нашел [github.com/gulpjs/gulp/bl…](https://t.co/eUz8Ij3MJN "https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md"), теперь билды 300 ms максимум.
 
@@ -698,7 +711,8 @@ RT [@denysdovhan](https://twitter.com/denysdovhan "Denys Dovhan"): [@jsunderhood
 
 RT [@\_sashashakun](https://twitter.com/_sashashakun "Alexander"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") у меня после бокса хорошо идёт решать проблемы, голова очищается. Если конечно в голову не словил пару раз н…
 
-RT [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Webpack главным образом за hot-reload, огромное спасибо кстати :-\),<br />плюс с browserify всегда довесок gulp g…
+RT [@icelabaratory](https://twitter.com/icelabaratory "Ivan Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Webpack главным образом за hot-reload, огромное спасибо кстати :-\),  
+плюс с browserify всегда довесок gulp g…
 
 RT [@23ydobemos](https://twitter.com/23ydobemos "Ilya Zayats"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кучу раз просыпался и искренне удивлялся отсутствию «ночных» коммитов в репозитории
 
@@ -890,7 +904,8 @@ RT [@justusebrain](https://twitter.com/justusebrain "Eugene Rodionov"): [@iamsta
 
 Ме нравится. В духе [vimeo.com/88035957](https://t.co/M7TD3kbl68 "https://vimeo.com/88035957") [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov")
 
-RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") бтв, новую айдентику мтв тоже как будто под веществами делали<br />[creativereview.co.uk/cr-blog/2015/j…](http://t.co/UnIYJ2m36o "http://www.creativereview.co.uk/cr-blog/2015/june/mtv") [pic.twitter.com/KXCSXVVKZ0](http://t.co/KXCSXVVKZ0)
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") бтв, новую айдентику мтв тоже как будто под веществами делали  
+[creativereview.co.uk/cr-blog/2015/j…](http://t.co/UnIYJ2m36o "http://www.creativereview.co.uk/cr-blog/2015/june/mtv") [pic.twitter.com/KXCSXVVKZ0](http://t.co/KXCSXVVKZ0)
 
 RT [@mbarinov](https://twitter.com/mbarinov "Max Barinov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") как тебе второй Angular?
 

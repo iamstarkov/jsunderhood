@@ -78,17 +78,25 @@ RT [@MaxMykhailenko](https://twitter.com/MaxMykhailenko "Max Mykhailenko"): [@js
 
 RT [@subzey](https://twitter.com/subzey "subzey"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Ещё вопросец: как вы обходите то, что eventloop может сожрать только одно ядро? Cluster, webworker-threads, по-дру…
 
-RT [@xanf\_ua](https://twitter.com/xanf_ua "Illya Klymov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") <br />Большой вопрос, но важный для меня. Можешь перечислить чем должен владеть человек, назовём его джуниором в js.
+RT [@xanf\_ua](https://twitter.com/xanf_ua "Illya Klymov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")   
+Большой вопрос, но важный для меня. Можешь перечислить чем должен владеть человек, назовём его джуниором в js.
 
 Когда нибудь я научусь отвечать не в reply на этом аккаунте. Видимо не сегодня :\)
 
-Есть вот список вопросов по JS, но для Front-end - [github.com/h5bp/Front-end…](https://t.co/q5zxkNMavn "https://github.com/h5bp/Front-end-Developer-Interview-Questions") <br /><br />На собеседовании в Fb 2/3 от туда были. [twitter.com/cakeinpanic/st…](https://t.co/pToCLFzoGp "https://twitter.com/cakeinpanic/status/615494804831662080")
+Есть вот список вопросов по JS, но для Front-end - [github.com/h5bp/Front-end…](https://t.co/q5zxkNMavn "https://github.com/h5bp/Front-end-Developer-Interview-Questions")   
+  
+На собеседовании в Fb 2/3 от туда были. [twitter.com/cakeinpanic/st…](https://t.co/pToCLFzoGp "https://twitter.com/cakeinpanic/status/615494804831662080")
 
 Вчера я узнал о стохастической оптимизации из лекции Дмитрия Ветрова - [habrahabr.ru/company/yandex…](http://t.co/sXhXjsQ1s9 "http://habrahabr.ru/company/yandex/blog/261245/") [twitter.com/iamale\_ru/stat…](https://t.co/smJfj9x5Fz "https://twitter.com/iamale_ru/status/615505158940794880")
 
 Давайте сыграем в игру - "вот мой код год назад, а вот сейчас". Это очень интересный опыт у разработчика.
 
-Я начну.<br /><br />Год назад: [github.com/floatdrop/chnp…](https://t.co/zmBqmLQSJM "https://github.com/floatdrop/chnpm/blob/193fdf0541e3c085b9f08eb241a53f7238faa662/index.js")<br /><br />Сейчас:<br />[github.com/floatdrop/chnp…](https://t.co/onCnArasVo "https://github.com/floatdrop/chnpm/blob/master/index.js")
+Я начну.  
+  
+Год назад: [github.com/floatdrop/chnp…](https://t.co/zmBqmLQSJM "https://github.com/floatdrop/chnpm/blob/193fdf0541e3c085b9f08eb241a53f7238faa662/index.js")  
+  
+Сейчас:  
+[github.com/floatdrop/chnp…](https://t.co/onCnArasVo "https://github.com/floatdrop/chnpm/blob/master/index.js")
 
 Правила простые - разница во времени должна быть ~1 год \(от полугода и дальше\). Ну и должен быть виден прогресс! :\) [twitter.com/dcromster/stat…](https://t.co/u7bvjRDYIh "https://twitter.com/dcromster/status/615528313348616192")
 
@@ -108,9 +116,14 @@ RT [@subzey](https://twitter.com/subzey "subzey"): [@jsunderhood](https://twitte
 
 Многие компании поддерживают старые IE, так как его доля в трафике довольно большая. [twitter.com/hellbeast92/st…](https://t.co/unUfJSHXsb "https://twitter.com/hellbeast92/status/615761786424291331")
 
-Доброу утроу! Что будем делать сегодня?<br /><br />Fav - пробежимся по нашему стеку<br />Rt - поговорим про разработку в целом
+Доброу утроу! Что будем делать сегодня?  
+  
+Fav - пробежимся по нашему стеку  
+Rt - поговорим про разработку в целом
 
-Ретвиты побеждают!<br /><br />Сразу разделим программирование и разработку. Программировать обычно начинают гораздо раньше, чем разрабатывать.
+Ретвиты побеждают!  
+  
+Сразу разделим программирование и разработку. Программировать обычно начинают гораздо раньше, чем разрабатывать.
 
 Например я программировал в школе на Pascal, в универе на всем, что было в аптечке, в [@skbkontur](https://twitter.com/skbkontur "Контур.Сообщество") на C\#. И это не было разработкой.
 
@@ -148,9 +161,12 @@ Pet-project хороший способ быть ABC - [medium.com/@davidbyttow/
 
 Про dogfooding \(и не только\) в хорошем видео "Meet the Makers: Ableton Developers at Work" - [youtube.com/watch?v=tILlZR…](https://t.co/OBz58q8ywW "https://www.youtube.com/watch?v=tILlZRLhBJE")
 
-У нас обед, а вам оставлю замечательное видео о запахах JS - [elijahmanor.com/javascript-sme…](http://t.co/sNs4eWdXhQ "http://elijahmanor.com/javascript-smells/")<br /><br />Задавайте вопросы, буду рад! [pic.twitter.com/2VL4RmITVK](http://t.co/2VL4RmITVK)
+У нас обед, а вам оставлю замечательное видео о запахах JS - [elijahmanor.com/javascript-sme…](http://t.co/sNs4eWdXhQ "http://elijahmanor.com/javascript-smells/")  
+  
+Задавайте вопросы, буду рад! [pic.twitter.com/2VL4RmITVK](http://t.co/2VL4RmITVK)
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): Ищу фронтенд специалиста для анализа быстродействия страницы \(проекта\) и отчета по исправлению.<br />/cc [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): Ищу фронтенд специалиста для анализа быстродействия страницы \(проекта\) и отчета по исправлению.  
+/cc [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 Как ни странно - вопросов не возникло. Тогда вопрос слушателям - Какие советы по разработке вы бы дали себе несколько лет назад?
 
@@ -190,7 +206,11 @@ Express очень гибкий \(по сравнению с hapi\), но в н�
 
 RT [@alekseykulikov\_](https://twitter.com/alekseykulikov_ "Aleksey Kulikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в этом и суть, с помощью простой функции [gist.github.com/alekseykulikov…](https://t.co/Gw5b4q3lXh "https://gist.github.com/alekseykulikov/c63ac825e176fa650fb6") мы получаем мощь koa + инфраструктуру и …
 
-RT [@alenacpp](https://twitter.com/alenacpp "Elena Sagalaeva"): Уровни программистов: <br />вы все знаете — Junior<br />вы поняли что ничего не знаете — Mid<br />вам все равно — Senior<br />[bash.im/quote/429538](http://t.co/Itl3OErC5T "http://bash.im/quote/429538")
+RT [@alenacpp](https://twitter.com/alenacpp "Elena Sagalaeva"): Уровни программистов:   
+вы все знаете — Junior  
+вы поняли что ничего не знаете — Mid  
+вам все равно — Senior  
+[bash.im/quote/429538](http://t.co/Itl3OErC5T "http://bash.im/quote/429538")
 
 RT [@jbrains](https://twitter.com/jbrains "☕ J. B. Rainsberger"): Junior programmer's bookshelf: 90% APIs and programming languages; Senior programmer's bookshelf: 80% applied psychology.
 
@@ -240,7 +260,8 @@ RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): [@j
 
 RT [@ilyabirman](https://twitter.com/ilyabirman "Ilya Birman"): Путин: «Иностранные фонды шарят по школам и сажают на гранты талантливых детей». Редкий случай, когда я согласен. Грант — г…
 
-RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): Зацените отличные слайды от [@neilfeyn](https://twitter.com/neilfeyn "Neil Green") на тему выбора между ES6/TypeScript/CoffeeScript.<br />[slideshare.net/NeilGreen1/typ…](http://t.co/sjIeNzgvUv "http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
+RT [@Kern\_0](https://twitter.com/Kern_0 "Арсений Максимов"): Зацените отличные слайды от [@neilfeyn](https://twitter.com/neilfeyn "Neil Green") на тему выбора между ES6/TypeScript/CoffeeScript.  
+[slideshare.net/NeilGreen1/typ…](http://t.co/sjIeNzgvUv "http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик")
 
 ## Пятница <small>7 твитов</small>
 
@@ -256,7 +277,8 @@ BEM - методология для именования классов для C
 
 Я бы порекомендовал [getsentry.com](http://t.co/DQseWMESsB "http://getsentry.com") \([github.com/getsentry/rave…](https://t.co/dvz7xVy5oU "https://github.com/getsentry/raven-node")\) - слать все туда. [twitter.com/alexfedoseev/s…](https://t.co/XWDQnDRZmQ "https://twitter.com/alexfedoseev/status/616863733764255744")
 
-RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я такую штуку составлял недавно.<br />[gist.github.com/beshkenadze/fe…](https://t.co/qIbVwGM6RW "https://gist.github.com/beshkenadze/fe05485f4d635886ca1a")
+RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешкенадзе"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я такую штуку составлял недавно.  
+[gist.github.com/beshkenadze/fe…](https://t.co/qIbVwGM6RW "https://gist.github.com/beshkenadze/fe05485f4d635886ca1a")
 
 ## Суббота <small>3 твита</small>
 
@@ -268,7 +290,12 @@ RT [@changelog](https://twitter.com/changelog "The Changelog"): GraphQL.js – A
 
 ## Воскресенье <small>4 твита</small>
 
-"goes to" operator:<br /><br />n = 5;<br />while \(n --&gt; 0\) { console.log\(n\); }<br /><br />// 5 4 3 2 1 0
+"goes to" operator:  
+  
+n = 5;  
+while \(n --&gt; 0\) { console.log\(n\); }  
+  
+// 5 4 3 2 1 0
 
 Invisible Code by Martin Kleppe at JSConf Budapest 2015 - [youtube.com/watch?v=T3xMyZ…](https://t.co/3fbuqfQCuB "https://www.youtube.com/watch?v=T3xMyZH93i8")
 
