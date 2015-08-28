@@ -14,7 +14,7 @@ _24 мая 2015_
 
 Никто не расскажет про code golf на js лучше, чем [@aemkei](https://twitter.com/aemkei "Martin Kleppe") [m.ustream.tv/recorded/62250…](http://t.co/MTd3ecM018 "http://m.ustream.tv/recorded/62250630") \(начало где-то на 1:00:00\)
 
-Когда я начнал ковырять ES6, Google Traceur эмулировал \`let x\` через try-throw-catch\(x\). После такого адового трэша я надолго на него забил
+Когда я начнал ковырять ES6, Google Traceur эмулировал `let x` через try-throw-catch\(x\). После такого адового трэша я надолго на него забил
 
 … в новых версиях try-throw нет, но и код генерится неправильный [goo.gl/VyOVbL](https://t.co/olzv40GH1x "https://goo.gl/VyOVbL") Вот то же самое на Babel: [goo.gl/a3wrou](https://t.co/Pyr92O9cdc "https://goo.gl/a3wrou")
 
@@ -322,7 +322,7 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): [@ap\_savin]
 
 RT [@likhter](https://twitter.com/likhter "Konstantin Likhter"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") странное условие не вызывать обработчик на блоке. Тогда блок должен смотреть, что клик не в кнопку. Тогда не буде…
 
-.[@likhter](https://twitter.com/likhter "Konstantin Likhter") к примеру, кнопка удаления пункта ToDo-листа. А ещё внутри могут быть и другие кнопки, на все мыслимые случаи \`if\` не поставишь
+.[@likhter](https://twitter.com/likhter "Konstantin Likhter") к примеру, кнопка удаления пункта ToDo-листа. А ещё внутри могут быть и другие кнопки, на все мыслимые случаи `if` не поставишь
 
 RT [@likhter](https://twitter.com/likhter "Konstantin Likhter"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Кейс имеет право на жизнь :\) В моем понимании контейнер должен заботиться о том, что происходит у него внутри, а …
 

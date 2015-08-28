@@ -82,7 +82,7 @@ RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood
 
 .[@operatino](https://twitter.com/operatino "Robert Haritonov") основа – webpack + Babel, кастомной сборки как таковой нет, всё нужное уже есть в webpack + немного магии через babel-плагин.
 
-пример корневого \`.yummies.yml\` из внутреннего проекта [gist.github.com/deepsweet/15c8…](https://t.co/rm2jmteBMg "https://gist.github.com/deepsweet/15c8f2eb3a85004adad0")
+пример корневого `.yummies.yml` из внутреннего проекта [gist.github.com/deepsweet/15c8…](https://t.co/rm2jmteBMg "https://gist.github.com/deepsweet/15c8f2eb3a85004adad0")
 
 видимо эта неделя наконец-то заставит нас с [@mistadikay](https://twitter.com/mistadikay "Denis Koltsov") сделать starter-kit.
 
@@ -91,13 +91,13 @@ RT [@operatino](https://twitter.com/operatino "Robert Haritonov"): [@jsunderhood
 import Example from '[#example](https://twitter.com/search?q=%23example)';  
 import ExampleTypeTestSizeBig from '[#example](https://twitter.com/search?q=%23example)?\_type=test&amp;\_size=big';
 
-Babel-плагин матчится на символ \`\#\` в импорте и начинает искать файлы по слоям из конфига. находит – включает в цепочку наследований.
+Babel-плагин матчится на символ `#` в импорте и начинает искать файлы по слоям из конфига. находит – включает в цепочку наследований.
 
 в конечном итоге в Example попадает обычная фабрика реактового компонента, который отнаследован по очереди от класса каждого слоя.
 
 ↓ [github.com/yummies/babel-…](https://t.co/MGoroGYIrb "https://github.com/yummies/babel-plugin-yummies#mods")
 
-пример модификатора [github.com/yummies/core-c…](https://t.co/wJBZRIEBuf "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6") – \`super.render\(\)\`
+пример модификатора [github.com/yummies/core-c…](https://t.co/wJBZRIEBuf "https://github.com/yummies/core-components/blob/master/components/input/_type/search/index.es6") – `super.render()`
 
 RT [@silentroach](https://twitter.com/silentroach "Игорь"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") много времени уже прошло, не сожалеешь? :\)  
 1. что ушел из яндексов 2. что переехал во Вьетнам
@@ -160,9 +160,9 @@ RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](http
 
 для дерева и курсоров мы используем Baobab [github.com/Yomguithereal/…](https://t.co/9Iv0xmAWnK "https://github.com/Yomguithereal/baobab") – ничего лишнего, всё довольно просто и прозрачно.
 
-дерево эмитит событие \`update\`, на основе которого можно и нужно обновлять, например, курсоры, т.к. дерево уже новое, а ссылки старые.
+дерево эмитит событие `update`, на основе которого можно и нужно обновлять, например, курсоры, т.к. дерево уже новое, а ссылки старые.
 
-событие \`update\` есть и у самих курсоров – изменились данные по конкретному пути в дереве.
+событие `update` есть и у самих курсоров – изменились данные по конкретному пути в дереве.
 
 сначала мы делали так: всё дерево помещается в локальный стэйт корневого компонента. по подписке на update стэйт обновляется новый деревом.
 
@@ -174,7 +174,7 @@ RT [@xgrommx](https://twitter.com/xgrommx "Denis Stoyanov"): [@jsunderhood](http
 
 "лишние" рендеры довольно легко отсекались через shouldComponentUpdate\(\), как и было завещано.
 
-но потом моё внимание привлекла очень интересная особенность Baobab: есть событие \`get\` – были запрошены данные по такому-то пути. геттер.
+но потом моё внимание привлекла очень интересная особенность Baobab: есть событие `get` – были запрошены данные по такому-то пути. геттер.
 
 т.е. в теории можно было узнать, что запрошены данные, которых ещё нет в ветке. и сделать замозаполняющееся дерево :\)
 
@@ -186,7 +186,7 @@ Declarative data fetching in React components with Baobab [medium.com/@mistadika
 
 …который, как в самом обычном Flux, диспатчит событие, которое ловит стор, который складывает эти данные по нужному cursor path в дерево.
 
-компонент по событию \`update\` от своего курсора самообновляется и перерисовывается. profit.
+компонент по событию `update` от своего курсора самообновляется и перерисовывается. profit.
 
 по ссылке ниже есть более подробное описание и даже тестовый репозиторий с простым, но в том же время полноценным примером.
 
@@ -339,7 +339,7 @@ A modular, progressive, and beautiful Markdown and HTML editor [github.com/bevac
 
 суть одна: один и тот же "изоморфный" код должен строить начальный HTML на сервере и продолжать работать дальше на клиенте.
 
-в React для этого предусмотрены обычный DOM \`render\(\)\` и "серверные" \`renderToString\(\)\` / \`renderToStaticMarkup\(\)\` [facebook.github.io/react/docs/top…](https://t.co/0MFvlUVJk0 "https://facebook.github.io/react/docs/top-level-api.html")
+в React для этого предусмотрены обычный DOM `render()` и "серверные" `renderToString()` / `renderToStaticMarkup()` [facebook.github.io/react/docs/top…](https://t.co/0MFvlUVJk0 "https://facebook.github.io/react/docs/top-level-api.html")
 
 к слову, в react@0.14 их даже разнесут по разным модулям [facebook.github.io/react/blog/201…](https://t.co/nSzVgYDxtO "https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html")
 
@@ -347,7 +347,7 @@ A modular, progressive, and beautiful Markdown and HTML editor [github.com/bevac
 
 точками входа в каждый из бандлов являются своеобразные конструкторы роутеров, которые ждут текущий запрощенный URL в виде аргумента.
 
-на сервере это обычный \`request.url\` из Express / Koa \([koajs.com](http://t.co/nOSN4i1JNR "http://koajs.com/"), наш выбор\) / whatever, на клиенте – HTML5 History API.
+на сервере это обычный `request.url` из Express / Koa \([koajs.com](http://t.co/nOSN4i1JNR "http://koajs.com/"), наш выбор\) / whatever, на клиенте – HTML5 History API.
 
 стандартом де-факто является react-router [github.com/rackt/react-ro…](https://t.co/plmj29aAMm "https://github.com/rackt/react-router")
 
@@ -386,13 +386,13 @@ RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https:
 
 поэтому подписки на обновление сторов или дёргание каких-нибудь экшнов в этом методе будут проигнорированы renderToString\(\)'ом.
 
-и ровно из-за этого же использовать условия с \`typeof window\` или, прости господи, process.env.BROWSER и пр. – плохо.
+и ровно из-за этого же использовать условия с `typeof window` или, прости господи, process.env.BROWSER и пр. – плохо.
 
 весь чистый client-side компонента должен быть описан исключительно в его componentDidMount\(\).
 
 итак. на сервере теперь для нужного роута дёргаются нужные данные и вытягивается HTML-строка из нужных компонентов.
 
-когда на клиенте активируется наш собранный клиентский бандл, он \(как я представляю\) построит VDOM и начнёт матчить с HTML по \`data-reactid\`
+когда на клиенте активируется наш собранный клиентский бандл, он \(как я представляю\) построит VDOM и начнёт матчить с HTML по `data-reactid`
 
 т.к. никаких данных, которые были запрошены на сервере, у клиента нет, то React просто построит diff относительно пустых данных и всё сотрёт
 
@@ -426,7 +426,7 @@ React.render\(&lt;Handler /&gt;, document\);
 
 если очень кратко: самые начальные данные клиент берёт из HTML, а дальше всё как обычно, никаких ограничений.
 
-грабли, на которые мы наткнулись практически сразу: неучтённые синглтоны и \`on\`-подписки вместо \`once\` на сервере.
+грабли, на которые мы наткнулись практически сразу: неучтённые синглтоны и `on`-подписки вместо `once` на сервере.
 
 результат: расшаренные сессии и сторы между разными клиентами :\) следите за этим.
 
@@ -710,7 +710,7 @@ RT [@iSnifer](https://twitter.com/iSnifer "Anton Kuznetsov"): [@jsunderhood](htt
 
 совсем забыл про важную фишку иммутабельности – сохранение ссылок на объекты. простейший shouldComponentUpdate без shallow-equal костылей.
 
-в том же Baobab два курсора на одни и те же данные будут равны через \`===\`, как и результат их \`.get\(\)\`а.
+в том же Baobab два курсора на одни и те же данные будут равны через `===`, как и результат их `.get()`а.
 
 RT [@milk\_is\_my\_life](https://twitter.com/milk_is_my_life "Sebastyan Pereiro"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") ну просто, для ясности :\) вообще да, идея с баобабом заразительна. Особенно то, как это на флакс ложится.
 
