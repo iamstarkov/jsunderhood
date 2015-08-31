@@ -5,6 +5,104 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 10:17:41 +0000 2015",
+      "id": 638294581092683800,
+      "id_str": "638294581092683776",
+      "text": "RT @DmytroVoloshyn: @jsunderhood да всегда ощущаю путаницу со scope'ами",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 10:10:18 +0000 2015",
+        "id": 638292722076491800,
+        "id_str": "638292722076491777",
+        "text": "@jsunderhood да всегда ощущаю путаницу со scope'ами",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638292429343457300,
+        "in_reply_to_status_id_str": "638292429343457280",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 1672727384,
+          "id_str": "1672727384"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmytroVoloshyn",
+            "name": "Dmytro Voloshyn",
+            "id": 1672727384,
+            "id_str": "1672727384",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 10:15:28 +0000 2015",
       "id": 638294022231035900,
       "id_str": "638294022231035904",
@@ -2583,13 +2681,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8766,
+    "statuses_count": 8767,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 10:14:48 +0000 2015",
-      "id": 638293856027570200,
-      "id_str": "638293856027570176",
-      "text": "А мы вроде уже списывались об этом в предыдущих разработчиков в комментах :) МК-52 и МК-54. https://t.co/A5fP4I14gd",
+      "created_at": "Mon Aug 31 10:15:28 +0000 2015",
+      "id": 638294022231035900,
+      "id_str": "638294022231035904",
+      "text": "Вот и скажите, что это не пугает больше чем JS. https://t.co/lsGGWrxDtS",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -2609,12 +2707,12 @@
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/A5fP4I14gd",
-            "expanded_url": "https://twitter.com/gxoptg_/status/638292366185660416",
-            "display_url": "twitter.com/gxoptg_/status…",
+            "url": "https://t.co/lsGGWrxDtS",
+            "expanded_url": "https://twitter.com/anton_davydov/status/638292388562239488",
+            "display_url": "twitter.com/anton_davydov/…",
             "indices": [
-              92,
-              115
+              48,
+              71
             ]
           }
         ]
