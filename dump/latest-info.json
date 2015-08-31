@@ -35,13 +35,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8796,
+  "statuses_count": 8797,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 31 10:44:13 +0000 2015",
-    "id": 638301258424676400,
-    "id_str": "638301258424676352",
-    "text": "RT @gxoptg_: @jsunderhood Ага. В том же C++ передавать объекты по ссылке приходится гораздо чаще, чем в JS копировать их.",
+    "created_at": "Mon Aug 31 10:46:13 +0000 2015",
+    "id": 638301761875353600,
+    "id_str": "638301761875353600",
+    "text": "Значительно дешевше копирования за счет сохранения диффов даже на больших обьектах. https://t.co/zDbbJ8MHra",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,76 +53,27 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Aug 31 10:38:35 +0000 2015",
-      "id": 638299840112402400,
-      "id_str": "638299840112402433",
-      "text": "@jsunderhood Ага. В том же C++ передавать объекты по ссылке приходится гораздо чаще, чем в JS копировать их.",
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 638299363492687900,
-      "in_reply_to_status_id_str": "638299363492687872",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "gxoptg_",
-          "name": "Ivan Akulov",
-          "id": 264743740,
-          "id_str": "264743740",
+          "url": "https://t.co/zDbbJ8MHra",
+          "expanded_url": "https://twitter.com/silentroach/status/638300143234772992",
+          "display_url": "twitter.com/silentroach/st…",
           "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            13,
-            25
+            84,
+            107
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
