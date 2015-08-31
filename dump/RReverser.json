@@ -5,6 +5,150 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 11:19:48 +0000 2015",
+      "id": 638310213012033500,
+      "id_str": "638310213012033536",
+      "text": "Проблемы с синтаксисом? Нет, не слышал. Насчет ; - да, лично я соглашусь, но есть люди, для которых это фича. https://t.co/3lPhBWxVvM",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638308952292331500,
+      "quoted_status_id_str": "638308952292331520",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 11:14:48 +0000 2015",
+        "id": 638308952292331500,
+        "id_str": "638308952292331520",
+        "text": "@andrey_sitnik @jsunderhood Mы просто не хотим чтобы плохие фичи появились в JS. Достаточно проблем с синтаксисом с опциональными ;",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638307545220796400,
+        "in_reply_to_status_id_str": "638307545220796416",
+        "in_reply_to_user_id": 62229769,
+        "in_reply_to_user_id_str": "62229769",
+        "in_reply_to_screen_name": "andrey_sitnik",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "andrey_sitnik",
+              "name": "Андрей Ситник",
+              "id": 62229769,
+              "id_str": "62229769",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                15,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3lPhBWxVvM",
+            "expanded_url": "https://twitter.com/freiksenet_ru/status/638308952292331520",
+            "display_url": "twitter.com/freiksenet_ru/…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 11:18:47 +0000 2015",
+      "id": 638309957838991400,
+      "id_str": "638309957838991360",
+      "text": "@chicoxyzzy Очень, очень хороший вопрос и к нему дойдём. Но все же, постараюсь сохранить порядок.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638308794083209200,
+      "in_reply_to_status_id_str": "638308794083209216",
+      "in_reply_to_user_id": 2913789579,
+      "in_reply_to_user_id_str": "2913789579",
+      "in_reply_to_screen_name": "chicoxyzzy",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey R",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 11:17:22 +0000 2015",
       "id": 638309601054732300,
       "id_str": "638309601054732288",
@@ -7553,18 +7697,18 @@
     "friends_count": 1,
     "listed_count": 67,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-    "favourites_count": 5,
+    "favourites_count": 7,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8818,
+    "statuses_count": 8819,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 11:16:30 +0000 2015",
-      "id": 638309381961044000,
-      "id_str": "638309381961043968",
-      "text": "Да, были времена... https://t.co/skfxdi0uhi",
+      "created_at": "Mon Aug 31 11:17:22 +0000 2015",
+      "id": 638309601054732300,
+      "id_str": "638309601054732288",
+      "text": "В JS тоже достаточно package.json. Все остальное не связано и &lt;s&gt;от лукавого&lt;/s&gt; для удобства билдов. https://t.co/8v2qpwPyyb",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -7577,19 +7721,19 @@
       "place": null,
       "contributors": null,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/skfxdi0uhi",
-            "expanded_url": "https://twitter.com/toivonens/status/638307929913995264",
-            "display_url": "twitter.com/toivonens/stat…",
+            "url": "https://t.co/8v2qpwPyyb",
+            "expanded_url": "https://twitter.com/alexfedoseev/status/638308489182486528",
+            "display_url": "twitter.com/alexfedoseev/s…",
             "indices": [
-              20,
-              43
+              114,
+              137
             ]
           }
         ]
