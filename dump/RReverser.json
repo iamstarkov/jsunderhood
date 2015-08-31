@@ -10703,13 +10703,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8851,
+    "statuses_count": 8855,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 12:15:59 +0000 2015",
-      "id": 638324350081495000,
-      "id_str": "638324350081495040",
-      "text": "До этого был Traceur, да, и эксперименты проводились в нем (ну и сразу в браузерах). Что это доказывает? https://t.co/dJvvY4IGs2",
+      "created_at": "Mon Aug 31 12:17:59 +0000 2015",
+      "id": 638324855792902100,
+      "id_str": "638324855792902145",
+      "text": "RT @gxoptg_: @somerandstring @jsunderhood С ангуляра на реакт переключиться проще, чем внедрить новый язык в движки браузеров.",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -10721,27 +10721,96 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 12:17:45 +0000 2015",
+        "id": 638324794182770700,
+        "id_str": "638324794182770688",
+        "text": "@somerandstring @jsunderhood С ангуляра на реакт переключиться проще, чем внедрить новый язык в движки браузеров.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638323998477172700,
+        "in_reply_to_status_id_str": "638323998477172736",
+        "in_reply_to_user_id": 28786967,
+        "in_reply_to_user_id_str": "28786967",
+        "in_reply_to_screen_name": "somerandstring",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "somerandstring",
+              "name": "Ivan Dmitriev",
+              "id": 28786967,
+              "id_str": "28786967",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "user_mentions": [
           {
-            "url": "https://t.co/dJvvY4IGs2",
-            "expanded_url": "https://twitter.com/thought_sync/status/638324111043915784",
-            "display_url": "twitter.com/thought_sync/s…",
+            "screen_name": "gxoptg_",
+            "name": "Ivan Akulov",
+            "id": 264743740,
+            "id_str": "264743740",
             "indices": [
-              105,
-              128
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "somerandstring",
+            "name": "Ivan Dmitriev",
+            "id": 28786967,
+            "id_str": "28786967",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              29,
+              41
             ]
           }
-        ]
+        ],
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
