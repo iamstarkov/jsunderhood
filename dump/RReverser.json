@@ -5,6 +5,422 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 12:17:59 +0000 2015",
+      "id": 638324855792902100,
+      "id_str": "638324855792902145",
+      "text": "RT @gxoptg_: @somerandstring @jsunderhood С ангуляра на реакт переключиться проще, чем внедрить новый язык в движки браузеров.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 12:17:45 +0000 2015",
+        "id": 638324794182770700,
+        "id_str": "638324794182770688",
+        "text": "@somerandstring @jsunderhood С ангуляра на реакт переключиться проще, чем внедрить новый язык в движки браузеров.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638323998477172700,
+        "in_reply_to_status_id_str": "638323998477172736",
+        "in_reply_to_user_id": 28786967,
+        "in_reply_to_user_id_str": "28786967",
+        "in_reply_to_screen_name": "somerandstring",
+        "user": {
+          "id": 264743740,
+          "id_str": "264743740"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "somerandstring",
+              "name": "Ivan Dmitriev",
+              "id": 28786967,
+              "id_str": "28786967",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gxoptg_",
+            "name": "Ivan Akulov",
+            "id": 264743740,
+            "id_str": "264743740",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "somerandstring",
+            "name": "Ivan Dmitriev",
+            "id": 28786967,
+            "id_str": "28786967",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 12:17:36 +0000 2015",
+      "id": 638324758807990300,
+      "id_str": "638324758807990272",
+      "text": "Странно, первый отзыв против :: - а что с ним не так? https://t.co/bWCq13m6up",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638324390917238800,
+      "quoted_status_id_str": "638324390917238784",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 12:16:08 +0000 2015",
+        "id": 638324390917238800,
+        "id_str": "638324390917238784",
+        "text": "@jsunderhood Хочу async/await, очень не хочу оператор «::» (или хочу, но в другом виде)",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638320961633259500,
+        "in_reply_to_status_id_str": "638320961633259522",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 264743740,
+          "id_str": "264743740"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bWCq13m6up",
+            "expanded_url": "https://twitter.com/gxoptg_/status/638324390917238784",
+            "display_url": "twitter.com/gxoptg_/status…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 12:17:17 +0000 2015",
+      "id": 638324679275606000,
+      "id_str": "638324679275606016",
+      "text": "RT @gxoptg_: @andrey_sitnik @jsunderhood Их же придумывали — тот же Дарт, например. Ничего так и не вышло.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 12:16:47 +0000 2015",
+        "id": 638324551718412300,
+        "id_str": "638324551718412288",
+        "text": "@andrey_sitnik @jsunderhood Их же придумывали — тот же Дарт, например. Ничего так и не вышло.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638321516116070400,
+        "in_reply_to_status_id_str": "638321516116070400",
+        "in_reply_to_user_id": 62229769,
+        "in_reply_to_user_id_str": "62229769",
+        "in_reply_to_screen_name": "andrey_sitnik",
+        "user": {
+          "id": 264743740,
+          "id_str": "264743740"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "andrey_sitnik",
+              "name": "Андрей Ситник",
+              "id": 62229769,
+              "id_str": "62229769",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                15,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gxoptg_",
+            "name": "Ivan Akulov",
+            "id": 264743740,
+            "id_str": "264743740",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 12:16:51 +0000 2015",
+      "id": 638324571389694000,
+      "id_str": "638324571389693952",
+      "text": "Перепишут что? Весь веб? Все существующие приложения, которые работают и не ломаются с самых начал времен? https://t.co/J9zpPqnGYV",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638323998477172700,
+      "quoted_status_id_str": "638323998477172736",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 12:14:35 +0000 2015",
+        "id": 638323998477172700,
+        "id_str": "638323998477172736",
+        "text": "@jsunderhood если новый язык будет секси, то перепишут также быстро как с ангуляра на реакт",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638323111105036300,
+        "in_reply_to_status_id_str": "638323111105036288",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 28786967,
+          "id_str": "28786967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J9zpPqnGYV",
+            "expanded_url": "https://twitter.com/somerandstring/status/638323998477172736",
+            "display_url": "twitter.com/somerandstring…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 12:15:59 +0000 2015",
       "id": 638324350081495000,
       "id_str": "638324350081495040",
@@ -102,7 +518,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4258,7 +4674,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -10280,20 +10696,20 @@
     "protected": false,
     "followers_count": 1786,
     "friends_count": 1,
-    "listed_count": 67,
+    "listed_count": 66,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
     "favourites_count": 11,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8850,
+    "statuses_count": 8851,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 12:11:03 +0000 2015",
-      "id": 638323111105036300,
-      "id_str": "638323111105036288",
-      "text": "Чем именно будет отличаться новый язык от презета с линтером? Стоит ли оно фрагментации и отдельной поддержки? https://t.co/8anA35aCL0",
+      "created_at": "Mon Aug 31 12:15:59 +0000 2015",
+      "id": 638324350081495000,
+      "id_str": "638324350081495040",
+      "text": "До этого был Traceur, да, и эксперименты проводились в нем (ну и сразу в браузерах). Что это доказывает? https://t.co/dJvvY4IGs2",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -10313,12 +10729,12 @@
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/8anA35aCL0",
-            "expanded_url": "https://twitter.com/andrey_sitnik/status/638322777620131840",
-            "display_url": "twitter.com/andrey_sitnik/…",
+            "url": "https://t.co/dJvvY4IGs2",
+            "expanded_url": "https://twitter.com/thought_sync/status/638324111043915784",
+            "display_url": "twitter.com/thought_sync/s…",
             "indices": [
-              111,
-              134
+              105,
+              128
             ]
           }
         ]
