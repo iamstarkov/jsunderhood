@@ -5,6 +5,278 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 11:41:52 +0000 2015",
+      "id": 638315767411396600,
+      "id_str": "638315767411396608",
+      "text": "Вот да, я ценю кофе как промежуточное решение проблемы, но слишком частое заблуждение что JS \"перенял фичи\" из него. https://t.co/Ipw249dGvt",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638314140554166300,
+      "quoted_status_id_str": "638314140554166272",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 11:35:25 +0000 2015",
+        "id": 638314140554166300,
+        "id_str": "638314140554166272",
+        "text": "@andrey_sitnik @jsunderhood @iamstarkov Надоело потому что. Сколько можно защищать коффе? Иногда кажется у тебя во всем заслуга коффе.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638313842632691700,
+        "in_reply_to_status_id_str": "638313842632691712",
+        "in_reply_to_user_id": 62229769,
+        "in_reply_to_user_id_str": "62229769",
+        "in_reply_to_screen_name": "andrey_sitnik",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "andrey_sitnik",
+              "name": "Андрей Ситник",
+              "id": 62229769,
+              "id_str": "62229769",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                15,
+                27
+              ]
+            },
+            {
+              "screen_name": "iamstarkov",
+              "name": "Vladimir Starkov",
+              "id": 98084311,
+              "id_str": "98084311",
+              "indices": [
+                28,
+                39
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ipw249dGvt",
+            "expanded_url": "https://twitter.com/freiksenet_ru/status/638314140554166272",
+            "display_url": "twitter.com/freiksenet_ru/…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 11:40:39 +0000 2015",
+      "id": 638315459096518700,
+      "id_str": "638315459096518656",
+      "text": "@alexfedoseev Ну мы там о модулях говорили, к ним отношения мало.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638315332533362700,
+      "in_reply_to_status_id_str": "638315332533362688",
+      "in_reply_to_user_id": 152230944,
+      "in_reply_to_user_id_str": "152230944",
+      "in_reply_to_screen_name": "alexfedoseev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexfedoseev",
+            "name": "Alex",
+            "id": 152230944,
+            "id_str": "152230944",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 11:40:12 +0000 2015",
+      "id": 638315346378793000,
+      "id_str": "638315346378792964",
+      "text": "RT @vadimpleshkov: Всё таки слабоватые у дизайнеров  в @iamspacegray холивары, конечно, «Скетч или фотошоп». Почитайте сейчас @jsunderhood,…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 11:37:11 +0000 2015",
+        "id": 638314587671105500,
+        "id_str": "638314587671105536",
+        "text": "Всё таки слабоватые у дизайнеров  в @iamspacegray холивары, конечно, «Скетч или фотошоп». Почитайте сейчас @jsunderhood, вот у кого жара",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 107064020,
+          "id_str": "107064020"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "iamspacegray",
+              "name": "Я дизайнер",
+              "id": 2774319557,
+              "id_str": "2774319557",
+              "indices": [
+                36,
+                49
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                107,
+                119
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vadimpleshkov",
+            "name": "Вадим Плешков",
+            "id": 107064020,
+            "id_str": "107064020",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "iamspacegray",
+            "name": "Я дизайнер",
+            "id": 2774319557,
+            "id_str": "2774319557",
+            "indices": [
+              55,
+              68
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              126,
+              138
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 11:39:58 +0000 2015",
       "id": 638315288417710100,
       "id_str": "638315288417710080",
@@ -46,7 +318,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -9132,58 +9404,107 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8834,
+    "statuses_count": 8837,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 11:35:06 +0000 2015",
-      "id": 638314064175845400,
-      "id_str": "638314064175845376",
-      "text": "@andrey_sitnik @freiksenet_ru @iamstarkov Андрей, да правда тут никакой ненависти :) Обсуждение, что хорошо а что плохо - да.",
+      "created_at": "Mon Aug 31 11:39:58 +0000 2015",
+      "id": 638315288417710100,
+      "id_str": "638315288417710080",
+      "text": "RT @sapegin: На этой неделе (уже) интересные @jsunderhood и @cssunderhood.",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
-      "in_reply_to_status_id": 638313842632691700,
-      "in_reply_to_status_id_str": "638313842632691712",
-      "in_reply_to_user_id": 62229769,
-      "in_reply_to_user_id_str": "62229769",
-      "in_reply_to_screen_name": "andrey_sitnik",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 11:39:17 +0000 2015",
+        "id": 638315114316341200,
+        "id_str": "638315114316341248",
+        "text": "На этой неделе (уже) интересные @jsunderhood и @cssunderhood.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                32,
+                44
+              ]
+            },
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                47,
+                60
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "andrey_sitnik",
-            "name": "Андрей Ситник",
-            "id": 62229769,
-            "id_str": "62229769",
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
             "indices": [
-              0,
-              14
+              3,
+              11
             ]
           },
           {
-            "screen_name": "freiksenet_ru",
-            "name": "Михаил Новиков",
-            "id": 3411018190,
-            "id_str": "3411018190",
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
             "indices": [
-              15,
-              29
+              45,
+              57
             ]
           },
           {
-            "screen_name": "iamstarkov",
-            "name": "Vladimir Starkov",
-            "id": 98084311,
-            "id_str": "98084311",
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
             "indices": [
-              30,
-              41
+              60,
+              73
             ]
           }
         ],
