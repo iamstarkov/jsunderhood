@@ -5,6 +5,106 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 10:35:08 +0000 2015",
+      "id": 638298972361228300,
+      "id_str": "638298972361228288",
+      "text": "Да, на беке в других языках с этим гораздо проще - хотя и поэтому же проигрывают в производительности, простаивая. https://t.co/cdWSthirdV",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638297459077288000,
+      "quoted_status_id_str": "638297459077287936",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 10:29:07 +0000 2015",
+        "id": 638297459077288000,
+        "id_str": "638297459077287936",
+        "text": "@raxpost @jsunderhood согласен.  Но у моих знакомых-бэкэндеров вызывает сложности код,  работающий \"не по порядку\".",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638296423105200100,
+        "in_reply_to_status_id_str": "638296423105200128",
+        "in_reply_to_user_id": 32959868,
+        "in_reply_to_user_id_str": "32959868",
+        "in_reply_to_screen_name": "raxpost",
+        "user": {
+          "id": 1384785818,
+          "id_str": "1384785818"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "raxpost",
+              "name": "Роман Роман",
+              "id": 32959868,
+              "id_str": "32959868",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                9,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cdWSthirdV",
+            "expanded_url": "https://twitter.com/reklatsmasters/status/638297459077287936",
+            "display_url": "twitter.com/reklatsmasters…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 10:33:58 +0000 2015",
       "id": 638298679363940400,
       "id_str": "638298679363940352",
@@ -4737,7 +4837,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1801,
+    "followers_count": 1800,
     "friends_count": 0,
     "listed_count": 67,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -4746,13 +4846,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8786,
+    "statuses_count": 8788,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 10:33:01 +0000 2015",
-      "id": 638298439793647600,
-      "id_str": "638298439793647616",
-      "text": "RT @dmitrytrigonis: @alexfedoseev @jsunderhood не припомню, что я кодил бы какой-то модуль на npm когда есть сторонний и как правило 100% в…",
+      "created_at": "Mon Aug 31 10:33:58 +0000 2015",
+      "id": 638298679363940400,
+      "id_str": "638298679363940352",
+      "text": "RT @ruGreLI: @_h4_ @SelenIT2 @jsunderhood На входе ещё не используют this. А если используют, то не грех изучить матчасть, благо ничего зау…",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -4765,17 +4865,17 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Mon Aug 31 10:26:30 +0000 2015",
-        "id": 638296798772260900,
-        "id_str": "638296798772260864",
-        "text": "@alexfedoseev @jsunderhood не припомню, что я кодил бы какой-то модуль на npm когда есть сторонний и как правило 100% вливающийся)",
+        "created_at": "Mon Aug 31 10:28:30 +0000 2015",
+        "id": 638297303317639200,
+        "id_str": "638297303317639168",
+        "text": "@_h4_ @SelenIT2 @jsunderhood На входе ещё не используют this. А если используют, то не грех изучить матчасть, благо ничего заумного.",
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
         "truncated": false,
-        "in_reply_to_status_id": 638296631356616700,
-        "in_reply_to_status_id_str": "638296631356616704",
-        "in_reply_to_user_id": 3300179800,
-        "in_reply_to_user_id_str": "3300179800",
-        "in_reply_to_screen_name": "dmitrytrigonis",
+        "in_reply_to_status_id": 638295775500456000,
+        "in_reply_to_status_id_str": "638295775500455937",
+        "in_reply_to_user_id": 15020265,
+        "in_reply_to_user_id_str": "15020265",
+        "in_reply_to_screen_name": "_h4_",
         "geo": null,
         "coordinates": null,
         "place": null,
@@ -4787,13 +4887,23 @@
           "symbols": [],
           "user_mentions": [
             {
-              "screen_name": "alexfedoseev",
-              "name": "Alex",
-              "id": 152230944,
-              "id_str": "152230944",
+              "screen_name": "_h4_",
+              "name": "Михаил Баранов",
+              "id": 15020265,
+              "id_str": "15020265",
               "indices": [
                 0,
-                13
+                5
+              ]
+            },
+            {
+              "screen_name": "SelenIT2",
+              "name": "SelenIT",
+              "id": 455700025,
+              "id_str": "455700025",
+              "indices": [
+                6,
+                15
               ]
             },
             {
@@ -4802,8 +4912,8 @@
               "id": 3014054307,
               "id_str": "3014054307",
               "indices": [
-                14,
-                26
+                16,
+                28
               ]
             }
           ],
@@ -4820,23 +4930,33 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "dmitrytrigonis",
-            "name": "Dmitry Trigonis",
-            "id": 3300179800,
-            "id_str": "3300179800",
+            "screen_name": "ruGreLI",
+            "name": "GreLI",
+            "id": 89999150,
+            "id_str": "89999150",
             "indices": [
               3,
+              11
+            ]
+          },
+          {
+            "screen_name": "_h4_",
+            "name": "Михаил Баранов",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              13,
               18
             ]
           },
           {
-            "screen_name": "alexfedoseev",
-            "name": "Alex",
-            "id": 152230944,
-            "id_str": "152230944",
+            "screen_name": "SelenIT2",
+            "name": "SelenIT",
+            "id": 455700025,
+            "id_str": "455700025",
             "indices": [
-              20,
-              33
+              19,
+              28
             ]
           },
           {
@@ -4845,8 +4965,8 @@
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              34,
-              46
+              29,
+              41
             ]
           }
         ],
