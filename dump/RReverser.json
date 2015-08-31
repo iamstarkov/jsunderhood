@@ -5,6 +5,186 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 10:56:21 +0000 2015",
+      "id": 638304310879764500,
+      "id_str": "638304310879764480",
+      "text": "С одной стороны да, с другой сейчас все же есть гарантии на неконфликт имён. С неймспейсами это сложнее. https://t.co/uzTaXIhA8R",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638303788533727200,
+      "quoted_status_id_str": "638303788533727232",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 10:54:16 +0000 2015",
+        "id": 638303788533727200,
+        "id_str": "638303788533727232",
+        "text": "@jsunderhood кстати, сейчас уже не хватает пакетов и пространсв имен (раз модули есть). import {func} form '../../../../lib/some.js' - адок",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638288687676190700,
+        "in_reply_to_status_id_str": "638288687676190720",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 18787216,
+          "id_str": "18787216"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uzTaXIhA8R",
+            "expanded_url": "https://twitter.com/_asci/status/638303788533727232",
+            "display_url": "twitter.com/_asci/status/6…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 10:55:19 +0000 2015",
+      "id": 638304048781901800,
+      "id_str": "638304048781901824",
+      "text": "Рыдаю по ночам в подушку ;( https://t.co/skqZXthdTw",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638302411535315000,
+      "quoted_status_id_str": "638302411535314944",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 10:48:48 +0000 2015",
+        "id": 638302411535315000,
+        "id_str": "638302411535314944",
+        "text": "@jsunderhood как ты относишься к забвению такого замечательного языка, как vbscript?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 33239490,
+          "id_str": "33239490"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/skqZXthdTw",
+            "expanded_url": "https://twitter.com/dotcypress/status/638302411535314944",
+            "display_url": "twitter.com/dotcypress/sta…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 10:54:21 +0000 2015",
       "id": 638303805747167200,
       "id_str": "638303805747167233",
@@ -26,7 +206,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6002,7 +6182,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1794,
+    "followers_count": 1795,
     "friends_count": 1,
     "listed_count": 67,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -6011,13 +6191,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8801,
+    "statuses_count": 8802,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 10:51:57 +0000 2015",
-      "id": 638303202207735800,
-      "id_str": "638303202207735808",
-      "text": "Бенчмарки тоже надо уметь писать. Слишком уж часто судят о производительности, проверяя некорректный микробенчмарк. https://t.co/2cRyr42QiC",
+      "created_at": "Mon Aug 31 10:54:21 +0000 2015",
+      "id": 638303805747167200,
+      "id_str": "638303805747167233",
+      "text": "Насчет этого все у того же @mraleph есть замечательные статьи\n\nhttp://t.co/AQ0edsuAgY\n\nhttp://t.co/dpQnFZ2Dbq",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -6034,15 +6214,35 @@
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
+        "user_mentions": [
+          {
+            "screen_name": "mraleph",
+            "name": "Vyacheslav Egorov",
+            "id": 53010195,
+            "id_str": "53010195",
+            "indices": [
+              27,
+              35
+            ]
+          }
+        ],
         "urls": [
           {
-            "url": "https://t.co/2cRyr42QiC",
-            "expanded_url": "https://twitter.com/iamstarkov/status/638302498118336512",
-            "display_url": "twitter.com/iamstarkov/sta…",
+            "url": "http://t.co/AQ0edsuAgY",
+            "expanded_url": "http://mrale.ph/blog/2013/04/29/performance-tuning-as-weather-forecast.html",
+            "display_url": "mrale.ph/blog/2013/04/2…",
             "indices": [
-              116,
-              139
+              63,
+              85
+            ]
+          },
+          {
+            "url": "http://t.co/dpQnFZ2Dbq",
+            "expanded_url": "http://mrale.ph/blog/2014/02/23/the-black-cat-of-microbenchmarks.html",
+            "display_url": "mrale.ph/blog/2014/02/2…",
+            "indices": [
+              87,
+              109
             ]
           }
         ]
