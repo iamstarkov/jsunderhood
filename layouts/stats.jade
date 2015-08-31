@@ -56,7 +56,7 @@ block content
                 - var percent = Math.round(author.tweets / maxTweets * 100)
                 .tweet-graph__wrap
                   .tweet-graph(style='width: #{percent}%')
-                    .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.own.Percentage}%;' )
+                    .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.own.percent}%;' )
                     .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweets.percent}%;')
                     .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.replies.percent}%;' )
 
