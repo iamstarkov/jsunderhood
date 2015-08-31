@@ -35,14 +35,14 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8773,
+  "statuses_count": 8774,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 31 10:21:41 +0000 2015",
-    "id": 638295586022760400,
-    "id_str": "638295586022760448",
-    "text": "RT @freiksenet_ru: @jsunderhood Коффе это пример как не надо делать. С es6 писать приятнее и не надо на каждый чих _. Плюс async/await это …",
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "created_at": "Mon Aug 31 10:23:17 +0000 2015",
+    "id": 638295988009087000,
+    "id_str": "638295988009086976",
+    "text": "Разве в jQuery была такая же лапша с коллбеков? В основном ивенты вроде. https://t.co/jJVRyOhUfC",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,76 +53,27 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Aug 31 10:12:12 +0000 2015",
-      "id": 638293201082810400,
-      "id_str": "638293201082810369",
-      "text": "@jsunderhood Коффе это пример как не надо делать. С es6 писать приятнее и не надо на каждый чих _. Плюс async/await это офигенно.",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 638288687676190700,
-      "in_reply_to_status_id_str": "638288687676190720",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
+          "url": "https://t.co/jJVRyOhUfC",
+          "expanded_url": "https://twitter.com/reklatsmasters/status/638293257248722944",
+          "display_url": "twitter.com/reklatsmasters…",
           "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            19,
-            31
+            73,
+            96
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
