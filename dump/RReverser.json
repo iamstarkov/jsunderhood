@@ -10167,13 +10167,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8849,
+    "statuses_count": 8850,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 12:07:10 +0000 2015",
-      "id": 638322133739925500,
-      "id_str": "638322133739925505",
-      "text": "RT @twenty: @jsunderhood например, любители CoffeeScript вряд ли корректно скажут, во что преобразуется этот мета-код http://t.co/6QhltQ5Afa",
+      "created_at": "Mon Aug 31 12:11:03 +0000 2015",
+      "id": 638323111105036300,
+      "id_str": "638323111105036288",
+      "text": "Чем именно будет отличаться новый язык от презета с линтером? Стоит ли оно фрагментации и отдельной поддержки? https://t.co/8anA35aCL0",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -10185,152 +10185,21 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Mon Aug 31 12:06:28 +0000 2015",
-        "id": 638321955213582300,
-        "id_str": "638321955213582336",
-        "text": "@jsunderhood например, любители CoffeeScript вряд ли корректно скажут, во что преобразуется этот мета-код http://t.co/6QhltQ5Afa",
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated": false,
-        "in_reply_to_status_id": 638319346968866800,
-        "in_reply_to_status_id_str": "638319346968866816",
-        "in_reply_to_user_id": 12775382,
-        "in_reply_to_user_id_str": "12775382",
-        "in_reply_to_screen_name": "twenty",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "jsunderhood",
-              "name": "Разработчик",
-              "id": 3014054307,
-              "id_str": "3014054307",
-              "indices": [
-                0,
-                12
-              ]
-            }
-          ],
-          "urls": [],
-          "media": [
-            {
-              "id": 638321951673454600,
-              "id_str": "638321951673454593",
-              "indices": [
-                106,
-                128
-              ],
-              "media_url": "http://pbs.twimg.com/media/CNvGbt3UkAE03_V.png",
-              "media_url_https": "https://pbs.twimg.com/media/CNvGbt3UkAE03_V.png",
-              "url": "http://t.co/6QhltQ5Afa",
-              "display_url": "pic.twitter.com/6QhltQ5Afa",
-              "expanded_url": "http://twitter.com/twenty/status/638321955213582336/photo/1",
-              "type": "photo",
-              "sizes": {
-                "medium": {
-                  "w": 161,
-                  "h": 171,
-                  "resize": "fit"
-                },
-                "large": {
-                  "w": 161,
-                  "h": 171,
-                  "resize": "fit"
-                },
-                "thumb": {
-                  "w": 150,
-                  "h": 150,
-                  "resize": "crop"
-                },
-                "small": {
-                  "w": 161,
-                  "h": 171,
-                  "resize": "fit"
-                }
-              }
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
-      "retweet_count": 1,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [
+        "user_mentions": [],
+        "urls": [
           {
-            "screen_name": "twenty",
-            "name": "Павел Франков",
-            "id": 12775382,
-            "id_str": "12775382",
+            "url": "https://t.co/8anA35aCL0",
+            "expanded_url": "https://twitter.com/andrey_sitnik/status/638322777620131840",
+            "display_url": "twitter.com/andrey_sitnik/…",
             "indices": [
-              3,
-              10
+              111,
+              134
             ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              12,
-              24
-            ]
-          }
-        ],
-        "urls": [],
-        "media": [
-          {
-            "id": 638321951673454600,
-            "id_str": "638321951673454593",
-            "indices": [
-              118,
-              140
-            ],
-            "media_url": "http://pbs.twimg.com/media/CNvGbt3UkAE03_V.png",
-            "media_url_https": "https://pbs.twimg.com/media/CNvGbt3UkAE03_V.png",
-            "url": "http://t.co/6QhltQ5Afa",
-            "display_url": "pic.twitter.com/6QhltQ5Afa",
-            "expanded_url": "http://twitter.com/twenty/status/638321955213582336/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 161,
-                "h": 171,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 161,
-                "h": 171,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 161,
-                "h": 171,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 638321955213582300,
-            "source_status_id_str": "638321955213582336",
-            "source_user_id": 12775382,
-            "source_user_id_str": "12775382"
           }
         ]
       },
