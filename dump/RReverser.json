@@ -5,6 +5,160 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 11:11:39 +0000 2015",
+      "id": 638308161208848400,
+      "id_str": "638308161208848384",
+      "text": "Ну как-то и lodash для такого не приходилось использовать. Как впрочем и клонирование в целом, не считая defaults. https://t.co/oC4l2E9uLq",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638306198048100400,
+      "quoted_status_id_str": "638306198048100352",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 11:03:51 +0000 2015",
+        "id": 638306198048100400,
+        "id_str": "638306198048100352",
+        "text": "@gxoptg_ @jsunderhood ну то есть вы парни считаете, что нативный clone в js нафиг не нужен, будем дальше юзать lodash и самопальные фунции?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638299840112402400,
+        "in_reply_to_status_id_str": "638299840112402433",
+        "in_reply_to_user_id": 264743740,
+        "in_reply_to_user_id_str": "264743740",
+        "in_reply_to_screen_name": "gxoptg_",
+        "user": {
+          "id": 32959868,
+          "id_str": "32959868"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gxoptg_",
+              "name": "Ivan Akulov",
+              "id": 264743740,
+              "id_str": "264743740",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                9,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oC4l2E9uLq",
+            "expanded_url": "https://twitter.com/raxpost/status/638306198048100352",
+            "display_url": "twitter.com/raxpost/status…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 11:10:44 +0000 2015",
+      "id": 638307930593476600,
+      "id_str": "638307930593476608",
+      "text": "@meuwka @iamstarkov JS есть и на бекенде, и довольно трендовый. Хотя, конечно, может быть сложным.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638306063650062300,
+      "in_reply_to_status_id_str": "638306063650062336",
+      "in_reply_to_user_id": 2159314429,
+      "in_reply_to_user_id_str": "2159314429",
+      "in_reply_to_screen_name": "meuwka",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meuwka",
+            "name": "Nataliya Karatkova",
+            "id": 2159314429,
+            "id_str": "2159314429",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              8,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 11:09:38 +0000 2015",
       "id": 638307653563748400,
       "id_str": "638307653563748356",
@@ -6907,7 +7061,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1794,
+    "followers_count": 1793,
     "friends_count": 1,
     "listed_count": 67,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -6916,13 +7070,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8809,
+    "statuses_count": 8811,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Aug 31 11:07:45 +0000 2015",
-      "id": 638307180488360000,
-      "id_str": "638307180488359937",
-      "text": "Хороший совет, кстати. https://t.co/I3exA7sNMS",
+      "created_at": "Mon Aug 31 11:09:38 +0000 2015",
+      "id": 638307653563748400,
+      "id_str": "638307653563748356",
+      "text": "Ну проверен он был много где. В частности, C#. https://t.co/kBKd2ie239",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -6942,12 +7096,12 @@
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/I3exA7sNMS",
-            "expanded_url": "https://twitter.com/freiksenet_ru/status/638305014864314368",
-            "display_url": "twitter.com/freiksenet_ru/…",
+            "url": "https://t.co/kBKd2ie239",
+            "expanded_url": "https://twitter.com/andrey_sitnik/status/638306016522838016",
+            "display_url": "twitter.com/andrey_sitnik/…",
             "indices": [
-              23,
-              46
+              47,
+              70
             ]
           }
         ]
