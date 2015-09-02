@@ -5,6 +5,83 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Sep 02 18:26:43 +0000 2015",
+      "id": 639142426523889700,
+      "id_str": "639142426523889664",
+      "text": "Сам синтаксис в спеках, конечно, есть, но использовать его в описанном виде непросто. Вот упрощенная диаграмка ES6: https://t.co/zwMC4zLYYC",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639141376077205500,
+      "in_reply_to_status_id_str": "639141376077205504",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zwMC4zLYYC",
+            "expanded_url": "https://rreverser.com/content/images/2015/Aug/es_spec.svg",
+            "display_url": "rreverser.com/content/images…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 18:22:33 +0000 2015",
+      "id": 639141376077205500,
+      "id_str": "639141376077205504",
+      "text": "Думаю, время поговорить о синтаксисе и парсинге. С ними в JS с точки зрения разработчиков парсеров не очень, особенно начиная с ES6.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Sep 02 16:05:30 +0000 2015",
       "id": 639106886286098400,
       "id_str": "639106886286098432",
@@ -91,8 +168,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 245,
-        "favorite_count": 80,
+        "retweet_count": 252,
+        "favorite_count": 85,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -578,7 +655,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1909,8 +1986,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 245,
-      "favorite_count": 80,
+      "retweet_count": 252,
+      "favorite_count": 85,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -11602,8 +11679,8 @@
         },
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 859,
-        "favorite_count": 636,
+        "retweet_count": 860,
+        "favorite_count": 638,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -30246,7 +30323,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 2,
+        "retweet_count": 3,
         "favorite_count": 0,
         "entities": {
           "hashtags": [],
@@ -30280,7 +30357,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -30888,7 +30965,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
