@@ -34,7 +34,7 @@ RT [@KSDaemon](https://twitter.com/KSDaemon "Konstantin Burkalev"): [@jsunderhoo
 
 RT [@listochkin](https://twitter.com/listochkin "Андрей Листочкин"): [@galnikrom](https://twitter.com/galnikrom "Nikita Galushko") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") кстати, в команде Babel есть наш парень Ингвар [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan"), которого всегда можно выцепить в http://[fronendua.im](http://t.co/xKon3XdwH0 "http://fronendua.im")
 
-. [@galnikrom](https://twitter.com/galnikrom "Nikita Galushko") const, let, =&gt;, `templates`, for-of, class, rest params, spreads, destructuring - вот это все можно использовать без рантайма
+. [@galnikrom](https://twitter.com/galnikrom "Nikita Galushko") const, let, =&gt;, \`templates\`, for-of, class, rest params, spreads, destructuring - вот это все можно использовать без рантайма
 
 . [@Sullenor](https://twitter.com/Sullenor "Литвинов Алексей") код короче, декларативнее, меньше рутины, меньше багов
 

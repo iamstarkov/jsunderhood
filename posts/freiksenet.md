@@ -30,7 +30,7 @@ RT [@RusAlexander](https://twitter.com/RusAlexander "Alex Pletnev"): [@jsunderho
 
 [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") Остальное это просто удобный сахар, но очень добавляет удовольствия при написании кода, например spreadы и destructuring.
 
-RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а мы плотно подсели на `stage: 0`: Class Properties \(странно, если их уберут\) и даже Function Bind \(по началу к…
+RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") а мы плотно подсели на \`stage: 0\`: Class Properties \(странно, если их уберут\) и даже Function Bind \(по началу к…
 
 RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") к слову, актуальная таблица [github.com/tc39/ecma262](https://t.co/NeclN2tcmo "https://github.com/tc39/ecma262")
 
@@ -419,19 +419,19 @@ RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешке
 
 RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") по поводу кодстайла в целом – нужно почаще спрашивать себя не делаешь ли ты случаем работу UglifyJS.
 
-RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") знаю лично людей, которые часто называют переменные одной буквой, помимо `i` или `e`.
+RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") знаю лично людей, которые часто называют переменные одной буквой, помимо \`i\` или \`e\`.
 
-Мой ко-фаундер даже на `e` ругается переодически :\) А вообще, читабельные названия переменных - наше всё.
+Мой ко-фаундер даже на \`e\` ругается переодически :\) А вообще, читабельные названия переменных - наше всё.
 
-RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и здесь опять же React со своими `shouldComponentUpdate` и `componentDidMount` задаёт хороший тон.
+RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") и здесь опять же React со своими \`shouldComponentUpdate\` и \`componentDidMount\` задаёт хороший тон.
 
 RT [@vladimore](https://twitter.com/vladimore "Waldemar"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") аминь! Переменная внятно должна отвечать на вопрос "что?"
 
-RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") моё любимое – `dangerouslySetInnerHTML` [facebook.github.io/react/tips/dan…](https://t.co/MLnpsQkCI6 "https://facebook.github.io/react/tips/dangerously-set-inner-html.html")
+RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") моё любимое – \`dangerouslySetInnerHTML\` [facebook.github.io/react/tips/dan…](https://t.co/MLnpsQkCI6 "https://facebook.github.io/react/tips/dangerously-set-inner-html.html")
 
 Мне кажется они намеренно, чтобы люди не юзали\) [@deepsweet](https://twitter.com/deepsweet " k i r")
 
-RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@vladimore](https://twitter.com/vladimore "Waldemar") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в былые времена были и `l`, и `m`, и даже `n` во вложенных циклах-перециклах :\)
+RT [@deepsweet](https://twitter.com/deepsweet " k i r"): [@vladimore](https://twitter.com/vladimore "Waldemar") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в былые времена были и \`l\`, и \`m\`, и даже \`n\` во вложенных циклах-перециклах :\)
 
 В такие моменты хочется включить лимит на cyclomatic complexity. [@deepsweet](https://twitter.com/deepsweet " k i r") [@vladimore](https://twitter.com/vladimore "Waldemar")
 

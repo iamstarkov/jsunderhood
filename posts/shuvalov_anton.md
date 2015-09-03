@@ -31,7 +31,7 @@ this.$\('select'\).on\('change', e =&gt; this.setValue\($\(e.target\).val\(\)\)
 
 RT @matmuchrapna: [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") joyent если я ничего не путаю заслуживает чуть больше камней  [readwrite.com/2015/02/03/joy…](http://t.co/p5MsEMy5h0 "http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork")
 
-“IO.js, what’s that?” asked Joyent CEO Scott Hammond. “This is a Node.js project for Node.js innovations.” Окей, но где же `0.12`?
+“IO.js, what’s that?” asked Joyent CEO Scott Hammond. “This is a Node.js project for Node.js innovations.” Окей, но где же \`0.12\`?
 
 ## Суббота <small>1 твит</small>
 

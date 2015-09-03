@@ -188,13 +188,13 @@ RT [@slonoed](https://twitter.com/slonoed "Dmitry M."): [@jsunderhood](https://t
 
 Сегодня, видимо, будет день случайных советов.
 
-Если вы используете Express - никогда не вызывайте `next` после `res.send`. Я ставлю `return` после, иначе плавающая ошибка вам обеспечена.
+Если вы используете Express - никогда не вызывайте \`next\` после \`res.send\`. Я ставлю \`return\` после, иначе плавающая ошибка вам обеспечена.
 
 . [@iamale\_ru](https://twitter.com/iamale_ru "Эль") [@dcromster](https://twitter.com/dcromster "Roman Milovskiy") так точно. Был пример из жизни про рефакторинг - вот упрощенная история: [gist.github.com/floatdrop/a5f4…](https://t.co/cw8A20Y8X8 "https://gist.github.com/floatdrop/a5f4cc79d160d0f09a87")
 
 Express очень гибкий \(по сравнению с hapi\), но в нем очень легко прострелить себе голову в большом проекте. [twitter.com/slonoed/status…](https://t.co/blPu16K9lF "https://twitter.com/slonoed/status/616168542489182209")
 
-. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") стреляют в основном из за двойного вызова `next` - который в свою очередь зовет `res.send` в не связных местах кода.
+. [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") стреляют в основном из за двойного вызова \`next\` - который в свою очередь зовет \`res.send\` в не связных местах кода.
 
 . [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в koajs застрелиться сложнее - так втихушку будет переписываться this.body \(если после него сделать yield next\).
 
@@ -202,7 +202,7 @@ Express очень гибкий \(по сравнению с hapi\), но в н�
 
 Мне нравится JSON payload в [jwt.io](http://t.co/zs4p8CmqM8 "http://jwt.io") \(похож на macaroons  [research.google.com/pubs/pub41892.…](http://t.co/4UHlcNYboT "http://research.google.com/pubs/pub41892.html")\) - это удобно. [twitter.com/dcromster/stat…](https://t.co/yEHVpaSSgU "https://twitter.com/dcromster/status/616209388458627072")
 
-Удобнее `git push heroku master` я еще ничего не видел \([github.com/progrium/dokku](https://t.co/4Jwh7Y2nTu "https://github.com/progrium/dokku") и [thenewstack.io/docker-is-driv…](http://t.co/jUx6xHoewq "http://thenewstack.io/docker-is-driving-a-new-breed-of-paas/")\) [twitter.com/beshkenadze/st…](https://t.co/VWTQVBx60I "https://twitter.com/beshkenadze/status/616214596383326208")
+Удобнее \`git push heroku master\` я еще ничего не видел \([github.com/progrium/dokku](https://t.co/4Jwh7Y2nTu "https://github.com/progrium/dokku") и [thenewstack.io/docker-is-driv…](http://t.co/jUx6xHoewq "http://thenewstack.io/docker-is-driving-a-new-breed-of-paas/")\) [twitter.com/beshkenadze/st…](https://t.co/VWTQVBx60I "https://twitter.com/beshkenadze/status/616214596383326208")
 
 RT [@alekseykulikov\_](https://twitter.com/alekseykulikov_ "Aleksey Kulikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") в этом и суть, с помощью простой функции [gist.github.com/alekseykulikov…](https://t.co/Gw5b4q3lXh "https://gist.github.com/alekseykulikov/c63ac825e176fa650fb6") мы получаем мощь koa + инфраструктуру и …
 
