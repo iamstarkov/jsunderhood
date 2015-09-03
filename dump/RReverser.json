@@ -5,6 +5,632 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Sep 03 17:38:25 +0000 2015",
+      "id": 639492659975954400,
+      "id_str": "639492659975954432",
+      "text": "И пошло-поехало. Еще один чувак решил \"посоревноваться\" и сделал свой совместимый парсер, но в 2 раза быстрее. http://t.co/1OGrFzb89Y",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639491720556752900,
+      "in_reply_to_status_id_str": "639491720556752897",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/1OGrFzb89Y",
+            "expanded_url": "http://marijnhaverbeke.nl/blog/acorn.html",
+            "display_url": "marijnhaverbeke.nl/blog/acorn.html",
+            "indices": [
+              111,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:34:59 +0000 2015",
+      "id": 639491793214701600,
+      "id_str": "639491793214701568",
+      "text": "@iamstarkov Так легче структурировать. Но если это сарказм - говори )",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639491501001719800,
+      "in_reply_to_status_id_str": "639491501001719808",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:34:42 +0000 2015",
+      "id": 639491720556752900,
+      "id_str": "639491720556752897",
+      "text": "Но вот сами структуры были очень даже хороши, поэтому их взяли за основу в парсер JS в JS - Esprima. http://t.co/Je9PVsHPQe",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639491173388808200,
+      "in_reply_to_status_id_str": "639491173388808192",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/Je9PVsHPQe",
+            "expanded_url": "http://esprima.org/",
+            "display_url": "esprima.org",
+            "indices": [
+              101,
+              123
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:32:31 +0000 2015",
+      "id": 639491173388808200,
+      "id_str": "639491173388808192",
+      "text": "Понятно, что туда же попали структуры, специфические для Фаерфокса тех времен - типа старого формата let-переменных или E4X (XML in JS).",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639490829611085800,
+      "in_reply_to_status_id_str": "639490829611085824",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:31:09 +0000 2015",
+      "id": 639490829611085800,
+      "id_str": "639490829611085824",
+      "text": "Так и появился SpiderMonkey Parser API - https://t.co/FFnaOB1rmN - де-факто стандарт AST (синт. дерева) для 90% девтулзов, работающих с JS.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639490530242601000,
+      "in_reply_to_status_id_str": "639490530242600960",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FFnaOB1rmN",
+            "expanded_url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API",
+            "display_url": "developer.mozilla.org/en-US/docs/Moz…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:29:58 +0000 2015",
+      "id": 639490530242601000,
+      "id_str": "639490530242600960",
+      "text": "С другой стороны, Дэйв Герман из Мозиллы наоборот, несколько лет назад открыл API для расширений ФФ и подробно описал структуры данных.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639490124854755300,
+      "in_reply_to_status_id_str": "639490124854755329",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:28:21 +0000 2015",
+      "id": 639490124854755300,
+      "id_str": "639490124854755329",
+      "text": "Но делиться не спешат, так как заявили что им удобнее держать все внутри и рефакторить в любой момент, поэтому - никаких апишек :(",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639489849012158500,
+      "in_reply_to_status_id_str": "639489849012158464",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:27:15 +0000 2015",
+      "id": 639489849012158500,
+      "id_str": "639489849012158464",
+      "text": "V8 например сохраняет внутри этого дерева не только синтаксис, а и различную рантайм-информацию - в частности типы данных, определенные JIT.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639489594086584300,
+      "in_reply_to_status_id_str": "639489594086584320",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:26:15 +0000 2015",
+      "id": 639489594086584300,
+      "id_str": "639489594086584320",
+      "text": "Поэтому браузеры внутри используют собственные структуры для отображения синтаксическа, с которыми им удобно работать.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639489321616154600,
+      "in_reply_to_status_id_str": "639489321616154624",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 17:25:10 +0000 2015",
+      "id": 639489321616154600,
+      "id_str": "639489321616154624",
+      "text": "Пока продолжу занудствовать насчет парсинга. Со вчерашней диаграмки, надеюсь, видно что использовать структуры из спеки довольно сложно.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 14:49:16 +0000 2015",
+      "id": 639450090462183400,
+      "id_str": "639450090462183424",
+      "text": "@cluevick Я вот нашел только еще одного https://t.co/fBRrWfs4MD",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639448609197584400,
+      "in_reply_to_status_id_str": "639448609197584384",
+      "in_reply_to_user_id": 193614046,
+      "in_reply_to_user_id_str": "193614046",
+      "in_reply_to_screen_name": "cluevick",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 639407273345945600,
+      "quoted_status_id_str": "639407273345945600",
+      "quoted_status": {
+        "created_at": "Thu Sep 03 11:59:08 +0000 2015",
+        "id": 639407273345945600,
+        "id_str": "639407273345945600",
+        "text": "@awscloud We are experiencing a total AWS downtime for EBS snapshotting in eu-central-1b and yet your status page says green!! #megafail",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 66780587,
+        "in_reply_to_user_id_str": "66780587",
+        "in_reply_to_screen_name": "awscloud",
+        "user": {
+          "id": 65015565,
+          "id_str": "65015565"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "megafail",
+              "indices": [
+                127,
+                136
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "awscloud",
+              "name": "Amazon Web Services",
+              "id": 66780587,
+              "id_str": "66780587",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cluevick",
+            "name": "Anatoly Lebedev",
+            "id": 193614046,
+            "id_str": "193614046",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fBRrWfs4MD",
+            "expanded_url": "https://twitter.com/axelfontaine/status/639407273345945600",
+            "display_url": "twitter.com/axelfontaine/s…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 14:31:12 +0000 2015",
+      "id": 639445544130216000,
+      "id_str": "639445544130215936",
+      "text": "@cluevick Есть какой-то линк?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639443974546133000,
+      "in_reply_to_status_id_str": "639443974546132993",
+      "in_reply_to_user_id": 193614046,
+      "in_reply_to_user_id_str": "193614046",
+      "in_reply_to_screen_name": "cluevick",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cluevick",
+            "name": "Anatoly Lebedev",
+            "id": 193614046,
+            "id_str": "193614046",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 14:23:40 +0000 2015",
+      "id": 639443649055600600,
+      "id_str": "639443649055600642",
+      "text": "А в статусе EC2 ни слова ни апдейта.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639443560509669400,
+      "in_reply_to_status_id_str": "639443560509669376",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Thu Sep 03 14:23:19 +0000 2015",
+      "id": 639443560509669400,
+      "id_str": "639443560509669376",
+      "text": "Кажись вернулись.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639441957085966300,
+      "in_reply_to_status_id_str": "639441957085966336",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 03 14:16:57 +0000 2015",
+      "id": 639441957085966300,
+      "id_str": "639441957085966336",
+      "text": "А тем временем что-то опять громко упало (Amazon?), потянув за собой Slack, HipChat и других.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Sep 03 13:50:40 +0000 2015",
       "id": 639435343280873500,
       "id_str": "639435343280873472",
@@ -326,7 +952,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -722,7 +1348,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1011,7 +1637,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -1154,7 +1780,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 5,
+        "retweet_count": 6,
         "favorite_count": 0,
         "entities": {
           "hashtags": [],
@@ -1188,7 +1814,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 5,
+      "retweet_count": 6,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -1252,8 +1878,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2287,8 +2913,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 3,
+      "retweet_count": 4,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3716,8 +4342,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 275,
-        "favorite_count": 98,
+        "retweet_count": 277,
+        "favorite_count": 97,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -5534,8 +6160,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 275,
-      "favorite_count": 98,
+      "retweet_count": 277,
+      "favorite_count": 97,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -15227,7 +15853,7 @@
         },
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 882,
+        "retweet_count": 884,
         "favorite_count": 654,
         "entities": {
           "hashtags": [],
@@ -26999,8 +27625,8 @@
         },
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 394,
-        "favorite_count": 158,
+        "retweet_count": 430,
+        "favorite_count": 174,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -27012,7 +27638,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 394,
+      "retweet_count": 430,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
