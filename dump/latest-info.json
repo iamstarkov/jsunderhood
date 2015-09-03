@@ -35,17 +35,17 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9356,
+  "statuses_count": 9357,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Sep 03 17:41:47 +0000 2015",
-    "id": 639493504918515700,
-    "id_str": "639493504918515712",
-    "text": "А когда уже есть парсеры и документация, тулзы могут расти как грибы после дождя, что собственно и произошло.",
+    "created_at": "Thu Sep 03 17:43:23 +0000 2015",
+    "id": 639493908305723400,
+    "id_str": "639493908305723392",
+    "text": "Появились либы для обхода AST https://t.co/86RcWYFpGD, генерации кода https://t.co/y1cBvIMkAl, проверки скоупов https://t.co/vcyFH7wx96.",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": 639493056270598100,
-    "in_reply_to_status_id_str": "639493056270598144",
+    "in_reply_to_status_id": 639493504918515700,
+    "in_reply_to_status_id_str": "639493504918515712",
     "in_reply_to_user_id": 3014054307,
     "in_reply_to_user_id_str": "3014054307",
     "in_reply_to_screen_name": "jsunderhood",
@@ -59,10 +59,39 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/86RcWYFpGD",
+          "expanded_url": "https://github.com/estools/estraverse",
+          "display_url": "github.com/estools/estrav…",
+          "indices": [
+            30,
+            53
+          ]
+        },
+        {
+          "url": "https://t.co/y1cBvIMkAl",
+          "expanded_url": "https://github.com/estools/escodegen",
+          "display_url": "github.com/estools/escode…",
+          "indices": [
+            70,
+            93
+          ]
+        },
+        {
+          "url": "https://t.co/vcyFH7wx96",
+          "expanded_url": "https://github.com/estools/escope",
+          "display_url": "github.com/estools/escope",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
