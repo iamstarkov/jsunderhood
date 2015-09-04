@@ -27,7 +27,7 @@ block content
     .row
       .col-md-12
         table.host-stats
-          
+
           thead.host-stats__head
             tr.host-stats__row.host-stats__row_head
               th.host-stats__col.host-stats__col_left: span.sortable Автор
@@ -44,7 +44,7 @@ block content
                 span.sortable Фавнули всего
                 = " / "
               th.host-stats__col.host-stats__col_favorited.faved--2p: span.sortable: nobr на твит
-          
+
           each author, index in stats
             tr.host-stats__row
               td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=index)
@@ -52,7 +52,7 @@ block content
                   - var authorLink = (index !== 0) ? '/' + author.username : 'https://twitter.com/jsunderhood';
                   a(href=authorLink class={ live: index === 0 })
                     = "@" + author.username
-                
+
                 - var percent = Math.round(author.tweets / maxTweets * 100)
                 .tweet-graph__wrap
                   .tweet-graph(style='width: #{percent}%')
@@ -61,11 +61,13 @@ block content
                     .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.replies.percent}%;' )
 
               td.host-stats__col(data-title='Читатели' data-sort=author.gainedFollowers class={
+                'text-muted': author.gainedFollowers === 0,
                 'text-success': author.gainedFollowers > 0,
                 'text-danger': author.gainedFollowers < 0
               })
                 span.cell(class={ 'cell--best': author.maxGainedfollowers }): span.cell__content
-                  = author.gainedFollowers > 0 ? '+' : '−'
+                  if author.gainedFollowers !== 0
+                    = author.gainedFollowers > 0 ? '+' : '−'
                   = Math.abs(author.gainedFollowers)
               td.host-stats__col(data-title='Твиты' data-sort=author.tweets)
                 span.cell(class={ 'cell--best': author.maxTweets } ): span.cell__content
