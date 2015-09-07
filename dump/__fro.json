@@ -5925,25 +5925,64 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 9599,
+    "statuses_count": 9601,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Sep 07 11:52:59 +0000 2015",
-      "id": 640855279387738100,
-      "id_str": "640855279387738112",
-      "text": "@8xx8ru поэтому пришлось пилить свое решение..https://t.co/aN34eyEsXf",
+      "created_at": "Mon Sep 07 11:54:22 +0000 2015",
+      "id": 640855624851542000,
+      "id_str": "640855624851542017",
+      "text": "RT @8xx8ru: @jsunderhood А что такого уникального в нем останется, если убрать все вещи связанные с реактом?",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 640851355729567700,
-      "in_reply_to_status_id_str": "640851355729567744",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Mon Sep 07 11:45:01 +0000 2015",
+        "id": 640853271901536300,
+        "id_str": "640853271901536257",
+        "text": "@jsunderhood А что такого уникального в нем останется, если убрать все вещи связанные с реактом?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 640851355729567700,
+        "in_reply_to_status_id_str": "640851355729567744",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -5955,26 +5994,25 @@
             "id": 216778941,
             "id_str": "216778941",
             "indices": [
-              0,
-              7
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/aN34eyEsXf",
-            "expanded_url": "https://github.com/AlexeyFrolov/routr-map/blob/master/src/__tests__/match-url.js",
-            "display_url": "github.com/AlexeyFrolov/r…",
-            "indices": [
-              46,
-              69
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
