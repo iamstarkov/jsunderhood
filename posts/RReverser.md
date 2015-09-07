@@ -2,7 +2,7 @@
 
 _06 сентября 2015_
 
-## Понедельник <small>292 твита</small>
+## Понедельник <small>291 твит</small>
 
 London is the capital of Great Britain, ой, то есть привет! С вами [@RReverser](https://twitter.com/RReverser "Ingvar Stepanyan") и я буду занудствовать о JS с точки зрения девтулзов :\)
 
@@ -116,8 +116,6 @@ RT [@alexfedoseev](https://twitter.com/alexfedoseev "Alex"): [@jsunderhood](http
 RT [@raxpost](https://twitter.com/raxpost "Роман Роман"): [@reklatsmasters](https://twitter.com/reklatsmasters "Dmitry Tsvettsikh") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я вот не понимаю жалобы на колбеки, при чем тут js? При том что асинхронный? Так это его главное …
 
 Ну как раннего. PHP5. [twitter.com/allfayn/status…](https://t.co/dNxwIjX0ey "https://twitter.com/allfayn/status/638296506324385792")
-
-RT [@dmitrytrigonis](https://twitter.com/dmitrytrigonis "Dmitry Trigonis"): [@alexfedoseev](https://twitter.com/alexfedoseev "Alex") [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") не припомню, что я кодил бы какой-то модуль на npm когда есть сторонний и как правило 100% в…
 
 Как сейчас ситуация? Улучшилась? Или все еще  
   
@@ -611,7 +609,7 @@ RT [@andrey\_sitnik](https://twitter.com/andrey_sitnik "Андрей Ситни�
 
 Сорри, но без комментариев, после нескольких-то часов обсуждений. Спокойной ночи всем! [twitter.com/lisovskyvlad/s…](https://t.co/vizFz3AtNY "https://twitter.com/lisovskyvlad/status/638472677758533632")
 
-## Вторник <small>109 твитов</small>
+## Вторник <small>108 твитов</small>
 
 Ох. А я так посмотрю, страсти вокруг винды всю ночь не утихали. Видимо, зацепило даже больнее за "что не нравится в JS". С добрым утром!\)
 
@@ -680,8 +678,6 @@ RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](http
 Конечно важно. Иначе в JS не пришло бы много клевых штук, как с "ООП" так и с ФП \([@dan\_abramov](https://twitter.com/dan_abramov "Dan Abramov") подтвердит\). [twitter.com/KSDaemon/statu…](https://t.co/nrXtO1mYrO "https://twitter.com/KSDaemon/status/638705258751987712")
 
 Их разрабатывают именно люди, которые смотрят по сторонам, замечают интересные концепты и следуют закону Атвуда :\)
-
-RT [@dmitrytrigonis](https://twitter.com/dmitrytrigonis "Dmitry Trigonis"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") игрался, в анриал в браузере от скуки на работе
 
 RT [@chicoxyzzy](https://twitter.com/chicoxyzzy "Sergey R"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") расскажи про свои эксперименты про js + flow -&gt; asm.js
 
