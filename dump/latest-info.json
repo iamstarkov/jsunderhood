@@ -35,13 +35,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9528,
+  "statuses_count": 9529,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 07 08:09:30 +0000 2015",
-    "id": 640799038447710200,
-    "id_str": "640799038447710208",
-    "text": "RT @_h4_: @jsunderhood это сегодня обсуждают в @cssunderhood",
+    "created_at": "Mon Sep 07 08:10:04 +0000 2015",
+    "id": 640799180403941400,
+    "id_str": "640799180403941376",
+    "text": "RT @wouldntfix: @jsunderhood тебя заставили так написать, иначе не дали бы вести аккаунт.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,55 +54,22 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Sep 07 08:04:15 +0000 2015",
-      "id": 640797715723612200,
-      "id_str": "640797715723612160",
-      "text": "@jsunderhood это сегодня обсуждают в @cssunderhood",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Mon Sep 07 07:53:50 +0000 2015",
+      "id": 640795095663554600,
+      "id_str": "640795095663554560",
+      "text": "@jsunderhood тебя заставили так написать, иначе не дали бы вести аккаунт.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 640797461368438800,
-      "in_reply_to_status_id_str": "640797461368438784",
+      "in_reply_to_status_id": 640794751361515500,
+      "in_reply_to_status_id_str": "640794751361515520",
       "in_reply_to_user_id": 3014054307,
       "in_reply_to_user_id_str": "3014054307",
       "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
-      "place": {
-        "id": "a76c0cd7d56c4836",
-        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-        "place_type": "city",
-        "name": "Saint Petersburg",
-        "full_name": "Saint Petersburg, Russia",
-        "country_code": "RU",
-        "country": "Rossiya",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                30.0896894,
-                59.7761714
-              ],
-              [
-                30.5677067,
-                59.7761714
-              ],
-              [
-                30.5677067,
-                60.0921253
-              ],
-              [
-                30.0896894,
-                60.0921253
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
+      "place": null,
       "contributors": null,
-      "retweet_count": 2,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -117,16 +84,6 @@
               0,
               12
             ]
-          },
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              37,
-              50
-            ]
           }
         ],
         "urls": []
@@ -135,20 +92,20 @@
       "retweeted": false,
       "lang": "ru"
     },
-    "retweet_count": 2,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "_h4_",
-          "name": "Михаил Баранов",
-          "id": 15020265,
-          "id_str": "15020265",
+          "screen_name": "wouldntfix",
+          "name": "Александр (18́+)",
+          "id": 20382725,
+          "id_str": "20382725",
           "indices": [
             3,
-            8
+            14
           ]
         },
         {
@@ -157,18 +114,8 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            10,
-            22
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            47,
-            60
+            16,
+            28
           ]
         }
       ],
