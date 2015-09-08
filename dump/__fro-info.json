@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1800,
+  "followers_count": 1816,
   "friends_count": 2,
-  "listed_count": 71,
+  "listed_count": 73,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 90,
+  "favourites_count": 91,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9601,
+  "statuses_count": 9711,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 07 11:54:22 +0000 2015",
-    "id": 640855624851542000,
-    "id_str": "640855624851542017",
-    "text": "RT @8xx8ru: @jsunderhood А что такого уникального в нем останется, если убрать все вещи связанные с реактом?",
+    "created_at": "Tue Sep 08 12:46:00 +0000 2015",
+    "id": 641231006473842700,
+    "id_str": "641231006473842688",
+    "text": "RT @roman01la: @jsunderhood @alexfedoseev @__fro поэтому нужно брать mori :) Transit reader порой парсит CLJS структуры быстрее чем JSON.pa…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,20 +54,53 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Sep 07 11:45:01 +0000 2015",
-      "id": 640853271901536300,
-      "id_str": "640853271901536257",
-      "text": "@jsunderhood А что такого уникального в нем останется, если убрать все вещи связанные с реактом?",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Tue Sep 08 11:39:35 +0000 2015",
+      "id": 641214293883551700,
+      "id_str": "641214293883551744",
+      "text": "@jsunderhood @alexfedoseev @__fro поэтому нужно брать mori :) Transit reader порой парсит CLJS структуры быстрее чем JSON.parse",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "truncated": false,
-      "in_reply_to_status_id": 640851355729567700,
-      "in_reply_to_status_id_str": "640851355729567744",
+      "in_reply_to_status_id": 641212231850545200,
+      "in_reply_to_status_id_str": "641212231850545152",
       "in_reply_to_user_id": 3014054307,
       "in_reply_to_user_id_str": "3014054307",
       "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
-      "place": null,
+      "place": {
+        "id": "00c52f000cb56025",
+        "url": "https://api.twitter.com/1.1/geo/id/00c52f000cb56025.json",
+        "place_type": "admin",
+        "name": "Amphoe Ko Samui",
+        "full_name": "Amphoe Ko Samui, Surat Thani",
+        "country_code": "TH",
+        "country": "ประเทศไทย",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                99.6595234,
+                9.4087332
+              ],
+              [
+                100.0906549,
+                9.4087332
+              ],
+              [
+                100.0906549,
+                9.7052718
+              ],
+              [
+                99.6595234,
+                9.7052718
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
       "contributors": null,
       "retweet_count": 1,
       "favorite_count": 0,
@@ -84,6 +117,26 @@
               0,
               12
             ]
+          },
+          {
+            "screen_name": "alexfedoseev",
+            "name": "Alex",
+            "id": 152230944,
+            "id_str": "152230944",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "__fro",
+            "name": "Alexey Frolov",
+            "id": 104968314,
+            "id_str": "104968314",
+            "indices": [
+              27,
+              33
+            ]
           }
         ],
         "urls": []
@@ -99,13 +152,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "8xx8ru",
-          "name": "8xx8",
-          "id": 216778941,
-          "id_str": "216778941",
+          "screen_name": "roman01la",
+          "name": "Roman Liutikov",
+          "id": 98982330,
+          "id_str": "98982330",
           "indices": [
             3,
-            10
+            13
           ]
         },
         {
@@ -114,8 +167,28 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            12,
-            24
+            15,
+            27
+          ]
+        },
+        {
+          "screen_name": "alexfedoseev",
+          "name": "Alex",
+          "id": 152230944,
+          "id_str": "152230944",
+          "indices": [
+            28,
+            41
+          ]
+        },
+        {
+          "screen_name": "__fro",
+          "name": "Alexey Frolov",
+          "id": 104968314,
+          "id_str": "104968314",
+          "indices": [
+            42,
+            48
           ]
         }
       ],
