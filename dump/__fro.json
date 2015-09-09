@@ -5,6 +5,704 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Sep 09 14:23:42 +0000 2015",
+      "id": 641617981391433700,
+      "id_str": "641617981391433728",
+      "text": "А можно поконкретнее?  https://t.co/BMYzfkqC45",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641615875926270000,
+      "quoted_status_id_str": "641615875926269952",
+      "quoted_status": {
+        "created_at": "Wed Sep 09 14:15:20 +0000 2015",
+        "id": 641615875926270000,
+        "id_str": "641615875926269952",
+        "text": "Нужно сделать текстовый (не WYSIWYG) редактор в браузере. Никто не натыкался на похожие штуки? @jsunderhood",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20632504,
+          "id_str": "20632504"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                95,
+                107
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BMYzfkqC45",
+            "expanded_url": "https://twitter.com/beshur/status/641615875926269952",
+            "display_url": "twitter.com/beshur/status/…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 09 13:32:37 +0000 2015",
+      "id": 641605129242812400,
+      "id_str": "641605129242812418",
+      "text": "RT @roman01la: @jsunderhood Кто-нибудь использует инструменты для рефакторинга? Типа Grasp http://t.co/9IFYOf2deJ или jscodeshift https://t…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 09 13:27:39 +0000 2015",
+        "id": 641603875976278000,
+        "id_str": "641603875976278017",
+        "text": "@jsunderhood Кто-нибудь использует инструменты для рефакторинга? Типа Grasp http://t.co/9IFYOf2deJ или jscodeshift https://t.co/WGhGqGuu0a",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 98982330,
+          "id_str": "98982330"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/9IFYOf2deJ",
+              "expanded_url": "http://www.graspjs.com/",
+              "display_url": "graspjs.com",
+              "indices": [
+                76,
+                98
+              ]
+            },
+            {
+              "url": "https://t.co/WGhGqGuu0a",
+              "expanded_url": "https://github.com/facebook/jscodeshift",
+              "display_url": "github.com/facebook/jscod…",
+              "indices": [
+                115,
+                138
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "roman01la",
+            "name": "Roman Liutikov",
+            "id": 98982330,
+            "id_str": "98982330",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/9IFYOf2deJ",
+            "expanded_url": "http://www.graspjs.com/",
+            "display_url": "graspjs.com",
+            "indices": [
+              91,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/WGhGqGuu0a",
+            "expanded_url": "https://github.com/facebook/jscodeshift",
+            "display_url": "github.com/facebook/jscod…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 09 12:08:48 +0000 2015",
+      "id": 641584036071215100,
+      "id_str": "641584036071215112",
+      "text": ".@gusnkt http://t.co/0QptWtciFz",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641578593810841600,
+      "in_reply_to_status_id_str": "641578593810841600",
+      "in_reply_to_user_id": 979932912,
+      "in_reply_to_user_id_str": "979932912",
+      "in_reply_to_screen_name": "gusnkt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/0QptWtciFz",
+            "expanded_url": "http://swannodette.github.io/2013/08/24/es6-generators-and-csp/",
+            "display_url": "swannodette.github.io/2013/08/24/es6…",
+            "indices": [
+              9,
+              31
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 09 12:07:36 +0000 2015",
+      "id": 641583734165237800,
+      "id_str": "641583734165237760",
+      "text": "RT @gusnkt: @jsunderhood как генераторы связанны с асинхронщиной? async/await = generators + promises",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 09 11:47:11 +0000 2015",
+        "id": 641578593810841600,
+        "id_str": "641578593810841600",
+        "text": "@jsunderhood как генераторы связанны с асинхронщиной? async/await = generators + promises",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 641573861134348300,
+        "in_reply_to_status_id_str": "641573861134348288",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 979932912,
+          "id_str": "979932912"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 09 12:07:32 +0000 2015",
+      "id": 641583715290886100,
+      "id_str": "641583715290886144",
+      "text": ".@gusnkt http://t.co/vxp69CO9Sn",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641578593810841600,
+      "in_reply_to_status_id_str": "641578593810841600",
+      "in_reply_to_user_id": 979932912,
+      "in_reply_to_user_id_str": "979932912",
+      "in_reply_to_screen_name": "gusnkt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/vxp69CO9Sn",
+            "expanded_url": "http://www.2ality.com/2015/03/no-promises.html",
+            "display_url": "2ality.com/2015/03/no-pro…",
+            "indices": [
+              9,
+              31
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 09 11:42:26 +0000 2015",
+      "id": 641577397536600000,
+      "id_str": "641577397536600064",
+      "text": "а вот подборка nodejs-проектов https://t.co/0hPb6IjBlz",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641574390585540600,
+      "in_reply_to_status_id_str": "641574390585540608",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0hPb6IjBlz",
+            "expanded_url": "https://github.com/sindresorhus/awesome-nodejs",
+            "display_url": "github.com/sindresorhus/a…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 09 11:33:44 +0000 2015",
+      "id": 641575207476555800,
+      "id_str": "641575207476555776",
+      "text": "https://t.co/fmfTt3DvK7 - embedded база данных http://t.co/GE1MYV4z9X",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641573861134348300,
+      "in_reply_to_status_id_str": "641573861134348288",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fmfTt3DvK7",
+            "expanded_url": "https://github.com/Level/levelup",
+            "display_url": "github.com/Level/levelup",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "http://t.co/GE1MYV4z9X",
+            "expanded_url": "http://www.youtube.com/watch?v=C-SbXvXi7Og",
+            "display_url": "youtube.com/watch?v=C-SbXv…",
+            "indices": [
+              47,
+              69
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 09 11:30:29 +0000 2015",
+      "id": 641574390585540600,
+      "id_str": "641574390585540608",
+      "text": "в nodejs-мире все принято делать с помощью streams https://t.co/Cdml6taw7g",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641573861134348300,
+      "in_reply_to_status_id_str": "641573861134348288",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Cdml6taw7g",
+            "expanded_url": "https://nodesource.com/blog/understanding-object-streams",
+            "display_url": "nodesource.com/blog/understan…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 09 11:28:23 +0000 2015",
+      "id": 641573861134348300,
+      "id_str": "641573861134348288",
+      "text": "вот, например, в JS есть несколько способов работы с асинхронщиной: Promises (async/await), FRP, generators, https://t.co/SUXRo9Duqb",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641572545049792500,
+      "in_reply_to_status_id_str": "641572545049792512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SUXRo9Duqb",
+            "expanded_url": "https://github.com/ubolonton/js-csp",
+            "display_url": "github.com/ubolonton/js-c…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 09 11:23:09 +0000 2015",
+      "id": 641572545049792500,
+      "id_str": "641572545049792512",
+      "text": "https://t.co/mMBAYIdN90",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641572495561224200,
+      "in_reply_to_status_id_str": "641572495561224192",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mMBAYIdN90",
+            "expanded_url": "https://www.reddit.com/r/node/",
+            "display_url": "reddit.com/r/node/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 09 11:22:57 +0000 2015",
+      "id": 641572495561224200,
+      "id_str": "641572495561224192",
+      "text": "многие из нас любят и используют node для всяких изоморфных приложений.Но у nodejs есть свое узкоспециальное сообщество со своими причудами)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Sep 09 09:41:57 +0000 2015",
       "id": 641547076589998100,
       "id_str": "641547076589998080",
@@ -536,8 +1234,8 @@
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 18,
-          "favorite_count": 19,
+          "retweet_count": 22,
+          "favorite_count": 20,
           "entities": {
             "hashtags": [],
             "symbols": [],
@@ -4260,7 +4958,7 @@
         "quoted_status_id_str": "641214076069249024",
         "is_quote_status": true,
         "retweet_count": 0,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
