@@ -123,7 +123,7 @@ RT [@somerandstring](https://twitter.com/somerandstring "Ivan Dmitriev"): [@jsun
 RT [@wtfil](https://twitter.com/wtfil "Фил"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") приложение для зацикливания отдельных кусков песни \(полезно для начинающих музыкантов\)  
 [github.com/wtfil/song-loo…](https://t.co/tsf4QxZiGi "https://github.com/wtfil/song-looper")
 
-RT [@mlfrg](https://twitter.com/mlfrg "Alexey Taktarov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") Конечные поля и кольца на JS [molefrog.com/rye/](http://t.co/XsZN93WDz7 "http://molefrog.com/rye/") \(чтобы строить красивые картинки 😊[molefrog.com/rye/demo/galoi…](http://t.co/MNghJe4k0W "http://molefrog.com/rye/demo/galois/")…
+RT [@mlfrg](https://twitter.com/mlfrg "Alexey Taktarov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@toivonens](https://twitter.com/toivonens "var ya; // ru") Конечные поля и кольца на JS [molefrog.com/rye/](http://t.co/XsZN93WDz7 "http://molefrog.com/rye/") \(чтобы строить красивые картинки 😊 [molefrog.com/rye/demo/galoi…](http://t.co/MNghJe4k0W "http://molefrog.com/rye/demo/galois/")
 
 Моя любимая — вот эта. «База данных шиворот навыворот.» [blog.confluent.io/2015/03/04/tur…](http://t.co/zB6WBihQlE "http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/")
 

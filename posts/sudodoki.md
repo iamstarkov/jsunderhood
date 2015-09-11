@@ -274,7 +274,7 @@ RT [@ALF\_er](https://twitter.com/ALF_er "Illia Segeda"): Очень дельн�
 
 ## Пятница <small>35 твитов</small>
 
-Сегодня 20 лет JS 🎉[twitter.com/JavaScriptDail…](https://t.co/QM9VKC4mBN "https://twitter.com/JavaScriptDaily/status/594104490099367936")N
+Сегодня 20 лет JS 🎉 [twitter.com/JavaScriptDail…](https://t.co/QM9VKC4mBN "https://twitter.com/JavaScriptDaily/status/594104490099367936")
 
 RT [@brianloveswords](https://twitter.com/brianloveswords "a leathery bat"): 20 years ago today a programmer working for AOL named Bramdan Ich created the language Java in just 12 hours. http://t[pic.twitter.com/QJke6qAhL5](http://t.co/QJke6qAhL5)
 
