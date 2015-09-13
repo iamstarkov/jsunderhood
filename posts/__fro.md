@@ -1,6 +1,6 @@
 # __fro
 
-_12 сентября 2015_
+_13 сентября 2015_
 
 ## Понедельник <small>86 твитов</small>
 
@@ -508,6 +508,10 @@ RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): Вот вам �
 
 RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") А вот здесь David Nolen очень хорошо рассказывает о CSP в Clojure, реализация core.async [youtube.com/watch?v=AhxcGG…](https://t.co/bzzQFq4bvw "https://www.youtube.com/watch?v=AhxcGGeh5ho")
 
+## Воскресенье <small>1 твит</small>
+
+спасибо за компанию, коллеги, было интересно. Напоследок заряжающий позитивом спич Brian J Brennan [youtube.com/watch?v=LlO2\_G…](http://t.co/SS9r9e30kP "http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14")
+
 ## Ссылки
 
 ### github.com  
@@ -546,6 +550,7 @@ RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](
 <a href="http://www.youtube.com/watch?v=C-SbXvXi7Og" target="_blank">http://www.youtube.com/watch?v=C-SbXvXi7Og</a>  
 <a href="https://www.youtube.com/watch?v=W2DgDNQZOwo&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=6" target="_blank">https://www.youtube.com/watch?v=W2DgDNQZOwo&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=6</a>  
 <a href="https://www.youtube.com/watch?v=AhxcGGeh5ho" target="_blank">https://www.youtube.com/watch?v=AhxcGGeh5ho</a>  
+<a href="http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14" target="_blank">http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14</a>  
 <a href="http://www.2ality.com/2015/03/no-promises.html" target="_blank">http://www.2ality.com/2015/03/no-promises.html</a>  
 <a href="http://www.graspjs.com/" target="_blank">http://www.graspjs.com/</a>  
 <a href="http://frontender.info/why-contenteditable-is-terrible/" target="_blank">http://frontender.info/why-contenteditable-is-terrible/</a>  
