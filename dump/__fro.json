@@ -27517,54 +27517,125 @@
       }
     },
     "protected": false,
-    "followers_count": 1850,
+    "followers_count": 1868,
     "friends_count": 2,
-    "listed_count": 77,
+    "listed_count": 80,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
     "favourites_count": 91,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 9826,
+    "statuses_count": 9839,
     "lang": "ru",
     "status": {
-      "created_at": "Fri Sep 11 09:42:36 +0000 2015",
-      "id": 642272017446752300,
-      "id_str": "642272017446752256",
-      "text": "@vladimore в статье тоже на ваш вопрос ответ есть )",
+      "created_at": "Sat Sep 12 15:13:15 +0000 2015",
+      "id": 642717614918234100,
+      "id_str": "642717614918234113",
+      "text": "RT @roman01la: @jsunderhood А вот здесь David Nolen очень хорошо рассказывает о CSP в Clojure, реализация core.async https://t.co/bzzQFq4bvw",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 642271637014900700,
-      "in_reply_to_status_id_str": "642271637014900736",
-      "in_reply_to_user_id": 2237484679,
-      "in_reply_to_user_id_str": "2237484679",
-      "in_reply_to_screen_name": "vladimore",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Sat Sep 12 15:11:35 +0000 2015",
+        "id": 642717194816630800,
+        "id_str": "642717194816630784",
+        "text": "@jsunderhood А вот здесь David Nolen очень хорошо рассказывает о CSP в Clojure, реализация core.async https://t.co/bzzQFq4bvw",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 642716491478093800,
+        "in_reply_to_status_id_str": "642716491478093824",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/bzzQFq4bvw",
+              "expanded_url": "https://www.youtube.com/watch?v=AhxcGGeh5ho",
+              "display_url": "youtube.com/watch?v=AhxcGG…",
+              "indices": [
+                102,
+                125
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "vladimore",
-            "name": "Waldemar",
-            "id": 2237484679,
-            "id_str": "2237484679",
+            "screen_name": "roman01la",
+            "name": "Roman Liutikov",
+            "id": 98982330,
+            "id_str": "98982330",
             "indices": [
-              0,
-              10
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/bzzQFq4bvw",
+            "expanded_url": "https://www.youtube.com/watch?v=AhxcGGeh5ho",
+            "display_url": "youtube.com/watch?v=AhxcGG…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
