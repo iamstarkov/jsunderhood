@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1880,
+  "followers_count": 1878,
   "friends_count": 1,
-  "listed_count": 82,
+  "listed_count": 83,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2,
+  "favourites_count": 3,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9928,
+  "statuses_count": 10105,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 16 12:14:54 +0000 2015",
-    "id": 644122284056281100,
-    "id_str": "644122284056281088",
-    "text": "RT @incredibletoy: @jsunderhood @webholt У нас препод по эконометрике учил, что вместо автоматизации всегда выгоднее придумать способ с мен…",
+    "created_at": "Fri Sep 18 09:57:24 +0000 2015",
+    "id": 644812457513472000,
+    "id_str": "644812457513472000",
+    "text": "RT @agudulin: @jsunderhood рандомные цитаты из adventure time: http://t.co/FrxoKmfXzD",
     "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,14 +54,14 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Wed Sep 16 09:36:51 +0000 2015",
-      "id": 644082509349814300,
-      "id_str": "644082509349814272",
-      "text": "@jsunderhood @webholt У нас препод по эконометрике учил, что вместо автоматизации всегда выгоднее придумать способ с меньшим числом шагов.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Fri Sep 18 09:52:52 +0000 2015",
+      "id": 644811315580694500,
+      "id_str": "644811315580694528",
+      "text": "@jsunderhood рандомные цитаты из adventure time: http://t.co/FrxoKmfXzD",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
       "truncated": false,
-      "in_reply_to_status_id": 644077324070219800,
-      "in_reply_to_status_id_str": "644077324070219776",
+      "in_reply_to_status_id": 644728074513305600,
+      "in_reply_to_status_id_str": "644728074513305600",
       "in_reply_to_user_id": 3014054307,
       "in_reply_to_user_id_str": "3014054307",
       "in_reply_to_screen_name": "jsunderhood",
@@ -69,8 +69,8 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 2,
+      "retweet_count": 2,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,38 +84,39 @@
               0,
               12
             ]
-          },
-          {
-            "screen_name": "webholt",
-            "name": "Vlad :: gwer",
-            "id": 97894369,
-            "id_str": "97894369",
-            "indices": [
-              13,
-              21
-            ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "http://t.co/FrxoKmfXzD",
+            "expanded_url": "http://github.com/agudulin/at-quotes",
+            "display_url": "github.com/agudulin/at-qu…",
+            "indices": [
+              49,
+              71
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "und"
     },
-    "retweet_count": 1,
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "incredibletoy",
-          "name": "Графы и вероятности",
-          "id": 138821552,
-          "id_str": "138821552",
+          "screen_name": "agudulin",
+          "name": "Alexander Gudulin",
+          "id": 125112832,
+          "id_str": "125112832",
           "indices": [
             3,
-            17
+            12
           ]
         },
         {
@@ -124,26 +125,27 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            19,
-            31
-          ]
-        },
-        {
-          "screen_name": "webholt",
-          "name": "Vlad :: gwer",
-          "id": 97894369,
-          "id_str": "97894369",
-          "indices": [
-            32,
-            40
+            14,
+            26
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/FrxoKmfXzD",
+          "expanded_url": "http://github.com/agudulin/at-quotes",
+          "display_url": "github.com/agudulin/at-qu…",
+          "indices": [
+            63,
+            85
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
