@@ -4,35 +4,90 @@ _14 февраля 2015_
 
 ## Понедельник <small>5 твитов</small>
 
+<div class="tweet">
+
 Эту неделю буду вести аккаунт я, [@filipovskii](https://twitter.com/filipovskii "Andrey Salomatin"). Full-stack кодер, организатор [@moscowjs](https://twitter.com/moscowjs "MoscowJS"), со-ведущий [@RadioJSPodcast](https://twitter.com/RadioJSPodcast "RadioJS Podcast"), сёрфер-любитель. Привет!
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/564697062378594304">8:07</a>
+
+</div>
+
+<div class="tweet">
 
 В пятницу собрались в офисе на просмотр видео с React.js Conf 2015: [youtube.com/playlist?list=…](http://t.co/B0Be2C5XsD "http://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr") Особенно порадовали Immutable.js и React Native
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/564697244411387905">8:08</a>
+
+</div>
+
+<div class="tweet">
 
 Stand-Hop — новая модная техника Scrum. Под жирный бит каждый зачитывает: Что он делал вчера? Что будет делать сегодня? Есть ли блоки?
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/564699183429742592">8:15</a>
+
+</div>
+
+<div class="tweet">
 
 RT [@RadioJSPodcast](https://twitter.com/RadioJSPodcast "RadioJS Podcast"): Товарищи, к вашему вниманию 17-й выпуск подкаста! В гостях Роман [@rdvornov](https://twitter.com/rdvornov "Roman Dvornov"). Opera &amp; Microsoft, спеки и стандарты. http:[bit.ly/1zNVk1N](http://t.co/cqSnGcU7x6 "http://bit.ly/1zNVk1N")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/564740408945938433">10:59</a>
+
+</div>
+
+<div class="tweet">
 
 RT [@moscowjs](https://twitter.com/moscowjs "MoscowJS"): Мы выложили видео докладов с MoscowJS 18. Говорили про [#flux](https://twitter.com/search?q=%23flux), [#alasql](https://twitter.com/search?q=%23alasql), [#csp](https://twitter.com/search?q=%23csp) и [#webrtc](https://twitter.com/search?q=%23webrtc) [youtube.com/playlist?list=…](https://t.co/qRwaFA8krY "https://www.youtube.com/playlist?list=PL95OM-7UObpEfPxwbbYzn4Pnk8HCSo2lB")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/564788407738847232">14:10</a>
+
+</div>
 
 ## Среда <small>2 твита</small>
 
+<div class="tweet">
+
 [reapp.io](http://t.co/WyH8k6Zg4n "http://reapp.io") — набор юного html5 мобильного разработчика. В комплекте [#React](https://twitter.com/search?q=%23React), [#npm](https://twitter.com/search?q=%23npm), [#WebPack](https://twitter.com/search?q=%23WebPack), [#ES2015](https://twitter.com/search?q=%23ES2015)
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/565454113597816832">10:15</a>
+
+</div>
+
+<div class="tweet">
 
 RT [@iojs\_ru](https://twitter.com/iojs_ru "iojs-ru"): Вышел io.js 1.2.0. Ссылки для скачивания под все платформы: [iojs.org](https://t.co/i8r4Aj7RDU "https://iojs.org"), список изменений: [github.com/iojs/io.js/blo…](https://t.co/4yLfkrYmIB "https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/565468169033506816">11:11</a>
+
+</div>
 
 ## Четверг <small>2 твита</small>
 
+<div class="tweet">
+
 Отличная статья про Soundscript — строгий быстрый Javascript от Google [2ality.com/2015/02/sounds…](http://t.co/mp2V5b6wqA "http://www.2ality.com/2015/02/soundscript.html?m=1")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/565782351729672192">7:59</a>
+
+</div>
+
+<div class="tweet">
 
 Настоящий программист перед сном считает овец в двоичной системе! Хорошего вечера!
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/565982117197524992">21:13</a>
+
+</div>
 
 ## Пятница <small>1 твит</small>
 
+<div class="tweet">
+
 RT [@moscowjs](https://twitter.com/moscowjs "MoscowJS"): 14-15 мая пройдёт [#JSConf](https://twitter.com/search?q=%23JSConf).Budapest! Там будет так же круто, как на конференции в Берлине, но не так дорого [jsconfbp.com](http://t.co/FrYuDGNljh "http://jsconfbp.com/")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/566168229090197504">9:33</a>
+
+</div>
 
 ## Суббота <small>1 твит</small>
 
+<div class="tweet">
+
 Очень занимательное чтиво на тему потоки vs события [static.usenix.org/events/hotos03…](http://t.co/c0UPQEHPn7 "http://static.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/566640827594997760">16:51</a>
+
+</div>
 
 ## Ссылки
 
