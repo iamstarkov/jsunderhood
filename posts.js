@@ -76,7 +76,21 @@ const post = (author, post = true) => {
     author.tweets.reduce(separateByWeekdays, []).map(weekday => {
       return [
         `## ${capitalize(weekday.weekday)} <small>${tweetsUnit(weekday.tweets.length)}</small>`,
-        weekday.tweets.map(renderTweet).join('\n\n'),
+        weekday.tweets.map(tweet => {
+          const link = [
+            'https://twitter.com',
+            'jsunderhood',
+            'status',
+            tweet.id_str
+          ].join('/');
+          const time = moment(new Date(tweet.created_at)).format('H:mm');
+          return [
+            `<div class="tweet">\n`,
+              renderTweet(tweet),
+              ` <a class="tweet__time" href="${link}">${time}</a>\n`,
+            `</div>`
+          ].join('\n');
+        }).join('\n\n'),
       ].join('\n\n');
     }).join('\n\n'),
     (domains.length || otherUrls.length) && '## Ссылки',
