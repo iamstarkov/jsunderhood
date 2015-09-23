@@ -240,3 +240,28 @@ tr {
     margin-top: -29px;
   }
 }
+
+p {
+  position: relative;
+}
+
+.time {
+  display: block;
+  color: rgb(160, 160, 160);
+  font-size: 12px;
+  line-height: 20px;
+}
+
+@media (min-width: 769px) {
+  .time {
+    position: absolute;
+    top: 1px;
+    right: 100%;
+    padding-right: 1.5em;
+    display: inline-block;
+  }
+
+  .time:hover {
+    text-decoration: none;
+  }
+}

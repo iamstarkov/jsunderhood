@@ -18,9 +18,6 @@ block headerTitle
   small= " / Статистика"
 
 block content
-
-  link(rel="stylesheet" href="/css/styles.css")
-
   - var tweetsCountsArr = stats.map(function(author) { return author.tweets; });
   - var maxTweets = Math.max.apply(Math, tweetsCountsArr);
   .container
