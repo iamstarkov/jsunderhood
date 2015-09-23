@@ -85,9 +85,11 @@ const post = (author, post = true) => {
           ].join('/');
           const time = moment(new Date(tweet.created_at)).format('H:mm');
           return [
-            renderTweet(tweet),
-            `<a class="time" href="${link}">${time}</a>`
-          ].join(' ');
+            `<div class="tweet">\n`,
+              renderTweet(tweet),
+              ` <a class="tweet__time" href="${link}">${time}</a>\n`,
+            `</div>`
+          ].join('\n');
         }).join('\n\n'),
       ].join('\n\n');
     }).join('\n\n'),

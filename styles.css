@@ -241,11 +241,11 @@ tr {
   }
 }
 
-p {
+.tweet {
   position: relative;
 }
 
-.time {
+.tweet__time {
   display: block;
   color: rgb(160, 160, 160);
   font-size: 12px;
@@ -253,7 +253,7 @@ p {
 }
 
 @media (min-width: 769px) {
-  .time {
+  .tweet__time {
     position: absolute;
     top: 1px;
     right: 100%;
@@ -261,7 +261,7 @@ p {
     display: inline-block;
   }
 
-  .time:hover {
+  .tweet__time:hover {
     text-decoration: none;
   }
 }
