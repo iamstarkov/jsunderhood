@@ -1,6 +1,5 @@
 'use strict';
 
-import assign from 'object-assign';
 import buildbranch from 'buildbranch';
 import del from 'del';
 import each from 'each-done';
@@ -50,8 +49,8 @@ var jadeDefaults = {
   }
 };
 const getOptions = (opts = {}) =>
-  assign({}, jadeDefaults, opts, {
-    locals: assign({}, jadeDefaults.locals, opts.locals)
+  Object.assign({}, jadeDefaults, opts, {
+    locals: Object.assign({}, jadeDefaults.locals, opts.locals)
   });
 
 const jade = opts => gulpJade(getOptions(opts));
@@ -147,7 +146,7 @@ gulp.task('about-page', function() {
 
   return gulp.src('layouts/article.jade')
     .pipe(jade({
-      locals: assign({}, article, {
+      locals: Object.assign({}, article, {
         title: 'О проекте',
         url: 'about/',
       })
@@ -172,7 +171,7 @@ gulp.task('articles-pages', function(done) {
 gulp.task('rss', function(done) {
   var feed = new rss(site);
   articles.forEach(function(article) {
-    feed.item(assign({}, article, article.rss));
+    feed.item(Object.assign({}, article, article.rss));
   });
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
