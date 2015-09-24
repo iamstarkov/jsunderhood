@@ -61,6 +61,7 @@ const articleHarvesting = () => {
     const url = getBasename(file);
     const title = article.title;
     const author = fs.readJsonSync('./dump/' + title + '.json');
+    const firstTweet = author.tweets[author.tweets.length - 1];
     const isReadme = getBasename(file) === 'README';
 
     articles.push({
@@ -69,14 +70,14 @@ const articleHarvesting = () => {
       url: isReadme ? 'about/' : url + '/',
       title: isReadme ? 'О проекте' : title,
       image: article.image,
-      desc: html(renderTweet(author.tweets[author.tweets.length - 1])),
-      descText: author.tweets[author.tweets.length - 1].text,
-      date: d(author.tweets[author.tweets.length - 1].created_at),
+      desc: html(renderTweet(firstTweet)),
+      descText: firstTweet.text,
+      date: d(firstTweet.created_at),
       content: article.content,
       latestInfo: latestInfo,
       rss: {
         url: site.site_url + getBasename(file) + '/',
-        description: author.tweets[author.tweets.length - 1].text
+        description: firstTweet.text
       }
     });
     articles.sort((a, b) => unix(b.date) - unix(a.date));
