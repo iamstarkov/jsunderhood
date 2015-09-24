@@ -1,39 +1,40 @@
 'use strict';
 
-var through = require('through2');
-var gulp = require('gulp');
-var watch = require('gulp-watch');
-var rename = require('gulp-rename');
-var data = require('gulp-data');
-var gulpJade = require('gulp-jade');
-var debug = require('gulp-debug');
-var replace = require('gulp-replace');
-var log = require('gulp-util').log;
-var buildbranch = require('buildbranch');
-var rss = require('rss');
-var del = require('del');
-var fs = require('fs-extra');
-var output = require('fs-extra').outputFile;
-var express = require('express');
-var assign = require('object-assign');
-var sequence = require('run-sequence');
-var each = require('each-done');
-var path = require('path');
-var numd = require('numd');
-var numbers = require('typographic-numbers');
-var gm = require('gulp-gm');
-
-import renderTweet from 'tweet.md';
+import assign from 'object-assign';
+import buildbranch from 'buildbranch';
+import del from 'del';
+import each from 'each-done';
+import express from 'express';
+import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
+import moment from 'moment';
+import numbers from 'typographic-numbers';
+import numd from 'numd';
+import path from 'path';
+import rss from 'rss';
+import sequence from 'run-sequence';
+import through from 'through2';
+import renderTweet from 'tweet.md';
 
-var latestInfo = fs.readJsonSync('./dump/latest-info.json');
-var authors = require('./authors.js');
-var getStats = require('./stats.js');
+import gulp from 'gulp';
+import data from 'gulp-data';
+import debug from 'gulp-debug';
+import gm from 'gulp-gm';
+import gulpJade from 'gulp-jade';
+import rename from 'gulp-rename';
+import replace from 'gulp-replace';
+import watch from 'gulp-watch';
+import { log } from 'gulp-util';
 
-var moment = require('moment');
+import articleData from './article-data';
+import authors from './authors.js';
+import getStats from './stats.js';
+
+import latestInfo from './dump/latest-info.json';
+import { site } from './package.json';
+
 var d = function(input) { return moment(new Date(input)).format("DD MMMM YYYY"); };
 var unix = function(text) { return moment(new Date(text)).unix(); }
-var site = require('./package.json').site;
 
 var getBasename = function(file) {
   return path.basename(file.relative, path.extname(file.relative));
@@ -55,7 +56,6 @@ const getOptions = (opts = {}) =>
 
 const jade = opts => gulpJade(getOptions(opts));
 
-var articleData = require('./article-data');
 
 var articles = [];
 var articleHarvesting = function() {
