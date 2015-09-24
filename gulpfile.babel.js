@@ -46,15 +46,15 @@ const jadeDefaults = {
     people: numd('человек', 'человека', 'человек'),
   }
 };
-const getOptions = (opts = {}) =>
-  Object.assign({}, jadeDefaults, opts, {
-    locals: Object.assign({}, jadeDefaults.locals, opts.locals)
-  });
+
+const getOptions = (opts = {}) => Object.assign({}, jadeDefaults, opts, {
+  locals: Object.assign({}, jadeDefaults.locals, opts.locals)
+});
 
 const jade = opts => gulpJade(getOptions(opts));
 
-
 let articles = [];
+
 const articleHarvesting = () => {
   return through.obj((file, enc, cb) => {
     const article = articleData(file.contents.toString());
@@ -115,8 +115,6 @@ gulp.task('index-page', () => {
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist'));
 });
-
-
 
 gulp.task('stats-page', () => gulp.src('layouts/stats.jade')
   .pipe(jade({
