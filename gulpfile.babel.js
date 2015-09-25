@@ -1,5 +1,3 @@
-'use strict';
-
 import buildbranch from 'buildbranch';
 import del from 'del';
 import each from 'each-done';
