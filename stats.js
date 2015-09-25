@@ -1,16 +1,15 @@
-import assign from 'object-assign';
 import stats from 'tweets-stats';
 import maxValues from 'max-values'
 
 const getStatsPerAuthor = authors =>
   authors
-    .map(author => (assign({}, author, { followers: author.info.followers_count })))
-    .map((author, i, arr) => (assign({}, author, {
+    .map(author => (Object.assign({}, author, { followers: author.info.followers_count })))
+    .map((author, i, arr) => (Object.assign({}, author, {
       gainedFollowers: arr[i + 1]
         ? (author.followers - arr[i + 1].followers)
         : author.followers
     })))
-    .map(author => assign({}, author, stats(author.tweets)))
+    .map(author => Object.assign({}, author, stats(author.tweets)))
 
 export default function getStats(authors) {
   return maxValues(getStatsPerAuthor(authors), [
