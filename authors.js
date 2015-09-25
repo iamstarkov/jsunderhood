@@ -1,4 +1,3 @@
-import assign from 'object-assign';
 import fs from 'fs-extra';
 
 export default [
