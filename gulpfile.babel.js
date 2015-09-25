@@ -45,16 +45,17 @@ const jadeDefaults = {
   }
 };
 
-const getOptions = (opts = {}) => Object.assign({}, jadeDefaults, opts, {
-  locals: Object.assign({}, jadeDefaults.locals, opts.locals)
-});
+const getOptions = (opts = {}) =>
+  Object.assign({}, jadeDefaults, opts, {
+    locals: Object.assign({}, jadeDefaults.locals, opts.locals)
+  });
 
 const jade = opts => gulpJade(getOptions(opts));
 
 let articles = [];
 
-const articleHarvesting = () => {
-  return through.obj((file, enc, cb) => {
+const articleHarvesting = () =>
+  through.obj((file, enc, cb) => {
     const article = articleData(file.contents.toString());
     const url = getBasename(file);
     const title = article.title;
@@ -81,7 +82,6 @@ const articleHarvesting = () => {
     articles.sort((a, b) => unix(b.date) - unix(a.date));
     cb(null, file);
   });
-};
 
 gulp.task('articles-registry', () => {
   articles = [];
@@ -115,18 +115,19 @@ gulp.task('index-page', () => {
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('stats-page', () => gulp.src('layouts/stats.jade')
-  .pipe(jade({
-    locals: {
-      title: 'Статистика jsunderhood',
-      url: 'stats/',
-      desc: site.description,
-      stats: getStats(authors)
-    }
-  }))
-  .pipe(rename({ dirname: 'stats' }))
-  .pipe(rename({ basename: 'index' }))
-  .pipe(gulp.dest('dist')));
+gulp.task('stats-page', () =>
+  gulp.src('layouts/stats.jade')
+    .pipe(jade({
+      locals: {
+        title: 'Статистика jsunderhood',
+        url: 'stats/',
+        desc: site.description,
+        stats: getStats(authors)
+      }
+    }))
+    .pipe(rename({ dirname: 'stats' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(gulp.dest('dist')));
 
 gulp.task('about-page', () => {
   const readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
@@ -144,15 +145,16 @@ gulp.task('about-page', () => {
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('articles-pages', done => each(articles, article => {
-  gulp.src('layouts/article.jade')
-    .pipe(jade({
-      locals: article
-    }))
-    .pipe(rename({ dirname: article.url }))
-    .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist'));
-}, done));
+gulp.task('articles-pages', done =>
+  each(articles, article => {
+    gulp.src('layouts/article.jade')
+      .pipe(jade({
+        locals: article
+      }))
+      .pipe(rename({ dirname: article.url }))
+      .pipe(rename({ basename: 'index' }))
+      .pipe(gulp.dest('dist'));
+  }, done));
 
 gulp.task('rss', done => {
   const feed = new rss(site);
@@ -170,46 +172,47 @@ gulp.task('watch', ['express', 'build'], () => {
 
 gulp.task('clean', done => del('dist', done));
 
+gulp.task('build-common', done =>
+  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'userpics', 'nojekyll', done));
 
-gulp.task('build-common', done => {
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'userpics', 'nojekyll', done);
-});
+gulp.task('build', done =>
+  sequence('articles-registry', 'build-common', done));
 
-gulp.task('build', done => {
-  sequence('articles-registry', 'build-common', done);
-});
+gulp.task('build-prod', done =>
+  sequence('clean', 'articles-registry-prod', 'build-common', done));
 
-gulp.task('build-prod', done => {
-  sequence('clean', 'articles-registry-prod', 'build-common', done);
-});
+gulp.task('cname', () =>
+  gulp.src('CNAME')
+    .pipe(gulp.dest('dist')));
 
-gulp.task('cname', () => gulp.src('CNAME')
-  .pipe(gulp.dest('dist')));
+gulp.task('css-bootstrap', () =>
+  gulp.src('node_modules/bootstrap/dist/**')
+    .pipe(gulp.dest('dist')));
 
-gulp.task('css-bootstrap', () => gulp.src('node_modules/bootstrap/dist/**')
-  .pipe(gulp.dest('dist')));
+gulp.task('userpics', () =>
+  gulp.src('dump/images/*-image*')
+    .pipe(gm(image => image.resize(96,96).setFormat('jpg'), {
+      imageMagick: true
+    }))
+    .pipe(gulp.dest('dist/images')));
 
-gulp.task('userpics', () => gulp.src('dump/images/*-image*')
-  .pipe(gm(image => image.resize(96,96).setFormat('jpg'), {
-    imageMagick: true
-  }))
-  .pipe(gulp.dest('dist/images')));
+gulp.task('css', ['css-bootstrap'], () =>
+  gulp.src('styles.css')
+    .pipe(gulp.dest('dist/css')));
 
-gulp.task('css', ['css-bootstrap'], () => gulp.src('styles.css')
-  .pipe(gulp.dest('dist/css')));
+gulp.task('nojekyll', () =>
+  gulp.src('.nojekyll')
+    .pipe(gulp.dest('dist')));
 
-gulp.task('nojekyll', () => gulp.src('.nojekyll')
-  .pipe(gulp.dest('dist')));
-
-gulp.task('js', () => gulp.src([
+gulp.task('js', () =>
+  gulp.src([
     'node_modules/tablesort/src/tablesort.js',
     'node_modules/tablesort/src/sorts/tablesort.numeric.js'
   ])
-  .pipe(gulp.dest('dist/js')));
+    .pipe(gulp.dest('dist/js')));
 
-gulp.task('gh', ['build-prod'], done => {
-  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done);
-});
+gulp.task('gh', ['build-prod'], done =>
+  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
 
 gulp.task('express', () => {
   const app = express();
