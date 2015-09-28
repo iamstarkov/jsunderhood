@@ -15946,38 +15946,107 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10543,
+    "statuses_count": 10544,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Sep 28 12:06:55 +0000 2015",
-      "id": 648468928730112000,
-      "id_str": "648468928730112000",
-      "text": "@rdvornov да, еще хочу отметить тенденцию к ФП, а значит все будет меняться туда",
+      "created_at": "Mon Sep 28 12:10:50 +0000 2015",
+      "id": 648469913695182800,
+      "id_str": "648469913695182848",
+      "text": "RT @alexeyraspopov: @jsunderhood @rdvornov БОЛЬШЕ ФП БОГУ ФП!",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 648468624911564800,
-      "in_reply_to_status_id_str": "648468624911564801",
-      "in_reply_to_user_id": 1432849934,
-      "in_reply_to_user_id_str": "1432849934",
-      "in_reply_to_screen_name": "rdvornov",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Mon Sep 28 12:07:56 +0000 2015",
+        "id": 648469186289778700,
+        "id_str": "648469186289778688",
+        "text": "@jsunderhood @rdvornov БОЛЬШЕ ФП БОГУ ФП!",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 648468928730112000,
+        "in_reply_to_status_id_str": "648468928730112000",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rdvornov",
+              "name": "Roman Dvornov",
+              "id": 1432849934,
+              "id_str": "1432849934",
+              "indices": [
+                13,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
+            "screen_name": "alexeyraspopov",
+            "name": "Alexey Raspopov",
+            "id": 39017272,
+            "id_str": "39017272",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              20,
+              32
+            ]
+          },
+          {
             "screen_name": "rdvornov",
             "name": "Roman Dvornov",
             "id": 1432849934,
             "id_str": "1432849934",
             "indices": [
-              0,
-              9
+              33,
+              42
             ]
           }
         ],
@@ -15985,7 +16054,7 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "uk"
     },
     "contributors_enabled": false,
     "is_translator": false,
