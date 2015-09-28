@@ -5,6 +5,201 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Sep 28 06:51:43 +0000 2015",
+      "id": 648389608124862500,
+      "id_str": "648389608124862464",
+      "text": "RT @rusgautama: @jsunderhood @mpak999 самый лучший ответ)",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Sep 28 06:48:57 +0000 2015",
+        "id": 648388912067559400,
+        "id_str": "648388912067559424",
+        "text": "@jsunderhood @mpak999 самый лучший ответ)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 648386960340480000,
+        "in_reply_to_status_id_str": "648386960340480000",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 101620431,
+          "id_str": "101620431"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "6676b2b9d4ff6861",
+          "url": "https://api.twitter.com/1.1/geo/id/6676b2b9d4ff6861.json",
+          "place_type": "city",
+          "name": "Kazan",
+          "full_name": "Kazan, Tartarije",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  48.8272762,
+                  55.6704179
+                ],
+                [
+                  49.3119931,
+                  55.6704179
+                ],
+                [
+                  49.3119931,
+                  55.9191384
+                ],
+                [
+                  48.8272762,
+                  55.9191384
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "mpak999",
+              "name": "MpaK",
+              "id": 18864603,
+              "id_str": "18864603",
+              "indices": [
+                13,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rusgautama",
+            "name": "Rus Buddha",
+            "id": 101620431,
+            "id_str": "101620431",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              29,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 06:51:08 +0000 2015",
+      "id": 648389461198422000,
+      "id_str": "648389461198422016",
+      "text": "@rubyunderhood я так понимаю что это трабла с депенденсями, а у тебя не нода 4? я так понимаю что там может быть феерверк",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 648388681863184400,
+      "in_reply_to_status_id_str": "648388681863184384",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Sep 28 06:50:07 +0000 2015",
       "id": 648389202451800000,
       "id_str": "648389202451800064",
@@ -810,7 +1005,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -1702,38 +1897,87 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10384,
+    "statuses_count": 10385,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Sep 28 06:47:53 +0000 2015",
-      "id": 648388643153907700,
-      "id_str": "648388643153907712",
-      "text": "@mistadikay иногда таки надл читать мануал:)",
+      "created_at": "Mon Sep 28 06:50:07 +0000 2015",
+      "id": 648389202451800000,
+      "id_str": "648389202451800064",
+      "text": "RT @rubyunderhood: @jsunderhood не, и имею в виду даже не написание чего-то, а тупо установку ноды или пакета. Там то какой console.log?",
       "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
       "truncated": false,
-      "in_reply_to_status_id": 648387258244988900,
-      "in_reply_to_status_id_str": "648387258244988928",
-      "in_reply_to_user_id": 61156402,
-      "in_reply_to_user_id_str": "61156402",
-      "in_reply_to_screen_name": "mistadikay",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Mon Sep 28 06:48:02 +0000 2015",
+        "id": 648388681863184400,
+        "id_str": "648388681863184384",
+        "text": "@jsunderhood не, и имею в виду даже не написание чего-то, а тупо установку ноды или пакета. Там то какой console.log?",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 648385403309936600,
+        "in_reply_to_status_id_str": "648385403309936640",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "mistadikay",
-            "name": "Denis Koltsov",
-            "id": 61156402,
-            "id_str": "61156402",
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
             "indices": [
-              0,
-              11
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              19,
+              31
             ]
           }
         ],
