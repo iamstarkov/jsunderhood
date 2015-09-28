@@ -265,3 +265,9 @@ tr {
     text-decoration: none;
   }
 }
+
+.url {
+	display: block;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+}
