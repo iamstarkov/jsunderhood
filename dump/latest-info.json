@@ -28,123 +28,52 @@
   "protected": false,
   "followers_count": 1953,
   "friends_count": 2,
-  "listed_count": 91,
+  "listed_count": 92,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 1,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10449,
+  "statuses_count": 10450,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 28 08:38:14 +0000 2015",
-    "id": 648416414655742000,
-    "id_str": "648416414655741952",
-    "text": ".@andexds есть #nodejs,#react,#FP и еще много чего https://t.co/B9e5hWa5iU http://t.co/arBcmibQMB",
+    "created_at": "Mon Sep 28 08:50:32 +0000 2015",
+    "id": 648419508349235200,
+    "id_str": "648419508349235200",
+    "text": "@mamyashev он модифицирует нпм модули чтоб работать с ними, это неправильно",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 648415458442510300,
-    "in_reply_to_status_id_str": "648415458442510336",
-    "in_reply_to_user_id": 392117271,
-    "in_reply_to_user_id_str": "392117271",
-    "in_reply_to_screen_name": "andexds",
+    "in_reply_to_status_id": 648419205809860600,
+    "in_reply_to_status_id_str": "648419205809860608",
+    "in_reply_to_user_id": 16947104,
+    "in_reply_to_user_id_str": "16947104",
+    "in_reply_to_screen_name": "mamyashev",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [
-        {
-          "text": "nodejs",
-          "indices": [
-            15,
-            22
-          ]
-        },
-        {
-          "text": "react",
-          "indices": [
-            23,
-            29
-          ]
-        },
-        {
-          "text": "FP",
-          "indices": [
-            30,
-            33
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "andexds",
-          "name": "Андрей Анашкин",
-          "id": 392117271,
-          "id_str": "392117271",
+          "screen_name": "mamyashev",
+          "name": "Marat Mamyashev",
+          "id": 16947104,
+          "id_str": "16947104",
           "indices": [
-            1,
-            9
+            0,
+            10
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/B9e5hWa5iU",
-          "expanded_url": "https://gitter.im/dev-ua",
-          "display_url": "gitter.im/dev-ua",
-          "indices": [
-            51,
-            74
-          ]
-        }
-      ],
-      "media": [
-        {
-          "id": 648416413670051800,
-          "id_str": "648416413670051840",
-          "indices": [
-            75,
-            97
-          ],
-          "media_url": "http://pbs.twimg.com/media/CP-jSvNWEAAuRS_.png",
-          "media_url_https": "https://pbs.twimg.com/media/CP-jSvNWEAAuRS_.png",
-          "url": "http://t.co/arBcmibQMB",
-          "display_url": "pic.twitter.com/arBcmibQMB",
-          "expanded_url": "http://twitter.com/jsunderhood/status/648416414655741952/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 603,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 353,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
