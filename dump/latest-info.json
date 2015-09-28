@@ -35,38 +35,103 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10393,
+  "statuses_count": 10396,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 28 07:01:53 +0000 2015",
-    "id": 648392166587428900,
-    "id_str": "648392166587428865",
-    "text": "@mpak999 фишка в том, что знания - тлен, опыт реально решает, а получить опыт и знания можно только если ебашить",
+    "created_at": "Mon Sep 28 07:04:52 +0000 2015",
+    "id": 648392917715951600,
+    "id_str": "648392917715951616",
+    "text": "RT @poltavajs: @jsunderhood как стать отличным программистом,отличная тема #juniorjs очень актуальная!!!",
     "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
     "truncated": false,
-    "in_reply_to_status_id": 648391023907856400,
-    "in_reply_to_status_id_str": "648391023907856384",
-    "in_reply_to_user_id": 18864603,
-    "in_reply_to_user_id_str": "18864603",
-    "in_reply_to_screen_name": "mpak999",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Sep 28 06:59:54 +0000 2015",
+      "id": 648391665032527900,
+      "id_str": "648391665032527872",
+      "text": "@jsunderhood как стать отличным программистом,отличная тема #juniorjs очень актуальная!!!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "juniorjs",
+            "indices": [
+              60,
+              69
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "juniorjs",
+          "indices": [
+            75,
+            84
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mpak999",
-          "name": "MpaK",
-          "id": 18864603,
-          "id_str": "18864603",
+          "screen_name": "poltavajs",
+          "name": "Poltava JS",
+          "id": 3664283181,
+          "id_str": "3664283181",
           "indices": [
-            0,
-            8
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            15,
+            27
           ]
         }
       ],
