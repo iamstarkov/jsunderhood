@@ -35,78 +35,89 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10397,
+  "statuses_count": 10401,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 28 07:05:44 +0000 2015",
-    "id": 648393134645375000,
-    "id_str": "648393134645374976",
-    "text": ".@poltavajs я тут написал краткий мануал, как стать отличным программистом http://t.co/VJOQivFS6C",
-    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "created_at": "Mon Sep 28 07:11:31 +0000 2015",
+    "id": 648394589099946000,
+    "id_str": "648394589099945984",
+    "text": "RT @mktoid: В любой непонятной ситуации пиши код https://t.co/LSNBn94I51",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 648391665032527900,
-    "in_reply_to_status_id_str": "648391665032527872",
-    "in_reply_to_user_id": 3664283181,
-    "in_reply_to_user_id_str": "3664283181",
-    "in_reply_to_screen_name": "poltavajs",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Mon Sep 28 07:10:35 +0000 2015",
+      "id": 648394354214719500,
+      "id_str": "648394354214719488",
+      "text": "В любой непонятной ситуации пиши код https://t.co/LSNBn94I51",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LSNBn94I51",
+            "expanded_url": "https://twitter.com/jsunderhood/status/648393134645374976",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "poltavajs",
-          "name": "Poltava JS",
-          "id": 3664283181,
-          "id_str": "3664283181",
+          "screen_name": "mktoid",
+          "name": "Oleg Cheremisin",
+          "id": 281644224,
+          "id_str": "281644224",
           "indices": [
-            1,
-            11
+            3,
+            10
           ]
         }
       ],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 648393134221557800,
-          "id_str": "648393134221557760",
+          "url": "https://t.co/LSNBn94I51",
+          "expanded_url": "https://twitter.com/jsunderhood/status/648393134645374976",
+          "display_url": "twitter.com/jsunderhood/st…",
           "indices": [
-            75,
-            97
-          ],
-          "media_url": "http://pbs.twimg.com/media/CP-OHsgUAAA6Xky.png",
-          "media_url_https": "https://pbs.twimg.com/media/CP-OHsgUAAA6Xky.png",
-          "url": "http://t.co/VJOQivFS6C",
-          "display_url": "pic.twitter.com/VJOQivFS6C",
-          "expanded_url": "http://twitter.com/jsunderhood/status/648393134645374976/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 600,
-              "h": 191,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 340,
-              "h": 108,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1024,
-              "h": 326,
-              "resize": "fit"
-            }
-          }
+            49,
+            72
+          ]
         }
       ]
     },
