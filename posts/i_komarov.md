@@ -698,18 +698,18 @@ RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderho
 
 ## Ссылки
 
-<a href="http://sockpuppet.org/blog/2015/03/06/the-hiring-post/" target="_blank">http://sockpuppet.org/blog/2015/03/06/the-hiring-post/</a>  
-<a href="http://www.radio-t.com/p/2015/05/02/podcast-442/" target="_blank">http://www.radio-t.com/p/2015/05/02/podcast-442/</a>  
-<a href="http://shop.oreilly.com/product/9780596159825.do" target="_blank">http://shop.oreilly.com/product/9780596159825.do</a>  
-<a href="http://dfyz.livejournal.com/189261.html" target="_blank">http://dfyz.livejournal.com/189261.html</a>  
-<a href="http://dfyz.livejournal.com/190120.html" target="_blank">http://dfyz.livejournal.com/190120.html</a>  
-<a href="http://rosalind.info" target="_blank">http://rosalind.info</a>  
-<a href="http://www.csedays.ru/theory2014/tindexes" target="_blank">http://www.csedays.ru/theory2014/tindexes</a>  
-<a href="http://yager.io/programming/go.html" target="_blank">http://yager.io/programming/go.html</a>  
-<a href="http://graphite.readthedocs.org/en/latest/overview.html" target="_blank">http://graphite.readthedocs.org/en/latest/overview.html</a>  
-<a href="http://colemak.com/" target="_blank">http://colemak.com/</a>  
-<a href="http://www.kaufmann.no/roland/dvorak/" target="_blank">http://www.kaufmann.no/roland/dvorak/</a>  
-<a href="http://ergosolo.ru/reviews/history/alternative_layouts/" target="_blank">http://ergosolo.ru/reviews/history/alternative_layouts/</a>  
-<a href="https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/" target="_blank">https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/</a>  
-<a href="http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/" target="_blank">http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/</a>  
-<a href="http://habrahabr.ru/company/yandex/blog/258823/" target="_blank">http://habrahabr.ru/company/yandex/blog/258823/</a>
+<a class="url" href="http://sockpuppet.org/blog/2015/03/06/the-hiring-post/" target="_blank">http://sockpuppet.org/blog/2015/03/06/the-hiring-post/</a>
+<a class="url" href="http://www.radio-t.com/p/2015/05/02/podcast-442/" target="_blank">http://www.radio-t.com/p/2015/05/02/podcast-442/</a>
+<a class="url" href="http://shop.oreilly.com/product/9780596159825.do" target="_blank">http://shop.oreilly.com/product/9780596159825.do</a>
+<a class="url" href="http://dfyz.livejournal.com/189261.html" target="_blank">http://dfyz.livejournal.com/189261.html</a>
+<a class="url" href="http://dfyz.livejournal.com/190120.html" target="_blank">http://dfyz.livejournal.com/190120.html</a>
+<a class="url" href="http://rosalind.info" target="_blank">http://rosalind.info</a>
+<a class="url" href="http://www.csedays.ru/theory2014/tindexes" target="_blank">http://www.csedays.ru/theory2014/tindexes</a>
+<a class="url" href="http://yager.io/programming/go.html" target="_blank">http://yager.io/programming/go.html</a>
+<a class="url" href="http://graphite.readthedocs.org/en/latest/overview.html" target="_blank">http://graphite.readthedocs.org/en/latest/overview.html</a>
+<a class="url" href="http://colemak.com/" target="_blank">http://colemak.com/</a>
+<a class="url" href="http://www.kaufmann.no/roland/dvorak/" target="_blank">http://www.kaufmann.no/roland/dvorak/</a>
+<a class="url" href="http://ergosolo.ru/reviews/history/alternative_layouts/" target="_blank">http://ergosolo.ru/reviews/history/alternative_layouts/</a>
+<a class="url" href="https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/" target="_blank">https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/</a>
+<a class="url" href="http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/" target="_blank">http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/</a>
+<a class="url" href="http://habrahabr.ru/company/yandex/blog/258823/" target="_blank">http://habrahabr.ru/company/yandex/blog/258823/</a>

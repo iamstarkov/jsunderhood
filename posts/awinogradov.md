@@ -825,23 +825,23 @@ RT [@tproger](https://twitter.com/tproger "Типичный программис
 
 ## Ссылки
 
-<a href="https://github.com/verybigman" target="_blank">https://github.com/verybigman</a>  
-<a href="https://github.com/bem/bem-forms" target="_blank">https://github.com/bem/bem-forms</a>  
-<a href="http://frontendconf.ru/2015/abstracts/1723" target="_blank">http://frontendconf.ru/2015/abstracts/1723</a>  
-<a href="https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier" target="_blank">https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier</a>  
-<a href="http://akshaykumar6.github.io/github-js/" target="_blank">http://akshaykumar6.github.io/github-js/</a>  
-<a href="http://www.youtube.com/watch?v=fQuImk7VvMg" target="_blank">http://www.youtube.com/watch?v=fQuImk7VvMg</a>  
-<a href="http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-" target="_blank">http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-</a>  
-<a href="http://materialup.com" target="_blank">http://materialup.com</a>  
-<a href="http://css-weekly.com" target="_blank">http://css-weekly.com</a>  
-<a href="http://ewebdesign.com" target="_blank">http://ewebdesign.com</a>  
-<a href="http://html5weekly.com" target="_blank">http://html5weekly.com</a>  
-<a href="http://hackingui.com" target="_blank">http://hackingui.com</a>  
-<a href="http://nodeweekly.com" target="_blank">http://nodeweekly.com</a>  
-<a href="http://responsivedesignweekly.com" target="_blank">http://responsivedesignweekly.com</a>  
-<a href="http://web-design-weekly.com" target="_blank">http://web-design-weekly.com</a>  
-<a href="http://webtoolsweekly.com" target="_blank">http://webtoolsweekly.com</a>  
-<a href="http://wdrl.info" target="_blank">http://wdrl.info</a>  
-<a href="http://javascriptweekly.com" target="_blank">http://javascriptweekly.com</a>  
-<a href="http://wamer.net/sketch" target="_blank">http://wamer.net/sketch</a>  
-<a href="http://meandmax.github.io/lory" target="_blank">http://meandmax.github.io/lory</a>
+<a class="url" href="https://github.com/verybigman" target="_blank">https://github.com/verybigman</a>
+<a class="url" href="https://github.com/bem/bem-forms" target="_blank">https://github.com/bem/bem-forms</a>
+<a class="url" href="http://frontendconf.ru/2015/abstracts/1723" target="_blank">http://frontendconf.ru/2015/abstracts/1723</a>
+<a class="url" href="https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier" target="_blank">https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations#use-block-element-modifier</a>
+<a class="url" href="http://akshaykumar6.github.io/github-js/" target="_blank">http://akshaykumar6.github.io/github-js/</a>
+<a class="url" href="http://www.youtube.com/watch?v=fQuImk7VvMg" target="_blank">http://www.youtube.com/watch?v=fQuImk7VvMg</a>
+<a class="url" href="http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-" target="_blank">http://getbem.com/faq/#i-ve-heard-that-bem-does-not-recommend-global-css-resets-why-</a>
+<a class="url" href="http://materialup.com" target="_blank">http://materialup.com</a>
+<a class="url" href="http://css-weekly.com" target="_blank">http://css-weekly.com</a>
+<a class="url" href="http://ewebdesign.com" target="_blank">http://ewebdesign.com</a>
+<a class="url" href="http://html5weekly.com" target="_blank">http://html5weekly.com</a>
+<a class="url" href="http://hackingui.com" target="_blank">http://hackingui.com</a>
+<a class="url" href="http://nodeweekly.com" target="_blank">http://nodeweekly.com</a>
+<a class="url" href="http://responsivedesignweekly.com" target="_blank">http://responsivedesignweekly.com</a>
+<a class="url" href="http://web-design-weekly.com" target="_blank">http://web-design-weekly.com</a>
+<a class="url" href="http://webtoolsweekly.com" target="_blank">http://webtoolsweekly.com</a>
+<a class="url" href="http://wdrl.info" target="_blank">http://wdrl.info</a>
+<a class="url" href="http://javascriptweekly.com" target="_blank">http://javascriptweekly.com</a>
+<a class="url" href="http://wamer.net/sketch" target="_blank">http://wamer.net/sketch</a>
+<a class="url" href="http://meandmax.github.io/lory" target="_blank">http://meandmax.github.io/lory</a>

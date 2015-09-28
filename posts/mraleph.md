@@ -1303,37 +1303,37 @@ RT [@beshkenadze](https://twitter.com/beshkenadze "Александр Бешке
 ## Ссылки
 
 ### mrale.ph  
-<a href="http://mrale.ph/irhydra/2/#gist:88ef8e9f7d8b17090777" target="_blank">http://mrale.ph/irhydra/2/#gist:88ef8e9f7d8b17090777</a>  
-<a href="http://mrale.ph/irhydra/2/" target="_blank">http://mrale.ph/irhydra/2/</a>  
-<a href="http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html" target="_blank">http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html</a>  
-<a href="http://mrale.ph/saga/" target="_blank">http://mrale.ph/saga/</a>  
-<a href="http://mrale.ph/blog/2015/04/12/jsunderhood.html" target="_blank">http://mrale.ph/blog/2015/04/12/jsunderhood.html</a>  
-<a href="http://mrale.ph" target="_blank">http://mrale.ph</a>
+<a class="url" href="http://mrale.ph/irhydra/2/#gist:88ef8e9f7d8b17090777" target="_blank">http://mrale.ph/irhydra/2/#gist:88ef8e9f7d8b17090777</a>
+<a class="url" href="http://mrale.ph/irhydra/2/" target="_blank">http://mrale.ph/irhydra/2/</a>
+<a class="url" href="http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html" target="_blank">http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html</a>
+<a class="url" href="http://mrale.ph/saga/" target="_blank">http://mrale.ph/saga/</a>
+<a class="url" href="http://mrale.ph/blog/2015/04/12/jsunderhood.html" target="_blank">http://mrale.ph/blog/2015/04/12/jsunderhood.html</a>
+<a class="url" href="http://mrale.ph" target="_blank">http://mrale.ph</a>
 
 ### Другие
 
-<a href="http://llvmweekly.org/issue/66" target="_blank">http://llvmweekly.org/issue/66</a>  
-<a href="https://people.mozilla.org/~jorendorff/es6-draft.html#sec-%typedarray%.prototype" target="_blank">https://people.mozilla.org/~jorendorff/es6-draft.html#sec-%typedarray%.prototype</a>  
-<a href="https://gist.github.com/mraleph/88ef8e9f7d8b17090777" target="_blank">https://gist.github.com/mraleph/88ef8e9f7d8b17090777</a>  
-<a href="https://gist.github.com/mraleph/141f0ed76bd24fb28243" target="_blank">https://gist.github.com/mraleph/141f0ed76bd24fb28243</a>  
-<a href="http://fantlab.ru/work65898" target="_blank">http://fantlab.ru/work65898</a>  
-<a href="https://mpi-sws.org/~viktor/papers/popl2015-c11comp.pdf" target="_blank">https://mpi-sws.org/~viktor/papers/popl2015-c11comp.pdf</a>  
-<a href="https://docs.google.com/document/d/1NDGA_gZJ7M7w1Bh8S0AoDyEqwDdRh4uSoTPSNn77PFk/view" target="_blank">https://docs.google.com/document/d/1NDGA_gZJ7M7w1Bh8S0AoDyEqwDdRh4uSoTPSNn77PFk/view</a>  
-<a href="https://github.com/v8/v8-git-mirror/blob/ba41489da55a3484ceb5ac84c07de546578a2161/src/array.js#L1176-L1205" target="_blank">https://github.com/v8/v8-git-mirror/blob/ba41489da55a3484ceb5ac84c07de546578a2161/src/array.js#L1176-L1205</a>  
-<a href="https://github.com/babel/babel/issues/1176" target="_blank">https://github.com/babel/babel/issues/1176</a>  
-<a href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript" target="_blank">https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript</a>  
-<a href="http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects" target="_blank">http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects</a>  
-<a href="http://arewepythonyet.com/" target="_blank">http://arewepythonyet.com/</a>  
-<a href="https://www.youtube.com/watch?v=_2xa46ytiSs" target="_blank">https://www.youtube.com/watch?v=_2xa46ytiSs</a>  
-<a href="https://www.youtube.com/watch?v=foGkU6x3eSE" target="_blank">https://www.youtube.com/watch?v=foGkU6x3eSE</a>  
-<a href="https://developers.google.com/v8/experiments" target="_blank">https://developers.google.com/v8/experiments</a>  
-<a href="http://en.wikipedia.org/wiki/TrueNorth" target="_blank">http://en.wikipedia.org/wiki/TrueNorth</a>  
-<a href="http://en.wikipedia.org/wiki/String_interning" target="_blank">http://en.wikipedia.org/wiki/String_interning</a>  
-<a href="http://dl1.frz.ir/FREE/papers-we-love/new_paradigms/cognitive-computing-programming-paradigm-corelet-language.pdf" target="_blank">http://dl1.frz.ir/FREE/papers-we-love/new_paradigms/cognitive-computing-programming-paradigm-corelet-language.pdf</a>  
-<a href="http://www.infoq.com/presentations/power-144-chip" target="_blank">http://www.infoq.com/presentations/power-144-chip</a>  
-<a href="http://jsperf.com/es6-map-vs-object-lookup" target="_blank">http://jsperf.com/es6-map-vs-object-lookup</a>  
-<a href="https://chromium.googlesource.com/chromium/src/+/master/tools/binary_size" target="_blank">https://chromium.googlesource.com/chromium/src/+/master/tools/binary_size</a>  
-<a href="http://stackoverflow.com/questions/29424013/strange-javascript-performance" target="_blank">http://stackoverflow.com/questions/29424013/strange-javascript-performance</a>  
-<a href="http://stackoverflow.com/questions/29424013/strange-javascript-performance/29562128#29562128" target="_blank">http://stackoverflow.com/questions/29424013/strange-javascript-performance/29562128#29562128</a>  
-<a href="https://codereview.chromium.org/1077113002/" target="_blank">https://codereview.chromium.org/1077113002/</a>  
-<a href="http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/" target="_blank">http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/</a>
+<a class="url" href="http://llvmweekly.org/issue/66" target="_blank">http://llvmweekly.org/issue/66</a>
+<a class="url" href="https://people.mozilla.org/~jorendorff/es6-draft.html#sec-%typedarray%.prototype" target="_blank">https://people.mozilla.org/~jorendorff/es6-draft.html#sec-%typedarray%.prototype</a>
+<a class="url" href="https://gist.github.com/mraleph/88ef8e9f7d8b17090777" target="_blank">https://gist.github.com/mraleph/88ef8e9f7d8b17090777</a>
+<a class="url" href="https://gist.github.com/mraleph/141f0ed76bd24fb28243" target="_blank">https://gist.github.com/mraleph/141f0ed76bd24fb28243</a>
+<a class="url" href="http://fantlab.ru/work65898" target="_blank">http://fantlab.ru/work65898</a>
+<a class="url" href="https://mpi-sws.org/~viktor/papers/popl2015-c11comp.pdf" target="_blank">https://mpi-sws.org/~viktor/papers/popl2015-c11comp.pdf</a>
+<a class="url" href="https://docs.google.com/document/d/1NDGA_gZJ7M7w1Bh8S0AoDyEqwDdRh4uSoTPSNn77PFk/view" target="_blank">https://docs.google.com/document/d/1NDGA_gZJ7M7w1Bh8S0AoDyEqwDdRh4uSoTPSNn77PFk/view</a>
+<a class="url" href="https://github.com/v8/v8-git-mirror/blob/ba41489da55a3484ceb5ac84c07de546578a2161/src/array.js#L1176-L1205" target="_blank">https://github.com/v8/v8-git-mirror/blob/ba41489da55a3484ceb5ac84c07de546578a2161/src/array.js#L1176-L1205</a>
+<a class="url" href="https://github.com/babel/babel/issues/1176" target="_blank">https://github.com/babel/babel/issues/1176</a>
+<a class="url" href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript" target="_blank">https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript</a>
+<a class="url" href="http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects" target="_blank">http://wiki.ecmascript.org/doku.php?id=harmony:typed_objects</a>
+<a class="url" href="http://arewepythonyet.com/" target="_blank">http://arewepythonyet.com/</a>
+<a class="url" href="https://www.youtube.com/watch?v=_2xa46ytiSs" target="_blank">https://www.youtube.com/watch?v=_2xa46ytiSs</a>
+<a class="url" href="https://www.youtube.com/watch?v=foGkU6x3eSE" target="_blank">https://www.youtube.com/watch?v=foGkU6x3eSE</a>
+<a class="url" href="https://developers.google.com/v8/experiments" target="_blank">https://developers.google.com/v8/experiments</a>
+<a class="url" href="http://en.wikipedia.org/wiki/TrueNorth" target="_blank">http://en.wikipedia.org/wiki/TrueNorth</a>
+<a class="url" href="http://en.wikipedia.org/wiki/String_interning" target="_blank">http://en.wikipedia.org/wiki/String_interning</a>
+<a class="url" href="http://dl1.frz.ir/FREE/papers-we-love/new_paradigms/cognitive-computing-programming-paradigm-corelet-language.pdf" target="_blank">http://dl1.frz.ir/FREE/papers-we-love/new_paradigms/cognitive-computing-programming-paradigm-corelet-language.pdf</a>
+<a class="url" href="http://www.infoq.com/presentations/power-144-chip" target="_blank">http://www.infoq.com/presentations/power-144-chip</a>
+<a class="url" href="http://jsperf.com/es6-map-vs-object-lookup" target="_blank">http://jsperf.com/es6-map-vs-object-lookup</a>
+<a class="url" href="https://chromium.googlesource.com/chromium/src/+/master/tools/binary_size" target="_blank">https://chromium.googlesource.com/chromium/src/+/master/tools/binary_size</a>
+<a class="url" href="http://stackoverflow.com/questions/29424013/strange-javascript-performance" target="_blank">http://stackoverflow.com/questions/29424013/strange-javascript-performance</a>
+<a class="url" href="http://stackoverflow.com/questions/29424013/strange-javascript-performance/29562128#29562128" target="_blank">http://stackoverflow.com/questions/29424013/strange-javascript-performance/29562128#29562128</a>
+<a class="url" href="https://codereview.chromium.org/1077113002/" target="_blank">https://codereview.chromium.org/1077113002/</a>
+<a class="url" href="http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/" target="_blank">http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/</a>

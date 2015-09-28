@@ -3746,98 +3746,98 @@ RT [@cdrpro\_ru](https://twitter.com/cdrpro_ru "Sancho"): [@jsunderhood](https:/
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/operasoftware/shinydemos" target="_blank">https://github.com/operasoftware/shinydemos</a>  
-<a href="https://github.com/operasoftware/devopera" target="_blank">https://github.com/operasoftware/devopera</a>  
-<a href="https://github.com/shower/core/graphs/contributors" target="_blank">https://github.com/shower/core/graphs/contributors</a>  
-<a href="https://github.com/shower/core/tree/dev" target="_blank">https://github.com/shower/core/tree/dev</a>  
-<a href="https://github.com/shower/ribbon/tree/next" target="_blank">https://github.com/shower/ribbon/tree/next</a>  
-<a href="https://github.com/shower/core/blob/dev/tests/functional/core.js" target="_blank">https://github.com/shower/core/blob/dev/tests/functional/core.js</a>  
-<a href="https://github.com/web-standards-ru" target="_blank">https://github.com/web-standards-ru</a>  
-<a href="https://github.com/mathiasbynens/dotfiles/" target="_blank">https://github.com/mathiasbynens/dotfiles/</a>  
-<a href="https://github.com/buymeasoda/soda-theme" target="_blank">https://github.com/buymeasoda/soda-theme</a>  
-<a href="https://github.com/shower/ribbon/blob/master/.editorconfig" target="_blank">https://github.com/shower/ribbon/blob/master/.editorconfig</a>  
-<a href="https://github.com/guipdutra/awesome-geek-podcasts" target="_blank">https://github.com/guipdutra/awesome-geek-podcasts</a>  
-<a href="https://github.com/operasoftware/devopera/blob/master/.htaccess" target="_blank">https://github.com/operasoftware/devopera/blob/master/.htaccess</a>  
-<a href="https://github.com/nnfrontend" target="_blank">https://github.com/nnfrontend</a>  
-<a href="https://github.com/operasoftware/devopera/pull/327" target="_blank">https://github.com/operasoftware/devopera/pull/327</a>  
-<a href="https://github.com/operasoftware/devopera/pull/249" target="_blank">https://github.com/operasoftware/devopera/pull/249</a>  
+<a class="url" href="https://github.com/operasoftware/shinydemos" target="_blank">https://github.com/operasoftware/shinydemos</a>
+<a class="url" href="https://github.com/operasoftware/devopera" target="_blank">https://github.com/operasoftware/devopera</a>
+<a class="url" href="https://github.com/shower/core/graphs/contributors" target="_blank">https://github.com/shower/core/graphs/contributors</a>
+<a class="url" href="https://github.com/shower/core/tree/dev" target="_blank">https://github.com/shower/core/tree/dev</a>
+<a class="url" href="https://github.com/shower/ribbon/tree/next" target="_blank">https://github.com/shower/ribbon/tree/next</a>
+<a class="url" href="https://github.com/shower/core/blob/dev/tests/functional/core.js" target="_blank">https://github.com/shower/core/blob/dev/tests/functional/core.js</a>
+<a class="url" href="https://github.com/web-standards-ru" target="_blank">https://github.com/web-standards-ru</a>
+<a class="url" href="https://github.com/mathiasbynens/dotfiles/" target="_blank">https://github.com/mathiasbynens/dotfiles/</a>
+<a class="url" href="https://github.com/buymeasoda/soda-theme" target="_blank">https://github.com/buymeasoda/soda-theme</a>
+<a class="url" href="https://github.com/shower/ribbon/blob/master/.editorconfig" target="_blank">https://github.com/shower/ribbon/blob/master/.editorconfig</a>
+<a class="url" href="https://github.com/guipdutra/awesome-geek-podcasts" target="_blank">https://github.com/guipdutra/awesome-geek-podcasts</a>
+<a class="url" href="https://github.com/operasoftware/devopera/blob/master/.htaccess" target="_blank">https://github.com/operasoftware/devopera/blob/master/.htaccess</a>
+<a class="url" href="https://github.com/nnfrontend" target="_blank">https://github.com/nnfrontend</a>
+<a class="url" href="https://github.com/operasoftware/devopera/pull/327" target="_blank">https://github.com/operasoftware/devopera/pull/327</a>
+<a class="url" href="https://github.com/operasoftware/devopera/pull/249" target="_blank">https://github.com/operasoftware/devopera/pull/249</a>  
 ### pepelsbey.net  
-<a href="http://pepelsbey.net/2008/08/zen-html/" target="_blank">http://pepelsbey.net/2008/08/zen-html/</a>  
-<a href="http://pepelsbey.net/2008/10/zen-css/" target="_blank">http://pepelsbey.net/2008/10/zen-css/</a>  
-<a href="http://pepelsbey.net/2008/10/zen-coding/" target="_blank">http://pepelsbey.net/2008/10/zen-coding/</a>  
-<a href="http://pepelsbey.net/2009/04/zen-coding-concept/" target="_blank">http://pepelsbey.net/2009/04/zen-coding-concept/</a>  
-<a href="http://pepelsbey.net/pres/css-management/#37" target="_blank">http://pepelsbey.net/pres/css-management/#37</a>  
+<a class="url" href="http://pepelsbey.net/2008/08/zen-html/" target="_blank">http://pepelsbey.net/2008/08/zen-html/</a>
+<a class="url" href="http://pepelsbey.net/2008/10/zen-css/" target="_blank">http://pepelsbey.net/2008/10/zen-css/</a>
+<a class="url" href="http://pepelsbey.net/2008/10/zen-coding/" target="_blank">http://pepelsbey.net/2008/10/zen-coding/</a>
+<a class="url" href="http://pepelsbey.net/2009/04/zen-coding-concept/" target="_blank">http://pepelsbey.net/2009/04/zen-coding-concept/</a>
+<a class="url" href="http://pepelsbey.net/pres/css-management/#37" target="_blank">http://pepelsbey.net/pres/css-management/#37</a>  
 ### www.youtube.com  
-<a href="https://www.youtube.com/watch?v=Y70JypQCy08" target="_blank">https://www.youtube.com/watch?v=Y70JypQCy08</a>  
-<a href="https://www.youtube.com/user/wstdays" target="_blank">https://www.youtube.com/user/wstdays</a>  
-<a href="https://www.youtube.com/watch?v=V7bnSOwuO4M" target="_blank">https://www.youtube.com/watch?v=V7bnSOwuO4M</a>  
-<a href="https://www.youtube.com/watch?v=4srVRott8uU" target="_blank">https://www.youtube.com/watch?v=4srVRott8uU</a>  
-<a href="https://www.youtube.com/user/wstdays/videos" target="_blank">https://www.youtube.com/user/wstdays/videos</a>  
-<a href="http://www.youtube.com/watch?v=VG1VVFfOnYQ" target="_blank">http://www.youtube.com/watch?v=VG1VVFfOnYQ</a>
+<a class="url" href="https://www.youtube.com/watch?v=Y70JypQCy08" target="_blank">https://www.youtube.com/watch?v=Y70JypQCy08</a>
+<a class="url" href="https://www.youtube.com/user/wstdays" target="_blank">https://www.youtube.com/user/wstdays</a>
+<a class="url" href="https://www.youtube.com/watch?v=V7bnSOwuO4M" target="_blank">https://www.youtube.com/watch?v=V7bnSOwuO4M</a>
+<a class="url" href="https://www.youtube.com/watch?v=4srVRott8uU" target="_blank">https://www.youtube.com/watch?v=4srVRott8uU</a>
+<a class="url" href="https://www.youtube.com/user/wstdays/videos" target="_blank">https://www.youtube.com/user/wstdays/videos</a>
+<a class="url" href="http://www.youtube.com/watch?v=VG1VVFfOnYQ" target="_blank">http://www.youtube.com/watch?v=VG1VVFfOnYQ</a>
 
 ### Другие
 
-<a href="http://runkeeper.com/user/pepelsbey/activity/636257084?tripIdBase36=ait73w&activityList=false&" target="_blank">http://runkeeper.com/user/pepelsbey/activity/636257084?tripIdBase36=ait73w&activityList=false&</a>  
-<a href="https://vimeo.com/27266968" target="_blank">https://vimeo.com/27266968</a>  
-<a href="https://en.wikipedia.org/wiki/Open_Web_Platform" target="_blank">https://en.wikipedia.org/wiki/Open_Web_Platform</a>  
-<a href="https://webcompat.com/" target="_blank">https://webcompat.com/</a>  
-<a href="https://webcompat.com/issues/383" target="_blank">https://webcompat.com/issues/383</a>  
-<a href="http://habrahabr.ru/company/opera/blog/" target="_blank">http://habrahabr.ru/company/opera/blog/</a>  
-<a href="http://habrahabr.ru/company/opera/blog/169239/" target="_blank">http://habrahabr.ru/company/opera/blog/169239/</a>  
-<a href="http://habrahabr.ru/company/xakep/blog/185490/" target="_blank">http://habrahabr.ru/company/xakep/blog/185490/</a>  
-<a href="http://shinydemos.com/" target="_blank">http://shinydemos.com/</a>  
-<a href="https://dev.opera.com/" target="_blank">https://dev.opera.com/</a>  
-<a href="https://dev.opera.com/articles/ru/browsers-modes-engines/" target="_blank">https://dev.opera.com/articles/ru/browsers-modes-engines/</a>  
-<a href="http://shwr.me/" target="_blank">http://shwr.me/</a>  
-<a href="http://web-standards.ru" target="_blank">http://web-standards.ru</a>  
-<a href="http://webstandardsdays.ru" target="_blank">http://webstandardsdays.ru</a>  
-<a href="http://webstandardsdays.ru/#calendar" target="_blank">http://webstandardsdays.ru/#calendar</a>  
-<a href="http://webstandardsdays.ru/#donate" target="_blank">http://webstandardsdays.ru/#donate</a>  
-<a href="https://fb.com/webstandardsru" target="_blank">https://fb.com/webstandardsru</a>  
-<a href="https://vk.com/webstandards_ru" target="_blank">https://vk.com/webstandards_ru</a>  
-<a href="https://vk.com/typeschool" target="_blank">https://vk.com/typeschool</a>  
-<a href="https://vk.com/nodeschool_3" target="_blank">https://vk.com/nodeschool_3</a>  
-<a href="https://plus.google.com/+Web-standardsRu/posts" target="_blank">https://plus.google.com/+Web-standardsRu/posts</a>  
-<a href="https://amplifr.com/" target="_blank">https://amplifr.com/</a>  
-<a href="https://code.google.com/p/zen-coding/" target="_blank">https://code.google.com/p/zen-coding/</a>  
-<a href="http://hayakubundle.com/" target="_blank">http://hayakubundle.com/</a>  
-<a href="https://gist.github.com/pepelsbey/2c9acf8917364e0150d4" target="_blank">https://gist.github.com/pepelsbey/2c9acf8917364e0150d4</a>  
-<a href="https://gist.github.com/pepelsbey/3fb8c9fd54598ffe5ecd" target="_blank">https://gist.github.com/pepelsbey/3fb8c9fd54598ffe5ecd</a>  
-<a href="https://kapeli.com/dash" target="_blank">https://kapeli.com/dash</a>  
-<a href="http://t-n-w.ru/#program" target="_blank">http://t-n-w.ru/#program</a>  
-<a href="http://t-n-w.ru/" target="_blank">http://t-n-w.ru/</a>  
-<a href="http://editorconfig.org/" target="_blank">http://editorconfig.org/</a>  
-<a href="http://www.gitboxapp.com/" target="_blank">http://www.gitboxapp.com/</a>  
-<a href="http://www.kaleidoscopeapp.com/" target="_blank">http://www.kaleidoscopeapp.com/</a>  
-<a href="https://desktop.github.com/" target="_blank">https://desktop.github.com/</a>  
-<a href="http://formidablelabs.com/blog/2015/03/01/launching-radium/" target="_blank">http://formidablelabs.com/blog/2015/03/01/launching-radium/</a>  
-<a href="http://postnauka.ru/video/50340" target="_blank">http://postnauka.ru/video/50340</a>  
-<a href="http://www.momastore.org/museum/moma/ProductDisplay_Cubes-Perpetual-Calendar_10451_10001_162596_-1_26674_11527" target="_blank">http://www.momastore.org/museum/moma/ProductDisplay_Cubes-Perpetual-Calendar_10451_10001_162596_-1_26674_11527</a>  
-<a href="http://csscomb.com/" target="_blank">http://csscomb.com/</a>  
-<a href="https://www.facebook.com/webstandardsru/photos/a.864695006931573.1073741832.101531286581286/864696236931450/?type=3&theater" target="_blank">https://www.facebook.com/webstandardsru/photos/a.864695006931573.1073741832.101531286581286/864696236931450/?type=3&theater</a>  
-<a href="https://www.facebook.com/events/391440214396425/" target="_blank">https://www.facebook.com/events/391440214396425/</a>  
-<a href="http://artgorbunov.ru/educenter/text/" target="_blank">http://artgorbunov.ru/educenter/text/</a>  
-<a href="https://soundcloud.com/pepelsbey" target="_blank">https://soundcloud.com/pepelsbey</a>  
-<a href="https://itunes.apple.com/en/app/dm1-the-drum-machine/id431573951?mt=8" target="_blank">https://itunes.apple.com/en/app/dm1-the-drum-machine/id431573951?mt=8</a>  
-<a href="http://www.last.fm/user/pepelsbey/library/artists?date_preset" target="_blank">http://www.last.fm/user/pepelsbey/library/artists?date_preset</a>  
-<a href="https://meduza.io" target="_blank">https://meduza.io</a>  
-<a href="http://reederapp.com/" target="_blank">http://reederapp.com/</a>  
-<a href="http://www.popadancev.net/" target="_blank">http://www.popadancev.net/</a>  
-<a href="https://events.yandex.ru/lib/talks/462/" target="_blank">https://events.yandex.ru/lib/talks/462/</a>  
-<a href="http://operamediaworks.com/" target="_blank">http://operamediaworks.com/</a>  
-<a href="http://opera.com/" target="_blank">http://opera.com/</a>  
-<a href="http://www.operasoftware.com/company/investors" target="_blank">http://www.operasoftware.com/company/investors</a>  
-<a href="http://webmascon.com/" target="_blank">http://webmascon.com/</a>  
-<a href="http://www.webmascon.com/topics/imho/4a.asp" target="_blank">http://www.webmascon.com/topics/imho/4a.asp</a>  
-<a href="https://jsunderhood.ru/" target="_blank">https://jsunderhood.ru/</a>  
-<a href="https://moscowjs.timepad.ru/event/229961/" target="_blank">https://moscowjs.timepad.ru/event/229961/</a>  
-<a href="http://sokr.me/wap" target="_blank">http://sokr.me/wap</a>  
-<a href="http://tanalin.com" target="_blank">http://tanalin.com</a>  
-<a href="http://uggallery.tk" target="_blank">http://uggallery.tk</a>  
-<a href="http://youtu.be/9P1xd-16nXY" target="_blank">http://youtu.be/9P1xd-16nXY</a>  
-<a href="http://youtu.be/mZDZ1Wng9r0" target="_blank">http://youtu.be/mZDZ1Wng9r0</a>  
-<a href="https://youtu.be/6muh9kTlr88" target="_blank">https://youtu.be/6muh9kTlr88</a>  
-<a href="https://youtu.be/CD6VgRUE1y0" target="_blank">https://youtu.be/CD6VgRUE1y0</a>  
-<a href="http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html" target="_blank">http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html</a>  
-<a href="http://css-live.ru/vecssti-s-polej/css-snapshot-2015.html" target="_blank">http://css-live.ru/vecssti-s-polej/css-snapshot-2015.html</a>  
-<a href="http://frontender.info" target="_blank">http://frontender.info</a>
+<a class="url" href="http://runkeeper.com/user/pepelsbey/activity/636257084?tripIdBase36=ait73w&activityList=false&" target="_blank">http://runkeeper.com/user/pepelsbey/activity/636257084?tripIdBase36=ait73w&activityList=false&</a>
+<a class="url" href="https://vimeo.com/27266968" target="_blank">https://vimeo.com/27266968</a>
+<a class="url" href="https://en.wikipedia.org/wiki/Open_Web_Platform" target="_blank">https://en.wikipedia.org/wiki/Open_Web_Platform</a>
+<a class="url" href="https://webcompat.com/" target="_blank">https://webcompat.com/</a>
+<a class="url" href="https://webcompat.com/issues/383" target="_blank">https://webcompat.com/issues/383</a>
+<a class="url" href="http://habrahabr.ru/company/opera/blog/" target="_blank">http://habrahabr.ru/company/opera/blog/</a>
+<a class="url" href="http://habrahabr.ru/company/opera/blog/169239/" target="_blank">http://habrahabr.ru/company/opera/blog/169239/</a>
+<a class="url" href="http://habrahabr.ru/company/xakep/blog/185490/" target="_blank">http://habrahabr.ru/company/xakep/blog/185490/</a>
+<a class="url" href="http://shinydemos.com/" target="_blank">http://shinydemos.com/</a>
+<a class="url" href="https://dev.opera.com/" target="_blank">https://dev.opera.com/</a>
+<a class="url" href="https://dev.opera.com/articles/ru/browsers-modes-engines/" target="_blank">https://dev.opera.com/articles/ru/browsers-modes-engines/</a>
+<a class="url" href="http://shwr.me/" target="_blank">http://shwr.me/</a>
+<a class="url" href="http://web-standards.ru" target="_blank">http://web-standards.ru</a>
+<a class="url" href="http://webstandardsdays.ru" target="_blank">http://webstandardsdays.ru</a>
+<a class="url" href="http://webstandardsdays.ru/#calendar" target="_blank">http://webstandardsdays.ru/#calendar</a>
+<a class="url" href="http://webstandardsdays.ru/#donate" target="_blank">http://webstandardsdays.ru/#donate</a>
+<a class="url" href="https://fb.com/webstandardsru" target="_blank">https://fb.com/webstandardsru</a>
+<a class="url" href="https://vk.com/webstandards_ru" target="_blank">https://vk.com/webstandards_ru</a>
+<a class="url" href="https://vk.com/typeschool" target="_blank">https://vk.com/typeschool</a>
+<a class="url" href="https://vk.com/nodeschool_3" target="_blank">https://vk.com/nodeschool_3</a>
+<a class="url" href="https://plus.google.com/+Web-standardsRu/posts" target="_blank">https://plus.google.com/+Web-standardsRu/posts</a>
+<a class="url" href="https://amplifr.com/" target="_blank">https://amplifr.com/</a>
+<a class="url" href="https://code.google.com/p/zen-coding/" target="_blank">https://code.google.com/p/zen-coding/</a>
+<a class="url" href="http://hayakubundle.com/" target="_blank">http://hayakubundle.com/</a>
+<a class="url" href="https://gist.github.com/pepelsbey/2c9acf8917364e0150d4" target="_blank">https://gist.github.com/pepelsbey/2c9acf8917364e0150d4</a>
+<a class="url" href="https://gist.github.com/pepelsbey/3fb8c9fd54598ffe5ecd" target="_blank">https://gist.github.com/pepelsbey/3fb8c9fd54598ffe5ecd</a>
+<a class="url" href="https://kapeli.com/dash" target="_blank">https://kapeli.com/dash</a>
+<a class="url" href="http://t-n-w.ru/#program" target="_blank">http://t-n-w.ru/#program</a>
+<a class="url" href="http://t-n-w.ru/" target="_blank">http://t-n-w.ru/</a>
+<a class="url" href="http://editorconfig.org/" target="_blank">http://editorconfig.org/</a>
+<a class="url" href="http://www.gitboxapp.com/" target="_blank">http://www.gitboxapp.com/</a>
+<a class="url" href="http://www.kaleidoscopeapp.com/" target="_blank">http://www.kaleidoscopeapp.com/</a>
+<a class="url" href="https://desktop.github.com/" target="_blank">https://desktop.github.com/</a>
+<a class="url" href="http://formidablelabs.com/blog/2015/03/01/launching-radium/" target="_blank">http://formidablelabs.com/blog/2015/03/01/launching-radium/</a>
+<a class="url" href="http://postnauka.ru/video/50340" target="_blank">http://postnauka.ru/video/50340</a>
+<a class="url" href="http://www.momastore.org/museum/moma/ProductDisplay_Cubes-Perpetual-Calendar_10451_10001_162596_-1_26674_11527" target="_blank">http://www.momastore.org/museum/moma/ProductDisplay_Cubes-Perpetual-Calendar_10451_10001_162596_-1_26674_11527</a>
+<a class="url" href="http://csscomb.com/" target="_blank">http://csscomb.com/</a>
+<a class="url" href="https://www.facebook.com/webstandardsru/photos/a.864695006931573.1073741832.101531286581286/864696236931450/?type=3&theater" target="_blank">https://www.facebook.com/webstandardsru/photos/a.864695006931573.1073741832.101531286581286/864696236931450/?type=3&theater</a>
+<a class="url" href="https://www.facebook.com/events/391440214396425/" target="_blank">https://www.facebook.com/events/391440214396425/</a>
+<a class="url" href="http://artgorbunov.ru/educenter/text/" target="_blank">http://artgorbunov.ru/educenter/text/</a>
+<a class="url" href="https://soundcloud.com/pepelsbey" target="_blank">https://soundcloud.com/pepelsbey</a>
+<a class="url" href="https://itunes.apple.com/en/app/dm1-the-drum-machine/id431573951?mt=8" target="_blank">https://itunes.apple.com/en/app/dm1-the-drum-machine/id431573951?mt=8</a>
+<a class="url" href="http://www.last.fm/user/pepelsbey/library/artists?date_preset" target="_blank">http://www.last.fm/user/pepelsbey/library/artists?date_preset</a>
+<a class="url" href="https://meduza.io" target="_blank">https://meduza.io</a>
+<a class="url" href="http://reederapp.com/" target="_blank">http://reederapp.com/</a>
+<a class="url" href="http://www.popadancev.net/" target="_blank">http://www.popadancev.net/</a>
+<a class="url" href="https://events.yandex.ru/lib/talks/462/" target="_blank">https://events.yandex.ru/lib/talks/462/</a>
+<a class="url" href="http://operamediaworks.com/" target="_blank">http://operamediaworks.com/</a>
+<a class="url" href="http://opera.com/" target="_blank">http://opera.com/</a>
+<a class="url" href="http://www.operasoftware.com/company/investors" target="_blank">http://www.operasoftware.com/company/investors</a>
+<a class="url" href="http://webmascon.com/" target="_blank">http://webmascon.com/</a>
+<a class="url" href="http://www.webmascon.com/topics/imho/4a.asp" target="_blank">http://www.webmascon.com/topics/imho/4a.asp</a>
+<a class="url" href="https://jsunderhood.ru/" target="_blank">https://jsunderhood.ru/</a>
+<a class="url" href="https://moscowjs.timepad.ru/event/229961/" target="_blank">https://moscowjs.timepad.ru/event/229961/</a>
+<a class="url" href="http://sokr.me/wap" target="_blank">http://sokr.me/wap</a>
+<a class="url" href="http://tanalin.com" target="_blank">http://tanalin.com</a>
+<a class="url" href="http://uggallery.tk" target="_blank">http://uggallery.tk</a>
+<a class="url" href="http://youtu.be/9P1xd-16nXY" target="_blank">http://youtu.be/9P1xd-16nXY</a>
+<a class="url" href="http://youtu.be/mZDZ1Wng9r0" target="_blank">http://youtu.be/mZDZ1Wng9r0</a>
+<a class="url" href="https://youtu.be/6muh9kTlr88" target="_blank">https://youtu.be/6muh9kTlr88</a>
+<a class="url" href="https://youtu.be/CD6VgRUE1y0" target="_blank">https://youtu.be/CD6VgRUE1y0</a>
+<a class="url" href="http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html" target="_blank">http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html</a>
+<a class="url" href="http://css-live.ru/vecssti-s-polej/css-snapshot-2015.html" target="_blank">http://css-live.ru/vecssti-s-polej/css-snapshot-2015.html</a>
+<a class="url" href="http://frontender.info" target="_blank">http://frontender.info</a>

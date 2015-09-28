@@ -1009,13 +1009,13 @@ Logout.
 
 ## Ссылки
 
-<a href="http://siliconrus.com/2015/04/discipline/" target="_blank">http://siliconrus.com/2015/04/discipline/</a>  
-<a href="http://geektimes.ru/company/ulmart/blog/250808/" target="_blank">http://geektimes.ru/company/ulmart/blog/250808/</a>  
-<a href="http://glaz.freetonik.com/" target="_blank">http://glaz.freetonik.com/</a>  
-<a href="http://www.dejal.com/timeout/" target="_blank">http://www.dejal.com/timeout/</a>  
-<a href="http://www.mann-ivanov-ferber.ru/books/osoznannost/" target="_blank">http://www.mann-ivanov-ferber.ru/books/osoznannost/</a>  
-<a href="http://www.mann-ivanov-ferber.ru/books/hozyain_svoej_zhizni/" target="_blank">http://www.mann-ivanov-ferber.ru/books/hozyain_svoej_zhizni/</a>  
-<a href="http://sektaschool.ru/" target="_blank">http://sektaschool.ru/</a>  
-<a href="http://frontender.info/" target="_blank">http://frontender.info/</a>  
-<a href="http://css-live.ru/" target="_blank">http://css-live.ru/</a>  
-<a href="http://neonick.ru/" target="_blank">http://neonick.ru/</a>
+<a class="url" href="http://siliconrus.com/2015/04/discipline/" target="_blank">http://siliconrus.com/2015/04/discipline/</a>
+<a class="url" href="http://geektimes.ru/company/ulmart/blog/250808/" target="_blank">http://geektimes.ru/company/ulmart/blog/250808/</a>
+<a class="url" href="http://glaz.freetonik.com/" target="_blank">http://glaz.freetonik.com/</a>
+<a class="url" href="http://www.dejal.com/timeout/" target="_blank">http://www.dejal.com/timeout/</a>
+<a class="url" href="http://www.mann-ivanov-ferber.ru/books/osoznannost/" target="_blank">http://www.mann-ivanov-ferber.ru/books/osoznannost/</a>
+<a class="url" href="http://www.mann-ivanov-ferber.ru/books/hozyain_svoej_zhizni/" target="_blank">http://www.mann-ivanov-ferber.ru/books/hozyain_svoej_zhizni/</a>
+<a class="url" href="http://sektaschool.ru/" target="_blank">http://sektaschool.ru/</a>
+<a class="url" href="http://frontender.info/" target="_blank">http://frontender.info/</a>
+<a class="url" href="http://css-live.ru/" target="_blank">http://css-live.ru/</a>
+<a class="url" href="http://neonick.ru/" target="_blank">http://neonick.ru/</a>

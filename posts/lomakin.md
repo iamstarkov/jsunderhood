@@ -657,19 +657,19 @@ RT [@dcromster](https://twitter.com/dcromster "Roman Milovskiy"): [@jsunderhood]
 ## Ссылки
 
 ### goo.gl  
-<a href="http://goo.gl/YzqUtV" target="_blank">http://goo.gl/YzqUtV</a>  
-<a href="http://goo.gl/ruZWXT" target="_blank">http://goo.gl/ruZWXT</a>  
-<a href="http://goo.gl/j4jcDj" target="_blank">http://goo.gl/j4jcDj</a>  
-<a href="http://goo.gl/2D45aQ" target="_blank">http://goo.gl/2D45aQ</a>  
-<a href="http://goo.gl/fCkIzl" target="_blank">http://goo.gl/fCkIzl</a>  
-<a href="http://goo.gl/xjtYHl" target="_blank">http://goo.gl/xjtYHl</a>
+<a class="url" href="http://goo.gl/YzqUtV" target="_blank">http://goo.gl/YzqUtV</a>
+<a class="url" href="http://goo.gl/ruZWXT" target="_blank">http://goo.gl/ruZWXT</a>
+<a class="url" href="http://goo.gl/j4jcDj" target="_blank">http://goo.gl/j4jcDj</a>
+<a class="url" href="http://goo.gl/2D45aQ" target="_blank">http://goo.gl/2D45aQ</a>
+<a class="url" href="http://goo.gl/fCkIzl" target="_blank">http://goo.gl/fCkIzl</a>
+<a class="url" href="http://goo.gl/xjtYHl" target="_blank">http://goo.gl/xjtYHl</a>
 
 ### Другие
 
-<a href="https://github.com/rambler-digital-solutions" target="_blank">https://github.com/rambler-digital-solutions</a>  
-<a href="http://www.nativegrid.com" target="_blank">http://www.nativegrid.com</a>  
-<a href="http://motor.ru" target="_blank">http://motor.ru</a>  
-<a href="http://secretmag.ru" target="_blank">http://secretmag.ru</a>  
-<a href="http://scrumtrek.ru/trainings/view/22/147/" target="_blank">http://scrumtrek.ru/trainings/view/22/147/</a>  
-<a href="http://capistranorb.com" target="_blank">http://capistranorb.com</a>  
-<a href="http://www.fabfile.org" target="_blank">http://www.fabfile.org</a>
+<a class="url" href="https://github.com/rambler-digital-solutions" target="_blank">https://github.com/rambler-digital-solutions</a>
+<a class="url" href="http://www.nativegrid.com" target="_blank">http://www.nativegrid.com</a>
+<a class="url" href="http://motor.ru" target="_blank">http://motor.ru</a>
+<a class="url" href="http://secretmag.ru" target="_blank">http://secretmag.ru</a>
+<a class="url" href="http://scrumtrek.ru/trainings/view/22/147/" target="_blank">http://scrumtrek.ru/trainings/view/22/147/</a>
+<a class="url" href="http://capistranorb.com" target="_blank">http://capistranorb.com</a>
+<a class="url" href="http://www.fabfile.org" target="_blank">http://www.fabfile.org</a>

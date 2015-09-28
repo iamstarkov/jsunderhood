@@ -1237,15 +1237,15 @@ RT [@aod\_toxic](https://twitter.com/aod_toxic "Leon Yeromin"): [@korochinskiy](
 
 ## Ссылки
 
-<a href="http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none" target="_blank">http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none</a>  
-<a href="https://myspace.com/obediencetoauthority/music/songs" target="_blank">https://myspace.com/obediencetoauthority/music/songs</a>  
-<a href="https://fcfrwrd.bandcamp.com" target="_blank">https://fcfrwrd.bandcamp.com</a>  
-<a href="https://vk.com/slavexship" target="_blank">https://vk.com/slavexship</a>  
-<a href="https://vimeo.com/67050196" target="_blank">https://vimeo.com/67050196</a>  
-<a href="https://vimeo.com/110554082" target="_blank">https://vimeo.com/110554082</a>  
-<a href="http://goo.gl/lUNev9" target="_blank">http://goo.gl/lUNev9</a>  
-<a href="http://code.joejag.com/2014/why-zsh.html" target="_blank">http://code.joejag.com/2014/why-zsh.html</a>  
-<a href="http://shirtjs.com/about/" target="_blank">http://shirtjs.com/about/</a>  
-<a href="http://iamstarkov.com/" target="_blank">http://iamstarkov.com/</a>  
-<a href="http://buff.ly/1HzVVbR" target="_blank">http://buff.ly/1HzVVbR</a>  
-<a href="http://pukhalski.com" target="_blank">http://pukhalski.com</a>
+<a class="url" href="http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none" target="_blank">http://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none</a>
+<a class="url" href="https://myspace.com/obediencetoauthority/music/songs" target="_blank">https://myspace.com/obediencetoauthority/music/songs</a>
+<a class="url" href="https://fcfrwrd.bandcamp.com" target="_blank">https://fcfrwrd.bandcamp.com</a>
+<a class="url" href="https://vk.com/slavexship" target="_blank">https://vk.com/slavexship</a>
+<a class="url" href="https://vimeo.com/67050196" target="_blank">https://vimeo.com/67050196</a>
+<a class="url" href="https://vimeo.com/110554082" target="_blank">https://vimeo.com/110554082</a>
+<a class="url" href="http://goo.gl/lUNev9" target="_blank">http://goo.gl/lUNev9</a>
+<a class="url" href="http://code.joejag.com/2014/why-zsh.html" target="_blank">http://code.joejag.com/2014/why-zsh.html</a>
+<a class="url" href="http://shirtjs.com/about/" target="_blank">http://shirtjs.com/about/</a>
+<a class="url" href="http://iamstarkov.com/" target="_blank">http://iamstarkov.com/</a>
+<a class="url" href="http://buff.ly/1HzVVbR" target="_blank">http://buff.ly/1HzVVbR</a>
+<a class="url" href="http://pukhalski.com" target="_blank">http://pukhalski.com</a>

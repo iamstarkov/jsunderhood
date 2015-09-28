@@ -681,8 +681,8 @@ RT [@SBozhko](https://twitter.com/SBozhko "Svetλana"): А вы как счит�
 
 ## Ссылки
 
-<a href="https://github.com/dypsilon/frontend-dev-bookmarks" target="_blank">https://github.com/dypsilon/frontend-dev-bookmarks</a>  
-<a href="https://github.com/iojs/io.js/issues/1664#issuecomment-101847867" target="_blank">https://github.com/iojs/io.js/issues/1664#issuecomment-101847867</a>  
-<a href="http://esweekly.com/" target="_blank">http://esweekly.com/</a>  
-<a href="http://jsconfbp.com" target="_blank">http://jsconfbp.com</a>  
-<a href="http://www.wikiwand.com/en/Mark_Pilgrim" target="_blank">http://www.wikiwand.com/en/Mark_Pilgrim</a>
+<a class="url" href="https://github.com/dypsilon/frontend-dev-bookmarks" target="_blank">https://github.com/dypsilon/frontend-dev-bookmarks</a>
+<a class="url" href="https://github.com/iojs/io.js/issues/1664#issuecomment-101847867" target="_blank">https://github.com/iojs/io.js/issues/1664#issuecomment-101847867</a>
+<a class="url" href="http://esweekly.com/" target="_blank">http://esweekly.com/</a>
+<a class="url" href="http://jsconfbp.com" target="_blank">http://jsconfbp.com</a>
+<a class="url" href="http://www.wikiwand.com/en/Mark_Pilgrim" target="_blank">http://www.wikiwand.com/en/Mark_Pilgrim</a>

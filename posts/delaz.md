@@ -2390,67 +2390,67 @@ RT [@toivonens](https://twitter.com/toivonens "var ya; // ru"): [@jsunderhood](h
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/Flet/semistandard" target="_blank">https://github.com/Flet/semistandard</a>  
-<a href="https://github.com/sindresorhus/xo" target="_blank">https://github.com/sindresorhus/xo</a>  
-<a href="https://github.com/2gis/makeup" target="_blank">https://github.com/2gis/makeup</a>  
-<a href="https://github.com/veged/odessajs-bem" target="_blank">https://github.com/veged/odessajs-bem</a>  
-<a href="https://github.com/ideus-team/html-framework" target="_blank">https://github.com/ideus-team/html-framework</a>  
-<a href="https://github.com/firstandthird/load-grunt-config" target="_blank">https://github.com/firstandthird/load-grunt-config</a>  
-<a href="https://github.com/sindresorhus/load-grunt-tasks" target="_blank">https://github.com/sindresorhus/load-grunt-tasks</a>  
-<a href="https://github.com/ideus-team/html-framework/blob/master/dev/grunt/aliases.yaml" target="_blank">https://github.com/ideus-team/html-framework/blob/master/dev/grunt/aliases.yaml</a>  
-<a href="https://github.com/ideus-team/html-framework/blob/master/dev/Gruntfile.js" target="_blank">https://github.com/ideus-team/html-framework/blob/master/dev/Gruntfile.js</a>  
-<a href="https://github.com/ideus-team/html-framework/pull/1" target="_blank">https://github.com/ideus-team/html-framework/pull/1</a>  
-<a href="https://github.com/sindresorhus/grunt-concurrent" target="_blank">https://github.com/sindresorhus/grunt-concurrent</a>  
-<a href="https://github.com/ideus-team/html-framework/commit/7ba355055461f68c141b2db873f3217e23c56b12" target="_blank">https://github.com/ideus-team/html-framework/commit/7ba355055461f68c141b2db873f3217e23c56b12</a>  
-<a href="https://github.com/ideus-team/html-framework/blob/master/dev/install.cmd" target="_blank">https://github.com/ideus-team/html-framework/blob/master/dev/install.cmd</a>  
-<a href="https://github.com/sapegin" target="_blank">https://github.com/sapegin</a>  
-<a href="https://github.com/mistadikay/doob" target="_blank">https://github.com/mistadikay/doob</a>  
-<a href="https://github.com/yummies/yummies" target="_blank">https://github.com/yummies/yummies</a>  
-<a href="https://github.com/mistadikay/chai-bem" target="_blank">https://github.com/mistadikay/chai-bem</a>  
-<a href="https://github.com/autoprefixer/autoprefixer.github.io" target="_blank">https://github.com/autoprefixer/autoprefixer.github.io</a>  
-<a href="https://github.com/FeelEnergyCB/MinimalistBlog" target="_blank">https://github.com/FeelEnergyCB/MinimalistBlog</a>  
-<a href="https://github.com/sapegin/react-styleguidist" target="_blank">https://github.com/sapegin/react-styleguidist</a>  
-<a href="https://github.com/dfilatov/vidom" target="_blank">https://github.com/dfilatov/vidom</a>  
-<a href="https://github.com/helloilya/angular-promise-loader" target="_blank">https://github.com/helloilya/angular-promise-loader</a>  
-<a href="https://github.com/helloilya/generator-yeomify-landing" target="_blank">https://github.com/helloilya/generator-yeomify-landing</a>  
-<a href="https://github.com/PavelDemyanenko/gulp-parker" target="_blank">https://github.com/PavelDemyanenko/gulp-parker</a>  
-<a href="https://github.com/PavelDemyanenko/photoshop-extensions" target="_blank">https://github.com/PavelDemyanenko/photoshop-extensions</a>  
-<a href="https://github.com/lexich/redux-api" target="_blank">https://github.com/lexich/redux-api</a>  
-<a href="http://github.com/agudulin/at-quotes" target="_blank">http://github.com/agudulin/at-quotes</a>  
-<a href="https://github.com/denysdovhan/one-gnome-terminal" target="_blank">https://github.com/denysdovhan/one-gnome-terminal</a>  
-<a href="https://github.com/denysdovhan/oceanic-next-gnome-terminal" target="_blank">https://github.com/denysdovhan/oceanic-next-gnome-terminal</a>  
-<a href="https://github.com/web-standards-ru/dictionary" target="_blank">https://github.com/web-standards-ru/dictionary</a>  
-<a href="https://github.com/aliaksandr-pasynkau/grunto" target="_blank">https://github.com/aliaksandr-pasynkau/grunto</a>
+<a class="url" href="https://github.com/Flet/semistandard" target="_blank">https://github.com/Flet/semistandard</a>
+<a class="url" href="https://github.com/sindresorhus/xo" target="_blank">https://github.com/sindresorhus/xo</a>
+<a class="url" href="https://github.com/2gis/makeup" target="_blank">https://github.com/2gis/makeup</a>
+<a class="url" href="https://github.com/veged/odessajs-bem" target="_blank">https://github.com/veged/odessajs-bem</a>
+<a class="url" href="https://github.com/ideus-team/html-framework" target="_blank">https://github.com/ideus-team/html-framework</a>
+<a class="url" href="https://github.com/firstandthird/load-grunt-config" target="_blank">https://github.com/firstandthird/load-grunt-config</a>
+<a class="url" href="https://github.com/sindresorhus/load-grunt-tasks" target="_blank">https://github.com/sindresorhus/load-grunt-tasks</a>
+<a class="url" href="https://github.com/ideus-team/html-framework/blob/master/dev/grunt/aliases.yaml" target="_blank">https://github.com/ideus-team/html-framework/blob/master/dev/grunt/aliases.yaml</a>
+<a class="url" href="https://github.com/ideus-team/html-framework/blob/master/dev/Gruntfile.js" target="_blank">https://github.com/ideus-team/html-framework/blob/master/dev/Gruntfile.js</a>
+<a class="url" href="https://github.com/ideus-team/html-framework/pull/1" target="_blank">https://github.com/ideus-team/html-framework/pull/1</a>
+<a class="url" href="https://github.com/sindresorhus/grunt-concurrent" target="_blank">https://github.com/sindresorhus/grunt-concurrent</a>
+<a class="url" href="https://github.com/ideus-team/html-framework/commit/7ba355055461f68c141b2db873f3217e23c56b12" target="_blank">https://github.com/ideus-team/html-framework/commit/7ba355055461f68c141b2db873f3217e23c56b12</a>
+<a class="url" href="https://github.com/ideus-team/html-framework/blob/master/dev/install.cmd" target="_blank">https://github.com/ideus-team/html-framework/blob/master/dev/install.cmd</a>
+<a class="url" href="https://github.com/sapegin" target="_blank">https://github.com/sapegin</a>
+<a class="url" href="https://github.com/mistadikay/doob" target="_blank">https://github.com/mistadikay/doob</a>
+<a class="url" href="https://github.com/yummies/yummies" target="_blank">https://github.com/yummies/yummies</a>
+<a class="url" href="https://github.com/mistadikay/chai-bem" target="_blank">https://github.com/mistadikay/chai-bem</a>
+<a class="url" href="https://github.com/autoprefixer/autoprefixer.github.io" target="_blank">https://github.com/autoprefixer/autoprefixer.github.io</a>
+<a class="url" href="https://github.com/FeelEnergyCB/MinimalistBlog" target="_blank">https://github.com/FeelEnergyCB/MinimalistBlog</a>
+<a class="url" href="https://github.com/sapegin/react-styleguidist" target="_blank">https://github.com/sapegin/react-styleguidist</a>
+<a class="url" href="https://github.com/dfilatov/vidom" target="_blank">https://github.com/dfilatov/vidom</a>
+<a class="url" href="https://github.com/helloilya/angular-promise-loader" target="_blank">https://github.com/helloilya/angular-promise-loader</a>
+<a class="url" href="https://github.com/helloilya/generator-yeomify-landing" target="_blank">https://github.com/helloilya/generator-yeomify-landing</a>
+<a class="url" href="https://github.com/PavelDemyanenko/gulp-parker" target="_blank">https://github.com/PavelDemyanenko/gulp-parker</a>
+<a class="url" href="https://github.com/PavelDemyanenko/photoshop-extensions" target="_blank">https://github.com/PavelDemyanenko/photoshop-extensions</a>
+<a class="url" href="https://github.com/lexich/redux-api" target="_blank">https://github.com/lexich/redux-api</a>
+<a class="url" href="http://github.com/agudulin/at-quotes" target="_blank">http://github.com/agudulin/at-quotes</a>
+<a class="url" href="https://github.com/denysdovhan/one-gnome-terminal" target="_blank">https://github.com/denysdovhan/one-gnome-terminal</a>
+<a class="url" href="https://github.com/denysdovhan/oceanic-next-gnome-terminal" target="_blank">https://github.com/denysdovhan/oceanic-next-gnome-terminal</a>
+<a class="url" href="https://github.com/web-standards-ru/dictionary" target="_blank">https://github.com/web-standards-ru/dictionary</a>
+<a class="url" href="https://github.com/aliaksandr-pasynkau/grunto" target="_blank">https://github.com/aliaksandr-pasynkau/grunto</a>
 
 ### Другие
 
-<a href="https://ru.bem.info/libs/bem-components/" target="_blank">https://ru.bem.info/libs/bem-components/</a>  
-<a href="https://vimeo.com/4881198" target="_blank">https://vimeo.com/4881198</a>  
-<a href="http://bg-d.net/htmlblock" target="_blank">http://bg-d.net/htmlblock</a>  
-<a href="http://standardjs.com" target="_blank">http://standardjs.com</a>  
-<a href="http://extreme.lv" target="_blank">http://extreme.lv</a>  
-<a href="http://shipilev.net/blog/2015/voltmeter/" target="_blank">http://shipilev.net/blog/2015/voltmeter/</a>  
-<a href="http://miumau.livejournal.com/1613742.html" target="_blank">http://miumau.livejournal.com/1613742.html</a>  
-<a href="https://mobile.twitter.com/delaz/status/640778379541782528" target="_blank">https://mobile.twitter.com/delaz/status/640778379541782528</a>  
-<a href="https://chocolatey.org/" target="_blank">https://chocolatey.org/</a>  
-<a href="https://gist.github.com/lelandbatey/8677901" target="_blank">https://gist.github.com/lelandbatey/8677901</a>  
-<a href="https://instagram.com/p/7YswC8Kupe/" target="_blank">https://instagram.com/p/7YswC8Kupe/</a>  
-<a href="https://bit.ly/odessajs2015-bem" target="_blank">https://bit.ly/odessajs2015-bem</a>  
-<a href="https://www.portmone.com.ua/" target="_blank">https://www.portmone.com.ua/</a>  
-<a href="http://stylelint.io/" target="_blank">http://stylelint.io/</a>  
-<a href="https://www.npmjs.com/package/jit-grunt" target="_blank">https://www.npmjs.com/package/jit-grunt</a>  
-<a href="http://frontender.info/gulp-grunt-whatever/" target="_blank">http://frontender.info/gulp-grunt-whatever/</a>  
-<a href="http://mattbailey.io/a-beginners-guide-to-grunt-redux/" target="_blank">http://mattbailey.io/a-beginners-guide-to-grunt-redux/</a>  
-<a href="http://syropia.net/journal/how-to-use-bourbon-with-gruntjs" target="_blank">http://syropia.net/journal/how-to-use-bourbon-with-gruntjs</a>  
-<a href="http://webdevstudios.com/2014/10/09/wordpress-up-and-running-with-grunt-sass-bourbon-and-neat/" target="_blank">http://webdevstudios.com/2014/10/09/wordpress-up-and-running-with-grunt-sass-bourbon-and-neat/</a>  
-<a href="http://rost.kh.ua/payment/" target="_blank">http://rost.kh.ua/payment/</a>  
-<a href="http://erc.megabank.net" target="_blank">http://erc.megabank.net</a>  
-<a href="http://stopfridaydeploy.com/" target="_blank">http://stopfridaydeploy.com/</a>  
-<a href="http://aishek.github.io/jquery-animateNumber/" target="_blank">http://aishek.github.io/jquery-animateNumber/</a>  
-<a href="http://dmaslov.github.io/github-gist" target="_blank">http://dmaslov.github.io/github-gist</a>  
-<a href="http://dmaslov.github.io/csv-preview/" target="_blank">http://dmaslov.github.io/csv-preview/</a>  
-<a href="http://clearyourcache.info" target="_blank">http://clearyourcache.info</a>  
-<a href="https://www.youtube.com/watch?v=mXRkFMg4PR0" target="_blank">https://www.youtube.com/watch?v=mXRkFMg4PR0</a>  
-<a href="http://web-standards.ru/books/" target="_blank">http://web-standards.ru/books/</a>  
-<a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/" target="_blank">http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/</a>  
-<a href="http://dmitrysoshnikov.com/tag/ecma-262-3/" target="_blank">http://dmitrysoshnikov.com/tag/ecma-262-3/</a>
+<a class="url" href="https://ru.bem.info/libs/bem-components/" target="_blank">https://ru.bem.info/libs/bem-components/</a>
+<a class="url" href="https://vimeo.com/4881198" target="_blank">https://vimeo.com/4881198</a>
+<a class="url" href="http://bg-d.net/htmlblock" target="_blank">http://bg-d.net/htmlblock</a>
+<a class="url" href="http://standardjs.com" target="_blank">http://standardjs.com</a>
+<a class="url" href="http://extreme.lv" target="_blank">http://extreme.lv</a>
+<a class="url" href="http://shipilev.net/blog/2015/voltmeter/" target="_blank">http://shipilev.net/blog/2015/voltmeter/</a>
+<a class="url" href="http://miumau.livejournal.com/1613742.html" target="_blank">http://miumau.livejournal.com/1613742.html</a>
+<a class="url" href="https://mobile.twitter.com/delaz/status/640778379541782528" target="_blank">https://mobile.twitter.com/delaz/status/640778379541782528</a>
+<a class="url" href="https://chocolatey.org/" target="_blank">https://chocolatey.org/</a>
+<a class="url" href="https://gist.github.com/lelandbatey/8677901" target="_blank">https://gist.github.com/lelandbatey/8677901</a>
+<a class="url" href="https://instagram.com/p/7YswC8Kupe/" target="_blank">https://instagram.com/p/7YswC8Kupe/</a>
+<a class="url" href="https://bit.ly/odessajs2015-bem" target="_blank">https://bit.ly/odessajs2015-bem</a>
+<a class="url" href="https://www.portmone.com.ua/" target="_blank">https://www.portmone.com.ua/</a>
+<a class="url" href="http://stylelint.io/" target="_blank">http://stylelint.io/</a>
+<a class="url" href="https://www.npmjs.com/package/jit-grunt" target="_blank">https://www.npmjs.com/package/jit-grunt</a>
+<a class="url" href="http://frontender.info/gulp-grunt-whatever/" target="_blank">http://frontender.info/gulp-grunt-whatever/</a>
+<a class="url" href="http://mattbailey.io/a-beginners-guide-to-grunt-redux/" target="_blank">http://mattbailey.io/a-beginners-guide-to-grunt-redux/</a>
+<a class="url" href="http://syropia.net/journal/how-to-use-bourbon-with-gruntjs" target="_blank">http://syropia.net/journal/how-to-use-bourbon-with-gruntjs</a>
+<a class="url" href="http://webdevstudios.com/2014/10/09/wordpress-up-and-running-with-grunt-sass-bourbon-and-neat/" target="_blank">http://webdevstudios.com/2014/10/09/wordpress-up-and-running-with-grunt-sass-bourbon-and-neat/</a>
+<a class="url" href="http://rost.kh.ua/payment/" target="_blank">http://rost.kh.ua/payment/</a>
+<a class="url" href="http://erc.megabank.net" target="_blank">http://erc.megabank.net</a>
+<a class="url" href="http://stopfridaydeploy.com/" target="_blank">http://stopfridaydeploy.com/</a>
+<a class="url" href="http://aishek.github.io/jquery-animateNumber/" target="_blank">http://aishek.github.io/jquery-animateNumber/</a>
+<a class="url" href="http://dmaslov.github.io/github-gist" target="_blank">http://dmaslov.github.io/github-gist</a>
+<a class="url" href="http://dmaslov.github.io/csv-preview/" target="_blank">http://dmaslov.github.io/csv-preview/</a>
+<a class="url" href="http://clearyourcache.info" target="_blank">http://clearyourcache.info</a>
+<a class="url" href="https://www.youtube.com/watch?v=mXRkFMg4PR0" target="_blank">https://www.youtube.com/watch?v=mXRkFMg4PR0</a>
+<a class="url" href="http://web-standards.ru/books/" target="_blank">http://web-standards.ru/books/</a>
+<a class="url" href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/" target="_blank">http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/</a>
+<a class="url" href="http://dmitrysoshnikov.com/tag/ecma-262-3/" target="_blank">http://dmitrysoshnikov.com/tag/ecma-262-3/</a>

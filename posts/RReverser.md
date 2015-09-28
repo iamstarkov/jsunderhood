@@ -4042,57 +4042,57 @@ RT [@Andre\_487](https://twitter.com/Andre_487 "Andrey Prokopyuk"): [@jsunderhoo
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/coderhaoxin/typed-objects" target="_blank">https://github.com/coderhaoxin/typed-objects</a>  
-<a href="https://github.com/tc39/ecma262" target="_blank">https://github.com/tc39/ecma262</a>  
-<a href="https://github.com/getify/es-feature-tests" target="_blank">https://github.com/getify/es-feature-tests</a>  
-<a href="https://github.com/Microsoft/IEDiagnosticsAdapter" target="_blank">https://github.com/Microsoft/IEDiagnosticsAdapter</a>  
-<a href="https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos" target="_blank">https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos</a>  
-<a href="https://github.com/jterrace/js.js/" target="_blank">https://github.com/jterrace/js.js/</a>  
-<a href="https://github.com/es-shims/es5-shim/issues/91" target="_blank">https://github.com/es-shims/es5-shim/issues/91</a>  
-<a href="https://github.com/estools/estraverse" target="_blank">https://github.com/estools/estraverse</a>  
-<a href="https://github.com/estools/escodegen" target="_blank">https://github.com/estools/escodegen</a>  
-<a href="https://github.com/estools/escope" target="_blank">https://github.com/estools/escope</a>  
-<a href="http://github.com/jDataView/jBinary" target="_blank">http://github.com/jDataView/jBinary</a>  
-<a href="https://github.com/marijnh/acorn/pull/110" target="_blank">https://github.com/marijnh/acorn/pull/110</a>  
-<a href="https://github.com/estree/estree" target="_blank">https://github.com/estree/estree</a>  
-<a href="https://github.com/estree/estree/pull/32" target="_blank">https://github.com/estree/estree/pull/32</a>  
-<a href="https://github.com/estree/estree/issues/41" target="_blank">https://github.com/estree/estree/issues/41</a>  
-<a href="https://github.com/marijnh/acorn/blob/master/src/expression.js#L79" target="_blank">https://github.com/marijnh/acorn/blob/master/src/expression.js#L79</a>
+<a class="url" href="https://github.com/coderhaoxin/typed-objects" target="_blank">https://github.com/coderhaoxin/typed-objects</a>
+<a class="url" href="https://github.com/tc39/ecma262" target="_blank">https://github.com/tc39/ecma262</a>
+<a class="url" href="https://github.com/getify/es-feature-tests" target="_blank">https://github.com/getify/es-feature-tests</a>
+<a class="url" href="https://github.com/Microsoft/IEDiagnosticsAdapter" target="_blank">https://github.com/Microsoft/IEDiagnosticsAdapter</a>
+<a class="url" href="https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos" target="_blank">https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos</a>
+<a class="url" href="https://github.com/jterrace/js.js/" target="_blank">https://github.com/jterrace/js.js/</a>
+<a class="url" href="https://github.com/es-shims/es5-shim/issues/91" target="_blank">https://github.com/es-shims/es5-shim/issues/91</a>
+<a class="url" href="https://github.com/estools/estraverse" target="_blank">https://github.com/estools/estraverse</a>
+<a class="url" href="https://github.com/estools/escodegen" target="_blank">https://github.com/estools/escodegen</a>
+<a class="url" href="https://github.com/estools/escope" target="_blank">https://github.com/estools/escope</a>
+<a class="url" href="http://github.com/jDataView/jBinary" target="_blank">http://github.com/jDataView/jBinary</a>
+<a class="url" href="https://github.com/marijnh/acorn/pull/110" target="_blank">https://github.com/marijnh/acorn/pull/110</a>
+<a class="url" href="https://github.com/estree/estree" target="_blank">https://github.com/estree/estree</a>
+<a class="url" href="https://github.com/estree/estree/pull/32" target="_blank">https://github.com/estree/estree/pull/32</a>
+<a class="url" href="https://github.com/estree/estree/issues/41" target="_blank">https://github.com/estree/estree/issues/41</a>
+<a class="url" href="https://github.com/marijnh/acorn/blob/master/src/expression.js#L79" target="_blank">https://github.com/marijnh/acorn/blob/master/src/expression.js#L79</a>
 
 ### Другие
 
-<a href="http://mrale.ph/blog/2013/04/29/performance-tuning-as-weather-forecast.html" target="_blank">http://mrale.ph/blog/2013/04/29/performance-tuning-as-weather-forecast.html</a>  
-<a href="http://mrale.ph/blog/2014/02/23/the-black-cat-of-microbenchmarks.html" target="_blank">http://mrale.ph/blog/2014/02/23/the-black-cat-of-microbenchmarks.html</a>  
-<a href="https://esdiscuss.org/" target="_blank">https://esdiscuss.org/</a>  
-<a href="https://esdiscuss.org/topic/existential-operator-null-propagation-operator" target="_blank">https://esdiscuss.org/topic/existential-operator-null-propagation-operator</a>  
-<a href="http://esdiscuss.org" target="_blank">http://esdiscuss.org</a>  
-<a href="https://groups.google.com/forum/#!topic/golang-nuts/RKymTuSCHS0" target="_blank">https://groups.google.com/forum/#!topic/golang-nuts/RKymTuSCHS0</a>  
-<a href="http://nodejs.org" target="_blank">http://nodejs.org</a>  
-<a href="http://techcrunch.com/video/cloudflare-2015-best-enterprise-startup-winner/518637761/" target="_blank">http://techcrunch.com/video/cloudflare-2015-best-enterprise-startup-winner/518637761/</a>  
-<a href="http://dev.modern.ie/platform/changelog/10532-pc/" target="_blank">http://dev.modern.ie/platform/changelog/10532-pc/</a>  
-<a href="https://featuretests.io/" target="_blank">https://featuretests.io/</a>  
-<a href="https://developer.rackspace.com/blog/powershell-101-from-a-linux-guy/" target="_blank">https://developer.rackspace.com/blog/powershell-101-from-a-linux-guy/</a>  
-<a href="https://bgrins.github.io/videoconverter.js/" target="_blank">https://bgrins.github.io/videoconverter.js/</a>  
-<a href="https://video-funhouse.herokuapp.com/" target="_blank">https://video-funhouse.herokuapp.com/</a>  
-<a href="http://anvaka.github.io/asmalidator/" target="_blank">http://anvaka.github.io/asmalidator/</a>  
-<a href="https://rreverser.com/started-work-on-es6-asm-js-conversion/" target="_blank">https://rreverser.com/started-work-on-es6-asm-js-conversion/</a>  
-<a href="https://rreverser.com/content/images/2015/Aug/es_spec.svg" target="_blank">https://rreverser.com/content/images/2015/Aug/es_spec.svg</a>  
-<a href="http://asmjs.org/spec/latest/#variable-type-annotations" target="_blank">http://asmjs.org/spec/latest/#variable-type-annotations</a>  
-<a href="http://beta.unity3d.com/jonas/DT2/" target="_blank">http://beta.unity3d.com/jonas/DT2/</a>  
-<a href="http://eleks.github.io/js2js/" target="_blank">http://eleks.github.io/js2js/</a>  
-<a href="http://bellard.org/jslinux/" target="_blank">http://bellard.org/jslinux/</a>  
-<a href="http://webreflection.blogspot.co.uk/2011/03/rewind-getters-setters-for-all-ie-with.html" target="_blank">http://webreflection.blogspot.co.uk/2011/03/rewind-getters-setters-for-all-ie-with.html</a>  
-<a href="http://www.slideshare.net/RReverser/es6concurrency" target="_blank">http://www.slideshare.net/RReverser/es6concurrency</a>  
-<a href="https://gist.github.com/RReverser/81f5003e6ba8fbaaae83" target="_blank">https://gist.github.com/RReverser/81f5003e6ba8fbaaae83</a>  
-<a href="https://gist.github.com/RReverser/359ae1f7aa901e86156f" target="_blank">https://gist.github.com/RReverser/359ae1f7aa901e86156f</a>  
-<a href="https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-transform-js" target="_blank">https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-transform-js</a>  
-<a href="https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-index-js" target="_blank">https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-index-js</a>  
-<a href="https://www.youtube.com/watch?v=4c2pLtHf7KQ" target="_blank">https://www.youtube.com/watch?v=4c2pLtHf7KQ</a>  
-<a href="https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API" target="_blank">https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API</a>  
-<a href="http://esprima.org/" target="_blank">http://esprima.org/</a>  
-<a href="http://marijnhaverbeke.nl/blog/acorn.html" target="_blank">http://marijnhaverbeke.nl/blog/acorn.html</a>  
-<a href="http://www.graspjs.com/" target="_blank">http://www.graspjs.com/</a>  
-<a href="http://latentflip.com/loupe/" target="_blank">http://latentflip.com/loupe/</a>  
-<a href="https://en.wikipedia.org/wiki/Dangling_else" target="_blank">https://en.wikipedia.org/wiki/Dangling_else</a>  
-<a href="https://xkcd.com/927/" target="_blank">https://xkcd.com/927/</a>  
-<a href="http://l20n.org/" target="_blank">http://l20n.org/</a>
+<a class="url" href="http://mrale.ph/blog/2013/04/29/performance-tuning-as-weather-forecast.html" target="_blank">http://mrale.ph/blog/2013/04/29/performance-tuning-as-weather-forecast.html</a>
+<a class="url" href="http://mrale.ph/blog/2014/02/23/the-black-cat-of-microbenchmarks.html" target="_blank">http://mrale.ph/blog/2014/02/23/the-black-cat-of-microbenchmarks.html</a>
+<a class="url" href="https://esdiscuss.org/" target="_blank">https://esdiscuss.org/</a>
+<a class="url" href="https://esdiscuss.org/topic/existential-operator-null-propagation-operator" target="_blank">https://esdiscuss.org/topic/existential-operator-null-propagation-operator</a>
+<a class="url" href="http://esdiscuss.org" target="_blank">http://esdiscuss.org</a>
+<a class="url" href="https://groups.google.com/forum/#!topic/golang-nuts/RKymTuSCHS0" target="_blank">https://groups.google.com/forum/#!topic/golang-nuts/RKymTuSCHS0</a>
+<a class="url" href="http://nodejs.org" target="_blank">http://nodejs.org</a>
+<a class="url" href="http://techcrunch.com/video/cloudflare-2015-best-enterprise-startup-winner/518637761/" target="_blank">http://techcrunch.com/video/cloudflare-2015-best-enterprise-startup-winner/518637761/</a>
+<a class="url" href="http://dev.modern.ie/platform/changelog/10532-pc/" target="_blank">http://dev.modern.ie/platform/changelog/10532-pc/</a>
+<a class="url" href="https://featuretests.io/" target="_blank">https://featuretests.io/</a>
+<a class="url" href="https://developer.rackspace.com/blog/powershell-101-from-a-linux-guy/" target="_blank">https://developer.rackspace.com/blog/powershell-101-from-a-linux-guy/</a>
+<a class="url" href="https://bgrins.github.io/videoconverter.js/" target="_blank">https://bgrins.github.io/videoconverter.js/</a>
+<a class="url" href="https://video-funhouse.herokuapp.com/" target="_blank">https://video-funhouse.herokuapp.com/</a>
+<a class="url" href="http://anvaka.github.io/asmalidator/" target="_blank">http://anvaka.github.io/asmalidator/</a>
+<a class="url" href="https://rreverser.com/started-work-on-es6-asm-js-conversion/" target="_blank">https://rreverser.com/started-work-on-es6-asm-js-conversion/</a>
+<a class="url" href="https://rreverser.com/content/images/2015/Aug/es_spec.svg" target="_blank">https://rreverser.com/content/images/2015/Aug/es_spec.svg</a>
+<a class="url" href="http://asmjs.org/spec/latest/#variable-type-annotations" target="_blank">http://asmjs.org/spec/latest/#variable-type-annotations</a>
+<a class="url" href="http://beta.unity3d.com/jonas/DT2/" target="_blank">http://beta.unity3d.com/jonas/DT2/</a>
+<a class="url" href="http://eleks.github.io/js2js/" target="_blank">http://eleks.github.io/js2js/</a>
+<a class="url" href="http://bellard.org/jslinux/" target="_blank">http://bellard.org/jslinux/</a>
+<a class="url" href="http://webreflection.blogspot.co.uk/2011/03/rewind-getters-setters-for-all-ie-with.html" target="_blank">http://webreflection.blogspot.co.uk/2011/03/rewind-getters-setters-for-all-ie-with.html</a>
+<a class="url" href="http://www.slideshare.net/RReverser/es6concurrency" target="_blank">http://www.slideshare.net/RReverser/es6concurrency</a>
+<a class="url" href="https://gist.github.com/RReverser/81f5003e6ba8fbaaae83" target="_blank">https://gist.github.com/RReverser/81f5003e6ba8fbaaae83</a>
+<a class="url" href="https://gist.github.com/RReverser/359ae1f7aa901e86156f" target="_blank">https://gist.github.com/RReverser/359ae1f7aa901e86156f</a>
+<a class="url" href="https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-transform-js" target="_blank">https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-transform-js</a>
+<a class="url" href="https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-index-js" target="_blank">https://gist.github.com/RReverser/359ae1f7aa901e86156f#file-index-js</a>
+<a class="url" href="https://www.youtube.com/watch?v=4c2pLtHf7KQ" target="_blank">https://www.youtube.com/watch?v=4c2pLtHf7KQ</a>
+<a class="url" href="https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API" target="_blank">https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API</a>
+<a class="url" href="http://esprima.org/" target="_blank">http://esprima.org/</a>
+<a class="url" href="http://marijnhaverbeke.nl/blog/acorn.html" target="_blank">http://marijnhaverbeke.nl/blog/acorn.html</a>
+<a class="url" href="http://www.graspjs.com/" target="_blank">http://www.graspjs.com/</a>
+<a class="url" href="http://latentflip.com/loupe/" target="_blank">http://latentflip.com/loupe/</a>
+<a class="url" href="https://en.wikipedia.org/wiki/Dangling_else" target="_blank">https://en.wikipedia.org/wiki/Dangling_else</a>
+<a class="url" href="https://xkcd.com/927/" target="_blank">https://xkcd.com/927/</a>
+<a class="url" href="http://l20n.org/" target="_blank">http://l20n.org/</a>

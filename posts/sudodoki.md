@@ -1571,94 +1571,94 @@ RT [@levwalkin](https://twitter.com/levwalkin "Lev Walkin"): [@lambdadmitry](htt
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/wayfair/tungstenjs" target="_blank">https://github.com/wayfair/tungstenjs</a>  
-<a href="https://github.com/segmentio/deku" target="_blank">https://github.com/segmentio/deku</a>  
-<a href="https://github.com/jed/140bytes/wiki/Byte-saving-techniques" target="_blank">https://github.com/jed/140bytes/wiki/Byte-saving-techniques</a>  
-<a href="https://github.com/borismus/webvr-boilerplate" target="_blank">https://github.com/borismus/webvr-boilerplate</a>  
-<a href="https://github.com/carbonfive/c5vr" target="_blank">https://github.com/carbonfive/c5vr</a>  
-<a href="https://github.com/mathiasbynens/evil.sh" target="_blank">https://github.com/mathiasbynens/evil.sh</a>  
-<a href="https://github.com/nodebots/nodebotsday/blob/master/Organizers.md" target="_blank">https://github.com/nodebots/nodebotsday/blob/master/Organizers.md</a>  
-<a href="https://github.com/nodeschool/discussions" target="_blank">https://github.com/nodeschool/discussions</a>  
-<a href="https://github.com/mr-mig/ru-it-chats" target="_blank">https://github.com/mr-mig/ru-it-chats</a>  
-<a href="https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS" target="_blank">https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS</a>  
-<a href="https://github.com/andrew--r/the-little-book-on-coffeescript" target="_blank">https://github.com/andrew--r/the-little-book-on-coffeescript</a>  
-<a href="https://github.com/sleepyfox/coffeescript-koans" target="_blank">https://github.com/sleepyfox/coffeescript-koans</a>  
-<a href="https://github.com/butlermatt/dart_koans" target="_blank">https://github.com/butlermatt/dart_koans</a>  
-<a href="https://github.com/mattdiamond/fuckitjs" target="_blank">https://github.com/mattdiamond/fuckitjs</a>  
-<a href="https://github.com/kmmbvnr/django-fsm" target="_blank">https://github.com/kmmbvnr/django-fsm</a>  
-<a href="https://github.com/selenodium/selenodium-grid" target="_blank">https://github.com/selenodium/selenodium-grid</a>  
-<a href="https://github.com/glowbox/maptasticjs" target="_blank">https://github.com/glowbox/maptasticjs</a>
+<a class="url" href="https://github.com/wayfair/tungstenjs" target="_blank">https://github.com/wayfair/tungstenjs</a>
+<a class="url" href="https://github.com/segmentio/deku" target="_blank">https://github.com/segmentio/deku</a>
+<a class="url" href="https://github.com/jed/140bytes/wiki/Byte-saving-techniques" target="_blank">https://github.com/jed/140bytes/wiki/Byte-saving-techniques</a>
+<a class="url" href="https://github.com/borismus/webvr-boilerplate" target="_blank">https://github.com/borismus/webvr-boilerplate</a>
+<a class="url" href="https://github.com/carbonfive/c5vr" target="_blank">https://github.com/carbonfive/c5vr</a>
+<a class="url" href="https://github.com/mathiasbynens/evil.sh" target="_blank">https://github.com/mathiasbynens/evil.sh</a>
+<a class="url" href="https://github.com/nodebots/nodebotsday/blob/master/Organizers.md" target="_blank">https://github.com/nodebots/nodebotsday/blob/master/Organizers.md</a>
+<a class="url" href="https://github.com/nodeschool/discussions" target="_blank">https://github.com/nodeschool/discussions</a>
+<a class="url" href="https://github.com/mr-mig/ru-it-chats" target="_blank">https://github.com/mr-mig/ru-it-chats</a>
+<a class="url" href="https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS" target="_blank">https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS</a>
+<a class="url" href="https://github.com/andrew--r/the-little-book-on-coffeescript" target="_blank">https://github.com/andrew--r/the-little-book-on-coffeescript</a>
+<a class="url" href="https://github.com/sleepyfox/coffeescript-koans" target="_blank">https://github.com/sleepyfox/coffeescript-koans</a>
+<a class="url" href="https://github.com/butlermatt/dart_koans" target="_blank">https://github.com/butlermatt/dart_koans</a>
+<a class="url" href="https://github.com/mattdiamond/fuckitjs" target="_blank">https://github.com/mattdiamond/fuckitjs</a>
+<a class="url" href="https://github.com/kmmbvnr/django-fsm" target="_blank">https://github.com/kmmbvnr/django-fsm</a>
+<a class="url" href="https://github.com/selenodium/selenodium-grid" target="_blank">https://github.com/selenodium/selenodium-grid</a>
+<a class="url" href="https://github.com/glowbox/maptasticjs" target="_blank">https://github.com/glowbox/maptasticjs</a>
 
 ### Другие
 
-<a href="http://foamdev.com" target="_blank">http://foamdev.com</a>  
-<a href="http://en.wikipedia.org/wiki/Model-driven_architecture" target="_blank">http://en.wikipedia.org/wiki/Model-driven_architecture</a>  
-<a href="http://www.asterank.com/" target="_blank">http://www.asterank.com/</a>  
-<a href="http://www.asterank.com/discover" target="_blank">http://www.asterank.com/discover</a>  
-<a href="https://vimeo.com/61087285" target="_blank">https://vimeo.com/61087285</a>  
-<a href="http://aem1k.com/" target="_blank">http://aem1k.com/</a>  
-<a href="http://aem1k.com" target="_blank">http://aem1k.com</a>  
-<a href="http://www.140byt.es/" target="_blank">http://www.140byt.es/</a>  
-<a href="https://www.youtube.com/watch?v=RTxtiLp1C8Y" target="_blank">https://www.youtube.com/watch?v=RTxtiLp1C8Y</a>  
-<a href="https://www.youtube.com/watch?v=lDkrXTDwbJQ&index=2&list=PLfPYYNRetSN8FGm0ga2khUmeTjQH0XO1B" target="_blank">https://www.youtube.com/watch?v=lDkrXTDwbJQ&index=2&list=PLfPYYNRetSN8FGm0ga2khUmeTjQH0XO1B</a>  
-<a href="http://demojs.com" target="_blank">http://demojs.com</a>  
-<a href="http://www.pouet.net/prodlist.php?platform%5B%5D=JavaScript" target="_blank">http://www.pouet.net/prodlist.php?platform%5B%5D=JavaScript</a>  
-<a href="http://www.p01.org/releases/" target="_blank">http://www.p01.org/releases/</a>  
-<a href="http://xem.github.io/" target="_blank">http://xem.github.io/</a>  
-<a href="https://www.google.ru/?q=(js1k%7Cjs13kgames)%20postmortem" target="_blank">https://www.google.ru/?q=(js1k%7Cjs13kgames)%20postmortem</a>  
-<a href="https://speakerdeck.com/subzey/korochie" target="_blank">https://speakerdeck.com/subzey/korochie</a>  
-<a href="https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1" target="_blank">https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1</a>  
-<a href="http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js" target="_blank">http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js</a>  
-<a href="http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter" target="_blank">http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter</a>  
-<a href="http://www.slideshare.net/moscowjs/ss-47567934" target="_blank">http://www.slideshare.net/moscowjs/ss-47567934</a>  
-<a href="http://www.slideshare.net/michaelklishin/scalable-open-source" target="_blank">http://www.slideshare.net/michaelklishin/scalable-open-source</a>  
-<a href="http://webvr.info/" target="_blank">http://webvr.info/</a>  
-<a href="https://www.google.com/get/cardboard/" target="_blank">https://www.google.com/get/cardboard/</a>  
-<a href="http://c5vr.com" target="_blank">http://c5vr.com</a>  
-<a href="http://www.moscowjs.ru/" target="_blank">http://www.moscowjs.ru/</a>  
-<a href="http://lanyrd.com/" target="_blank">http://lanyrd.com/</a>  
-<a href="http://meetup.com" target="_blank">http://meetup.com</a>  
-<a href="http://paulmillr.com/mnp/" target="_blank">http://paulmillr.com/mnp/</a>  
-<a href="https://ti.to/" target="_blank">https://ti.to/</a>  
-<a href="http://nodeschool.io/" target="_blank">http://nodeschool.io/</a>  
-<a href="http://oneshot.nodeconf.com/" target="_blank">http://oneshot.nodeconf.com/</a>  
-<a href="http://railsgirls.com/" target="_blank">http://railsgirls.com/</a>  
-<a href="http://djangogirls.org/" target="_blank">http://djangogirls.org/</a>  
-<a href="http://kottans.org" target="_blank">http://kottans.org</a>  
-<a href="http://dou.ua/forums/topic/10190/" target="_blank">http://dou.ua/forums/topic/10190/</a>  
-<a href="http://dou.ua/forums/topic/13249/" target="_blank">http://dou.ua/forums/topic/13249/</a>  
-<a href="https://gitter.im/MoscowJS/chat" target="_blank">https://gitter.im/MoscowJS/chat</a>  
-<a href="https://gitter.im/dev-ua/frontend-ua?at=5542d8ec073e8bbb14be8263" target="_blank">https://gitter.im/dev-ua/frontend-ua?at=5542d8ec073e8bbb14be8263</a>  
-<a href="http://www.ocamlpro.com/pub/ocpwin/flow-builds/" target="_blank">http://www.ocamlpro.com/pub/ocpwin/flow-builds/</a>  
-<a href="https://gist.github.com/s-panferov/97015d97d2213d84814f" target="_blank">https://gist.github.com/s-panferov/97015d97d2213d84814f</a>  
-<a href="https://gist.github.com/dherman/5463054" target="_blank">https://gist.github.com/dherman/5463054</a>  
-<a href="http://gcanti.github.io/flowcheck/" target="_blank">http://gcanti.github.io/flowcheck/</a>  
-<a href="http://code.visualstudio.com" target="_blank">http://code.visualstudio.com</a>  
-<a href="http://altjs.org" target="_blank">http://altjs.org</a>  
-<a href="http://arcturo.github.io/library/coffeescript/" target="_blank">http://arcturo.github.io/library/coffeescript/</a>  
-<a href="http://shop.oreilly.com/product/0636920025139.do" target="_blank">http://shop.oreilly.com/product/0636920025139.do</a>  
-<a href="http://shop.oreilly.com/product/0636920025719.do" target="_blank">http://shop.oreilly.com/product/0636920025719.do</a>  
-<a href="https://www.syncfusion.com/resources/techportal/ebooks/typescript" target="_blank">https://www.syncfusion.com/resources/techportal/ebooks/typescript</a>  
-<a href="http://clojurescriptkoans.com/" target="_blank">http://clojurescriptkoans.com/</a>  
-<a href="https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5" target="_blank">https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5</a>  
-<a href="http://rapmycode.ru/" target="_blank">http://rapmycode.ru/</a>  
-<a href="http://rapmycode.ru/track/916" target="_blank">http://rapmycode.ru/track/916</a>  
-<a href="http://2015.jsconf.us/speakers.html#ihsanullah" target="_blank">http://2015.jsconf.us/speakers.html#ihsanullah</a>  
-<a href="http://kadamwhite.github.io/talks/2015/sideprojects-empirejs/" target="_blank">http://kadamwhite.github.io/talks/2015/sideprojects-empirejs/</a>  
-<a href="http://tholman.com/elevator.js/" target="_blank">http://tholman.com/elevator.js/</a>  
-<a href="http://tholman.com/" target="_blank">http://tholman.com/</a>  
-<a href="http://www.theuselessweb.com/" target="_blank">http://www.theuselessweb.com/</a>  
-<a href="http://www.staggeringbeauty.com/" target="_blank">http://www.staggeringbeauty.com/</a>  
-<a href="http://www.trypap.com/" target="_blank">http://www.trypap.com/</a>  
-<a href="https://css-tricks.com/video-screencasts/125-how-to-stay-up-to-date-with-web-technology/" target="_blank">https://css-tricks.com/video-screencasts/125-how-to-stay-up-to-date-with-web-technology/</a>  
-<a href="http://www.uncontext.com/" target="_blank">http://www.uncontext.com/</a>  
-<a href="http://frontender.info/" target="_blank">http://frontender.info/</a>  
-<a href="http://chlg.co/1DOc20O" target="_blank">http://chlg.co/1DOc20O</a>  
-<a href="http://frontendbabel.info" target="_blank">http://frontendbabel.info</a>  
-<a href="http://learnxinyminutes.com/" target="_blank">http://learnxinyminutes.com/</a>  
-<a href="https://www.udacity.com/course/browser-rendering-optimization--ud860" target="_blank">https://www.udacity.com/course/browser-rendering-optimization--ud860</a>  
-<a href="http://learningwebgl.com/blog/?p=1828" target="_blank">http://learningwebgl.com/blog/?p=1828</a>  
-<a href="http://stickerlicious.de/" target="_blank">http://stickerlicious.de/</a>  
-<a href="https://lh3.googleusercontent.com/-fbUjiPvAYU8/U6qbnGBaoKI/AAAAAAAAB9I/hGoPBDq3IkU/w1412-h1060-no/IMG_20140406_212155.jpg" target="_blank">https://lh3.googleusercontent.com/-fbUjiPvAYU8/U6qbnGBaoKI/AAAAAAAAB9I/hGoPBDq3IkU/w1412-h1060-no/IMG_20140406_212155.jpg</a>  
-<a href="http://tonsky.me/talks/2015-codefest/" target="_blank">http://tonsky.me/talks/2015-codefest/</a>  
-<a href="http://ilyabirman.ru/projects/typography-layout/" target="_blank">http://ilyabirman.ru/projects/typography-layout/</a>
+<a class="url" href="http://foamdev.com" target="_blank">http://foamdev.com</a>
+<a class="url" href="http://en.wikipedia.org/wiki/Model-driven_architecture" target="_blank">http://en.wikipedia.org/wiki/Model-driven_architecture</a>
+<a class="url" href="http://www.asterank.com/" target="_blank">http://www.asterank.com/</a>
+<a class="url" href="http://www.asterank.com/discover" target="_blank">http://www.asterank.com/discover</a>
+<a class="url" href="https://vimeo.com/61087285" target="_blank">https://vimeo.com/61087285</a>
+<a class="url" href="http://aem1k.com/" target="_blank">http://aem1k.com/</a>
+<a class="url" href="http://aem1k.com" target="_blank">http://aem1k.com</a>
+<a class="url" href="http://www.140byt.es/" target="_blank">http://www.140byt.es/</a>
+<a class="url" href="https://www.youtube.com/watch?v=RTxtiLp1C8Y" target="_blank">https://www.youtube.com/watch?v=RTxtiLp1C8Y</a>
+<a class="url" href="https://www.youtube.com/watch?v=lDkrXTDwbJQ&index=2&list=PLfPYYNRetSN8FGm0ga2khUmeTjQH0XO1B" target="_blank">https://www.youtube.com/watch?v=lDkrXTDwbJQ&index=2&list=PLfPYYNRetSN8FGm0ga2khUmeTjQH0XO1B</a>
+<a class="url" href="http://demojs.com" target="_blank">http://demojs.com</a>
+<a class="url" href="http://www.pouet.net/prodlist.php?platform%5B%5D=JavaScript" target="_blank">http://www.pouet.net/prodlist.php?platform%5B%5D=JavaScript</a>
+<a class="url" href="http://www.p01.org/releases/" target="_blank">http://www.p01.org/releases/</a>
+<a class="url" href="http://xem.github.io/" target="_blank">http://xem.github.io/</a>
+<a class="url" href="https://www.google.ru/?q=(js1k%7Cjs13kgames)%20postmortem" target="_blank">https://www.google.ru/?q=(js1k%7Cjs13kgames)%20postmortem</a>
+<a class="url" href="https://speakerdeck.com/subzey/korochie" target="_blank">https://speakerdeck.com/subzey/korochie</a>
+<a class="url" href="https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1" target="_blank">https://speakerdeck.com/hipsterbrown/the-other-side-of-empathy-1</a>
+<a class="url" href="http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js" target="_blank">http://www.slideshare.net/rudyjahchan/getting-started-in-vr-with-js</a>
+<a class="url" href="http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter" target="_blank">http://www.slideshare.net/andrewrota/why-statictypecheckingisbetter</a>
+<a class="url" href="http://www.slideshare.net/moscowjs/ss-47567934" target="_blank">http://www.slideshare.net/moscowjs/ss-47567934</a>
+<a class="url" href="http://www.slideshare.net/michaelklishin/scalable-open-source" target="_blank">http://www.slideshare.net/michaelklishin/scalable-open-source</a>
+<a class="url" href="http://webvr.info/" target="_blank">http://webvr.info/</a>
+<a class="url" href="https://www.google.com/get/cardboard/" target="_blank">https://www.google.com/get/cardboard/</a>
+<a class="url" href="http://c5vr.com" target="_blank">http://c5vr.com</a>
+<a class="url" href="http://www.moscowjs.ru/" target="_blank">http://www.moscowjs.ru/</a>
+<a class="url" href="http://lanyrd.com/" target="_blank">http://lanyrd.com/</a>
+<a class="url" href="http://meetup.com" target="_blank">http://meetup.com</a>
+<a class="url" href="http://paulmillr.com/mnp/" target="_blank">http://paulmillr.com/mnp/</a>
+<a class="url" href="https://ti.to/" target="_blank">https://ti.to/</a>
+<a class="url" href="http://nodeschool.io/" target="_blank">http://nodeschool.io/</a>
+<a class="url" href="http://oneshot.nodeconf.com/" target="_blank">http://oneshot.nodeconf.com/</a>
+<a class="url" href="http://railsgirls.com/" target="_blank">http://railsgirls.com/</a>
+<a class="url" href="http://djangogirls.org/" target="_blank">http://djangogirls.org/</a>
+<a class="url" href="http://kottans.org" target="_blank">http://kottans.org</a>
+<a class="url" href="http://dou.ua/forums/topic/10190/" target="_blank">http://dou.ua/forums/topic/10190/</a>
+<a class="url" href="http://dou.ua/forums/topic/13249/" target="_blank">http://dou.ua/forums/topic/13249/</a>
+<a class="url" href="https://gitter.im/MoscowJS/chat" target="_blank">https://gitter.im/MoscowJS/chat</a>
+<a class="url" href="https://gitter.im/dev-ua/frontend-ua?at=5542d8ec073e8bbb14be8263" target="_blank">https://gitter.im/dev-ua/frontend-ua?at=5542d8ec073e8bbb14be8263</a>
+<a class="url" href="http://www.ocamlpro.com/pub/ocpwin/flow-builds/" target="_blank">http://www.ocamlpro.com/pub/ocpwin/flow-builds/</a>
+<a class="url" href="https://gist.github.com/s-panferov/97015d97d2213d84814f" target="_blank">https://gist.github.com/s-panferov/97015d97d2213d84814f</a>
+<a class="url" href="https://gist.github.com/dherman/5463054" target="_blank">https://gist.github.com/dherman/5463054</a>
+<a class="url" href="http://gcanti.github.io/flowcheck/" target="_blank">http://gcanti.github.io/flowcheck/</a>
+<a class="url" href="http://code.visualstudio.com" target="_blank">http://code.visualstudio.com</a>
+<a class="url" href="http://altjs.org" target="_blank">http://altjs.org</a>
+<a class="url" href="http://arcturo.github.io/library/coffeescript/" target="_blank">http://arcturo.github.io/library/coffeescript/</a>
+<a class="url" href="http://shop.oreilly.com/product/0636920025139.do" target="_blank">http://shop.oreilly.com/product/0636920025139.do</a>
+<a class="url" href="http://shop.oreilly.com/product/0636920025719.do" target="_blank">http://shop.oreilly.com/product/0636920025719.do</a>
+<a class="url" href="https://www.syncfusion.com/resources/techportal/ebooks/typescript" target="_blank">https://www.syncfusion.com/resources/techportal/ebooks/typescript</a>
+<a class="url" href="http://clojurescriptkoans.com/" target="_blank">http://clojurescriptkoans.com/</a>
+<a class="url" href="https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5" target="_blank">https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5</a>
+<a class="url" href="http://rapmycode.ru/" target="_blank">http://rapmycode.ru/</a>
+<a class="url" href="http://rapmycode.ru/track/916" target="_blank">http://rapmycode.ru/track/916</a>
+<a class="url" href="http://2015.jsconf.us/speakers.html#ihsanullah" target="_blank">http://2015.jsconf.us/speakers.html#ihsanullah</a>
+<a class="url" href="http://kadamwhite.github.io/talks/2015/sideprojects-empirejs/" target="_blank">http://kadamwhite.github.io/talks/2015/sideprojects-empirejs/</a>
+<a class="url" href="http://tholman.com/elevator.js/" target="_blank">http://tholman.com/elevator.js/</a>
+<a class="url" href="http://tholman.com/" target="_blank">http://tholman.com/</a>
+<a class="url" href="http://www.theuselessweb.com/" target="_blank">http://www.theuselessweb.com/</a>
+<a class="url" href="http://www.staggeringbeauty.com/" target="_blank">http://www.staggeringbeauty.com/</a>
+<a class="url" href="http://www.trypap.com/" target="_blank">http://www.trypap.com/</a>
+<a class="url" href="https://css-tricks.com/video-screencasts/125-how-to-stay-up-to-date-with-web-technology/" target="_blank">https://css-tricks.com/video-screencasts/125-how-to-stay-up-to-date-with-web-technology/</a>
+<a class="url" href="http://www.uncontext.com/" target="_blank">http://www.uncontext.com/</a>
+<a class="url" href="http://frontender.info/" target="_blank">http://frontender.info/</a>
+<a class="url" href="http://chlg.co/1DOc20O" target="_blank">http://chlg.co/1DOc20O</a>
+<a class="url" href="http://frontendbabel.info" target="_blank">http://frontendbabel.info</a>
+<a class="url" href="http://learnxinyminutes.com/" target="_blank">http://learnxinyminutes.com/</a>
+<a class="url" href="https://www.udacity.com/course/browser-rendering-optimization--ud860" target="_blank">https://www.udacity.com/course/browser-rendering-optimization--ud860</a>
+<a class="url" href="http://learningwebgl.com/blog/?p=1828" target="_blank">http://learningwebgl.com/blog/?p=1828</a>
+<a class="url" href="http://stickerlicious.de/" target="_blank">http://stickerlicious.de/</a>
+<a class="url" href="https://lh3.googleusercontent.com/-fbUjiPvAYU8/U6qbnGBaoKI/AAAAAAAAB9I/hGoPBDq3IkU/w1412-h1060-no/IMG_20140406_212155.jpg" target="_blank">https://lh3.googleusercontent.com/-fbUjiPvAYU8/U6qbnGBaoKI/AAAAAAAAB9I/hGoPBDq3IkU/w1412-h1060-no/IMG_20140406_212155.jpg</a>
+<a class="url" href="http://tonsky.me/talks/2015-codefest/" target="_blank">http://tonsky.me/talks/2015-codefest/</a>
+<a class="url" href="http://ilyabirman.ru/projects/typography-layout/" target="_blank">http://ilyabirman.ru/projects/typography-layout/</a>

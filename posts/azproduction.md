@@ -645,21 +645,21 @@ RT [@agudulin](https://twitter.com/agudulin "Alexander Gudulin"): .[@jsunderhood
 ## Ссылки
 
 ### www.youtube.com  
-<a href="https://www.youtube.com/user/AweMeChannel" target="_blank">https://www.youtube.com/user/AweMeChannel</a>  
-<a href="https://www.youtube.com/user/DigitalRevCom" target="_blank">https://www.youtube.com/user/DigitalRevCom</a>  
-<a href="https://www.youtube.com/watch?v=mXRkFMg4PR0" target="_blank">https://www.youtube.com/watch?v=mXRkFMg4PR0</a>  
-<a href="https://www.youtube.com/watch?v=PAA9O4E1IM4" target="_blank">https://www.youtube.com/watch?v=PAA9O4E1IM4</a>  
-<a href="https://www.youtube.com/watch?v=ee_U2t-8L48" target="_blank">https://www.youtube.com/watch?v=ee_U2t-8L48</a>
+<a class="url" href="https://www.youtube.com/user/AweMeChannel" target="_blank">https://www.youtube.com/user/AweMeChannel</a>
+<a class="url" href="https://www.youtube.com/user/DigitalRevCom" target="_blank">https://www.youtube.com/user/DigitalRevCom</a>
+<a class="url" href="https://www.youtube.com/watch?v=mXRkFMg4PR0" target="_blank">https://www.youtube.com/watch?v=mXRkFMg4PR0</a>
+<a class="url" href="https://www.youtube.com/watch?v=PAA9O4E1IM4" target="_blank">https://www.youtube.com/watch?v=PAA9O4E1IM4</a>
+<a class="url" href="https://www.youtube.com/watch?v=ee_U2t-8L48" target="_blank">https://www.youtube.com/watch?v=ee_U2t-8L48</a>
 
 ### Другие
 
-<a href="https://github.com/sapegin/react-text-stats" target="_blank">https://github.com/sapegin/react-text-stats</a>  
-<a href="https://github.com/azproduction/relocating-to-berlin" target="_blank">https://github.com/azproduction/relocating-to-berlin</a>  
-<a href="https://github.com/azproduction/relocating-to-berlin/blob/master/README.md" target="_blank">https://github.com/azproduction/relocating-to-berlin/blob/master/README.md</a>  
-<a href="https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/" target="_blank">https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/</a>  
-<a href="https://vc.ru/p/going-to-berlin" target="_blank">https://vc.ru/p/going-to-berlin</a>  
-<a href="https://goo.gl/7OClW4" target="_blank">https://goo.gl/7OClW4</a>  
-<a href="https://goo.gl/kbAoSS" target="_blank">https://goo.gl/kbAoSS</a>  
-<a href="http://azproduction.ru/talk-back-to-text-ui/" target="_blank">http://azproduction.ru/talk-back-to-text-ui/</a>  
-<a href="https://jsunderhood.ru/shuvalov_anton/" target="_blank">https://jsunderhood.ru/shuvalov_anton/</a>  
-<a href="http://pioner-cinema.ru/en/schedule/" target="_blank">http://pioner-cinema.ru/en/schedule/</a>
+<a class="url" href="https://github.com/sapegin/react-text-stats" target="_blank">https://github.com/sapegin/react-text-stats</a>
+<a class="url" href="https://github.com/azproduction/relocating-to-berlin" target="_blank">https://github.com/azproduction/relocating-to-berlin</a>
+<a class="url" href="https://github.com/azproduction/relocating-to-berlin/blob/master/README.md" target="_blank">https://github.com/azproduction/relocating-to-berlin/blob/master/README.md</a>
+<a class="url" href="https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/" target="_blank">https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/</a>
+<a class="url" href="https://vc.ru/p/going-to-berlin" target="_blank">https://vc.ru/p/going-to-berlin</a>
+<a class="url" href="https://goo.gl/7OClW4" target="_blank">https://goo.gl/7OClW4</a>
+<a class="url" href="https://goo.gl/kbAoSS" target="_blank">https://goo.gl/kbAoSS</a>
+<a class="url" href="http://azproduction.ru/talk-back-to-text-ui/" target="_blank">http://azproduction.ru/talk-back-to-text-ui/</a>
+<a class="url" href="https://jsunderhood.ru/shuvalov_anton/" target="_blank">https://jsunderhood.ru/shuvalov_anton/</a>
+<a class="url" href="http://pioner-cinema.ru/en/schedule/" target="_blank">http://pioner-cinema.ru/en/schedule/</a>

@@ -612,53 +612,53 @@ RT [@shuvalov\_anton](https://twitter.com/shuvalov_anton "Darth Shuvalov"): Ок
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/search?q=stars%3a%3E1&s=stars&type=Repositories" target="_blank">https://github.com/search?q=stars%3a%3E1&s=stars&type=Repositories</a>  
-<a href="https://github.com/search?utf8=%E2%9C%93&q=is%3Apr+author%3Apaulmillr+is%3Amerged+is%3Apublic&type=Issues&ref=searchresults" target="_blank">https://github.com/search?utf8=%E2%9C%93&q=is%3Apr+author%3Apaulmillr+is%3Amerged+is%3Apublic&type=Issues&ref=searchresults</a>  
-<a href="https://github.com/npm/newww/issues/313" target="_blank">https://github.com/npm/newww/issues/313</a>  
-<a href="https://github.com/axemclion/IndexedDBShim" target="_blank">https://github.com/axemclion/IndexedDBShim</a>  
-<a href="https://github.com/treojs/treo" target="_blank">https://github.com/treojs/treo</a>  
-<a href="https://github.com/treojs/treo/issues/14#issuecomment-68018036" target="_blank">https://github.com/treojs/treo/issues/14#issuecomment-68018036</a>  
-<a href="https://github.com/HubSpot/offline" target="_blank">https://github.com/HubSpot/offline</a>  
-<a href="https://github.com/ottypes" target="_blank">https://github.com/ottypes</a>  
-<a href="https://github.com/share/livedb" target="_blank">https://github.com/share/livedb</a>  
-<a href="https://github.com/alekseykulikov/dreamy" target="_blank">https://github.com/alekseykulikov/dreamy</a>  
-<a href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>  
-<a href="https://github.com/alekseykulikov" target="_blank">https://github.com/alekseykulikov</a>
+<a class="url" href="https://github.com/search?q=stars%3a%3E1&s=stars&type=Repositories" target="_blank">https://github.com/search?q=stars%3a%3E1&s=stars&type=Repositories</a>
+<a class="url" href="https://github.com/search?utf8=%E2%9C%93&q=is%3Apr+author%3Apaulmillr+is%3Amerged+is%3Apublic&type=Issues&ref=searchresults" target="_blank">https://github.com/search?utf8=%E2%9C%93&q=is%3Apr+author%3Apaulmillr+is%3Amerged+is%3Apublic&type=Issues&ref=searchresults</a>
+<a class="url" href="https://github.com/npm/newww/issues/313" target="_blank">https://github.com/npm/newww/issues/313</a>
+<a class="url" href="https://github.com/axemclion/IndexedDBShim" target="_blank">https://github.com/axemclion/IndexedDBShim</a>
+<a class="url" href="https://github.com/treojs/treo" target="_blank">https://github.com/treojs/treo</a>
+<a class="url" href="https://github.com/treojs/treo/issues/14#issuecomment-68018036" target="_blank">https://github.com/treojs/treo/issues/14#issuecomment-68018036</a>
+<a class="url" href="https://github.com/HubSpot/offline" target="_blank">https://github.com/HubSpot/offline</a>
+<a class="url" href="https://github.com/ottypes" target="_blank">https://github.com/ottypes</a>
+<a class="url" href="https://github.com/share/livedb" target="_blank">https://github.com/share/livedb</a>
+<a class="url" href="https://github.com/alekseykulikov/dreamy" target="_blank">https://github.com/alekseykulikov/dreamy</a>
+<a class="url" href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>
+<a class="url" href="https://github.com/alekseykulikov" target="_blank">https://github.com/alekseykulikov</a>
 
 ### Другие
 
-<a href="http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/" target="_blank">http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/</a>  
-<a href="http://www.lancelist.com/" target="_blank">http://www.lancelist.com/</a>  
-<a href="https://www.toptal.com/#utilize-wise-software-freelancers" target="_blank">https://www.toptal.com/#utilize-wise-software-freelancers</a>  
-<a href="https://codility.com/" target="_blank">https://codility.com/</a>  
-<a href="http://kulikovaelena.tumblr.com/movetoSlovenia" target="_blank">http://kulikovaelena.tumblr.com/movetoSlovenia</a>  
-<a href="http://aosabook.org/en/index.html" target="_blank">http://aosabook.org/en/index.html</a>  
-<a href="https://www.youtube.com/watch?v=FKTxC9pl-WM" target="_blank">https://www.youtube.com/watch?v=FKTxC9pl-WM</a>  
-<a href="https://www.youtube.com/watch?v=5EFAnFske_w" target="_blank">https://www.youtube.com/watch?v=5EFAnFske_w</a>  
-<a href="https://www.youtube.com/watch?v=uyZKWyciSXY" target="_blank">https://www.youtube.com/watch?v=uyZKWyciSXY</a>  
-<a href="https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html" target="_blank">https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html</a>  
-<a href="https://developer.apple.com/library/prerelease/mac/documentation/AppleApplications/Conceptual/SafariJSProgTopics/Articles/RespondingtoForceTouchEventsfromJavaScript.html#//apple_ref/doc/uid/TP40016162" target="_blank">https://developer.apple.com/library/prerelease/mac/documentation/AppleApplications/Conceptual/SafariJSProgTopics/Articles/RespondingtoForceTouchEventsfromJavaScript.html#//apple_ref/doc/uid/TP40016162</a>  
-<a href="http://nodeup.com/eightyseven" target="_blank">http://nodeup.com/eightyseven</a>  
-<a href="https://www.npmjs.com/package/component-type" target="_blank">https://www.npmjs.com/package/component-type</a>  
-<a href="https://www.npmjs.com/package/ms" target="_blank">https://www.npmjs.com/package/ms</a>  
-<a href="http://frontender.info/designing-javascript-apis-usability/" target="_blank">http://frontender.info/designing-javascript-apis-usability/</a>  
-<a href="http://slides.com/alekseykulikov/offline-web-perm-js-meetup#/" target="_blank">http://slides.com/alekseykulikov/offline-web-perm-js-meetup#/</a>  
-<a href="http://en.wikipedia.org/wiki/Vend_%28software%29" target="_blank">http://en.wikipedia.org/wiki/Vend_%28software%29</a>  
-<a href="http://en.wikipedia.org/wiki/Operational_transformation" target="_blank">http://en.wikipedia.org/wiki/Operational_transformation</a>  
-<a href="https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/" target="_blank">https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/</a>  
-<a href="https://hacks.mozilla.org/2015/06/the-state-of-web-components/" target="_blank">https://hacks.mozilla.org/2015/06/the-state-of-web-components/</a>  
-<a href="https://hacks.mozilla.org/category/es6-in-depth/" target="_blank">https://hacks.mozilla.org/category/es6-in-depth/</a>  
-<a href="http://silentimp.github.io/offline-first/" target="_blank">http://silentimp.github.io/offline-first/</a>  
-<a href="http://navigator.onLine" target="_blank">http://navigator.onLine</a>  
-<a href="http://www.dataprotocols.org/en/latest/sleep.html" target="_blank">http://www.dataprotocols.org/en/latest/sleep.html</a>  
-<a href="http://alistapart.com/article/application-cache-is-a-douchebag" target="_blank">http://alistapart.com/article/application-cache-is-a-douchebag</a>  
-<a href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/" target="_blank">http://www.html5rocks.com/en/tutorials/service-worker/introduction/</a>  
-<a href="http://fedsonslack.com" target="_blank">http://fedsonslack.com</a>  
-<a href="http://frontendlondon-slack.herokuapp.com" target="_blank">http://frontendlondon-slack.herokuapp.com</a>  
-<a href="http://gitter.im/dev-ua/" target="_blank">http://gitter.im/dev-ua/</a>  
-<a href="http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/" target="_blank">http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/</a>  
-<a href="http://techdistortion.com/podcasts/pragmatic/episode-30-coffee" target="_blank">http://techdistortion.com/podcasts/pragmatic/episode-30-coffee</a>  
-<a href="http://flashlight.nateparrott.com/" target="_blank">http://flashlight.nateparrott.com/</a>  
-<a href="https://leanpub.com/exploring-es6/read" target="_blank">https://leanpub.com/exploring-es6/read</a>  
-<a href="http://philipwalton.github.io/solved-by-flexbox/" target="_blank">http://philipwalton.github.io/solved-by-flexbox/</a>  
-<a href="http://hugo.ferreira.cc/post/56534646042/her-diary-tonight-i-thought-my-husband-was" target="_blank">http://hugo.ferreira.cc/post/56534646042/her-diary-tonight-i-thought-my-husband-was</a>
+<a class="url" href="http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/" target="_blank">http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/</a>
+<a class="url" href="http://www.lancelist.com/" target="_blank">http://www.lancelist.com/</a>
+<a class="url" href="https://www.toptal.com/#utilize-wise-software-freelancers" target="_blank">https://www.toptal.com/#utilize-wise-software-freelancers</a>
+<a class="url" href="https://codility.com/" target="_blank">https://codility.com/</a>
+<a class="url" href="http://kulikovaelena.tumblr.com/movetoSlovenia" target="_blank">http://kulikovaelena.tumblr.com/movetoSlovenia</a>
+<a class="url" href="http://aosabook.org/en/index.html" target="_blank">http://aosabook.org/en/index.html</a>
+<a class="url" href="https://www.youtube.com/watch?v=FKTxC9pl-WM" target="_blank">https://www.youtube.com/watch?v=FKTxC9pl-WM</a>
+<a class="url" href="https://www.youtube.com/watch?v=5EFAnFske_w" target="_blank">https://www.youtube.com/watch?v=5EFAnFske_w</a>
+<a class="url" href="https://www.youtube.com/watch?v=uyZKWyciSXY" target="_blank">https://www.youtube.com/watch?v=uyZKWyciSXY</a>
+<a class="url" href="https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html" target="_blank">https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html</a>
+<a class="url" href="https://developer.apple.com/library/prerelease/mac/documentation/AppleApplications/Conceptual/SafariJSProgTopics/Articles/RespondingtoForceTouchEventsfromJavaScript.html#//apple_ref/doc/uid/TP40016162" target="_blank">https://developer.apple.com/library/prerelease/mac/documentation/AppleApplications/Conceptual/SafariJSProgTopics/Articles/RespondingtoForceTouchEventsfromJavaScript.html#//apple_ref/doc/uid/TP40016162</a>
+<a class="url" href="http://nodeup.com/eightyseven" target="_blank">http://nodeup.com/eightyseven</a>
+<a class="url" href="https://www.npmjs.com/package/component-type" target="_blank">https://www.npmjs.com/package/component-type</a>
+<a class="url" href="https://www.npmjs.com/package/ms" target="_blank">https://www.npmjs.com/package/ms</a>
+<a class="url" href="http://frontender.info/designing-javascript-apis-usability/" target="_blank">http://frontender.info/designing-javascript-apis-usability/</a>
+<a class="url" href="http://slides.com/alekseykulikov/offline-web-perm-js-meetup#/" target="_blank">http://slides.com/alekseykulikov/offline-web-perm-js-meetup#/</a>
+<a class="url" href="http://en.wikipedia.org/wiki/Vend_%28software%29" target="_blank">http://en.wikipedia.org/wiki/Vend_%28software%29</a>
+<a class="url" href="http://en.wikipedia.org/wiki/Operational_transformation" target="_blank">http://en.wikipedia.org/wiki/Operational_transformation</a>
+<a class="url" href="https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/" target="_blank">https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/</a>
+<a class="url" href="https://hacks.mozilla.org/2015/06/the-state-of-web-components/" target="_blank">https://hacks.mozilla.org/2015/06/the-state-of-web-components/</a>
+<a class="url" href="https://hacks.mozilla.org/category/es6-in-depth/" target="_blank">https://hacks.mozilla.org/category/es6-in-depth/</a>
+<a class="url" href="http://silentimp.github.io/offline-first/" target="_blank">http://silentimp.github.io/offline-first/</a>
+<a class="url" href="http://navigator.onLine" target="_blank">http://navigator.onLine</a>
+<a class="url" href="http://www.dataprotocols.org/en/latest/sleep.html" target="_blank">http://www.dataprotocols.org/en/latest/sleep.html</a>
+<a class="url" href="http://alistapart.com/article/application-cache-is-a-douchebag" target="_blank">http://alistapart.com/article/application-cache-is-a-douchebag</a>
+<a class="url" href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/" target="_blank">http://www.html5rocks.com/en/tutorials/service-worker/introduction/</a>
+<a class="url" href="http://fedsonslack.com" target="_blank">http://fedsonslack.com</a>
+<a class="url" href="http://frontendlondon-slack.herokuapp.com" target="_blank">http://frontendlondon-slack.herokuapp.com</a>
+<a class="url" href="http://gitter.im/dev-ua/" target="_blank">http://gitter.im/dev-ua/</a>
+<a class="url" href="http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/" target="_blank">http://www.books.ru/books/javascript-podrobnoe-rukovodstvo-6-e-izdanie-1814274/</a>
+<a class="url" href="http://techdistortion.com/podcasts/pragmatic/episode-30-coffee" target="_blank">http://techdistortion.com/podcasts/pragmatic/episode-30-coffee</a>
+<a class="url" href="http://flashlight.nateparrott.com/" target="_blank">http://flashlight.nateparrott.com/</a>
+<a class="url" href="https://leanpub.com/exploring-es6/read" target="_blank">https://leanpub.com/exploring-es6/read</a>
+<a class="url" href="http://philipwalton.github.io/solved-by-flexbox/" target="_blank">http://philipwalton.github.io/solved-by-flexbox/</a>
+<a class="url" href="http://hugo.ferreira.cc/post/56534646042/her-diary-tonight-i-thought-my-husband-was" target="_blank">http://hugo.ferreira.cc/post/56534646042/her-diary-tonight-i-thought-my-husband-was</a>

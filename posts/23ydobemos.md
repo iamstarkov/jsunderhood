@@ -1700,31 +1700,31 @@ RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): .[@jsunderhood]
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/mistadikay/bumper" target="_blank">https://github.com/mistadikay/bumper</a>  
-<a href="https://github.com/atom-archive/electron-starter" target="_blank">https://github.com/atom-archive/electron-starter</a>  
-<a href="https://github.com/atom/grunt-electron-installer" target="_blank">https://github.com/atom/grunt-electron-installer</a>  
-<a href="https://github.com/atom/electron/pull/1984" target="_blank">https://github.com/atom/electron/pull/1984</a>  
-<a href="https://github.com/rakuten-frontend/grunt-appdmg" target="_blank">https://github.com/rakuten-frontend/grunt-appdmg</a>  
-<a href="https://github.com/sindresorhus/awesome-electron" target="_blank">https://github.com/sindresorhus/awesome-electron</a>  
-<a href="https://github.com/typicode/husky#readme" target="_blank">https://github.com/typicode/husky#readme</a>  
-<a href="https://github.com/AtnNn/rethinkdb-stream" target="_blank">https://github.com/AtnNn/rethinkdb-stream</a>  
-<a href="https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-05-01/optimism.md" target="_blank">https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-05-01/optimism.md</a>
+<a class="url" href="https://github.com/mistadikay/bumper" target="_blank">https://github.com/mistadikay/bumper</a>
+<a class="url" href="https://github.com/atom-archive/electron-starter" target="_blank">https://github.com/atom-archive/electron-starter</a>
+<a class="url" href="https://github.com/atom/grunt-electron-installer" target="_blank">https://github.com/atom/grunt-electron-installer</a>
+<a class="url" href="https://github.com/atom/electron/pull/1984" target="_blank">https://github.com/atom/electron/pull/1984</a>
+<a class="url" href="https://github.com/rakuten-frontend/grunt-appdmg" target="_blank">https://github.com/rakuten-frontend/grunt-appdmg</a>
+<a class="url" href="https://github.com/sindresorhus/awesome-electron" target="_blank">https://github.com/sindresorhus/awesome-electron</a>
+<a class="url" href="https://github.com/typicode/husky#readme" target="_blank">https://github.com/typicode/husky#readme</a>
+<a class="url" href="https://github.com/AtnNn/rethinkdb-stream" target="_blank">https://github.com/AtnNn/rethinkdb-stream</a>
+<a class="url" href="https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-05-01/optimism.md" target="_blank">https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-05-01/optimism.md</a>
 
 ### Другие
 
-<a href="http://m.youtube.com/watch?v=BF58ZJ1ZQxY" target="_blank">http://m.youtube.com/watch?v=BF58ZJ1ZQxY</a>  
-<a href="http://bem.info" target="_blank">http://bem.info</a>  
-<a href="http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html" target="_blank">http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html</a>  
-<a href="https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be" target="_blank">https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be</a>  
-<a href="https://www.youtube.com/watch?v=UNFcq8nkDrI" target="_blank">https://www.youtube.com/watch?v=UNFcq8nkDrI</a>  
-<a href="http://buznik.net/lifeChart/" target="_blank">http://buznik.net/lifeChart/</a>  
-<a href="http://html5.by/blog/nwjs/" target="_blank">http://html5.by/blog/nwjs/</a>  
-<a href="https://houndci.com/" target="_blank">https://houndci.com/</a>  
-<a href="http://emberjs.com/blog/2015/08/13/ember-2-0-released.html" target="_blank">http://emberjs.com/blog/2015/08/13/ember-2-0-released.html</a>  
-<a href="http://apple.co/1LaFFPi" target="_blank">http://apple.co/1LaFFPi</a>  
-<a href="http://bit.ly/1Eu9xl4" target="_blank">http://bit.ly/1Eu9xl4</a>  
-<a href="https://www.youneedabudget.com/" target="_blank">https://www.youneedabudget.com/</a>  
-<a href="http://travelbydrone.com" target="_blank">http://travelbydrone.com</a>  
-<a href="https://www.npmjs.com/package/throttle-proxy" target="_blank">https://www.npmjs.com/package/throttle-proxy</a>  
-<a href="http://toshl.com" target="_blank">http://toshl.com</a>  
-<a href="https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084" target="_blank">https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084</a>
+<a class="url" href="http://m.youtube.com/watch?v=BF58ZJ1ZQxY" target="_blank">http://m.youtube.com/watch?v=BF58ZJ1ZQxY</a>
+<a class="url" href="http://bem.info" target="_blank">http://bem.info</a>
+<a class="url" href="http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html" target="_blank">http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html</a>
+<a class="url" href="https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be" target="_blank">https://www.youtube.com/watch?v=xPPCzryZK44&feature=youtu.be</a>
+<a class="url" href="https://www.youtube.com/watch?v=UNFcq8nkDrI" target="_blank">https://www.youtube.com/watch?v=UNFcq8nkDrI</a>
+<a class="url" href="http://buznik.net/lifeChart/" target="_blank">http://buznik.net/lifeChart/</a>
+<a class="url" href="http://html5.by/blog/nwjs/" target="_blank">http://html5.by/blog/nwjs/</a>
+<a class="url" href="https://houndci.com/" target="_blank">https://houndci.com/</a>
+<a class="url" href="http://emberjs.com/blog/2015/08/13/ember-2-0-released.html" target="_blank">http://emberjs.com/blog/2015/08/13/ember-2-0-released.html</a>
+<a class="url" href="http://apple.co/1LaFFPi" target="_blank">http://apple.co/1LaFFPi</a>
+<a class="url" href="http://bit.ly/1Eu9xl4" target="_blank">http://bit.ly/1Eu9xl4</a>
+<a class="url" href="https://www.youneedabudget.com/" target="_blank">https://www.youneedabudget.com/</a>
+<a class="url" href="http://travelbydrone.com" target="_blank">http://travelbydrone.com</a>
+<a class="url" href="https://www.npmjs.com/package/throttle-proxy" target="_blank">https://www.npmjs.com/package/throttle-proxy</a>
+<a class="url" href="http://toshl.com" target="_blank">http://toshl.com</a>
+<a class="url" href="https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084" target="_blank">https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084</a>

@@ -681,18 +681,18 @@ RT [@\_\_fro](https://twitter.com/__fro "Alexey Frolov"): [@Timrael](https://twi
 
 ## Ссылки
 
-<a href="http://codecanyon.net/item/nodecart-nodejs-shopping-cart/8853867" target="_blank">http://codecanyon.net/item/nodecart-nodejs-shopping-cart/8853867</a>  
-<a href="http://www.b-reel.com/projects/digital/case/424/gravity" target="_blank">http://www.b-reel.com/projects/digital/case/424/gravity</a>  
-<a href="http://www.northkingdom.com" target="_blank">http://www.northkingdom.com</a>  
-<a href="http://interactivehaiku.com/lifeisshort/" target="_blank">http://interactivehaiku.com/lifeisshort/</a>  
-<a href="https://github.com/mrdoob/three.js" target="_blank">https://github.com/mrdoob/three.js</a>  
-<a href="https://github.com/MVC-Elements" target="_blank">https://github.com/MVC-Elements</a>  
-<a href="https://github.com/google/incremental-dom" target="_blank">https://github.com/google/incremental-dom</a>  
-<a href="http://babylonjs.com" target="_blank">http://babylonjs.com</a>  
-<a href="http://pixelscommander.com/polygon/ripples/demo/ripples.html" target="_blank">http://pixelscommander.com/polygon/ripples/demo/ripples.html</a>  
-<a href="http://pixelscommander.com/polygon/htmlgl/demo/ripples.html" target="_blank">http://pixelscommander.com/polygon/htmlgl/demo/ripples.html</a>  
-<a href="http://threejs.org/examples/canvas_ascii_effect.html" target="_blank">http://threejs.org/examples/canvas_ascii_effect.html</a>  
-<a href="http://www.creativeapplications.net/" target="_blank">http://www.creativeapplications.net/</a>  
-<a href="https://medium.com/@nsisodiya/flux-inside-web-workers-cc51fb463882" target="_blank">https://medium.com/@nsisodiya/flux-inside-web-workers-cc51fb463882</a>  
-<a href="http://shadertoy.com" target="_blank">http://shadertoy.com</a>  
-<a href="http://challengingnative.com/" target="_blank">http://challengingnative.com/</a>
+<a class="url" href="http://codecanyon.net/item/nodecart-nodejs-shopping-cart/8853867" target="_blank">http://codecanyon.net/item/nodecart-nodejs-shopping-cart/8853867</a>
+<a class="url" href="http://www.b-reel.com/projects/digital/case/424/gravity" target="_blank">http://www.b-reel.com/projects/digital/case/424/gravity</a>
+<a class="url" href="http://www.northkingdom.com" target="_blank">http://www.northkingdom.com</a>
+<a class="url" href="http://interactivehaiku.com/lifeisshort/" target="_blank">http://interactivehaiku.com/lifeisshort/</a>
+<a class="url" href="https://github.com/mrdoob/three.js" target="_blank">https://github.com/mrdoob/three.js</a>
+<a class="url" href="https://github.com/MVC-Elements" target="_blank">https://github.com/MVC-Elements</a>
+<a class="url" href="https://github.com/google/incremental-dom" target="_blank">https://github.com/google/incremental-dom</a>
+<a class="url" href="http://babylonjs.com" target="_blank">http://babylonjs.com</a>
+<a class="url" href="http://pixelscommander.com/polygon/ripples/demo/ripples.html" target="_blank">http://pixelscommander.com/polygon/ripples/demo/ripples.html</a>
+<a class="url" href="http://pixelscommander.com/polygon/htmlgl/demo/ripples.html" target="_blank">http://pixelscommander.com/polygon/htmlgl/demo/ripples.html</a>
+<a class="url" href="http://threejs.org/examples/canvas_ascii_effect.html" target="_blank">http://threejs.org/examples/canvas_ascii_effect.html</a>
+<a class="url" href="http://www.creativeapplications.net/" target="_blank">http://www.creativeapplications.net/</a>
+<a class="url" href="https://medium.com/@nsisodiya/flux-inside-web-workers-cc51fb463882" target="_blank">https://medium.com/@nsisodiya/flux-inside-web-workers-cc51fb463882</a>
+<a class="url" href="http://shadertoy.com" target="_blank">http://shadertoy.com</a>
+<a class="url" href="http://challengingnative.com/" target="_blank">http://challengingnative.com/</a>

@@ -1735,47 +1735,47 @@ RT [@roman01la](https://twitter.com/roman01la "Roman Liutikov"): [@jsunderhood](
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/iamstarkov/awesome-collective-twitters" target="_blank">https://github.com/iamstarkov/awesome-collective-twitters</a>  
-<a href="https://github.com/rackt/redux/pull/430" target="_blank">https://github.com/rackt/redux/pull/430</a>  
-<a href="https://github.com/roman01la/mori-transit" target="_blank">https://github.com/roman01la/mori-transit</a>  
-<a href="https://github.com/swannodette/mori#faster" target="_blank">https://github.com/swannodette/mori#faster</a>  
-<a href="https://github.com/ubolonton/js-csp" target="_blank">https://github.com/ubolonton/js-csp</a>  
-<a href="https://github.com/Level/levelup" target="_blank">https://github.com/Level/levelup</a>  
-<a href="https://github.com/sindresorhus/awesome-nodejs" target="_blank">https://github.com/sindresorhus/awesome-nodejs</a>  
-<a href="https://github.com/facebook/jscodeshift" target="_blank">https://github.com/facebook/jscodeshift</a>  
-<a href="https://github.com/facebook/react/blob/master/packages/react-codemod/README.md" target="_blank">https://github.com/facebook/react/blob/master/packages/react-codemod/README.md</a>
+<a class="url" href="https://github.com/iamstarkov/awesome-collective-twitters" target="_blank">https://github.com/iamstarkov/awesome-collective-twitters</a>
+<a class="url" href="https://github.com/rackt/redux/pull/430" target="_blank">https://github.com/rackt/redux/pull/430</a>
+<a class="url" href="https://github.com/roman01la/mori-transit" target="_blank">https://github.com/roman01la/mori-transit</a>
+<a class="url" href="https://github.com/swannodette/mori#faster" target="_blank">https://github.com/swannodette/mori#faster</a>
+<a class="url" href="https://github.com/ubolonton/js-csp" target="_blank">https://github.com/ubolonton/js-csp</a>
+<a class="url" href="https://github.com/Level/levelup" target="_blank">https://github.com/Level/levelup</a>
+<a class="url" href="https://github.com/sindresorhus/awesome-nodejs" target="_blank">https://github.com/sindresorhus/awesome-nodejs</a>
+<a class="url" href="https://github.com/facebook/jscodeshift" target="_blank">https://github.com/facebook/jscodeshift</a>
+<a class="url" href="https://github.com/facebook/react/blob/master/packages/react-codemod/README.md" target="_blank">https://github.com/facebook/react/blob/master/packages/react-codemod/README.md</a>
 
 ### Другие
 
-<a href="http://alternoteapp.com/" target="_blank">http://alternoteapp.com/</a>  
-<a href="http://radiojs.ru/2015/07/radiojs-27/" target="_blank">http://radiojs.ru/2015/07/radiojs-27/</a>  
-<a href="https://gist.github.com/AlexeyFrolov/eebb41610f0d97d282ce" target="_blank">https://gist.github.com/AlexeyFrolov/eebb41610f0d97d282ce</a>  
-<a href="https://gist.github.com/AlexeyFrolov/47ab5fc510f6af0b282e" target="_blank">https://gist.github.com/AlexeyFrolov/47ab5fc510f6af0b282e</a>  
-<a href="https://gist.github.com/boccob/0d82c78a1f83550a889c" target="_blank">https://gist.github.com/boccob/0d82c78a1f83550a889c</a>  
-<a href="https://www.reindex.io" target="_blank">https://www.reindex.io</a>  
-<a href="https://www.reindex.io/blog/you-might-not-need-underscore/" target="_blank">https://www.reindex.io/blog/you-might-not-need-underscore/</a>  
-<a href="https://www.npmjs.com/package/url" target="_blank">https://www.npmjs.com/package/url</a>  
-<a href="http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting" target="_blank">http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting</a>  
-<a href="http://m.youtube.com/watch?v=m3svKOdZijA" target="_blank">http://m.youtube.com/watch?v=m3svKOdZijA</a>  
-<a href="http://pastebin.com/1c0Jt87u" target="_blank">http://pastebin.com/1c0Jt87u</a>  
-<a href="http://swannodette.github.io/2014/07/30/hijacking-json/" target="_blank">http://swannodette.github.io/2014/07/30/hijacking-json/</a>  
-<a href="http://swannodette.github.io/2013/08/24/es6-generators-and-csp/" target="_blank">http://swannodette.github.io/2013/08/24/es6-generators-and-csp/</a>  
-<a href="http://reagent-project.github.io/" target="_blank">http://reagent-project.github.io/</a>  
-<a href="http://tinyurl.com/mtqvfs3" target="_blank">http://tinyurl.com/mtqvfs3</a>  
-<a href="http://jsperf.com/plain-js-vs-immutable-vs-mori/37" target="_blank">http://jsperf.com/plain-js-vs-immutable-vs-mori/37</a>  
-<a href="https://jsunderhood.ru/RReverser/" target="_blank">https://jsunderhood.ru/RReverser/</a>  
-<a href="https://nodejs.org/en/blog/release/v4.0.0/" target="_blank">https://nodejs.org/en/blog/release/v4.0.0/</a>  
-<a href="https://www.reddit.com/r/node/" target="_blank">https://www.reddit.com/r/node/</a>  
-<a href="https://nodesource.com/blog/understanding-object-streams" target="_blank">https://nodesource.com/blog/understanding-object-streams</a>  
-<a href="http://www.youtube.com/watch?v=C-SbXvXi7Og" target="_blank">http://www.youtube.com/watch?v=C-SbXvXi7Og</a>  
-<a href="https://www.youtube.com/watch?v=W2DgDNQZOwo&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=6" target="_blank">https://www.youtube.com/watch?v=W2DgDNQZOwo&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=6</a>  
-<a href="https://www.youtube.com/watch?v=AhxcGGeh5ho" target="_blank">https://www.youtube.com/watch?v=AhxcGGeh5ho</a>  
-<a href="http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14" target="_blank">http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14</a>  
-<a href="http://www.2ality.com/2015/03/no-promises.html" target="_blank">http://www.2ality.com/2015/03/no-promises.html</a>  
-<a href="http://www.graspjs.com/" target="_blank">http://www.graspjs.com/</a>  
-<a href="http://frontender.info/why-contenteditable-is-terrible/" target="_blank">http://frontender.info/why-contenteditable-is-terrible/</a>  
-<a href="https://meduza.io/feature/2015/09/09/zapasaytes-popkornom" target="_blank">https://meduza.io/feature/2015/09/09/zapasaytes-popkornom</a>  
-<a href="http://tyba.com/" target="_blank">http://tyba.com/</a>  
-<a href="http://www.lookatme.ru/mag/live/opinion/215875-parallels-software-engineers" target="_blank">http://www.lookatme.ru/mag/live/opinion/215875-parallels-software-engineers</a>  
-<a href="http://bit.ly/1JZQ0es" target="_blank">http://bit.ly/1JZQ0es</a>  
-<a href="https://m.hh.ru/employer/662769" target="_blank">https://m.hh.ru/employer/662769</a>
+<a class="url" href="http://alternoteapp.com/" target="_blank">http://alternoteapp.com/</a>
+<a class="url" href="http://radiojs.ru/2015/07/radiojs-27/" target="_blank">http://radiojs.ru/2015/07/radiojs-27/</a>
+<a class="url" href="https://gist.github.com/AlexeyFrolov/eebb41610f0d97d282ce" target="_blank">https://gist.github.com/AlexeyFrolov/eebb41610f0d97d282ce</a>
+<a class="url" href="https://gist.github.com/AlexeyFrolov/47ab5fc510f6af0b282e" target="_blank">https://gist.github.com/AlexeyFrolov/47ab5fc510f6af0b282e</a>
+<a class="url" href="https://gist.github.com/boccob/0d82c78a1f83550a889c" target="_blank">https://gist.github.com/boccob/0d82c78a1f83550a889c</a>
+<a class="url" href="https://www.reindex.io" target="_blank">https://www.reindex.io</a>
+<a class="url" href="https://www.reindex.io/blog/you-might-not-need-underscore/" target="_blank">https://www.reindex.io/blog/you-might-not-need-underscore/</a>
+<a class="url" href="https://www.npmjs.com/package/url" target="_blank">https://www.npmjs.com/package/url</a>
+<a class="url" href="http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting" target="_blank">http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting</a>
+<a class="url" href="http://m.youtube.com/watch?v=m3svKOdZijA" target="_blank">http://m.youtube.com/watch?v=m3svKOdZijA</a>
+<a class="url" href="http://pastebin.com/1c0Jt87u" target="_blank">http://pastebin.com/1c0Jt87u</a>
+<a class="url" href="http://swannodette.github.io/2014/07/30/hijacking-json/" target="_blank">http://swannodette.github.io/2014/07/30/hijacking-json/</a>
+<a class="url" href="http://swannodette.github.io/2013/08/24/es6-generators-and-csp/" target="_blank">http://swannodette.github.io/2013/08/24/es6-generators-and-csp/</a>
+<a class="url" href="http://reagent-project.github.io/" target="_blank">http://reagent-project.github.io/</a>
+<a class="url" href="http://tinyurl.com/mtqvfs3" target="_blank">http://tinyurl.com/mtqvfs3</a>
+<a class="url" href="http://jsperf.com/plain-js-vs-immutable-vs-mori/37" target="_blank">http://jsperf.com/plain-js-vs-immutable-vs-mori/37</a>
+<a class="url" href="https://jsunderhood.ru/RReverser/" target="_blank">https://jsunderhood.ru/RReverser/</a>
+<a class="url" href="https://nodejs.org/en/blog/release/v4.0.0/" target="_blank">https://nodejs.org/en/blog/release/v4.0.0/</a>
+<a class="url" href="https://www.reddit.com/r/node/" target="_blank">https://www.reddit.com/r/node/</a>
+<a class="url" href="https://nodesource.com/blog/understanding-object-streams" target="_blank">https://nodesource.com/blog/understanding-object-streams</a>
+<a class="url" href="http://www.youtube.com/watch?v=C-SbXvXi7Og" target="_blank">http://www.youtube.com/watch?v=C-SbXvXi7Og</a>
+<a class="url" href="https://www.youtube.com/watch?v=W2DgDNQZOwo&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=6" target="_blank">https://www.youtube.com/watch?v=W2DgDNQZOwo&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=6</a>
+<a class="url" href="https://www.youtube.com/watch?v=AhxcGGeh5ho" target="_blank">https://www.youtube.com/watch?v=AhxcGGeh5ho</a>
+<a class="url" href="http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14" target="_blank">http://www.youtube.com/watch?v=LlO2_GecWo8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN&index=14</a>
+<a class="url" href="http://www.2ality.com/2015/03/no-promises.html" target="_blank">http://www.2ality.com/2015/03/no-promises.html</a>
+<a class="url" href="http://www.graspjs.com/" target="_blank">http://www.graspjs.com/</a>
+<a class="url" href="http://frontender.info/why-contenteditable-is-terrible/" target="_blank">http://frontender.info/why-contenteditable-is-terrible/</a>
+<a class="url" href="https://meduza.io/feature/2015/09/09/zapasaytes-popkornom" target="_blank">https://meduza.io/feature/2015/09/09/zapasaytes-popkornom</a>
+<a class="url" href="http://tyba.com/" target="_blank">http://tyba.com/</a>
+<a class="url" href="http://www.lookatme.ru/mag/live/opinion/215875-parallels-software-engineers" target="_blank">http://www.lookatme.ru/mag/live/opinion/215875-parallels-software-engineers</a>
+<a class="url" href="http://bit.ly/1JZQ0es" target="_blank">http://bit.ly/1JZQ0es</a>
+<a class="url" href="https://m.hh.ru/employer/662769" target="_blank">https://m.hh.ru/employer/662769</a>

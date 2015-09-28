@@ -1819,71 +1819,71 @@ RT [@JustJenFelice](https://twitter.com/JustJenFelice "JustJenFelice"): CSS SANS
 ## Ссылки
 
 ### github.com  
-<a href="https://github.com/SC5/sc5-styleguide" target="_blank">https://github.com/SC5/sc5-styleguide</a>  
-<a href="https://github.com/dfilatov/bem-react" target="_blank">https://github.com/dfilatov/bem-react</a>  
-<a href="https://github.com/ingdir/x-responsable-grid" target="_blank">https://github.com/ingdir/x-responsable-grid</a>  
-<a href="https://github.com/miripiruni/frontdesk" target="_blank">https://github.com/miripiruni/frontdesk</a>  
-<a href="https://github.com/shuvalov-anton/code-screenshots" target="_blank">https://github.com/shuvalov-anton/code-screenshots</a>  
-<a href="https://github.com/airbnb/javascript" target="_blank">https://github.com/airbnb/javascript</a>  
-<a href="https://github.com/artjock/p0" target="_blank">https://github.com/artjock/p0</a>  
-<a href="https://github.com/sindresorhus/pageres" target="_blank">https://github.com/sindresorhus/pageres</a>  
-<a href="https://github.com/lahmatiy/es6-promise-polyfill" target="_blank">https://github.com/lahmatiy/es6-promise-polyfill</a>  
+<a class="url" href="https://github.com/SC5/sc5-styleguide" target="_blank">https://github.com/SC5/sc5-styleguide</a>
+<a class="url" href="https://github.com/dfilatov/bem-react" target="_blank">https://github.com/dfilatov/bem-react</a>
+<a class="url" href="https://github.com/ingdir/x-responsable-grid" target="_blank">https://github.com/ingdir/x-responsable-grid</a>
+<a class="url" href="https://github.com/miripiruni/frontdesk" target="_blank">https://github.com/miripiruni/frontdesk</a>
+<a class="url" href="https://github.com/shuvalov-anton/code-screenshots" target="_blank">https://github.com/shuvalov-anton/code-screenshots</a>
+<a class="url" href="https://github.com/airbnb/javascript" target="_blank">https://github.com/airbnb/javascript</a>
+<a class="url" href="https://github.com/artjock/p0" target="_blank">https://github.com/artjock/p0</a>
+<a class="url" href="https://github.com/sindresorhus/pageres" target="_blank">https://github.com/sindresorhus/pageres</a>
+<a class="url" href="https://github.com/lahmatiy/es6-promise-polyfill" target="_blank">https://github.com/lahmatiy/es6-promise-polyfill</a>  
 ### varya.me  
-<a href="http://varya.me/ru/posts/jscs-in-use/" target="_blank">http://varya.me/ru/posts/jscs-in-use/</a>  
-<a href="http://varya.me/en/posts/jscs-in-use/" target="_blank">http://varya.me/en/posts/jscs-in-use/</a>  
-<a href="http://varya.me/ru/issues/learn-english/" target="_blank">http://varya.me/ru/issues/learn-english/</a>  
-<a href="http://varya.me/component-development-css/" target="_blank">http://varya.me/component-development-css/</a>  
-<a href="http://varya.me/bem-css-workshop/" target="_blank">http://varya.me/bem-css-workshop/</a>
+<a class="url" href="http://varya.me/ru/posts/jscs-in-use/" target="_blank">http://varya.me/ru/posts/jscs-in-use/</a>
+<a class="url" href="http://varya.me/en/posts/jscs-in-use/" target="_blank">http://varya.me/en/posts/jscs-in-use/</a>
+<a class="url" href="http://varya.me/ru/issues/learn-english/" target="_blank">http://varya.me/ru/issues/learn-english/</a>
+<a class="url" href="http://varya.me/component-development-css/" target="_blank">http://varya.me/component-development-css/</a>
+<a class="url" href="http://varya.me/bem-css-workshop/" target="_blank">http://varya.me/bem-css-workshop/</a>
 
 ### Другие
 
-<a href="http://jscs.info/index.html" target="_blank">http://jscs.info/index.html</a>  
-<a href="http://csscomb.com/" target="_blank">http://csscomb.com/</a>  
-<a href="http://www.ted.com/talks/brene_brown_on_vulnerability" target="_blank">http://www.ted.com/talks/brene_brown_on_vulnerability</a>  
-<a href="http://varya-daily.tumblr.com/post/60199973645" target="_blank">http://varya-daily.tumblr.com/post/60199973645</a>  
-<a href="http://varya-daily.tumblr.com/post/60261243805" target="_blank">http://varya-daily.tumblr.com/post/60261243805</a>  
-<a href="http://varya-daily.tumblr.com/post/110379049793/1" target="_blank">http://varya-daily.tumblr.com/post/110379049793/1</a>  
-<a href="http://varya-daily.tumblr.com/post/112073231938" target="_blank">http://varya-daily.tumblr.com/post/112073231938</a>  
-<a href="https://ru.bem.info/tools/testing/gemini/" target="_blank">https://ru.bem.info/tools/testing/gemini/</a>  
-<a href="http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/" target="_blank">http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/</a>  
-<a href="http://styleguide.sc5.io/" target="_blank">http://styleguide.sc5.io/</a>  
-<a href="http://youtu.be/KaOC9danxNo" target="_blank">http://youtu.be/KaOC9danxNo</a>  
-<a href="https://www.npmjs.com/package/running-mean" target="_blank">https://www.npmjs.com/package/running-mean</a>  
-<a href="https://www.npmjs.com/package/sinopia" target="_blank">https://www.npmjs.com/package/sinopia</a>  
-<a href="http://victorsavkin.com/post/110170125256/change-detection-in-angular-2" target="_blank">http://victorsavkin.com/post/110170125256/change-detection-in-angular-2</a>  
-<a href="http://www.extremetech.com/extreme/135207-harvard-creates-cyborg-flesh-thats-half-man-half-machine" target="_blank">http://www.extremetech.com/extreme/135207-harvard-creates-cyborg-flesh-thats-half-man-half-machine</a>  
-<a href="http://ponyfoo.com/articles/cross-tab-communication" target="_blank">http://ponyfoo.com/articles/cross-tab-communication</a>  
-<a href="https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24" target="_blank">https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24</a>  
-<a href="http://ya.ru" target="_blank">http://ya.ru</a>  
-<a href="https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png" target="_blank">https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png</a>  
-<a href="http://dou.ua/calendar/6885/" target="_blank">http://dou.ua/calendar/6885/</a>  
-<a href="http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/" target="_blank">http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/</a>  
-<a href="http://getbem.com/" target="_blank">http://getbem.com/</a>  
-<a href="http://www.asport.pl/images/arena08/12/czepki/smartcap-txt.jpg" target="_blank">http://www.asport.pl/images/arena08/12/czepki/smartcap-txt.jpg</a>  
-<a href="http://meiert.com/en/blog/20150310/important/" target="_blank">http://meiert.com/en/blog/20150310/important/</a>  
-<a href="https://surge.sh" target="_blank">https://surge.sh</a>  
-<a href="http://2015.empirejs.org/speakers" target="_blank">http://2015.empirejs.org/speakers</a>  
-<a href="http://frontendbabel.info/" target="_blank">http://frontendbabel.info/</a>  
-<a href="http://yoksel.github.io/about-svg/assets/demo/clown-car/index.html" target="_blank">http://yoksel.github.io/about-svg/assets/demo/clown-car/index.html</a>  
-<a href="https://fronteers.nl/congres/2014/jam-session/web-accessibility" target="_blank">https://fronteers.nl/congres/2014/jam-session/web-accessibility</a>  
-<a href="http://www.ycnex2.ru/planirovanie-zhizni.html" target="_blank">http://www.ycnex2.ru/planirovanie-zhizni.html</a>  
-<a href="http://css-weekly.com/" target="_blank">http://css-weekly.com/</a>  
-<a href="http://javascriptweekly.com/" target="_blank">http://javascriptweekly.com/</a>  
-<a href="http://nodeweekly.com/" target="_blank">http://nodeweekly.com/</a>  
-<a href="http://html5weekly.com/" target="_blank">http://html5weekly.com/</a>  
-<a href="http://rachelnabors.us1.list-manage.com/subscribe?u=0a8f219cf8284562f91a26ee9&id=d60f6683d2" target="_blank">http://rachelnabors.us1.list-manage.com/subscribe?u=0a8f219cf8284562f91a26ee9&id=d60f6683d2</a>  
-<a href="http://css-live.ru/articles/rasstavanie-s-sass-delo-ne-v-tebe-delo-vo-mne.html" target="_blank">http://css-live.ru/articles/rasstavanie-s-sass-delo-ne-v-tebe-delo-vo-mne.html</a>  
-<a href="http://siliconrus.com/2015/03/google-code-off/" target="_blank">http://siliconrus.com/2015/03/google-code-off/</a>  
-<a href="http://sharedtalk.com/" target="_blank">http://sharedtalk.com/</a>  
-<a href="http://www.forvo.com/" target="_blank">http://www.forvo.com/</a>  
-<a href="https://www.verbling.com/community" target="_blank">https://www.verbling.com/community</a>  
-<a href="http://kipp.is/map" target="_blank">http://kipp.is/map</a>  
-<a href="https://teamtreehouse.com/library/css-accessibility-and-you" target="_blank">https://teamtreehouse.com/library/css-accessibility-and-you</a>  
-<a href="http://tonyganch.com/git/reset/" target="_blank">http://tonyganch.com/git/reset/</a>  
-<a href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/" target="_blank">http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/</a>  
-<a href="https://events.yandex.ru/lib/talks/2235/" target="_blank">https://events.yandex.ru/lib/talks/2235/</a>  
-<a href="http://bit.ly/1LaoOzo" target="_blank">http://bit.ly/1LaoOzo</a>  
-<a href="http://bit.ly/1GDt97D" target="_blank">http://bit.ly/1GDt97D</a>  
-<a href="http://bit.ly/1GDtaZa" target="_blank">http://bit.ly/1GDtaZa</a>  
-<a href="http://dmitrysoshnikov.com/ecmascript/chapter-3-this/#function-call-and-non-reference-type" target="_blank">http://dmitrysoshnikov.com/ecmascript/chapter-3-this/#function-call-and-non-reference-type</a>  
-<a href="http://tmblr.co/ZNFAay1frHWlC" target="_blank">http://tmblr.co/ZNFAay1frHWlC</a>
+<a class="url" href="http://jscs.info/index.html" target="_blank">http://jscs.info/index.html</a>
+<a class="url" href="http://csscomb.com/" target="_blank">http://csscomb.com/</a>
+<a class="url" href="http://www.ted.com/talks/brene_brown_on_vulnerability" target="_blank">http://www.ted.com/talks/brene_brown_on_vulnerability</a>
+<a class="url" href="http://varya-daily.tumblr.com/post/60199973645" target="_blank">http://varya-daily.tumblr.com/post/60199973645</a>
+<a class="url" href="http://varya-daily.tumblr.com/post/60261243805" target="_blank">http://varya-daily.tumblr.com/post/60261243805</a>
+<a class="url" href="http://varya-daily.tumblr.com/post/110379049793/1" target="_blank">http://varya-daily.tumblr.com/post/110379049793/1</a>
+<a class="url" href="http://varya-daily.tumblr.com/post/112073231938" target="_blank">http://varya-daily.tumblr.com/post/112073231938</a>
+<a class="url" href="https://ru.bem.info/tools/testing/gemini/" target="_blank">https://ru.bem.info/tools/testing/gemini/</a>
+<a class="url" href="http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/" target="_blank">http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/</a>
+<a class="url" href="http://styleguide.sc5.io/" target="_blank">http://styleguide.sc5.io/</a>
+<a class="url" href="http://youtu.be/KaOC9danxNo" target="_blank">http://youtu.be/KaOC9danxNo</a>
+<a class="url" href="https://www.npmjs.com/package/running-mean" target="_blank">https://www.npmjs.com/package/running-mean</a>
+<a class="url" href="https://www.npmjs.com/package/sinopia" target="_blank">https://www.npmjs.com/package/sinopia</a>
+<a class="url" href="http://victorsavkin.com/post/110170125256/change-detection-in-angular-2" target="_blank">http://victorsavkin.com/post/110170125256/change-detection-in-angular-2</a>
+<a class="url" href="http://www.extremetech.com/extreme/135207-harvard-creates-cyborg-flesh-thats-half-man-half-machine" target="_blank">http://www.extremetech.com/extreme/135207-harvard-creates-cyborg-flesh-thats-half-man-half-machine</a>
+<a class="url" href="http://ponyfoo.com/articles/cross-tab-communication" target="_blank">http://ponyfoo.com/articles/cross-tab-communication</a>
+<a class="url" href="https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24" target="_blank">https://gist.github.com/arsemyonov/0ad7bd7f2a8c73c7bf24</a>
+<a class="url" href="http://ya.ru" target="_blank">http://ya.ru</a>
+<a class="url" href="https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png" target="_blank">https://dl.dropboxusercontent.com/u/7624831/img/yaruadi.png</a>
+<a class="url" href="http://dou.ua/calendar/6885/" target="_blank">http://dou.ua/calendar/6885/</a>
+<a class="url" href="http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/" target="_blank">http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/</a>
+<a class="url" href="http://getbem.com/" target="_blank">http://getbem.com/</a>
+<a class="url" href="http://www.asport.pl/images/arena08/12/czepki/smartcap-txt.jpg" target="_blank">http://www.asport.pl/images/arena08/12/czepki/smartcap-txt.jpg</a>
+<a class="url" href="http://meiert.com/en/blog/20150310/important/" target="_blank">http://meiert.com/en/blog/20150310/important/</a>
+<a class="url" href="https://surge.sh" target="_blank">https://surge.sh</a>
+<a class="url" href="http://2015.empirejs.org/speakers" target="_blank">http://2015.empirejs.org/speakers</a>
+<a class="url" href="http://frontendbabel.info/" target="_blank">http://frontendbabel.info/</a>
+<a class="url" href="http://yoksel.github.io/about-svg/assets/demo/clown-car/index.html" target="_blank">http://yoksel.github.io/about-svg/assets/demo/clown-car/index.html</a>
+<a class="url" href="https://fronteers.nl/congres/2014/jam-session/web-accessibility" target="_blank">https://fronteers.nl/congres/2014/jam-session/web-accessibility</a>
+<a class="url" href="http://www.ycnex2.ru/planirovanie-zhizni.html" target="_blank">http://www.ycnex2.ru/planirovanie-zhizni.html</a>
+<a class="url" href="http://css-weekly.com/" target="_blank">http://css-weekly.com/</a>
+<a class="url" href="http://javascriptweekly.com/" target="_blank">http://javascriptweekly.com/</a>
+<a class="url" href="http://nodeweekly.com/" target="_blank">http://nodeweekly.com/</a>
+<a class="url" href="http://html5weekly.com/" target="_blank">http://html5weekly.com/</a>
+<a class="url" href="http://rachelnabors.us1.list-manage.com/subscribe?u=0a8f219cf8284562f91a26ee9&id=d60f6683d2" target="_blank">http://rachelnabors.us1.list-manage.com/subscribe?u=0a8f219cf8284562f91a26ee9&id=d60f6683d2</a>
+<a class="url" href="http://css-live.ru/articles/rasstavanie-s-sass-delo-ne-v-tebe-delo-vo-mne.html" target="_blank">http://css-live.ru/articles/rasstavanie-s-sass-delo-ne-v-tebe-delo-vo-mne.html</a>
+<a class="url" href="http://siliconrus.com/2015/03/google-code-off/" target="_blank">http://siliconrus.com/2015/03/google-code-off/</a>
+<a class="url" href="http://sharedtalk.com/" target="_blank">http://sharedtalk.com/</a>
+<a class="url" href="http://www.forvo.com/" target="_blank">http://www.forvo.com/</a>
+<a class="url" href="https://www.verbling.com/community" target="_blank">https://www.verbling.com/community</a>
+<a class="url" href="http://kipp.is/map" target="_blank">http://kipp.is/map</a>
+<a class="url" href="https://teamtreehouse.com/library/css-accessibility-and-you" target="_blank">https://teamtreehouse.com/library/css-accessibility-and-you</a>
+<a class="url" href="http://tonyganch.com/git/reset/" target="_blank">http://tonyganch.com/git/reset/</a>
+<a class="url" href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/" target="_blank">http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/</a>
+<a class="url" href="https://events.yandex.ru/lib/talks/2235/" target="_blank">https://events.yandex.ru/lib/talks/2235/</a>
+<a class="url" href="http://bit.ly/1LaoOzo" target="_blank">http://bit.ly/1LaoOzo</a>
+<a class="url" href="http://bit.ly/1GDt97D" target="_blank">http://bit.ly/1GDt97D</a>
+<a class="url" href="http://bit.ly/1GDtaZa" target="_blank">http://bit.ly/1GDtaZa</a>
+<a class="url" href="http://dmitrysoshnikov.com/ecmascript/chapter-3-this/#function-call-and-non-reference-type" target="_blank">http://dmitrysoshnikov.com/ecmascript/chapter-3-this/#function-call-and-non-reference-type</a>
+<a class="url" href="http://tmblr.co/ZNFAay1frHWlC" target="_blank">http://tmblr.co/ZNFAay1frHWlC</a>
