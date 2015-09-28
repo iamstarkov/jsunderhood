@@ -5,6 +5,50 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Sep 28 06:47:53 +0000 2015",
+      "id": 648388643153907700,
+      "id_str": "648388643153907712",
+      "text": "@mistadikay иногда таки надл читать мануал:)",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 648387258244988900,
+      "in_reply_to_status_id_str": "648387258244988928",
+      "in_reply_to_user_id": 61156402,
+      "in_reply_to_user_id_str": "61156402",
+      "in_reply_to_screen_name": "mistadikay",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mistadikay",
+            "name": "Denis Koltsov",
+            "id": 61156402,
+            "id_str": "61156402",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Sep 28 06:47:38 +0000 2015",
       "id": 648388579308228600,
       "id_str": "648388579308228608",
@@ -1571,38 +1615,87 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10382,
+    "statuses_count": 10383,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Sep 28 06:46:07 +0000 2015",
-      "id": 648388199182635000,
-      "id_str": "648388199182635008",
-      "text": "@yuritkachenko нет, они живее всех живых, но сейчас они становятся все менее похожи на бекбон и все более похожи на флакс, интересно,почему?",
+      "created_at": "Mon Sep 28 06:47:38 +0000 2015",
+      "id": 648388579308228600,
+      "id_str": "648388579308228608",
+      "text": "RT @mistadikay: @jsunderhood ты забыл обновить био + ретвить пожалуйста реплаи",
       "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
       "truncated": false,
-      "in_reply_to_status_id": 648387367477354500,
-      "in_reply_to_status_id_str": "648387367477354496",
-      "in_reply_to_user_id": 31131087,
-      "in_reply_to_user_id_str": "31131087",
-      "in_reply_to_screen_name": "yuritkachenko",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Mon Sep 28 06:42:23 +0000 2015",
+        "id": 648387258244988900,
+        "id_str": "648387258244988928",
+        "text": "@jsunderhood ты забыл обновить био + ретвить пожалуйста реплаи",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "yuritkachenko",
-            "name": "Yuri Tkachenko",
-            "id": 31131087,
-            "id_str": "31131087",
+            "screen_name": "mistadikay",
+            "name": "Denis Koltsov",
+            "id": 61156402,
+            "id_str": "61156402",
             "indices": [
-              0,
+              3,
               14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
             ]
           }
         ],
