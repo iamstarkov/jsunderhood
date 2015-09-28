@@ -147,7 +147,7 @@ gulp.task('about-page', () => {
 
 gulp.task('articles-pages', done =>
   each(articles, article => {
-    gulp.src('layouts/article.jade')
+    return gulp.src('layouts/article.jade')
       .pipe(jade({
         locals: article
       }))
