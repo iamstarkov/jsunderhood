@@ -5,6 +5,140 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Sep 28 07:18:03 +0000 2015",
+      "id": 648396234407968800,
+      "id_str": "648396234407968769",
+      "text": "Неписать код - это высшее мастерство, для этого нужно написать много кода https://t.co/mZzwGw5yhm",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 648395387338780700,
+      "quoted_status_id_str": "648395387338780672",
+      "quoted_status": {
+        "created_at": "Mon Sep 28 07:14:41 +0000 2015",
+        "id": 648395387338780700,
+        "id_str": "648395387338780672",
+        "text": "@jsunderhood или через 10к часов ты будешь знать все внутренности и даже код не надо будет писать! так что или - или",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 648395002058514400,
+        "in_reply_to_status_id_str": "648395002058514432",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mZzwGw5yhm",
+            "expanded_url": "https://twitter.com/mpak999/status/648395387338780672",
+            "display_url": "twitter.com/mpak999/status…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 07:16:43 +0000 2015",
+      "id": 648395897907363800,
+      "id_str": "648395897907363840",
+      "text": "@jsunderhood так вот, нам осталось пару лет до полной победы Реакта на фронте, и я думаю можно уже начинать думать почему он говно!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 648384807613923300,
+      "in_reply_to_status_id_str": "648384807613923328",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Sep 28 07:13:09 +0000 2015",
       "id": 648395002058514400,
       "id_str": "648395002058514432",
@@ -209,7 +343,7 @@
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 1,
           "entities": {
             "hashtags": [],
@@ -433,7 +567,7 @@
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 1,
           "entities": {
             "hashtags": [],
@@ -775,7 +909,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -3453,7 +3587,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1952,
+    "followers_count": 1951,
     "friends_count": 2,
     "listed_count": 92,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -3462,95 +3596,45 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10401,
+    "statuses_count": 10403,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Sep 28 07:11:31 +0000 2015",
-      "id": 648394589099946000,
-      "id_str": "648394589099945984",
-      "text": "RT @mktoid: В любой непонятной ситуации пиши код https://t.co/LSNBn94I51",
+      "created_at": "Mon Sep 28 07:13:09 +0000 2015",
+      "id": 648395002058514400,
+      "id_str": "648395002058514432",
+      "text": "@mpak999 есть такая концепция, 10000 часов необходимо для мастерства, ты можешь читать 10000 часов, и ты будешь отличным чтецом",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 648394567792767000,
+      "in_reply_to_status_id_str": "648394567792766977",
+      "in_reply_to_user_id": 18864603,
+      "in_reply_to_user_id_str": "18864603",
+      "in_reply_to_screen_name": "mpak999",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Mon Sep 28 07:10:35 +0000 2015",
-        "id": 648394354214719500,
-        "id_str": "648394354214719488",
-        "text": "В любой непонятной ситуации пиши код https://t.co/LSNBn94I51",
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [],
-          "urls": [
-            {
-              "url": "https://t.co/LSNBn94I51",
-              "expanded_url": "https://twitter.com/jsunderhood/status/648393134645374976",
-              "display_url": "twitter.com/jsunderhood/st…",
-              "indices": [
-                37,
-                60
-              ]
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
-      "retweet_count": 1,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "mktoid",
-            "name": "Oleg Cheremisin",
-            "id": 281644224,
-            "id_str": "281644224",
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
             "indices": [
-              3,
-              10
+              0,
+              8
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/LSNBn94I51",
-            "expanded_url": "https://twitter.com/jsunderhood/status/648393134645374976",
-            "display_url": "twitter.com/jsunderhood/st…",
-            "indices": [
-              49,
-              72
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
