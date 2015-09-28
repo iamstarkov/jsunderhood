@@ -5,6 +5,39 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Sep 28 06:28:46 +0000 2015",
+      "id": 648383832186556400,
+      "id_str": "648383832186556416",
+      "text": "следим за тенденцией\n2005 jQuery, YUI, Mootools, Dojo, Prototype",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
       "created_at": "Mon Sep 28 06:26:34 +0000 2015",
       "id": 648383276147679200,
       "id_str": "648383276147679232",
@@ -372,20 +405,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10364,
+    "statuses_count": 10365,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Sep 28 06:25:01 +0000 2015",
-      "id": 648382888128479200,
-      "id_str": "648382888128479232",
-      "text": ".@rajdee_mhm концепции вцелом (но это опятьже мое мнение), скорее всего на обломках концепции появится что-то лучше",
+      "created_at": "Mon Sep 28 06:26:34 +0000 2015",
+      "id": 648383276147679200,
+      "id_str": "648383276147679232",
+      "text": "@rubyunderhood понять и простить, и попытаться разобраться - ВТФ:), думаешь нодеру с руби проще? Или просто взять и переписать все на руби",
       "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
       "truncated": false,
-      "in_reply_to_status_id": 648381236449312800,
-      "in_reply_to_status_id_str": "648381236449312768",
-      "in_reply_to_user_id": 2363111684,
-      "in_reply_to_user_id_str": "2363111684",
-      "in_reply_to_screen_name": "rajdee_mhm",
+      "in_reply_to_status_id": 648382809816592400,
+      "in_reply_to_status_id_str": "648382809816592384",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -397,13 +430,13 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "rajdee_mhm",
-            "name": "Ruslan Abdullaev",
-            "id": 2363111684,
-            "id_str": "2363111684",
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
             "indices": [
-              1,
-              12
+              0,
+              14
             ]
           }
         ],
