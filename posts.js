@@ -68,8 +68,8 @@ const post = (author, post = true) => {
   });
 
   const domains = Object.keys(urlsGroups);
-  const renderUrl = u => `<a href="${u}" target="_blank">${u}</a>`;
-  const renderUrlsList = urls => urls.map(renderUrl).join('  \n');
+  const renderUrl = u => `<a class="url" href="${u}" target="_blank">${u}</a>`;
+  const renderUrlsList = urls => urls.map(renderUrl).join('\n');
   const md = [
     `# ${author.username}`,
     `_${ d(author.tweets[author.tweets.length - 1].created_at) }_`,
