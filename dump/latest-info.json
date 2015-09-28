@@ -35,13 +35,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10415,
+  "statuses_count": 10419,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 28 07:30:27 +0000 2015",
-    "id": 648399356215849000,
-    "id_str": "648399356215848960",
-    "text": "RT @freiksenet_ru: @errorent @jsunderhood Не надо никогда юзать coffeescript. Забудьте про него, его больше нет.",
+    "created_at": "Mon Sep 28 07:40:27 +0000 2015",
+    "id": 648401872898904000,
+    "id_str": "648401872898904064",
+    "text": "нет, нет и нет. Это не то куда нужно стремиться, имхо https://t.co/vR0GSQ8usa",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,96 +53,27 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Sep 28 07:30:01 +0000 2015",
-      "id": 648399245406543900,
-      "id_str": "648399245406543872",
-      "text": "@errorent @jsunderhood Не надо никогда юзать coffeescript. Забудьте про него, его больше нет.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 648397486634221600,
-      "in_reply_to_status_id_str": "648397486634221568",
-      "in_reply_to_user_id": 3129811630,
-      "in_reply_to_user_id_str": "3129811630",
-      "in_reply_to_screen_name": "errorent",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 2,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "errorent",
-            "name": "errorent",
-            "id": 3129811630,
-            "id_str": "3129811630",
-            "indices": [
-              0,
-              9
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              10,
-              22
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 2,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
+          "url": "https://t.co/vR0GSQ8usa",
+          "expanded_url": "https://twitter.com/poltavajs/status/648400101489135616",
+          "display_url": "twitter.com/poltavajs/stat…",
           "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "errorent",
-          "name": "errorent",
-          "id": 3129811630,
-          "id_str": "3129811630",
-          "indices": [
-            19,
-            28
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            29,
-            41
+            54,
+            77
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
