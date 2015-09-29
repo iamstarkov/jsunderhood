@@ -26,54 +26,74 @@
     }
   },
   "protected": false,
-  "followers_count": 1939,
+  "followers_count": 1933,
   "friends_count": 2,
-  "listed_count": 93,
+  "listed_count": 94,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2,
+  "favourites_count": 3,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10662,
+  "statuses_count": 10707,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 29 10:51:53 +0000 2015",
-    "id": 648812436330577900,
-    "id_str": "648812436330577920",
-    "text": "рекомендую фавнуть след библиотеку\nЕсли вам когда нибудь нужно будет сгенерировать пдф или img\nлучшее что найдете-\nhttps://t.co/GY4Zjwc0KR",
+    "created_at": "Tue Sep 29 17:57:35 +0000 2015",
+    "id": 648919564403769300,
+    "id_str": "648919564403769344",
+    "text": ".@RReverser @mdevils @rdvornov круто, я когдато пытался решить эту проблему - фиксил баги в Uglify.js AST парсере",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 648918670538874900,
+    "in_reply_to_status_id_str": "648918670538874880",
+    "in_reply_to_user_id": 97495292,
+    "in_reply_to_user_id_str": "97495292",
+    "in_reply_to_screen_name": "RReverser",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 2,
-    "favorite_count": 8,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/GY4Zjwc0KR",
-          "expanded_url": "https://github.com/e-conomic/phantom-render-stream",
-          "display_url": "github.com/e-conomic/phan…",
+          "screen_name": "RReverser",
+          "name": "Ingvar Stepanyan",
+          "id": 97495292,
+          "id_str": "97495292",
           "indices": [
-            115,
-            138
+            1,
+            11
+          ]
+        },
+        {
+          "screen_name": "mdevils",
+          "name": "Marat Dulin",
+          "id": 14104781,
+          "id_str": "14104781",
+          "indices": [
+            12,
+            20
+          ]
+        },
+        {
+          "screen_name": "rdvornov",
+          "name": "Roman Dvornov",
+          "id": 1432849934,
+          "id_str": "1432849934",
+          "indices": [
+            21,
+            30
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
