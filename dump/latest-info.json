@@ -35,20 +35,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10785,
+  "statuses_count": 10787,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 30 08:15:20 +0000 2015",
-    "id": 649135424921837600,
-    "id_str": "649135424921837568",
-    "text": "сейчас есть коннекторы https://t.co/tIUeGB02Af для http, socket.io, socketio с сессией и для webworker\nдада- это может быть не только сервер",
+    "created_at": "Wed Sep 30 08:18:43 +0000 2015",
+    "id": 649136276873023500,
+    "id_str": "649136276873023488",
+    "text": ".@freiksenet_ru ну как, в продакшне, вот https://t.co/6ghQTT0syQ тудуапп с монго и сессиями https://t.co/dtsnh3av5N сорс",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 649135701913653200,
+    "in_reply_to_status_id_str": "649135701913653248",
+    "in_reply_to_user_id": 3411018190,
+    "in_reply_to_user_id_str": "3411018190",
+    "in_reply_to_screen_name": "freiksenet_ru",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,15 +58,35 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "freiksenet_ru",
+          "name": "Михаил Новиков",
+          "id": 3411018190,
+          "id_str": "3411018190",
+          "indices": [
+            1,
+            15
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/tIUeGB02Af",
-          "expanded_url": "https://github.com/edjafarov/PromisePipe/tree/master/example/connectors",
+          "url": "https://t.co/6ghQTT0syQ",
+          "expanded_url": "https://promisepipe-todo.herokuapp.com/",
+          "display_url": "promisepipe-todo.herokuapp.com",
+          "indices": [
+            41,
+            64
+          ]
+        },
+        {
+          "url": "https://t.co/dtsnh3av5N",
+          "expanded_url": "https://github.com/edjafarov/PromisePipe/tree/master/example/mongotodo",
           "display_url": "github.com/edjafarov/Prom…",
           "indices": [
-            23,
-            46
+            92,
+            115
           ]
         }
       ]
