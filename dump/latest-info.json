@@ -35,13 +35,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10797,
+  "statuses_count": 10799,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 30 08:36:46 +0000 2015",
-    "id": 649140817874034700,
-    "id_str": "649140817874034688",
-    "text": "RT @freiksenet_ru: @jsunderhood Другой подход - это не преимущество :) Реакт, например, крут тем что это просто javascript.",
+    "created_at": "Wed Sep 30 08:40:07 +0000 2015",
+    "id": 649141663286325200,
+    "id_str": "649141663286325248",
+    "text": "RT @sc0rp1d: @backendsecret @jsunderhood https://t.co/FcUlv65K8O",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,58 +54,89 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Wed Sep 30 08:32:44 +0000 2015",
-      "id": 649139803913588700,
-      "id_str": "649139803913588736",
-      "text": "@jsunderhood Другой подход - это не преимущество :) Реакт, например, крут тем что это просто javascript.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Wed Sep 30 08:32:47 +0000 2015",
+      "id": 649139818534932500,
+      "id_str": "649139818534932480",
+      "text": "@backendsecret @jsunderhood https://t.co/FcUlv65K8O",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
       "truncated": false,
-      "in_reply_to_status_id": 649138933817811000,
-      "in_reply_to_status_id_str": "649138933817810944",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
             "screen_name": "jsunderhood",
             "name": "Разработчик",
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              0,
-              12
+              15,
+              27
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/FcUlv65K8O",
+            "expanded_url": "https://twitter.com/sc0rp1d/status/648199613514694656",
+            "display_url": "twitter.com/sc0rp1d/status…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "und"
     },
-    "retweet_count": 1,
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
+          "screen_name": "sc0rp1d",
+          "name": "Mark Langovoi",
+          "id": 1632961610,
+          "id_str": "1632961610",
           "indices": [
             3,
-            17
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
           ]
         },
         {
@@ -114,16 +145,27 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            19,
-            31
+            28,
+            40
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/FcUlv65K8O",
+          "expanded_url": "https://twitter.com/sc0rp1d/status/648199613514694656",
+          "display_url": "twitter.com/sc0rp1d/status…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
