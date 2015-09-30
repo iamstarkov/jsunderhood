@@ -35,25 +35,64 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10795,
+  "statuses_count": 10797,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 30 08:35:39 +0000 2015",
-    "id": 649140537870708700,
-    "id_str": "649140537870708736",
-    "text": ".@freiksenet_ru твое право не доверять мне:) потому тебе даны уши чтоб слушать и мозг чтобы думать и рот чтоб говорить где я туплю:)",
+    "created_at": "Wed Sep 30 08:36:46 +0000 2015",
+    "id": 649140817874034700,
+    "id_str": "649140817874034688",
+    "text": "RT @freiksenet_ru: @jsunderhood Другой подход - это не преимущество :) Реакт, например, крут тем что это просто javascript.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 649138262896980000,
-    "in_reply_to_status_id_str": "649138262896979968",
-    "in_reply_to_user_id": 3411018190,
-    "in_reply_to_user_id_str": "3411018190",
-    "in_reply_to_screen_name": "freiksenet_ru",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Sep 30 08:32:44 +0000 2015",
+      "id": 649139803913588700,
+      "id_str": "649139803913588736",
+      "text": "@jsunderhood Другой подход - это не преимущество :) Реакт, например, крут тем что это просто javascript.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 649138933817811000,
+      "in_reply_to_status_id_str": "649138933817810944",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -65,8 +104,18 @@
           "id": 3411018190,
           "id_str": "3411018190",
           "indices": [
-            1,
-            15
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            19,
+            31
           ]
         }
       ],
