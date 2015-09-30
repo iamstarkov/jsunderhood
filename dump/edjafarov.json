@@ -5,6 +5,214 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Sep 30 08:22:58 +0000 2015",
+      "id": 649137348693913600,
+      "id_str": "649137348693913600",
+      "text": ".@freiksenet_ru тебя смущает концепция или баги? баги можно пофиксить.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 649137145450528800,
+      "in_reply_to_status_id_str": "649137145450528768",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 08:22:30 +0000 2015",
+      "id": 649137229240078300,
+      "id_str": "649137229240078337",
+      "text": "RT @freiksenet_ru: @jsunderhood Ну вот запусти это в продакшене с клиентами :) Все такие вещи круто звучат, но я в них не верю когда это ещ…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 30 08:22:10 +0000 2015",
+        "id": 649137145450528800,
+        "id_str": "649137145450528768",
+        "text": "@jsunderhood Ну вот запусти это в продакшене с клиентами :) Все такие вещи круто звучат, но я в них не верю когда это еще не было обкатано.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 649136276873023500,
+        "in_reply_to_status_id_str": "649136276873023488",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              19,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 08:22:13 +0000 2015",
+      "id": 649137158654177300,
+      "id_str": "649137158654177280",
+      "text": "у вас есть цепочка преобразований, в которой вы можете декларативно указать где каждое звено должно выполняться",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 08:21:36 +0000 2015",
+      "id": 649137001376170000,
+      "id_str": "649137001376169984",
+      "text": "и это совсем не RPC потомучто с точки зрения кода у вас нет процесса с которым вы общаетесь",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Sep 30 08:20:38 +0000 2015",
       "id": 649136761378078700,
       "id_str": "649136761378078721",
@@ -33155,20 +33363,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10787,
+    "statuses_count": 10788,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Sep 30 08:18:43 +0000 2015",
-      "id": 649136276873023500,
-      "id_str": "649136276873023488",
-      "text": ".@freiksenet_ru ну как, в продакшне, вот https://t.co/6ghQTT0syQ тудуапп с монго и сессиями https://t.co/dtsnh3av5N сорс",
+      "created_at": "Wed Sep 30 08:20:38 +0000 2015",
+      "id": 649136761378078700,
+      "id_str": "649136761378078721",
+      "text": "@jsunderhood PromisePipe фактически позволил отделить бизнеслогику от межпроцессного взаимодействия",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 649135701913653200,
-      "in_reply_to_status_id_str": "649135701913653248",
-      "in_reply_to_user_id": 3411018190,
-      "in_reply_to_user_id_str": "3411018190",
-      "in_reply_to_screen_name": "freiksenet_ru",
+      "in_reply_to_status_id": 649135424921837600,
+      "in_reply_to_status_id_str": "649135424921837568",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -33180,40 +33388,20 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "freiksenet_ru",
-            "name": "Михаил Новиков",
-            "id": 3411018190,
-            "id_str": "3411018190",
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
             "indices": [
-              1,
-              15
+              0,
+              12
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/6ghQTT0syQ",
-            "expanded_url": "https://promisepipe-todo.herokuapp.com/",
-            "display_url": "promisepipe-todo.herokuapp.com",
-            "indices": [
-              41,
-              64
-            ]
-          },
-          {
-            "url": "https://t.co/dtsnh3av5N",
-            "expanded_url": "https://github.com/edjafarov/PromisePipe/tree/master/example/mongotodo",
-            "display_url": "github.com/edjafarov/Prom…",
-            "indices": [
-              92,
-              115
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
