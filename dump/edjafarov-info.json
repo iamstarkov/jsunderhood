@@ -35,13 +35,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10784,
+  "statuses_count": 10785,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 30 08:13:55 +0000 2015",
-    "id": 649135068875759600,
-    "id_str": "649135068875759616",
-    "text": "коннекторы - это простые объекты которые имплементируют только одно - как отправить мессадж и как его словить\nапи универсальное и ...",
+    "created_at": "Wed Sep 30 08:15:20 +0000 2015",
+    "id": 649135424921837600,
+    "id_str": "649135424921837568",
+    "text": "сейчас есть коннекторы https://t.co/tIUeGB02Af для http, socket.io, socketio с сессией и для webworker\nдада- это может быть не только сервер",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -59,10 +59,21 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/tIUeGB02Af",
+          "expanded_url": "https://github.com/edjafarov/PromisePipe/tree/master/example/connectors",
+          "display_url": "github.com/edjafarov/Prom…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
