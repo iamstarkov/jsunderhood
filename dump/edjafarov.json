@@ -26,7 +26,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -267,7 +267,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -33462,20 +33462,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10793,
+    "statuses_count": 10794,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Sep 30 08:27:35 +0000 2015",
-      "id": 649138508565753900,
-      "id_str": "649138508565753856",
-      "text": "@jsunderhood и это не все что дает PromisePipe, через полчаса будет больше, а пока, дебажить можно так https://t.co/wLVFJ5M9Zz",
+      "created_at": "Wed Sep 30 08:29:16 +0000 2015",
+      "id": 649138933817811000,
+      "id_str": "649138933817810944",
+      "text": ".@freiksenet_ru метеор дает частное решение, промиспайп - это совершенно другой подход к написанию бизнеслогики",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 649137158654177300,
-      "in_reply_to_status_id_str": "649137158654177280",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "in_reply_to_status_id": 649138121070800900,
+      "in_reply_to_status_id_str": "649138121070800896",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -33487,31 +33487,20 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
             "indices": [
-              0,
-              12
+              1,
+              15
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/wLVFJ5M9Zz",
-            "expanded_url": "https://camo.githubusercontent.com/d9cf7896e74e646895505df58abe5a2784f72069/687474703a2f2f672e7265636f726469742e636f2f4579774f4c50586e37762e676966",
-            "display_url": "camo.githubusercontent.com/d9cf7896e74e64…",
-            "indices": [
-              103,
-              126
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
