@@ -43584,13 +43584,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10925,
+    "statuses_count": 10928,
     "lang": "ru",
     "status": {
-      "created_at": "Thu Oct 01 14:46:46 +0000 2015",
-      "id": 649596319816908800,
-      "id_str": "649596319816908801",
-      "text": "все в Казань! https://t.co/0iW3v900ZI",
+      "created_at": "Thu Oct 01 14:48:41 +0000 2015",
+      "id": 649596802681933800,
+      "id_str": "649596802681933824",
+      "text": "нозато #этонастоящийэкстрим https://t.co/7qNHJ4g1Q2",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -43605,17 +43605,25 @@
       "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "этонастоящийэкстрим",
+            "indices": [
+              7,
+              27
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/0iW3v900ZI",
-            "expanded_url": "https://twitter.com/rusgautama/status/649595974906679296",
-            "display_url": "twitter.com/rusgautama/sta…",
+            "url": "https://t.co/7qNHJ4g1Q2",
+            "expanded_url": "https://twitter.com/SilentImp/status/649596597488193536",
+            "display_url": "twitter.com/SilentImp/stat…",
             "indices": [
-              14,
-              37
+              28,
+              51
             ]
           }
         ]
@@ -43623,7 +43631,7 @@
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "bg"
     },
     "contributors_enabled": false,
     "is_translator": false,
