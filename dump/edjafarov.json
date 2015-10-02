@@ -55073,7 +55073,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1927,
+    "followers_count": 1926,
     "friends_count": 2,
     "listed_count": 98,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -55082,13 +55082,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11082,
+    "statuses_count": 11094,
     "lang": "ru",
     "status": {
-      "created_at": "Fri Oct 02 11:03:34 +0000 2015",
-      "id": 649902536854474800,
-      "id_str": "649902536854474752",
-      "text": "#trolling detected https://t.co/JSkjUdCxUf https://t.co/GGvI5azYcr",
+      "created_at": "Fri Oct 02 15:30:07 +0000 2015",
+      "id": 649969619185348600,
+      "id_str": "649969619185348608",
+      "text": "RT @exdeniz: @lyxd9 @jsunderhood а я вот не согласен. Не фиг тратить свое время на ерунду, даже если она оплачивается.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -55100,45 +55100,97 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Fri Oct 02 14:05:46 +0000 2015",
+        "id": 649948389426266100,
+        "id_str": "649948389426266112",
+        "text": "@lyxd9 @jsunderhood а я вот не согласен. Не фиг тратить свое время на ерунду, даже если она оплачивается.",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 649928351650611200,
+        "in_reply_to_status_id_str": "649928351650611200",
+        "in_reply_to_user_id": 3104388779,
+        "in_reply_to_user_id_str": "3104388779",
+        "in_reply_to_screen_name": "lyxd9",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "lyxd9",
+              "name": "Alexander Gorbunov",
+              "id": 3104388779,
+              "id_str": "3104388779",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                7,
+                19
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
-        "hashtags": [
-          {
-            "text": "trolling",
-            "indices": [
-              0,
-              9
-            ]
-          }
-        ],
+        "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "user_mentions": [
           {
-            "url": "https://t.co/JSkjUdCxUf",
-            "expanded_url": "https://gitter.im/dev-ua/node",
-            "display_url": "gitter.im/dev-ua/node",
+            "screen_name": "exdeniz",
+            "name": "exdeniz",
+            "id": 14585677,
+            "id_str": "14585677",
             "indices": [
-              19,
-              42
+              3,
+              11
             ]
           },
           {
-            "url": "https://t.co/GGvI5azYcr",
-            "expanded_url": "https://twitter.com/blia/status/649900215688916992",
-            "display_url": "twitter.com/blia/status/64…",
+            "screen_name": "lyxd9",
+            "name": "Alexander Gorbunov",
+            "id": 3104388779,
+            "id_str": "3104388779",
             "indices": [
-              43,
-              66
+              13,
+              19
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              20,
+              32
             ]
           }
-        ]
+        ],
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
+      "lang": "ru"
     },
     "contributors_enabled": false,
     "is_translator": false,
