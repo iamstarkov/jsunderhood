@@ -54295,7 +54295,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1928,
+    "followers_count": 1927,
     "friends_count": 2,
     "listed_count": 98,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -54304,20 +54304,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11045,
+    "statuses_count": 11082,
     "lang": "ru",
     "status": {
-      "created_at": "Fri Oct 02 07:28:27 +0000 2015",
-      "id": 649848403418054700,
-      "id_str": "649848403418054656",
-      "text": "@kuksikus @freiksenet_ru у нас, - у тех у кого менеджеры не выполняют своих функций",
+      "created_at": "Fri Oct 02 11:03:34 +0000 2015",
+      "id": 649902536854474800,
+      "id_str": "649902536854474752",
+      "text": "#trolling detected https://t.co/JSkjUdCxUf https://t.co/GGvI5azYcr",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 649841930583572500,
-      "in_reply_to_status_id_str": "649841930583572480",
-      "in_reply_to_user_id": 15205824,
-      "in_reply_to_user_id_str": "15205824",
-      "in_reply_to_screen_name": "kuksikus",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -54325,35 +54325,42 @@
       "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
+        "hashtags": [
           {
-            "screen_name": "kuksikus",
-            "name": "R.M.",
-            "id": 15205824,
-            "id_str": "15205824",
+            "text": "trolling",
             "indices": [
               0,
               9
             ]
-          },
-          {
-            "screen_name": "freiksenet_ru",
-            "name": "Михаил Новиков",
-            "id": 3411018190,
-            "id_str": "3411018190",
-            "indices": [
-              10,
-              24
-            ]
           }
         ],
-        "urls": []
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JSkjUdCxUf",
+            "expanded_url": "https://gitter.im/dev-ua/node",
+            "display_url": "gitter.im/dev-ua/node",
+            "indices": [
+              19,
+              42
+            ]
+          },
+          {
+            "url": "https://t.co/GGvI5azYcr",
+            "expanded_url": "https://twitter.com/blia/status/649900215688916992",
+            "display_url": "twitter.com/blia/status/64…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "en"
     },
     "contributors_enabled": false,
     "is_translator": false,
