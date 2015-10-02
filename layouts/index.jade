@@ -29,9 +29,10 @@ block content
                   div.img-circle(style="width: 48px; height: 48px; background-image: url(" + img + "); background-size: cover; margin: 0 auto;")
               .col-md-10
                 h2(style="margin: 0"): a(href=article.url)= "@" + article.title
-                small
-                  span.glyphicon.glyphicon-map-marker
-                  = " " + article.authorInfo.location
+                if article.authorInfo.location
+                  small
+                    span.glyphicon.glyphicon-map-marker
+                    = " " + article.authorInfo.location
             .row
               .col-md-12
                 p.list__item-desc !{article.desc}
