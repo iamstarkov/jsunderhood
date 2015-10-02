@@ -60,6 +60,7 @@ const articleHarvesting = () =>
     const url = getBasename(file);
     const title = article.title;
     const author = fs.readJsonSync('./dump/' + title + '.json');
+    const authorInfo = fs.readJsonSync('./dump/' + title + '-info.json');
     const firstTweet = author.tweets[author.tweets.length - 1];
     const isReadme = getBasename(file) === 'README';
 
@@ -74,6 +75,7 @@ const articleHarvesting = () =>
       date: d(firstTweet.created_at),
       content: article.content,
       latestInfo: latestInfo,
+      authorInfo: authorInfo,
       rss: {
         url: site.site_url + getBasename(file) + '/',
         description: firstTweet.text
