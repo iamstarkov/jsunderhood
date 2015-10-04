@@ -4011,7 +4011,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -72390,13 +72390,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11316,
+    "statuses_count": 11318,
     "lang": "ru",
     "status": {
-      "created_at": "Sun Oct 04 11:39:40 +0000 2015",
-      "id": 650636398874247200,
-      "id_str": "650636398874247168",
-      "text": "тоесть смена поколений какраз 5 лет, что согласуется с моими наблюдениями о смене парадигм основных фреймворков",
+      "created_at": "Sun Oct 04 11:42:35 +0000 2015",
+      "id": 650637131380035600,
+      "id_str": "650637131380035584",
+      "text": "никак, я их не сравниваю, хотя они и похожи\njQuery нормализирует DOM API для браузеров\nReact нормализирует DOM  https://t.co/bwNkTzlRY0",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -72414,10 +72414,21 @@
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/bwNkTzlRY0",
+            "expanded_url": "https://twitter.com/serhey_shmyg/status/650636717490368512",
+            "display_url": "twitter.com/serhey_shmyg/s…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
