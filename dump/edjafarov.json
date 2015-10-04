@@ -5,6 +5,129 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sun Oct 04 11:42:35 +0000 2015",
+      "id": 650637131380035600,
+      "id_str": "650637131380035584",
+      "text": "никак, я их не сравниваю, хотя они и похожи\njQuery нормализирует DOM API для браузеров\nReact нормализирует DOM  https://t.co/bwNkTzlRY0",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 650636717490368500,
+      "quoted_status_id_str": "650636717490368512",
+      "quoted_status": {
+        "created_at": "Sun Oct 04 11:40:56 +0000 2015",
+        "id": 650636717490368500,
+        "id_str": "650636717490368512",
+        "text": "@jsunderhood  как можно сравнивать джквери с реактом?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 650635437707497500,
+        "in_reply_to_status_id_str": "650635437707497472",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 282064564,
+          "id_str": "282064564"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bwNkTzlRY0",
+            "expanded_url": "https://twitter.com/serhey_shmyg/status/650636717490368512",
+            "display_url": "twitter.com/serhey_shmyg/s…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 11:40:37 +0000 2015",
+      "id": 650636639795028000,
+      "id_str": "650636639795027968",
+      "text": "для полной смерти jQuery достаточно смены 2х поколений, тоесть 10 лет\nно я думаю это произойдет раньше ~ лет 6-7",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Sun Oct 04 11:39:40 +0000 2015",
       "id": 650636398874247200,
       "id_str": "650636398874247168",
@@ -72258,29 +72381,29 @@
       }
     },
     "protected": false,
-    "followers_count": 1923,
+    "followers_count": 1922,
     "friends_count": 2,
-    "listed_count": 98,
+    "listed_count": 99,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
     "favourites_count": 7,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11246,
+    "statuses_count": 11316,
     "lang": "ru",
     "status": {
-      "created_at": "Sat Oct 03 17:06:11 +0000 2015",
-      "id": 650356181974818800,
-      "id_str": "650356181974818816",
-      "text": ".@iAdramelk это уже интереснее, но сколько я работал с бутстрапом никогда не нарывался на эти грабли",
+      "created_at": "Sun Oct 04 11:39:40 +0000 2015",
+      "id": 650636398874247200,
+      "id_str": "650636398874247168",
+      "text": "тоесть смена поколений какраз 5 лет, что согласуется с моими наблюдениями о смене парадигм основных фреймворков",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 650339219798392800,
-      "in_reply_to_status_id_str": "650339219798392832",
-      "in_reply_to_user_id": 2005221,
-      "in_reply_to_user_id_str": "2005221",
-      "in_reply_to_screen_name": "iAdramelk",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -72290,18 +72413,7 @@
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "iAdramelk",
-            "name": "Alexey Ivanov",
-            "id": 2005221,
-            "id_str": "2005221",
-            "indices": [
-              1,
-              11
-            ]
-          }
-        ],
+        "user_mentions": [],
         "urls": []
       },
       "favorited": false,
