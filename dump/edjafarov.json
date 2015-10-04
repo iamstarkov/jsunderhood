@@ -73733,48 +73733,87 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11324,
+    "statuses_count": 11331,
     "lang": "ru",
     "status": {
-      "created_at": "Sun Oct 04 11:51:44 +0000 2015",
-      "id": 650639437878165500,
-      "id_str": "650639437878165504",
-      "text": ".@roman01la @serhey_shmyg это жесткий антипаттерн  ппц",
+      "created_at": "Sun Oct 04 12:13:53 +0000 2015",
+      "id": 650645009901989900,
+      "id_str": "650645009901989888",
+      "text": "RT @as_Crazy: @jsunderhood Откройте любую презентацию с картинкой про стейт-менеджмент до/после реакта, это и есть причина почему багов на …",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 650638922939256800,
-      "in_reply_to_status_id_str": "650638922939256832",
-      "in_reply_to_user_id": 98982330,
-      "in_reply_to_user_id_str": "98982330",
-      "in_reply_to_screen_name": "roman01la",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Sun Oct 04 12:12:07 +0000 2015",
+        "id": 650644566207557600,
+        "id_str": "650644566207557633",
+        "text": "@jsunderhood Откройте любую презентацию с картинкой про стейт-менеджмент до/после реакта, это и есть причина почему багов на порядки меньше.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "roman01la",
-            "name": "Roman Liutikov",
-            "id": 98982330,
-            "id_str": "98982330",
+            "screen_name": "as_Crazy",
+            "name": "Alexander",
+            "id": 107279965,
+            "id_str": "107279965",
             "indices": [
-              1,
-              11
+              3,
+              12
             ]
           },
           {
-            "screen_name": "serhey_shmyg",
-            "name": "Serhey Shmyg",
-            "id": 282064564,
-            "id_str": "282064564",
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
             "indices": [
-              12,
-              25
+              14,
+              26
             ]
           }
         ],
