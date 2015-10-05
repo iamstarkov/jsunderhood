@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1982,
+  "followers_count": 1998,
   "friends_count": 2,
   "listed_count": 99,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11350,
+  "statuses_count": 11376,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 05 09:36:08 +0000 2015",
-    "id": 650967697421934600,
-    "id_str": "650967697421934592",
-    "text": "Ну ладно, давайте серьезно. Хочу услышать всех, у кого node.js в продакшене в рантайме. Пишите свой опыт и ссылки на сайты.",
+    "created_at": "Mon Oct 05 11:57:53 +0000 2015",
+    "id": 651003370795307000,
+    "id_str": "651003370795307009",
+    "text": "RT @twilightfeel: @jsunderhood С другой стороны, если вы действительно умеете XSLT, то это полезный опыт функциональщины, immutability, пат…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,12 +64,72 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Mon Oct 05 11:56:58 +0000 2015",
+      "id": 651003139739545600,
+      "id_str": "651003139739545601",
+      "text": "@jsunderhood С другой стороны, если вы действительно умеете XSLT, то это полезный опыт функциональщины, immutability, паттерн матчинга, ..",
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651001809729884200,
+      "in_reply_to_status_id_str": "651001809729884160",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "twilightfeel",
+          "name": "Phillip Kovalev",
+          "id": 122621043,
+          "id_str": "122621043",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            18,
+            30
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
