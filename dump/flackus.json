@@ -5,6 +5,294 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Oct 05 18:47:41 +0000 2015",
+      "id": 651106500123983900,
+      "id_str": "651106500123983872",
+      "text": "@_h4_ @twilightfeel да мы туда ходим только чтобы узнать, что на этот раз сделала @tachisis со своими волосами.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651105988930588700,
+      "in_reply_to_status_id_str": "651105988930588672",
+      "in_reply_to_user_id": 15020265,
+      "in_reply_to_user_id_str": "15020265",
+      "in_reply_to_screen_name": "_h4_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_h4_",
+            "name": "Михаил Баранов",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "screen_name": "twilightfeel",
+            "name": "Phillip Kovalev",
+            "id": 122621043,
+            "id_str": "122621043",
+            "indices": [
+              6,
+              19
+            ]
+          },
+          {
+            "screen_name": "tachisis",
+            "name": "engel",
+            "id": 10595962,
+            "id_str": "10595962",
+            "indices": [
+              82,
+              91
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 05 18:42:40 +0000 2015",
+      "id": 651105240272498700,
+      "id_str": "651105240272498688",
+      "text": "На сегодня всё, на посошок NSFW-история про добавление “малюсенькой задачки” в стабильную ветку за день до релиза https://t.co/OBz4eQMFVE",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OBz4eQMFVE",
+            "expanded_url": "https://www.youtube.com/watch?v=2oRwQ5WdZZ0",
+            "display_url": "youtube.com/watch?v=2oRwQ5…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 05 18:35:33 +0000 2015",
+      "id": 651103446842634200,
+      "id_str": "651103446842634244",
+      "text": "Нечего там аргументировать. Там проблема в миграции окружения, а не кода. Это не объяснишь на пальцах, к сожалению. https://t.co/PoNC5mAl5w",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 651102922424602600,
+      "quoted_status_id_str": "651102922424602624",
+      "quoted_status": {
+        "created_at": "Mon Oct 05 18:33:28 +0000 2015",
+        "id": 651102922424602600,
+        "id_str": "651102922424602624",
+        "text": "@jsunderhood чтобы аргументировать переезд с 0.10 на 4.0?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 651085664054870000,
+        "in_reply_to_status_id_str": "651085664054870016",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 15020265,
+          "id_str": "15020265"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PoNC5mAl5w",
+            "expanded_url": "https://twitter.com/_h4_/status/651102922424602624",
+            "display_url": "twitter.com/_h4_/status/65…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 05 18:30:44 +0000 2015",
+      "id": 651102234781085700,
+      "id_str": "651102234781085697",
+      "text": "Нанимать людей умнее себя и не мешать им работать. https://t.co/zO6qlmIKxD",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 651101259101921300,
+      "quoted_status_id_str": "651101259101921280",
+      "quoted_status": {
+        "created_at": "Mon Oct 05 18:26:51 +0000 2015",
+        "id": 651101259101921300,
+        "id_str": "651101259101921280",
+        "text": "@jsunderhood Давай лучше, как руководитель, в студию мануал «Как рулить группой фронтендеров и не сойти с ума». С бухлом все понятно, а еще?",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 122621043,
+          "id_str": "122621043"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 5,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zO6qlmIKxD",
+            "expanded_url": "https://twitter.com/twilightfeel/status/651101259101921280",
+            "display_url": "twitter.com/twilightfeel/s…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Oct 05 18:02:50 +0000 2015",
       "id": 651095212270469100,
       "id_str": "651095212270469121",
@@ -26,7 +314,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -228,7 +516,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -281,7 +569,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2430,7 +2718,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2703,7 +2991,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -2860,7 +3148,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 8,
+      "favorite_count": 11,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2913,7 +3201,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 7,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3339,8 +3627,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 15,
-      "favorite_count": 5,
+      "retweet_count": 18,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3406,7 +3694,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 6,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4160,7 +4448,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -4193,8 +4481,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 18,
+      "retweet_count": 4,
+      "favorite_count": 21,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4334,8 +4622,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 2,
+        "retweet_count": 8,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4358,7 +4646,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 6,
+      "retweet_count": 8,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
