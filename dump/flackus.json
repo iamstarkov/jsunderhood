@@ -5212,29 +5212,29 @@
       }
     },
     "protected": false,
-    "followers_count": 2026,
+    "followers_count": 2038,
     "friends_count": 1,
     "listed_count": 102,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-    "favourites_count": 7,
+    "favourites_count": 8,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11429,
+    "statuses_count": 11433,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Oct 05 18:02:50 +0000 2015",
-      "id": 651095212270469100,
-      "id_str": "651095212270469121",
-      "text": "Прежде чем что-то делать на ноде, очень рекомендую нанять человека, который умеет полный стек. Чтоб научил 200 от 400 отличать хотя бы.",
+      "created_at": "Mon Oct 05 18:47:41 +0000 2015",
+      "id": 651106500123983900,
+      "id_str": "651106500123983872",
+      "text": "@_h4_ @twilightfeel да мы туда ходим только чтобы узнать, что на этот раз сделала @tachisis со своими волосами.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 651105988930588700,
+      "in_reply_to_status_id_str": "651105988930588672",
+      "in_reply_to_user_id": 15020265,
+      "in_reply_to_user_id_str": "15020265",
+      "in_reply_to_screen_name": "_h4_",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -5244,7 +5244,38 @@
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
+        "user_mentions": [
+          {
+            "screen_name": "_h4_",
+            "name": "Михаил Баранов",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "screen_name": "twilightfeel",
+            "name": "Phillip Kovalev",
+            "id": 122621043,
+            "id_str": "122621043",
+            "indices": [
+              6,
+              19
+            ]
+          },
+          {
+            "screen_name": "tachisis",
+            "name": "engel",
+            "id": 10595962,
+            "id_str": "10595962",
+            "indices": [
+              82,
+              91
+            ]
+          }
+        ],
         "urls": []
       },
       "favorited": false,
