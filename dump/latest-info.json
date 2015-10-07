@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2051,
+  "followers_count": 2055,
   "friends_count": 1,
   "listed_count": 103,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,45 +46,45 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11479,
+  "statuses_count": 11481,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 06 23:31:05 +0000 2015",
-    "id": 651540208836603900,
-    "id_str": "651540208836603905",
-    "text": "проект я выкатил в продакшн\nтам палки из говна и мрак\nметодология простая\nх**к https://t.co/yLIPdXzBKE",
+    "created_at": "Wed Oct 07 11:46:24 +0000 2015",
+    "id": 651725256802107400,
+    "id_str": "651725256802107392",
+    "text": ". @jsunderhood Без дураков, берешь лог, достаешь запросы и фигак ими в тестинг. Помогает. Заодно можно выпить, пока тупишь в tail -f.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 651725016300671000,
+    "in_reply_to_status_id_str": "651725016300670977",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 21,
-    "favorite_count": 13,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/yLIPdXzBKE",
-          "expanded_url": "https://twitter.com/life_maniac/status/651495180856651776",
-          "display_url": "twitter.com/life_maniac/st…",
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
           "indices": [
-            79,
-            102
+            2,
+            14
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
