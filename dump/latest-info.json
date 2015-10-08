@@ -4,7 +4,18 @@
   "name": "Разработчик",
   "screen_name": "jsunderhood",
   "location": "Saint Petersburg, Russia",
-  "profile_location": null,
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Saint Petersburg, Russia",
+    "full_name": "Saint Petersburg, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю. В эфире @flackus",
   "url": "https://t.co/TqpzZziYPM",
   "entities": {
