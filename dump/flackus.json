@@ -5,6 +5,230 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 08 10:49:17 +0000 2015",
+      "id": 652073273027620900,
+      "id_str": "652073273027620864",
+      "text": "Хорошая подборка дотфайлов, до сих пор не могу оторваться https://t.co/LTGKtr8aVa",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LTGKtr8aVa",
+            "expanded_url": "https://dotfiles.github.io/",
+            "display_url": "dotfiles.github.io",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 08 09:28:18 +0000 2015",
+      "id": 652052892573155300,
+      "id_str": "652052892573155329",
+      "text": "Упрощенный github-flow, ревью в Github Enterprise. Юнит-тесты в основном в библиотеках, mocha/chai/istanbul. https://t.co/X4Uh5eDwU4",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 652007040223694800,
+      "quoted_status_id_str": "652007040223694848",
+      "quoted_status": {
+        "created_at": "Thu Oct 08 06:26:06 +0000 2015",
+        "id": 652007040223694800,
+        "id_str": "652007040223694848",
+        "text": "@jsunderhood Привет. Расскажи, какой code style используете, как организован code reviw, какие тесты пишите? Git?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 99710719,
+          "id_str": "99710719"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X4Uh5eDwU4",
+            "expanded_url": "https://twitter.com/vvaddim/status/652007040223694848",
+            "display_url": "twitter.com/vvaddim/status…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Oct 08 09:26:27 +0000 2015",
+      "id": 652052427475173400,
+      "id_str": "652052427475173376",
+      "text": "Сейчас, только смузи с маффином допью. https://t.co/WE3eDV5q72",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 652037012426489900,
+      "quoted_status_id_str": "652037012426489856",
+      "quoted_status": {
+        "created_at": "Thu Oct 08 08:25:12 +0000 2015",
+        "id": 652037012426489900,
+        "id_str": "652037012426489856",
+        "text": "@jsunderhood когда собираетесь начать использовать реакт?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 31131087,
+          "id_str": "31131087"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 8,
+      "favorite_count": 11,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WE3eDV5q72",
+            "expanded_url": "https://twitter.com/yuritkachenko/status/652037012426489856",
+            "display_url": "twitter.com/yuritkachenko/…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Oct 07 22:07:13 +0000 2015",
       "id": 651881493141303300,
       "id_str": "651881493141303300",
@@ -72,7 +296,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 6,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -656,7 +880,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 24,
+      "retweet_count": 25,
       "favorite_count": 14,
       "entities": {
         "hashtags": [],
@@ -9512,7 +9736,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
