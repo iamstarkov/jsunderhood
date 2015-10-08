@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11504,
+  "statuses_count": 11505,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Oct 08 17:40:03 +0000 2015",
-    "id": 652176642941538300,
-    "id_str": "652176642941538304",
-    "text": "@yuritkachenko это был серьезный же ответ :) нам норм и без реакта.",
+    "created_at": "Thu Oct 08 17:46:43 +0000 2015",
+    "id": 652178322236026900,
+    "id_str": "652178322236026880",
+    "text": "Я сразу вспомнил случай, как в названии метода counter кто-то оставил русскую букву \"c\". Но это давно было. https://t.co/st0GLZi7mE",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 652176345682853900,
-    "in_reply_to_status_id_str": "652176345682853888",
-    "in_reply_to_user_id": 31131087,
-    "in_reply_to_user_id_str": "31131087",
-    "in_reply_to_screen_name": "yuritkachenko",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,22 +69,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "yuritkachenko",
-          "name": "Yuri Tkachenko",
-          "id": 31131087,
-          "id_str": "31131087",
+          "url": "https://t.co/st0GLZi7mE",
+          "expanded_url": "https://twitter.com/ya_pulser/status/652176735237210113",
+          "display_url": "twitter.com/ya_pulser/stat…",
           "indices": [
-            0,
-            14
+            108,
+            131
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

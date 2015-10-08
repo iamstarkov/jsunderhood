@@ -5,6 +5,107 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 08 17:46:43 +0000 2015",
+      "id": 652178322236026900,
+      "id_str": "652178322236026880",
+      "text": "Я сразу вспомнил случай, как в названии метода counter кто-то оставил русскую букву \"c\". Но это давно было. https://t.co/st0GLZi7mE",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 652176735237210100,
+      "quoted_status_id_str": "652176735237210113",
+      "quoted_status": {
+        "created_at": "Thu Oct 08 17:40:25 +0000 2015",
+        "id": 652176735237210100,
+        "id_str": "652176735237210113",
+        "text": "@jsunderhood опиши факап недели? http://t.co/pKb3s7X2TQ",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 652175240244629500,
+        "in_reply_to_status_id_str": "652175240244629504",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 159236194,
+          "id_str": "159236194"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/pKb3s7X2TQ",
+              "expanded_url": "http://danluu.com/postmortem-lessons/",
+              "display_url": "danluu.com/postmortem-les…",
+              "indices": [
+                33,
+                55
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/st0GLZi7mE",
+            "expanded_url": "https://twitter.com/ya_pulser/status/652176735237210113",
+            "display_url": "twitter.com/ya_pulser/stat…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Oct 08 17:40:03 +0000 2015",
       "id": 652176642941538300,
       "id_str": "652176642941538304",
@@ -11051,7 +11152,18 @@
     "name": "Разработчик",
     "screen_name": "jsunderhood",
     "location": "Saint Petersburg, Russia",
-    "profile_location": null,
+    "profile_location": {
+      "id": "a76c0cd7d56c4836",
+      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+      "place_type": "unknown",
+      "name": "Saint Petersburg, Russia",
+      "full_name": "Saint Petersburg, Russia",
+      "country_code": "",
+      "country": "",
+      "contained_within": [],
+      "bounding_box": null,
+      "attributes": {}
+    },
     "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю. В эфире @flackus",
     "url": "https://t.co/TqpzZziYPM",
     "entities": {
