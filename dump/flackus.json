@@ -10663,7 +10663,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2067,
+    "followers_count": 2069,
     "friends_count": 1,
     "listed_count": 104,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -10672,13 +10672,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11494,
+    "statuses_count": 11497,
     "lang": "ru",
     "status": {
-      "created_at": "Thu Oct 08 10:49:17 +0000 2015",
-      "id": 652073273027620900,
-      "id_str": "652073273027620864",
-      "text": "Хорошая подборка дотфайлов, до сих пор не могу оторваться https://t.co/LTGKtr8aVa",
+      "created_at": "Thu Oct 08 13:44:18 +0000 2015",
+      "id": 652117316818370600,
+      "id_str": "652117316818370560",
+      "text": "Это не прикол JS как такового. NaN это валидное значение в вычислениях с плавающей запятой https://t.co/zciJKpu19y https://t.co/p5snO59Lly",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -10690,20 +10690,29 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 4,
-      "favorite_count": 11,
+      "retweet_count": 0,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/LTGKtr8aVa",
-            "expanded_url": "https://dotfiles.github.io/",
-            "display_url": "dotfiles.github.io",
+            "url": "https://t.co/zciJKpu19y",
+            "expanded_url": "https://en.wikipedia.org/wiki/NaN",
+            "display_url": "en.wikipedia.org/wiki/NaN",
             "indices": [
-              58,
-              81
+              91,
+              114
+            ]
+          },
+          {
+            "url": "https://t.co/p5snO59Lly",
+            "expanded_url": "https://twitter.com/killthekitten/status/652113055329976320",
+            "display_url": "twitter.com/killthekitten/…",
+            "indices": [
+              115,
+              138
             ]
           }
         ]
