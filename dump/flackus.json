@@ -5,6 +5,216 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 08 15:50:09 +0000 2015",
+      "id": 652148985868582900,
+      "id_str": "652148985868582912",
+      "text": ". @webstandards_up ну там есть форк от Linkedin. Там уже интереснее.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652146923755860000,
+      "in_reply_to_status_id_str": "652146923755859968",
+      "in_reply_to_user_id": 1517679103,
+      "in_reply_to_user_id_str": "1517679103",
+      "in_reply_to_screen_name": "webstandards_up",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webstandards_up",
+            "name": "Веб-стандарты",
+            "id": 1517679103,
+            "id_str": "1517679103",
+            "indices": [
+              2,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 08 15:38:33 +0000 2015",
+      "id": 652146066578522100,
+      "id_str": "652146066578522112",
+      "text": ". @jsunderhood @webstandards_up ну и вот забавный штрих https://t.co/i8yqhGkmY4",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652145624662474800,
+      "in_reply_to_status_id_str": "652145624662474753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              2,
+              14
+            ]
+          },
+          {
+            "screen_name": "webstandards_up",
+            "name": "Веб-стандарты",
+            "id": 1517679103,
+            "id_str": "1517679103",
+            "indices": [
+              15,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/i8yqhGkmY4",
+            "expanded_url": "https://github.com/akdubya/dustjs/issues/71",
+            "display_url": "github.com/akdubya/dustjs…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 08 15:36:47 +0000 2015",
+      "id": 652145624662474800,
+      "id_str": "652145624662474753",
+      "text": "Не думаю, что миру мало императивных шаблонизаторов. Бенчмарк на github pages валится с ошибкой :) https://t.co/8uBMjmOEKq",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 652140475407712300,
+      "quoted_status_id_str": "652140475407712256",
+      "quoted_status": {
+        "created_at": "Thu Oct 08 15:16:20 +0000 2015",
+        "id": 652140475407712300,
+        "id_str": "652140475407712256",
+        "text": "На волне асинхронности для загрузки всего Джейк увлечённо рассказывает про http://t.co/2WlGUHS1GU Стоит смотреть туда? +@jsunderhood",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1517679103,
+          "id_str": "1517679103"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                120,
+                132
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/2WlGUHS1GU",
+              "expanded_url": "http://akdubya.github.io/dustjs/",
+              "display_url": "akdubya.github.io/dustjs/",
+              "indices": [
+                75,
+                97
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8uBMjmOEKq",
+            "expanded_url": "https://twitter.com/webstandards_up/status/652140475407712256",
+            "display_url": "twitter.com/webstandards_u…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Oct 08 13:44:18 +0000 2015",
       "id": 652117316818370600,
       "id_str": "652117316818370560",
@@ -144,7 +354,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 4,
+        "retweet_count": 5,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -257,7 +467,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 4,
+      "retweet_count": 5,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -408,8 +618,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 6,
-      "favorite_count": 5,
+      "retweet_count": 10,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -442,7 +652,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 16,
+      "favorite_count": 23,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -598,7 +808,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 0,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -621,7 +831,7 @@
         "lang": "ru"
       },
       "is_quote_status": true,
-      "retweet_count": 8,
+      "retweet_count": 10,
       "favorite_count": 12,
       "entities": {
         "hashtags": [],
@@ -1363,7 +1573,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 15,
-      "favorite_count": 38,
+      "favorite_count": 39,
       "entities": {
         "hashtags": [],
         "symbols": [],
