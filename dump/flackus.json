@@ -5,6 +5,470 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Oct 07 22:07:13 +0000 2015",
+      "id": 651881493141303300,
+      "id_str": "651881493141303300",
+      "text": "Не знал, что Яндекс.Авто на ноде. Спасибо! https://t.co/HdtrpivD21",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 651878883021733900,
+      "quoted_status_id_str": "651878883021733888",
+      "quoted_status": {
+        "created_at": "Wed Oct 07 21:56:51 +0000 2015",
+        "id": 651878883021733900,
+        "id_str": "651878883021733888",
+        "text": "@jsunderhood Яндекс.Авто написан на Node.js, PayPal тоже его используют, у ВК IM раньше был на ноде, сейчас не знаю.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 650967697421934600,
+        "in_reply_to_status_id_str": "650967697421934592",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2433278606,
+          "id_str": "2433278606"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HdtrpivD21",
+            "expanded_url": "https://twitter.com/atrolov/status/651878883021733888",
+            "display_url": "twitter.com/atrolov/status…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 16:40:45 +0000 2015",
+      "id": 651799334917378000,
+      "id_str": "651799334917378049",
+      "text": ".@jsunderhood бонусом проверяются не только нижеупомянутые тайперроры, но и, например, отсутствие 404х, если изменилась схема урлов.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651795517949788200,
+      "in_reply_to_status_id_str": "651795517949788161",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 16:25:35 +0000 2015",
+      "id": 651795517949788200,
+      "id_str": "651795517949788161",
+      "text": ".@jsunderhood если сервис новый, то патроны собираются после того, как прошло ручное функциональное тестирование. Иначе им неоткуда взяться.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651795239078920200,
+      "in_reply_to_status_id_str": "651795239078920192",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 16:24:29 +0000 2015",
+      "id": 651795239078920200,
+      "id_str": "651795239078920192",
+      "text": "Для стресс-теста нам нужны т.н. патроны. Они представляют собой дампы реальных запросов к сервису, взятые из соответствующего лога.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 15:54:55 +0000 2015",
+      "id": 651787797028864000,
+      "id_str": "651787797028864001",
+      "text": "@wouldntfix так в ленте лучше встает",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651787292386963500,
+      "in_reply_to_status_id_str": "651787292386963456",
+      "in_reply_to_user_id": 20382725,
+      "in_reply_to_user_id_str": "20382725",
+      "in_reply_to_screen_name": "wouldntfix",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 15:54:26 +0000 2015",
+      "id": 651787675184312300,
+      "id_str": "651787675184312320",
+      "text": ".@jsunderhood нет смысла угорать по оптимизации, если у вас и так запас прочности превышает разумные границы.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651787149994532900,
+      "in_reply_to_status_id_str": "651787149994532864",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 15:52:20 +0000 2015",
+      "id": 651787149994532900,
+      "id_str": "651787149994532864",
+      "text": ".@jsunderhood заблаговременные договоренности позволяют не допускать преждевременной оптимизации и оставляют больше времени на сам продукт.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651786883660447700,
+      "in_reply_to_status_id_str": "651786883660447744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 15:51:17 +0000 2015",
+      "id": 651786883660447700,
+      "id_str": "651786883660447744",
+      "text": ".@jsunderhood Пример. Сервис N должен отвечать в пределах 300мс на 90м квантиле (в 90% случаев). Точка разладки не менее 100 RPS на 1 машину",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651786253101330400,
+      "in_reply_to_status_id_str": "651786253101330432",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 15:48:46 +0000 2015",
+      "id": 651786253101330400,
+      "id_str": "651786253101330432",
+      "text": "Про нагрузку и стресс-тесты. Первое, что мы делаем -- совместно с эксплуатацией устанавливаем SLA по времени ответа и точке разладки в RPS.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 14:52:39 +0000 2015",
+      "id": 651772127620792300,
+      "id_str": "651772127620792320",
+      "text": "@innin лунапарк не помнишь? я не сильно много про него знаю, чтобы что-то рассказать.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651755773744144400,
+      "in_reply_to_status_id_str": "651755773744144384",
+      "in_reply_to_user_id": 5630402,
+      "in_reply_to_user_id_str": "5630402",
+      "in_reply_to_screen_name": "innin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "innin",
+            "name": "innin",
+            "id": 5630402,
+            "id_str": "5630402",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Oct 07 11:46:24 +0000 2015",
       "id": 651725256802107400,
       "id_str": "651725256802107392",
@@ -26,7 +490,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -149,7 +613,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 29,
-      "favorite_count": 20,
+      "favorite_count": 22,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -259,7 +723,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 15,
-      "favorite_count": 34,
+      "favorite_count": 38,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4437,7 +4901,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 7,
-      "favorite_count": 9,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
