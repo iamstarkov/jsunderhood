@@ -37,29 +37,29 @@
     }
   },
   "protected": false,
-  "followers_count": 2067,
+  "followers_count": 2072,
   "friends_count": 1,
   "listed_count": 104,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 10,
+  "favourites_count": 14,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11505,
+  "statuses_count": 11530,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Oct 08 17:46:43 +0000 2015",
-    "id": 652178322236026900,
-    "id_str": "652178322236026880",
-    "text": "Я сразу вспомнил случай, как в названии метода counter кто-то оставил русскую букву \"c\". Но это давно было. https://t.co/st0GLZi7mE",
+    "created_at": "Fri Oct 09 08:23:49 +0000 2015",
+    "id": 652399053288927200,
+    "id_str": "652399053288927232",
+    "text": "@stay_positive ты ведь знаешь как, код у тебя буквально перед глазами :)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 652283375101866000,
+    "in_reply_to_status_id_str": "652283375101865984",
+    "in_reply_to_user_id": 17783501,
+    "in_reply_to_user_id_str": "17783501",
+    "in_reply_to_screen_name": "stay_positive",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,22 +69,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/st0GLZi7mE",
-          "expanded_url": "https://twitter.com/ya_pulser/status/652176735237210113",
-          "display_url": "twitter.com/ya_pulser/stat…",
+          "screen_name": "stay_positive",
+          "name": "Dmitry Sorin",
+          "id": 17783501,
+          "id_str": "17783501",
           "indices": [
-            108,
-            131
+            0,
+            14
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
