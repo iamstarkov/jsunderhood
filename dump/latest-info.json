@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2086,
+  "followers_count": 2088,
   "friends_count": 1,
   "listed_count": 106,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11521,
+  "statuses_count": 11522,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 12 15:37:29 +0000 2015",
-    "id": 653595349945315300,
-    "id_str": "653595349945315328",
-    "text": "В основу моей работы в Артеке входит в первую очередь верстка, js скрипты и немного попиливание WebGL плеера.",
+    "created_at": "Mon Oct 12 15:40:53 +0000 2015",
+    "id": 653596205474254800,
+    "id_str": "653596205474254848",
+    "text": "В начале этого года я впервые посетила @moscowjs и весной выступила с докладом по WebGL и созданию своего 3D плеера при помощи Three.js.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "moscowjs",
+          "name": "MoscowJS",
+          "id": 339058458,
+          "id_str": "339058458",
+          "indices": [
+            39,
+            48
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
