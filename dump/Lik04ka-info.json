@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11580,
+  "statuses_count": 11585,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 13 07:52:46 +0000 2015",
-    "id": 653840787617226800,
-    "id_str": "653840787617226752",
-    "text": "В этом году я подумала о том, чтобы присоединиться к разработке какого-нибудь Open Source проекта в свободное время. Что посоветуете?",
+    "created_at": "Tue Oct 13 07:55:48 +0000 2015",
+    "id": 653841551597158400,
+    "id_str": "653841551597158400",
+    "text": "Неудачный опыт? Или еще какие подводные камни? @sapegin",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 653841352585818100,
+    "in_reply_to_status_id_str": "653841352585818112",
+    "in_reply_to_user_id": 31656594,
+    "in_reply_to_user_id_str": "31656594",
+    "in_reply_to_screen_name": "sapegin",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "sapegin",
+          "name": "Artem Sapegin",
+          "id": 31656594,
+          "id_str": "31656594",
+          "indices": [
+            47,
+            55
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
