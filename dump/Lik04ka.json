@@ -5,6 +5,50 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Oct 13 08:03:09 +0000 2015",
+      "id": 653843402010808300,
+      "id_str": "653843402010808320",
+      "text": "Кстати касательно тестов. У нас в проекте по js только интеграционные тесты на capybara. Я замучилась с нестабильностью! @Vitalliumm",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 653842114715983900,
+      "in_reply_to_status_id_str": "653842114715983872",
+      "in_reply_to_user_id": 203317967,
+      "in_reply_to_user_id_str": "203317967",
+      "in_reply_to_screen_name": "Vitalliumm",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              121,
+              132
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 13 07:59:45 +0000 2015",
       "id": 653842548197359600,
       "id_str": "653842548197359616",
@@ -5043,13 +5087,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11586,
+    "statuses_count": 11588,
     "lang": "ru",
     "status": {
-      "created_at": "Tue Oct 13 07:57:47 +0000 2015",
-      "id": 653842051780485100,
-      "id_str": "653842051780485120",
-      "text": "RT @shuvalov_anton: @jsunderhood то, чем ты пользуешься. Нет смысла поддерживать что-то для галочки — вклад должен мотивироваться сильным б…",
+      "created_at": "Tue Oct 13 07:59:45 +0000 2015",
+      "id": 653842548197359600,
+      "id_str": "653842548197359616",
+      "text": "RT @Vitalliumm: @jsunderhood давай к нам! Нам нужны люди! Чтобы больше не было нестабильных тестов :-)",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -5062,11 +5106,11 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Tue Oct 13 07:57:14 +0000 2015",
-        "id": 653841911132868600,
-        "id_str": "653841911132868608",
-        "text": "@jsunderhood то, чем ты пользуешься. Нет смысла поддерживать что-то для галочки — вклад должен мотивироваться сильным баттхёртом.",
-        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "created_at": "Tue Oct 13 07:58:02 +0000 2015",
+        "id": 653842114715983900,
+        "id_str": "653842114715983872",
+        "text": "@jsunderhood давай к нам! Нам нужны люди! Чтобы больше не было нестабильных тестов :-)",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
         "truncated": false,
         "in_reply_to_status_id": 653840787617226800,
         "in_reply_to_status_id_str": "653840787617226752",
@@ -5107,13 +5151,13 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "shuvalov_anton",
-            "name": "Darth Shuvalov",
-            "id": 214580679,
-            "id_str": "214580679",
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
             "indices": [
               3,
-              18
+              14
             ]
           },
           {
@@ -5122,8 +5166,8 @@
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              20,
-              32
+              16,
+              28
             ]
           }
         ],
