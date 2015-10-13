@@ -5,6 +5,104 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Oct 13 10:53:54 +0000 2015",
+      "id": 653886372223295500,
+      "id_str": "653886372223295488",
+      "text": "RT @sapegin: @jsunderhood Только интернета не достаточно. Но не уверен, что курсы полезны. Большинство — точно нет.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 13 10:52:34 +0000 2015",
+        "id": 653886035697500200,
+        "id_str": "653886035697500161",
+        "text": "@jsunderhood Только интернета не достаточно. Но не уверен, что курсы полезны. Большинство — точно нет.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 653882032242692100,
+        "in_reply_to_status_id_str": "653882032242692096",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 31656594,
+          "id_str": "31656594"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 13 10:52:58 +0000 2015",
       "id": 653886137384194000,
       "id_str": "653886137384194048",
@@ -25,8 +123,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8234,13 +8332,13 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11627,
+    "statuses_count": 11628,
     "lang": "ru",
     "status": {
-      "created_at": "Tue Oct 13 10:50:09 +0000 2015",
-      "id": 653885429561823200,
-      "id_str": "653885429561823232",
-      "text": "Вопрос к тем, кто считает себя гуру,ниндзя и просто профессионалам.Делитесь ли вы своим опытом с другими разработчиками? Если нет,то почему?",
+      "created_at": "Tue Oct 13 10:52:58 +0000 2015",
+      "id": 653886137384194000,
+      "id_str": "653886137384194048",
+      "text": "Если кому-то интересна библиотека Three.js, то вот тут есть стартовый курс на русском\nhttp://t.co/rkc0X1Ysjq Крутой сайт, тут много всего",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -8258,10 +8356,21 @@
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": []
+        "urls": [
+          {
+            "url": "http://t.co/rkc0X1Ysjq",
+            "expanded_url": "http://diductio.ru/course/2060/",
+            "display_url": "diductio.ru/course/2060/",
+            "indices": [
+              86,
+              108
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
