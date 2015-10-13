@@ -46,64 +46,25 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11571,
+  "statuses_count": 11572,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 13 07:41:22 +0000 2015",
-    "id": 653837921783578600,
-    "id_str": "653837921783578624",
-    "text": "RT @Trufid: @jsunderhood расскажи зачем для плеера использовать three.js? Оно же скорее про 3d",
+    "created_at": "Tue Oct 13 07:42:37 +0000 2015",
+    "id": 653838234334707700,
+    "id_str": "653838234334707712",
+    "text": "У нас плеер в вебе для отображения 3D моделей, полученных с наших 3D сканеров @Trufid",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 653773377308631000,
+    "in_reply_to_status_id_str": "653773377308631044",
+    "in_reply_to_user_id": 386103404,
+    "in_reply_to_user_id_str": "386103404",
+    "in_reply_to_screen_name": "Trufid",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Oct 13 03:24:54 +0000 2015",
-      "id": 653773377308631000,
-      "id_str": "653773377308631044",
-      "text": "@jsunderhood расскажи зачем для плеера использовать three.js? Оно же скорее про 3d",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -115,18 +76,8 @@
           "id": 386103404,
           "id_str": "386103404",
           "indices": [
-            3,
-            10
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            12,
-            24
+            78,
+            85
           ]
         }
       ],
