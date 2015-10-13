@@ -5111,7 +5111,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2083,
+    "followers_count": 2084,
     "friends_count": 1,
     "listed_count": 106,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -5120,20 +5120,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11589,
+    "statuses_count": 11590,
     "lang": "ru",
     "status": {
-      "created_at": "Tue Oct 13 08:03:09 +0000 2015",
-      "id": 653843402010808300,
-      "id_str": "653843402010808320",
-      "text": "Кстати касательно тестов. У нас в проекте по js только интеграционные тесты на capybara. Я замучилась с нестабильностью! @Vitalliumm",
+      "created_at": "Tue Oct 13 08:03:58 +0000 2015",
+      "id": 653843608903241700,
+      "id_str": "653843608903241729",
+      "text": "Какие тесты на ваш взгляд важнее во фронтенде: интеграционные или unit?",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 653842114715983900,
-      "in_reply_to_status_id_str": "653842114715983872",
-      "in_reply_to_user_id": 203317967,
-      "in_reply_to_user_id_str": "203317967",
-      "in_reply_to_screen_name": "Vitalliumm",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -5143,18 +5143,7 @@
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "Vitalliumm",
-            "name": "Vitaly Slobodin",
-            "id": 203317967,
-            "id_str": "203317967",
-            "indices": [
-              121,
-              132
-            ]
-          }
-        ],
+        "user_mentions": [],
         "urls": []
       },
       "favorited": false,
