@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2059,
+  "followers_count": 2060,
   "friends_count": 1,
   "listed_count": 107,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11757,
+  "statuses_count": 11759,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 14 12:35:23 +0000 2015",
-    "id": 654274299386286100,
-    "id_str": "654274299386286080",
-    "text": "Покажи конечно! https://t.co/GXCzAX7Qrh",
+    "created_at": "Wed Oct 14 12:48:39 +0000 2015",
+    "id": 654277639700631600,
+    "id_str": "654277639700631552",
+    "text": "@psyw здорово! А для каких целей она была сделана, просто опробовать технологию?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 654276455619235800,
+    "in_reply_to_status_id_str": "654276455619235840",
+    "in_reply_to_user_id": 394754165,
+    "in_reply_to_user_id_str": "394754165",
+    "in_reply_to_screen_name": "psyw",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,22 +69,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/GXCzAX7Qrh",
-          "expanded_url": "https://twitter.com/psyw/status/654274165994819584",
-          "display_url": "twitter.com/psyw/status/65…",
+          "screen_name": "psyw",
+          "name": "Максим Усачёв",
+          "id": 394754165,
+          "id_str": "394754165",
           "indices": [
-            16,
-            39
+            0,
+            5
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
