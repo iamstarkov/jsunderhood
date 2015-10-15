@@ -896,7 +896,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 128,
-          "favorite_count": 127,
+          "favorite_count": 126,
           "entities": {
             "hashtags": [],
             "symbols": [],
@@ -26593,39 +26593,70 @@
       }
     },
     "protected": false,
-    "followers_count": 2074,
+    "followers_count": 2075,
     "friends_count": 1,
-    "listed_count": 107,
+    "listed_count": 108,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
     "favourites_count": 19,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11845,
+    "statuses_count": 11862,
     "lang": "ru",
     "status": {
-      "created_at": "Thu Oct 15 14:14:35 +0000 2015",
-      "id": 654661650436386800,
-      "id_str": "654661650436386817",
-      "text": "У кого проекты c backend тоже на Ruby on Rails какой стек frontend технологий вы используете? Очень интересно, думаю, куда развивать наши.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Thu Oct 15 18:28:11 +0000 2015",
+      "id": 654725471163187200,
+      "id_str": "654725471163187200",
+      "text": "Мотивация порой решает @_sashashakun @cssunderhood @htmlacademy_ru",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 654724124397273100,
+      "in_reply_to_status_id_str": "654724124397273088",
+      "in_reply_to_user_id": 159809934,
+      "in_reply_to_user_id_str": "159809934",
+      "in_reply_to_screen_name": "_sashashakun",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sashashakun",
+            "name": "Alexander",
+            "id": 159809934,
+            "id_str": "159809934",
+            "indices": [
+              23,
+              36
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              37,
+              50
+            ]
+          },
+          {
+            "screen_name": "htmlacademy_ru",
+            "name": "HTML Academy",
+            "id": 773276947,
+            "id_str": "773276947",
+            "indices": [
+              51,
+              66
+            ]
+          }
+        ],
         "urls": []
       },
       "favorited": false,
