@@ -3,19 +3,8 @@
   "id_str": "3014054307",
   "name": "Разработчик",
   "screen_name": "jsunderhood",
-  "location": "Moscow, Russia",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Moscow, Russia",
-    "full_name": "Moscow, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "location": "Москва, Россия",
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю. В эфире @Lik04ka",
   "url": "https://t.co/TqpzZziYPM",
   "entities": {
@@ -37,57 +26,96 @@
     }
   },
   "protected": false,
-  "followers_count": 2062,
+  "followers_count": 2074,
   "friends_count": 1,
   "listed_count": 107,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 20,
+  "favourites_count": 19,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11773,
+  "statuses_count": 11844,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 14 16:50:36 +0000 2015",
-    "id": 654338524934729700,
-    "id_str": "654338524934729728",
-    "text": "@myjsalterego @Devgru в мазиле не работает(",
+    "created_at": "Thu Oct 15 14:08:25 +0000 2015",
+    "id": 654660100540399600,
+    "id_str": "654660100540399616",
+    "text": "RT @ishabaa: @jsunderhood для нас это важный этап разработки, к дизайну переходим только после утверждения прототипов с клиентом",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 654334044705017900,
-    "in_reply_to_status_id_str": "654334044705017857",
-    "in_reply_to_user_id": 170807334,
-    "in_reply_to_user_id_str": "170807334",
-    "in_reply_to_screen_name": "myjsalterego",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Thu Oct 15 14:00:17 +0000 2015",
+      "id": 654658052260429800,
+      "id_str": "654658052260429826",
+      "text": "@jsunderhood для нас это важный этап разработки, к дизайну переходим только после утверждения прототипов с клиентом",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654638071607070700,
+      "in_reply_to_status_id_str": "654638071607070720",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "myjsalterego",
-          "name": "Alexey Litvinov",
-          "id": 170807334,
-          "id_str": "170807334",
+          "screen_name": "ishabaa",
+          "name": "Ilya Shabanov",
+          "id": 222628503,
+          "id_str": "222628503",
           "indices": [
-            0,
-            13
+            3,
+            11
           ]
         },
         {
-          "screen_name": "Devgru",
-          "name": "Dmitriy Semyushkin",
-          "id": 14437308,
-          "id_str": "14437308",
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
           "indices": [
-            14,
-            21
+            13,
+            25
           ]
         }
       ],
