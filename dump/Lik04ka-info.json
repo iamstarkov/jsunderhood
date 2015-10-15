@@ -3,8 +3,19 @@
   "id_str": "3014054307",
   "name": "Разработчик",
   "screen_name": "jsunderhood",
-  "location": "Москва, Россия",
-  "profile_location": null,
+  "location": "Moscow, Russia",
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Moscow, Russia",
+    "full_name": "Moscow, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю. В эфире @Lik04ka",
   "url": "https://t.co/TqpzZziYPM",
   "entities": {
@@ -35,13 +46,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11844,
+  "statuses_count": 11845,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Oct 15 14:08:25 +0000 2015",
-    "id": 654660100540399600,
-    "id_str": "654660100540399616",
-    "text": "RT @ishabaa: @jsunderhood для нас это важный этап разработки, к дизайну переходим только после утверждения прототипов с клиентом",
+    "created_at": "Thu Oct 15 14:14:35 +0000 2015",
+    "id": 654661650436386800,
+    "id_str": "654661650436386817",
+    "text": "У кого проекты c backend тоже на Ruby on Rails какой стек frontend технологий вы используете? Очень интересно, думаю, куда развивать наши.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,72 +64,12 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Oct 15 14:00:17 +0000 2015",
-      "id": 654658052260429800,
-      "id_str": "654658052260429826",
-      "text": "@jsunderhood для нас это важный этап разработки, к дизайну переходим только после утверждения прототипов с клиентом",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 654638071607070700,
-      "in_reply_to_status_id_str": "654638071607070720",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ishabaa",
-          "name": "Ilya Shabanov",
-          "id": 222628503,
-          "id_str": "222628503",
-          "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            13,
-            25
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
