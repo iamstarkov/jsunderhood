@@ -5,7 +5,7 @@
 ## Сбор информации
 
 * [x] get-tweets [DONE with 2.0](https://github.com/iamstarkov/get-tweets/releases/tag/v2.0.0)
-* [ ] get-twitter-info
+* [x] get-twitter-info
 * [ ] get-twitter-mentions
 * [ ] get-twitter-followers
 * [ ] исследовать осташиеся endpoints твиттер АПИ на полезность
