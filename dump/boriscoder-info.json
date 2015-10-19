@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12001,
+  "statuses_count": 12003,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 19 13:19:36 +0000 2015",
-    "id": 656097365523304400,
-    "id_str": "656097365523304449",
-    "text": "@roman_says_hi с пунктом Too much configuration. Есть команда jasmine init, например. С mocha сложнее, там встроенных асертов нет",
+    "created_at": "Mon Oct 19 13:23:36 +0000 2015",
+    "id": 656098371577450500,
+    "id_str": "656098371577450496",
+    "text": "Недавно мы публиковали статью на Хабр: http://t.co/DZLsatHG7q\nя писал набор тестов для проверки на javascript https://t.co/gJDYKxsxm8",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 656096419347103700,
-    "in_reply_to_status_id_str": "656096419347103744",
-    "in_reply_to_user_id": 957276499,
-    "in_reply_to_user_id_str": "957276499",
-    "in_reply_to_screen_name": "roman_says_hi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,22 +69,31 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "roman_says_hi",
-          "name": "Roman Kolpak",
-          "id": 957276499,
-          "id_str": "957276499",
+          "url": "http://t.co/DZLsatHG7q",
+          "expanded_url": "http://habrahabr.ru/company/yandex/blog/268309/",
+          "display_url": "habrahabr.ru/company/yandex…",
           "indices": [
-            0,
-            14
+            39,
+            61
+          ]
+        },
+        {
+          "url": "https://t.co/gJDYKxsxm8",
+          "expanded_url": "https://twitter.com/poebist/status/656096704798830592",
+          "display_url": "twitter.com/poebist/status…",
+          "indices": [
+            110,
+            133
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

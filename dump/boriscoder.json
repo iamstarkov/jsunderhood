@@ -5,6 +5,159 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Oct 19 13:23:36 +0000 2015",
+      "id": 656098371577450500,
+      "id_str": "656098371577450496",
+      "text": "Недавно мы публиковали статью на Хабр: http://t.co/DZLsatHG7q\nя писал набор тестов для проверки на javascript https://t.co/gJDYKxsxm8",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656096704798830600,
+      "quoted_status_id_str": "656096704798830592",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 13:16:58 +0000 2015",
+        "id": 656096704798830600,
+        "id_str": "656096704798830592",
+        "text": "@jsunderhood @mr_mig_by что вы последнее такое тестировали? Над чем сейчас работаете?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656095345626239000,
+        "in_reply_to_status_id_str": "656095345626238976",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 225615222,
+          "id_str": "225615222"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "mr_mig_by",
+              "name": "Alexey Migutsky",
+              "id": 170772902,
+              "id_str": "170772902",
+              "indices": [
+                13,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/DZLsatHG7q",
+            "expanded_url": "http://habrahabr.ru/company/yandex/blog/268309/",
+            "display_url": "habrahabr.ru/company/yandex…",
+            "indices": [
+              39,
+              61
+            ]
+          },
+          {
+            "url": "https://t.co/gJDYKxsxm8",
+            "expanded_url": "https://twitter.com/poebist/status/656096704798830592",
+            "display_url": "twitter.com/poebist/status…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 13:22:22 +0000 2015",
+      "id": 656098063082258400,
+      "id_str": "656098063082258432",
+      "text": "@mr_mig_by TDD сложное и работает только если писать с нуля. Во фронте обычно проще все же руками смотреть. А тесты пишутся на регрессию",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656096859698544600,
+      "in_reply_to_status_id_str": "656096859698544640",
+      "in_reply_to_user_id": 170772902,
+      "in_reply_to_user_id_str": "170772902",
+      "in_reply_to_screen_name": "mr_mig_by",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Oct 19 13:19:36 +0000 2015",
       "id": 656097365523304400,
       "id_str": "656097365523304449",
@@ -1054,20 +1207,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 12000,
+    "statuses_count": 12001,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Oct 19 13:15:55 +0000 2015",
-      "id": 656096440654151700,
-      "id_str": "656096440654151680",
-      "text": "Обычно начинают тестирование с тех модулей, которые используются в нескольких местах. В них опаснее делать ошибки https://t.co/LD5d7sSJeW",
+      "created_at": "Mon Oct 19 13:19:36 +0000 2015",
+      "id": 656097365523304400,
+      "id_str": "656097365523304449",
+      "text": "@roman_says_hi с пунктом Too much configuration. Есть команда jasmine init, например. С mocha сложнее, там встроенных асертов нет",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 656096419347103700,
+      "in_reply_to_status_id_str": "656096419347103744",
+      "in_reply_to_user_id": 957276499,
+      "in_reply_to_user_id_str": "957276499",
+      "in_reply_to_screen_name": "roman_says_hi",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -1077,22 +1230,22 @@
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "user_mentions": [
           {
-            "url": "https://t.co/LD5d7sSJeW",
-            "expanded_url": "https://twitter.com/mr_mig_by/status/656095672966381568",
-            "display_url": "twitter.com/mr_mig_by/stat…",
+            "screen_name": "roman_says_hi",
+            "name": "Roman Kolpak",
+            "id": 957276499,
+            "id_str": "957276499",
             "indices": [
-              114,
-              137
+              0,
+              14
             ]
           }
-        ]
+        ],
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
