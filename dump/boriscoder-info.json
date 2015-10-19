@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12004,
+  "statuses_count": 12005,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 19 13:41:12 +0000 2015",
-    "id": 656102802087878700,
-    "id_str": "656102802087878656",
-    "text": "Потому что e2e тесты дольше исполняются и падают по случайным причинам. Unit-тесты быстрее и надежнее https://t.co/Gg9ZxOTvr8",
+    "created_at": "Mon Oct 19 13:47:37 +0000 2015",
+    "id": 656104416592986100,
+    "id_str": "656104416592986112",
+    "text": "@maxmaximov с какого из двух вопросов начать?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 656103544660037600,
+    "in_reply_to_status_id_str": "656103544660037632",
+    "in_reply_to_user_id": 12921622,
+    "in_reply_to_user_id_str": "12921622",
+    "in_reply_to_screen_name": "maxmaximov",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,22 +69,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/Gg9ZxOTvr8",
-          "expanded_url": "https://twitter.com/hellbeast92/status/656100969013510144",
-          "display_url": "twitter.com/hellbeast92/st…",
+          "screen_name": "maxmaximov",
+          "name": "Max Maximov",
+          "id": 12921622,
+          "id_str": "12921622",
           "indices": [
-            102,
-            125
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
