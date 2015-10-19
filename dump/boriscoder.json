@@ -5,6 +5,96 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Oct 19 13:41:12 +0000 2015",
+      "id": 656102802087878700,
+      "id_str": "656102802087878656",
+      "text": "Потому что e2e тесты дольше исполняются и падают по случайным причинам. Unit-тесты быстрее и надежнее https://t.co/Gg9ZxOTvr8",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656100969013510100,
+      "quoted_status_id_str": "656100969013510144",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 13:33:55 +0000 2015",
+        "id": 656100969013510100,
+        "id_str": "656100969013510144",
+        "text": "@jsunderhood почему все говорят что unit тесты предпочтительныей e2e тестов для front-end'a? Посоветуй стек технологий для того и того)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2504248329,
+          "id_str": "2504248329"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gg9ZxOTvr8",
+            "expanded_url": "https://twitter.com/hellbeast92/status/656100969013510144",
+            "display_url": "twitter.com/hellbeast92/st…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Oct 19 13:23:36 +0000 2015",
       "id": 656098371577450500,
       "id_str": "656098371577450496",
@@ -592,7 +682,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 0,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1198,7 +1288,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2115,
+    "followers_count": 2116,
     "friends_count": 1,
     "listed_count": 108,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",

@@ -46,13 +46,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12003,
+  "statuses_count": 12004,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 19 13:23:36 +0000 2015",
-    "id": 656098371577450500,
-    "id_str": "656098371577450496",
-    "text": "Недавно мы публиковали статью на Хабр: http://t.co/DZLsatHG7q\nя писал набор тестов для проверки на javascript https://t.co/gJDYKxsxm8",
+    "created_at": "Mon Oct 19 13:41:12 +0000 2015",
+    "id": 656102802087878700,
+    "id_str": "656102802087878656",
+    "text": "Потому что e2e тесты дольше исполняются и падают по случайным причинам. Unit-тесты быстрее и надежнее https://t.co/Gg9ZxOTvr8",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,28 +65,19 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "http://t.co/DZLsatHG7q",
-          "expanded_url": "http://habrahabr.ru/company/yandex/blog/268309/",
-          "display_url": "habrahabr.ru/company/yandex…",
+          "url": "https://t.co/Gg9ZxOTvr8",
+          "expanded_url": "https://twitter.com/hellbeast92/status/656100969013510144",
+          "display_url": "twitter.com/hellbeast92/st…",
           "indices": [
-            39,
-            61
-          ]
-        },
-        {
-          "url": "https://t.co/gJDYKxsxm8",
-          "expanded_url": "https://twitter.com/poebist/status/656096704798830592",
-          "display_url": "twitter.com/poebist/status…",
-          "indices": [
-            110,
-            133
+            102,
+            125
           ]
         }
       ]
