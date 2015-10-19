@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11997,
+  "statuses_count": 11998,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 19 13:03:16 +0000 2015",
-    "id": 656093254774071300,
-    "id_str": "656093254774071296",
-    "text": ".@jsunderhood  можно спрашивать меня о разных тонкостях тестирования. Как правильно писать тестовый код? Как ускорить медленные тесты?",
+    "created_at": "Mon Oct 19 13:11:34 +0000 2015",
+    "id": 656095345626239000,
+    "id_str": "656095345626238976",
+    "text": "Это слишком общий вопрос, надо детализировать. Как решить где что тестируем? https://t.co/36rU0EHm7i",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 656092773150535700,
-    "in_reply_to_status_id_str": "656092773150535681",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,22 +69,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
+          "url": "https://t.co/36rU0EHm7i",
+          "expanded_url": "https://twitter.com/mr_mig_by/status/656093722552070148",
+          "display_url": "twitter.com/mr_mig_by/stat…",
           "indices": [
-            1,
-            13
+            77,
+            100
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
