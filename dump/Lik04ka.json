@@ -37420,7 +37420,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2084,
+    "followers_count": 2106,
     "friends_count": 1,
     "listed_count": 108,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -37429,38 +37429,53 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 11935,
+    "statuses_count": 11986,
     "lang": "ru",
     "status": {
-      "created_at": "Fri Oct 16 17:25:37 +0000 2015",
-      "id": 655072113922035700,
-      "id_str": "655072113922035712",
-      "text": "@vlkosinov что к чему больше подходит, везде разные подводные камни.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Sun Oct 18 17:28:04 +0000 2015",
+      "id": 655797507713273900,
+      "id_str": "655797507713273856",
+      "text": "Ребята, всем спасибо за ваши ответы! За неделю я вдохновилась еще больше перевести наши проекты на #es6 и #webpack С вами была @Lik04ka :-*",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 655071612052619300,
-      "in_reply_to_status_id_str": "655071612052619264",
-      "in_reply_to_user_id": 1231241928,
-      "in_reply_to_user_id_str": "1231241928",
-      "in_reply_to_screen_name": "vlkosinov",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 4,
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "es6",
+            "indices": [
+              99,
+              103
+            ]
+          },
+          {
+            "text": "webpack",
+            "indices": [
+              106,
+              114
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "vlkosinov",
-            "name": "Vlad Kosinov",
-            "id": 1231241928,
-            "id_str": "1231241928",
+            "screen_name": "Lik04ka",
+            "name": "Климова Василика",
+            "id": 531734817,
+            "id_str": "531734817",
             "indices": [
-              0,
-              10
+              127,
+              135
             ]
           }
         ],
