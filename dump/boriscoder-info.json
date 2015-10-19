@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2115,
+  "followers_count": 2116,
   "friends_count": 1,
   "listed_count": 108,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12005,
+  "statuses_count": 12014,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 19 13:47:37 +0000 2015",
-    "id": 656104416592986100,
-    "id_str": "656104416592986112",
-    "text": "@maxmaximov с какого из двух вопросов начать?",
+    "created_at": "Mon Oct 19 14:53:41 +0000 2015",
+    "id": 656121041228550100,
+    "id_str": "656121041228550149",
+    "text": "@hellbeast92 вот небольшой тест на кастомный select: https://t.co/q6JEhv5yTk\nПроверяем что он отрендерился правильно",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 656103544660037600,
-    "in_reply_to_status_id_str": "656103544660037632",
-    "in_reply_to_user_id": 12921622,
-    "in_reply_to_user_id_str": "12921622",
-    "in_reply_to_screen_name": "maxmaximov",
+    "in_reply_to_status_id": 656117734695112700,
+    "in_reply_to_status_id_str": "656117734695112704",
+    "in_reply_to_user_id": 2504248329,
+    "in_reply_to_user_id_str": "2504248329",
+    "in_reply_to_screen_name": "hellbeast92",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -71,20 +71,31 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "maxmaximov",
-          "name": "Max Maximov",
-          "id": 12921622,
-          "id_str": "12921622",
+          "screen_name": "hellbeast92",
+          "name": "Александр Староверов",
+          "id": 2504248329,
+          "id_str": "2504248329",
           "indices": [
             0,
-            11
+            12
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/q6JEhv5yTk",
+          "expanded_url": "https://gist.github.com/just-boris/178f3ab863c7a9971708",
+          "display_url": "gist.github.com/just-boris/178…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
