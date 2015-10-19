@@ -2,6 +2,7 @@ import fs from 'fs-extra';
 
 export default [
   // post: false
+  { username: 'boriscoder',      start: '19 Oct 2015', first: '656082486569627648', post: false },
   { username: 'Lik04ka',         start: '12 Oct 2015', first: '653591753300275200' },
   { username: 'flackus',         start: '05 Oct 2015', first: '650964589706874880' },
   { username: 'edjafarov',       start: '28 Sep 2015', first: '648376762624278528' },
