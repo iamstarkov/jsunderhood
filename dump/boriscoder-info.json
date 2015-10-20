@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2138,
+  "followers_count": 2133,
   "friends_count": 1,
   "listed_count": 108,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,47 +46,49 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12051,
+  "statuses_count": 12086,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 20 07:55:21 +0000 2015",
-    "id": 656378152793579500,
-    "id_str": "656378152793579521",
-    "text": "Еще есть memory-fs. https://t.co/hxGhLtHugS Надо выбирать ту, которая больше подходит по API. https://t.co/YID7rZuee5",
+    "created_at": "Tue Oct 20 13:30:51 +0000 2015",
+    "id": 656462587341774800,
+    "id_str": "656462587341774848",
+    "text": ".@jsunderhood в нашей команде разработали библиотеку на эту тему: https://t.co/InZh6C60RE но она на java. Мы только начинаем вступать в js",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 656462059555725300,
+    "in_reply_to_status_id_str": "656462059555725313",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            1,
+            13
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/hxGhLtHugS",
-          "expanded_url": "https://github.com/webpack/memory-fs",
-          "display_url": "github.com/webpack/memory…",
+          "url": "https://t.co/InZh6C60RE",
+          "expanded_url": "https://github.com/yandex-qatools/actions",
+          "display_url": "github.com/yandex-qatools…",
           "indices": [
-            20,
-            43
-          ]
-        },
-        {
-          "url": "https://t.co/YID7rZuee5",
-          "expanded_url": "https://twitter.com/VovanR/status/656377815647035392",
-          "display_url": "twitter.com/VovanR/status/…",
-          "indices": [
-            94,
-            117
+            66,
+            89
           ]
         }
       ]
