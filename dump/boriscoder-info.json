@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12049,
+  "statuses_count": 12050,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 20 07:47:41 +0000 2015",
-    "id": 656376223019483100,
-    "id_str": "656376223019483137",
-    "text": "@freiksenet_ru @ArtemGovorov это интеграционные тесты. В них тест покрывает сразу много модулей, после изменения все равно запустится все.",
+    "created_at": "Tue Oct 20 07:53:56 +0000 2015",
+    "id": 656377796130926600,
+    "id_str": "656377796130926592",
+    "text": "xUnit patterns: https://t.co/QD0z32fp0z Настольная книга в нашем отделе https://t.co/KLDIF4F9iS",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 656375149978087400,
-    "in_reply_to_status_id_str": "656375149978087424",
-    "in_reply_to_user_id": 3411018190,
-    "in_reply_to_user_id_str": "3411018190",
-    "in_reply_to_screen_name": "freiksenet_ru",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,32 +69,31 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
+          "url": "https://t.co/QD0z32fp0z",
+          "expanded_url": "http://xunitpatterns.com/",
+          "display_url": "xunitpatterns.com",
           "indices": [
-            0,
-            14
+            16,
+            39
           ]
         },
         {
-          "screen_name": "ArtemGovorov",
-          "name": "Artem Govorov",
-          "id": 14431932,
-          "id_str": "14431932",
+          "url": "https://t.co/KLDIF4F9iS",
+          "expanded_url": "https://twitter.com/Sigiller/status/656375825974038528",
+          "display_url": "twitter.com/Sigiller/statu…",
           "indices": [
-            15,
-            28
+            72,
+            95
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
