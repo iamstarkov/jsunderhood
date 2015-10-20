@@ -4453,20 +4453,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 12048,
+    "statuses_count": 12049,
     "lang": "ru",
     "status": {
-      "created_at": "Tue Oct 20 07:45:29 +0000 2015",
-      "id": 656375669912444900,
-      "id_str": "656375669912444928",
-      "text": ".@jsunderhood я пишу. Я знаю как устроен мой код и смогу оптимальнее его протестировать, чем кто-то другой",
+      "created_at": "Tue Oct 20 07:47:41 +0000 2015",
+      "id": 656376223019483100,
+      "id_str": "656376223019483137",
+      "text": "@freiksenet_ru @ArtemGovorov это интеграционные тесты. В них тест покрывает сразу много модулей, после изменения все равно запустится все.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 656375437556346900,
-      "in_reply_to_status_id_str": "656375437556346880",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "in_reply_to_status_id": 656375149978087400,
+      "in_reply_to_status_id_str": "656375149978087424",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -4478,13 +4478,23 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
             "indices": [
-              1,
-              13
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ArtemGovorov",
+            "name": "Artem Govorov",
+            "id": 14431932,
+            "id_str": "14431932",
+            "indices": [
+              15,
+              28
             ]
           }
         ],
