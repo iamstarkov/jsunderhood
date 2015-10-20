@@ -5,6 +5,60 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Oct 20 07:47:41 +0000 2015",
+      "id": 656376223019483100,
+      "id_str": "656376223019483137",
+      "text": "@freiksenet_ru @ArtemGovorov это интеграционные тесты. В них тест покрывает сразу много модулей, после изменения все равно запустится все.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656375149978087400,
+      "in_reply_to_status_id_str": "656375149978087424",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ArtemGovorov",
+            "name": "Artem Govorov",
+            "id": 14431932,
+            "id_str": "14431932",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 20 07:45:29 +0000 2015",
       "id": 656375669912444900,
       "id_str": "656375669912444928",
@@ -4390,7 +4444,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2116,
+    "followers_count": 2138,
     "friends_count": 1,
     "listed_count": 108,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -4399,20 +4453,20 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 12014,
+    "statuses_count": 12048,
     "lang": "ru",
     "status": {
-      "created_at": "Mon Oct 19 14:53:41 +0000 2015",
-      "id": 656121041228550100,
-      "id_str": "656121041228550149",
-      "text": "@hellbeast92 вот небольшой тест на кастомный select: https://t.co/q6JEhv5yTk\nПроверяем что он отрендерился правильно",
+      "created_at": "Tue Oct 20 07:45:29 +0000 2015",
+      "id": 656375669912444900,
+      "id_str": "656375669912444928",
+      "text": ".@jsunderhood я пишу. Я знаю как устроен мой код и смогу оптимальнее его протестировать, чем кто-то другой",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 656117734695112700,
-      "in_reply_to_status_id_str": "656117734695112704",
-      "in_reply_to_user_id": 2504248329,
-      "in_reply_to_user_id_str": "2504248329",
-      "in_reply_to_screen_name": "hellbeast92",
+      "in_reply_to_status_id": 656375437556346900,
+      "in_reply_to_status_id_str": "656375437556346880",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -4424,31 +4478,20 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "hellbeast92",
-            "name": "Александр Староверов",
-            "id": 2504248329,
-            "id_str": "2504248329",
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
             "indices": [
-              0,
-              12
+              1,
+              13
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/q6JEhv5yTk",
-            "expanded_url": "https://gist.github.com/just-boris/178f3ab863c7a9971708",
-            "display_url": "gist.github.com/just-boris/178…",
-            "indices": [
-              53,
-              76
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
