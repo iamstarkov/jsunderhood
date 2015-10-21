@@ -5,6 +5,529 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Oct 21 14:40:33 +0000 2015",
+      "id": 656842512888369200,
+      "id_str": "656842512888369154",
+      "text": "@jsunderhood и получаем в репорте лог по шагам в терминах тестируемого приложения, как от ручного тестировщика https://t.co/x23P1QKQqI",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656842324362842100,
+      "in_reply_to_status_id_str": "656842324362842112",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 656842511135150100,
+            "id_str": "656842511135150080",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
+            "media_url_https": "https://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
+            "url": "https://t.co/x23P1QKQqI",
+            "display_url": "pic.twitter.com/x23P1QKQqI",
+            "expanded_url": "http://twitter.com/jsunderhood/status/656842512888369154/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 464,
+                "h": 246,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 464,
+                "h": 246,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 180,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 656842511135150100,
+            "id_str": "656842511135150080",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
+            "media_url_https": "https://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
+            "url": "https://t.co/x23P1QKQqI",
+            "display_url": "pic.twitter.com/x23P1QKQqI",
+            "expanded_url": "http://twitter.com/jsunderhood/status/656842512888369154/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 464,
+                "h": 246,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 464,
+                "h": 246,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 180,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 14:39:48 +0000 2015",
+      "id": 656842324362842100,
+      "id_str": "656842324362842112",
+      "text": ".@jsunderhood в Allure для этого есть понятие Steps. Определяем step-функцию через наше API https://t.co/0CHPzrjr1k",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656837844711964700,
+      "in_reply_to_status_id_str": "656837844711964673",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 656842322647347200,
+            "id_str": "656842322647347200",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CR2SnMLWcAAF1-E.png",
+            "media_url_https": "https://pbs.twimg.com/media/CR2SnMLWcAAF1-E.png",
+            "url": "https://t.co/0CHPzrjr1k",
+            "display_url": "pic.twitter.com/0CHPzrjr1k",
+            "expanded_url": "http://twitter.com/jsunderhood/status/656842324362842112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 43,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 80,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 624,
+                "h": 80,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 76,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 656842322647347200,
+            "id_str": "656842322647347200",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CR2SnMLWcAAF1-E.png",
+            "media_url_https": "https://pbs.twimg.com/media/CR2SnMLWcAAF1-E.png",
+            "url": "https://t.co/0CHPzrjr1k",
+            "display_url": "pic.twitter.com/0CHPzrjr1k",
+            "expanded_url": "http://twitter.com/jsunderhood/status/656842324362842112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 43,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 80,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 624,
+                "h": 80,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 76,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 14:22:00 +0000 2015",
+      "id": 656837844711964700,
+      "id_str": "656837844711964673",
+      "text": "Иногда хочется детализировать свои тесты и разделить их на шаги. Заходим -&gt; Логинимся -&gt; Открываем страницу -&gt; Жмем на кнопку",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 11:53:28 +0000 2015",
+      "id": 656800465670307800,
+      "id_str": "656800465670307840",
+      "text": "@jsunderhood Allure-cli доступен в через homebrew, ppa, архив для windows, плагины в teamcity, jenkins, bamboo: https://t.co/apu10AHDob",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656800115210997800,
+      "in_reply_to_status_id_str": "656800115210997760",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/apu10AHDob",
+            "expanded_url": "https://github.com/allure-framework/allure-core/wiki#generating-a-report",
+            "display_url": "github.com/allure-framewo…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "sl"
+    },
+    {
+      "created_at": "Wed Oct 21 11:52:04 +0000 2015",
+      "id": 656800115210997800,
+      "id_str": "656800115210997760",
+      "text": ".@jsunderhood это нужно, чтобы не тратить ресурсы на отчеты, которые никому не интересны (когда в них нет ошибок)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656799946604216300,
+      "in_reply_to_status_id_str": "656799946604216320",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 11:51:24 +0000 2015",
+      "id": 656799946604216300,
+      "id_str": "656799946604216320",
+      "text": "В Allure есть еще одна инженерная хитрость. После тестов вы получаете файлы с raw-xml. Чтобы получить отчет, надо его построить c allure-cli",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 10:36:48 +0000 2015",
+      "id": 656781170139603000,
+      "id_str": "656781170139602944",
+      "text": "Вот так в Mocha можно сохранять скриншот для failed теста. Allure позаботится и подклеит его к нужному сьюту и кейсу https://t.co/1aVQ5NwXEs",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 656781168327708700,
+            "id_str": "656781168327708672",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CR1a_ilW0AAeT2Q.png",
+            "media_url_https": "https://pbs.twimg.com/media/CR1a_ilW0AAeT2Q.png",
+            "url": "https://t.co/1aVQ5NwXEs",
+            "display_url": "pic.twitter.com/1aVQ5NwXEs",
+            "expanded_url": "http://twitter.com/jsunderhood/status/656781170139602944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 131,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 775,
+                "h": 170,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 74,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 656781168327708700,
+            "id_str": "656781168327708672",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CR1a_ilW0AAeT2Q.png",
+            "media_url_https": "https://pbs.twimg.com/media/CR1a_ilW0AAeT2Q.png",
+            "url": "https://t.co/1aVQ5NwXEs",
+            "display_url": "pic.twitter.com/1aVQ5NwXEs",
+            "expanded_url": "http://twitter.com/jsunderhood/status/656781170139602944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 131,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 775,
+                "h": 170,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 74,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Oct 21 07:48:07 +0000 2015",
       "id": 656738723145646100,
       "id_str": "656738723145646080",
@@ -125,7 +648,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -180,7 +703,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2514,7 +3037,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2952,7 +3475,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5229,7 +5752,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6444,7 +6967,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 3,
-      "favorite_count": 20,
+      "favorite_count": 21,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6738,7 +7261,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 0,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -8246,29 +8769,29 @@
       }
     },
     "protected": false,
-    "followers_count": 2133,
+    "followers_count": 2134,
     "friends_count": 1,
-    "listed_count": 108,
+    "listed_count": 107,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
     "favourites_count": 19,
     "utc_offset": 3600,
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 12086,
+    "statuses_count": 12111,
     "lang": "ru",
     "status": {
-      "created_at": "Tue Oct 20 13:30:51 +0000 2015",
-      "id": 656462587341774800,
-      "id_str": "656462587341774848",
-      "text": ".@jsunderhood в нашей команде разработали библиотеку на эту тему: https://t.co/InZh6C60RE но она на java. Мы только начинаем вступать в js",
+      "created_at": "Wed Oct 21 07:48:07 +0000 2015",
+      "id": 656738723145646100,
+      "id_str": "656738723145646080",
+      "text": "@freiksenet_ru ты сможешь слить несколько запусков в 1. Но пока без аналитики и вычисления трендов",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 656462059555725300,
-      "in_reply_to_status_id_str": "656462059555725313",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "in_reply_to_status_id": 656737417987268600,
+      "in_reply_to_status_id_str": "656737417987268608",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -8280,31 +8803,20 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
             "indices": [
-              1,
-              13
+              0,
+              14
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/InZh6C60RE",
-            "expanded_url": "https://github.com/yandex-qatools/actions",
-            "display_url": "github.com/yandex-qatools…",
-            "indices": [
-              66,
-              89
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
