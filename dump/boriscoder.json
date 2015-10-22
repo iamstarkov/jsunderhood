@@ -5,6 +5,2799 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 22 12:38:47 +0000 2015",
+      "id": 657174256028139500,
+      "id_str": "657174256028139520",
+      "text": ".@jsunderhood с Webpack и Browserify стало популярно писать браузерный код в node.js стиле. Удобно, что его стало можно тестировать в node",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657161697988366300,
+      "in_reply_to_status_id_str": "657161697988366336",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 11:48:52 +0000 2015",
+      "id": 657161697988366300,
+      "id_str": "657161697988366336",
+      "text": "Я пользуюсь JSDOM. Настройку подсмотрел здесь: https://t.co/kJ0xmcAZPM",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kJ0xmcAZPM",
+            "expanded_url": "https://github.com/thejameskyle/marionette-wires/blob/master/test/setup/node.js",
+            "display_url": "github.com/thejameskyle/m…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 11:46:35 +0000 2015",
+      "id": 657161121384808400,
+      "id_str": "657161121384808448",
+      "text": "RT @Vitalliumm: @jsunderhood Zombie.js?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 11:45:48 +0000 2015",
+        "id": 657160925477216300,
+        "id_str": "657160925477216256",
+        "text": "@jsunderhood Zombie.js?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657160653778612200,
+        "in_reply_to_status_id_str": "657160653778612224",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Oct 22 11:46:25 +0000 2015",
+      "id": 657161078833553400,
+      "id_str": "657161078833553408",
+      "text": ".@jsunderhood на эту тему куча решений https://t.co/pRKh62jFun https://t.co/Ozsunr3uxB https://t.co/K0u19vx4QJ у всех свои отличия",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657160653778612200,
+      "in_reply_to_status_id_str": "657160653778612224",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pRKh62jFun",
+            "expanded_url": "https://github.com/tmpvar/jsdom",
+            "display_url": "github.com/tmpvar/jsdom",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "url": "https://t.co/Ozsunr3uxB",
+            "expanded_url": "https://github.com/krasimir/atomus",
+            "display_url": "github.com/krasimir/atomus",
+            "indices": [
+              63,
+              86
+            ]
+          },
+          {
+            "url": "https://t.co/K0u19vx4QJ",
+            "expanded_url": "https://github.com/cheeriojs/cheerio",
+            "display_url": "github.com/cheeriojs/chee…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 11:44:43 +0000 2015",
+      "id": 657160653778612200,
+      "id_str": "657160653778612224",
+      "text": "Кроме поиска headless браузеров, есть и другое решение – а что, если попытаться сэмулировать браузер в node.js?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 10:27:33 +0000 2015",
+      "id": 657141230795628500,
+      "id_str": "657141230795628544",
+      "text": "Например, https://t.co/wzAQNx1H0G – это devtools без браузера. Удобно для запуска мелких тестов",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wzAQNx1H0G",
+            "expanded_url": "https://github.com/Jam3/hihat",
+            "display_url": "github.com/Jam3/hihat",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 10:26:22 +0000 2015",
+      "id": 657140935554388000,
+      "id_str": "657140935554387968",
+      "text": "Electron оказался намного популярнее node-webkit. На нем можно делать не только desktop-приложения, но и небольшие инструменты",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:54:50 +0000 2015",
+      "id": 657133000363266000,
+      "id_str": "657133000363266048",
+      "text": "RT @Vitalliumm: @jsunderhood вот кстати да. Из-за его неучастия (он участвует, но не особо), мы не делаем кардинальных изменений, а очень х…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 09:49:17 +0000 2015",
+        "id": 657131602712076300,
+        "id_str": "657131602712076288",
+        "text": "@jsunderhood вот кстати да. Из-за его неучастия (он участвует, но не особо), мы не делаем кардинальных изменений, а очень хочется.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657131161098002400,
+        "in_reply_to_status_id_str": "657131161098002432",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:48:41 +0000 2015",
+      "id": 657131452212101100,
+      "id_str": "657131452212101120",
+      "text": "В качестве альтернативы можно посмотреть на https://t.co/Zw8HlmQbmq это обертка вокруг Electron",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Zw8HlmQbmq",
+            "expanded_url": "https://github.com/segmentio/nightmare",
+            "display_url": "github.com/segmentio/nigh…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:47:32 +0000 2015",
+      "id": 657131161098002400,
+      "id_str": "657131161098002432",
+      "text": "Приходите в PhantomJS, несмотря на неучастие @AriyaHidayat, проект в хороших руках https://t.co/kdxvwsoxnG",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657130792418725900,
+      "quoted_status_id_str": "657130792418725888",
+      "quoted_status": {
+        "created_at": "Thu Oct 22 09:46:04 +0000 2015",
+        "id": 657130792418725900,
+        "id_str": "657130792418725888",
+        "text": "@jsunderhood но мы открыты для всех предложений :)",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657130689939263500,
+        "in_reply_to_status_id_str": "657130689939263488",
+        "in_reply_to_user_id": 203317967,
+        "in_reply_to_user_id_str": "203317967",
+        "in_reply_to_screen_name": "Vitalliumm",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AriyaHidayat",
+            "name": "Ariya Hidayat",
+            "id": 15608761,
+            "id_str": "15608761",
+            "indices": [
+              45,
+              58
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kdxvwsoxnG",
+            "expanded_url": "https://twitter.com/Vitalliumm/status/657130792418725888",
+            "display_url": "twitter.com/Vitalliumm/sta…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:46:37 +0000 2015",
+      "id": 657130930339991600,
+      "id_str": "657130930339991552",
+      "text": "RT @Vitalliumm: @jsunderhood да, похожая. Самым главным отличием будет headless режим и много новых API, которые мы не смогли реализовать с…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 09:45:40 +0000 2015",
+        "id": 657130689939263500,
+        "id_str": "657130689939263488",
+        "text": "@jsunderhood да, похожая. Самым главным отличием будет headless режим и много новых API, которые мы не смогли реализовать с текущей arch.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657130372304646100,
+        "in_reply_to_status_id_str": "657130372304646144",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:45:30 +0000 2015",
+      "id": 657130651339067400,
+      "id_str": "657130651339067392",
+      "text": "Именно это и была основная проблема. В режиме watch фокус постоянно бросался в окно с тестом.  https://t.co/bGPesc9tmy",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657129770724012000,
+      "quoted_status_id_str": "657129770724012032",
+      "quoted_status": {
+        "created_at": "Thu Oct 22 09:42:00 +0000 2015",
+        "id": 657129770724012000,
+        "id_str": "657129770724012032",
+        "text": "@jsunderhood да, плюс у него нет полной поддержки headless режима.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657129531371819000,
+        "in_reply_to_status_id_str": "657129531371819008",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bGPesc9tmy",
+            "expanded_url": "https://twitter.com/Vitalliumm/status/657129770724012032",
+            "display_url": "twitter.com/Vitalliumm/sta…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:44:24 +0000 2015",
+      "id": 657130372304646100,
+      "id_str": "657130372304646144",
+      "text": ".@Vitalliumm то есть архитектура похожая на Electron. А в чем отличия?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657128773440184300,
+      "in_reply_to_status_id_str": "657128773440184320",
+      "in_reply_to_user_id": 203317967,
+      "in_reply_to_user_id_str": "203317967",
+      "in_reply_to_screen_name": "Vitalliumm",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              1,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:41:03 +0000 2015",
+      "id": 657129531371819000,
+      "id_str": "657129531371819008",
+      "text": "Я пробовал работать со Slimmer. Он использует Firefox из системы и настроить регулярные тесты так и не получилось https://t.co/ybW8NfZa0i",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657128841152999400,
+      "quoted_status_id_str": "657128841152999424",
+      "quoted_status": {
+        "created_at": "Thu Oct 22 09:38:19 +0000 2015",
+        "id": 657128841152999400,
+        "id_str": "657128841152999424",
+        "text": "@jsunderhood плюс для FF есть @slimerjs",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657128773440184300,
+        "in_reply_to_status_id_str": "657128773440184320",
+        "in_reply_to_user_id": 203317967,
+        "in_reply_to_user_id_str": "203317967",
+        "in_reply_to_screen_name": "Vitalliumm",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "slimerjs",
+              "name": "SlimerJS",
+              "id": 1053300319,
+              "id_str": "1053300319",
+              "indices": [
+                30,
+                39
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ybW8NfZa0i",
+            "expanded_url": "https://twitter.com/Vitalliumm/status/657128841152999424",
+            "display_url": "twitter.com/Vitalliumm/sta…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:39:10 +0000 2015",
+      "id": 657129056710860800,
+      "id_str": "657129056710860800",
+      "text": "RT @Vitalliumm: @jsunderhood пилим версию с Chromium под капотом (и full интеграцией с Node.js). FF даже не рассматривали, так как нет опыт…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 09:38:03 +0000 2015",
+        "id": 657128773440184300,
+        "id_str": "657128773440184320",
+        "text": "@jsunderhood пилим версию с Chromium под капотом (и full интеграцией с Node.js). FF даже не рассматривали, так как нет опыта.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657128543160246300,
+        "in_reply_to_status_id_str": "657128543160246272",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:38:16 +0000 2015",
+      "id": 657128831246037000,
+      "id_str": "657128831246036992",
+      "text": "@gusnkt Я функциональный тестировщик. Про performance рассказывал @flackus пару недель назад",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657128470733025300,
+      "in_reply_to_status_id_str": "657128470733025284",
+      "in_reply_to_user_id": 979932912,
+      "in_reply_to_user_id_str": "979932912",
+      "in_reply_to_screen_name": "gusnkt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "flackus",
+            "name": "Alex Rybakov",
+            "id": 160556349,
+            "id_str": "160556349",
+            "indices": [
+              66,
+              74
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:37:15 +0000 2015",
+      "id": 657128574089109500,
+      "id_str": "657128574089109504",
+      "text": "RT @Vitalliumm: @jsunderhood да, но мы нашли в чем проблема. И уже есть фикс.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 09:34:10 +0000 2015",
+        "id": 657127796662255600,
+        "id_str": "657127796662255617",
+        "text": "@jsunderhood да, но мы нашли в чем проблема. И уже есть фикс.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657127559352729600,
+        "in_reply_to_status_id_str": "657127559352729600",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:37:08 +0000 2015",
+      "id": 657128543160246300,
+      "id_str": "657128543160246272",
+      "text": ".@Vitalliumm а какие планы на будущее? Все вокруг уже хотят ES6, который уже есть в Chrome, Firefoх и Node",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657126941376516100,
+      "in_reply_to_status_id_str": "657126941376516096",
+      "in_reply_to_user_id": 203317967,
+      "in_reply_to_user_id_str": "203317967",
+      "in_reply_to_screen_name": "Vitalliumm",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              1,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:33:13 +0000 2015",
+      "id": 657127559352729600,
+      "id_str": "657127559352729600",
+      "text": ".@Vitalliumm про 2 версию эпичный баг: https://t.co/qWtzVcF7Yr JS-разработчики не в состоянии собрать себе Phantom из исходников",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657126941376516100,
+      "in_reply_to_status_id_str": "657126941376516096",
+      "in_reply_to_user_id": 203317967,
+      "in_reply_to_user_id_str": "203317967",
+      "in_reply_to_screen_name": "Vitalliumm",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              1,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qWtzVcF7Yr",
+            "expanded_url": "https://github.com/ariya/phantomjs/issues/12948",
+            "display_url": "github.com/ariya/phantomj…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:31:32 +0000 2015",
+      "id": 657127134377414700,
+      "id_str": "657127134377414656",
+      "text": "RT @Vitalliumm: @jsunderhood 1.X - древний Webkit. DevTools имеются :-) У нас большие надежды на 2 (и уже 3) версию.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 09:30:46 +0000 2015",
+        "id": 657126941376516100,
+        "id_str": "657126941376516096",
+        "text": "@jsunderhood 1.X - древний Webkit. DevTools имеются :-) У нас большие надежды на 2 (и уже 3) версию.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657126646324068400,
+        "in_reply_to_status_id_str": "657126646324068352",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 203317967,
+          "id_str": "203317967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "97b76e063635c832",
+          "url": "https://api.twitter.com/1.1/geo/id/97b76e063635c832.json",
+          "place_type": "admin",
+          "name": "Ростов-на-Дону",
+          "full_name": "Ростов-на-Дону, Ростовская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.4044094,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.1533918
+                ],
+                [
+                  39.8515194,
+                  47.3687994
+                ],
+                [
+                  39.4044094,
+                  47.3687994
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 09:29:35 +0000 2015",
+      "id": 657126646324068400,
+      "id_str": "657126646324068352",
+      "text": "Со связкой karma+phantomjs много проблем. Phantom периодически умирает, нельзя зайти в devtools, отладка только через console.log",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:46:45 +0000 2015",
+      "id": 657115866887266300,
+      "id_str": "657115866887266304",
+      "text": ".@jsunderhood в команде разработчиков есть наш @maksimrv, который активно продвигал ее в русскоязычном сообществе",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657115548543819800,
+      "in_reply_to_status_id_str": "657115548543819776",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          },
+          {
+            "screen_name": "maksimrv",
+            "name": "Maksim",
+            "id": 122455015,
+            "id_str": "122455015",
+            "indices": [
+              47,
+              56
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:45:30 +0000 2015",
+      "id": 657115548543819800,
+      "id_str": "657115548543819776",
+      "text": ".@jsunderhood у karma очень гибкая архитектура и много. Это адаптеры под фреймворки, препроцессоры кода и репортеры",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657115033034498000,
+      "in_reply_to_status_id_str": "657115033034498048",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:43:27 +0000 2015",
+      "id": 657115033034498000,
+      "id_str": "657115033034498048",
+      "text": "Типичное использование: phantomjs+karma в режиме watch следит за файлами и запускает тесты на их изменение. Потом тесты в travis на Firefox",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:39:28 +0000 2015",
+      "id": 657114033208873000,
+      "id_str": "657114033208872960",
+      "text": "@arik0n например дана функция fn(a: int, b: string). Magic tool берет и сам генерирует пары строк и чисел. У вас, вроде, вы делаете это сами",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657113631520374800,
+      "in_reply_to_status_id_str": "657113631520374785",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arik0n",
+            "name": "Sergey Belov",
+            "id": 211177021,
+            "id_str": "211177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:37:52 +0000 2015",
+      "id": 657113631520374800,
+      "id_str": "657113631520374785",
+      "text": "@arik0n исходный тезис в том, что в JS нет типов, поэтому нельзя из описания функции сразу нагенерировать тестовых данных",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657112128109850600,
+      "in_reply_to_status_id_str": "657112128109850624",
+      "in_reply_to_user_id": 211177021,
+      "in_reply_to_user_id_str": "211177021",
+      "in_reply_to_screen_name": "arik0n",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arik0n",
+            "name": "Sergey Belov",
+            "id": 211177021,
+            "id_str": "211177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:34:29 +0000 2015",
+      "id": 657112779371999200,
+      "id_str": "657112779371999232",
+      "text": "@ArtemGovorov есть инструмент https://t.co/kvVWqbOIlx который вроде отличается оптимальным инструментированием /cc @mdevils",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657111974359134200,
+      "in_reply_to_status_id_str": "657111974359134208",
+      "in_reply_to_user_id": 14431932,
+      "in_reply_to_user_id_str": "14431932",
+      "in_reply_to_screen_name": "ArtemGovorov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ArtemGovorov",
+            "name": "Artem Govorov",
+            "id": 14431932,
+            "id_str": "14431932",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "mdevils",
+            "name": "Marat Dulin",
+            "id": 14104781,
+            "id_str": "14104781",
+            "indices": [
+              115,
+              123
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kvVWqbOIlx",
+            "expanded_url": "https://github.com/unit-coverage/unit-coverage",
+            "display_url": "github.com/unit-coverage/…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:31:18 +0000 2015",
+      "id": 657111976506708000,
+      "id_str": "657111976506707968",
+      "text": ".@jsunderhood это инструмент для запуска кода в браузере. Вы даете ему файлы с кодом, подключаете launcher-plugin, и смотрите результат",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657111797393150000,
+      "in_reply_to_status_id_str": "657111797393149953",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:30:35 +0000 2015",
+      "id": 657111797393150000,
+      "id_str": "657111797393149953",
+      "text": "Привет. А сегодня давайте поговорим о karma. Изначально tool назывался Testacular. Потом они переименовались из-за неприличных ассоциаций",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:28:29 +0000 2015",
+      "id": 657111266016796700,
+      "id_str": "657111266016796672",
+      "text": ".@arik0n а можно тогда пример?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657053091062227000,
+      "in_reply_to_status_id_str": "657053091062226944",
+      "in_reply_to_user_id": 211177021,
+      "in_reply_to_user_id_str": "211177021",
+      "in_reply_to_screen_name": "arik0n",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arik0n",
+            "name": "Sergey Belov",
+            "id": 211177021,
+            "id_str": "211177021",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:28:16 +0000 2015",
+      "id": 657111214275825700,
+      "id_str": "657111214275825664",
+      "text": "RT @arik0n: @jsunderhood Мы используем. Это property-based testing называется.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 04:37:19 +0000 2015",
+        "id": 657053091062227000,
+        "id_str": "657053091062226944",
+        "text": "@jsunderhood Мы используем. Это property-based testing называется.",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656156316541562900,
+        "in_reply_to_status_id_str": "656156316541562880",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 211177021,
+          "id_str": "211177021"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arik0n",
+            "name": "Sergey Belov",
+            "id": 211177021,
+            "id_str": "211177021",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Oct 22 08:27:03 +0000 2015",
+      "id": 657110905583439900,
+      "id_str": "657110905583439872",
+      "text": "@ArtemGovorov да. У нас есть разделение на raw-данные и репорт. Можно докидывать в raw новые результаты и получать обновленный отчет",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657014827387220000,
+      "in_reply_to_status_id_str": "657014827387219968",
+      "in_reply_to_user_id": 14431932,
+      "in_reply_to_user_id_str": "14431932",
+      "in_reply_to_screen_name": "ArtemGovorov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ArtemGovorov",
+            "name": "Artem Govorov",
+            "id": 14431932,
+            "id_str": "14431932",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:25:51 +0000 2015",
+      "id": 657110605850132500,
+      "id_str": "657110605850132480",
+      "text": "@ArtemGovorov интересно как тогда этот код в браузерах у пользователей работает, если тесты вылетают",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657108924395491300,
+      "in_reply_to_status_id_str": "657108924395491328",
+      "in_reply_to_user_id": 14431932,
+      "in_reply_to_user_id_str": "14431932",
+      "in_reply_to_screen_name": "ArtemGovorov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ArtemGovorov",
+            "name": "Artem Govorov",
+            "id": 14431932,
+            "id_str": "14431932",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 08:13:44 +0000 2015",
+      "id": 657107556125556700,
+      "id_str": "657107556125556736",
+      "text": "@ArtemGovorov можно предложить большие объемы тестов делить на чанки и запускать по частям",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657010492997636100,
+      "in_reply_to_status_id_str": "657010492997636097",
+      "in_reply_to_user_id": 14431932,
+      "in_reply_to_user_id_str": "14431932",
+      "in_reply_to_screen_name": "ArtemGovorov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ArtemGovorov",
+            "name": "Artem Govorov",
+            "id": 14431932,
+            "id_str": "14431932",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 20:49:52 +0000 2015",
+      "id": 656935455057932300,
+      "id_str": "656935455057932288",
+      "text": "@shuvalov_anton @pavelnuzhdin @Semenov это не замена mocha,  это настройка поверх, чтобы только те тесты запускались, которые нужны",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656931841916739600,
+      "in_reply_to_status_id_str": "656931841916739584",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_anton",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "pavelnuzhdin",
+            "name": "Pavel Nuzhdin",
+            "id": 52742205,
+            "id_str": "52742205",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "Semenov",
+            "name": "Рептилоид со стажем",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              30,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 19:48:28 +0000 2015",
+      "id": 656920002369601500,
+      "id_str": "656920002369601539",
+      "text": "@jsunderhood Allure отличает эти два вида ошибок и по-разному их обрабатывает. Это позволяет сэкономить время на поиск проблемы.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656919650056413200,
+      "in_reply_to_status_id_str": "656919650056413185",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 19:47:49 +0000 2015",
+      "id": 656919840389800000,
+      "id_str": "656919840389799937",
+      "text": "@jsunderhood напрямую им пользоваться не стоит, его использует, например, chai. Можно писать и свои библиотеки",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656919650056413200,
+      "in_reply_to_status_id_str": "656919650056413185",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 19:47:04 +0000 2015",
+      "id": 656919650056413200,
+      "id_str": "656919650056413185",
+      "text": "\"undefined is not a function\" это Exception. В хороших тестах так быть не должно. Для AssertionError есть npm-пакет: https://t.co/XjpoogpAbX",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656919069170532400,
+      "in_reply_to_status_id_str": "656919069170532352",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XjpoogpAbX",
+            "expanded_url": "https://www.npmjs.com/assertion-error",
+            "display_url": "npmjs.com/assertion-error",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 21 19:44:45 +0000 2015",
+      "id": 656919069170532400,
+      "id_str": "656919069170532352",
+      "text": "Также в правильном коде тестов есть разница в ошибках: Exception – это ошибка в коде тестов, а AssertionError – в коде приложения.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 19:01:01 +0000 2015",
+      "id": 656908062226272300,
+      "id_str": "656908062226272256",
+      "text": "@pavelnuzhdin @Semenov А если тесты на удаленный сервер, который нельзя инструментировать? Мой tip поможет получить одну ошибку вместо 100",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656904134247977000,
+      "in_reply_to_status_id_str": "656904134247976961",
+      "in_reply_to_user_id": 52742205,
+      "in_reply_to_user_id_str": "52742205",
+      "in_reply_to_screen_name": "pavelnuzhdin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelnuzhdin",
+            "name": "Pavel Nuzhdin",
+            "id": 52742205,
+            "id_str": "52742205",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Semenov",
+            "name": "Рептилоид со стажем",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              14,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 18:34:31 +0000 2015",
+      "id": 656901393475878900,
+      "id_str": "656901393475878912",
+      "text": "ProTip: можно писать ассерты в beforeEach. Если там будет exception, то mocha не исполнит остальные тесты из этого describe. Экономит время",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 17:55:19 +0000 2015",
+      "id": 656891526795165700,
+      "id_str": "656891526795165696",
+      "text": "@cmotruc это зависит от задач. Для служебных инструментов важнее скорость разработки, чем соответствие дизайнерским гайдам",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656891067955040300,
+      "in_reply_to_status_id_str": "656891067955040256",
+      "in_reply_to_user_id": 98621167,
+      "in_reply_to_user_id_str": "98621167",
+      "in_reply_to_screen_name": "cmotruc",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cmotruc",
+            "name": "cmotruc",
+            "id": 98621167,
+            "id_str": "98621167",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 16:17:15 +0000 2015",
+      "id": 656866847468470300,
+      "id_str": "656866847468470273",
+      "text": "Кстати, сам Allure – это SPA-приложение на Angular + Bootstrap + Angular-UI. К коду написан пак тестов на Jasmine",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 21 16:16:20 +0000 2015",
+      "id": 656866620367839200,
+      "id_str": "656866620367839232",
+      "text": "@s_martynuk окей, эти грабли я собирал, завтра расскажу",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656865238399242200,
+      "in_reply_to_status_id_str": "656865238399242240",
+      "in_reply_to_user_id": 1028968093,
+      "in_reply_to_user_id_str": "1028968093",
+      "in_reply_to_screen_name": "s_martynuk",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_martynuk",
+            "name": "SM",
+            "id": 1028968093,
+            "id_str": "1028968093",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 21 16:05:02 +0000 2015",
+      "id": 656863775388250100,
+      "id_str": "656863775388250112",
+      "text": "О чем рассказать завтра? Сейчас самое время предложить тему. Можем обсудить стек karma+phantomjs и альтернативы. Кто-нибудь его использует?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Oct 21 14:40:33 +0000 2015",
       "id": 656842512888369200,
       "id_str": "656842512888369154",
@@ -305,7 +3098,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -360,7 +3153,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -404,7 +3197,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -437,7 +3230,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 5,
+      "favorite_count": 7,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1286,7 +4079,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1409,7 +4202,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1688,7 +4481,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 11,
+      "favorite_count": 12,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2365,7 +5158,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4298,7 +7091,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 20,
+      "favorite_count": 22,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5629,8 +8422,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 9,
+      "retweet_count": 2,
+      "favorite_count": 11,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6877,7 +9670,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 6,
+      "favorite_count": 7,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6966,8 +9759,8 @@
         "lang": "ru"
       },
       "is_quote_status": true,
-      "retweet_count": 3,
-      "favorite_count": 21,
+      "retweet_count": 4,
+      "favorite_count": 26,
       "entities": {
         "hashtags": [],
         "symbols": [],

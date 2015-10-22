@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2139,
+  "followers_count": 2137,
   "friends_count": 1,
   "listed_count": 108,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,17 +46,17 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12118,
+  "statuses_count": 12163,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 21 14:40:33 +0000 2015",
-    "id": 656842512888369200,
-    "id_str": "656842512888369154",
-    "text": "@jsunderhood и получаем в репорте лог по шагам в терминах тестируемого приложения, как от ручного тестировщика https://t.co/x23P1QKQqI",
+    "created_at": "Thu Oct 22 12:38:47 +0000 2015",
+    "id": 657174256028139500,
+    "id_str": "657174256028139520",
+    "text": ".@jsunderhood с Webpack и Browserify стало популярно писать браузерный код в node.js стиле. Удобно, что его стало можно тестировать в node",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 656842324362842100,
-    "in_reply_to_status_id_str": "656842324362842112",
+    "in_reply_to_status_id": 657161697988366300,
+    "in_reply_to_status_id_str": "657161697988366336",
     "in_reply_to_user_id": 3014054307,
     "in_reply_to_user_id_str": "3014054307",
     "in_reply_to_screen_name": "jsunderhood",
@@ -65,7 +65,7 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -76,54 +76,15 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            0,
-            12
+            1,
+            13
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 656842511135150100,
-          "id_str": "656842511135150080",
-          "indices": [
-            111,
-            134
-          ],
-          "media_url": "http://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
-          "media_url_https": "https://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
-          "url": "https://t.co/x23P1QKQqI",
-          "display_url": "pic.twitter.com/x23P1QKQqI",
-          "expanded_url": "http://twitter.com/jsunderhood/status/656842512888369154/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 464,
-              "h": 246,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 464,
-              "h": 246,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 180,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
