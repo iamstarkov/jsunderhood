@@ -5,6 +5,127 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 22 12:43:24 +0000 2015",
+      "id": 657175418416574500,
+      "id_str": "657175418416574464",
+      "text": "@jsunderhood это все справедливо для только функциональных тестов. Для проверки стилей лучше скриншоты и Selenium.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657175236740300800,
+      "in_reply_to_status_id_str": "657175236740300800",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 12:42:40 +0000 2015",
+      "id": 657175236740300800,
+      "id_str": "657175236740300800",
+      "text": ".@jsunderhood экономия на препроцессинге и trade-off на общение с браузером дает значительный выигрыш в скорости",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657174920485539800,
+      "in_reply_to_status_id_str": "657174920485539840",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 22 12:41:25 +0000 2015",
+      "id": 657174920485539800,
+      "id_str": "657174920485539840",
+      "text": "У меня был проект с небольшим паком из 50 тестов. В Karma они прогонялись за ~5 cек, с учетом запуска. В node+jsdom все проходит за 200ms",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Oct 22 12:38:47 +0000 2015",
       "id": 657174256028139500,
       "id_str": "657174256028139520",
@@ -11562,7 +11683,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2139,
+    "followers_count": 2137,
     "friends_count": 1,
     "listed_count": 108,
     "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -11571,17 +11692,17 @@
     "time_zone": "London",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 12118,
+    "statuses_count": 12163,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Oct 21 14:40:33 +0000 2015",
-      "id": 656842512888369200,
-      "id_str": "656842512888369154",
-      "text": "@jsunderhood и получаем в репорте лог по шагам в терминах тестируемого приложения, как от ручного тестировщика https://t.co/x23P1QKQqI",
+      "created_at": "Thu Oct 22 12:38:47 +0000 2015",
+      "id": 657174256028139500,
+      "id_str": "657174256028139520",
+      "text": ".@jsunderhood с Webpack и Browserify стало популярно писать браузерный код в node.js стиле. Удобно, что его стало можно тестировать в node",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 656842324362842100,
-      "in_reply_to_status_id_str": "656842324362842112",
+      "in_reply_to_status_id": 657161697988366300,
+      "in_reply_to_status_id_str": "657161697988366336",
       "in_reply_to_user_id": 3014054307,
       "in_reply_to_user_id_str": "3014054307",
       "in_reply_to_screen_name": "jsunderhood",
@@ -11590,7 +11711,7 @@
       "place": null,
       "contributors": null,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -11601,54 +11722,15 @@
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              0,
-              12
+              1,
+              13
             ]
           }
         ],
-        "urls": [],
-        "media": [
-          {
-            "id": 656842511135150100,
-            "id_str": "656842511135150080",
-            "indices": [
-              111,
-              134
-            ],
-            "media_url": "http://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
-            "media_url_https": "https://pbs.twimg.com/media/CR2SyKWWEAAIlag.png",
-            "url": "https://t.co/x23P1QKQqI",
-            "display_url": "pic.twitter.com/x23P1QKQqI",
-            "expanded_url": "http://twitter.com/jsunderhood/status/656842512888369154/photo/1",
-            "type": "photo",
-            "sizes": {
-              "large": {
-                "w": 464,
-                "h": 246,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 464,
-                "h": 246,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 340,
-                "h": 180,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
