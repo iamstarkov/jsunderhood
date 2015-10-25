@@ -2,8 +2,565 @@
   "username": "boriscoder",
   "start": "19 Oct 2015",
   "first": "656082486569627648",
-  "post": false,
   "tweets": [
+    {
+      "created_at": "Sun Oct 25 18:39:31 +0000 2015",
+      "id": 658352202591924200,
+      "id_str": "658352202591924225",
+      "text": "RT @usernamus: @jsunderhood, https://t.co/CalxTQkLM0 @fuckingsun",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Oct 25 18:38:25 +0000 2015",
+        "id": 658351926443188200,
+        "id_str": "658351926443188226",
+        "text": "@jsunderhood, https://t.co/CalxTQkLM0 @fuckingsun",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658349338884747300,
+        "in_reply_to_status_id_str": "658349338884747264",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 539880659,
+          "id_str": "539880659"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "fuckingsun",
+              "name": "pretty hate machine",
+              "id": 77650638,
+              "id_str": "77650638",
+              "indices": [
+                38,
+                49
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/CalxTQkLM0",
+              "expanded_url": "https://getstandapp.com",
+              "display_url": "getstandapp.com",
+              "indices": [
+                14,
+                37
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "usernamus",
+            "name": "Sergey Gornostaev",
+            "id": 539880659,
+            "id_str": "539880659",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "fuckingsun",
+            "name": "pretty hate machine",
+            "id": 77650638,
+            "id_str": "77650638",
+            "indices": [
+              53,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CalxTQkLM0",
+            "expanded_url": "https://getstandapp.com",
+            "display_url": "getstandapp.com",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Oct 25 18:39:19 +0000 2015",
+      "id": 658352152218378200,
+      "id_str": "658352152218378240",
+      "text": "@VovanR @fuckingsun это слэнг? Про это https://t.co/Vl0XsIiUxnПомидор_(метод)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658351525488644100,
+      "in_reply_to_status_id_str": "658351525488644096",
+      "in_reply_to_user_id": 105583919,
+      "in_reply_to_user_id_str": "105583919",
+      "in_reply_to_screen_name": "VovanR",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VovanR",
+            "name": "Vladimir Rodkin",
+            "id": 105583919,
+            "id_str": "105583919",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "fuckingsun",
+            "name": "pretty hate machine",
+            "id": 77650638,
+            "id_str": "77650638",
+            "indices": [
+              8,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Vl0XsIiUxn",
+            "expanded_url": "https://ru.wikipedia.org/wiki/",
+            "display_url": "ru.wikipedia.org/wiki/",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 25 18:30:48 +0000 2015",
+      "id": 658350010489282600,
+      "id_str": "658350010489282560",
+      "text": "RT @juwain: @jsunderhood да, и это хорошо, тоже пользую 👍",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Oct 25 18:29:02 +0000 2015",
+        "id": 658349565570060300,
+        "id_str": "658349565570060289",
+        "text": "@jsunderhood да, и это хорошо, тоже пользую 👍",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658349407910408200,
+        "in_reply_to_status_id_str": "658349407910408192",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 18213700,
+          "id_str": "18213700"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 25 18:28:25 +0000 2015",
+      "id": 658349407910408200,
+      "id_str": "658349407910408192",
+      "text": "@juwain здесь желтоватый",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658347889425535000,
+      "in_reply_to_status_id_str": "658347889425534976",
+      "in_reply_to_user_id": 18213700,
+      "in_reply_to_user_id_str": "18213700",
+      "in_reply_to_screen_name": "juwain",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 25 18:28:08 +0000 2015",
+      "id": 658349338884747300,
+      "id_str": "658349338884747264",
+      "text": "@fuckingsun ссылку в студию",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658348524439011300,
+      "in_reply_to_status_id_str": "658348524439011328",
+      "in_reply_to_user_id": 77650638,
+      "in_reply_to_user_id_str": "77650638",
+      "in_reply_to_screen_name": "fuckingsun",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fuckingsun",
+            "name": "pretty hate machine",
+            "id": 77650638,
+            "id_str": "77650638",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 25 18:27:06 +0000 2015",
+      "id": 658349077831262200,
+      "id_str": "658349077831262209",
+      "text": "@iSalem100 надо подкрутить здесь регуляторы под себя. У меня так https://t.co/gbcHvNcG2h",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658347689378230300,
+      "in_reply_to_status_id_str": "658347689378230272",
+      "in_reply_to_user_id": 98874675,
+      "in_reply_to_user_id_str": "98874675",
+      "in_reply_to_screen_name": "iSalem100",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iSalem100",
+            "name": "Valentin Banshchikov",
+            "id": 98874675,
+            "id_str": "98874675",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 658349076052881400,
+            "id_str": "658349076052881408",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSLs_yBWsAAu3ek.png",
+            "media_url_https": "https://pbs.twimg.com/media/CSLs_yBWsAAu3ek.png",
+            "url": "https://t.co/gbcHvNcG2h",
+            "display_url": "pic.twitter.com/gbcHvNcG2h",
+            "expanded_url": "http://twitter.com/jsunderhood/status/658349077831262209/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 545,
+                "h": 621,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 545,
+                "h": 621,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 387,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 658349076052881400,
+            "id_str": "658349076052881408",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSLs_yBWsAAu3ek.png",
+            "media_url_https": "https://pbs.twimg.com/media/CSLs_yBWsAAu3ek.png",
+            "url": "https://t.co/gbcHvNcG2h",
+            "display_url": "pic.twitter.com/gbcHvNcG2h",
+            "expanded_url": "http://twitter.com/jsunderhood/status/658349077831262209/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 545,
+                "h": 621,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 545,
+                "h": 621,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 387,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 25 18:19:11 +0000 2015",
+      "id": 658347085306200000,
+      "id_str": "658347085306200064",
+      "text": "ProTip: поставьте себе f.lux: https://t.co/BIiOTgOyxe это приложение подстраивает яркость монитора под время суток. Это полезно для глаз",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BIiOTgOyxe",
+            "expanded_url": "https://justgetflux.com/",
+            "display_url": "justgetflux.com",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     {
       "created_at": "Sun Oct 25 17:30:52 +0000 2015",
       "id": 658334926513770500,
@@ -10907,7 +11464,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 18,
+      "favorite_count": 17,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -21475,7 +22032,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 5,
-      "favorite_count": 11,
+      "favorite_count": 12,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -26754,7 +27311,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 4,
-      "favorite_count": 26,
+      "favorite_count": 25,
       "entities": {
         "hashtags": [],
         "symbols": [],
