@@ -1860,7 +1860,7 @@ RT [@instanceofpro](https://twitter.com/instanceofpro "abrosimov"): [@fuckingsun
 
 </div>
 
-## Воскресенье <small>27 твитов</small>
+## Воскресенье <small>28 твитов</small>
 
 <div class="tweet">
 
@@ -2051,6 +2051,13 @@ RT [@usernamus](https://twitter.com/usernamus "Sergey Gornostaev"): [@jsunderhoo
 
 </div>
 
+<div class="tweet">
+
+RT [@fuckingsun](https://twitter.com/fuckingsun "pretty hate machine"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") я себе поставила pace — остальные уродливые  были\( [itunes.apple.com/ru/app/pace/id…](https://t.co/2VpnGgSrq5 "https://itunes.apple.com/ru/app/pace/id918925707?l=en&mt=12")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/658352807146299392">18:41</a>
+
+</div>
+
 ## Ссылки
 
 ### github.com  
@@ -2121,3 +2128,4 @@ RT [@usernamus](https://twitter.com/usernamus "Sergey Gornostaev"): [@jsunderhoo
 <a class="url" href="https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0" target="_blank">https://docs.google.com/spreadsheets/d/1TZPdUYDx6D1NWBXp_6NNtJ-NeVW6pudx3C9SkYSXI18/edit#gid=0</a>
 <a class="url" href="https://justgetflux.com/" target="_blank">https://justgetflux.com/</a>
 <a class="url" href="https://getstandapp.com" target="_blank">https://getstandapp.com</a>
+<a class="url" href="https://itunes.apple.com/ru/app/pace/id918925707?l=en&mt=12" target="_blank">https://itunes.apple.com/ru/app/pace/id918925707?l=en&mt=12</a>
