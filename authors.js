@@ -42,12 +42,13 @@ export default [
 ].map(author => {
   const info = `./dump/${author.username}-info.json`;
   const tweets = `./dump/${author.username}.json`;
+  const throws = false;
 
   fs.ensureFileSync(info);
   fs.ensureFileSync(tweets);
 
-  author.info   = fs.readJsonSync(info) || {};
-  author.tweets = (fs.readJsonSync(tweets) || {}).tweets || [];
+  author.info   = fs.readJsonSync(info, { throws }) || {};
+  author.tweets = (fs.readJsonSync(tweets, { throws }) || {}).tweets || [];
 
   return author;
 });
