@@ -1,0 +1,28 @@
+extend page
+
+block title
+  //- title #{author.username} • #{site.title}
+
+//- block meta
+  meta(property="description" content=author.username)
+  meta(name="og:url"         content=site.site_url + url)
+  if (image)
+    meta(name="og:image"     content=image)
+  meta(name="og:title"       content="Архив недели #{author.username} в #{site.title}")
+  meta(name="og:description" content=descText)
+
+block headerTitle
+  a(href="/") jsunderhood
+  small= " / "
+    //- = info.screen_name
+
+block content
+  h1= author.username
+  h1= author.info.followers_count
+  h1= author.tweets.length
+  .container
+    .row
+      .col-md-6.col-md-offset-3
+        article
+          //- h1= info.screen_name
+          //- p: i= d(author.tweets[author.tweets.length - 1].created_at)

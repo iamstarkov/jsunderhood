@@ -53,50 +53,6 @@ const jade = opts => gulpJade(getOptions(opts));
 
 let articles = [];
 
-const articleHarvesting = () =>
-  through.obj((file, enc, cb) => {
-    const article = articleData(file.contents.toString());
-    const url = getBasename(file);
-    const title = article.title;
-    const author = fs.readJsonSync('./dump/' + title + '.json');
-    const authorInfo = fs.readJsonSync('./dump/' + title + '-info.json');
-    const firstTweet = author.tweets[author.tweets.length - 1];
-    const isReadme = getBasename(file) === 'README';
-
-    articles.push({
-      site: site,
-      filename: file.relative,
-      url: isReadme ? 'about/' : url + '/',
-      title: isReadme ? 'О проекте' : title,
-      image: article.image,
-      desc: html(renderTweet(firstTweet)),
-      descText: firstTweet.text,
-      date: d(firstTweet.created_at),
-      content: article.content,
-      latestInfo: latestInfo,
-      authorInfo: authorInfo,
-      rss: {
-        url: site.site_url + getBasename(file) + '/',
-        description: firstTweet.text
-      }
-    });
-    articles.sort((a, b) => unix(b.date) - unix(a.date));
-    cb(null, file);
-  });
-
-gulp.task('articles-registry', () => {
-  articles = [];
-  return gulp.src(['./posts/*.md'])
-    .pipe(replace('https://jsunderhood.ru', 'http://localhost:4000'))
-    .pipe(articleHarvesting());
-});
-
-gulp.task('articles-registry-prod', () => {
-  articles = [];
-  return gulp.src(['./posts/*.md', '!./posts/*draft*.md'])
-    .pipe(articleHarvesting());
-});
-
 gulp.task('index-page', () => {
   const groupInGrid = (state, item, i) => {
     if (i % 3 === 0) { state.push([]); }
@@ -146,6 +102,22 @@ gulp.task('about-page', () => {
     .pipe(gulp.dest('dist'));
 });
 
+gulp.task('authors', function(done) {
+  const authorsToPost = authors.filter(author => author.post !== false);
+  each(authorsToPost, author => {
+    console.log(Object.keys(author))
+    return gulp.src('./layouts/author.jade')
+      // .pipe(data({ author }))
+      .pipe(jade({
+        pretty: true,
+        locals: { author }
+      }))
+      .pipe(rename({ dirname: author.username }))
+      .pipe(rename({ basename: 'index' }))
+      .pipe(gulp.dest('dist'));
+  }, done);
+});
+
 gulp.task('articles-pages', done =>
   each(articles, article => {
     return gulp.src('layouts/article.jade')
@@ -165,7 +137,7 @@ gulp.task('rss', done => {
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
 
-gulp.task('default', ['watch']);
+gulp.task('default', done => sequence('clean', 'watch', done));
 
 gulp.task('watch', ['express', 'build'], () => {
   watch(['**/*{jade,md,json,js}', '*.css'], () => gulp.start('build'));
@@ -174,14 +146,22 @@ gulp.task('watch', ['express', 'build'], () => {
 
 gulp.task('clean', rimraf.bind(null, 'dist'));
 
-gulp.task('build-common', done =>
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'userpics', 'nojekyll', done));
-
 gulp.task('build', done =>
-  sequence('articles-registry', 'build-common', done));
-
-gulp.task('build-prod', done =>
-  sequence('clean', 'articles-registry-prod', 'build-common', done));
+  sequence(
+    [
+      'authors',
+      'index-page',
+      // 'articles-pages',
+      // 'rss',
+      // 'about-page',
+      // 'stats-page'
+    ],
+    'cname',
+    'css',
+    'js',
+    'userpics',
+    'nojekyll',
+  done));
 
 gulp.task('cname', () =>
   gulp.src('CNAME')
@@ -211,7 +191,7 @@ gulp.task('js', () =>
   ])
     .pipe(gulp.dest('dist/js')));
 
-gulp.task('gh', ['build-prod'], done =>
+gulp.task('gh', ['build'], done =>
   buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
 
 gulp.task('express', () => {
