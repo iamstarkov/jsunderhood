@@ -40,9 +40,14 @@ export default [
   { username: 'filipovskii',     start: '09 Feb 2015', first: '564697062378594304' },
   { username: 'shuvalov_anton',  start: '03 Feb 2015', first: '562516792753811456' },
 ].map(author => {
-  const dumpInfo = fs.readJsonSync(`./dump/${author.username}-info.json`, { throws: false }) || {};
-  const dump = fs.readJsonSync(`./dump/${author.username}.json`, { throws: false }) || {};
-  author.tweets = dump.tweets || [];
-  author.info   = dumpInfo
+  const info = `./dump/${author.username}-info.json`;
+  const tweets = `./dump/${author.username}.json`;
+
+  fs.ensureFileSync(info);
+  fs.ensureFileSync(tweets);
+
+  author.info   = fs.readJsonSync(info) || {};
+  author.tweets = (fs.readJsonSync(tweets) || {}).tweets || [];
+
   return author;
 });
