@@ -10,7 +10,8 @@
     "save": "git checkout master && git add . && git commit -m 'save dump' && git push origin master &>/dev/null",
     "deploy": "gulp gh",
     "deploy:ci": "npm-run-all git-setup:ci update posts save deploy",
-    "test": "gulp build && mocha --require babel/register",
+    "pretest": "gulp build",
+    "test": "mocha --require babel/register",
     "start": "gulp"
   },
   "repository": {
