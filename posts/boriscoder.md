@@ -1860,7 +1860,7 @@ RT [@instanceofpro](https://twitter.com/instanceofpro "abrosimov"): [@fuckingsun
 
 </div>
 
-## Воскресенье <small>28 твитов</small>
+## Воскресенье <small>31 твит</small>
 
 <div class="tweet">
 
@@ -2058,6 +2058,27 @@ RT [@fuckingsun](https://twitter.com/fuckingsun "pretty hate machine"): [@jsunde
 
 </div>
 
+<div class="tweet">
+
+RT [@iamstarkov](https://twitter.com/iamstarkov "Vladimir Starkov"): [@jsunderhood](https://twitter.com/jsunderhood "Разработчик") [@boriscoder](https://twitter.com/boriscoder "just-boris") опубликовал архив [jsunderhood.ru/boriscoder/](https://t.co/cqUnVF9tgG "https://jsunderhood.ru/boriscoder/")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/658354710462775300">18:49</a>
+
+</div>
+
+<div class="tweet">
+
+Ну вот и все. С вами был [@boriscoder](https://twitter.com/boriscoder "just-boris"), на Github записан как [github.com/just-boris](https://t.co/W2OFjHlsX0 "https://github.com/just-boris"). Я продолжу писать свои protips уже в своем профиле
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/658357260788342785">18:59</a>
+
+</div>
+
+<div class="tweet">
+
+Спасибо вам, что приняли участие. Вы хорошая и интересная публика! [coub.com/view/8gdgx](https://t.co/iyyUbGLKWT "https://coub.com/view/8gdgx")
+ <a class="tweet__time" href="https://twitter.com/jsunderhood/status/658357365453037569">19:00</a>
+
+</div>
+
 ## Ссылки
 
 ### github.com  
@@ -2087,6 +2108,7 @@ RT [@fuckingsun](https://twitter.com/fuckingsun "pretty hate machine"): [@jsunde
 <a class="url" href="https://github.com/just-boris/revive" target="_blank">https://github.com/just-boris/revive</a>
 <a class="url" href="https://github.com/Semantic-Org/Semantic-UI-Ember" target="_blank">https://github.com/Semantic-Org/Semantic-UI-Ember</a>
 <a class="url" href="https://github.com/react-bootstrap/react-bootstrap" target="_blank">https://github.com/react-bootstrap/react-bootstrap</a>
+<a class="url" href="https://github.com/just-boris" target="_blank">https://github.com/just-boris</a>
 
 ### Другие
 
@@ -2129,3 +2151,5 @@ RT [@fuckingsun](https://twitter.com/fuckingsun "pretty hate machine"): [@jsunde
 <a class="url" href="https://justgetflux.com/" target="_blank">https://justgetflux.com/</a>
 <a class="url" href="https://getstandapp.com" target="_blank">https://getstandapp.com</a>
 <a class="url" href="https://itunes.apple.com/ru/app/pace/id918925707?l=en&mt=12" target="_blank">https://itunes.apple.com/ru/app/pace/id918925707?l=en&mt=12</a>
+<a class="url" href="https://jsunderhood.ru/boriscoder/" target="_blank">https://jsunderhood.ru/boriscoder/</a>
+<a class="url" href="https://coub.com/view/8gdgx" target="_blank">https://coub.com/view/8gdgx</a>
