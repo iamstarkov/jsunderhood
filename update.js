@@ -16,7 +16,5 @@ loadMedia('jsunderhood', 'dump/images', author.username, (err) => {
       log(`${author.username} done`));
     fs.outputJson(`./dump/${author.username}-info.json`, info, err =>
       log(`${author.username} info done`));
-    fs.outputJson(`./dump/latest-info.json`, info, err =>
-      log(`latest info done`));
   });
 });
