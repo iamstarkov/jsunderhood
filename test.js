@@ -1,56 +1,52 @@
-var assert = require('assert');
-var fs = require('fs-extra');
-var cheerio = require('cheerio');
-var numbers = (input) => require('typographic-numbers')(input, { locale: 'ru' });
+import assert from 'assert';
+import { readFileSync } from 'fs-extra';
+import cheerio from 'cheerio';
+import typeNumbers from 'typographic-numbers';
+import { head } from 'ramda';
+import authors from './authors.js';
 
-var latestInfo = fs.readJsonSync('dump/latest-info.json');
-var authors = require('./authors.js');
+const latestInfo = head(authors).info;
+const numbers = input => typeNumbers(input, { locale: 'ru' });
+const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
-const make$ = (file) => cheerio.load(fs.readFileSync(file, { encoding: 'utf8' }));
-
-describe('index page', function() {
-  it('short authors info', function() {
-    var $ = make$('dist/index.html');
-
-    var pageAuthors = $('article .list__item-desc');
-    var realAuthors = authors.filter((a) => a.post !== false);
-
+describe('index page', () => {
+  it('short authors info', () => {
+    const $ = make$('dist/index.html');
+    const pageAuthors = $('article .list__item-desc');
+    const realAuthors = authors.filter(a => a.post !== false);
     assert(pageAuthors.length == realAuthors.length);
   });
-  it('header', function() {
-    var $ = make$('dist/index.html');
-
+  it('not emty sub-heading', () => {
+    const $ = make$('dist/index.html');
     assert($('.page-header h1 small').text().length > 3);
-
-    var followers = numbers(String(latestInfo.followers_count));
+  });
+  it('followers count exists', () => {
+    const $ = make$('dist/index.html');
+    const followers = numbers(String(latestInfo.followers_count));
     assert($('.page-header p i').text().indexOf(followers) > 0);
   });
 });
 
-describe('stats page', function() {
-  it('stats rows', function() {
-    var $ = make$('dist/stats/index.html');
-
-    var rows = $('.host-stats__row:not(.host-stats__row_head)');
+describe('stats page', () => {
+  it('stats rows', () => {
+    const $ = make$('dist/stats/index.html');
+    const rows = $('.host-stats__row:not(.host-stats__row_head)');
     assert(rows.length == authors.length);
   });
 });
 
-describe('about page', function() {
-  it('text', function() {
-    var $ = make$('dist/about/index.html');
-
+describe('about page', () => {
+  it('text', () => {
+    const $ = make$('dist/about/index.html');
     assert($('article').text().length > 0);
   });
 });
 
-describe('archive pages', function() {
-  it('tweets list', function() {
+describe('archive pages', () => {
+  it('tweets list', () => {
     authors.forEach(function(author) {
-      if(author.post === false) return;
-
-      var $ = make$('dist/' + author.username + '/index.html');
-
+      if (author.post === false) return;
+      const $ = make$(`dist/${author.username}/index.html`);
       assert($('article p').length > 1);
       assert($('article h2 small').length > 1);
     });
