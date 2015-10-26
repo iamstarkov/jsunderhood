@@ -1,5 +1,5 @@
 import buildbranch from 'buildbranch';
-import del from 'del';
+import rimraf from 'rimraf';
 import each from 'each-done';
 import express from 'express';
 import fs, { outputFile as output } from 'fs-extra';
@@ -172,7 +172,7 @@ gulp.task('watch', ['express', 'build'], () => {
   watch(['**/*{jade,md,json,js}', '*.css'], () => gulp.start('build'));
 });
 
-gulp.task('clean', done => del('dist', done));
+gulp.task('clean', done => rimraf('dist', done));
 
 gulp.task('build-common', done =>
   sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'userpics', 'nojekyll', done));
