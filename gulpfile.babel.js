@@ -9,6 +9,7 @@ import numbers from 'typographic-numbers';
 import numd from 'numd';
 import path from 'path';
 import rss from 'rss';
+import { head } from 'ramda';
 import sequence from 'run-sequence';
 import through from 'through2';
 import renderTweet from 'tweet.md';
@@ -26,13 +27,11 @@ import { log } from 'gulp-util';
 import articleData from './article-data';
 import authors from './authors.js';
 import getStats from './stats.js';
-
-import latestInfo from './dump/latest-info.json';
 import { site } from './package.json';
 
 const d = input => moment(new Date(input)).format("DD MMMM YYYY");
 const unix = input => moment(new Date(input)).unix();
-
+const latestInfo = head(authors).info;
 const getBasename = ({ relative }) => path.parse(relative).name;
 
 const jadeDefaults = {
