@@ -3,7 +3,7 @@ branches:
   only:
   - master
 node_js:
-- iojs-2
+- 'stable'
 after_script:
 - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run deploy:ci || false'
 env:
