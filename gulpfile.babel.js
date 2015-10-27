@@ -171,7 +171,8 @@ gulp.task('watch', ['express', 'build'], () => {
   watch(['**/*{jade,md,json,js}', '*.css'], () => gulp.start('build'));
 });
 
-gulp.task('clean', done => rimraf('dist', done));
+
+gulp.task('clean', rimraf.bind(null, 'dist'));
 
 gulp.task('build-common', done =>
   sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', 'userpics', 'nojekyll', done));
