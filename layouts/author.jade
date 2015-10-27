@@ -14,15 +14,31 @@ block title
 block headerTitle
   a(href="/") jsunderhood
   small= " / "
-    //- = info.screen_name
+    = author.username
 
 block content
-  h1= author.username
-  h1= author.info.followers_count
-  h1= author.tweets.length
   .container
     .row
       .col-md-6.col-md-offset-3
         article
-          //- h1= info.screen_name
-          //- p: i= d(author.tweets[author.tweets.length - 1].created_at)
+          h1= author.username
+          p: i= helpers.d(author.tweets[0].created_at)
+          
+          each weekday in helpers.prepareTweets(author.tweets)
+            h2= helpers.capitalize(weekday.weekday)
+              small= " " + helpers.tweetsUnit(weekday.tweets.length)
+              
+            //- each tweet in weekday.tweets
+              .tweet
+                p= helpers.renderTweet(tweet)
+                  a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
+            
+          h2 Ссылки
+            - var links = helpers.getLinks(author);
+            each domain in links.domain
+              h3 github.com
+              each link in domain
+                a.url(href=link)= link
+            h3 Другие
+            each link in links.other
+              a.url(href=link)= link

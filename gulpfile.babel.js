@@ -34,6 +34,8 @@ const unix = input => moment(new Date(input)).unix();
 const latestInfo = head(authors).info;
 const getBasename = ({ relative }) => path.parse(relative).name;
 
+import authorRender from './helpers/author-render';
+
 const jadeDefaults = {
   pretty: true,
   locals: {
@@ -103,14 +105,15 @@ gulp.task('about-page', () => {
 });
 
 gulp.task('authors', function(done) {
-  const authorsToPost = authors.filter(author => author.post !== false);
+  const authorsToPost = authors
+    .filter(author => author.post !== false)
+    .filter(author => author.username === 'boriscoder');
   each(authorsToPost, author => {
-    console.log(Object.keys(author))
+    console.log(author.username);
     return gulp.src('./layouts/author.jade')
-      // .pipe(data({ author }))
       .pipe(jade({
         pretty: true,
-        locals: { author }
+        locals: { author, helpers: authorRender }
       }))
       .pipe(rename({ dirname: author.username }))
       .pipe(rename({ basename: 'index' }))
