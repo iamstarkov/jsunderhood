@@ -17,12 +17,12 @@ import renderTweet from 'tweet.md';
 import gulp from 'gulp';
 import data from 'gulp-data';
 import debug from 'gulp-debug';
-import gm from 'gulp-gm';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
 import replace from 'gulp-replace';
 import watch from 'gulp-watch';
 import { log } from 'gulp-util';
+import jimp from 'gulp-jimp';
 
 import articleData from './article-data';
 import authors from './authors.js';
@@ -192,9 +192,7 @@ gulp.task('css-bootstrap', () =>
 
 gulp.task('userpics', () =>
   gulp.src('dump/images/*-image*')
-    .pipe(gm(image => image.resize(96,96).setFormat('jpg'), {
-      imageMagick: true
-    }))
+    .pipe(jimp({ resize: { width: 96, height: 96 }}))
     .pipe(gulp.dest('dist/images')));
 
 gulp.task('css', ['css-bootstrap'], () =>
