@@ -27,18 +27,14 @@ block content
           each weekday in helpers.prepareTweets(author.tweets)
             h2= helpers.capitalize(weekday.weekday)
               small= " " + helpers.tweetsUnit(weekday.tweets.length)
-              
-            //- each tweet in weekday.tweets
+
+            each tweet in weekday.tweets
               .tweet
-                p= helpers.renderTweet(tweet)
+                p!= helpers.render(tweet)
                   a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
             
           h2 Ссылки
-            - var links = helpers.getLinks(author);
-            each domain in links.domain
-              h3 github.com
-              each link in domain
+            each group in helpers.getLinks(author.tweets)
+              h3= group.host
+              each link in group.links
                 a.url(href=link)= link
-            h3 Другие
-            each link in links.other
-              a.url(href=link)= link
