@@ -105,9 +105,7 @@ gulp.task('about-page', () => {
 });
 
 gulp.task('authors', function(done) {
-  const authorsToPost = authors
-    .filter(author => author.post !== false)
-    .filter(author => author.username === 'boriscoder');
+  const authorsToPost = authors.filter(author => author.post !== false)
   each(authorsToPost, author => {
     console.log(author.username);
     return gulp.src('./layouts/author.jade')
@@ -153,17 +151,17 @@ gulp.task('build', done =>
   sequence(
     [
       'authors',
-      'index-page',
+      // 'index-page',
       // 'articles-pages',
       // 'rss',
       // 'about-page',
       // 'stats-page'
     ],
-    'cname',
+    // 'cname',
     'css',
-    'js',
-    'userpics',
-    'nojekyll',
+    // 'js',
+    // 'userpics',
+    // 'nojekyll',
   done));
 
 gulp.task('cname', () =>
