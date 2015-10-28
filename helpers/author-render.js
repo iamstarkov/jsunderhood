@@ -1,8 +1,10 @@
 import moment from 'moment';
-import { compose, reverse, filter } from 'ramda';
+import { pipe, map, compose, reverse, filter, sort, flatten } from 'ramda';
 import numd from 'numd';
 import renderTweet from 'tweet.md';
-import urlRegexp from 'twitter-regexps/url';
+import getLinks from './extract-links';
+import { html } from 'commonmark-helpers';
+
 
 moment.locale('ru');
 
@@ -22,35 +24,6 @@ const separateByWeekdays = (state, item, i, arr) => {
   return state;
 };
 
-// Collect urls
-const collectUrlsFromTweet = (groups, urlData) => {
-  const url = urlData.expanded_url;
-  while (urlRegexp.exec(url)) {
-    const domain = RegExp.$5;
-    if (domain && 'twitter.com' !== domain) {
-      if (!groups[domain]) {
-        groups[domain] = [];
-      }
-      if (-1 === groups[domain].indexOf(url)) {
-        groups[domain].push(url);
-      }
-    }
-  }
-  return groups;
-}
-const collectUrls = (groups, tweet) => tweet.entities.urls.reduce(collectUrlsFromTweet, groups);
-const getLinks = author => {
-  const links = author.tweets.reduce(collectUrls, {});
-  const other = [];
-  Object.keys(links).forEach(domain => {
-    const urls = links[domain];
-    if (urls.length < 5) {
-      delete links[domain];
-      Array.prototype.push.apply(other, urls);
-    }
-  });
-  return { domain: links, other };
-}
 const d = input => moment(new Date(input)).format("D MMMM YYYY");
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = i => i.split('').map((item, i) => i === 0 ? item.toUpperCase() : item).join('');
@@ -66,7 +39,7 @@ export default {
   prepareTweets,
   capitalize,
   tweetsUnit,
-  renderTweet,
+  render: pipe(renderTweet, html),
   tweetTime, tweetLink,
   getLinks
 };
