@@ -2,7 +2,7 @@ import moment from 'moment';
 import { pipe, map, compose, reverse, filter, sort, flatten } from 'ramda';
 import numd from 'numd';
 import renderTweet from 'tweet.md';
-import getLinks from './extract-links';
+import getLinks from './get-links';
 import { html } from 'commonmark-helpers';
 
 
