@@ -107,7 +107,7 @@ gulp.task('about-page', () => {
 gulp.task('authors', function(done) {
   const authorsToPost = authors.filter(author => author.post !== false)
   each(authorsToPost, author => {
-    console.log(author.username);
+    // console.log(author.username);
     return gulp.src('./layouts/author.jade')
       .pipe(jade({
         pretty: true,
