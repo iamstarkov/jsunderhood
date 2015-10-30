@@ -55,9 +55,10 @@ const jade = opts => gulpJade(getOptions(opts));
 const firstTweet = r.pipe(r.prop('tweets'), r.reverse, r.head);
 const render = r.pipe(renderTweet, html);
 
-let articles = [];
-
-gulp.task('index-page', () => {
+/**
+ * MAIN TASKS
+ */
+gulp.task('index', () => {
   const authorsToPost = authors.filter(author => author.post !== false)
   return gulp.src('layouts/index.jade')
     .pipe(jade({
@@ -73,7 +74,7 @@ gulp.task('index-page', () => {
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('stats-page', () =>
+gulp.task('stats', () =>
   gulp.src('layouts/stats.jade')
     .pipe(jade({
       locals: {
@@ -87,10 +88,9 @@ gulp.task('stats-page', () =>
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist')));
 
-gulp.task('about-page', () => {
+gulp.task('about', () => {
   const readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
   const article = articleData(readme);
-
   return gulp.src('layouts/article.jade')
     .pipe(jade({
       locals: Object.assign({}, article, {
@@ -101,6 +101,20 @@ gulp.task('about-page', () => {
     .pipe(rename({ dirname: 'about' }))
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist'));
+});
+
+gulp.task('rss', done => {
+  const feed = new rss(site);
+  const authorsToPost = authors.filter(author => author.post !== false)
+  authorsToPost.forEach(author => {
+    feed.item({
+      title: author.username,
+      description: render(firstTweet(author)),
+      url: `https://jsunderhood.ru/${author.username}/`,
+      date: firstTweet(author).created_at
+    });
+  });
+  output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
 
 gulp.task('authors', function(done) {
@@ -117,91 +131,44 @@ gulp.task('authors', function(done) {
   }, done);
 });
 
-gulp.task('articles-pages', done =>
-  each(articles, article => {
-    return gulp.src('layouts/article.jade')
-      .pipe(jade({
-        locals: article
-      }))
-      .pipe(rename({ dirname: article.url }))
-      .pipe(rename({ basename: 'index' }))
-      .pipe(gulp.dest('dist'));
-  }, done));
-
-gulp.task('rss', done => {
-  const feed = new rss(site);
-  const authorsToPost = authors.filter(author => author.post !== false)
-  authorsToPost.forEach(author => {
-    feed.item({
-      title: author.username,
-      description: render(firstTweet(author)),
-      url: `https://jsunderhood.ru/${author.username}/`,
-      date: firstTweet(author).created_at
-    });
-  });
-  output('dist/rss.xml', feed.xml({ indent: true }), done);
-});
-
-gulp.task('default', done => sequence('clean', 'watch', done));
-
-gulp.task('watch', ['express', 'build'], () => {
-  watch(['**/*{jade,md,json,js}', '*.css'], () => gulp.start('build'));
-});
-
-
-gulp.task('clean', rimraf.bind(null, 'dist'));
-
-gulp.task('build', done =>
-  sequence(
-    [
-      'authors',
-      'index-page',
-      'rss',
-      // 'about-page',
-      // 'stats-page'
-    ],
-    // 'cname',
-    'css',
-    // 'js',
-    'userpics',
-    // 'nojekyll',
-  done));
-
-gulp.task('cname', () =>
-  gulp.src('CNAME')
-    .pipe(gulp.dest('dist')));
-
-gulp.task('css-bootstrap', () =>
-  gulp.src('node_modules/bootstrap/dist/**')
-    .pipe(gulp.dest('dist')));
-
 gulp.task('userpics', () =>
   gulp.src('dump/images/*-image*')
     .pipe(jimp({ resize: { width: 96, height: 96 }}))
     .pipe(gulp.dest('dist/images')));
 
-gulp.task('css', ['css-bootstrap'], () =>
-  gulp.src('styles.css')
-    .pipe(gulp.dest('dist/css')));
-
-gulp.task('nojekyll', () =>
-  gulp.src('.nojekyll')
-    .pipe(gulp.dest('dist')));
-
-gulp.task('js', () =>
+gulp.task('static', () =>
   gulp.src([
+    'static/**',
+    'node_modules/bootstrap/dist/**',
     'node_modules/tablesort/src/tablesort.js',
     'node_modules/tablesort/src/sorts/tablesort.numeric.js'
-  ])
-    .pipe(gulp.dest('dist/js')));
+  ]).pipe(gulp.dest('dist')));
 
-gulp.task('gh', ['build'], done =>
-  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
-
-gulp.task('express', () => {
+gulp.task('server', () => {
   const app = express();
   app.use(express.static('dist'));
   app.listen(4000);
-
   log('Server is running on http://localhost:4000');
 });
+
+/**
+ * FLOW
+ */
+gulp.task('clean', done => rimraf('dist', done));
+gulp.task('build', [
+  'authors',
+  'index',
+  'rss',
+  'about',
+  'stats'
+  'static',
+  'userpics']));
+
+gulp.task('default', done => sequence('clean', 'watch', done));
+
+gulp.task('watch', ['server', 'build'], () => {
+  watch(['**/*{jade,md,json,js,css}'], () => gulp.start('build'));
+});
+
+gulp.task('deploy', ['build'], done =>
+  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
