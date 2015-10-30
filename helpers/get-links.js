@@ -2,6 +2,7 @@ import tweetLinks from 'tweet-links';
 import { zipObj, values, sortBy, prop, head, apply, objOf, toPairs, pipe,
   length, mapObjIndexed, groupBy, map, filter, flatten, uniq } from 'ramda';
 import { parse, format } from 'url';
+import ungroupInto from './ungroup-into';
 
 const notTwitter = url => url.host !== 'twitter.com';
 const obj2arr = pipe(toPairs, map(apply(objOf)));
@@ -25,10 +26,6 @@ const moveMinorsToOther = pipe(
   groupBy( i => length(i) < 5 ? 'other' : parse(head(i)).host ),
   mapObjIndexed(flatten));
 
-const hostAndLinksObj = pipe(
-  toPairs,
-  map(zipObj(['host', 'links'])));
-
 const moveOtherToEnd = sortBy(group => group.host === 'other');
 
 const getLinks = pipe(
@@ -36,7 +33,7 @@ const getLinks = pipe(
   filterTwitterLinks,
   groupByHost,
   moveMinorsToOther,
-  hostAndLinksObj,
+  ungroupInto('host', 'links'),
   moveOtherToEnd);
 
 export default getLinks;
