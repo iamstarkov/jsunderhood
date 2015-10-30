@@ -23,8 +23,8 @@ const formats = (username, cb) => {
 
 const saveImagesFormats = username => {
   formats(username, images => {
-    outputJSON(`./dump/${username}-images.json`, images, { spaces }, err => {
-      log(`${err ? '✗' : '✓'} ${username}’s images`);
+    outputJSON(`./dump/${username}-media.json`, images, { spaces }, err => {
+      log(`${err ? '✗' : '✓'} ${username}’s media`);
     });
   });
 };
