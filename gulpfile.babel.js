@@ -4,22 +4,16 @@ import each from 'each-done';
 import express from 'express';
 import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
-import moment from 'moment';
 import numbers from 'typographic-numbers';
 import numd from 'numd';
-import path from 'path';
-import rss from 'rss';
-import r, { head } from 'ramda';
+import RSS from 'rss';
+import { pipe, prop, reverse, head, splitEvery } from 'ramda';
 import sequence from 'run-sequence';
-import through from 'through2';
 import renderTweet from 'tweet.md';
 
 import gulp from 'gulp';
-import data from 'gulp-data';
-import debug from 'gulp-debug';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
-import replace from 'gulp-replace';
 import watch from 'gulp-watch';
 import { log } from 'gulp-util';
 import jimp from 'gulp-jimp';
@@ -29,10 +23,7 @@ import authors from './authors.js';
 import getStats from './stats.js';
 import { site } from './package.json';
 
-const d = input => moment(new Date(input)).format("DD MMMM YYYY");
-const unix = input => moment(new Date(input)).unix();
 const latestInfo = head(authors).info;
-const getBasename = ({ relative }) => path.parse(relative).name;
 
 import authorRender from './helpers/author-render';
 
@@ -43,31 +34,31 @@ const jadeDefaults = {
     latestInfo,
     numbers: input => numbers(input, { locale: 'ru' }),
     people: numd('человек', 'человека', 'человек'),
-  }
+  },
 };
 
 const getOptions = (opts = {}) =>
   Object.assign({}, jadeDefaults, opts, {
-    locals: Object.assign({}, jadeDefaults.locals, opts.locals)
+    locals: Object.assign({}, jadeDefaults.locals, opts.locals),
   });
 
 const jade = opts => gulpJade(getOptions(opts));
-const firstTweet = r.pipe(r.prop('tweets'), r.reverse, r.head);
-const render = r.pipe(renderTweet, html);
+const firstTweet = pipe(prop('tweets'), reverse, head);
+const render = pipe(renderTweet, html);
 
 /**
  * MAIN TASKS
  */
 gulp.task('index', () => {
-  const authorsToPost = authors.filter(author => author.post !== false)
+  const authorsToPost = authors.filter(author => author.post !== false);
   return gulp.src('layouts/index.jade')
     .pipe(jade({
       locals: {
         title: site.title,
         desc: site.description,
-        authors: r.splitEvery(3, authorsToPost),
-        helpers: { firstTweet, render }
-      }
+        authors: splitEvery(3, authorsToPost),
+        helpers: { firstTweet, render },
+      },
     }))
     .pipe(rename({ basename: 'index' }))
     .pipe(gulp.dest('dist'));
@@ -80,8 +71,8 @@ gulp.task('stats', () =>
         title: 'Статистика jsunderhood',
         url: 'stats/',
         desc: site.description,
-        stats: getStats(authors)
-      }
+        stats: getStats(authors),
+      },
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
@@ -95,7 +86,7 @@ gulp.task('about', () => {
       locals: Object.assign({}, article, {
         title: 'О проекте',
         url: 'about/',
-      })
+      }),
     }))
     .pipe(rename({ dirname: 'about' }))
     .pipe(rename({ basename: 'index' }))
@@ -103,26 +94,26 @@ gulp.task('about', () => {
 });
 
 gulp.task('rss', done => {
-  const feed = new rss(site);
-  const authorsToPost = authors.filter(author => author.post !== false)
+  const feed = new RSS(site);
+  const authorsToPost = authors.filter(author => author.post !== false);
   authorsToPost.forEach(author => {
     feed.item({
       title: author.username,
       description: render(firstTweet(author)),
       url: `https://jsunderhood.ru/${author.username}/`,
-      date: firstTweet(author).created_at
+      date: firstTweet(author).created_at,
     });
   });
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
 
-gulp.task('authors', function(done) {
-  const authorsToPost = authors.filter(author => author.post !== false)
+gulp.task('authors', done => {
+  const authorsToPost = authors.filter(author => author.post !== false);
   each(authorsToPost, author => {
     return gulp.src('./layouts/author.jade')
       .pipe(jade({
         pretty: true,
-        locals: { author, helpers: authorRender }
+        locals: { author, helpers: authorRender },
       }))
       .pipe(rename({ dirname: author.username }))
       .pipe(rename({ basename: 'index' }))
@@ -140,7 +131,7 @@ gulp.task('static', () =>
     'static/**',
     'node_modules/bootstrap/dist/**',
     'node_modules/tablesort/src/tablesort.js',
-    'node_modules/tablesort/src/sorts/tablesort.numeric.js'
+    'node_modules/tablesort/src/sorts/tablesort.numeric.js',
   ]).pipe(gulp.dest('dist')));
 
 gulp.task('server', () => {
