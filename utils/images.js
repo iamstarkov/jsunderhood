@@ -5,10 +5,15 @@ import { outputJSON } from 'fs-extra';
 
 const spaces = 2;
 
-const check = (username, type, cb) =>
-  open('./dump/images/${usename}-${type}.png', 'r', pngErr =>
-    open('./dump/images/${usename}-${type}.jpg', 'r', () =>
-      cb(`${username}-${type}.` + (!pngErr ? 'png' : 'jpg'))));
+const log = console.log.bind(console);
+
+const check = (username, type, cb) => {
+  open(`./dump/images/${username}-${type}.png`, 'r', pngErr => {
+    open(`./dump/images/${username}-${type}.jpg`, 'r', () => {
+      cb(`${username}-${type}.` + (!pngErr ? 'png' : 'jpg'));
+    });
+  });
+};
 
 const formats = (username, cb) => {
   const checkImage = partial(check, [username, 'image']);
@@ -18,8 +23,8 @@ const formats = (username, cb) => {
 
 const saveImagesFormats = username => {
   formats(username, images => {
-    outputJSON(`./dump/${username}-images.json`, images, { spaces }, (err) => {
-      console.log(`${err ? '✗' : '✓'} ${username}’s images`);
+    outputJSON(`./dump/${username}-images.json`, images, { spaces }, err => {
+      log(`${err ? '✗' : '✓'} ${username}’s images`);
     });
   });
 };
