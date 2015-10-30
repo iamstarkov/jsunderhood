@@ -64,7 +64,6 @@ gulp.task('index', () => {
     .pipe(jade({
       locals: {
         title: site.title,
-        siteURL: 'https://jsunderhood.ru',
         desc: site.description,
         authors: r.splitEvery(3, authorsToPost),
         helpers: { firstTweet, render }
@@ -160,14 +159,14 @@ gulp.task('build', [
   'index',
   'rss',
   'about',
-  'stats'
+  'stats',
   'static',
-  'userpics']));
+  'userpics']);
 
 gulp.task('default', done => sequence('clean', 'watch', done));
 
 gulp.task('watch', ['server', 'build'], () => {
-  watch(['**/*{jade,md,json,js,css}'], () => gulp.start('build'));
+  watch(['**/*{jade,md,json}', 'static/**'], () => gulp.start('build'));
 });
 
 gulp.task('deploy', ['build'], done =>
