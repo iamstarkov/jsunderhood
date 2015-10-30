@@ -1,0 +1,40 @@
+extend page
+
+block title
+  title #{author.username} • #{site.title}
+
+block meta
+  meta(property="description" content=author.username)
+  meta(name="og:url"         content=site.site_url + author.username + "/")
+  if (image)
+    meta(name="og:image"     content=image)
+  meta(name="og:title"       content="Архив недели " + author.username + " в " + site.title )
+  meta(name="og:description" content=descText)
+
+block headerTitle
+  a(href="/") jsunderhood
+  small= " / "
+    = author.username
+
+block content
+  .container
+    .row
+      .col-md-6.col-md-offset-3
+        article
+          h1= author.username
+          p: i= helpers.d(author.tweets[0].created_at)
+          
+          each weekday in helpers.prepareTweets(author.tweets)
+            h2= helpers.capitalize(weekday.weekday)
+              small= " " + helpers.tweetsUnit(weekday.tweets.length)
+
+            each tweet in weekday.tweets
+              .tweet
+                p!= helpers.render(tweet)
+                  a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
+            
+          h2 Ссылки
+            each group in helpers.getLinks(author.tweets)
+              h3= group.host
+              each link in group.links
+                a.url(href=link)= link

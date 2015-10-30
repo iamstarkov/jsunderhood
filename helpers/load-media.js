@@ -9,7 +9,7 @@ export default function loadMedia(author, path, authorNameForSave, cb) {
     media(tokens, author, (err, { image, banner }={}) => {
       if (err) throw err;
 
-      if (load && banner) {
+      if (image && banner) {
         load(image, `${path}/${authorNameForSave}-image`, (err) => {
           if (err) throw err;
           load(banner, `${path}/${authorNameForSave}-banner`, cb);
