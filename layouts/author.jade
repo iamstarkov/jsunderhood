@@ -4,12 +4,12 @@ block title
   title #{author.username} • #{site.title}
 
 //- TODO meta
-//- block meta
+block meta
   meta(property="description" content=author.username)
-  meta(name="og:url"         content=site.site_url + url)
+  meta(name="og:url"         content=site.site_url + author.username + "/")
   if (image)
     meta(name="og:image"     content=image)
-  meta(name="og:title"       content="Архив недели #{author.username} в #{site.title}")
+  meta(name="og:title"       content="Архив недели " + author.username + " в " + site.title )
   meta(name="og:description" content=descText)
 
 block headerTitle
