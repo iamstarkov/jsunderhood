@@ -1,5 +1,6 @@
 import tweetLinks from 'tweet-links';
-import { zipObj, values, sortBy, prop, head, apply, objOf, toPairs, pipe, length, mapObjIndexed, groupBy, map, filter, flatten, uniq } from 'ramda';
+import { zipObj, values, sortBy, prop, head, apply, objOf, toPairs, pipe,
+  length, mapObjIndexed, groupBy, map, filter, flatten, uniq } from 'ramda';
 import { parse, format } from 'url';
 
 const notTwitter = url => url.host !== 'twitter.com';
