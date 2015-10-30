@@ -25,8 +25,7 @@ block content
             div.row
               .col-md-2
                 .row.text-center
-                  - var img = "/images/" + author.media.image;
-                  div.img-circle(style="width: 48px; height: 48px; background-image: url(" + img + "); background-size: cover; margin: 0 auto;")
+                  div.img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
               .col-md-10
                 h2(style="margin: 0"): a(href="/" + author.username + '/')
                   = "@" + author.username
