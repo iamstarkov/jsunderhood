@@ -18,21 +18,22 @@ block headerTitle
 
 block content
   article.container
-    each row in list
+    each row in authors
       .row(style="margin-bottom: 1em")
-        each article in row
+        each author in row
           .col-md-4
             div.row
               .col-md-2
                 .row.text-center
-                  - var img = "/images/"+article.title+"-image.jpg";
+                  - var img = "/images/" + author.username + "-image.jpg";
                   div.img-circle(style="width: 48px; height: 48px; background-image: url(" + img + "); background-size: cover; margin: 0 auto;")
               .col-md-10
-                h2(style="margin: 0"): a(href=article.url)= "@" + article.title
-                if article.authorInfo.location
+                h2(style="margin: 0"): a(href=siteURL + "/" + author.username + '/')
+                  = "@" + author.username
+                if author.info.location
                   small
                     span.glyphicon.glyphicon-map-marker
-                    = " " + article.authorInfo.location
+                    = " " + author.info.location
             .row
               .col-md-12
-                p.list__item-desc !{article.desc}
+                p.list__item-desc!= helpers.render(helpers.firstTweet(author))

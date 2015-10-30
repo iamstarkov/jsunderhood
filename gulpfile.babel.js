@@ -9,7 +9,7 @@ import numbers from 'typographic-numbers';
 import numd from 'numd';
 import path from 'path';
 import rss from 'rss';
-import { head } from 'ramda';
+import r, { head } from 'ramda';
 import sequence from 'run-sequence';
 import through from 'through2';
 import renderTweet from 'tweet.md';
@@ -52,22 +52,21 @@ const getOptions = (opts = {}) =>
   });
 
 const jade = opts => gulpJade(getOptions(opts));
+const firstTweet = r.pipe(r.prop('tweets'), r.reverse, r.head);
+const render = r.pipe(renderTweet, html);
 
 let articles = [];
 
 gulp.task('index-page', () => {
-  const groupInGrid = (state, item, i) => {
-    if (i % 3 === 0) { state.push([]); }
-    state[state.length - 1].push(item);
-    return state;
-  };
+  const authorsToPost = authors.filter(author => author.post !== false)
   return gulp.src('layouts/index.jade')
     .pipe(jade({
       locals: {
         title: site.title,
-        url: '',
+        siteURL: 'https://jsunderhood.ru',
         desc: site.description,
-        list: articles.reduce(groupInGrid, []),
+        authors: r.splitEvery(3, authorsToPost),
+        helpers: { firstTweet, render }
       }
     }))
     .pipe(rename({ basename: 'index' }))
@@ -131,8 +130,14 @@ gulp.task('articles-pages', done =>
 
 gulp.task('rss', done => {
   const feed = new rss(site);
-  articles.forEach(article => {
-    feed.item(Object.assign({}, article, article.rss));
+  const authorsToPost = authors.filter(author => author.post !== false)
+  authorsToPost.forEach(author => {
+    feed.item({
+      title: author.username,
+      description: render(firstTweet(author)),
+      url: `https://jsunderhood.ru/${author.username}/`,
+      date: firstTweet(author).created_at
+    });
   });
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
@@ -150,16 +155,15 @@ gulp.task('build', done =>
   sequence(
     [
       'authors',
-      // 'index-page',
-      // 'articles-pages',
-      // 'rss',
+      'index-page',
+      'rss',
       // 'about-page',
       // 'stats-page'
     ],
     // 'cname',
     'css',
     // 'js',
-    // 'userpics',
+    'userpics',
     // 'nojekyll',
   done));
 
