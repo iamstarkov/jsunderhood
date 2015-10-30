@@ -10,7 +10,7 @@ const log = console.log.bind(console);
 const check = (username, type, cb) => {
   open(`./dump/images/${username}-${type}.png`, 'r', pngErr => {
     open(`./dump/images/${username}-${type}.jpg`, 'r', () => {
-      cb(`${username}-${type}.` + (!pngErr ? 'png' : 'jpg'));
+      cb(`./images/${username}-${type}.` + (!pngErr ? 'png' : 'jpg'));
     });
   });
 };
