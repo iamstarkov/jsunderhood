@@ -145,6 +145,7 @@ gulp.task('server', () => {
  * FLOW
  */
 gulp.task('clean', done => rimraf('dist', done));
+
 gulp.task('build', [
   'authors',
   'index',
