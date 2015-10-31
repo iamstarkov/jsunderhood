@@ -3,6 +3,6 @@ branches:
     - master
 language: node_js
 node_js:
-  - stable
+  - v4 
 after_script:
   - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run deploy:ci || false'
