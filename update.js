@@ -23,7 +23,7 @@ saveMedia(tokens, 'jsunderhood', username, (err, media) => {
 
 getTweets(tokens, 'jsunderhood', first, (err, tweets) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}.json`, tweets, { spaces }, err => {
+  outputJSON(`./dump/${username}.json`, { tweets }, { spaces }, err => {
     if (err) throw err;
     log(`${err ? '✗' : '✓'} ${username}’s tweets`);
   });
