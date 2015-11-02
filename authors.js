@@ -51,7 +51,7 @@ export default [
   fs.ensureFileSync(tweets);
 
   author.info   = fs.readJsonSync(info, { throws }) || {};
-  author.tweets = (fs.readJsonSync(tweets, { throws }) || {}).tweets || (fs.readJsonSync(tweets, { throws }) || {}) || [];
+  author.tweets = (fs.readJsonSync(tweets, { throws }) || {}).tweets || [];
   author.media = fs.readJsonSync(media, { throws }) || {};
 
   return author;
