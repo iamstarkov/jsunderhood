@@ -37,33 +37,92 @@
     }
   },
   "protected": false,
-  "followers_count": 2188,
+  "followers_count": 2189,
   "friends_count": 1,
   "listed_count": 110,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 26,
+  "favourites_count": 27,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12673,
+  "statuses_count": 12677,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 02 10:34:19 +0000 2015",
-    "id": 661129200112435200,
-    "id_str": "661129200112435200",
-    "text": "@rubyunderhood @rainrb мы вернемся к этому вопросу на днях. у нас тоже реакт =) p.s. https://t.co/aWfdU5Wa4W",
+    "created_at": "Mon Nov 02 11:16:06 +0000 2015",
+    "id": 661139717665214500,
+    "id_str": "661139717665214465",
+    "text": "RT @iamstarkov: @shuvalov_anton @jsunderhood @hellbeast92 умение поднять свой собственный CI очень важно",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 661128768245932000,
-    "in_reply_to_status_id_str": "661128768245932034",
-    "in_reply_to_user_id": 3341793591,
-    "in_reply_to_user_id_str": "3341793591",
-    "in_reply_to_screen_name": "rubyunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 02 11:15:52 +0000 2015",
+      "id": 661139659435692000,
+      "id_str": "661139659435692032",
+      "text": "@shuvalov_anton @jsunderhood @hellbeast92 умение поднять свой собственный CI очень важно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661139253909430300,
+      "in_reply_to_status_id_str": "661139253909430272",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_anton",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "hellbeast92",
+            "name": "Александр Староверов",
+            "id": 2504248329,
+            "id_str": "2504248329",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
@@ -71,41 +130,50 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
+          "screen_name": "iamstarkov",
+          "name": "Vladimir Starkov",
+          "id": 98084311,
+          "id_str": "98084311",
           "indices": [
-            0,
+            3,
             14
           ]
         },
         {
-          "screen_name": "rainrb",
-          "name": "rainrb",
-          "id": 92529952,
-          "id_str": "92529952",
+          "screen_name": "shuvalov_anton",
+          "name": "Darth Shuvalov",
+          "id": 214580679,
+          "id_str": "214580679",
           "indices": [
-            15,
-            22
+            16,
+            31
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            32,
+            44
+          ]
+        },
+        {
+          "screen_name": "hellbeast92",
+          "name": "Александр Староверов",
+          "id": 2504248329,
+          "id_str": "2504248329",
+          "indices": [
+            45,
+            57
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/aWfdU5Wa4W",
-          "expanded_url": "https://github.com/aickin/react-dom-stream",
-          "display_url": "github.com/aickin/react-d…",
-          "indices": [
-            85,
-            108
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -117,6 +185,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/661079456954630144/MgT0c3tN_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/661079456954630144/MgT0c3tN_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1446462609",
   "profile_link_color": "89C9FA",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",

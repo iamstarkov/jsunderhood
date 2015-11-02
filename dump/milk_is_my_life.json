@@ -1,6 +1,498 @@
 {
   "tweets": [
     {
+      "created_at": "Mon Nov 02 11:16:06 +0000 2015",
+      "id": 661139717665214500,
+      "id_str": "661139717665214465",
+      "text": "RT @iamstarkov: @shuvalov_anton @jsunderhood @hellbeast92 умение поднять свой собственный CI очень важно",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 02 11:15:52 +0000 2015",
+        "id": 661139659435692000,
+        "id_str": "661139659435692032",
+        "text": "@shuvalov_anton @jsunderhood @hellbeast92 умение поднять свой собственный CI очень важно",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661139253909430300,
+        "in_reply_to_status_id_str": "661139253909430272",
+        "in_reply_to_user_id": 214580679,
+        "in_reply_to_user_id_str": "214580679",
+        "in_reply_to_screen_name": "shuvalov_anton",
+        "user": {
+          "id": 98084311,
+          "id_str": "98084311"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "shuvalov_anton",
+              "name": "Darth Shuvalov",
+              "id": 214580679,
+              "id_str": "214580679",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                16,
+                28
+              ]
+            },
+            {
+              "screen_name": "hellbeast92",
+              "name": "Александр Староверов",
+              "id": 2504248329,
+              "id_str": "2504248329",
+              "indices": [
+                29,
+                41
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              16,
+              31
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              32,
+              44
+            ]
+          },
+          {
+            "screen_name": "hellbeast92",
+            "name": "Александр Староверов",
+            "id": 2504248329,
+            "id_str": "2504248329",
+            "indices": [
+              45,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 11:14:32 +0000 2015",
+      "id": 661139322838646800,
+      "id_str": "661139322838646784",
+      "text": "RT @shuvalov_anton: @hellbeast92 достаточно понимать что это, как и зачем. Иначе будут «негодные админы, которые нам билдить на сервере не …",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 02 11:14:16 +0000 2015",
+        "id": 661139253909430300,
+        "id_str": "661139253909430272",
+        "text": "@hellbeast92 достаточно понимать что это, как и зачем. Иначе будут «негодные админы, которые нам билдить на сервере не дают» @jsunderhood",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661115648496504800,
+        "in_reply_to_status_id_str": "661115648496504832",
+        "in_reply_to_user_id": 2504248329,
+        "in_reply_to_user_id_str": "2504248329",
+        "in_reply_to_screen_name": "hellbeast92",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "hellbeast92",
+              "name": "Александр Староверов",
+              "id": 2504248329,
+              "id_str": "2504248329",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                125,
+                137
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": true,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "hellbeast92",
+            "name": "Александр Староверов",
+            "id": 2504248329,
+            "id_str": "2504248329",
+            "indices": [
+              20,
+              32
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 11:13:14 +0000 2015",
+      "id": 661138994823086100,
+      "id_str": "661138994823086080",
+      "text": "RT @_sashashakun: @gusnkt @jsunderhood всегда есть переключение контекста",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 02 11:12:59 +0000 2015",
+        "id": 661138931614933000,
+        "id_str": "661138931614932992",
+        "text": "@gusnkt @jsunderhood всегда есть переключение контекста",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661123088067731500,
+        "in_reply_to_status_id_str": "661123088067731456",
+        "in_reply_to_user_id": 979932912,
+        "in_reply_to_user_id_str": "979932912",
+        "in_reply_to_screen_name": "gusnkt",
+        "user": {
+          "id": 159809934,
+          "id_str": "159809934"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gusnkt",
+              "name": "Nikita Gusakov",
+              "id": 979932912,
+              "id_str": "979932912",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                8,
+                20
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sashashakun",
+            "name": "Alexander",
+            "id": 159809934,
+            "id_str": "159809934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              18,
+              25
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 11:12:56 +0000 2015",
+      "id": 661138921502429200,
+      "id_str": "661138921502429184",
+      "text": "RT @_sashashakun: @gusnkt @jsunderhood это вопрос организации команды",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 02 11:12:42 +0000 2015",
+        "id": 661138861905616900,
+        "id_str": "661138861905616896",
+        "text": "@gusnkt @jsunderhood это вопрос организации команды",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661122952902103000,
+        "in_reply_to_status_id_str": "661122952902103040",
+        "in_reply_to_user_id": 979932912,
+        "in_reply_to_user_id_str": "979932912",
+        "in_reply_to_screen_name": "gusnkt",
+        "user": {
+          "id": 159809934,
+          "id_str": "159809934"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gusnkt",
+              "name": "Nikita Gusakov",
+              "id": 979932912,
+              "id_str": "979932912",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                8,
+                20
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sashashakun",
+            "name": "Alexander",
+            "id": 159809934,
+            "id_str": "159809934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              18,
+              25
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Nov 02 10:34:19 +0000 2015",
       "id": 661129200112435200,
       "id_str": "661129200112435200",
@@ -2375,7 +2867,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2393,7 +2885,7 @@
         ],
         "urls": []
       },
-      "favorited": false,
+      "favorited": true,
       "retweeted": false,
       "lang": "ru"
     },
@@ -2780,7 +3272,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 2,
       "entities": {
         "hashtags": [],
