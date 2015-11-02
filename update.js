@@ -2,7 +2,7 @@ import tokens from 'twitter-tokens';
 import authors from './authors';
 import log from './helpers/log';
 import { outputJSON } from 'fs-extra';
-import { head, prop } from 'ramda';
+import { dissoc, map, head, prop } from 'ramda';
 
 import saveMedia from './helpers/save-media';
 import getTweets from 'get-tweets';
@@ -35,8 +35,9 @@ getInfo(tokens, 'jsunderhood', (err, info) => {
   });
 });
 
-getFollowers(tokens, 'jsunderhood', (err, followers) => {
+getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
   if (err) throw err;
+  const followers = map(dissoc('status'), followersWithStatuses);
   outputJSON(`./dump/${username}-followers.json`, { followers }, { spaces }, saveErr => {
     log(`${saveErr ? '✗' : '✓'} ${username}’s followers`);
   });
