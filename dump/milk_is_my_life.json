@@ -1,6 +1,83 @@
 {
   "tweets": [
     {
+      "created_at": "Mon Nov 02 16:29:23 +0000 2015",
+      "id": 661218555774505000,
+      "id_str": "661218555774504960",
+      "text": "RT @cssunderhood: Немного про инструменты. Один из самых популярных инструментов у меня в работе — виртуалки с разными IE.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 02 16:26:32 +0000 2015",
+        "id": 661217841249669100,
+        "id_str": "661217841249669120",
+        "text": "Немного про инструменты. Один из самых популярных инструментов у меня в работе — виртуалки с разными IE.",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Nov 02 15:57:13 +0000 2015",
       "id": 661210460063203300,
       "id_str": "661210460063203328",
@@ -3858,7 +3935,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
