@@ -46,13 +46,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12677,
+  "statuses_count": 12678,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 02 11:16:06 +0000 2015",
-    "id": 661139717665214500,
-    "id_str": "661139717665214465",
-    "text": "RT @iamstarkov: @shuvalov_anton @jsunderhood @hellbeast92 умение поднять свой собственный CI очень важно",
+    "created_at": "Mon Nov 02 11:18:52 +0000 2015",
+    "id": 661140413542191100,
+    "id_str": "661140413542191106",
+    "text": "RT @lisovskyvlad: @iamstarkov @jsunderhood @shuvalov_anton @hellbeast92 Есть неплохой self-hosted CI - https://t.co/HeKxxNFLvR",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,35 +65,35 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Nov 02 11:15:52 +0000 2015",
-      "id": 661139659435692000,
-      "id_str": "661139659435692032",
-      "text": "@shuvalov_anton @jsunderhood @hellbeast92 умение поднять свой собственный CI очень важно",
+      "created_at": "Mon Nov 02 11:18:02 +0000 2015",
+      "id": 661140202577141800,
+      "id_str": "661140202577141760",
+      "text": "@iamstarkov @jsunderhood @shuvalov_anton @hellbeast92 Есть неплохой self-hosted CI - https://t.co/HeKxxNFLvR",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 661139253909430300,
-      "in_reply_to_status_id_str": "661139253909430272",
-      "in_reply_to_user_id": 214580679,
-      "in_reply_to_user_id_str": "214580679",
-      "in_reply_to_screen_name": "shuvalov_anton",
+      "in_reply_to_status_id": 661139659435692000,
+      "in_reply_to_status_id_str": "661139659435692032",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "shuvalov_anton",
-            "name": "Darth Shuvalov",
-            "id": 214580679,
-            "id_str": "214580679",
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
             "indices": [
               0,
-              15
+              11
             ]
           },
           {
@@ -102,8 +102,18 @@
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              16,
-              28
+              12,
+              24
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              25,
+              40
             ]
           },
           {
@@ -112,16 +122,27 @@
             "id": 2504248329,
             "id_str": "2504248329",
             "indices": [
-              29,
-              41
+              41,
+              53
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/HeKxxNFLvR",
+            "expanded_url": "https://drone.io/",
+            "display_url": "drone.io",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "und"
     },
     "retweet_count": 1,
     "favorite_count": 0,
@@ -130,23 +151,23 @@
       "symbols": [],
       "user_mentions": [
         {
+          "screen_name": "lisovskyvlad",
+          "name": "Vladislav Lisovskii",
+          "id": 87775435,
+          "id_str": "87775435",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
           "screen_name": "iamstarkov",
           "name": "Vladimir Starkov",
           "id": 98084311,
           "id_str": "98084311",
           "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "shuvalov_anton",
-          "name": "Darth Shuvalov",
-          "id": 214580679,
-          "id_str": "214580679",
-          "indices": [
-            16,
-            31
+            18,
+            29
           ]
         },
         {
@@ -155,8 +176,18 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            32,
-            44
+            30,
+            42
+          ]
+        },
+        {
+          "screen_name": "shuvalov_anton",
+          "name": "Darth Shuvalov",
+          "id": 214580679,
+          "id_str": "214580679",
+          "indices": [
+            43,
+            58
           ]
         },
         {
@@ -165,16 +196,27 @@
           "id": 2504248329,
           "id_str": "2504248329",
           "indices": [
-            45,
-            57
+            59,
+            71
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/HeKxxNFLvR",
+          "expanded_url": "https://drone.io/",
+          "display_url": "drone.io",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
