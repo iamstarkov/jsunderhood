@@ -39,7 +39,7 @@ getInfo(tokens, 'jsunderhood', (err, info) => {
 
 getFollowers(tokens, 'jsunderhood', (err, followers) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-followers.json`, followers, { spaces }, err => {
+  outputJSON(`./dump/${username}-followers.json`, { followers }, { spaces }, err => {
     if (err) throw err;
     log(`${err ? '✗' : '✓'} ${username}’s followers`);
   });
