@@ -16,31 +16,28 @@ const spaces = 2;
 
 saveMedia(tokens, 'jsunderhood', username, (err, media) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-media.json`, media, { spaces }, err => {
-    log(`${err ? '✗' : '✓'} ${username}’s media`);
+  outputJSON(`./dump/${username}-media.json`, media, { spaces }, saveErr => {
+    log(`${saveErr ? '✗' : '✓'} ${username}’s media`);
   });
 });
 
 getTweets(tokens, 'jsunderhood', first, (err, tweets) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}.json`, { tweets }, { spaces }, err => {
-    if (err) throw err;
-    log(`${err ? '✗' : '✓'} ${username}’s tweets`);
+  outputJSON(`./dump/${username}.json`, { tweets }, { spaces }, saveErr => {
+    log(`${saveErr ? '✗' : '✓'} ${username}’s tweets`);
   });
 });
 
 getInfo(tokens, 'jsunderhood', (err, info) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-info.json`, info, { spaces }, err => {
-    if (err) throw err;
-    log(`${err ? '✗' : '✓'} ${username}’s info`);
+  outputJSON(`./dump/${username}-info.json`, info, { spaces }, saveErr => {
+    log(`${saveErr ? '✗' : '✓'} ${username}’s info`);
   });
 });
 
 getFollowers(tokens, 'jsunderhood', (err, followers) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-followers.json`, { followers }, { spaces }, err => {
-    if (err) throw err;
-    log(`${err ? '✗' : '✓'} ${username}’s followers`);
+  outputJSON(`./dump/${username}-followers.json`, { followers }, { spaces }, saveErr => {
+    log(`${saveErr ? '✗' : '✓'} ${username}’s followers`);
   });
 });
