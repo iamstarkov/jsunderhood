@@ -6,7 +6,7 @@
   "scripts": {
     "update": "babel-node update",
     "git-setup:ci": "git config --global user.email \"iamstarkov+tachikombie@gmail.com\" && git config --global user.name \"Tachikoma Zombie\" && git remote rm origin && git remote add origin https://tachikombie:${GITHUB_TOKEN}@github.com/iamstarkov/jsunderhood.git",
-    "save": "git checkout master && git add . && git commit -m 'save dump \n [ci skip]' && git push origin master &>/dev/null",
+    "save": "git stash && git checkout master && git stash apply && git add . && git commit -m 'save dump \n [ci skip]' && git push origin master &>/dev/null",
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
     "pretest": "gulp build",
