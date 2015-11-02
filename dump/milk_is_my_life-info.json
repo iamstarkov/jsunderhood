@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2189,
+  "followers_count": 2185,
   "friends_count": 1,
   "listed_count": 110,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,68 +46,127 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12680,
+  "statuses_count": 12747,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 02 11:20:54 +0000 2015",
-    "id": 661140924752371700,
-    "id_str": "661140924752371713",
-    "text": "@lisovskyvlad @iamstarkov @shuvalov_anton @hellbeast92 маленьких проектов (но кушает очень много памяти)",
+    "created_at": "Mon Nov 02 14:49:21 +0000 2015",
+    "id": 661193383088640000,
+    "id_str": "661193383088640000",
+    "text": "RT @bardadymchik: @RReverser @jsunderhood @rubyunderhood просто return промиса делаем и счастье",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 661140806972121100,
-    "in_reply_to_status_id_str": "661140806972121088",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Nov 02 14:45:02 +0000 2015",
+      "id": 661192295836971000,
+      "id_str": "661192295836971013",
+      "text": "@RReverser @jsunderhood @rubyunderhood просто return промиса делаем и счастье",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661188365056897000,
+      "in_reply_to_status_id_str": "661188365056897024",
+      "in_reply_to_user_id": 97495292,
+      "in_reply_to_user_id_str": "97495292",
+      "in_reply_to_screen_name": "RReverser",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RReverser",
+            "name": "Ingvar Stepanyan",
+            "id": 97495292,
+            "id_str": "97495292",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lisovskyvlad",
-          "name": "Vladislav Lisovskii",
-          "id": 87775435,
-          "id_str": "87775435",
+          "screen_name": "bardadymchik",
+          "name": "den bardadym",
+          "id": 105885792,
+          "id_str": "105885792",
           "indices": [
-            0,
-            13
+            3,
+            16
           ]
         },
         {
-          "screen_name": "iamstarkov",
-          "name": "Vladimir Starkov",
-          "id": 98084311,
-          "id_str": "98084311",
+          "screen_name": "RReverser",
+          "name": "Ingvar Stepanyan",
+          "id": 97495292,
+          "id_str": "97495292",
           "indices": [
-            14,
-            25
+            18,
+            28
           ]
         },
         {
-          "screen_name": "shuvalov_anton",
-          "name": "Darth Shuvalov",
-          "id": 214580679,
-          "id_str": "214580679",
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
           "indices": [
-            26,
+            29,
             41
           ]
         },
         {
-          "screen_name": "hellbeast92",
-          "name": "Александр Староверов",
-          "id": 2504248329,
-          "id_str": "2504248329",
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
           "indices": [
             42,
-            54
+            56
           ]
         }
       ],
