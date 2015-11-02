@@ -49,6 +49,7 @@ export default [
 
   fs.ensureFileSync(info);
   fs.ensureFileSync(tweets);
+  fs.ensureFileSync(media);
 
   author.info   = fs.readJsonSync(info, { throws }) || {};
   author.tweets = (fs.readJsonSync(tweets, { throws }) || {}).tweets || [];
