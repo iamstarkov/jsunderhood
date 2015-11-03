@@ -91,8 +91,9 @@ block content
             = " Ссылки"
           each group in helpers.getLinks(author.tweets)
             h3= group.host
-            each link in group.links
-              a.url(href=link)= link
+            ul
+              each link in group.links
+                li: a(href=link)= link
 
       .col-md-8.col-md-offset-2
           //- h2 Другие авторы
