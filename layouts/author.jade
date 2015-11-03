@@ -84,8 +84,26 @@ block content
                         img.img-responsive(src=image)
                 a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
             
-          h2 Ссылки
-            each group in helpers.getLinks(author.tweets)
-              h3= group.host
-              each link in group.links
-                a.url(href=link)= link
+          h2(id="links")
+            a(href="#links") #
+            = " Ссылки"
+          each group in helpers.getLinks(author.tweets)
+            h3= group.host
+            each link in group.links
+              a.url(href=link)= link
+
+          //- h2 Другие авторы
+          hr
+          - var prev = helpers.prevAuthor(author);
+          - var next = helpers.nextAuthor(author);
+          .container-fluid
+            .row
+              if prev
+                .col-xs-6.text-left
+                  ="← "
+                  a(href="/" + prev.username)= "@" + prev.username
+              if next
+                .col-xs-6.text-right(class= !prev ? 'col-xs-offset-6' : '')
+                  a(href="/" + next.username)= "@" + next.username
+                  =" →"
+          hr
