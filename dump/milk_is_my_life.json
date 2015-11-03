@@ -1,6 +1,2299 @@
 {
   "tweets": [
     {
+      "created_at": "Tue Nov 03 12:11:30 +0000 2015",
+      "id": 661516046411649000,
+      "id_str": "661516046411649024",
+      "text": "@gusnkt думаю, начать стоит с офф документации. она тоже потрясающая! https://t.co/7zw2aMN58w",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661515780127879200,
+      "in_reply_to_status_id_str": "661515780127879168",
+      "in_reply_to_user_id": 979932912,
+      "in_reply_to_user_id_str": "979932912",
+      "in_reply_to_screen_name": "gusnkt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7zw2aMN58w",
+            "expanded_url": "http://redux.js.org/docs/advanced/ExampleRedditAPI.html",
+            "display_url": "redux.js.org/docs/advanced/…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 12:11:06 +0000 2015",
+      "id": 661515944620130300,
+      "id_str": "661515944620130304",
+      "text": "RT @gusnkt: @jsunderhood не, ну допустим у вас есть список постов и страница на пост. Где хранить 1 пост?",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 12:10:27 +0000 2015",
+        "id": 661515780127879200,
+        "id_str": "661515780127879168",
+        "text": "@jsunderhood не, ну допустим у вас есть список постов и страница на пост. Где хранить 1 пост?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661512505022390300,
+        "in_reply_to_status_id_str": "661512505022390276",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 979932912,
+          "id_str": "979932912"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 12:02:16 +0000 2015",
+      "id": 661513721458597900,
+      "id_str": "661513721458597888",
+      "text": "@dan_abramov @lapanoid поправим! =) @vlkosinov",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661513431871279100,
+      "in_reply_to_status_id_str": "661513431871279104",
+      "in_reply_to_user_id": 70345946,
+      "in_reply_to_user_id_str": "70345946",
+      "in_reply_to_screen_name": "dan_abramov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "lapanoid",
+            "name": "Lapin Sergey",
+            "id": 28723019,
+            "id_str": "28723019",
+            "indices": [
+              13,
+              22
+            ]
+          },
+          {
+            "screen_name": "vlkosinov",
+            "name": "Vlad Kosinov",
+            "id": 1231241928,
+            "id_str": "1231241928",
+            "indices": [
+              36,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 12:01:57 +0000 2015",
+      "id": 661513643683639300,
+      "id_str": "661513643683639296",
+      "text": "RT @dan_abramov: @jsunderhood @lapanoid Oh shi~~~ Поправьте чтобы сохранялся выбранный язык! Хотя бы в пределах сериала. )",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 12:01:07 +0000 2015",
+        "id": 661513431871279100,
+        "id_str": "661513431871279104",
+        "text": "@jsunderhood @lapanoid Oh shi~~~ Поправьте чтобы сохранялся выбранный язык! Хотя бы в пределах сериала. )",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661512972511125500,
+        "in_reply_to_status_id_str": "661512972511125504",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 70345946,
+          "id_str": "70345946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "lapanoid",
+              "name": "Lapin Sergey",
+              "id": 28723019,
+              "id_str": "28723019",
+              "indices": [
+                13,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              17,
+              29
+            ]
+          },
+          {
+            "screen_name": "lapanoid",
+            "name": "Lapin Sergey",
+            "id": 28723019,
+            "id_str": "28723019",
+            "indices": [
+              30,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:59:17 +0000 2015",
+      "id": 661512972511125500,
+      "id_str": "661512972511125504",
+      "text": "@dan_abramov @lapanoid в нашем легаси проекте redux живет в экосистеме knockoutjs. https://t.co/8YmICjWkMt",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661510836117196800,
+      "in_reply_to_status_id_str": "661510836117196800",
+      "in_reply_to_user_id": 70345946,
+      "in_reply_to_user_id_str": "70345946",
+      "in_reply_to_screen_name": "dan_abramov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "lapanoid",
+            "name": "Lapin Sergey",
+            "id": 28723019,
+            "id_str": "28723019",
+            "indices": [
+              13,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8YmICjWkMt",
+            "expanded_url": "http://www.amediateka.ru/",
+            "display_url": "amediateka.ru",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:58:37 +0000 2015",
+      "id": 661512802864111600,
+      "id_str": "661512802864111616",
+      "text": "RT @dan_abramov: @lapanoid @jsunderhood Кстати Redux сейчас не имеет зависимости от React (в табличке имеет)",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 11:50:48 +0000 2015",
+        "id": 661510836117196800,
+        "id_str": "661510836117196800",
+        "text": "@lapanoid @jsunderhood Кстати Redux сейчас не имеет зависимости от React (в табличке имеет)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661498947425460200,
+        "in_reply_to_status_id_str": "661498947425460224",
+        "in_reply_to_user_id": 28723019,
+        "in_reply_to_user_id_str": "28723019",
+        "in_reply_to_screen_name": "lapanoid",
+        "user": {
+          "id": 70345946,
+          "id_str": "70345946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "lapanoid",
+              "name": "Lapin Sergey",
+              "id": 28723019,
+              "id_str": "28723019",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "lapanoid",
+            "name": "Lapin Sergey",
+            "id": 28723019,
+            "id_str": "28723019",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              27,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:58:06 +0000 2015",
+      "id": 661512675818676200,
+      "id_str": "661512675818676224",
+      "text": "@gusnkt это нам позволило уже шарить бизнес-логику между веб-приложениями и приложениями на смарт-тв. разный юай - одни данные",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661512505022390300,
+      "in_reply_to_status_id_str": "661512505022390276",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:57:26 +0000 2015",
+      "id": 661512505022390300,
+      "id_str": "661512505022390276",
+      "text": "@gusnkt мы не храним данные \"по страницам\", компоненты сами набирают себе данные, им необходимые. дерево данных никак не связано с ui",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661505948977143800,
+      "in_reply_to_status_id_str": "661505948977143808",
+      "in_reply_to_user_id": 979932912,
+      "in_reply_to_user_id_str": "979932912",
+      "in_reply_to_screen_name": "gusnkt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:56:39 +0000 2015",
+      "id": 661512309723029500,
+      "id_str": "661512309723029504",
+      "text": "RT @gusnkt: @jsunderhood а проблем с роутингом у вас нет? Вот у меня есть ключевая проблема с flux и redux - где хранить данные, нужные одн…",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 11:31:23 +0000 2015",
+        "id": 661505948977143800,
+        "id_str": "661505948977143808",
+        "text": "@jsunderhood а проблем с роутингом у вас нет? Вот у меня есть ключевая проблема с flux и redux - где хранить данные, нужные одной странице?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 979932912,
+          "id_str": "979932912"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gusnkt",
+            "name": "Nikita Gusakov",
+            "id": 979932912,
+            "id_str": "979932912",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:15:45 +0000 2015",
+      "id": 661502015231643600,
+      "id_str": "661502015231643648",
+      "text": "но как обычно в таких делах грамотный маркетинг, и простота api redux довольно легко уделали всех конкурентов. +хот-релоад, система плагинов",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661501460027465700,
+      "in_reply_to_status_id_str": "661501460027465729",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:13:32 +0000 2015",
+      "id": 661501460027465700,
+      "id_str": "661501460027465729",
+      "text": "вскоре стал deprecated в пользу redux. также, мы всерьез рассматривали baobab (https://t.co/hQ9SGCz6QS) и nuclear (https://t.co/q3RN9VSMvu)",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661501045546352600,
+      "in_reply_to_status_id_str": "661501045546352640",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hQ9SGCz6QS",
+            "expanded_url": "http://christianalfoni.github.io/javascript/2015/02/06/plant-a-baobab-tree-in-your-flux-application.html",
+            "display_url": "christianalfoni.github.io/javascript/201…",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "url": "https://t.co/q3RN9VSMvu",
+            "expanded_url": "https://github.com/optimizely/nuclear-js",
+            "display_url": "github.com/optimizely/nuc…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:11:54 +0000 2015",
+      "id": 661501045546352600,
+      "id_str": "661501045546352640",
+      "text": "это мука. очень много бойлерплейта, \"независимые\" сторы, waitfor и т.д. тогда же попался на глаза очень приятный flummox, который",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661500784950026200,
+      "in_reply_to_status_id_str": "661500784950026240",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:10:51 +0000 2015",
+      "id": 661500784950026200,
+      "id_str": "661500784950026240",
+      "text": "после того, как мы поняли, что флакс - то, что нам нужно, мы стали уже перебирать реализации. пописав на \"классическом\" быстро поняли, что",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 11:09:55 +0000 2015",
+      "id": 661500549406281700,
+      "id_str": "661500549406281729",
+      "text": "RT @lapanoid: @jsunderhood  я делал гугл табличку - по критерию выписывал как каждый flux соответсвует https://t.co/uWSk4SGO67 + есть репа …",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 11:03:33 +0000 2015",
+        "id": 661498947425460200,
+        "id_str": "661498947425460224",
+        "text": "@jsunderhood  я делал гугл табличку - по критерию выписывал как каждый flux соответсвует https://t.co/uWSk4SGO67 + есть репа со всеми flux",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661496177247039500,
+        "in_reply_to_status_id_str": "661496177247039488",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 28723019,
+          "id_str": "28723019"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/uWSk4SGO67",
+              "expanded_url": "http://goo.gl/x84KPf",
+              "display_url": "goo.gl/x84KPf",
+              "indices": [
+                89,
+                112
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lapanoid",
+            "name": "Lapin Sergey",
+            "id": 28723019,
+            "id_str": "28723019",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uWSk4SGO67",
+            "expanded_url": "http://goo.gl/x84KPf",
+            "display_url": "goo.gl/x84KPf",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:57:41 +0000 2015",
+      "id": 661497468572606500,
+      "id_str": "661497468572606464",
+      "text": "@rubyunderhood я не очень согласен. вот пример как довольно неплохо флакс реализуется на бекбоне https://t.co/dZpjluIdLs",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661497105832349700,
+      "in_reply_to_status_id_str": "661497105832349696",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dZpjluIdLs",
+            "expanded_url": "http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone",
+            "display_url": "toptal.com/front-end/simp…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:56:57 +0000 2015",
+      "id": 661497286481047600,
+      "id_str": "661497286481047552",
+      "text": "RT @rubyunderhood: На react нужен pub-sub (flux), а не MV* @jsunderhood",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 10:56:14 +0000 2015",
+        "id": 661497105832349700,
+        "id_str": "661497105832349696",
+        "text": "На react нужен pub-sub (flux), а не MV* @jsunderhood",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661496333992337400,
+        "in_reply_to_status_id_str": "661496333992337408",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                40,
+                52
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              59,
+              71
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Nov 03 10:55:57 +0000 2015",
+      "id": 661497034042642400,
+      "id_str": "661497034042642432",
+      "text": "@rubyunderhood на самом деле работу с данными мы обсуждали отдельно от реакта. в этом и прелесть флакса - он не зависит от реакта.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661496367165145100,
+      "in_reply_to_status_id_str": "661496367165145088",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:55:07 +0000 2015",
+      "id": 661496825300561900,
+      "id_str": "661496825300561920",
+      "text": "RT @rubyunderhood: Ну если взяли react, то какой уже backbone в таком случае? @jsunderhood",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 10:53:18 +0000 2015",
+        "id": 661496367165145100,
+        "id_str": "661496367165145088",
+        "text": "Ну если взяли react, то какой уже backbone в таком случае? @jsunderhood",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661496177247039500,
+        "in_reply_to_status_id_str": "661496177247039488",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                59,
+                71
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              78,
+              90
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:53:10 +0000 2015",
+      "id": 661496333992337400,
+      "id_str": "661496333992337408",
+      "text": "@jsunderhood backbone-style, имеется ввиду, с его моделями и коллекциями",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661496177247039500,
+      "in_reply_to_status_id_str": "661496177247039488",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:52:33 +0000 2015",
+      "id": 661496177247039500,
+      "id_str": "661496177247039488",
+      "text": "абсолютно верно! это я еще не подошел к redux, это я просто говорю, почему не backbone.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:51:48 +0000 2015",
+      "id": 661495989375770600,
+      "id_str": "661495989375770624",
+      "text": "RT @rubyunderhood: кешировать данные и отдавать кешированное можно на уровне диспатчера - для этого не нужен redux, нужен просто flux @jsun…",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 10:50:50 +0000 2015",
+        "id": 661495745724444700,
+        "id_str": "661495745724444672",
+        "text": "кешировать данные и отдавать кешированное можно на уровне диспатчера - для этого не нужен redux, нужен просто flux @jsunderhood",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661494246982185000,
+        "in_reply_to_status_id_str": "661494246982184960",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                115,
+                127
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              134,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:51:27 +0000 2015",
+      "id": 661495901605732400,
+      "id_str": "661495901605732352",
+      "text": "сущности - очень и очень сложно. гораздо проще оперировать js-сущностями, такими как массив, хэш, используя встроенные методы map, reduce…",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 661495188293075000,
+      "in_reply_to_status_id_str": "661495188293074944",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:48:37 +0000 2015",
+      "id": 661495188293075000,
+      "id_str": "661495188293074944",
+      "text": "почему, например, мы не взяли бекбон с его моделями и коллекциями. потому что работать с коллекциями, в которых у моделей есть связанные",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:47:09 +0000 2015",
+      "id": 661494818892292100,
+      "id_str": "661494818892292096",
+      "text": "таким образом вопрос \"кэширования\" сводится к вопросу удобной работы с данными на уровне данных, если проще - минимум абстракций",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:45:56 +0000 2015",
+      "id": 661494512607494100,
+      "id_str": "661494512607494144",
+      "text": "или если пропадёт интернет (на мобилке) он должен иметь \"ходить\" по приложению, видя те данные, которые уже были им загружены",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:44:53 +0000 2015",
+      "id": 661494246982185000,
+      "id_str": "661494246982184960",
+      "text": "1. возможность \"кэшировать\" данные. пользователь, загрузив список фильмов, например, должен иметь возможность открыть страницу с фильмом",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:42:41 +0000 2015",
+      "id": 661493694101651500,
+      "id_str": "661493694101651456",
+      "text": "Ну что, переходим к вопросу о работе с данными. Мы выбрали redux by @dan_abramov. Почему? Начнем с критериев отбора:",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              68,
+              80
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 10:39:21 +0000 2015",
+      "id": 661492857950355500,
+      "id_str": "661492857950355457",
+      "text": "Job Safe Driven Development",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 10:38:54 +0000 2015",
+      "id": 661492742070124500,
+      "id_str": "661492742070124548",
+      "text": "RT @c01nd01r: @denysdovhan @jsunderhood Problem Driven Development",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 10:35:02 +0000 2015",
+        "id": 661491767989174300,
+        "id_str": "661491767989174272",
+        "text": "@denysdovhan @jsunderhood Problem Driven Development",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661487630404747300,
+        "in_reply_to_status_id_str": "661487630404747264",
+        "in_reply_to_user_id": 241111030,
+        "in_reply_to_user_id_str": "241111030",
+        "in_reply_to_screen_name": "denysdovhan",
+        "user": {
+          "id": 346496809,
+          "id_str": "346496809"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "ea4be1379594a6c2",
+          "url": "https://api.twitter.com/1.1/geo/id/ea4be1379594a6c2.json",
+          "place_type": "city",
+          "name": "Курск",
+          "full_name": "Курск, Курская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  36.0578424,
+                  51.6333436
+                ],
+                [
+                  36.3113424,
+                  51.6333436
+                ],
+                [
+                  36.3113424,
+                  51.8096436
+                ],
+                [
+                  36.0578424,
+                  51.8096436
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "denysdovhan",
+              "name": "Denys Dovhan",
+              "id": 241111030,
+              "id_str": "241111030",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                13,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "c01nd01r",
+            "name": "Eremenko Stanislav",
+            "id": 346496809,
+            "id_str": "346496809",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "denysdovhan",
+            "name": "Denys Dovhan",
+            "id": 241111030,
+            "id_str": "241111030",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              27,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 10:03:35 +0000 2015",
+      "id": 661483853580734500,
+      "id_str": "661483853580734464",
+      "text": "RT @iamstarkov: @jsunderhood обновления на сайте https://t.co/XNrm1jnSKS\nнапример https://t.co/BCJT07Tc35 и у всех авторов тоже https://t.c…",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 03 04:53:15 +0000 2015",
+        "id": 661405759289229300,
+        "id_str": "661405759289229312",
+        "text": "@jsunderhood обновления на сайте https://t.co/XNrm1jnSKS\nнапример https://t.co/BCJT07Tc35 и у всех авторов тоже https://t.co/eQubaISatM",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 98084311,
+          "id_str": "98084311"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/XNrm1jnSKS",
+              "expanded_url": "https://jsunderhood.ru/",
+              "display_url": "jsunderhood.ru",
+              "indices": [
+                33,
+                56
+              ]
+            },
+            {
+              "url": "https://t.co/BCJT07Tc35",
+              "expanded_url": "https://jsunderhood.ru/RReverser/",
+              "display_url": "jsunderhood.ru/RReverser/",
+              "indices": [
+                66,
+                89
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 661405746312122400,
+              "id_str": "661405746312122368",
+              "indices": [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+              "media_url_https": "https://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+              "url": "https://t.co/eQubaISatM",
+              "display_url": "pic.twitter.com/eQubaISatM",
+              "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 556,
+                  "h": 207,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 126,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 556,
+                  "h": 207,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 661405746312122400,
+              "id_str": "661405746312122368",
+              "indices": [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+              "media_url_https": "https://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+              "url": "https://t.co/eQubaISatM",
+              "display_url": "pic.twitter.com/eQubaISatM",
+              "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 556,
+                  "h": 207,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 126,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 556,
+                  "h": 207,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 661405758173659100,
+              "id_str": "661405758173659137",
+              "indices": [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/CS3JCGRWwAE_U66.png",
+              "media_url_https": "https://pbs.twimg.com/media/CS3JCGRWwAE_U66.png",
+              "url": "https://t.co/eQubaISatM",
+              "display_url": "pic.twitter.com/eQubaISatM",
+              "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 329,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 635,
+                  "h": 615,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 581,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 661405755090800600,
+              "id_str": "661405755090800640",
+              "indices": [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/CS3JB6yWEAA4YeP.png",
+              "media_url_https": "https://pbs.twimg.com/media/CS3JB6yWEAA4YeP.png",
+              "url": "https://t.co/eQubaISatM",
+              "display_url": "pic.twitter.com/eQubaISatM",
+              "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 401,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 712,
+                  "h": 476,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XNrm1jnSKS",
+            "expanded_url": "https://jsunderhood.ru/",
+            "display_url": "jsunderhood.ru",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "url": "https://t.co/BCJT07Tc35",
+            "expanded_url": "https://jsunderhood.ru/RReverser/",
+            "display_url": "jsunderhood.ru/RReverser/",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 661405746312122400,
+            "id_str": "661405746312122368",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+            "media_url_https": "https://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+            "url": "https://t.co/eQubaISatM",
+            "display_url": "pic.twitter.com/eQubaISatM",
+            "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 556,
+                "h": 207,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 126,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 556,
+                "h": 207,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 661405759289229300,
+            "source_status_id_str": "661405759289229312",
+            "source_user_id": 98084311,
+            "source_user_id_str": "98084311"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 661405746312122400,
+            "id_str": "661405746312122368",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+            "media_url_https": "https://pbs.twimg.com/media/CS3JBaFWEAApS1s.png",
+            "url": "https://t.co/eQubaISatM",
+            "display_url": "pic.twitter.com/eQubaISatM",
+            "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 556,
+                "h": 207,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 126,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 556,
+                "h": 207,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 661405759289229300,
+            "source_status_id_str": "661405759289229312",
+            "source_user_id": 98084311,
+            "source_user_id_str": "98084311"
+          },
+          {
+            "id": 661405758173659100,
+            "id_str": "661405758173659137",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CS3JCGRWwAE_U66.png",
+            "media_url_https": "https://pbs.twimg.com/media/CS3JCGRWwAE_U66.png",
+            "url": "https://t.co/eQubaISatM",
+            "display_url": "pic.twitter.com/eQubaISatM",
+            "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 329,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 635,
+                "h": 615,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 581,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 661405759289229300,
+            "source_status_id_str": "661405759289229312",
+            "source_user_id": 98084311,
+            "source_user_id_str": "98084311"
+          },
+          {
+            "id": 661405755090800600,
+            "id_str": "661405755090800640",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CS3JB6yWEAA4YeP.png",
+            "media_url_https": "https://pbs.twimg.com/media/CS3JB6yWEAA4YeP.png",
+            "url": "https://t.co/eQubaISatM",
+            "display_url": "pic.twitter.com/eQubaISatM",
+            "expanded_url": "http://twitter.com/iamstarkov/status/661405759289229312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 401,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 712,
+                "h": 476,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 661405759289229300,
+            "source_status_id_str": "661405759289229312",
+            "source_user_id": 98084311,
+            "source_user_id_str": "98084311"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Nov 03 08:16:32 +0000 2015",
       "id": 661456914883223600,
       "id_str": "661456914883223552",
@@ -541,7 +2834,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2837,7 +5130,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 3,
+        "favorite_count": 4,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3055,8 +5348,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 4,
+      "retweet_count": 2,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3251,7 +5544,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 2,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -8314,7 +10607,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8479,7 +10772,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 6,
+      "favorite_count": 7,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8523,7 +10816,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 11,
+      "favorite_count": 13,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9904,7 +12197,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 5,
+        "favorite_count": 4,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -10739,7 +13032,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -11700,7 +13993,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13216,7 +15509,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13249,7 +15542,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13315,7 +15608,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
