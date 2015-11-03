@@ -5,6 +5,7 @@ import renderTweet from 'tweet.md';
 import getLinks from './get-links';
 import { html } from 'commonmark-helpers';
 import ungroupInto from './ungroup-into';
+import unidecode from 'unidecode';
 
 moment.locale('ru');
 
@@ -27,6 +28,7 @@ export default {
   prepareTweets,
   capitalize,
   tweetsUnit,
+  unidecode,
   render: pipe(renderTweet, html),
   tweetTime, tweetLink,
   getLinks,
