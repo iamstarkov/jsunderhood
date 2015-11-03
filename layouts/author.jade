@@ -31,6 +31,11 @@ block content
             each tweet in weekday.tweets
               .tweet
                 p!= helpers.render(tweet)
+                  if tweet.entities.media
+                    - var getImageHttps = function (item) { return item.media_url_https; };
+                    - var images = tweet.entities.media.map(getImageHttps);
+                    for image in images
+                      img.img-responsive(src=image)
                   a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
             
           h2 Ссылки
