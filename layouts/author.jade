@@ -21,16 +21,18 @@ block content
     .row
       .col-md-6.col-md-offset-3
         article
-          h1= author.username
-            = " "
-            small: small: a(href="https://twitter.com/" + author.username)
-              span.glyphicon.glyphicon-new-window
-          p
-            i= helpers.d(author.tweets[0].created_at)
-            if author.info.location
-              = ", "
-              span.glyphicon.glyphicon-map-marker
-              = " " + author.info.location
+          .title
+            div.img-circle.author-image(style="background-image: url(" + author.media.image.replace('./', '/') + ");")
+            h1= author.username
+              = " "
+              small: small: a(href="https://twitter.com/" + author.username)
+                span.glyphicon.glyphicon-new-window
+            p
+              i= helpers.d(author.tweets[0].created_at)
+              if author.info.location
+                = ", "
+                span.glyphicon.glyphicon-map-marker
+                = " " + author.info.location
           
           each weekday in helpers.prepareTweets(author.tweets)
             - var weekdayID = helpers.unidecode(weekday.weekday);
@@ -92,6 +94,7 @@ block content
             each link in group.links
               a.url(href=link)= link
 
+      .col-md-8.col-md-offset-2
           //- h2 Другие авторы
           hr
           - var prev = helpers.prevAuthor(author);
@@ -100,10 +103,16 @@ block content
             .row
               if prev
                 .col-xs-6.text-left
-                  ="← "
-                  a(href="/" + prev.username)= "@" + prev.username
+                  .h3.author-prev-next
+                    = "← "
+                    div.img-circle.author-image.author-image--small(style="background-image: url(" + prev.media.image.replace('./', '/') + ");")
+                    = " "
+                    a(href="/" + prev.username)= "@" + prev.username
               if next
                 .col-xs-6.text-right(class= !prev ? 'col-xs-offset-6' : '')
-                  a(href="/" + next.username)= "@" + next.username
-                  =" →"
+                  .h3.author-prev-next
+                    a(href="/" + next.username)= "@" + next.username
+                    = " "
+                    div.img-circle.author-image.author-image--small(style="background-image: url(" + next.media.image.replace('./', '/') + ");")
+                    =" →"
           hr

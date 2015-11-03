@@ -281,3 +281,25 @@ tr {
   padding-bottom: 0.5em;
   padding-top: 0.5em;
 }
+
+.author-image {
+  width: 64px;
+  height: 64px;
+  float: left;
+  margin: 0.5em 1em 0px auto;
+  background-size: cover;
+}
+
+.author-image--small {
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  float: none;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.author-prev-next {
+  margin-top: 0;
+  margin-bottom: 0;
+}
