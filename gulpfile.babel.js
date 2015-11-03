@@ -146,19 +146,14 @@ gulp.task('server', () => {
  */
 gulp.task('clean', done => rimraf('dist', done));
 
-gulp.task('build', [
-  'authors',
-  'index',
-  'rss',
-  'about',
-  'stats',
-  'static',
-  'userpics']);
+gulp.task('html', [ 'authors', 'index', 'rss', 'about']);
+gulp.task('build', [ 'html', 'stats', 'static', 'userpics']);
 
 gulp.task('default', done => sequence('clean', 'watch', done));
 
 gulp.task('watch', ['server', 'build'], () => {
-  watch(['**/*{jade,md,json}', 'static/**'], () => gulp.start('build'));
+  watch(['**/*.jade'], () => gulp.start('html'));
+  watch('static/**', () => gulp.start('static'));
 });
 
 gulp.task('deploy', ['build'], done =>
