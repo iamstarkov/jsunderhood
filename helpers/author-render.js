@@ -6,6 +6,17 @@ import getLinks from './get-links';
 import { html } from 'commonmark-helpers';
 import ungroupInto from './ungroup-into';
 import unidecode from 'unidecode';
+import trimTag from 'trim-html-tag';
+import { parse } from 'url';
+import R from 'ramda';
+
+const getQuotedUser = R.pipe(
+  R.path(['entities', 'urls']),
+  R.map(R.prop('expanded_url')),
+  R.map(R.replace('/mobile.twitter.com/', '/twitter.com/')),
+  R.filter(url => parse(url).host === 'twitter.com'),
+  R.head,
+  R.pipe(parse, R.prop('path'), R.split('/'), R.nth(1)));
 
 moment.locale('ru');
 
@@ -28,8 +39,9 @@ export default {
   prepareTweets,
   capitalize,
   tweetsUnit,
+  getQuotedUser,
   unidecode,
-  render: pipe(renderTweet, html),
+  render: pipe(renderTweet, html, trimTag),
   tweetTime, tweetLink,
   getLinks,
 };

@@ -271,3 +271,13 @@ tr {
 	overflow-x: hidden;
 	text-overflow: ellipsis;
 }
+
+.tweet blockquote {
+  font-size: inherit;
+}
+
+.tweet.tweet--is-quoted blockquote {
+  margin-bottom: 0.5em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+}

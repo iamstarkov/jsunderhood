@@ -35,14 +35,49 @@ block content
               small= " " + helpers.tweetsUnit(weekday.tweets.length)
 
             each tweet in weekday.tweets
-              .tweet
-                p!= helpers.render(tweet)
-                  if tweet.entities.media
-                    - var getImageHttps = function (item) { return item.media_url_https; };
-                    - var images = tweet.entities.media.map(getImageHttps);
-                    for image in images
-                      img.img-responsive(src=image)
-                  a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
+              - var isRetweet = !!tweet.retweeted_status;
+              - var isQuoted = !!tweet.quoted_status;
+              .tweet(class=isQuoted ? 'tweet--is-quoted' : '')
+                if isRetweet
+                  - var retweetedUser = tweet.entities.user_mentions[0].screen_name;
+                  blockquote
+                    != helpers.render(tweet.retweeted_status)
+                    if tweet.entities.media
+                      - var getImageHttps = function (item) { return item.media_url_https; };
+                      - var images = tweet.entities.media.map(getImageHttps);
+                      for image in images
+                        img.img-responsive(src=image)
+                    footer
+                      a(href="https://twitter.com/" + retweetedUser)
+                        = "@" + retweetedUser
+                else if isQuoted
+                  - var quotedUser = helpers.getQuotedUser(tweet);
+                  blockquote
+                    != helpers.render(tweet.quoted_status)
+                    if tweet.entities.media
+                      - var getImageHttps = function (item) { return item.media_url_https; };
+                      - var images = tweet.entities.media.map(getImageHttps);
+                      for image in images
+                        img.img-responsive(src=image)
+                    footer
+                      a(href="https://twitter.com/" + quotedUser)
+                        = "@" + quotedUser
+                  p
+                    != helpers.render(tweet)
+                    if tweet.entities.media
+                      - var getImageHttps = function (item) { return item.media_url_https; };
+                      - var images = tweet.entities.media.map(getImageHttps);
+                      for image in images
+                        img.img-responsive(src=image)
+                else
+                  p
+                    != helpers.render(tweet)
+                    if tweet.entities.media
+                      - var getImageHttps = function (item) { return item.media_url_https; };
+                      - var images = tweet.entities.media.map(getImageHttps);
+                      for image in images
+                        img.img-responsive(src=image)
+                a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
             
           h2 Ссылки
             each group in helpers.getLinks(author.tweets)
