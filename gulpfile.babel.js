@@ -18,7 +18,7 @@ import watch from 'gulp-watch';
 import { log } from 'gulp-util';
 import jimp from 'gulp-jimp';
 
-import articleData from './article-data';
+import articleData from 'article-data';
 import authors from './authors.js';
 import getStats from './stats.js';
 import { site } from './package.json';
