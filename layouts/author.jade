@@ -25,7 +25,12 @@ block content
             = " "
             small: small: a(href="https://twitter.com/" + author.username)
               span.glyphicon.glyphicon-new-window
-          p: i= helpers.d(author.tweets[0].created_at)
+          p
+            i= helpers.d(author.tweets[0].created_at)
+            if author.info.location
+              = ", "
+              span.glyphicon.glyphicon-map-marker
+              = " " + author.info.location
           
           each weekday in helpers.prepareTweets(author.tweets)
             - var weekdayID = helpers.unidecode(weekday.weekday);
