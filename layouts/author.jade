@@ -23,7 +23,7 @@ block content
         article
           h1= author.username
             = " "
-            small: a(href="https://twitter.com/" + author.username)
+            small: small: a(href="https://twitter.com/" + author.username)
               span.glyphicon.glyphicon-new-window
           p: i= helpers.d(author.tweets[0].created_at)
           
