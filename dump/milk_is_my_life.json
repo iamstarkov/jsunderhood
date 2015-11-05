@@ -1,6 +1,184 @@
 {
   "tweets": [
     {
+      "created_at": "Thu Nov 05 11:29:15 +0000 2015",
+      "id": 662230187841581000,
+      "id_str": "662230187841581060",
+      "text": "RT @kvervo: @rubyunderhood @jsunderhood @nick_jastix Rise of the Compilers - Brendan Eich https://t.co/Tp6cbKl36V, https://t.co/p3oNjO4dAm",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 05 08:44:46 +0000 2015",
+        "id": 662188796096684000,
+        "id_str": "662188796096684032",
+        "text": "@rubyunderhood @jsunderhood @nick_jastix Rise of the Compilers - Brendan Eich https://t.co/Tp6cbKl36V, https://t.co/p3oNjO4dAm",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661627864580808700,
+        "in_reply_to_status_id_str": "661627864580808704",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 26784634,
+          "id_str": "26784634"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                15,
+                27
+              ]
+            },
+            {
+              "screen_name": "nick_jastix",
+              "name": "Nikolay",
+              "id": 18577007,
+              "id_str": "18577007",
+              "indices": [
+                28,
+                40
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Tp6cbKl36V",
+              "expanded_url": "https://youtu.be/PlmsweSNhTw",
+              "display_url": "youtu.be/PlmsweSNhTw",
+              "indices": [
+                78,
+                101
+              ]
+            },
+            {
+              "url": "https://t.co/p3oNjO4dAm",
+              "expanded_url": "https://brendaneich.com/2015/06/from-asm-js-to-webassembly/",
+              "display_url": "brendaneich.com/2015/06/from-a…",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kvervo",
+            "name": "kvervo",
+            "id": 26784634,
+            "id_str": "26784634",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              27,
+              39
+            ]
+          },
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              40,
+              52
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Tp6cbKl36V",
+            "expanded_url": "https://youtu.be/PlmsweSNhTw",
+            "display_url": "youtu.be/PlmsweSNhTw",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/p3oNjO4dAm",
+            "expanded_url": "https://brendaneich.com/2015/06/from-asm-js-to-webassembly/",
+            "display_url": "brendaneich.com/2015/06/from-a…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
       "created_at": "Thu Nov 05 07:05:58 +0000 2015",
       "id": 662163933051150300,
       "id_str": "662163933051150336",
@@ -22400,7 +22578,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
