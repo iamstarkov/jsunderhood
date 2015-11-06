@@ -1,6 +1,581 @@
 {
   "tweets": [
     {
+      "created_at": "Thu Nov 05 15:47:39 +0000 2015",
+      "id": 662295218989977600,
+      "id_str": "662295218989977600",
+      "text": "RT @xgrommx: @jsunderhood https://t.co/KAhAsr4xQR",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 05 15:20:21 +0000 2015",
+        "id": 662288347889606700,
+        "id_str": "662288347889606660",
+        "text": "@jsunderhood https://t.co/KAhAsr4xQR",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 662287775367045100,
+        "in_reply_to_status_id_str": "662287775367045120",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 354807612,
+          "id_str": "354807612"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/KAhAsr4xQR",
+              "expanded_url": "https://github.com/esdoc/esdoc",
+              "display_url": "github.com/esdoc/esdoc",
+              "indices": [
+                13,
+                36
+              ]
+            }
+          ]
+        },
+        "favorited": true,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xgrommx",
+            "name": "Denis Stoyanov",
+            "id": 354807612,
+            "id_str": "354807612",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KAhAsr4xQR",
+            "expanded_url": "https://github.com/esdoc/esdoc",
+            "display_url": "github.com/esdoc/esdoc",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Nov 05 15:18:05 +0000 2015",
+      "id": 662287775367045100,
+      "id_str": "662287775367045120",
+      "text": "вроде как есть возможность использовать dev-версию jsdoc, кто-нибудь настраивал?",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662287668106129400,
+      "in_reply_to_status_id_str": "662287668106129408",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 15:17:39 +0000 2015",
+      "id": 662287668106129400,
+      "id_str": "662287668106129408",
+      "text": "кстати, у меня такой вопрос. документируете ли вы код, и какие средства для этого используете? любимый jsdoc, к сожалению, не понимает es6.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 15:16:15 +0000 2015",
+      "id": 662287315071606800,
+      "id_str": "662287315071606784",
+      "text": "RT @whois42: @jsunderhood мы в @htmlacademy_ru понемногу пишем на es6. Сплошное удовольствие.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 05 14:36:43 +0000 2015",
+        "id": 662277367411441700,
+        "id_str": "662277367411441664",
+        "text": "@jsunderhood мы в @htmlacademy_ru понемногу пишем на es6. Сплошное удовольствие.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 661913023456628700,
+        "in_reply_to_status_id_str": "661913023456628736",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 183660181,
+          "id_str": "183660181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "htmlacademy_ru",
+              "name": "HTML Academy",
+              "id": 773276947,
+              "id_str": "773276947",
+              "indices": [
+                18,
+                33
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": true,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "whois42",
+            "name": "Ivan Gunchenko",
+            "id": 183660181,
+            "id_str": "183660181",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "htmlacademy_ru",
+            "name": "HTML Academy",
+            "id": 773276947,
+            "id_str": "773276947",
+            "indices": [
+              31,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 13:41:35 +0000 2015",
+      "id": 662263490921500700,
+      "id_str": "662263490921500672",
+      "text": "возможно не все знают, но learn.javascript написан на nodejs и его код находится в open source. https://t.co/HirdYkmw2P",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HirdYkmw2P",
+            "expanded_url": "https://github.com/iliakan/javascript-nodejs",
+            "display_url": "github.com/iliakan/javasc…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Nov 05 13:40:08 +0000 2015",
+      "id": 662263129141854200,
+      "id_str": "662263129141854208",
+      "text": "@iamstarkov @ydkjs честно признаюсь - не читал. из последнего, что прочел - es6 in depth от мозиллы\nhttps://t.co/SOIuWkmqmT",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662260919179870200,
+      "in_reply_to_status_id_str": "662260919179870208",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "YDKJS",
+            "name": "You Don't Know JS",
+            "id": 2412232099,
+            "id_str": "2412232099",
+            "indices": [
+              12,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SOIuWkmqmT",
+            "expanded_url": "https://hacks.mozilla.org/category/es6-in-depth/",
+            "display_url": "hacks.mozilla.org/category/es6-i…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 13:37:30 +0000 2015",
+      "id": 662262464030076900,
+      "id_str": "662262464030076928",
+      "text": "RT @iamstarkov: @jsunderhood да. крутой продукт. что думаешь про @YDKJS ?",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 05 13:31:22 +0000 2015",
+        "id": 662260919179870200,
+        "id_str": "662260919179870208",
+        "text": "@jsunderhood да. крутой продукт. что думаешь про @YDKJS ?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 662259564402892800,
+        "in_reply_to_status_id_str": "662259564402892801",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 98084311,
+          "id_str": "98084311"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "YDKJS",
+              "name": "You Don't Know JS",
+              "id": 2412232099,
+              "id_str": "2412232099",
+              "indices": [
+                49,
+                55
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "YDKJS",
+            "name": "You Don't Know JS",
+            "id": 2412232099,
+            "id_str": "2412232099",
+            "indices": [
+              65,
+              71
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 13:25:58 +0000 2015",
+      "id": 662259564402892800,
+      "id_str": "662259564402892801",
+      "text": "интересна тема обучения.последнее время появилось невероятное кол-во курсов, учебников и пр.но лично для меня эталон https://t.co/14EBqgScmb",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/14EBqgScmb",
+            "expanded_url": "http://learn.javascript.ru",
+            "display_url": "learn.javascript.ru",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Nov 05 11:29:15 +0000 2015",
       "id": 662230187841581000,
       "id_str": "662230187841581060",
@@ -42,7 +617,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -594,7 +1169,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],

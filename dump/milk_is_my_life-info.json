@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2203,
+  "followers_count": 2206,
   "friends_count": 1,
   "listed_count": 110,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12922,
+  "statuses_count": 12930,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 05 11:29:15 +0000 2015",
-    "id": 662230187841581000,
-    "id_str": "662230187841581060",
-    "text": "RT @kvervo: @rubyunderhood @jsunderhood @nick_jastix Rise of the Compilers - Brendan Eich https://t.co/Tp6cbKl36V, https://t.co/p3oNjO4dAm",
+    "created_at": "Thu Nov 05 15:47:39 +0000 2015",
+    "id": 662295218989977600,
+    "id_str": "662295218989977600",
+    "text": "RT @xgrommx: @jsunderhood https://t.co/KAhAsr4xQR",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,83 +65,54 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Nov 05 08:44:46 +0000 2015",
-      "id": 662188796096684000,
-      "id_str": "662188796096684032",
-      "text": "@rubyunderhood @jsunderhood @nick_jastix Rise of the Compilers - Brendan Eich https://t.co/Tp6cbKl36V, https://t.co/p3oNjO4dAm",
+      "created_at": "Thu Nov 05 15:20:21 +0000 2015",
+      "id": 662288347889606700,
+      "id_str": "662288347889606660",
+      "text": "@jsunderhood https://t.co/KAhAsr4xQR",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 661627864580808700,
-      "in_reply_to_status_id_str": "661627864580808704",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
+      "in_reply_to_status_id": 662287775367045100,
+      "in_reply_to_status_id_str": "662287775367045120",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              0,
-              14
-            ]
-          },
           {
             "screen_name": "jsunderhood",
             "name": "Разработчик",
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              15,
-              27
-            ]
-          },
-          {
-            "screen_name": "nick_jastix",
-            "name": "Nikolay",
-            "id": 18577007,
-            "id_str": "18577007",
-            "indices": [
-              28,
-              40
+              0,
+              12
             ]
           }
         ],
         "urls": [
           {
-            "url": "https://t.co/Tp6cbKl36V",
-            "expanded_url": "https://youtu.be/PlmsweSNhTw",
-            "display_url": "youtu.be/PlmsweSNhTw",
+            "url": "https://t.co/KAhAsr4xQR",
+            "expanded_url": "https://github.com/esdoc/esdoc",
+            "display_url": "github.com/esdoc/esdoc",
             "indices": [
-              78,
-              101
-            ]
-          },
-          {
-            "url": "https://t.co/p3oNjO4dAm",
-            "expanded_url": "https://brendaneich.com/2015/06/from-asm-js-to-webassembly/",
-            "display_url": "brendaneich.com/2015/06/from-a…",
-            "indices": [
-              103,
-              126
+              13,
+              36
             ]
           }
         ]
       },
-      "favorited": false,
+      "favorited": true,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "en"
+      "lang": "und"
     },
     "retweet_count": 1,
     "favorite_count": 0,
@@ -150,23 +121,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "kvervo",
-          "name": "kvervo",
-          "id": 26784634,
-          "id_str": "26784634",
+          "screen_name": "xgrommx",
+          "name": "Denis Stoyanov",
+          "id": 354807612,
+          "id_str": "354807612",
           "indices": [
             3,
-            10
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            12,
-            26
+            11
           ]
         },
         {
@@ -175,46 +136,27 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            27,
-            39
-          ]
-        },
-        {
-          "screen_name": "nick_jastix",
-          "name": "Nikolay",
-          "id": 18577007,
-          "id_str": "18577007",
-          "indices": [
-            40,
-            52
+            13,
+            25
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/Tp6cbKl36V",
-          "expanded_url": "https://youtu.be/PlmsweSNhTw",
-          "display_url": "youtu.be/PlmsweSNhTw",
+          "url": "https://t.co/KAhAsr4xQR",
+          "expanded_url": "https://github.com/esdoc/esdoc",
+          "display_url": "github.com/esdoc/esdoc",
           "indices": [
-            90,
-            113
-          ]
-        },
-        {
-          "url": "https://t.co/p3oNjO4dAm",
-          "expanded_url": "https://brendaneich.com/2015/06/from-asm-js-to-webassembly/",
-          "display_url": "brendaneich.com/2015/06/from-a…",
-          "indices": [
-            115,
-            138
+            26,
+            49
           ]
         }
       ]
     },
-    "favorited": false,
+    "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
