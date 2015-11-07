@@ -8,7 +8,7 @@ meta(name="viewport" content="width=device-width")
 
 link(href=site.feed_url title=site.title rel="alternate" type="application/rss+xml")
 link(href="/css/bootstrap.min.css" rel="stylesheet")
-link(href="/css/styles.css" rel="stylesheet")
+link(href=helpers.bust("/css/styles.css") rel="stylesheet")
 
 meta(property="og:site_name" content=site.title)
 meta(property="article:author" content=site.site_url + "about/")
