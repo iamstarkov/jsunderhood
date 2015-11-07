@@ -11,7 +11,7 @@ import { pipe, prop, reverse, head, splitEvery } from 'ramda';
 import sequence from 'run-sequence';
 import renderTweet from 'tweet.md';
 
-import gulp from 'gulp';
+import gulp, { dest, src, start, task as gulpTask } from 'gulp';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
@@ -26,6 +26,8 @@ import { site } from './package.json';
 const latestInfo = head(authors).info;
 
 import authorRender from './helpers/author-render';
+
+const task = gulpTask.bind(gulp);
 
 const jadeDefaults = {
   pretty: true,
@@ -49,9 +51,9 @@ const render = pipe(renderTweet, html);
 /**
  * MAIN TASKS
  */
-gulp.task('index', () => {
+task('index', () => {
   const authorsToPost = authors.filter(author => author.post !== false);
-  return gulp.src('layouts/index.jade')
+  return src('layouts/index.jade')
     .pipe(jade({
       locals: {
         title: site.title,
@@ -61,11 +63,11 @@ gulp.task('index', () => {
       },
     }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist'));
+    .pipe(dest('dist'));
 });
 
-gulp.task('stats', () =>
-  gulp.src('layouts/stats.jade')
+task('stats', () =>
+  src('layouts/stats.jade')
     .pipe(jade({
       locals: {
         title: 'Статистика jsunderhood',
@@ -76,12 +78,12 @@ gulp.task('stats', () =>
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist')));
+    .pipe(dest('dist')));
 
-gulp.task('about', () => {
+task('about', () => {
   const readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
   const article = articleData(readme);
-  return gulp.src('layouts/article.jade')
+  return src('layouts/article.jade')
     .pipe(jade({
       locals: Object.assign({}, article, {
         title: 'О проекте',
@@ -90,10 +92,10 @@ gulp.task('about', () => {
     }))
     .pipe(rename({ dirname: 'about' }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist'));
+    .pipe(dest('dist'));
 });
 
-gulp.task('rss', done => {
+task('rss', done => {
   const feed = new RSS(site);
   const authorsToPost = authors.filter(author => author.post !== false);
   authorsToPost.forEach(author => {
@@ -107,34 +109,34 @@ gulp.task('rss', done => {
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
 
-gulp.task('authors', done => {
+task('authors', done => {
   const authorsToPost = authors.filter(author => author.post !== false);
   each(authorsToPost, author => {
-    return gulp.src('./layouts/author.jade')
+    return src('./layouts/author.jade')
       .pipe(jade({
         pretty: true,
         locals: { author, helpers: authorRender },
       }))
       .pipe(rename({ dirname: author.username }))
       .pipe(rename({ basename: 'index' }))
-      .pipe(gulp.dest('dist'));
+      .pipe(dest('dist'));
   }, done);
 });
 
-gulp.task('userpics', () =>
-  gulp.src('dump/images/*-image*')
+task('userpics', () =>
+  src('dump/images/*-image*')
     .pipe(jimp({ resize: { width: 96, height: 96 }}))
-    .pipe(gulp.dest('dist/images')));
+    .pipe(dest('dist/images')));
 
-gulp.task('static', () =>
-  gulp.src([
+task('static', () =>
+  src([
     'static/**',
     'node_modules/bootstrap/dist/**',
     'node_modules/tablesort/src/tablesort.js',
     'node_modules/tablesort/src/sorts/tablesort.numeric.js',
-  ]).pipe(gulp.dest('dist')));
+  ]).pipe(dest('dist')));
 
-gulp.task('server', () => {
+task('server', () => {
   const app = express();
   app.use(express.static('dist'));
   app.listen(4000);
@@ -144,17 +146,17 @@ gulp.task('server', () => {
 /**
  * FLOW
  */
-gulp.task('clean', done => rimraf('dist', done));
+task('clean', done => rimraf('dist', done));
 
-gulp.task('html', [ 'authors', 'index', 'rss', 'about']);
-gulp.task('build', [ 'html', 'stats', 'static', 'userpics']);
+task('html', [ 'authors', 'index', 'rss', 'about']);
+task('build', [ 'html', 'stats', 'static', 'userpics']);
 
-gulp.task('default', done => sequence('clean', 'watch', done));
+task('default', done => sequence('clean', 'watch', done));
 
-gulp.task('watch', ['server', 'build'], () => {
-  watch(['**/*.jade'], () => gulp.start('html'));
-  watch('static/**', () => gulp.start('static'));
+task('watch', ['server', 'build'], () => {
+  watch(['**/*.jade'], () => start('html'));
+  watch('static/**', () => start('static'));
 });
 
-gulp.task('deploy', ['build'], done =>
+task('deploy', ['build'], done =>
   buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
