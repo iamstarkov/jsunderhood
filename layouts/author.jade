@@ -25,18 +25,18 @@ block content
               small: small: a(href="https://twitter.com/" + author.username)
                 span.glyphicon.glyphicon-new-window
             p
-              i= helpers.d(author.tweets[0].created_at)
+              i= helpers.authorRender.d(author.tweets[0].created_at)
               if author.info.location
                 = ", "
                 span.glyphicon.glyphicon-map-marker
                 = " " + author.info.location
           
-          each weekday in helpers.prepareTweets(author.tweets)
-            - var weekdayID = helpers.unidecode(weekday.weekday);
+          each weekday in helpers.authorRender.prepareTweets(author.tweets)
+            - var weekdayID = helpers.authorRender.unidecode(weekday.weekday);
             h2(id=weekdayID)
               a(href="#" + weekdayID) #
-              = " " + helpers.capitalize(weekday.weekday)
-              small= " " + helpers.tweetsUnit(weekday.tweets.length)
+              = " " + helpers.authorRender.capitalize(weekday.weekday)
+              small= " " + helpers.authorRender.tweetsUnit(weekday.tweets.length)
 
             each tweet in weekday.tweets
               - var isRetweet = !!tweet.retweeted_status;
@@ -45,7 +45,7 @@ block content
                 if isRetweet
                   - var retweetedUser = tweet.entities.user_mentions[0].screen_name;
                   blockquote
-                    != helpers.render(tweet.retweeted_status)
+                    != helpers.authorRender.render(tweet.retweeted_status)
                     if tweet.entities.media
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
@@ -55,9 +55,9 @@ block content
                       a(href="https://twitter.com/" + retweetedUser)
                         = "@" + retweetedUser
                 else if isQuoted
-                  - var quotedUser = helpers.getQuotedUser(tweet);
+                  - var quotedUser = helpers.authorRender.getQuotedUser(tweet);
                   blockquote
-                    != helpers.render(tweet.quoted_status)
+                    != helpers.authorRender.render(tweet.quoted_status)
                     if tweet.entities.media
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
@@ -67,7 +67,7 @@ block content
                       a(href="https://twitter.com/" + quotedUser)
                         = "@" + quotedUser
                   p
-                    != helpers.render(tweet)
+                    != helpers.authorRender.render(tweet)
                     if tweet.entities.media
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
@@ -75,18 +75,18 @@ block content
                         img.img-responsive(src=image)
                 else
                   p
-                    != helpers.render(tweet)
+                    != helpers.authorRender.render(tweet)
                     if tweet.entities.media
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
                       for image in images
                         img.img-responsive(src=image)
-                a.tweet__time(href=helpers.tweetLink(tweet))= helpers.tweetTime(tweet)
+                a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet)
             
           h2(id="links")
             a(href="#links") #
             = " Ссылки"
-          each group in helpers.getLinks(author.tweets)
+          each group in helpers.authorRender.getLinks(author.tweets)
             h3= group.host
             ul.list--links
               each link in group.links
@@ -95,8 +95,8 @@ block content
       .col-md-8.col-md-offset-2
           //- h2 Другие авторы
           hr
-          - var prev = helpers.prevAuthor(author);
-          - var next = helpers.nextAuthor(author);
+          - var prev = helpers.authorRender.prevAuthor(author);
+          - var next = helpers.authorRender.nextAuthor(author);
           .container-fluid
             .row
               if prev

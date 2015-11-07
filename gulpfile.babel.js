@@ -123,7 +123,7 @@ task('authors', done => {
         locals: {
           title: `Неделя @${author.username} в @${site.title}`,
           author,
-          helpers: authorRender,
+          helpers: { authorRender },
         },
       }))
       .pipe(rename({ dirname: author.username }))
