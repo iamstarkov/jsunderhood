@@ -41,6 +41,7 @@
   "homepage": "https://github.com/iamstarkov/jsunderhood#readme",
   "dependencies": {
     "article-data": "^0.3.1",
+    "autoprefixer": "^6.1.0",
     "babel": "^5.8.29",
     "bootstrap": "^3.3.4",
     "buildbranch": "0.0.3",
@@ -56,6 +57,7 @@
     "gulp": "^3.9.0",
     "gulp-jade": "^1.0.1",
     "gulp-jimp": "^0.1.0",
+    "gulp-postcss": "^6.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.5",
     "gulp-watch": "^4.2.4",

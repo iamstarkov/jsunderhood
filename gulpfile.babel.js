@@ -10,13 +10,15 @@ import RSS from 'rss';
 import { pipe, prop, reverse, head, splitEvery } from 'ramda';
 import sequence from 'run-sequence';
 import renderTweet from 'tweet.md';
+import autoprefixer from 'autoprefixer';
 
-import gulp, { dest, src, start, task as gulpTask } from 'gulp';
+import gulp, { dest, src, start as _start, task as _task } from 'gulp';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
 import { log } from 'gulp-util';
 import jimp from 'gulp-jimp';
+import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
 import authors from './authors.js';
@@ -27,7 +29,8 @@ const latestInfo = head(authors).info;
 
 import authorRender from './helpers/author-render';
 
-const task = gulpTask.bind(gulp);
+const start = _start.bind(gulp);
+const task = _task.bind(gulp);
 
 const jadeDefaults = {
   pretty: true,
@@ -127,6 +130,13 @@ task('userpics', () =>
   src('dump/images/*-image*')
     .pipe(jimp({ resize: { width: 96, height: 96 }}))
     .pipe(dest('dist/images')));
+
+task('css', () =>
+  src('css/styles.css')
+    .pipe(postcss([
+      autoprefixer,
+    ]))
+    .pipe(dest('dist/css')));
 
 task('static', () =>
   src([
