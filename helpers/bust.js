@@ -1,10 +1,8 @@
-import { join } from 'path';
-import { fromFileSync as getHash } from 'hasha';
+import { join as _join } from 'path';
+import { fromFileSync as _hash } from 'hasha';
 import { memoize } from 'ramda';
 
-function bust(url) {
-  const hash = getHash(join(process.cwd(), 'dist', url), { algorithm: 'md5' });
-  return `${url}?${hash}`;
-}
+const join = _join.bind(null, process.cwd(), 'dist');
+const hash = filepath => _hash(filepath, { algorithm: 'md5' });
 
-export default memoize(bust);
+export default memoize(url => `${url}?${hash(join(url))}`);
