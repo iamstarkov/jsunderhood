@@ -1,3 +1,13 @@
+.jumbotron {
+  margin-bottom: initial;
+  background: transparent;
+}
+
+.page-header {
+  margin: initial;
+  border-bottom: initial;
+}
+
 th { cursor: pointer; color: rgb(51,122,183); }
 th span {  border-bottom: 1px dotted rgb(119,179,218); }
 th.no-sort { cursor: default; }
@@ -301,3 +311,5 @@ tr {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+@import "ilyabirman-likely/release/likely.css";
