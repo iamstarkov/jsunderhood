@@ -61,7 +61,7 @@ task('index', () => {
   return src('layouts/index.jade')
     .pipe(jade({
       locals: {
-        title: site.title,
+        title: `Сайт @${site.title}`,
         desc: site.description,
         authors: splitEvery(3, authorsToPost),
         helpers: { firstTweet, render },
@@ -75,7 +75,7 @@ task('stats', () =>
   src('layouts/stats.jade')
     .pipe(jade({
       locals: {
-        title: 'Статистика jsunderhood',
+        title: `Статистика @${site.title}`,
         url: 'stats/',
         desc: site.description,
         stats: getStats(authors),
@@ -120,7 +120,11 @@ task('authors', done => {
     return src('./layouts/author.jade')
       .pipe(jade({
         pretty: true,
-        locals: { author, helpers: authorRender },
+        locals: {
+          title: `Неделя @${author.username} в @${site.title}`,
+          author,
+          helpers: authorRender,
+        },
       }))
       .pipe(rename({ dirname: author.username }))
       .pipe(rename({ basename: 'index' }))

@@ -1,16 +1,11 @@
 extend page
 
-
-block title
-  - var title = "Статистика";
-  title #{title} • #{site.title}
-
 block meta
   meta(property="description" content=site.description)
 
   meta(name="og:url"         content=site.site_url + 'stats/')
   meta(name="og:image"       content="https://i.imgur.com/GpzEJQ7.jpg?1")
-  meta(name="og:title"       content="#{title} • #{site.title}")
+  meta(name="og:title"       content=title)
   meta(name="og:description" content=site.description)
 
 block headerTitle

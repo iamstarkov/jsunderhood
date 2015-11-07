@@ -1,8 +1,5 @@
 extend page
 
-block title
-  title #{author.username} • #{site.title}
-
 block meta
   meta(property="description" content=author.username)
   meta(name="og:url"         content=site.site_url + author.username + "/")
