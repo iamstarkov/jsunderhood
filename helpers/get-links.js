@@ -1,5 +1,5 @@
 import tweetLinks from 'tweet-links';
-import { zipObj, values, sortBy, prop, head, apply, objOf, toPairs, pipe,
+import { values, sortBy, prop, head, apply, objOf, toPairs, pipe,
   length, mapObjIndexed, groupBy, map, filter, flatten, uniq } from 'ramda';
 import { parse, format } from 'url';
 import ungroupInto from './ungroup-into';
@@ -23,7 +23,7 @@ const groupByHost = pipe(
   map(pipe(values, flatten)));
 
 const moveMinorsToOther = pipe(
-  groupBy( i => length(i) < 5 ? 'other' : parse(head(i)).host ),
+  groupBy(item => length(item) < 5 ? 'other' : parse(head(item)).host),
   mapObjIndexed(flatten));
 
 const moveOtherToEnd = sortBy(group => group.host === 'other');
