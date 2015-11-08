@@ -1,5 +1,6 @@
 .jumbotron {
   margin-bottom: initial;
+  padding-bottom: initial;
   background: transparent;
 }
 
@@ -310,6 +311,71 @@ tr {
 .author-prev-next {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+.now-playing-wrapper {
+  position: relative;
+  margin-bottom: 40px;
+  padding: 48px;
+  display: block;
+  background-image: url(/images/current-banner);
+  background-size: cover;
+  overflow: hidden;
+  border-radius: .5em;
+}
+
+.now-playing-wrapper:before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 0;
+  display: block;
+  background-color: rgba(0,0,0,.75);
+  transition: .3s background-color;
+  content: '';
+}
+
+.now-playing-wrapper:hover {
+  text-decoration: none;
+}
+
+.now-playing-wrapper:hover:before {
+  background-color: rgba(0,0,0,.5);
+}
+
+.now-playing {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255,255,255);
+  text-shadow: 0 4px 12px 3px rgba(0,0,0,.85);
+}
+
+.now-playing__userpic {
+  position: relative;
+  display: inline-block;
+  margin-right: 24px;
+  width: 96px;
+  height: 96px;
+  background-image: url(/images/current-image);
+  background-size: cover;
+  border-radius: 100%;
+  vertical-align: middle;
+}
+
+.now-playing__info {
+  display: inline-block;
+  font-size: 21px;
+  vertical-align: middle;
+}
+
+.now-playing__username {
+  font-size: 30px;
+  font-weight: 500;
 }
 
 @import "ilyabirman-likely/release/likely.css";
