@@ -30,6 +30,7 @@ import { site } from './package.json';
 const latestInfo = head(authors).info;
 
 import authorRender from './helpers/author-render';
+import bust from './helpers/bust';
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
@@ -56,7 +57,7 @@ const render = pipe(renderTweet, html);
 /**
  * MAIN TASKS
  */
-task('index', () => {
+task('index', ['css'], () => {
   const authorsToPost = authors.filter(author => author.post !== false);
   return src('layouts/index.jade')
     .pipe(jade({
@@ -64,14 +65,14 @@ task('index', () => {
         title: `Сайт @${site.title}`,
         desc: site.description,
         authors: splitEvery(3, authorsToPost),
-        helpers: { firstTweet, render },
+        helpers: { bust, firstTweet, render },
       },
     }))
     .pipe(rename({ basename: 'index' }))
     .pipe(dest('dist'));
 });
 
-task('stats', () =>
+task('stats', ['css'], () =>
   src('layouts/stats.jade')
     .pipe(jade({
       locals: {
@@ -79,13 +80,14 @@ task('stats', () =>
         url: 'stats/',
         desc: site.description,
         stats: getStats(authors),
+        helpers: { bust },
       },
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
     .pipe(dest('dist')));
 
-task('about', () => {
+task('about', ['css'], () => {
   const readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
   const article = articleData(readme);
   return src('layouts/article.jade')
@@ -93,6 +95,7 @@ task('about', () => {
       locals: Object.assign({}, article, {
         title: 'О проекте',
         url: 'about/',
+        helpers: { bust },
       }),
     }))
     .pipe(rename({ dirname: 'about' }))
@@ -114,7 +117,7 @@ task('rss', done => {
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
 
-task('authors', done => {
+task('authors', ['css'], done => {
   const authorsToPost = authors.filter(author => author.post !== false);
   each(authorsToPost, author => {
     return src('./layouts/author.jade')
@@ -123,7 +126,7 @@ task('authors', done => {
         locals: {
           title: `Неделя @${author.username} в @${site.title}`,
           author,
-          helpers: authorRender,
+          helpers: { authorRender, bust },
         },
       }))
       .pipe(rename({ dirname: author.username }))
