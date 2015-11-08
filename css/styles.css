@@ -317,3 +317,22 @@ tr {
 .likely-big {
   min-height: 44px;
 }
+
+.site-title {
+  position: relative;
+}
+
+.site-title:before {
+  position: absolute;
+  right: 100%;
+  top: -.25em;
+  font-size: 2em;
+  opacity: .2;
+  content: '@';
+}
+
+.btn-menu {
+  margin-right: 1.2em;
+  padding: 3px 1.2em;
+  vertical-align: baseline;
+}
