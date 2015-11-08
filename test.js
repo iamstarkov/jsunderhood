@@ -16,9 +16,9 @@ describe('index page', () => {
     const realAuthors = authors.filter(a => a.post !== false);
     assert(pageAuthors.length == realAuthors.length);
   });
-  it('not emty sub-heading', () => {
+  it('don’t have subheading', () => {
     const $ = make$('dist/index.html');
-    assert($('.page-header h1 small').text().length > 3);
+    assert($('.page-header h1 small').length === 0);
   });
   it('followers count exists', () => {
     const $ = make$('dist/index.html');
