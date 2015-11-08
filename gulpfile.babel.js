@@ -1,6 +1,7 @@
 import buildbranch from 'buildbranch';
 import rimraf from 'rimraf';
 import each from 'each-done';
+import debug from 'gulp-debug';
 import express from 'express';
 import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
@@ -152,6 +153,7 @@ task('css', () =>
 task('static', () =>
   src([
     'static/**',
+    'static/.**',
     'node_modules/bootstrap/dist/**',
     'node_modules/ilyabirman-likely/release/likely.js',
     'node_modules/tablesort/src/tablesort.js',
