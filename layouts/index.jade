@@ -12,6 +12,14 @@ block headerTitle
 
 block content
   article.container
+    a.now-playing-wrapper(href="https://twitter.com/" + site.title)
+      .now-playing
+        .now-playing__userpic
+        .now-playing__info.text-left
+          .small На этой неделе твиттер ведёт:<br/>
+          .now-playing__username= "@" + currentAuthor.username
+
+  article.container
     each row in authors
       .row(style="margin-bottom: 1em")
         each author in row
