@@ -17,5 +17,3 @@ git push origin master &>/dev/null
 
 echo "build'n'deploy"
 npm run deploy
-
-return 0
