@@ -32,6 +32,7 @@ const latestInfo = head(authors).info;
 
 import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
+import lastUpdated from './helpers/last-updated';
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
@@ -81,6 +82,7 @@ task('stats', ['css'], () =>
         title: `Статистика @${site.title}`,
         url: 'stats/',
         desc: site.description,
+        lastUpdated,
         stats: getStats(authors),
         helpers: { bust },
       },
@@ -170,6 +172,8 @@ task('static', () =>
     'static/.**',
     'node_modules/bootstrap/dist/**',
     'node_modules/ilyabirman-likely/release/likely.js',
+    'node_modules/moment/moment.js',
+    'node_modules/moment/locale/ru.js',
     'node_modules/tablesort/src/tablesort.js',
     'node_modules/tablesort/src/sorts/tablesort.numeric.js',
   ]).pipe(dest('dist')));
@@ -186,7 +190,7 @@ task('server', () => {
  */
 task('clean', done => rimraf('dist', done));
 
-task('html', [ 'authors', 'index', 'rss', 'about']);
+task('html', ['stats', 'authors', 'index', 'rss', 'about']);
 task('build', [ 'html', 'css', 'stats', 'static', 'userpics', 'current-media']);
 
 task('default', done => sequence('clean', 'watch', done));
