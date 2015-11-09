@@ -82,7 +82,7 @@ task('stats', ['css'], () =>
         title: `Статистика @${site.title}`,
         url: 'stats/',
         desc: site.description,
-        lastUpdated: lastUpdated(),
+        lastUpdated: lastUpdated(authors),
         stats: getStats(authors),
         helpers: { bust },
       },
