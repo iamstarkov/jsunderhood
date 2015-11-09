@@ -1,8 +1,14 @@
-import { head, pipe, prop } from 'ramda';
-import moment from 'moment';
+import { readFileSync } from 'fs';
+import { unix } from 'moment';
 
-const getDate = pipe(head, prop('tweets'), head, prop('created_at'));
+const cwd = process.cwd();
+const timestamp = parseInt(readFileSync(`${cwd}/dump/.timestamp`, `utf8`), 10);
+const date = unix(timestamp);
 
-export default function lastUpdated(authors) {
-  return moment(getDate(authors)).locale('ru').format('D MMMM в H:mm');
+function lastUpdated() {
+  return date.locale('ru').format('D MMMM в H:mm');
 }
+
+lastUpdated.raw = timestamp;
+
+export default lastUpdated;
