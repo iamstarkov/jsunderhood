@@ -32,6 +32,7 @@ const latestInfo = head(authors).info;
 
 import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
+import lastUpdated from './helpers/last-updated';
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
@@ -81,6 +82,7 @@ task('stats', ['css'], () =>
         title: `Статистика @${site.title}`,
         url: 'stats/',
         desc: site.description,
+        lastUpdated: lastUpdated(),
         stats: getStats(authors),
         helpers: { bust },
       },

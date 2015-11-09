@@ -86,6 +86,11 @@ block content
                 span.cell(class={ 'cell--best': author.maxFavoritedAverage }): span.cell__content
                   = author.favorited.average
 
+    hr
+    .row
+      .col-md-12
+        p.text-muted= "Последнее обновление: " + lastUpdated
+
   script(src="/tablesort.js")
   script(src="/tablesort.numeric.js")
   script
