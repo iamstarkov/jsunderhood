@@ -1,7 +1,8 @@
 import tokens from 'twitter-tokens';
 import authors from './authors';
 import log from './helpers/log';
-import { outputJSON } from 'fs-extra';
+import moment from 'moment';
+import { outputFile, outputJSON } from 'fs-extra';
 import { dissoc, map, head, prop } from 'ramda';
 
 import saveMedia from './helpers/save-media';
@@ -42,3 +43,5 @@ getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
     log(`${saveErr ? '✗' : '✓'} ${username}’s followers`);
   });
 });
+
+outputFile('./dump/.timestamp', moment().unix(), () => {});
