@@ -3,6 +3,6 @@ node_js:
   - v5
 deploy:
   provider: script
-  script: deploy.sh
+  script: ./deploy.sh
   on:
     branch: master
