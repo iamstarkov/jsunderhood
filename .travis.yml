@@ -1,8 +1,8 @@
-branches:
-  only:
-    - master
 language: node_js
 node_js:
   - v5
-after_success:
-  - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run deploy:ci || false'
+deploy:
+  provider: script
+  script: deploy.sh
+  on:
+    branch: master
