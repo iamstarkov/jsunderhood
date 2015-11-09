@@ -18,8 +18,13 @@ block content
   .container
     .row
       .col-md-12
-        table.host-stats
+        p.text-right.text-muted
+          = "Последнее обновление: "
+          span.js-last-updated(data-timestamp=lastUpdated.raw)= lastUpdated()
 
+    .row
+      .col-md-12
+        table.host-stats
           thead.host-stats__head
             tr.host-stats__row.host-stats__row_head
               th.host-stats__col.host-stats__col_left: span.sortable Автор
@@ -87,11 +92,13 @@ block content
                   = author.favorited.average
 
     hr
-    .row
-      .col-md-12
-        p.text-muted= "Последнее обновление: " + lastUpdated
 
   script(src="/tablesort.js")
   script(src="/tablesort.numeric.js")
-  script
-    | new Tablesort(document.querySelector('.host-stats'), { descending: true });
+  script(src="/moment.js")
+  script(src="/ru.js")
+  script.
+    new Tablesort(document.querySelector('.host-stats'), { descending: true });
+    var updateTime = document.querySelector('.js-last-updated');
+    var timestamp = updateTime.getAttribute('data-timestamp');
+    updateTime.textContent = moment.unix(timestamp).locale('ru').fromNow();
