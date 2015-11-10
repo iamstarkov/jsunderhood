@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "set git environment"
-git config --global user.email "iamstarkov+tachikombie@gmail.com"
-git config --global user.name "Tachikoma Zombie"
+git config user.email "iamstarkov+tachikombie@gmail.com"
+git config user.name "Tachikoma Zombie"
 git remote rm origin
 git remote add origin https://tachikombie:${GITHUB_TOKEN}@github.com/iamstarkov/jsunderhood.git
 git checkout master
