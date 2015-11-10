@@ -12,7 +12,7 @@ babel-node update
 
 echo "save dump"
 git add dump
-git commit -m 'save dump \n [ci skip]'
+git commit -m $'save dump\n\n[ci skip]'
 git push origin master &>/dev/null
 
 echo "build'n'deploy"
