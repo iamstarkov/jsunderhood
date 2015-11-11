@@ -28,6 +28,7 @@ loaders.push({
 // plugins
 plugins.push(new webpack.optimize.OccurenceOrderPlugin());
 plugins.push(new webpack.optimize.DedupePlugin());
+plugins.push(new webpack.ContextReplacementPlugin(/moment\/locale$/, /ru/));
 if (!DEBUG) {
   plugins.push(new webpack.optimize.UglifyJsPlugin({
     compress: { warnings: false },
