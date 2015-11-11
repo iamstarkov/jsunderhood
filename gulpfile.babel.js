@@ -3,7 +3,6 @@ import rimraf from 'rimraf';
 import each from 'each-done';
 import debug from 'gulp-debug';
 import express from 'express';
-import compression from 'compression';
 import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
 import numbers from 'typographic-numbers';
