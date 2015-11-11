@@ -14,12 +14,13 @@ import renderTweet from 'tweet.md';
 import autoprefixer from 'autoprefixer';
 import pcssImport from 'postcss-import';
 import pcssInitial from 'postcss-initial';
+import webpack from 'webpack';
 
 import gulp, { dest, src, start as _start, task as _task } from 'gulp';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
-import { log } from 'gulp-util';
+import { log, PluginError } from 'gulp-util';
 import jimp from 'gulp-jimp';
 import postcss from 'gulp-postcss';
 
@@ -27,6 +28,7 @@ import articleData from 'article-data';
 import authors from './authors.js';
 import getStats from './stats.js';
 import { site } from './package.json';
+import webpackConfig from './webpack.config.babel.js';
 
 const latestInfo = head(authors).info;
 
@@ -166,16 +168,19 @@ task('css', () =>
     ]))
     .pipe(dest('dist/css')));
 
+task('js', done => {
+  webpack(webpackConfig, (err, stats) => {
+    if (err) throw new PluginError('webpack', err);
+    log('[webpack]', stats.toString());
+    done();
+  });
+});
+
 task('static', () =>
   src([
     'static/**',
     'static/.**',
     'node_modules/bootstrap/dist/**',
-    'node_modules/ilyabirman-likely/release/likely.js',
-    'node_modules/moment/moment.js',
-    'node_modules/moment/locale/ru.js',
-    'node_modules/tablesort/src/tablesort.js',
-    'node_modules/tablesort/src/sorts/tablesort.numeric.js',
   ]).pipe(dest('dist')));
 
 task('server', () => {
@@ -191,13 +196,14 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['stats', 'authors', 'index', 'rss', 'about']);
-task('build', [ 'html', 'css', 'stats', 'static', 'userpics', 'current-media']);
+task('build', [ 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media']);
 
 task('default', done => sequence('clean', 'watch', done));
 
 task('watch', ['server', 'build'], () => {
   watch(['**/*.jade'], () => start('html'));
   watch(['css/**/*.css'], () => start('css'));
+  watch('js/**/*.js', () => start('js'));
   watch('static/**', () => start('static'));
 });
 
