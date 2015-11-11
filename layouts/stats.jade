@@ -15,7 +15,7 @@ block headerTitle
 block content
   - var tweetsCountsArr = stats.map(function(author) { return author.tweets; });
   - var maxTweets = Math.max.apply(Math, tweetsCountsArr);
-  .container
+  .container.js-stats
     .row
       .col-md-12
         p.text-right.text-muted
@@ -92,13 +92,3 @@ block content
                   = author.favorited.average
 
     hr
-
-  script(src="/tablesort.js")
-  script(src="/tablesort.numeric.js")
-  script(src="/moment.js")
-  script(src="/ru.js")
-  script.
-    new Tablesort(document.querySelector('.host-stats'), { descending: true });
-    var updateTime = document.querySelector('.js-last-updated');
-    var timestamp = updateTime.getAttribute('data-timestamp');
-    updateTime.textContent = moment.unix(timestamp).locale('ru').fromNow();

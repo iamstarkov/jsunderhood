@@ -197,13 +197,14 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['stats', 'authors', 'index', 'rss', 'about']);
-task('build', [ 'html', 'css', 'stats', 'static', 'userpics', 'current-media']);
+task('build', [ 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media']);
 
 task('default', done => sequence('clean', 'watch', done));
 
 task('watch', ['server', 'build'], () => {
   watch(['**/*.jade'], () => start('html'));
   watch(['css/**/*.css'], () => start('css'));
+  watch('js/**/*.js', () => start('js'));
   watch('static/**', () => start('static'));
 });
 
