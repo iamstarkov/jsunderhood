@@ -3,6 +3,7 @@ import rimraf from 'rimraf';
 import each from 'each-done';
 import debug from 'gulp-debug';
 import express from 'express';
+import compression from 'compression';
 import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
 import numbers from 'typographic-numbers';
@@ -14,12 +15,13 @@ import renderTweet from 'tweet.md';
 import autoprefixer from 'autoprefixer';
 import pcssImport from 'postcss-import';
 import pcssInitial from 'postcss-initial';
+import webpack from 'webpack';
 
 import gulp, { dest, src, start as _start, task as _task } from 'gulp';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
-import { log } from 'gulp-util';
+import { log, PluginError } from 'gulp-util';
 import jimp from 'gulp-jimp';
 import postcss from 'gulp-postcss';
 
@@ -27,6 +29,7 @@ import articleData from 'article-data';
 import authors from './authors.js';
 import getStats from './stats.js';
 import { site } from './package.json';
+import webpackConfig from './webpack.config.babel.js';
 
 const latestInfo = head(authors).info;
 
@@ -166,16 +169,19 @@ task('css', () =>
     ]))
     .pipe(dest('dist/css')));
 
+task('js', done => {
+  webpack(webpackConfig, (err, stats) => {
+    if (err) throw new PluginError('webpack', err);
+    log('[webpack]', stats.toString());
+    done();
+  });
+});
+
 task('static', () =>
   src([
     'static/**',
     'static/.**',
     'node_modules/bootstrap/dist/**',
-    'node_modules/ilyabirman-likely/release/likely.js',
-    'node_modules/moment/moment.js',
-    'node_modules/moment/locale/ru.js',
-    'node_modules/tablesort/src/tablesort.js',
-    'node_modules/tablesort/src/sorts/tablesort.numeric.js',
   ]).pipe(dest('dist')));
 
 task('server', () => {
