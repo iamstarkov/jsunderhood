@@ -1,4 +1,6 @@
-import 'ilyabirman-likely';
+import { initate as likely } from 'ilyabirman-likely';
+
+likely();
 
 const d = document; // eslint-disable-line id-length
 const $ = d.querySelector.bind(d); // eslint-disable-line id-length
