@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2233,
+  "followers_count": 2231,
   "friends_count": 1,
   "listed_count": 116,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,34 +46,136 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13426,
+  "statuses_count": 13448,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 10 20:43:20 +0000 2015",
-    "id": 664181568500604900,
-    "id_str": "664181568500604928",
-    "text": "Ах да, меня же никто не читает на этой неделе...",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Tue Nov 10 23:51:39 +0000 2015",
+    "id": 664228959266152400,
+    "id_str": "664228959266152449",
+    "text": "RT @DenisIzmaylov: @Semenov @stay_positive @jsunderhood Я там целый час рассказывал про изоморфные приложения и их масштабирование. Скоро с…",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": 664181469238005800,
-    "in_reply_to_status_id_str": "664181469238005760",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
-    "retweet_count": 0,
+    "contributors": [
+      170772902
+    ],
+    "retweeted_status": {
+      "created_at": "Tue Nov 10 22:45:42 +0000 2015",
+      "id": 664212364296867800,
+      "id_str": "664212364296867840",
+      "text": "@Semenov @stay_positive @jsunderhood Я там целый час рассказывал про изоморфные приложения и их масштабирование. Скоро слайды опубликую.",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 664212084306124800,
+      "in_reply_to_status_id_str": "664212084306124800",
+      "in_reply_to_user_id": 5249341,
+      "in_reply_to_user_id_str": "5249341",
+      "in_reply_to_screen_name": "Semenov",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Рептилоид со стажем",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "stay_positive",
+            "name": "Dmitry Sorin",
+            "id": 17783501,
+            "id_str": "17783501",
+            "indices": [
+              9,
+              23
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              24,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "DenisIzmaylov",
+          "name": "Денис Измайлов",
+          "id": 219444750,
+          "id_str": "219444750",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "Semenov",
+          "name": "Рептилоид со стажем",
+          "id": 5249341,
+          "id_str": "5249341",
+          "indices": [
+            19,
+            27
+          ]
+        },
+        {
+          "screen_name": "stay_positive",
+          "name": "Dmitry Sorin",
+          "id": 17783501,
+          "id_str": "17783501",
+          "indices": [
+            28,
+            42
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            43,
+            55
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
