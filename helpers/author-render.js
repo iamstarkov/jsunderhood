@@ -10,7 +10,9 @@ import ungroupInto from './ungroup-into';
 import unidecode from 'unidecode';
 import trimTag from 'trim-html-tag';
 import { parse } from 'url';
-import authors from '../authors';
+import populateAuthors from '../authors';
+
+const authors = populateAuthors();
 
 const getQuotedUser = pipe(
   path(['entities', 'urls']),
