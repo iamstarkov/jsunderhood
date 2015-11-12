@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2234,
+  "followers_count": 2239,
   "friends_count": 1,
   "listed_count": 116,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13546,
+  "statuses_count": 13555,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 12 14:11:09 +0000 2015",
-    "id": 664807646042697700,
-    "id_str": "664807646042697729",
-    "text": "Вот она - жизнь стартапов.\nСтроили стол, оказался шкафом... https://t.co/EBMwHAUYeZ",
+    "created_at": "Thu Nov 12 15:48:33 +0000 2015",
+    "id": 664832157697876000,
+    "id_str": "664832157697875968",
+    "text": "@naorunaoru нет, потому что бекендщик не умеет делать фронты.\nТы станешь личинкой Full Stack!\nОх этот новый дивный мир!",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 664831978450100200,
+    "in_reply_to_status_id_str": "664831978450100224",
+    "in_reply_to_user_id": 153056391,
+    "in_reply_to_user_id_str": "153056391",
+    "in_reply_to_screen_name": "naorunaoru",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -71,22 +71,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/EBMwHAUYeZ",
-          "expanded_url": "https://twitter.com/cssunderhood/status/664805506494693376",
-          "display_url": "twitter.com/cssunderhood/s…",
+          "screen_name": "naorunaoru",
+          "name": "рома",
+          "id": 153056391,
+          "id_str": "153056391",
           "indices": [
-            60,
-            83
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
