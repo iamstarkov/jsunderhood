@@ -95,7 +95,7 @@ task('stats', ['css'], () =>
 
 task('about', ['css'], () => {
   const readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
-  const article = articleData(readme);
+  const article = articleData(readme, '', 'ru');
   return src('layouts/article.jade')
     .pipe(jade({
       locals: Object.assign({}, article, {
