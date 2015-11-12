@@ -42,19 +42,20 @@ export default [
   { username: 'filipovskii',     start: '09 Feb 2015', first: '564697062378594304' },
   { username: 'shuvalov_anton',  start: '03 Feb 2015', first: '562516792753811456' },
 ].map(author => {
-  const info = `./dump/${author.username}-info.json`;
-  const tweets = `./dump/${author.username}.json`;
-  const media = `./dump/${author.username}-media.json`;
-
-  const throws = false;
+  const info     = `./dump/${author.username}-info.json`;
+  const tweets   = `./dump/${author.username}.json`;
+  const media    = `./dump/${author.username}-media.json`;
+  const mentions = `./dump/${author.username}-mentions.json`;
 
   fs.ensureFileSync(info);
   fs.ensureFileSync(tweets);
   fs.ensureFileSync(media);
+  fs.ensureFileSync(mentions);
 
-  author.info   = fs.readJsonSync(info, { throws }) || {};
-  author.tweets = (fs.readJsonSync(tweets, { throws }) || {}).tweets || [];
-  author.media = fs.readJsonSync(media, { throws }) || {};
+  author.info     = fs.readJsonSync(info, { throws: false }) || {};
+  author.tweets   = (fs.readJsonSync(tweets, { throws: false }) || {}).tweets || [];
+  author.media    = fs.readJsonSync(media, { throws: false }) || {};
+  author.mentions = (fs.readJsonSync(mentions, { throws: false }) || {}).mentions || [];
 
   return author;
 });
