@@ -95,7 +95,8 @@ task('stats', ['css'], () =>
 
 task('about', ['css'], () => {
   const readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
-  const article = articleData(readme, '', 'ru');
+  // const article = articleData(readme, 'D MMMM YYYY', 'ru');
+  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
   return src('layouts/article.jade')
     .pipe(jade({
       locals: Object.assign({}, article, {
