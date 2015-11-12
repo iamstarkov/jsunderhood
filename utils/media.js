@@ -1,7 +1,9 @@
 import { open } from 'fs';
 import { partial, forEach, pipe, prop } from 'ramda';
-import authors from '../authors';
+import populateAuthors from '../authors';
 import { outputJSON } from 'fs-extra';
+
+const authors = populateAuthors();
 
 const spaces = 2;
 

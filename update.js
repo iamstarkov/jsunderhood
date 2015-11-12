@@ -1,5 +1,5 @@
 import tokens from 'twitter-tokens';
-import authors from './authors';
+import populateAuthors from './authors';
 import log from './helpers/log';
 import moment from 'moment';
 import { outputFile, outputJSON } from 'fs-extra';
@@ -10,6 +10,8 @@ import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
 import getFollowers from 'get-twitter-followers';
 import twitterMentions from 'twitter-mentions';
+
+const authors = populateAuthors();
 
 const currentAuthor = head(authors);
 const { first, username } = currentAuthor;

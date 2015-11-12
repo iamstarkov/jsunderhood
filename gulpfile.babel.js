@@ -25,10 +25,12 @@ import jimp from 'gulp-jimp';
 import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
-import authors from './authors.js';
+import populateAuthors from './authors.js';
 import getStats from './stats.js';
 import { site } from './package.json';
 import webpackConfig from './webpack.config.babel.js';
+
+const authors = populateAuthors();
 
 const latestInfo = head(authors).info;
 
