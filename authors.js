@@ -49,6 +49,11 @@ export default () => authors.map(author => {
   const media    = `./dump/${author.username}-media.json`;
   const mentions = `./dump/${author.username}-mentions.json`;
 
+  fs.ensureFileSync(info);
+  fs.ensureFileSync(tweets);
+  fs.ensureFileSync(media);
+  fs.ensureFileSync(mentions);
+
   author.info     = fs.readJsonSync(info, { throws: false }) || {};
   author.tweets   = (fs.readJsonSync(tweets, { throws: false }) || {}).tweets || [];
   author.media    = fs.readJsonSync(media, { throws: false }) || {};
