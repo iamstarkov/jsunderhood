@@ -1,30 +1,15 @@
-import { ensureFileSync, readJsonSync } from 'fs-extra';
-import { merge } from 'ramda';
-import { authors } from '../authors';
+import { readJsonSync } from 'fs-extra';
+import { map, merge } from 'ramda';
+import authors from '../authors';
 
-function ensureFilesForFirstTime(author, index) {
-  if (index === 0) {
-    ['info', 'tweets', 'media', 'mentions'].map(area => {
-      ensureFileSync(`./dump/${author.username}-${area}.json`);
-    });
-  }
-  return author;
-}
+const get = (username, area) =>
+  readJsonSync(`./dump/${username}-${area}.json`, { throws: false });
 
-const getObject = (username, area) =>
-  readJsonSync(`./dump/${username}-${area}.json`, { throws: false }) || {};
-
-const getArray = (username, area) =>
-  (readJsonSync(`./dump/${username}-${area}.json`, { throws: false }) || {})[area] || [];
-
-const saturateAuthor = author => merge(author, {
-  info: getObject(author.username, 'info'),
-  tweets: getArray(author.username, 'tweets'),
-  media: getObject(author.username, 'media'),
-  mentions: getArray(author.username, 'mentions'),
+const saturate = author => merge(author, {
+  info: get(author.username, 'info'),
+  tweets: get(author.username, 'tweets').tweets,
+  media: get(author.username, 'media'),
+  mentions: get(author.username, 'mentions').mentions,
 });
 
-export default (authors
-  .map(ensureFilesForFirstTime)
-  .map(saturateAuthor)
-);
+export default map(saturate, authors);
