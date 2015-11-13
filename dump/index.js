@@ -1,15 +1,12 @@
-import { readJsonSync } from 'fs-extra';
 import { map, merge } from 'ramda';
 import authors from '../authors';
-
-const get = (username, area) =>
-  readJsonSync(`./dump/${username}-${area}.json`, { throws: false });
+import getAuthorArea from '../helpers/get-author-area';
 
 const saturate = author => merge(author, {
-  info: get(author.username, 'info'),
-  tweets: get(author.username, 'tweets').tweets,
-  media: get(author.username, 'media'),
-  mentions: get(author.username, 'mentions').mentions,
+  info: getAuthorArea(author, 'info'),
+  tweets: getAuthorArea(author, 'tweets').tweets,
+  media: getAuthorArea(author, 'media'),
+  mentions: getAuthorArea(author, 'mentions').mentions,
 });
 
 export default map(saturate, authors);
