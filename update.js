@@ -16,13 +16,6 @@ const { first, username } = currentAuthor;
 
 const spaces = 2;
 
-saveMedia(tokens, 'jsunderhood', username, (err, media) => {
-  if (err) throw err;
-  outputJSON(`./dump/${username}-media.json`, media, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s media`);
-  });
-});
-
 getTweets(tokens, 'jsunderhood', first, (err, tweets) => {
   if (err) throw err;
   outputJSON(`./dump/${username}.json`, { tweets }, { spaces }, saveErr => {
@@ -34,6 +27,13 @@ getInfo(tokens, 'jsunderhood', (err, info) => {
   if (err) throw err;
   outputJSON(`./dump/${username}-info.json`, info, { spaces }, saveErr => {
     log(`${saveErr ? '✗' : '✓'} ${username}’s info`);
+  });
+});
+
+saveMedia(tokens, 'jsunderhood', username, (err, media) => {
+  if (err) throw err;
+  outputJSON(`./dump/${username}-media.json`, media, { spaces }, saveErr => {
+    log(`${saveErr ? '✗' : '✓'} ${username}’s media`);
   });
 });
 
