@@ -15,6 +15,7 @@ import twitterMentions from 'twitter-mentions';
 
 import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
 import getAuthorArea from './helpers/get-author-area';
+import saveAuthorArea from './helpers/get-author-area';
 
 const author = head(authors);
 const { first, username } = author;
@@ -28,9 +29,7 @@ const tweetsSinceId = isEmpty(authorTweets) ? dec(first) : last(authorTweets).id
 getTweets(tokens, 'jsunderhood', tweetsSinceId, (err, tweetsRaw) => {
   if (err) throw err;
   const tweets = concat(authorTweets, reverse(tweetsRaw));
-  outputJSON(`./dump/${username}-tweets.json`, { tweets }, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s tweets`);
-  });
+  saveAuthorArea(username, 'tweets', { tweets });
 });
 
 getInfo(tokens, 'jsunderhood', (err, info) => {
