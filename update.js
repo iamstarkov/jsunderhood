@@ -1,18 +1,19 @@
-import tokens from 'twitter-tokens';
-import authors from './authors';
 import log from './helpers/log';
-import moment from 'moment';
 import { outputFile, outputJSON } from 'fs-extra';
 import { concat, reverse, last, dissoc, map, head } from 'ramda';
+import moment from 'moment';
 
-import saveMedia from './helpers/save-media';
+import authors from './authors';
+
+import tokens from 'twitter-tokens';
 import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
+import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
 import twitterMentions from 'twitter-mentions';
 
-const currentAuthor = head(authors);
-const { first, username } = currentAuthor;
+const current = head(authors);
+const { first, username } = current;
 
 const spaces = 2;
 
