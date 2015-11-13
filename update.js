@@ -15,7 +15,7 @@ import twitterMentions from 'twitter-mentions';
 
 import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
 import getAuthorArea from './helpers/get-author-area';
-import saveAuthorArea from './helpers/get-author-area';
+import saveAuthorArea from './helpers/save-author-area';
 
 const { first, username } = head(authors);
 
