@@ -34,9 +34,7 @@ getTweets(tokens, 'jsunderhood', tweetsSinceId, (err, tweetsRaw) => {
 
 getInfo(tokens, 'jsunderhood', (err, info) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-info.json`, info, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s info`);
-  });
+  saveAuthorArea(username, 'info', info);
 });
 
 saveMedia(tokens, 'jsunderhood', username, (err, media) => {
