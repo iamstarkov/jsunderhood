@@ -1,17 +1,20 @@
 import log from './helpers/log';
 import { outputFile, outputJSON } from 'fs-extra';
-import { concat, reverse, last, dissoc, map, head } from 'ramda';
+import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
 import moment from 'moment';
+import dec from 'bignum-dec';
 
 import authors from './authors';
 
 import tokens from 'twitter-tokens';
-import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
 import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
 import twitterMentions from 'twitter-mentions';
+
+import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
+import getAuthorArea from './helpers/get-author-area';
 
 const author = head(authors);
 const { first, username } = author;
@@ -20,9 +23,12 @@ const spaces = 2;
 
 ensureFilesForFirstUpdate(username);
 
-getTweets(tokens, 'jsunderhood', first, (err, tweets) => {
+const authorTweets = getAuthorArea(author, 'tweets').tweets || [];
+const tweetsSinceId = isEmpty(authorTweets) ? dec(first) : last(authorTweets).id_str;
+getTweets(tokens, 'jsunderhood', tweetsSinceId, (err, tweetsRaw) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}.json`, { tweets }, { spaces }, saveErr => {
+  const tweets = concat(authorTweets, reverse(tweetsRaw));
+  outputJSON(`./dump/${username}-tweets.json`, { tweets }, { spaces }, saveErr => {
     log(`${saveErr ? '✗' : '✓'} ${username}’s tweets`);
   });
 });
