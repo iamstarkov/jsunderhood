@@ -1,5 +1,5 @@
 import moment from 'moment';
-import { pipe, reverse, filter, groupBy, prop, converge, inc, dec, length,
+import { pipe, filter, groupBy, prop, converge, inc, dec, length,
   findIndex, propEq, path, map, head, split, nth, replace, toUpper, tail,
   concat } from 'ramda';
 import numd from 'numd';
@@ -10,7 +10,7 @@ import ungroupInto from './ungroup-into';
 import unidecode from 'unidecode';
 import trimTag from 'trim-html-tag';
 import { parse } from 'url';
-import authors from '../authors';
+import authors from '../dump';
 
 const getQuotedUser = pipe(
   path(['entities', 'urls']),
@@ -43,7 +43,6 @@ const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
 const prepareTweets = pipe(
-  reverse,
   filter(filterTimeline),
   groupBy(pipe(prop('created_at'), weekday)),
   ungroupInto('weekday', 'tweets'));
