@@ -171,7 +171,6 @@ task('css', () =>
 task('js', done => {
   webpack(webpackConfig, (err, stats) => {
     if (err) throw new PluginError('webpack', err);
-    log('[webpack]', stats.toString());
     done();
   });
 });
