@@ -1,59 +1,59 @@
-import tokens from 'twitter-tokens';
-import authors from './authors';
 import log from './helpers/log';
+import { outputFile } from 'fs-extra';
+import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
 import moment from 'moment';
-import { outputFile, outputJSON } from 'fs-extra';
-import { concat, reverse, last, dissoc, map, head } from 'ramda';
+import dec from 'bignum-dec';
 
-import saveMedia from './helpers/save-media';
+import authors from './authors';
+
+import tokens from 'twitter-tokens';
 import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
+import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
 import twitterMentions from 'twitter-mentions';
 
-const currentAuthor = head(authors);
-const { first, username } = currentAuthor;
+import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
+import getAuthorArea from './helpers/get-author-area';
+import saveAuthorArea from './helpers/save-author-area';
 
-const spaces = 2;
+const { first, username } = head(authors);
 
-saveMedia(tokens, 'jsunderhood', username, (err, media) => {
+ensureFilesForFirstUpdate(username);
+
+const tweets = getAuthorArea(username, 'tweets').tweets || [];
+const mentions = getAuthorArea(username, 'mentions').mentions || [];
+
+const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
+getTweets(tokens, 'jsunderhood', tweetsSinceId, (err, newTweetsRaw) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-media.json`, media, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s media`);
-  });
-});
-
-getTweets(tokens, 'jsunderhood', first, (err, tweets) => {
-  if (err) throw err;
-  outputJSON(`./dump/${username}.json`, { tweets }, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s tweets`);
-  });
+  const concattedTweets = concat(tweets, reverse(newTweetsRaw));
+  saveAuthorArea(username, 'tweets', { tweets: concattedTweets });
 });
 
 getInfo(tokens, 'jsunderhood', (err, info) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-info.json`, info, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s info`);
-  });
+  saveAuthorArea(username, 'info', info);
+});
+
+saveMedia(tokens, 'jsunderhood', username, (err, media) => {
+  if (err) throw err;
+  saveAuthorArea(username, 'media', media);
 });
 
 getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
   if (err) throw err;
   const followers = map(dissoc('status'), followersWithStatuses);
-  outputJSON(`./dump/${username}-followers.json`, { followers }, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s followers`);
-  });
+  saveAuthorArea(username, 'followers', { followers });
 });
 
-const firstTweet = last(currentAuthor.tweets);
-const lastMention = last(currentAuthor.mentions);
-const sinceId = (lastMention || firstTweet).id_str;
-twitterMentions(tokens, sinceId, (err, mentionsRaw) => {
+const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
+twitterMentions(tokens, mentionsSinceId, (err, newMentionsRaw) => {
   if (err) throw err;
-  const mentions = concat(currentAuthor.mentions, reverse(mentionsRaw));
-  outputJSON(`./dump/${username}-mentions.json`, { mentions }, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s mentions`);
-  });
+  const concattedMentions = concat(mentions, reverse(newMentionsRaw));
+  saveAuthorArea(username, 'mentions', { mentions: concattedMentions });
 });
 
-outputFile('./dump/.timestamp', moment().unix() , () => {});
+outputFile('./dump/.timestamp', moment().unix(), err => {
+  log(`${err ? '✗' : '✓'} timestamp`);
+});

@@ -4,7 +4,7 @@ import { outputJSON } from 'fs-extra';
 
 const spaces = 2;
 
-function createEmptyMentions({ username } = author) {
+function createEmptyMentions({ username }) {
   outputJSON(`./dump/${username}-mentions.json`, { mentions: [] }, { spaces }, saveErr => {
     log(`${saveErr ? '✗' : '✓'} ${username}’s empty mentions`);
   });
