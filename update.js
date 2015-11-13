@@ -39,9 +39,7 @@ getInfo(tokens, 'jsunderhood', (err, info) => {
 
 saveMedia(tokens, 'jsunderhood', username, (err, media) => {
   if (err) throw err;
-  outputJSON(`./dump/${username}-media.json`, media, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s media`);
-  });
+  saveAuthorArea(username, 'media', media);
 });
 
 getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
