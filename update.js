@@ -56,4 +56,6 @@ twitterMentions(tokens, sinceId, (err, mentionsRaw) => {
   });
 });
 
-outputFile('./dump/.timestamp', moment().unix() , () => {});
+outputFile('./dump/.timestamp', moment().unix(), err => {
+  log(`${err ? '✗' : '✓'} timestamp`);
+});
