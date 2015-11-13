@@ -45,9 +45,7 @@ saveMedia(tokens, 'jsunderhood', username, (err, media) => {
 getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
   if (err) throw err;
   const followers = map(dissoc('status'), followersWithStatuses);
-  outputJSON(`./dump/${username}-followers.json`, { followers }, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s followers`);
-  });
+  saveAuthorArea(username, 'followers', { followers });
 });
 
 const firstTweet = last(currentAuthor.tweets);
