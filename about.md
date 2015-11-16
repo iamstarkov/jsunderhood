@@ -23,4 +23,6 @@
 
 Подписывайтесь на [@jsunderhood][jsh] в твиттере.
 
+_PS. Есть и другие похожие проекты. Их список хранится на гитхабе в репозитории [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)_
+
 [jsh]: https://twitter.com/jsunderhood
