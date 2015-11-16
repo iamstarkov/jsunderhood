@@ -109,6 +109,22 @@ task('about', ['css'], () => {
     .pipe(dest('dist'));
 });
 
+task('authoring', ['css'], () => {
+  const readme = fs.readFileSync('./authoring.md', { encoding: 'utf8' });
+  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+  return src('layouts/article.jade')
+    .pipe(jade({
+      locals: Object.assign({}, article, {
+        title: 'Авторам',
+        url: 'authoring/',
+        helpers: { bust },
+      }),
+    }))
+    .pipe(rename({ dirname: 'authoring' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
+});
+
 task('rss', done => {
   const feed = new RSS(site);
   const authorsToPost = authors.filter(author => author.post !== false);
@@ -194,7 +210,7 @@ task('server', () => {
  */
 task('clean', done => rimraf('dist', done));
 
-task('html', ['stats', 'authors', 'index', 'rss', 'about']);
+task('html', ['stats', 'authors', 'index', 'rss', 'about', 'authoring']);
 task('build', [ 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media']);
 
 task('default', done => sequence('clean', 'watch', done));
