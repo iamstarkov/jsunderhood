@@ -1,6 +1,6 @@
 import { map, merge } from 'ramda';
-import authors from './authors';
-import getAuthorArea from './helpers/get-author-area';
+import authors from '../authors';
+import getAuthorArea from '../helpers/get-author-area';
 
 const saturate = author => merge(author, {
   info: getAuthorArea(author.username, 'info'),
