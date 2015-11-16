@@ -211,7 +211,7 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['stats', 'authors', 'index', 'rss', 'about', 'authoring']);
-task('build', [ 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media']);
+task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
 
