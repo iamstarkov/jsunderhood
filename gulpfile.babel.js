@@ -94,7 +94,7 @@ task('stats', ['css'], () =>
     .pipe(dest('dist')));
 
 task('about', ['css'], () => {
-  const readme = fs.readFileSync('./about.md', { encoding: 'utf8' });
+  const readme = fs.readFileSync('./pages/about.md', { encoding: 'utf8' });
   const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
   return src('layouts/article.jade')
     .pipe(jade({
@@ -110,7 +110,7 @@ task('about', ['css'], () => {
 });
 
 task('authoring', ['css'], () => {
-  const readme = fs.readFileSync('./authoring.md', { encoding: 'utf8' });
+  const readme = fs.readFileSync('./pages/authoring.md', { encoding: 'utf8' });
   const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
   return src('layouts/article.jade')
     .pipe(jade({
