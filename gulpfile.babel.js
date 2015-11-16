@@ -7,7 +7,7 @@ import { html } from 'commonmark-helpers';
 import numbers from 'typographic-numbers';
 import numd from 'numd';
 import RSS from 'rss';
-import { pipe, prop, head, splitEvery } from 'ramda';
+import { merge, pipe, prop, head, splitEvery } from 'ramda';
 import sequence from 'run-sequence';
 import renderTweet from 'tweet.md';
 import autoprefixer from 'autoprefixer';
@@ -92,36 +92,26 @@ task('stats', ['css'], () =>
     .pipe(rename({ basename: 'index' }))
     .pipe(dest('dist')));
 
-task('about', ['css'], () => {
-  const readme = fs.readFileSync('./pages/about.md', { encoding: 'utf8' });
-  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
-  return src('layouts/article.jade')
-    .pipe(jade({
-      locals: Object.assign({}, article, {
-        title: 'О проекте',
-        url: 'about/',
-        helpers: { bust },
-      }),
-    }))
-    .pipe(rename({ dirname: 'about' }))
-    .pipe(rename({ basename: 'index' }))
-    .pipe(dest('dist'));
-});
-
-task('authoring', ['css'], () => {
-  const readme = fs.readFileSync('./pages/authoring.md', { encoding: 'utf8' });
-  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
-  return src('layouts/article.jade')
-    .pipe(jade({
-      locals: Object.assign({}, article, {
-        title: 'Авторам',
-        url: 'authoring/',
-        helpers: { bust },
-      }),
-    }))
-    .pipe(rename({ dirname: 'authoring' }))
-    .pipe(rename({ basename: 'index' }))
-    .pipe(dest('dist'));
+task('md-pages', ['css'], done => {
+  each([
+    { name: 'about', title: 'О проекте' },
+    { name: 'authoring', title: 'Авторам' },
+    { name: 'instruction', title: 'Инструкция' },
+  ], item => {
+    const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
+    const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+    return src('layouts/article.jade')
+      .pipe(jade({
+        locals: merge(article, {
+          title: item.title,
+          url: item.name + '/',
+          helpers: { bust },
+        }),
+      }))
+      .pipe(rename({ dirname: item.name }))
+      .pipe(rename({ basename: 'index' }))
+      .pipe(dest('dist'));
+  }, done);
 });
 
 task('rss', done => {
@@ -209,7 +199,7 @@ task('server', () => {
  */
 task('clean', done => rimraf('dist', done));
 
-task('html', ['stats', 'authors', 'index', 'rss', 'about', 'authoring']);
+task('html', ['stats', 'authors', 'index', 'rss', 'md-pages']);
 task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
