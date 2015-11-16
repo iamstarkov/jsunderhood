@@ -4,7 +4,7 @@ import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
 import moment from 'moment';
 import dec from 'bignum-dec';
 
-import authors from './dump';
+import authors from './authors';
 
 import tokens from 'twitter-tokens';
 import getTweets from 'get-tweets';
