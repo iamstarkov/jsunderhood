@@ -3,7 +3,7 @@ import { readFileSync } from 'fs-extra';
 import cheerio from 'cheerio';
 import typeNumbers from 'typographic-numbers';
 import { head } from 'ramda';
-import authors from './dump';
+import authors from './dump.js';
 
 const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });

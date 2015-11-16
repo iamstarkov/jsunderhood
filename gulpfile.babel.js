@@ -33,7 +33,7 @@ import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
 import lastUpdated from './helpers/last-updated';
 
-import authors from './dump';
+import authors from './dump.js';
 const latestInfo = head(authors).info;
 
 const start = _start.bind(gulp);
