@@ -1,3 +1,5 @@
+/* eslint-env mocha */
+
 import assert from 'assert';
 import { readFileSync } from 'fs-extra';
 import cheerio from 'cheerio';
@@ -14,7 +16,7 @@ describe('index page', () => {
     const $ = make$('dist/index.html');
     const pageAuthors = $('article .list__item-desc');
     const realAuthors = authors.filter(a => a.post !== false);
-    assert(pageAuthors.length == realAuthors.length);
+    assert(pageAuthors.length === realAuthors.length);
   });
   it('don’t have subheading', () => {
     const $ = make$('dist/index.html');
@@ -31,7 +33,7 @@ describe('stats page', () => {
   it('stats rows', () => {
     const $ = make$('dist/stats/index.html');
     const rows = $('.host-stats__row:not(.host-stats__row_head)');
-    assert(rows.length == authors.length);
+    assert(rows.length === authors.length);
   });
 });
 
@@ -44,7 +46,7 @@ describe('about page', () => {
 
 describe('archive pages', () => {
   it('tweets list', () => {
-    authors.forEach(function(author) {
+    authors.forEach( author => {
       if (author.post === false) return;
       const $ = make$(`dist/${author.username}/index.html`);
       assert($('article p').length > 1);

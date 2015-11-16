@@ -10,7 +10,8 @@
     "pretest": "gulp build",
     "test": "mocha --require babel/register",
     "posttest": "gulp clean",
-    "start": "gulp"
+    "start": "gulp",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",

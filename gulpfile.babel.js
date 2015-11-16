@@ -1,7 +1,6 @@
 import buildbranch from 'buildbranch';
 import rimraf from 'rimraf';
 import each from 'each-done';
-import debug from 'gulp-debug';
 import express from 'express';
 import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
@@ -185,7 +184,7 @@ task('css', () =>
     .pipe(dest('dist/css')));
 
 task('js', done => {
-  webpack(webpackConfig, (err, stats) => {
+  webpack(webpackConfig, err => {
     if (err) throw new PluginError('webpack', err);
     done();
   });

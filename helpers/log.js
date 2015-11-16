@@ -1,2 +1,2 @@
-const log = console.log.bind(console);
-export default log;
+/* eslint-disable no-console */
+export default console.log.bind(console);
