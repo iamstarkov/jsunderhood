@@ -4,7 +4,7 @@ import moment from 'moment';
 const cwd = process.cwd();
 const timestamp = (() => {
   try {
-    parseInt(readFileSync(`${cwd}/dump/.timestamp`, `utf8`), 10);
+    return parseInt(readFileSync(`${cwd}/dump/.timestamp`, `utf8`), 10);
   } catch (e) {
     return parseInt(moment.unix(), 10);
   }
