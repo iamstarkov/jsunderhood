@@ -1,5 +1,4 @@
 export default [
-
   // post: false
   { username: 'touzoku',         start: '09 Nov 2015', first: '666605201915146240', post: false },
   { username: 'mr_mig_by',       start: '09 Nov 2015', first: '663647143966691328' },
