@@ -9,7 +9,6 @@
     npm install
     npm start
 
-
 ## Проект
 
 * `authors.js` — список авторов
