@@ -5184,6 +5184,800 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 13:53:03 +0000 2015",
+      "id": 667339808402858000,
+      "id_str": "667339808402857984",
+      "text": "@SilentImp я д секюрити, я не знаю :-(",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667335691601358800,
+      "in_reply_to_status_id_str": "667335691601358848",
+      "in_reply_to_user_id": 71016924,
+      "in_reply_to_user_id_str": "71016924",
+      "in_reply_to_screen_name": "SilentImp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 13:54:15 +0000 2015",
+      "id": 667340109071585300,
+      "id_str": "667340109071585281",
+      "text": "Значит надо дописать поддержку CORS? https://t.co/2EMxqiZuqS",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667336111757369300,
+      "quoted_status_id_str": "667336111757369344",
+      "quoted_status": {
+        "created_at": "Thu Nov 19 13:38:22 +0000 2015",
+        "id": 667336111757369300,
+        "id_str": "667336111757369344",
+        "text": "@barlog_m @jsunderhood ну я думаю по собственной воле его и не используют. А вот если API не поддерживает cors?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667286584362864600,
+        "in_reply_to_status_id_str": "667286584362864641",
+        "in_reply_to_user_id": 226857542,
+        "in_reply_to_user_id_str": "226857542",
+        "in_reply_to_screen_name": "Barlog_M",
+        "user": {
+          "id": 11051452,
+          "id_str": "11051452"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Barlog_M",
+              "name": "Barlog (18+)",
+              "id": 226857542,
+              "id_str": "226857542",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Security Engineer",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2EMxqiZuqS",
+            "expanded_url": "https://twitter.com/blia/status/667336111757369344",
+            "display_url": "twitter.com/blia/status/66…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 13:56:44 +0000 2015",
+      "id": 667340734354206700,
+      "id_str": "667340734354206720",
+      "text": "Важная заметка про хэдэр X-XSS-Protection. У него есть 3 значения: 0, 1, и 1; mode=block. Правильней всего использовать последнее.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 13:57:54 +0000 2015",
+      "id": 667341028861448200,
+      "id_str": "667341028861448192",
+      "text": "Если же где-то сломалось что, то лучше вырубить его нафиг (выставить ноль). Единица — самый рискованный вариант.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667340734354206700,
+      "in_reply_to_status_id_str": "667340734354206720",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 13:58:50 +0000 2015",
+      "id": 667341262962364400,
+      "id_str": "667341262962364417",
+      "text": "Ну тогда либо ругаться на них, либо принять риск (они, наверно, знают что делают). https://t.co/zZ2PieRtyu",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667340267318599700,
+      "quoted_status_id_str": "667340267318599680",
+      "quoted_status": {
+        "created_at": "Thu Nov 19 13:54:52 +0000 2015",
+        "id": 667340267318599700,
+        "id_str": "667340267318599680",
+        "text": "@jsunderhood ну если api не твой? Например https://t.co/jJDhCwsswW",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667340109071585300,
+        "in_reply_to_status_id_str": "667340109071585281",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 11051452,
+          "id_str": "11051452"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Security Engineer",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/jJDhCwsswW",
+              "expanded_url": "http://VK.com",
+              "display_url": "VK.com",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zZ2PieRtyu",
+            "expanded_url": "https://twitter.com/blia/status/667340267318599680",
+            "display_url": "twitter.com/blia/status/66…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 14:29:24 +0000 2015",
+      "id": 667348956121165800,
+      "id_str": "667348956121165825",
+      "text": "Зависит от того, что выдает ручка. Если прогноз погоды, то, конечно, можно что угодно ставить в CORS. https://t.co/83X6O1NXzr",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667342164347756500,
+      "quoted_status_id_str": "667342164347756544",
+      "quoted_status": {
+        "created_at": "Thu Nov 19 14:02:25 +0000 2015",
+        "id": 667342164347756500,
+        "id_str": "667342164347756544",
+        "text": "@jsunderhood @a66at @mista_k @touzoku * ни к чему плохому не приводит, куки/auth не передаются. Да, даже при allow-credentials: true.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667145011801292800,
+        "in_reply_to_status_id_str": "667145011801292800",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 155619706,
+          "id_str": "155619706"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Security Engineer",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "a66at",
+              "name": "Timur Yunusov",
+              "id": 15491340,
+              "id_str": "15491340",
+              "indices": [
+                13,
+                19
+              ]
+            },
+            {
+              "screen_name": "mista_k",
+              "name": "Vladimir Kuznetsov",
+              "id": 15500045,
+              "id_str": "15500045",
+              "indices": [
+                20,
+                28
+              ]
+            },
+            {
+              "screen_name": "touzoku",
+              "name": "マラット",
+              "id": 15513890,
+              "id_str": "15513890",
+              "indices": [
+                29,
+                37
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/83X6O1NXzr",
+            "expanded_url": "https://twitter.com/sergeybelove/status/667342164347756544",
+            "display_url": "twitter.com/sergeybelove/s…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 14:48:06 +0000 2015",
+      "id": 667353662335791100,
+      "id_str": "667353662335791105",
+      "text": "Рекомендованная статья сегодня https://t.co/MjSc8CKR5A Вообще Mario @0x6D6172696F Heiderich — это один из моих кумиров в плане вебсека.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "0x6D6172696F",
+            "name": ".mario",
+            "id": 18780838,
+            "id_str": "18780838",
+            "indices": [
+              68,
+              81
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MjSc8CKR5A",
+            "expanded_url": "https://cure53.de/es6-for-penetration-testers.pdf",
+            "display_url": "cure53.de/es6-for-penetr…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 14:53:29 +0000 2015",
+      "id": 667355015963521000,
+      "id_str": "667355015963521024",
+      "text": "Развивая тему крутых веб-безопасников. Топ ресерчеры: @hasegawayosuke @kinugawamasato. Классный еще https://t.co/KLfKjJxnbI",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hasegawayosuke",
+            "name": "Yosuke HASEGAWA",
+            "id": 4375941,
+            "id_str": "4375941",
+            "indices": [
+              54,
+              69
+            ]
+          },
+          {
+            "screen_name": "kinugawamasato",
+            "name": "Masato Kinugawa",
+            "id": 104911452,
+            "id_str": "104911452",
+            "indices": [
+              70,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KLfKjJxnbI",
+            "expanded_url": "http://www.slideshare.net/muneakinishimura",
+            "display_url": "slideshare.net/muneakinishimu…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 14:54:12 +0000 2015",
+      "id": 667355195249070100,
+      "id_str": "667355195249070080",
+      "text": "Удивительно, из четырех самых крутых XSS-еров, три японца и один немец. В остальных секурити темах японцы явно проседают.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:27:24 +0000 2015",
+      "id": 667363551967912000,
+      "id_str": "667363551967911938",
+      "text": "Например, накрутить голосовалку на сайте. Или подгрузить сайт из корп. сети жертвы. https://t.co/0MpQtSymOv",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667356987907272700,
+      "quoted_status_id_str": "667356987907272706",
+      "quoted_status": {
+        "created_at": "Thu Nov 19 15:01:19 +0000 2015",
+        "id": 667356987907272700,
+        "id_str": "667356987907272706",
+        "text": "@a66at @jsunderhood @mista_k @touzoku анонимно, без кредов (basic auth/cookies). Где импакт?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667350476401336300,
+        "in_reply_to_status_id_str": "667350476401336320",
+        "in_reply_to_user_id": 15491340,
+        "in_reply_to_user_id_str": "15491340",
+        "in_reply_to_screen_name": "a66at",
+        "user": {
+          "id": 155619706,
+          "id_str": "155619706"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "a66at",
+              "name": "Timur Yunusov",
+              "id": 15491340,
+              "id_str": "15491340",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Security Engineer",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                7,
+                19
+              ]
+            },
+            {
+              "screen_name": "mista_k",
+              "name": "Vladimir Kuznetsov",
+              "id": 15500045,
+              "id_str": "15500045",
+              "indices": [
+                20,
+                28
+              ]
+            },
+            {
+              "screen_name": "touzoku",
+              "name": "マラット",
+              "id": 15513890,
+              "id_str": "15513890",
+              "indices": [
+                29,
+                37
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0MpQtSymOv",
+            "expanded_url": "https://twitter.com/sergeybelove/status/667356987907272706",
+            "display_url": "twitter.com/sergeybelove/s…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:10 +0000 2015",
+      "id": 667365256742572000,
+      "id_str": "667365256742572032",
+      "text": "Еще есть целая пачка timing атак на кэшируемый контент. https://t.co/oN292Gapyb",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667364776910131200,
+      "quoted_status_id_str": "667364776910131200",
+      "quoted_status": {
+        "created_at": "Thu Nov 19 15:32:16 +0000 2015",
+        "id": 667364776910131200,
+        "id_str": "667364776910131200",
+        "text": "@jsunderhood больше похоже на какое-то супер исключение, учитывая, что CORS используют обычно для API. Но ок, пусть будет так.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667363551967912000,
+        "in_reply_to_status_id_str": "667363551967911938",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 155619706,
+          "id_str": "155619706"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Security Engineer",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oN292Gapyb",
+            "expanded_url": "https://twitter.com/sergeybelove/status/667364776910131200",
+            "display_url": "twitter.com/sergeybelove/s…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
