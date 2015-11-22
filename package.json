@@ -10,6 +10,7 @@
     "pretest": "gulp build",
     "test": "mocha --require babel/register",
     "posttest": "gulp clean",
+    "tdd": "npm test -- --watch",
     "start": "gulp",
     "lint": "eslint ."
   },

@@ -54,3 +54,46 @@ describe('archive pages', () => {
     });
   });
 });
+
+import authorStats from './helpers/author-stats';
+import {__, forEach, equals, keys, length, pick, pipe} from 'ramda';
+
+describe('authorStats', () => {
+  const forEachAuthor = forEach(__, authors);
+
+  it('prepares tweets for processing', () => {
+    forEachAuthor(author => {
+      const stats = authorStats(author.username);
+      const requiredKeys = [
+        'id',
+        'weekday',
+        'hour',
+        'likes',
+        'retweets',
+        'isMention',
+        'isReply',
+        'isRetweet',
+      ];
+
+      forEach(
+        forEach(
+          pipe(
+            pick(requiredKeys),
+            keys,
+            length,
+            equals(length(requiredKeys)),
+            assert
+          )
+        ),
+        stats
+      );
+    });
+  });
+
+  it('returns stats grouped by weekdays', () => {
+    forEachAuthor(author => {
+      const stats = authorStats(author.username);
+      assert(stats.length === 7);
+    });
+  });
+});
