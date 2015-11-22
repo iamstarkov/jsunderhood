@@ -18,3 +18,9 @@ if ($('.js-stats')) {
     lastUpdated.textContent = moment.unix(timestamp).locale('ru').fromNow();
   });
 }
+
+if (window.AUTHOR_STATS) {
+  require(['./author-stats'], authorStats => {
+    authorStats();
+  });
+}

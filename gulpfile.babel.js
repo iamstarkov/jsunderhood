@@ -29,6 +29,7 @@ import { site } from './package.json';
 import webpackConfig from './webpack.config.babel.js';
 
 import authorRender from './helpers/author-render';
+import authorStats from './helpers/author-stats';
 import bust from './helpers/bust';
 import lastUpdated from './helpers/last-updated';
 
@@ -137,6 +138,7 @@ task('authors', ['css'], done => {
         locals: {
           title: `Неделя @${author.username} в @${site.title}`,
           author,
+          stats: authorStats(author.username),
           helpers: { authorRender, bust },
         },
       }))
