@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2348,
+  "followers_count": 2350,
   "friends_count": 1,
   "listed_count": 124,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,94 +35,45 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14207,
+  "statuses_count": 14208,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 21 17:48:51 +0000 2015",
-    "id": 668123925751005200,
-    "id_str": "668123925751005184",
-    "text": "RT @subzey: @jsunderhood Не ахти какой. Даже http/2.0 не торопятся поддерживать. Но хостимся на амазоне и юзаем амазонский же цдн.",
+    "created_at": "Sun Nov 22 03:41:52 +0000 2015",
+    "id": 668273161943711700,
+    "id_str": "668273161943711745",
+    "text": "@kyprizel дык я ж говорю, Хром врет про свои ciphersuites",
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 668200426228064300,
+    "in_reply_to_status_id_str": "668200426228064256",
+    "in_reply_to_user_id": 88532643,
+    "in_reply_to_user_id_str": "88532643",
+    "in_reply_to_screen_name": "kyprizel",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sat Nov 21 17:45:48 +0000 2015",
-      "id": 668123157480513500,
-      "id_str": "668123157480513537",
-      "text": "@jsunderhood Не ахти какой. Даже http/2.0 не торопятся поддерживать. Но хостимся на амазоне и юзаем амазонский же цдн.",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 668122553165045800,
-      "in_reply_to_status_id_str": "668122553165045760",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Security Engineer",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "subzey",
-          "name": "subzey",
-          "id": 161396680,
-          "id_str": "161396680",
+          "screen_name": "kyprizel",
+          "name": "Eldar Zaitov",
+          "id": 88532643,
+          "id_str": "88532643",
           "indices": [
-            3,
-            10
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Security Engineer",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            12,
-            24
+            0,
+            9
           ]
         }
       ],
       "urls": []
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
