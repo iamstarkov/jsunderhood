@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2366,
+  "followers_count": 2368,
   "friends_count": 1,
-  "listed_count": 126,
+  "listed_count": 127,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 47,
+  "favourites_count": 48,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14522,
+  "statuses_count": 14567,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 24 13:45:20 +0000 2015",
-    "id": 669149806380589000,
-    "id_str": "669149806380589056",
-    "text": "Сделаем перерыв, продожим вечером. Работа зовет.",
+    "created_at": "Tue Nov 24 20:54:25 +0000 2015",
+    "id": 669257787004887000,
+    "id_str": "669257787004887040",
+    "text": "RT @xgrommx: @jsunderhood есть https://t.co/PTy77zj7MM кроме SPA если отключить JS то будет обычный переход по страницам",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,16 +53,98 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Nov 24 20:54:02 +0000 2015",
+      "id": 669257693274742800,
+      "id_str": "669257693274742784",
+      "text": "@jsunderhood есть https://t.co/PTy77zj7MM кроме SPA если отключить JS то будет обычный переход по страницам",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669228844855988200,
+      "in_reply_to_status_id_str": "669228844855988224",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PTy77zj7MM",
+            "expanded_url": "https://github.com/paypal/react-engine",
+            "display_url": "github.com/paypal/react-e…",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "xgrommx",
+          "name": "Denis Stoyanov",
+          "id": 354807612,
+          "id_str": "354807612",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            13,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PTy77zj7MM",
+          "expanded_url": "https://github.com/paypal/react-engine",
+          "display_url": "github.com/paypal/react-e…",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ]
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
