@@ -26,47 +26,58 @@
     }
   },
   "protected": false,
-  "followers_count": 2373,
+  "followers_count": 2375,
   "friends_count": 1,
   "listed_count": 128,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 48,
+  "favourites_count": 51,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14607,
+  "statuses_count": 14682,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 25 09:57:17 +0000 2015",
-    "id": 669454800933793800,
-    "id_str": "669454800933793793",
-    "text": "Для демок Node приложений очень хорошо работает бесплатный план Heroku https://t.co/4213RWs9Z6. Там же можно и на норм план пересесть за 7$.",
+    "created_at": "Thu Nov 26 10:37:56 +0000 2015",
+    "id": 669827418803318800,
+    "id_str": "669827418803318784",
+    "text": ".@voischev Судил по кол-ву звездочек, возможно в живую статистика другая для bem-components https://t.co/PFtOafdX2H",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 669451513299882000,
-    "in_reply_to_status_id_str": "669451513299881984",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 669825178373853200,
+    "in_reply_to_status_id_str": "669825178373853184",
+    "in_reply_to_user_id": 258854658,
+    "in_reply_to_user_id_str": "258854658",
+    "in_reply_to_screen_name": "voischev",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "voischev",
+          "name": "Ваня Воищев",
+          "id": 258854658,
+          "id_str": "258854658",
+          "indices": [
+            1,
+            10
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/4213RWs9Z6",
-          "expanded_url": "https://www.heroku.com",
-          "display_url": "heroku.com",
+          "url": "https://t.co/PFtOafdX2H",
+          "expanded_url": "https://github.com/bem/bem-components",
+          "display_url": "github.com/bem/bem-compon…",
           "indices": [
-            71,
-            94
+            92,
+            115
           ]
         }
       ]
