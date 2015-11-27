@@ -31866,6 +31866,785 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 15:29:45 +0000 2015",
+      "id": 669900858134499300,
+      "id_str": "669900858134499328",
+      "text": "Порт Bootstrap’а есть почти под каждый фреймворк https://t.co/D1dZy5Qsyv. Счел это не очень интересным.\n\nhttps://t.co/AfcIniqAUu",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 669899487788310500,
+      "quoted_status_id_str": "669899487788310528",
+      "quoted_status": {
+        "created_at": "Thu Nov 26 15:24:18 +0000 2015",
+        "id": 669899487788310500,
+        "id_str": "669899487788310528",
+        "text": "@jsunderhood а что react-bootstrap нету, самая очевидная ссылка же?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 669862112861290500,
+        "in_reply_to_status_id_str": "669862112861290496",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 16385158,
+          "id_str": "16385158"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/D1dZy5Qsyv",
+            "expanded_url": "https://react-bootstrap.github.io",
+            "display_url": "react-bootstrap.github.io",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "url": "https://t.co/AfcIniqAUu",
+            "expanded_url": "https://twitter.com/discopalevo/status/669899487788310528",
+            "display_url": "twitter.com/discopalevo/st…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 15:32:47 +0000 2015",
+      "id": 669901622265401300,
+      "id_str": "669901622265401344",
+      "text": "RT @smashercosmo: @jsunderhood https://t.co/a7F1RKkWi6 забыли. сильно лучше, чем material-ui.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 26 15:32:10 +0000 2015",
+        "id": 669901465494945800,
+        "id_str": "669901465494945792",
+        "text": "@jsunderhood https://t.co/a7F1RKkWi6 забыли. сильно лучше, чем material-ui.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 669862112861290500,
+        "in_reply_to_status_id_str": "669862112861290496",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 60056778,
+          "id_str": "60056778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 15,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/a7F1RKkWi6",
+              "expanded_url": "http://react-toolbox.com",
+              "display_url": "react-toolbox.com",
+              "indices": [
+                13,
+                36
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smashercosmo",
+            "name": "Vladislav Shkodin",
+            "id": 60056778,
+            "id_str": "60056778",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a7F1RKkWi6",
+            "expanded_url": "http://react-toolbox.com",
+            "display_url": "react-toolbox.com",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 15:33:11 +0000 2015",
+      "id": 669901720936386600,
+      "id_str": "669901720936386560",
+      "text": "@smashercosmo Спасибо за наводку, не видел его ранее (хоть и искал разные наборы).",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669901465494945800,
+      "in_reply_to_status_id_str": "669901465494945792",
+      "in_reply_to_user_id": 60056778,
+      "in_reply_to_user_id_str": "60056778",
+      "in_reply_to_screen_name": "smashercosmo",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smashercosmo",
+            "name": "Vladislav Shkodin",
+            "id": 60056778,
+            "id_str": "60056778",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 15:37:09 +0000 2015",
+      "id": 669902720661327900,
+      "id_str": "669902720661327872",
+      "text": "RT @smashercosmo: @jsunderhood Еще в догонку https://t.co/9aGlXkavFr внешне looks like shit, но внутри - красота.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 26 15:36:54 +0000 2015",
+        "id": 669902657809743900,
+        "id_str": "669902657809743873",
+        "text": "@jsunderhood Еще в догонку https://t.co/9aGlXkavFr внешне looks like shit, но внутри - красота.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 669862112861290500,
+        "in_reply_to_status_id_str": "669862112861290496",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 60056778,
+          "id_str": "60056778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "8fe2e9b7b1ed6389",
+          "url": "https://api.twitter.com/1.1/geo/id/8fe2e9b7b1ed6389.json",
+          "place_type": "city",
+          "name": "Espoo",
+          "full_name": "Espoo, Suomi",
+          "country_code": "FI",
+          "country": "Suomi",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  24.499591,
+                  60.00307
+                ],
+                [
+                  24.850506,
+                  60.00307
+                ],
+                [
+                  24.850506,
+                  60.363616
+                ],
+                [
+                  24.499591,
+                  60.363616
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9aGlXkavFr",
+              "expanded_url": "https://jquense.github.io/react-widgets/docs/",
+              "display_url": "jquense.github.io/react-widgets/…",
+              "indices": [
+                27,
+                50
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smashercosmo",
+            "name": "Vladislav Shkodin",
+            "id": 60056778,
+            "id_str": "60056778",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9aGlXkavFr",
+            "expanded_url": "https://jquense.github.io/react-widgets/docs/",
+            "display_url": "jquense.github.io/react-widgets/…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 17:52:21 +0000 2015",
+      "id": 669936743613907000,
+      "id_str": "669936743613906944",
+      "text": "Поговорим об инструментах для создания библиотек компонентов. В инт. сообществе такие библиотеки обычно называют Living Style Guides.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 17:54:11 +0000 2015",
+      "id": 669937206954483700,
+      "id_str": "669937206954483712",
+      "text": "Ранее в этом году я написал подробный обзор существующих инструментов для генерации UI библиотек и как они работают. https://t.co/MbNv57Cp4P",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669936743613907000,
+      "in_reply_to_status_id_str": "669936743613906944",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MbNv57Cp4P",
+            "expanded_url": "http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools",
+            "display_url": "smashingmagazine.com/2015/04/an-in-…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 17:57:05 +0000 2015",
+      "id": 669937936222298100,
+      "id_str": "669937936222298112",
+      "text": "Был ещё доклад, где я развивал идею развития живых стайл гайдов и как они могут быть глубоко интегрированы в процесс https://t.co/ZY6wxSAMZm",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZY6wxSAMZm",
+            "expanded_url": "http://youtu.be/vw2Ii2pPxzQ",
+            "display_url": "youtu.be/vw2Ii2pPxzQ",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 17:58:41 +0000 2015",
+      "id": 669938339101982700,
+      "id_str": "669938339101982720",
+      "text": "Идея, которую вынашивал уже в нескольких компаниях, заключается в том, что библиотека компонентов это не просто набор блоков.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669937936222298100,
+      "in_reply_to_status_id_str": "669937936222298112",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 17:59:48 +0000 2015",
+      "id": 669938620682367000,
+      "id_str": "669938620682366976",
+      "text": "Имея изолированную среду с примерами UI компонентов, можно там же построить мощный инструментарий для разработки и коллаборации.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669938339101982700,
+      "in_reply_to_status_id_str": "669938339101982720",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 18:05:05 +0000 2015",
+      "id": 669939947651137500,
+      "id_str": "669939947651137536",
+      "text": "Наглядный пример как выглядит комбинация документации и станка для разработки это React  генератор от @sapegin https://t.co/ls1dogXDJX",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669938339101982700,
+      "in_reply_to_status_id_str": "669938339101982720",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              102,
+              110
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ls1dogXDJX",
+            "expanded_url": "https://github.com/sapegin/react-styleguidist",
+            "display_url": "github.com/sapegin/react-…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 18:07:48 +0000 2015",
+      "id": 669940634644570100,
+      "id_str": "669940634644570112",
+      "text": "Добавить инструменты коллаборации можно всего лишь подключив in-place комментарии рядом с примерами блоков. Например https://t.co/OrC8Y4EbJf",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669938620682367000,
+      "in_reply_to_status_id_str": "669938620682366976",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OrC8Y4EbJf",
+            "expanded_url": "https://trackduck.com/en/",
+            "display_url": "trackduck.com/en/",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 18:09:48 +0000 2015",
+      "id": 669941136228786200,
+      "id_str": "669941136228786180",
+      "text": "Очень надеюсь, что у ребят получиться хорошо запустить проект по синхронизации исходников кода и дизайна https://t.co/WXVfvem110",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WXVfvem110",
+            "expanded_url": "http://theprotein.io",
+            "display_url": "theprotein.io",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 18:11:43 +0000 2015",
+      "id": 669941620746395600,
+      "id_str": "669941620746395648",
+      "text": "Компонентная UI разработка очень зависит от уровня взаимодействия дизайнеров и разработчиков.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669941136228786200,
+      "in_reply_to_status_id_str": "669941136228786180",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
