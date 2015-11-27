@@ -3,6 +3,7 @@ import { outputFile } from 'fs-extra';
 import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
 import moment from 'moment';
 import dec from 'bignum-dec';
+import { sync as rm } from 'rimraf';
 
 import authors from './authors';
 
@@ -36,6 +37,7 @@ getInfo(tokens, 'jsunderhood', (err, info) => {
   saveAuthorArea(username, 'info', info);
 });
 
+rm(`./dump/images/${username}*`);
 saveMedia(tokens, 'jsunderhood', username, (err, media) => {
   if (err) throw err;
   saveAuthorArea(username, 'media', media);

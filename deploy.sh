@@ -11,7 +11,7 @@ echo "run update"
 babel-node update
 
 echo "save dump"
-git add dump
+git add --all dump
 git commit -m $'save dump\n\n[ci skip]'
 git push origin master &>/dev/null
 
