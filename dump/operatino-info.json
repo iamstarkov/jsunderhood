@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2390,
+  "followers_count": 2389,
   "friends_count": 1,
-  "listed_count": 129,
+  "listed_count": 130,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 52,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14735,
+  "statuses_count": 14766,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 27 08:58:45 +0000 2015",
-    "id": 670164849343799300,
-    "id_str": "670164849343799296",
-    "text": "А как тогда называть FE разработчика под Wordpress? :) (на котором делают кстати сайты посложней среднего)\n\nhttps://t.co/gLt5524su7",
+    "created_at": "Fri Nov 27 11:46:43 +0000 2015",
+    "id": 670207117639422000,
+    "id_str": "670207117639421952",
+    "text": "RT @blia: @jsunderhood ресурсы данных(коллекции моделей)",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,27 +53,76 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Fri Nov 27 11:45:30 +0000 2015",
+      "id": 670206813904703500,
+      "id_str": "670206813904703488",
+      "text": "@jsunderhood ресурсы данных(коллекции моделей)",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670205660819255300,
+      "in_reply_to_status_id_str": "670205660819255296",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/gLt5524su7",
-          "expanded_url": "https://twitter.com/sevaisnotcow/status/670164187277041664",
-          "display_url": "twitter.com/sevaisnotcow/s…",
+          "screen_name": "blia",
+          "name": "Розовые трусы неудач",
+          "id": 11051452,
+          "id_str": "11051452",
           "indices": [
-            108,
-            131
+            3,
+            8
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            10,
+            22
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
