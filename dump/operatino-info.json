@@ -26,23 +26,23 @@
     }
   },
   "protected": false,
-  "followers_count": 2403,
+  "followers_count": 2406,
   "friends_count": 1,
   "listed_count": 131,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 52,
+  "favourites_count": 54,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14847,
+  "statuses_count": 14895,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 28 20:42:37 +0000 2015",
-    "id": 670704369789194200,
-    "id_str": "670704369789194240",
-    "text": "Проблема только в то, что Shadow DOM не везде поддерживается. А полифилы слишком хачны.\n\nhttps://t.co/1WgAoamQ2Z",
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "created_at": "Sun Nov 29 14:03:12 +0000 2015",
+    "id": 670966239666249700,
+    "id_str": "670966239666249728",
+    "text": "Я просто по документации и примеру прошелся. Есть такой вот курс https://t.co/nSLU3TbfXJ\n\nhttps://t.co/K9WaMHkgbB",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -54,19 +54,28 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/1WgAoamQ2Z",
-          "expanded_url": "https://twitter.com/lifeasecond/status/670700355240534018",
-          "display_url": "twitter.com/lifeasecond/st…",
+          "url": "https://t.co/nSLU3TbfXJ",
+          "expanded_url": "https://reactforbeginners.com/",
+          "display_url": "reactforbeginners.com",
           "indices": [
-            89,
-            112
+            65,
+            88
+          ]
+        },
+        {
+          "url": "https://t.co/K9WaMHkgbB",
+          "expanded_url": "https://twitter.com/c1n1k/status/670964832305328128",
+          "display_url": "twitter.com/c1n1k/status/6…",
+          "indices": [
+            90,
+            113
           ]
         }
       ]
