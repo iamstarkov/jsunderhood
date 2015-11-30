@@ -1858,6 +1858,574 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 10:10:15 +0000 2015",
+      "id": 671270004042678300,
+      "id_str": "671270004042678272",
+      "text": "RT @somerandstring: @oaleynik @jsunderhood ну html же декларативный, вот хочется такого же, только для динамеского DOM, а не статического",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 30 10:08:42 +0000 2015",
+        "id": 671269615763382300,
+        "id_str": "671269615763382272",
+        "text": "@oaleynik @jsunderhood ну html же декларативный, вот хочется такого же, только для динамеского DOM, а не статического",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671265334217867300,
+        "in_reply_to_status_id_str": "671265334217867264",
+        "in_reply_to_user_id": 103563938,
+        "in_reply_to_user_id_str": "103563938",
+        "in_reply_to_screen_name": "oaleynik",
+        "user": {
+          "id": 28786967,
+          "id_str": "28786967"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "oaleynik",
+              "name": "Oleg Aleynik",
+              "id": 103563938,
+              "id_str": "103563938",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "React Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "somerandstring",
+            "name": "Ivan Dmitriev",
+            "id": 28786967,
+            "id_str": "28786967",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "oaleynik",
+            "name": "Oleg Aleynik",
+            "id": 103563938,
+            "id_str": "103563938",
+            "indices": [
+              20,
+              29
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "React Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:15:37 +0000 2015",
+      "id": 671301553098235900,
+      "id_str": "671301553098235904",
+      "text": "RT @justusebrain: @jsunderhood как результат может быть императивным или декларативным?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 30 12:10:40 +0000 2015",
+        "id": 671300309705171000,
+        "id_str": "671300309705170944",
+        "text": "@jsunderhood как результат может быть императивным или декларативным?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671257454005641200,
+        "in_reply_to_status_id_str": "671257454005641216",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2267094529,
+          "id_str": "2267094529"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "React Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "justusebrain",
+            "name": "Eugene Rodionov",
+            "id": 2267094529,
+            "id_str": "2267094529",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "React Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:15:54 +0000 2015",
+      "id": 671301626339205100,
+      "id_str": "671301626339205120",
+      "text": ". @justusebrain Легко. Функция вернёт функцию. Cмысл вопросов — напомнить что результат выполнения функции и её тело - совсем не одно и тоже",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671300309705171000,
+      "in_reply_to_status_id_str": "671300309705170944",
+      "in_reply_to_user_id": 2267094529,
+      "in_reply_to_user_id_str": "2267094529",
+      "in_reply_to_screen_name": "justusebrain",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "justusebrain",
+            "name": "Eugene Rodionov",
+            "id": 2267094529,
+            "id_str": "2267094529",
+            "indices": [
+              2,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:01 +0000 2015",
+      "id": 671301908720689200,
+      "id_str": "671301908720689153",
+      "text": "Пока я тихонечько, начиная с октября 2009 года, никого не трогая, писал код seesu, в моду вошел backbone, angular, появился react.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:09 +0000 2015",
+      "id": 671301942325452800,
+      "id_str": "671301942325452801",
+      "text": "Почти как отшельник, развивая приложение, я принимал всякие решения, отказывался от них",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:16 +0000 2015",
+      "id": 671301969563287600,
+      "id_str": "671301969563287552",
+      "text": "Беспомощно пытался организовать код с помощью ООП и events driven model",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:25 +0000 2015",
+      "id": 671302008457031700,
+      "id_str": "671302008457031685",
+      "text": "ДЕЛАЛ ВЫВОДЫ. Выводы про программирование, организацию кода, про проектирование интерфейсов. (МНОГО ИХ. ВЫВОДОВ)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:31 +0000 2015",
+      "id": 671302032389709800,
+      "id_str": "671302032389709824",
+      "text": "САМЫЙ ГЛАВНЫЙ ВЫВОД (метафорой, а потом нормально):",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:37 +0000 2015",
+      "id": 671302057563959300,
+      "id_str": "671302057563959296",
+      "text": "Разработчик должен описывать необходимые ингредиенты блюда, способ приготовления. Ни как достать ингредиенты, ни как передавать блюдо",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:44 +0000 2015",
+      "id": 671302086571761700,
+      "id_str": "671302086571761664",
+      "text": "Для организации высокодинамичного приложения писать код вычисления состояний, их взаимосвязи. Не писать \"актуализацию\" и \"наблюдения\"",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:17:50 +0000 2015",
+      "id": 671302113616597000,
+      "id_str": "671302113616596996",
+      "text": "Разработчик: состояния, взаимосвязи состояний и сущностей, чистые вычисления. Система: наблюдение, актуализация/вызов конкретных вычислений.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:18:11 +0000 2015",
+      "id": 671302201223069700,
+      "id_str": "671302201223069696",
+      "text": "Это я описал новейший секретный, ЗАПРЕЩЕННЫЙ КОНВЕНЦИЕЙ ООН, архитектурный подход «Декларативное Целеполагание». https://t.co/BOx6mmzMvD",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BOx6mmzMvD",
+            "expanded_url": "http://arestov.github.io/declarative-goal-setting/",
+            "display_url": "arestov.github.io/declarative-go…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }

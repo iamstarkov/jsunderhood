@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2421,
+  "followers_count": 2424,
   "friends_count": 1,
-  "listed_count": 132,
+  "listed_count": 131,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 32,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14978,
+  "statuses_count": 14990,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 30 09:29:58 +0000 2015",
-    "id": 671259867273953300,
-    "id_str": "671259867273953280",
-    "text": "RT @alexeyraspopov: .@jsunderhood у тебя есть реальный опыт использования Angular, React и Ember?",
+    "created_at": "Mon Nov 30 12:18:11 +0000 2015",
+    "id": 671302201223069700,
+    "id_str": "671302201223069696",
+    "text": "Это я описал новейший секретный, ЗАПРЕЩЕННЫЙ КОНВЕНЦИЕЙ ООН, архитектурный подход «Декларативное Целеполагание». https://t.co/BOx6mmzMvD",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,76 +53,27 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Nov 30 08:47:24 +0000 2015",
-      "id": 671249153561874400,
-      "id_str": "671249153561874432",
-      "text": ".@jsunderhood у тебя есть реальный опыт использования Angular, React и Ember?",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "React Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              1,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "alexeyraspopov",
-          "name": "Alexey Raspopov",
-          "id": 39017272,
-          "id_str": "39017272",
+          "url": "https://t.co/BOx6mmzMvD",
+          "expanded_url": "http://arestov.github.io/declarative-goal-setting/",
+          "display_url": "arestov.github.io/declarative-go…",
           "indices": [
-            3,
-            18
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "React Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            21,
-            33
+            113,
+            136
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
