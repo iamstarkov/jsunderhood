@@ -1,7 +1,7 @@
 {
   "id": 3014054307,
   "id_str": "3014054307",
-  "name": "React Разработчик",
+  "name": "Разработчик seesu.me",
   "screen_name": "jsunderhood",
   "location": "Москва, Россия",
   "profile_location": null,
@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 2424,
+  "followers_count": 2416,
   "friends_count": 1,
-  "listed_count": 131,
+  "listed_count": 133,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 32,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14990,
+  "statuses_count": 15110,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 30 12:18:11 +0000 2015",
-    "id": 671302201223069700,
-    "id_str": "671302201223069696",
-    "text": "Это я описал новейший секретный, ЗАПРЕЩЕННЫЙ КОНВЕНЦИЕЙ ООН, архитектурный подход «Декларативное Целеполагание». https://t.co/BOx6mmzMvD",
+    "created_at": "Tue Dec 01 12:47:59 +0000 2015",
+    "id": 671672088491618300,
+    "id_str": "671672088491618304",
+    "text": "@freiksenet_ru @twenty кроме того, если поля называются по разному, то часть нужна часть с мэппингом полей",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 671671137575837700,
+    "in_reply_to_status_id_str": "671671137575837696",
+    "in_reply_to_user_id": 3411018190,
+    "in_reply_to_user_id_str": "3411018190",
+    "in_reply_to_screen_name": "freiksenet_ru",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,22 +58,32 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/BOx6mmzMvD",
-          "expanded_url": "http://arestov.github.io/declarative-goal-setting/",
-          "display_url": "arestov.github.io/declarative-go…",
+          "screen_name": "freiksenet_ru",
+          "name": "Михаил Новиков",
+          "id": 3411018190,
+          "id_str": "3411018190",
           "indices": [
-            113,
-            136
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "twenty",
+          "name": "Павел Франков",
+          "id": 12775382,
+          "id_str": "12775382",
+          "indices": [
+            15,
+            22
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
