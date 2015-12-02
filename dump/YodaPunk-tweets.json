@@ -12023,6 +12023,1530 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 17:19:33 +0000 2015",
+      "id": 671740429075877900,
+      "id_str": "671740429075877888",
+      "text": "А вы сами то как считаете, какие крутые оптимизации могли бы быть в шаблонизаторах? Как сделать код эффективнее и лаконичней?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 17:23:16 +0000 2015",
+      "id": 671741366016282600,
+      "id_str": "671741366016282624",
+      "text": "RT @Semenov: @jsunderhood Для начала — отказаться от шаблонизаторов!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 01 17:22:26 +0000 2015",
+        "id": 671741154803753000,
+        "id_str": "671741154803752964",
+        "text": "@jsunderhood Для начала — отказаться от шаблонизаторов!",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671740429075877900,
+        "in_reply_to_status_id_str": "671740429075877888",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 5249341,
+          "id_str": "5249341"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик seesu.me",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Рептилоид со стажем",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик seesu.me",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 17:23:31 +0000 2015",
+      "id": 671741428620509200,
+      "id_str": "671741428620509184",
+      "text": ". @Semenov а какой профит?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671741154803753000,
+      "in_reply_to_status_id_str": "671741154803752964",
+      "in_reply_to_user_id": 5249341,
+      "in_reply_to_user_id_str": "5249341",
+      "in_reply_to_screen_name": "Semenov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Рептилоид со стажем",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              2,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 20:12:51 +0000 2015",
+      "id": 671784043881590800,
+      "id_str": "671784043881590784",
+      "text": "@blia а в чём оптимизации то? что там лаконичного?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671782624084500500,
+      "in_reply_to_status_id_str": "671782624084500484",
+      "in_reply_to_user_id": 11051452,
+      "in_reply_to_user_id_str": "11051452",
+      "in_reply_to_screen_name": "blia",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blia",
+            "name": "Розовые трусы неудач",
+            "id": 11051452,
+            "id_str": "11051452",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 21:38:33 +0000 2015",
+      "id": 671805608799129600,
+      "id_str": "671805608799129600",
+      "text": "@blia а в чем оптимизация?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671804081904701400,
+      "in_reply_to_status_id_str": "671804081904701440",
+      "in_reply_to_user_id": 11051452,
+      "in_reply_to_user_id_str": "11051452",
+      "in_reply_to_screen_name": "blia",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blia",
+            "name": "Розовые трусы неудач",
+            "id": 11051452,
+            "id_str": "11051452",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 22:00:17 +0000 2015",
+      "id": 671811078045569000,
+      "id_str": "671811078045569024",
+      "text": "@Vitalliumm нет, некоторые сервисы хотят быть уверены, что данные нужны пользователю, а не для дампа их базы",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671809522835562500,
+      "in_reply_to_status_id_str": "671809522835562497",
+      "in_reply_to_user_id": 203317967,
+      "in_reply_to_user_id_str": "203317967",
+      "in_reply_to_screen_name": "Vitalliumm",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:43:21 +0000 2015",
+      "id": 671942713525276700,
+      "id_str": "671942713525276672",
+      "text": "Есть хотя бы один язык программирования, который мог быть ответить на вопрос \"откуда берётся это поле, как оно вычисляется и попадает сюда?\"",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:45:19 +0000 2015",
+      "id": 671943207803076600,
+      "id_str": "671943207803076608",
+      "text": ". @jsunderhood задаёте это вопрос, а вам полное дерево зависимостей в ответ",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671942713525276700,
+      "in_reply_to_status_id_str": "671942713525276672",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              2,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:47:48 +0000 2015",
+      "id": 671943831911313400,
+      "id_str": "671943831911313408",
+      "text": "По-моему совсем рутинная задача для процесса разработки https://t.co/UMHtf3KzIx Erlang, haskell, clojure? Go?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671942713525276700,
+      "quoted_status_id_str": "671942713525276672",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:43:21 +0000 2015",
+        "id": 671942713525276700,
+        "id_str": "671942713525276672",
+        "text": "Есть хотя бы один язык программирования, который мог быть ответить на вопрос \"откуда берётся это поле, как оно вычисляется и попадает сюда?\"",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UMHtf3KzIx",
+            "expanded_url": "https://twitter.com/jsunderhood/status/671942713525276672",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:51:46 +0000 2015",
+      "id": 671944832810635300,
+      "id_str": "671944832810635264",
+      "text": "@xnimorz как это выглядит в c?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671944533408677900,
+      "in_reply_to_status_id_str": "671944533408677888",
+      "in_reply_to_user_id": 200611008,
+      "in_reply_to_user_id_str": "200611008",
+      "in_reply_to_screen_name": "xnimorz",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xnimorz",
+            "name": "Мостовой Никита",
+            "id": 200611008,
+            "id_str": "200611008",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:55:26 +0000 2015",
+      "id": 671945754659954700,
+      "id_str": "671945754659954688",
+      "text": "Как разработчику поможет алгоритм чужого кода разобраться в нем? https://t.co/DbFK5WoGrf",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671943316225830900,
+      "quoted_status_id_str": "671943316225830912",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:45:45 +0000 2015",
+        "id": 671943316225830900,
+        "id_str": "671943316225830912",
+        "text": "А это точно задача ЯП, а не алгоритма, написанного программистом? https://t.co/qvgqKYaJdN",
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            54.7641991,
+            32.0329253
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            32.0329253,
+            54.7641991
+          ]
+        },
+        "place": {
+          "id": "7c811f547d7dde0f",
+          "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+          "place_type": "city",
+          "name": "Смоленск",
+          "full_name": "Смоленск, Смоленская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  31.787372,
+                  54.7131373
+                ],
+                [
+                  32.209311,
+                  54.7131373
+                ],
+                [
+                  32.209311,
+                  54.8508753
+                ],
+                [
+                  31.787372,
+                  54.8508753
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 671942713525276700,
+        "quoted_status_id_str": "671942713525276672",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/qvgqKYaJdN",
+              "expanded_url": "https://twitter.com/jsunderhood/status/671942713525276672",
+              "display_url": "twitter.com/jsunderhood/st…",
+              "indices": [
+                66,
+                89
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DbFK5WoGrf",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/671943316225830912",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:15:30 +0000 2015",
+      "id": 671950803532402700,
+      "id_str": "671950803532402688",
+      "text": "Разработчик написал код, как ЯП ему позволил https://t.co/IhN97Q2dj9 Потом, его, конечно уволили. Задача осталась https://t.co/UMHtf3KzIx",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671942713525276700,
+      "quoted_status_id_str": "671942713525276672",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:43:21 +0000 2015",
+        "id": 671942713525276700,
+        "id_str": "671942713525276672",
+        "text": "Есть хотя бы один язык программирования, который мог быть ответить на вопрос \"откуда берётся это поле, как оно вычисляется и попадает сюда?\"",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IhN97Q2dj9",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/671947224256004096",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              45,
+              68
+            ]
+          },
+          {
+            "url": "https://t.co/UMHtf3KzIx",
+            "expanded_url": "https://twitter.com/jsunderhood/status/671942713525276672",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:23:21 +0000 2015",
+      "id": 671952780521824300,
+      "id_str": "671952780521824256",
+      "text": "RT @alexeyraspopov: @jsunderhood это точно не задача языка. С этой задачей отлично справляются инструменты, построенные вокруг языка или ср…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 07:21:23 +0000 2015",
+        "id": 671952282582413300,
+        "id_str": "671952282582413312",
+        "text": "@jsunderhood это точно не задача языка. С этой задачей отлично справляются инструменты, построенные вокруг языка или среды выполнения",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671942713525276700,
+        "in_reply_to_status_id_str": "671942713525276672",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 39017272,
+          "id_str": "39017272"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexeyraspopov",
+            "name": "Alexey Raspopov",
+            "id": 39017272,
+            "id_str": "39017272",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:23:42 +0000 2015",
+      "id": 671952866597302300,
+      "id_str": "671952866597302273",
+      "text": ". @alexeyraspopov это так решил?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671952282582413300,
+      "in_reply_to_status_id_str": "671952282582413312",
+      "in_reply_to_user_id": 39017272,
+      "in_reply_to_user_id_str": "39017272",
+      "in_reply_to_screen_name": "alexeyraspopov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexeyraspopov",
+            "name": "Alexey Raspopov",
+            "id": 39017272,
+            "id_str": "39017272",
+            "indices": [
+              2,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:49:05 +0000 2015",
+      "id": 671959255205986300,
+      "id_str": "671959255205986304",
+      "text": "Нет https://t.co/Y1Z0yQpJYV Это как спросить курьера из какого склада товар, а у склада - у какого поставщика",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671953387714445300,
+      "quoted_status_id_str": "671953387714445312",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 07:25:46 +0000 2015",
+        "id": 671953387714445300,
+        "id_str": "671953387714445312",
+        "text": "@jsunderhood это все равно что попросить математику определить откуда вообще взялось 10 яблок у Буратино",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671953282273779700,
+        "in_reply_to_status_id_str": "671953282273779712",
+        "in_reply_to_user_id": 39017272,
+        "in_reply_to_user_id_str": "39017272",
+        "in_reply_to_screen_name": "alexeyraspopov",
+        "user": {
+          "id": 39017272,
+          "id_str": "39017272"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y1Z0yQpJYV",
+            "expanded_url": "https://twitter.com/alexeyraspopov/status/671953387714445312",
+            "display_url": "twitter.com/alexeyraspopov…",
+            "indices": [
+              4,
+              27
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:53:45 +0000 2015",
+      "id": 671960430760304600,
+      "id_str": "671960430760304640",
+      "text": "RT @ZaZooBred: @rubyunderhood @jsunderhood собственно, для какого-нибудь ember / handlebars наверное можно сделать трейсинг до метода или п…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 07:51:14 +0000 2015",
+        "id": 671959796564828200,
+        "id_str": "671959796564828164",
+        "text": "@rubyunderhood @jsunderhood собственно, для какого-нибудь ember / handlebars наверное можно сделать трейсинг до метода или поля объекта.",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671959291780325400,
+        "in_reply_to_status_id_str": "671959291780325376",
+        "in_reply_to_user_id": 198263738,
+        "in_reply_to_user_id_str": "198263738",
+        "in_reply_to_screen_name": "ZaZooBred",
+        "user": {
+          "id": 198263738,
+          "id_str": "198263738"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                15,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ZaZooBred",
+            "name": "Artem Ignatiev",
+            "id": 198263738,
+            "id_str": "198263738",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:54:26 +0000 2015",
+      "id": 671960600172478500,
+      "id_str": "671960600172478464",
+      "text": "Возможности и ограничения какого ЯП позволяют **инструментам** ответить на вопрос «Откуда это поле? Как оно вычислялось?»",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:54:50 +0000 2015",
+      "id": 671960703343947800,
+      "id_str": "671960703343947776",
+      "text": "Переформулировал для самых строгих https://t.co/CLtfhK0q6F",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671960600172478500,
+      "quoted_status_id_str": "671960600172478464",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 07:54:26 +0000 2015",
+        "id": 671960600172478500,
+        "id_str": "671960600172478464",
+        "text": "Возможности и ограничения какого ЯП позволяют **инструментам** ответить на вопрос «Откуда это поле? Как оно вычислялось?»",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CLtfhK0q6F",
+            "expanded_url": "https://twitter.com/jsunderhood/status/671960600172478464",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:59:48 +0000 2015",
+      "id": 671961953036836900,
+      "id_str": "671961953036836864",
+      "text": "@freiksenet_ru assembly language?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671961436814450700,
+      "in_reply_to_status_id_str": "671961436814450688",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 02 08:02:42 +0000 2015",
+      "id": 671962680526250000,
+      "id_str": "671962680526249984",
+      "text": "@freiksenet_ru а как это выглядит в java?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671962292066586600,
+      "in_reply_to_status_id_str": "671962292066586624",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 08:06:19 +0000 2015",
+      "id": 671963593601060900,
+      "id_str": "671963593601060864",
+      "text": "@alexeyraspopov любишь метафоры люби и саночки возить",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671963375090466800,
+      "in_reply_to_status_id_str": "671963375090466816",
+      "in_reply_to_user_id": 39017272,
+      "in_reply_to_user_id_str": "39017272",
+      "in_reply_to_screen_name": "alexeyraspopov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexeyraspopov",
+            "name": "Alexey Raspopov",
+            "id": 39017272,
+            "id_str": "39017272",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 08:09:38 +0000 2015",
+      "id": 671964426262683600,
+      "id_str": "671964426262683648",
+      "text": "@dmfilipenko главное чтобы фп не пригорело ;)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671956876511285200,
+      "in_reply_to_status_id_str": "671956876511285248",
+      "in_reply_to_user_id": 389377323,
+      "in_reply_to_user_id_str": "389377323",
+      "in_reply_to_screen_name": "dmfilipenko",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmfilipenko",
+            "name": "Dmitriy Filipenko",
+            "id": 389377323,
+            "id_str": "389377323",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 09:03:10 +0000 2015",
+      "id": 671977899814162400,
+      "id_str": "671977899814162432",
+      "text": "Поле зависит от кода, который так или иначе присваивает полю значение, от кода который написан на ЯП https://t.co/szvI2GmkVy",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671968293268422700,
+      "quoted_status_id_str": "671968293268422656",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 08:25:00 +0000 2015",
+        "id": 671968293268422700,
+        "id_str": "671968293268422656",
+        "text": "@jsunderhood @alexeyraspopov где взялось поле это вопр. абстрактный т.к. это поле зависит не от яп,а от технологий с кот.он взаимодействует",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671959255205986300,
+        "in_reply_to_status_id_str": "671959255205986304",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2659016898,
+          "id_str": "2659016898"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "alexeyraspopov",
+              "name": "Alexey Raspopov",
+              "id": 39017272,
+              "id_str": "39017272",
+              "indices": [
+                13,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/szvI2GmkVy",
+            "expanded_url": "https://twitter.com/AlexRybakUA/status/671968293268422656",
+            "display_url": "twitter.com/AlexRybakUA/st…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 09:50:57 +0000 2015",
+      "id": 671989925416443900,
+      "id_str": "671989925416443904",
+      "text": "@AlexRybakUA @alexeyraspopov От чего зависит поле. Откуда может взятся значение поля",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671979526470156300,
+      "in_reply_to_status_id_str": "671979526470156288",
+      "in_reply_to_user_id": 2659016898,
+      "in_reply_to_user_id_str": "2659016898",
+      "in_reply_to_screen_name": "AlexRybakUA",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexRybakUA",
+            "name": "Alex Rybak",
+            "id": 2659016898,
+            "id_str": "2659016898",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "alexeyraspopov",
+            "name": "Alexey Raspopov",
+            "id": 39017272,
+            "id_str": "39017272",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
