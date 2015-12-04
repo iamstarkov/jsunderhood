@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2421,
+  "followers_count": 2428,
   "friends_count": 1,
   "listed_count": 135,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,14 +35,14 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15199,
+  "statuses_count": 15204,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Dec 04 09:30:13 +0000 2015",
-    "id": 672709480971419600,
-    "id_str": "672709480971419648",
-    "text": "Наверно, можно и так https://t.co/KhwXqpDWAe",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Fri Dec 04 21:37:32 +0000 2015",
+    "id": 672892515729690600,
+    "id_str": "672892515729690624",
+    "text": "RT @mgrachev: MDK ищет frontend-разработчика. Подробности здесь: https://t.co/ITlg8ud6Px @jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,26 +53,97 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Fri Dec 04 21:23:39 +0000 2015",
+      "id": 672889021752868900,
+      "id_str": "672889021752868864",
+      "text": "MDK ищет frontend-разработчика. Подробности здесь: https://t.co/ITlg8ud6Px @jsunderhood",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              75,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ITlg8ud6Px",
+            "expanded_url": "https://moikrug.ru/vacancies/1000022448",
+            "display_url": "moikrug.ru/vacancies/1000…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "mgrachev",
+          "name": "Grachev Mikhail",
+          "id": 162758958,
+          "id_str": "162758958",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            89,
+            101
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/KhwXqpDWAe",
-          "expanded_url": "https://twitter.com/as_Crazy/status/672698022489362432",
-          "display_url": "twitter.com/as_Crazy/statu…",
+          "url": "https://t.co/ITlg8ud6Px",
+          "expanded_url": "https://moikrug.ru/vacancies/1000022448",
+          "display_url": "moikrug.ru/vacancies/1000…",
           "indices": [
-            21,
-            44
+            65,
+            88
           ]
         }
       ]
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
