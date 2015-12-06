@@ -2,9 +2,9 @@
 
 Collective twitter account for developers with new author each week.
 
-This is interesting analog of reddit AMA, but in tweetter with new functions.
-This account provide the ability to read and discuss controversial and important
-issues with a weekly changing sponsors.
+This is interesting analog of reddit AMA, but in twitter with new functions.
+This account provides the ability to read and discuss controversial and important
+issues with a weekly.
 
 ## What are the advantages?
 

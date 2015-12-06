@@ -1,26 +1,23 @@
 # Instructions for authors
 ## On start
-1. На старте обновите описание, аватарку, место и фоновую картинку.  
-  Проверьте, что в описании есть ссылка на ваш личный твиттер
-2. Поприветствуйте читателей и коротко представьте себя в паре твиттов
-3. Поделитесь свои планами на неделю в одном твите
-4. Если это возможно, то постарайтесь сделать всё вышеописанное в течение
-  пяти минут, чтобы ваши вводные твиты были сгрупированы у читателей в ленте
+1. At the beginning update description, avatar, location and background image.
+Make sure that there is a link  to your twitter in the description
+2. Say hello to readers and briefly introduce yourself in several tweets
+3. Tell us about your plans for the week in one tweet
 
 ## In the end
-1. В конце недели попрощайтесь с читателями и покажите вашу признательность
-2. Не забудьте представиться ещё раз, чтобы на вас подписались те,
-   кому вы понравились
+1. At the end of the week say goodbye to the readers and thank them
+2. Do not forget to introduce yourself again
 
 ## How to Talk
-Если вы хотите поделиться меншеном или беседой с читателями, то пожалуйста
-воспользуйтесь одним из двух способов ниже:
+If you want to share mentioned or conversation with readers, please use one
+of two methods below:
 
-1. «Цитирование» — самый простой способ отвечать:  
+1. "Quoting" - the easiest way to answer:
     ![](http://i.imgur.com/zZwMCsH.png)
-2. Ретвит и потом публичный реплай:  
+2. Retweet and after that public reply:
     ![](http://i.imgur.com/Ld3sjuN.png)
 
 ## What else to do
-Не следует ретвитить и реплаить лично, так как все увидят ретвит, но никто ответа.
-Попробуйте цитировать смотри «Как вести беседы п. 1»
+Do not retweet and reply personally, because everyone will see retweets, but no one answers.
+Try to quote. See "How to Talk #1"
