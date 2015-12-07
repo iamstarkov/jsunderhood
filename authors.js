@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'YodaPunk',        start: '30 Nov 2015', first: '671209996621905920', post: false },
+  { username: 'YodaPunk',        start: '30 Nov 2015', first: '671209996621905920' },
   { username: 'operatino',       start: '23 Nov 2015', first: '668701781757685760' },
   { username: 'touzoku',         start: '09 Nov 2015', first: '666605201915146240' },
   { username: 'mr_mig_by',       start: '09 Nov 2015', first: '663647143966691328' },
