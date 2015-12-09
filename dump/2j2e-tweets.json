@@ -8082,6 +8082,1231 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 19:34:54 +0000 2015",
+      "id": 674311205339664400,
+      "id_str": "674311205339664385",
+      "text": "Вспомнилось, завтра с утра расскажу, как нашел XSS дыру в одной зарубежной платежной системе и чем все закончилось.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:17:55 +0000 2015",
+      "id": 674503225479995400,
+      "id_str": "674503225479995392",
+      "text": "в 2009 году интегрировал я платежи в Moneybookers(Scrill нынче),для каждого платежа можно было указать 2-3 поля описания (по 100 символов)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:19:18 +0000 2015",
+      "id": 674503572999036900,
+      "id_str": "674503572999036928",
+      "text": "Стало интересно,работают ли там html теги-да работают,именно поля описания никак не проверялись на XSS,не экранировались",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:22:52 +0000 2015",
+      "id": 674504473532899300,
+      "id_str": "674504473532899328",
+      "text": "&lt;script&gt; естественно выполняелся, за 20 минут накидал plain js, который при сабмите оплаты(номер карты, ccv или логин/пароль) перехватывал",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:24:08 +0000 2015",
+      "id": 674504790731288600,
+      "id_str": "674504790731288576",
+      "text": "Было немного сложно вписаться в 2 по 100 символов,но тут помог jQuery, который успешно жил на сайте.Данные отсылались на любой сервер GET",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:25:13 +0000 2015",
+      "id": 674505064099237900,
+      "id_str": "674505064099237889",
+      "text": "Фактически продавая какой-то продукт по заманчивой цене и проводя через себя клиентов можно было собирать все данные.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:26:53 +0000 2015",
+      "id": 674505484632727600,
+      "id_str": "674505484632727552",
+      "text": "Описав проблему в Moneybookers я не получил никакого ответа, дыру не поправили,проверял потом несколько месяцев. Такая история jQuery-хакера",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:28:48 +0000 2015",
+      "id": 674505965597761500,
+      "id_str": "674505965597761536",
+      "text": "С какими уязвимостями сталкивались вы?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:47:20 +0000 2015",
+      "id": 674510629454127100,
+      "id_str": "674510629454127104",
+      "text": "@ivkinovich @mr_mig_by в среднем для приезжих предлагают не больше 65k по моим наблюдениям",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674510422347800600,
+      "in_reply_to_status_id_str": "674510422347800576",
+      "in_reply_to_user_id": 980239916,
+      "in_reply_to_user_id_str": "980239916",
+      "in_reply_to_screen_name": "ivkinovich",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivkinovich",
+            "name": "Ivan",
+            "id": 980239916,
+            "id_str": "980239916",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:51:40 +0000 2015",
+      "id": 674511717959880700,
+      "id_str": "674511717959880704",
+      "text": "@ivkinovich @mr_mig_by так и есть, но если брать точечно и искать самому, то есть хорошие предложения, мне друзья примеры показывали",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674511173778296800,
+      "in_reply_to_status_id_str": "674511173778296832",
+      "in_reply_to_user_id": 980239916,
+      "in_reply_to_user_id_str": "980239916",
+      "in_reply_to_screen_name": "ivkinovich",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivkinovich",
+            "name": "Ivan",
+            "id": 980239916,
+            "id_str": "980239916",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:52:50 +0000 2015",
+      "id": 674512012320354300,
+      "id_str": "674512012320354304",
+      "text": "Забыл сказать, написав в Moneybookers я описал проблему с определенными деталями и попросил 500$ за раскрытие всех деталей :)",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:54:06 +0000 2015",
+      "id": 674512333994074100,
+      "id_str": "674512333994074112",
+      "text": "@eden_lane дописал в паблик, я попросил за технические детали 500$ =) так что не было “спасти всех безвозмездно”",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674511237028253700,
+      "in_reply_to_status_id_str": "674511237028253696",
+      "in_reply_to_user_id": 382637989,
+      "in_reply_to_user_id_str": "382637989",
+      "in_reply_to_screen_name": "eden_lane",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eden_lane",
+            "name": "YourRain",
+            "id": 382637989,
+            "id_str": "382637989",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 08:59:38 +0000 2015",
+      "id": 674513725966168000,
+      "id_str": "674513725966168064",
+      "text": "@eden_lane видимо там особо никто не читал support@ и security@",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674512740556214300,
+      "in_reply_to_status_id_str": "674512740556214272",
+      "in_reply_to_user_id": 382637989,
+      "in_reply_to_user_id_str": "382637989",
+      "in_reply_to_screen_name": "eden_lane",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eden_lane",
+            "name": "YourRain",
+            "id": 382637989,
+            "id_str": "382637989",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 09:22:31 +0000 2015",
+      "id": 674519482962964500,
+      "id_str": "674519482962964480",
+      "text": "@lifeasecond любой из декораторов https://t.co/iPb9PxP447",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674518491341418500,
+      "in_reply_to_status_id_str": "674518491341418497",
+      "in_reply_to_user_id": 183637061,
+      "in_reply_to_user_id_str": "183637061",
+      "in_reply_to_screen_name": "lifeasecond",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lifeasecond",
+            "name": "Artur Parkhisenko",
+            "id": 183637061,
+            "id_str": "183637061",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iPb9PxP447",
+            "expanded_url": "https://github.com/jayphelps/core-decorators.js/tree/master/src",
+            "display_url": "github.com/jayphelps/core…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 09:31:50 +0000 2015",
+      "id": 674521829466349600,
+      "id_str": "674521829466349568",
+      "text": "@lifeasecond если со смесью реакта https://t.co/MPVvX1A2bU там нет наследования, но его легко сделать",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674520962096828400,
+      "in_reply_to_status_id_str": "674520962096828416",
+      "in_reply_to_user_id": 183637061,
+      "in_reply_to_user_id_str": "183637061",
+      "in_reply_to_screen_name": "lifeasecond",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lifeasecond",
+            "name": "Artur Parkhisenko",
+            "id": 183637061,
+            "id_str": "183637061",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MPVvX1A2bU",
+            "expanded_url": "https://github.com/jurassix/react-validation-mixin/blob/master/src/components/validationMixin.js",
+            "display_url": "github.com/jurassix/react…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 09:32:45 +0000 2015",
+      "id": 674522057753935900,
+      "id_str": "674522057753935872",
+      "text": "@lifeasecond чуток проще https://t.co/4rLuTaPvHK",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674520962096828400,
+      "in_reply_to_status_id_str": "674520962096828416",
+      "in_reply_to_user_id": 183637061,
+      "in_reply_to_user_id_str": "183637061",
+      "in_reply_to_screen_name": "lifeasecond",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lifeasecond",
+            "name": "Artur Parkhisenko",
+            "id": 183637061,
+            "id_str": "183637061",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4rLuTaPvHK",
+            "expanded_url": "https://gist.github.com/brigand/1c476f365a503d5a1e2d",
+            "display_url": "gist.github.com/brigand/1c476f…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 09:40:01 +0000 2015",
+      "id": 674523886915084300,
+      "id_str": "674523886915084288",
+      "text": "Миф о гениальном программисте, 55 минут, как не бояться ошибок или выглядеть глупым, ставьте на фон и слушайте\nhttps://t.co/M5zo85AGRJ",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 33,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/M5zo85AGRJ",
+            "expanded_url": "https://www.youtube.com/watch?v=0SARbwvhupQ",
+            "display_url": "youtube.com/watch?v=0SARbw…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 09:47:57 +0000 2015",
+      "id": 674525883823235100,
+      "id_str": "674525883823235073",
+      "text": "@lifeasecond а ты какое наследование хочешь увидеть?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674524623082491900,
+      "in_reply_to_status_id_str": "674524623082491904",
+      "in_reply_to_user_id": 183637061,
+      "in_reply_to_user_id_str": "183637061",
+      "in_reply_to_screen_name": "lifeasecond",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lifeasecond",
+            "name": "Artur Parkhisenko",
+            "id": 183637061,
+            "id_str": "183637061",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 10:33:30 +0000 2015",
+      "id": 674537347514519600,
+      "id_str": "674537347514519552",
+      "text": "Не выдержал наследия и спустя полгода снова поставил VS Code  на тест, пока хорошо, даже JSX после правки конфигов подсвечивает из .js",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 10:43:47 +0000 2015",
+      "id": 674539935920164900,
+      "id_str": "674539935920164864",
+      "text": "@twenty WebStorm, но с переодичностью смотрю на все редакторы выбирая какой-то на неделю.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674539399187734500,
+      "in_reply_to_status_id_str": "674539399187734528",
+      "in_reply_to_user_id": 12775382,
+      "in_reply_to_user_id_str": "12775382",
+      "in_reply_to_screen_name": "twenty",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twenty",
+            "name": "Павел Франков",
+            "id": 12775382,
+            "id_str": "12775382",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 10:44:25 +0000 2015",
+      "id": 674540093177241600,
+      "id_str": "674540093177241600",
+      "text": "@twenty и жутко не люблю собирать поддержку каждого чиха руками, поэтому sublime и atom все не приживаются",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674539399187734500,
+      "in_reply_to_status_id_str": "674539399187734528",
+      "in_reply_to_user_id": 12775382,
+      "in_reply_to_user_id_str": "12775382",
+      "in_reply_to_screen_name": "twenty",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twenty",
+            "name": "Павел Франков",
+            "id": 12775382,
+            "id_str": "12775382",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 11:31:57 +0000 2015",
+      "id": 674552057844670500,
+      "id_str": "674552057844670464",
+      "text": "@hellbeast92 я бы напакостил себе, попыткой умыкнуть чужое и заработав срок, я ведь программист, а не вор, другие скилы там уже нужны",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674551494130180100,
+      "in_reply_to_status_id_str": "674551494130180096",
+      "in_reply_to_user_id": 2504248329,
+      "in_reply_to_user_id_str": "2504248329",
+      "in_reply_to_screen_name": "hellbeast92",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hellbeast92",
+            "name": "Александр Староверов",
+            "id": 2504248329,
+            "id_str": "2504248329",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 11:36:34 +0000 2015",
+      "id": 674553217116733400,
+      "id_str": "674553217116733440",
+      "text": "@hellbeast92 нууу, для этого поток пользователей должен был быть большое, я же не ebay интегрировал",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674552418613518300,
+      "in_reply_to_status_id_str": "674552418613518336",
+      "in_reply_to_user_id": 2504248329,
+      "in_reply_to_user_id_str": "2504248329",
+      "in_reply_to_screen_name": "hellbeast92",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hellbeast92",
+            "name": "Александр Староверов",
+            "id": 2504248329,
+            "id_str": "2504248329",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 11:58:02 +0000 2015",
+      "id": 674558620453965800,
+      "id_str": "674558620453965824",
+      "text": "@lane_en @twenty к нему у меня первое требование - это не умирать работая с файлами 2-5мб, не могу bundle.js даже открыть толком",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674557318923575300,
+      "in_reply_to_status_id_str": "674557318923575296",
+      "in_reply_to_user_id": 2676357985,
+      "in_reply_to_user_id_str": "2676357985",
+      "in_reply_to_screen_name": "lane_en",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lane_en",
+            "name": "eden lane",
+            "id": 2676357985,
+            "id_str": "2676357985",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "twenty",
+            "name": "Павел Франков",
+            "id": 12775382,
+            "id_str": "12775382",
+            "indices": [
+              9,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 12:15:22 +0000 2015",
+      "id": 674562982886641700,
+      "id_str": "674562982886641664",
+      "text": "@twenty @lane_en пример-настраиваешь первый раз бабели,браузерифаи и тут понимаешь, что-то идет не так, не в том порядке, смотришь результат",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674559691805089800,
+      "in_reply_to_status_id_str": "674559691805089792",
+      "in_reply_to_user_id": 12775382,
+      "in_reply_to_user_id_str": "12775382",
+      "in_reply_to_screen_name": "twenty",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twenty",
+            "name": "Павел Франков",
+            "id": 12775382,
+            "id_str": "12775382",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "lane_en",
+            "name": "eden lane",
+            "id": 2676357985,
+            "id_str": "2676357985",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 14:38:48 +0000 2015",
+      "id": 674599079821885400,
+      "id_str": "674599079821885440",
+      "text": "@ivkinovich @mr_mig_by много вакансий и сингл уже грустно, если хочешь качественно рости вверх качеством жизни",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674598797398417400,
+      "in_reply_to_status_id_str": "674598797398417409",
+      "in_reply_to_user_id": 980239916,
+      "in_reply_to_user_id_str": "980239916",
+      "in_reply_to_screen_name": "ivkinovich",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivkinovich",
+            "name": "Ivan",
+            "id": 980239916,
+            "id_str": "980239916",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 09 15:01:42 +0000 2015",
+      "id": 674604843672215600,
+      "id_str": "674604843672215552",
+      "text": "@mr_mig_by @ivkinovich на моей памяти там скидки - кот наплакал 1k?",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674604448442781700,
+      "in_reply_to_status_id_str": "674604448442781696",
+      "in_reply_to_user_id": 170772902,
+      "in_reply_to_user_id_str": "170772902",
+      "in_reply_to_screen_name": "mr_mig_by",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "ivkinovich",
+            "name": "Ivan",
+            "id": 980239916,
+            "id_str": "980239916",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Dec 09 15:15:38 +0000 2015",
+      "id": 674608348105465900,
+      "id_str": "674608348105465857",
+      "text": "@mr_mig_by @ivkinovich а про NYC я вообще скажу, что ты платишь за возможность ходить по Манхеттену",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674607499849285600,
+      "in_reply_to_status_id_str": "674607499849285632",
+      "in_reply_to_user_id": 170772902,
+      "in_reply_to_user_id_str": "170772902",
+      "in_reply_to_screen_name": "mr_mig_by",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "ivkinovich",
+            "name": "Ivan",
+            "id": 980239916,
+            "id_str": "980239916",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

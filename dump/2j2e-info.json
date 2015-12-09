@@ -26,84 +26,34 @@
     }
   },
   "protected": false,
-  "followers_count": 2469,
+  "followers_count": 2483,
   "friends_count": 1,
-  "listed_count": 134,
+  "listed_count": 136,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 32,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15339,
+  "statuses_count": 15367,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 08 15:41:45 +0000 2015",
-    "id": 674252534194786300,
-    "id_str": "674252534194786304",
-    "text": "RT @mr_mig_by: .@jsunderhood пацаны тут релоцируют в Берлин. React, Ember, все дела.\nКто хочет? https://t.co/kxBhAqke9k",
+    "created_at": "Wed Dec 09 15:15:38 +0000 2015",
+    "id": 674608348105465900,
+    "id_str": "674608348105465857",
+    "text": "@mr_mig_by @ivkinovich а про NYC я вообще скажу, что ты платишь за возможность ходить по Манхеттену",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 674607499849285600,
+    "in_reply_to_status_id_str": "674607499849285632",
+    "in_reply_to_user_id": 170772902,
+    "in_reply_to_user_id_str": "170772902",
+    "in_reply_to_screen_name": "mr_mig_by",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Dec 08 15:40:35 +0000 2015",
-      "id": 674252241059074000,
-      "id_str": "674252241059074048",
-      "text": ".@jsunderhood пацаны тут релоцируют в Берлин. React, Ember, все дела.\nКто хочет? https://t.co/kxBhAqke9k",
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 3,
-      "favorite_count": 1,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              1,
-              13
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/kxBhAqke9k",
-            "expanded_url": "https://twitter.com/duksis/status/674251648240324608",
-            "display_url": "twitter.com/duksis/status/…",
-            "indices": [
-              81,
-              104
-            ]
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "retweet_count": 3,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -115,36 +65,25 @@
           "id": 170772902,
           "id_str": "170772902",
           "indices": [
-            3,
-            13
+            0,
+            10
           ]
         },
         {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
+          "screen_name": "ivkinovich",
+          "name": "Ivan",
+          "id": 980239916,
+          "id_str": "980239916",
           "indices": [
-            16,
-            28
+            11,
+            22
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/kxBhAqke9k",
-          "expanded_url": "https://twitter.com/duksis/status/674251648240324608",
-          "display_url": "twitter.com/duksis/status/…",
-          "indices": [
-            96,
-            119
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
