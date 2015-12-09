@@ -11,6 +11,7 @@ import unidecode from 'unidecode';
 import trimTag from 'trim-html-tag';
 import { parse } from 'url';
 import authors from '../dump';
+import { underhood } from '../.underhoodrc.json';
 
 const getQuotedUser = pipe(
   path(['entities', 'urls']),
@@ -23,7 +24,7 @@ const getQuotedUser = pipe(
 moment.locale('ru');
 
 const weekday = date => moment(new Date(date)).format('dddd');
-const tweetLink = (tweet) => `https://twitter.com/jsunderhood/status/${tweet.id_str}`;
+const tweetLink = (tweet) => `https://twitter.com/${underhood}/status/${tweet.id_str}`;
 const tweetTime = (tweet) => moment(new Date(tweet.created_at)).format('H:mm');
 
 const authorsToPost = filter(author => author.post !== false, authors);
