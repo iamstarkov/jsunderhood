@@ -25,7 +25,7 @@ import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
 import getStats from './stats.js';
-import { site } from './.underhoodrc.json';
+import { underhood, site } from './.underhoodrc.json';
 import webpackConfig from './webpack.config.babel.js';
 
 import authorRender from './helpers/author-render';
@@ -105,6 +105,7 @@ task('md-pages', ['css'], done => {
         locals: merge(article, {
           title: item.title,
           url: item.name + '/',
+          underhood,
           helpers: { bust },
         }),
       }))
