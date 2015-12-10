@@ -6,7 +6,7 @@
         .page-header
           h1.site-title
             block headerTitle
-          p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю.
+          p= underhood.site.description
             br
             i  Уже #{numbers(people(latestInfo.followers_count))} в теме.
     .row
