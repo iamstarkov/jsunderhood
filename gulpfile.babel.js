@@ -25,7 +25,7 @@ import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
 import getStats from './stats.js';
-import { site } from './package.json';
+import { site } from './.underhoodrc.json';
 import webpackConfig from './webpack.config.babel.js';
 
 import authorRender from './helpers/author-render';
