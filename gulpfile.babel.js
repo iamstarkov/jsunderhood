@@ -25,7 +25,7 @@ import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
 import getStats from './stats.js';
-import { underhood, site } from './.underhoodrc.json';
+import underhood from './.underhoodrc.json';
 import webpackConfig from './webpack.config.babel.js';
 
 import authorRender from './helpers/author-render';
@@ -41,7 +41,7 @@ const task = _task.bind(gulp);
 const jadeDefaults = {
   pretty: true,
   locals: {
-    site,
+    site: underhood.site,
     latestInfo,
     numbers: input => numbers(input, { locale: 'ru' }),
     people: numd('человек', 'человека', 'человек'),
@@ -65,8 +65,9 @@ task('index', ['css'], () => {
   return src('layouts/index.jade')
     .pipe(jade({
       locals: {
-        title: `Сайт @${site.title}`,
-        desc: site.description,
+        title: `Сайт @${underhood.site.title}`,
+        desc: underhood.site.description,
+        underhood,
         currentAuthor: head(authors),
         authors: splitEvery(3, authorsToPost),
         helpers: { bust, firstTweet, render },
@@ -80,10 +81,11 @@ task('stats', ['css'], () =>
   src('layouts/stats.jade')
     .pipe(jade({
       locals: {
-        title: `Статистика @${site.title}`,
+        title: `Статистика @${underhood.site.title}`,
         url: 'stats/',
-        desc: site.description,
+        desc: underhood.site.description,
         lastUpdated,
+        underhood,
         stats: getStats(authors),
         helpers: { bust },
       },
@@ -116,7 +118,7 @@ task('md-pages', ['css'], done => {
 });
 
 task('rss', done => {
-  const feed = new RSS(site);
+  const feed = new RSS(underhood.site);
   const authorsToPost = authors.filter(author => author.post !== false);
   authorsToPost.forEach(author => {
     feed.item({
@@ -136,7 +138,7 @@ task('authors', ['css'], done => {
       .pipe(jade({
         pretty: true,
         locals: {
-          title: `Неделя @${author.username} в @${site.title}`,
+          title: `Неделя @${author.username} в @${underhood.site.title}`,
           author, underhood,
           helpers: { authorRender, bust },
         },
