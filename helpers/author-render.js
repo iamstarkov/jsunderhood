@@ -42,7 +42,7 @@ const prevAuthor = author => {
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
-const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
+const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
 const prepareTweets = pipe(
   filter(filterTimeline),
   groupBy(pipe(prop('created_at'), weekday)),
