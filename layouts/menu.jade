@@ -1,5 +1,5 @@
 nav
-  a.btn.btn-success.btn-menu(href="https://twitter.com/jsunderhood")
+  a.btn.btn-success.btn-menu(href="https://twitter.com/" + underhood.underhood)
     b Подписаться
   a(href="/stats/") Статистика
   = " • "
@@ -9,8 +9,8 @@ nav
   = " • "
   a(href="/rss.xml") RSS
   = " • "
-  a(href="https://github.com/iamstarkov/jsunderhood") GitHub
+  a(href="https://github.com/#{underhood.repo}") GitHub
   = " • "
-  a(href="https://google.com/?q=site:jsunderhood.ru+что-нибудь") Поиск
+  a(href="https://google.com/?q=site:#{underhood.site.site_url}+что-нибудь") Поиск
   = " • "
   a(href="https://github.com/iamstarkov/awesome-collective-twitters") Похожие проекты
