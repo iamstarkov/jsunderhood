@@ -1,16 +1,15 @@
 extend page
 
 block meta
-  meta(name="og:title"        content="Архив недели " + author.username + " в " + site.title )
+  meta(name="og:title"        content=title)
   meta(name="og:url"          content=site.site_url + author.username + "/")
   meta(name="og:image"        content=site.site_url + author.media.image.replace('./', ''))
   meta(property="description" content=author.tweets[0].text)
   meta(name="og:description"  content=author.tweets[0].text)
 
 block headerTitle
-  a(href="/") jsunderhood
-  small= " / "
-    = author.username
+  a(href="/")= underhood
+  small= " / " + author.username
 
 block content
   .container
