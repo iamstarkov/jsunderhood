@@ -35,56 +35,45 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15397,
+  "statuses_count": 15398,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Dec 13 17:40:22 +0000 2015",
-    "id": 676094323092529200,
-    "id_str": "676094323092529152",
-    "text": "@gearmobile вот логика формирования urlов для видео https://t.co/AmxRfZ0a3a src: '// все решает",
+    "created_at": "Sun Dec 13 19:35:04 +0000 2015",
+    "id": 676123186996621300,
+    "id_str": "676123186996621312",
+    "text": "С вами был @2j2e не забывайте расширять свои границы и быть больше, чем просто программист",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 676082122222870500,
-    "in_reply_to_status_id_str": "676082122222870528",
-    "in_reply_to_user_id": 85618387,
-    "in_reply_to_user_id_str": "85618387",
-    "in_reply_to_screen_name": "gearmobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "gearmobile",
-          "name": "Valery Semenencko",
-          "id": 85618387,
-          "id_str": "85618387",
+          "screen_name": "2j2e",
+          "name": "Eugene Zharkov",
+          "id": 22299155,
+          "id_str": "22299155",
           "indices": [
-            0,
-            11
+            11,
+            16
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/AmxRfZ0a3a",
-          "expanded_url": "https://github.com/dimsemenov/Magnific-Popup/blob/master/src/js/iframe.js#L33-L47",
-          "display_url": "github.com/dimsemenov/Mag…",
-          "indices": [
-            52,
-            75
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
