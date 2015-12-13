@@ -14275,6 +14275,328 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Sat Dec 12 23:02:47 +0000 2015",
+      "id": 675813072796311600,
+      "id_str": "675813072796311554",
+      "text": "@day_spring @jsunderhood посмотри это :) https://t.co/T56sqfyKkg",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651066918481301500,
+      "in_reply_to_status_id_str": "651066918481301504",
+      "in_reply_to_user_id": 1283180905,
+      "in_reply_to_user_id_str": "1283180905",
+      "in_reply_to_screen_name": "day_spring",
+      "user": {
+        "id": 219444750,
+        "id_str": "219444750"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.1316733,
+                55.4908342
+              ],
+              [
+                37.9650116,
+                55.4908342
+              ],
+              [
+                37.9650116,
+                56.0209192
+              ],
+              [
+                37.1316733,
+                56.0209192
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 654338343942127600,
+      "quoted_status_id_str": "654338343942127618",
+      "quoted_status": {
+        "created_at": "Wed Oct 14 16:49:52 +0000 2015",
+        "id": 654338343942127600,
+        "id_str": "654338343942127618",
+        "text": "Запись моего выступления с докладом \"#Redux: the best for isomorphic apps\" на #MoscowJS http://t.co/pqOLDSgG7U",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 219444750,
+          "id_str": "219444750"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 19,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Redux",
+              "indices": [
+                37,
+                43
+              ]
+            },
+            {
+              "text": "MoscowJS",
+              "indices": [
+                78,
+                87
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "http://t.co/pqOLDSgG7U",
+              "expanded_url": "http://www.youtube.com/watch?v=Uyk_8WWna6s",
+              "display_url": "youtube.com/watch?v=Uyk_8W…",
+              "indices": [
+                88,
+                110
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "day_spring",
+            "name": "Olya S.",
+            "id": 1283180905,
+            "id_str": "1283180905",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/T56sqfyKkg",
+            "expanded_url": "https://twitter.com/denisizmaylov/status/654338343942127618",
+            "display_url": "twitter.com/denisizmaylov/…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 13 09:56:55 +0000 2015",
+      "id": 675977690923536400,
+      "id_str": "675977690923536385",
+      "text": "@DenisIzmaylov @jsunderhood благодарю",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 675813072796311600,
+      "in_reply_to_status_id_str": "675813072796311554",
+      "in_reply_to_user_id": 219444750,
+      "in_reply_to_user_id_str": "219444750",
+      "in_reply_to_screen_name": "DenisIzmaylov",
+      "user": {
+        "id": 1283180905,
+        "id_str": "1283180905"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DenisIzmaylov",
+            "name": "Denis Izmaylov",
+            "id": 219444750,
+            "id_str": "219444750",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 13 16:51:53 +0000 2015",
+      "id": 676082122222870500,
+      "id_str": "676082122222870528",
+      "text": "@jsunderhood почему здесь - https://t.co/5jj5sqPyFN … все работает. А на локальной машине этот же код не работает - \"File not found\" ?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 85618387,
+        "id_str": "85618387"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5jj5sqPyFN",
+            "expanded_url": "http://codepen.io/gearmobile/pen/jWbZBB",
+            "display_url": "codepen.io/gearmobile/pen…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 13 19:09:20 +0000 2015",
+      "id": 676116710894751700,
+      "id_str": "676116710894751744",
+      "text": "@jsunderhood @2j2e не забудь попрощаться",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 676094323092529200,
+      "in_reply_to_status_id_str": "676094323092529152",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 98084311,
+        "id_str": "98084311"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "2j2e",
+            "name": "Eugene Zharkov",
+            "id": 22299155,
+            "id_str": "22299155",
+            "indices": [
+              13,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
