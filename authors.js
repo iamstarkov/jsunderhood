@@ -1,3 +1,5 @@
+/* eslint-disable no-multi-spaces */
+
 export default [
   // post: false
   { username: 'rdvornov',        start: '14 Dec 2015', first: '676344260405411841', post: false },
