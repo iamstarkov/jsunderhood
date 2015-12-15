@@ -65,7 +65,7 @@ task('index', ['css'], () => {
   return src('layouts/index.jade')
     .pipe(jade({
       locals: {
-        title: `Сайт @${underhood.site.title}`,
+        title: `Сайт @${underhood.underhood}`,
         desc: underhood.site.description,
         underhood,
         currentAuthor: head(authors),
@@ -81,9 +81,9 @@ task('stats', ['css'], () =>
   src('layouts/stats.jade')
     .pipe(jade({
       locals: {
-        title: `Статистика @${underhood.site.title}`,
+        title: `Статистика @${underhood.underhood}`,
         url: 'stats/',
-        desc: underhood.site.description,
+        desc: underhood.underhoodDesc,
         lastUpdated,
         underhood,
         stats: getStats(authors),
@@ -138,7 +138,7 @@ task('authors', ['css'], done => {
       .pipe(jade({
         pretty: true,
         locals: {
-          title: `Неделя @${author.username} в @${underhood.site.title}`,
+          title: `Неделя @${author.username} в @${underhood.underhood}`,
           author, underhood,
           helpers: { authorRender, bust },
         },
