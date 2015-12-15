@@ -5,6 +5,7 @@ import moment from 'moment';
 import dec from 'bignum-dec';
 import { sync as rm } from 'rimraf';
 
+import { underhood } from '../.underhoodrc.json';
 import authors from './authors';
 
 import tokens from 'twitter-tokens';
@@ -26,24 +27,24 @@ const tweets = getAuthorArea(username, 'tweets').tweets || [];
 const mentions = getAuthorArea(username, 'mentions').mentions || [];
 
 const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
-getTweets(tokens, 'jsunderhood', tweetsSinceId, (err, newTweetsRaw) => {
+getTweets(tokens, underhood, tweetsSinceId, (err, newTweetsRaw) => {
   if (err) throw err;
   const concattedTweets = concat(tweets, reverse(newTweetsRaw));
   saveAuthorArea(username, 'tweets', { tweets: concattedTweets });
 });
 
-getInfo(tokens, 'jsunderhood', (err, info) => {
+getInfo(tokens, underhood, (err, info) => {
   if (err) throw err;
   saveAuthorArea(username, 'info', info);
 });
 
 rm(`./dump/images/${username}*`);
-saveMedia(tokens, 'jsunderhood', username, (err, media) => {
+saveMedia(tokens, underhood, username, (err, media) => {
   if (err) throw err;
   saveAuthorArea(username, 'media', media);
 });
 
-getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
+getFollowers(tokens, underhood, (err, followersWithStatuses) => {
   if (err) throw err;
   const followers = map(dissoc('status'), followersWithStatuses);
   saveAuthorArea(username, 'followers', { followers });
