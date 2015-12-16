@@ -13,6 +13,7 @@ const getStatsPerAuthor = authors =>
     .map(author => merge(author, stats(author.tweets)));
 
 export default function getStats(authors) {
+  if (!authors || authors.length === 0) return;
   return maxValues(getStatsPerAuthor(authors), [
     'tweets', 'gainedFollowers',
     'own.total', 'replies.total', 'retweets.total',

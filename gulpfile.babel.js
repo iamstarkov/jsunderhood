@@ -33,7 +33,7 @@ import bust from './helpers/bust';
 import lastUpdated from './helpers/last-updated';
 
 import authors from './dump';
-const latestInfo = head(authors).info;
+const latestInfo = (head(authors) || {}).info;
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
