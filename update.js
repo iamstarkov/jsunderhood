@@ -5,7 +5,7 @@ import moment from 'moment';
 import dec from 'bignum-dec';
 import { sync as rm } from 'rimraf';
 
-import { underhood } from '../.underhoodrc.json';
+import { underhood } from './.underhoodrc.json';
 import authors from './authors';
 
 import tokens from 'twitter-tokens';
