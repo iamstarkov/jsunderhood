@@ -9,7 +9,7 @@ if ($('.js-stats')) {
   require([
     'moment',
     'tablesort',
-    'imports?Tablesort=tablesort!tablesort/src/sorts/tablesort.numeric',
+    'imports?Tablesort=tablesort!tablesort/src/sorts/tablesort.number',
   ], (moment, tablesort) => {
     tablesort($('.host-stats'), { descending: true });
 
