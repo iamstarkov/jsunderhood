@@ -7,8 +7,9 @@
           h1.site-title
             block headerTitle
           p= underhood.site.description
-            br
-            i  Уже #{numbers(people(latestInfo.followers_count))} в теме.
+            if latestInfo !== undefined
+              br
+              i Уже #{numbers(people(latestInfo.followers_count))} в теме.
     .row
       .col-md-12
           include share-text
