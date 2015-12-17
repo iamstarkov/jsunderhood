@@ -66,7 +66,7 @@ task('index', ['css'], () => {
     .pipe(jade({
       locals: {
         title: `Сайт @${underhood.underhood}`,
-        desc: underhood.site.description,
+        desc: underhood.underhoodDesc,
         underhood,
         currentAuthor: head(authors),
         authors: splitEvery(3, authorsToPost),
