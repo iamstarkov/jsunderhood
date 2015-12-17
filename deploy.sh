@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 echo "set git environment"
 git config user.email "iamstarkov+tachikombie@gmail.com"
