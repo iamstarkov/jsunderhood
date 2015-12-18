@@ -11,13 +11,14 @@ block headerTitle
   = site.title
 
 block content
-  article.container
-    a.now-playing-wrapper(href="https://twitter.com/" + underhood.underhood)
-      .now-playing
-        .now-playing__userpic
-        .now-playing__info
-          .small На этой неделе твиттер ведёт:<br/>
-          .now-playing__username= "@" + currentAuthor.username
+  if currentAuthor
+    article.container
+      a.now-playing-wrapper(href="https://twitter.com/" + underhood.underhood)
+        .now-playing
+          .now-playing__userpic
+          .now-playing__info
+            .small На этой неделе твиттер ведёт:<br/>
+            .now-playing__username @#{currentAuthor.username}
 
   article.container
     each row in authors
