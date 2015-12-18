@@ -155,13 +155,13 @@ task('userpics', () =>
     .pipe(dest('dist/images')));
 
 task('current-userpic', () =>
-  src(`dump/images/${head(authors).username}-image*`)
+  head(authors) && src(`dump/images/${head(authors).username}-image*`)
     .pipe(jimp({ resize: { width: 192, height: 192 }}))
     .pipe(rename('current-image'))
     .pipe(dest('dist/images')));
 
 task('current-banner', () =>
-  src(`dump/images/${head(authors).username}-banner*`)
+  head(authors) && src(`dump/images/${head(authors).username}-banner*`)
     .pipe(rename('current-banner'))
     .pipe(dest('dist/images')));
 
