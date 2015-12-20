@@ -46,34 +46,54 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15843,
+  "statuses_count": 15845,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Dec 20 18:03:48 +0000 2015",
-    "id": 678636934776926200,
-    "id_str": "678636934776926209",
-    "text": "Подписывайтесь на блоги браузеров. Там не только новости, но и хорошие технические статьи",
+    "created_at": "Sun Dec 20 18:15:18 +0000 2015",
+    "id": 678639828561457200,
+    "id_str": "678639828561457152",
+    "text": "Хорошие статьи вроде таких\nhttps://t.co/VsiZzDvNVR\nhttps://t.co/DJsHXAnO1m",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 678636934776926200,
+    "in_reply_to_status_id_str": "678636934776926209",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/VsiZzDvNVR",
+          "expanded_url": "https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/",
+          "display_url": "webkit.org/blog/3362/intr…",
+          "indices": [
+            27,
+            50
+          ]
+        },
+        {
+          "url": "https://t.co/DJsHXAnO1m",
+          "expanded_url": "https://blogs.msdn.microsoft.com/ie/2014/10/09/announcing-key-advances-to-javascript-performance-in-windows-10-technical-preview/",
+          "display_url": "blogs.msdn.microsoft.com/ie/2014/10/09/…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
