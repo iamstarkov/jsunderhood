@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2560,
+  "followers_count": 2570,
   "friends_count": 0,
   "listed_count": 141,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15857,
+  "statuses_count": 15882,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 21 13:33:55 +0000 2015",
-    "id": 678931404621791200,
-    "id_str": "678931404621791232",
-    "text": "На этой неделе мы поговорим в основном про поддержку большой базы JavaScript'а, тулзы и поразмышляем о будущем JS-разработки",
+    "created_at": "Tue Dec 22 15:04:09 +0000 2015",
+    "id": 679316499996262400,
+    "id_str": "679316499996262404",
+    "text": "@cssunderhood используемые редакторы/IDE было бы интересно посмотреть, сколько разработчиков пишут в vim/emacs, например",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 679298199576776700,
+    "in_reply_to_status_id_str": "679298199576776704",
+    "in_reply_to_user_id": 3376999971,
+    "in_reply_to_user_id_str": "3376999971",
+    "in_reply_to_screen_name": "cssunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
