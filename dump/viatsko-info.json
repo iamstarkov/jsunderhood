@@ -37,55 +37,104 @@
     }
   },
   "protected": false,
-  "followers_count": 2578,
+  "followers_count": 2606,
   "friends_count": 0,
-  "listed_count": 143,
+  "listed_count": 148,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 1,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15906,
+  "statuses_count": 15962,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 23 13:04:48 +0000 2015",
-    "id": 679648851435851800,
-    "id_str": "679648851435851776",
-    "text": ".@lifeasecond круто, спасибо, что поделился ;) про hyperclick - не очень функционально вне flow, увы :(",
+    "created_at": "Sat Dec 26 08:34:16 +0000 2015",
+    "id": 680667934658818000,
+    "id_str": "680667934658818048",
+    "text": "RT @mr_mig_by: @jsunderhood работаем фуллстек. Последний стек scala + nodejs + angular/react. \nСейчас я облизываюсь на  clojure + clojuresc…",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 679648496681660400,
-    "in_reply_to_status_id_str": "679648496681660416",
-    "in_reply_to_user_id": 183637061,
-    "in_reply_to_user_id_str": "183637061",
-    "in_reply_to_screen_name": "lifeasecond",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Sat Dec 26 07:37:17 +0000 2015",
+      "id": 680653592378871800,
+      "id_str": "680653592378871808",
+      "text": "@jsunderhood работаем фуллстек. Последний стек scala + nodejs + angular/react. \nСейчас я облизываюсь на  clojure + clojurescript.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 680475290477432800,
+      "in_reply_to_status_id_str": "680475290477432833",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lifeasecond",
-          "name": "Artur Parkhisenko",
-          "id": 183637061,
-          "id_str": "183637061",
+          "screen_name": "mr_mig_by",
+          "name": "Alexey Migutsky",
+          "id": 170772902,
+          "id_str": "170772902",
           "indices": [
-            1,
+            3,
             13
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            15,
+            27
           ]
         }
       ],
       "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "lang": "ru"
+    "retweeted": true,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
