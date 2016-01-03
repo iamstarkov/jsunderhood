@@ -3,7 +3,8 @@ extend page
 block meta
   meta(name="og:title"        content=title)
   meta(name="og:url"          content=site.site_url + author.username + "/")
-  meta(name="og:image"        content=site.site_url + author.media.image.replace('./', ''))
+  if (author.media && author.media.image)
+    meta(name="og:image"        content=site.site_url + author.media.image.replace('./', ''))
   meta(property="description" content=author.tweets[0].text)
   meta(name="og:description"  content=author.tweets[0].text)
 
@@ -17,7 +18,8 @@ block content
       .col-md-6.col-md-offset-3
         article
           .title
-            div.img-circle.author-image(style="background-image: url(" + author.media.image.replace('./', '/') + ");")
+            if (author.media && author.media.image)
+              div.img-circle.author-image(style="background-image: url(" + author.media.image.replace('./', '/') + ");")
             h1= author.username
               = " "
               small: small: a(href="https://twitter.com/" + author.username)
@@ -100,7 +102,8 @@ block content
                 .col-xs-6.text-left
                   .h3.author-prev-next
                     = "← "
-                    div.img-circle.author-image.author-image--small(style="background-image: url(" + prev.media.image.replace('./', '/') + ");")
+                    if (prev.media && prev.media.image)
+                      div.img-circle.author-image.author-image--small(style="background-image: url(" + prev.media.image.replace('./', '/') + ");")
                     = " "
                     a(href="/" + prev.username)= "@" + prev.username
               if next
@@ -108,6 +111,7 @@ block content
                   .h3.author-prev-next
                     a(href="/" + next.username)= "@" + next.username
                     = " "
-                    div.img-circle.author-image.author-image--small(style="background-image: url(" + next.media.image.replace('./', '/') + ");")
+                    if (next.media && next.media.image)
+                      div.img-circle.author-image.author-image--small(style="background-image: url(" + next.media.image.replace('./', '/') + ");")
                     =" →"
           hr
