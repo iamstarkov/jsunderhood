@@ -16,7 +16,7 @@ export default [
   { username: 'flackus',         start: '05 Oct 2015', first: '650964589706874880' },
   { username: 'edjafarov',       start: '28 Sep 2015', first: '648376762624278528' },
   { username: 'azproduction',    start: '21 Sep 2015', first: '645888589822324736' },
-  { username: 'delaz',           start: '14 Sep 2015', first: '643314256180584449' },
+  { username: 'ihorzenich',      start: '14 Sep 2015', first: '643314256180584449' },
   { username: '__fro',           start: '07 Sep 2015', first: '640793415169536000' },
   { username: 'RReverser',       start: '31 Aug 2015', first: '638181485497991168' },
   { username: 'neonick',         start: '24 Aug 2015', first: '635790657156685824' },
