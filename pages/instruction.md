@@ -21,9 +21,9 @@
 воспользуйтесь одним из двух способов ниже:
 
 1. «Цитирование» — самый простой способ отвечать:  
-    ![](http://i.imgur.com/zZwMCsH.png)
+    ![](https://i.imgur.com/zZwMCsH.png)
 2. Ретвит и потом публичный реплай:  
-    ![](http://i.imgur.com/Ld3sjuN.png)
+    ![](https://i.imgur.com/Ld3sjuN.png)
 
 ## Чего делать не надо
 
