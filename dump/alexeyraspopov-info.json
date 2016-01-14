@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2671,
+  "followers_count": 2684,
   "friends_count": 0,
   "listed_count": 150,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,13 +35,13 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16075,
+  "statuses_count": 16137,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 11 22:31:26 +0000 2016",
-    "id": 686676818397642800,
-    "id_str": "686676818397642752",
-    "text": "RT @kinday: Для исследования нужны зубодробительные конфиги Вебпака. Если у вас есть такой, скиньте сюда или на leonard@kinday.ru\n\n/cc @jsu…",
+    "created_at": "Tue Jan 12 21:11:59 +0000 2016",
+    "id": 687019212968181800,
+    "id_str": "687019212968181760",
+    "text": "RT @leviscarroll: @jsunderhood @iamstarkov инбокс давно доступен всем",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -56,56 +56,23 @@
       39017272
     ],
     "retweeted_status": {
-      "created_at": "Mon Jan 11 22:12:02 +0000 2016",
-      "id": 686671937725182000,
-      "id_str": "686671937725181952",
-      "text": "Для исследования нужны зубодробительные конфиги Вебпака. Если у вас есть такой, скиньте сюда или на leonard@kinday.ru\n\n/cc @jsunderhood",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Tue Jan 12 21:11:35 +0000 2016",
+      "id": 687019111885439000,
+      "id_str": "687019111885438978",
+      "text": "@jsunderhood @iamstarkov инбокс давно доступен всем",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 686950976616579100,
+      "in_reply_to_status_id_str": "686950976616579072",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
       "geo": null,
       "coordinates": null,
-      "place": {
-        "id": "333a5811d6b0c1cb",
-        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
-        "place_type": "country",
-        "name": "Беларусь",
-        "full_name": "Беларусь",
-        "country_code": "BY",
-        "country": "Belarus'",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                23.179217,
-                51.2626423
-              ],
-              [
-                32.7769812,
-                51.2626423
-              ],
-              [
-                32.7769812,
-                56.1717339
-              ],
-              [
-                23.179217,
-                56.1717339
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
+      "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -116,8 +83,18 @@
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              123,
-              135
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              13,
+              24
             ]
           }
         ],
@@ -134,13 +111,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "kinday",
-          "name": "Леонард Киндай",
-          "id": 43523642,
-          "id_str": "43523642",
+          "screen_name": "leviscarroll",
+          "name": "Levis Carroll",
+          "id": 88620526,
+          "id_str": "88620526",
           "indices": [
             3,
-            10
+            16
           ]
         },
         {
@@ -149,8 +126,18 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            135,
-            140
+            18,
+            30
+          ]
+        },
+        {
+          "screen_name": "iamstarkov",
+          "name": "Vladimir Starkov",
+          "id": 98084311,
+          "id_str": "98084311",
+          "indices": [
+            31,
+            42
           ]
         }
       ],
