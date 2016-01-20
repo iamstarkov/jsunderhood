@@ -2285,6 +2285,188 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Tue Jan 19 22:22:01 +0000 2016",
+      "id": 689573552803151900,
+      "id_str": "689573552803151872",
+      "text": "@roman01la @jsunderhood я вот все хочу выучить JS с нуля и самостоятельно, но ника он бляха не дается...",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 689448156837216300,
+      "in_reply_to_status_id_str": "689448156837216258",
+      "in_reply_to_user_id": 98982330,
+      "in_reply_to_user_id_str": "98982330",
+      "in_reply_to_screen_name": "roman01la",
+      "user": {
+        "id": 2820268601,
+        "id_str": "2820268601"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "roman01la",
+            "name": "Roman Liutikov",
+            "id": 98982330,
+            "id_str": "98982330",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 19 23:18:13 +0000 2016",
+      "id": 689587697191624700,
+      "id_str": "689587697191624704",
+      "text": "@baxazar_ @roman01la @jsunderhood самый простой способ, который я для себя открыл - фиксить свою рутину/проблемы написанием утилит/скриптов",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 689573552803151900,
+      "in_reply_to_status_id_str": "689573552803151872",
+      "in_reply_to_user_id": 2820268601,
+      "in_reply_to_user_id_str": "2820268601",
+      "in_reply_to_screen_name": "baxazar_",
+      "user": {
+        "id": 346496809,
+        "id_str": "346496809"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "baxazar_",
+            "name": "Sergey Veremiychuk",
+            "id": 2820268601,
+            "id_str": "2820268601",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "roman01la",
+            "name": "Roman Liutikov",
+            "id": 98982330,
+            "id_str": "98982330",
+            "indices": [
+              10,
+              20
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              21,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 20 01:00:01 +0000 2016",
+      "id": 689613315664904200,
+      "id_str": "689613315664904192",
+      "text": "@c01nd01r наверное,моя проблема в нехватке практического использования JS. Вполне хватает jquery,но я хочу большего @roman01la @jsunderhood",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 689587697191624700,
+      "in_reply_to_status_id_str": "689587697191624704",
+      "in_reply_to_user_id": 346496809,
+      "in_reply_to_user_id_str": "346496809",
+      "in_reply_to_screen_name": "c01nd01r",
+      "user": {
+        "id": 2820268601,
+        "id_str": "2820268601"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "c01nd01r",
+            "name": "Eremenko Stanislav",
+            "id": 346496809,
+            "id_str": "346496809",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "roman01la",
+            "name": "Roman Liutikov",
+            "id": 98982330,
+            "id_str": "98982330",
+            "indices": [
+              116,
+              126
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              127,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
