@@ -19,7 +19,6 @@
 * `package.json`, `.editorconfig`, `.eslintrc`, `.gitignore` — переносимое окружение
 * `.travis.yml` — конфиг для тревиса
 * `.deploy.sh` — деплой с тревиса
-* `ROADMAP.md`
 * `README.md`
 
 ### Дамп

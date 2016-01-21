@@ -254,6 +254,8 @@ tr {
 
 .tweet {
   position: relative;
+  hyphens: auto;
+  word-break: break-word;
 }
 
 .tweet__time {
@@ -261,6 +263,7 @@ tr {
   color: rgb(160, 160, 160);
   font-size: 12px;
   line-height: 20px;
+  word-break: normal;
 }
 
 @media (min-width: 769px) {
