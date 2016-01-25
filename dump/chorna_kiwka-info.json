@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2723,
+  "followers_count": 2749,
   "friends_count": 0,
-  "listed_count": 152,
+  "listed_count": 153,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 14,
+  "favourites_count": 23,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16306,
+  "statuses_count": 16323,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 25 10:08:23 +0000 2016",
-    "id": 691563257082056700,
-    "id_str": "691563257082056704",
-    "text": "Конечно, что между джуниором и   синьором :)  https://t.co/nSMtwj1z6f",
+    "created_at": "Mon Jan 25 16:24:32 +0000 2016",
+    "id": 691657918324817900,
+    "id_str": "691657918324817921",
+    "text": "Я, например, \"влюбилась\" в #lodashjs после просмотра этого доклада https://t.co/lSrcTtLdVg",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -55,23 +55,29 @@
     "contributors": [
       147117873
     ],
-    "quoted_status_id": 691561260056461300,
-    "quoted_status_id_str": "691561260056461312",
-    "is_quote_status": true,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 26,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "lodashjs",
+          "indices": [
+            27,
+            36
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/nSMtwj1z6f",
-          "expanded_url": "https://twitter.com/sapegin/status/691561260056461312",
-          "display_url": "twitter.com/sapegin/status…",
+          "url": "https://t.co/lSrcTtLdVg",
+          "expanded_url": "https://www.youtube.com/watch?v=cD9utLH3QOk",
+          "display_url": "youtube.com/watch?v=cD9utL…",
           "indices": [
-            46,
-            69
+            67,
+            90
           ]
         }
       ]
