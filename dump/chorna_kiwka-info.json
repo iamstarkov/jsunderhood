@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 2749,
+  "followers_count": 2776,
   "friends_count": 0,
-  "listed_count": 153,
+  "listed_count": 154,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 23,
+  "favourites_count": 34,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16323,
+  "statuses_count": 16345,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 25 16:24:32 +0000 2016",
-    "id": 691657918324817900,
-    "id_str": "691657918324817921",
-    "text": "Я, например, \"влюбилась\" в #lodashjs после просмотра этого доклада https://t.co/lSrcTtLdVg",
+    "created_at": "Tue Jan 26 21:02:12 +0000 2016",
+    "id": 692090183680852000,
+    "id_str": "692090183680851973",
+    "text": "@krasivieglaza об этом история умалчивает )",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 692072338934894600,
+    "in_reply_to_status_id_str": "692072338934894596",
+    "in_reply_to_user_id": 59075577,
+    "in_reply_to_user_id_str": "59075577",
+    "in_reply_to_screen_name": "krasivieglaza",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -57,34 +57,26 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 26,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "lodashjs",
+          "screen_name": "krasivieglaza",
+          "name": "Sergei Panfilov",
+          "id": 59075577,
+          "id_str": "59075577",
           "indices": [
-            27,
-            36
+            0,
+            14
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/lSrcTtLdVg",
-          "expanded_url": "https://www.youtube.com/watch?v=cD9utLH3QOk",
-          "display_url": "youtube.com/watch?v=cD9utL…",
-          "indices": [
-            67,
-            90
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
