@@ -9,7 +9,7 @@
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
     "pretest": "gulp build",
-    "test": "mocha --require babel/register",
+    "test": "mocha --require babel/register --timeout 240000",
     "posttest": "gulp clean",
     "start": "gulp",
     "lint": "eslint ."
