@@ -2,7 +2,7 @@
 
 export default [
   // post: false
-  { username: 'chorna_kiwka',    start: '25 Jan 2016', first: '691560695209529344', post: false },
+  { username: 'chorna_kiwka',    start: '25 Jan 2016', first: '691560695209529344' },
   { username: 'krasivieglaza',   start: '18 Jan 2016', first: '689030706643730432' },
   { username: 'alexeyraspopov',  start: '11 Jan 2016', first: '686528874474246145' },
   { username: 'viatsko',         start: '21 Dec 2015', first: '678930422252834817' },
