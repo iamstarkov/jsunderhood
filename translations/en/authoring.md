@@ -52,19 +52,15 @@ your very own twits. Of course, don't feed the trolls.
 
 ## How to became the author?
 
-— Write few words to [Anton Shuvalov][] or [Vladimir Starkov][]. Don't hesitate
+— Write few words to [Anton Shuvalov][proposal] or [Vladimir Starkov][proposal]. Don't hesitate
 to write us even if you just want to suggest someone.
 
 ## Code of conduct
 
 Just be polite. Respect the followers. Don't humiliate and affront they. 
+Behave professionally. Derogatory, sexist, xenophobic or racist jokes are not welcome. 
 
-Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
-или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@jsunderhood][jsh].
-
-Если вы заметили нарушение, как можно скорее напишите
-письмо [Антону][coc-violations].
+If you found a violation, write to [Anton][coc-violations] as soon as possible.
 
 [jsh]: https://twitter.com/jsunderhood
 [proposal]: mailto:anton@shuvalov.info?subject=Author’s%20proposal%20for%20@jsunderhood
