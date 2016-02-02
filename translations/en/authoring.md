@@ -1,36 +1,36 @@
-# Авторам
+# For authors
 
-Стать автором несложно и весело.
+It's easy and funny to be the author.
 
-## Что я получу, как автор?
+## What I will get?
 
-* Новые подписчики из вашей целевой аудитории
-* Испытание идей: отклик от множества читателей
-* Вы также сможете проверить ваш опыт и получить совет от кого-то более опытного
-* Новые люди и захватывающие идеи
-* Интересный и совершенно новый опыт
-* Меньше ограничений — это не ваш личный твиттер!
-* Вы получите технические и общие вопросы, которые люди могут стесняться
-  спросить в вашем твиттере
-* Это почётно и это состязание среди авторов
-* Это весело
+* New followers
+* Feedback for your ideas
+* Share your experience and get advice from more experienced people
+* New folks, new ideas 
+* Completely new and interested experience
+* Write with less restrictions — it's not your very own private twitter.
+* Tecnical and common questions people to hesitate to ask you in the your twitter
+* It's kinda competition with other authors: we're observing your activity [here](#)
+* Respects and fun xD
 
-## Следует ли мне подготовить план для моей недели?
+##Do I have to prepare a plan for my week?
 
-— Tl;DR: следует. Опыт подсказывает, что лучше иметь план, чем нет.
-На самом деле вам не нужен план, как таковой — подойдёт список тем,
-которые вы хотите обсудить. Планирование сильно и положительно влияет
-как на читателей, так и на авторов.
+— Tl;DR: Yep. From our experince, better to have the plan. Not exactly detailed plan,
+but  the list of themes you're going to discuss. The planning is good both for you
+and for the followers.
 
-## Буду ли я раздражен необходимостью отвечать на вопросы?
 
-— Иногда, конечно. Но общение — самая важная и интересная часть идеи @jsunderhood.
-Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
-Само собой не нужно кормить троллей.
+## Will I be annoyed to answer to questions?
 
-## Какие есть популярные темы для обсуждения с читателями?
+— Sometimes, of course. But communication is most important and most interested part
+of the idea of @jsunderhood. I need to note, here's easy to answer then to post
+your very own twits. Of course, don't feed the trolls.
 
-— Возможно ты можешь попробовать обсудить что-нибудь из этого списка:
+## Which themes are most popular?
+
+— You can try to discuss about something below:
+
 
 * Способы оценки разработчиков (github, stackoverflow и т.д.)
 * Оценка и ревью сайтов
