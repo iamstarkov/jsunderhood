@@ -1,69 +1,66 @@
-# Авторам
+# For authors
 
-Стать автором несложно и весело.
+It's easy and funny to be the author.
 
-## Что я получу, как автор?
+## What I will get?
 
-* Новые подписчики из вашей целевой аудитории
-* Испытание идей: отклик от множества читателей
-* Вы также сможете проверить ваш опыт и получить совет от кого-то более опытного
-* Новые люди и захватывающие идеи
-* Интересный и совершенно новый опыт
-* Меньше ограничений — это не ваш личный твиттер!
-* Вы получите технические и общие вопросы, которые люди могут стесняться
-  спросить в вашем твиттере
-* Это почётно и это состязание среди авторов
-* Это весело
+* New followers
+* Feedback for your ideas
+* Share your experience and get advice from more experienced people
+* New folks, new ideas 
+* Completely new and interested experience
+* Write with less restrictions — it's not your very own private twitter.
+* Tecnical and common questions people to hesitate to ask you in the your twitter
+* It's kinda competition with other authors: we're observing your activity [here](#)
+* Respects and fun xD
 
-## Следует ли мне подготовить план для моей недели?
+##Do I have to prepare a plan for my week?
 
-— Tl;DR: следует. Опыт подсказывает, что лучше иметь план, чем нет.
-На самом деле вам не нужен план, как таковой — подойдёт список тем,
-которые вы хотите обсудить. Планирование сильно и положительно влияет
-как на читателей, так и на авторов.
+— Tl;DR: Yep. From our experince, better to have the plan. Not exactly detailed plan,
+but  the list of themes you're going to discuss. The planning is good both for you
+and for the followers.
 
-## Буду ли я раздражен необходимостью отвечать на вопросы?
 
-— Иногда, конечно. Но общение — самая важная и интересная часть идеи @jsunderhood.
-Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
-Само собой не нужно кормить троллей.
+## Will I be annoyed to answer to questions?
 
-## Какие есть популярные темы для обсуждения с читателями?
+— Sometimes, of course. But communication is most important and most interested part
+of the idea of @jsunderhood. I need to note, here's easy to answer then to post
+your very own twits. Of course, don't feed the trolls.
 
-— Возможно ты можешь попробовать обсудить что-нибудь из этого списка:
+## Which themes are most popular?
 
-* Способы оценки разработчиков (github, stackoverflow и т.д.)
-* Оценка и ревью сайтов
-* Собеседования
-* Отношение к опенсорсу
-* Разработчики, вдохновляющие или значимые (коллеги, менторы, блогеры)
-* Ваши проекты
-* Будущее фронтенда в течение 5 лет
-* Ваше рабочее место и/или другие относящиеся к здоровью темы
-* Ваше рабочее окружение: оборудование, программы, .dotfiles и т.д.
-* Самые интересные технические проблемы, которые вам встречались
-* Как вы пришли в IT
-* Ваша карьерный путь и текущая позиция
-* Ваши профессиональные и общие планы на будущее
-* Самые важные для вас ценности и почему
-* Ваш любимый рабочий опыт
-* Баланс работы и личной жизни
-* Высшее образование, самообучение и онлайн-образование
-* Ваш вклад и ответственность, как веб-разработчика, в общую картину мира
+— You can try to discuss about something below:
 
-## Как стать автором?
 
-— [Напишите письмо Антону Шувалову][proposal], если хотите вести твиттер
-одну неделю или если хотите предложить кого-то на место автора
+* How to measure developers skills (github, stack overflow, etc)
+* How you assess and review sites?
+* Interviews
+* Open Source
+* Developer that impress you (collegues, mentors, bloggers, etc)
+* Your work and pet projects
+* The future of the frontend (in 5 years, etc)
+* Your working place and health themes
+* Your working environment: technic, software, .dotfiles, etc.
+* Most interested technical problems you've faced.
+* How you've come to IT.
+* Your carrier and current job
+* Your professional and common plans for the future
+* Your favorite work experience
+* Work/life balance
+* Your education and self-development.
+* Your commitments
 
-## Этикет
+## How to became the author?
 
-Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
-или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@jsunderhood][jsh].
+— Write few words to [Anton Shuvalov][proposal] or [Vladimir Starkov][proposal]. Don't hesitate
+to write us even if you just want to suggest someone.
 
-Если вы заметили нарушение, как можно скорее напишите
-письмо [Антону][coc-violations].
+## Code of conduct
+
+Just be polite. Respect the followers. Don't humiliate and affront they. 
+Behave professionally. Derogatory, sexist, xenophobic or racist jokes are not welcome. 
+
+If you found a violation, write to [Anton][coc-violations] as soon as possible.
 
 [jsh]: https://twitter.com/jsunderhood
 [proposal]: mailto:anton@shuvalov.info?subject=Author’s%20proposal%20for%20@jsunderhood
