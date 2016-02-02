@@ -32,31 +32,32 @@ your very own twits. Of course, don't feed the trolls.
 — You can try to discuss about something below:
 
 
-* Способы оценки разработчиков (github, stackoverflow и т.д.)
-* Оценка и ревью сайтов
-* Собеседования
-* Отношение к опенсорсу
-* Разработчики, вдохновляющие или значимые (коллеги, менторы, блогеры)
-* Ваши проекты
-* Будущее фронтенда в течение 5 лет
-* Ваше рабочее место и/или другие относящиеся к здоровью темы
-* Ваше рабочее окружение: оборудование, программы, .dotfiles и т.д.
-* Самые интересные технические проблемы, которые вам встречались
-* Как вы пришли в IT
-* Ваша карьерный путь и текущая позиция
-* Ваши профессиональные и общие планы на будущее
-* Самые важные для вас ценности и почему
-* Ваш любимый рабочий опыт
-* Баланс работы и личной жизни
-* Высшее образование, самообучение и онлайн-образование
-* Ваш вклад и ответственность, как веб-разработчика, в общую картину мира
+* How to measure developers skills (github, stack overflow, etc)
+* How you assess and review sites?
+* Interviews
+* Open Source
+* Developer that impress you (collegues, mentors, bloggers, etc)
+* Your work and pet projects
+* The future of the frontend (in 5 years, etc)
+* Your working place and health themes
+* Your working environment: technic, software, .dotfiles, etc.
+* Most interested technical problems you've faced.
+* How you've come to IT.
+* Your carrier and current job
+* Your professional and common plans for the future
+* Your favorite work experience
+* Work/life balance
+* Your education and self-development.
+* Your commitments
 
-## Как стать автором?
+## How to became the author?
 
-— [Напишите письмо Антону Шувалову][proposal], если хотите вести твиттер
-одну неделю или если хотите предложить кого-то на место автора
+— Write few words to [Anton Shuvalov][] or [Vladimir Starkov][]. Don't hesitate
+to write us even if you just want to suggest someone.
 
-## Этикет
+## Code of conduct
+
+Just be polite. Respect the followers. Don't humiliate and affront they. 
 
 Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
 или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
