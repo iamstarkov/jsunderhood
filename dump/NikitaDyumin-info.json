@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2822,
+  "followers_count": 2823,
   "friends_count": 0,
-  "listed_count": 158,
+  "listed_count": 160,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 92,
+  "favourites_count": 98,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16447,
+  "statuses_count": 16523,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 01 11:32:10 +0000 2016",
-    "id": 694121056429330400,
-    "id_str": "694121056429330432",
-    "text": "Давно? Надолго? https://t.co/LYOMagFJAd",
+    "created_at": "Tue Feb 02 14:19:22 +0000 2016",
+    "id": 694525519656849400,
+    "id_str": "694525519656849409",
+    "text": "RT @iamakulov_: @mr_mig_by @AntonShevchuk @jsunderhood А меня вот Бюро Горбунова научило деливерингу, решению задач в мире клиента и всему …",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,30 +66,118 @@
     "contributors": [
       4493389823
     ],
-    "quoted_status_id": 694120543642087400,
-    "quoted_status_id_str": "694120543642087424",
-    "is_quote_status": true,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Tue Feb 02 14:12:38 +0000 2016",
+      "id": 694523826001068000,
+      "id_str": "694523826001068032",
+      "text": "@mr_mig_by @AntonShevchuk @jsunderhood А меня вот Бюро Горбунова научило деливерингу, решению задач в мире клиента и всему такому",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694504223745163300,
+      "in_reply_to_status_id_str": "694504223745163264",
+      "in_reply_to_user_id": 170772902,
+      "in_reply_to_user_id_str": "170772902",
+      "in_reply_to_screen_name": "mr_mig_by",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "AntonShevchuk",
+            "name": "Anton Shevchuk",
+            "id": 14698648,
+            "id_str": "14698648",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/LYOMagFJAd",
-          "expanded_url": "https://twitter.com/webholt/status/694120543642087424",
-          "display_url": "twitter.com/webholt/status…",
+          "screen_name": "iamakulov_",
+          "name": "Ivan Akulov",
+          "id": 264743740,
+          "id_str": "264743740",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "mr_mig_by",
+          "name": "Alexey Migutsky",
+          "id": 170772902,
+          "id_str": "170772902",
           "indices": [
             16,
-            39
+            26
+          ]
+        },
+        {
+          "screen_name": "AntonShevchuk",
+          "name": "Anton Shevchuk",
+          "id": 14698648,
+          "id_str": "14698648",
+          "indices": [
+            27,
+            41
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            42,
+            54
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
