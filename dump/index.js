@@ -4,6 +4,7 @@ import getAuthorArea from '../helpers/get-author-area';
 
 const saturate = author => merge(author, {
   info: getAuthorArea(author.username, 'info') || {},
+  followers: getAuthorArea(author.username, 'followers').followers || [],
   tweets: getAuthorArea(author.username, 'tweets').tweets || [],
   media: getAuthorArea(author.username, 'media') || {},
   mentions: getAuthorArea(author.username, 'mentions').mentions || [],
