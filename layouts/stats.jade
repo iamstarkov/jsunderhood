@@ -58,15 +58,18 @@ block content
                       .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweets.percent}%;')
                       .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.replies.percent}%;' )
 
-                td.host-stats__col(data-title='Читатели' data-sort=author.gainedFollowers class={
-                  'text-muted': author.gainedFollowers === 0,
-                  'text-success': author.gainedFollowers > 0,
-                  'text-danger': author.gainedFollowers < 0
-                })
+                td.host-stats__col(data-title='Читатели' data-sort=author.followersDiff )
                   span.cell(class={ 'cell--best': author.maxGainedfollowers }): span.cell__content
-                    if author.gainedFollowers !== 0
-                      = author.gainedFollowers > 0 ? '+' : '−'
-                    = Math.abs(author.gainedFollowers)
+                    span(class={
+                      'text-muted': author.followersDiff === 0,
+                      'text-success': author.followersDiff > 0,
+                      'text-danger': author.followersDiff < 0
+                    })
+                      if author.followersDiff !== 0
+                        = author.followersDiff > 0 ? '+' : '−'
+                      = Math.abs(author.followersDiff)
+                    span
+                      = author.followersValid ? '(+' + author.followersGained + '/' + '-' + author.followersLost + ')' : ''
                 td.host-stats__col(data-title='Твиты' data-sort=author.tweets)
                   span.cell(class={ 'cell--best': author.maxTweets } ): span.cell__content
                     = author.tweets
