@@ -60,7 +60,7 @@ block content
 
                 td.host-stats__col(data-title='Читатели' data-sort=author.followersDiff )
                   span.cell(class={ 'cell--best': author.maxGainedfollowers }): span.cell__content
-                    span(class={
+                    .text-center(class={
                       'text-muted': author.followersDiff === 0,
                       'text-success': author.followersDiff > 0,
                       'text-danger': author.followersDiff < 0
@@ -68,8 +68,12 @@ block content
                       if author.followersDiff !== 0
                         = author.followersDiff > 0 ? '+' : '−'
                       = Math.abs(author.followersDiff)
-                    span
-                      = author.followersValid ? '(+' + author.followersGained + '/' + '-' + author.followersLost + ')' : ''
+                    if author.followersValid
+                      .text-center
+                        small.text-muted
+                          = '+' + author.followersGained
+                          = ' / '
+                          = '−' + author.followersLost
                 td.host-stats__col(data-title='Твиты' data-sort=author.tweets)
                   span.cell(class={ 'cell--best': author.maxTweets } ): span.cell__content
                     = author.tweets
