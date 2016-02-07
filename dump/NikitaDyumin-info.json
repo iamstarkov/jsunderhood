@@ -3,13 +3,13 @@
   "id_str": "3014054307",
   "name": "Разработчик",
   "screen_name": "jsunderhood",
-  "location": "Челябинск, Челябинская область",
+  "location": "Челябинск, Россия",
   "profile_location": {
     "id": "b500b655bf0c515a",
     "url": "https://api.twitter.com/1.1/geo/id/b500b655bf0c515a.json",
     "place_type": "unknown",
-    "name": "Челябинск, Челябинская область",
-    "full_name": "Челябинск, Челябинская область",
+    "name": "Челябинск, Россия",
+    "full_name": "Челябинск, Россия",
     "country_code": "",
     "country": "",
     "contained_within": [],
@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2815,
+  "followers_count": 2824,
   "friends_count": 0,
-  "listed_count": 160,
+  "listed_count": 161,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 99,
+  "favourites_count": 102,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16590,
+  "statuses_count": 16794,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Feb 03 09:45:27 +0000 2016",
-    "id": 694818974886948900,
-    "id_str": "694818974886948864",
-    "text": "RT @iamstarkov: @xgrommx @jsunderhood а что с https://t.co/axdhUyl7zm",
+    "created_at": "Sun Feb 07 16:49:37 +0000 2016",
+    "id": 696375273869176800,
+    "id_str": "696375273869176833",
+    "text": "Делай return x+5. Fat arrow хорош для простых шаблонных функций без side effects. Если что-то сложнее - function ИМЯ https://t.co/rsTssGhu1X",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,119 +66,29 @@
     "contributors": [
       4493389823
     ],
-    "retweeted_status": {
-      "created_at": "Wed Feb 03 09:43:03 +0000 2016",
-      "id": 694818373218259000,
-      "id_str": "694818373218258946",
-      "text": "@xgrommx @jsunderhood а что с https://t.co/axdhUyl7zm",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 694815751539179500,
-      "in_reply_to_status_id_str": "694815751539179521",
-      "in_reply_to_user_id": 354807612,
-      "in_reply_to_user_id_str": "354807612",
-      "in_reply_to_screen_name": "xgrommx",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "xgrommx",
-            "name": "Denis Stoyanov",
-            "id": 354807612,
-            "id_str": "354807612",
-            "indices": [
-              0,
-              8
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              9,
-              21
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/axdhUyl7zm",
-            "expanded_url": "https://github.com/lucasviola/awesome-functional-programming",
-            "display_url": "github.com/lucasviola/awe…",
-            "indices": [
-              30,
-              53
-            ]
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "quoted_status_id": 696374744929665000,
+    "quoted_status_id_str": "696374744929665026",
+    "is_quote_status": true,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "iamstarkov",
-          "name": "Vladimir Starkov",
-          "id": 98084311,
-          "id_str": "98084311",
-          "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "xgrommx",
-          "name": "Denis Stoyanov",
-          "id": 354807612,
-          "id_str": "354807612",
-          "indices": [
-            16,
-            24
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            25,
-            37
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/axdhUyl7zm",
-          "expanded_url": "https://github.com/lucasviola/awesome-functional-programming",
-          "display_url": "github.com/lucasviola/awe…",
+          "url": "https://t.co/rsTssGhu1X",
+          "expanded_url": "https://twitter.com/taujavarob/status/696374744929665026",
+          "display_url": "twitter.com/taujavarob/sta…",
           "indices": [
-            46,
-            69
+            117,
+            140
           ]
         }
       ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
