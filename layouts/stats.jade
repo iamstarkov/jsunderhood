@@ -34,6 +34,7 @@ block content
                 th.host-stats__col: span.tweet-stats.tweet-stats_own.sortable Написал
                 th.host-stats__col: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
                 th.host-stats__col: span.tweet-stats.tweet-stats_replies.sortable Ответил
+                th.host-stats__col: span.tweet-stats.tweet-stats_replies.sortable Меншенов
                 th.host-stats__col.host-stats__col_retweeted.rted--1p: nobr
                   span.sortable Ретвитнули всего
                   = " / "
@@ -79,6 +80,9 @@ block content
                 td.host-stats__col(data-title='Ответил' data-sort=author.replies.total)
                   span.cell(class={ 'cell--best': author.maxRepliesTotal }): span.cell__content
                     = author.replies.total
+                td.host-stats__col(data-title='Меншенов' data-sort=author.mentions.length)
+                  span.cell(class={ 'cell--best': author.maxRepliesTotal }): span.cell__content
+                    = author.mentions.length
                 td.host-stats__col.host-stats__col_kpi.rted--1p(data-title='Ретвитнули всего' data-sort=author.retweeted.total)
                   span.cell(class={ 'cell--best': author.maxRetweetedTotal }): span.cell__content
                     = author.retweeted.total
