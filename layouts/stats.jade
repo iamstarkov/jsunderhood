@@ -58,9 +58,9 @@ block content
                       'text-success': author.followersDiff > 0,
                       'text-danger': author.followersDiff < 0
                     })
-                      if author.followersDiff !== 0
-                        = author.followersDiff > 0 ? '+' : '−'
-                      = Math.abs(author.followersDiff)
+                      if author.gainedFollowers !== 0
+                        = author.gainedFollowers > 0 ? '+' : '−'
+                      = Math.abs(author.gainedFollowers)
                     if author.followersValid
                       .text-center
                         small.text-muted
