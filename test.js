@@ -22,15 +22,14 @@ describe.only('js', () => {
   it('getGainedFollowers first one', () => {
     assert.equal(getGainedFollowers('shuvalov_anton'), 115);
   });
-
   it('getDiffFollowers normal', () => {
-    assert.equal(getDiffFollowers('rstacruz').gain, 29);
-    assert.equal(getDiffFollowers('rstacruz').loss, 12);
-    assert.equal(getDiffFollowers('touzoku').gain, 88);
-    assert.equal(getDiffFollowers('touzoku').loss, 15);
+    assert.deepEqual(getDiffFollowers('rstacruz'), { gain: 29, loss: 12 });
+    assert.deepEqual(getDiffFollowers('touzoku'), { gain: 88, loss: 15 });
+    assert.deepEqual(getDiffFollowers('milk_is_my_life'), { gain: 60, loss: 28 });
   });
   it('getDiffFollowers obsolete', () => {
-    assert.equal(getDiffFollowers('@ihorzenich'), undefined);
+    assert.equal(getDiffFollowers('ihorzenich'), undefined);
+    assert.equal(getDiffFollowers('oleg008'), undefined);
   });
 });
 
