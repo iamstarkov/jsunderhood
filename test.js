@@ -11,7 +11,7 @@ const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });
 const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
-describe('html', () => {
+describe.skip('html', () => {
   describe('index page', () => {
     it('short authors info', () => {
       const $ = make$('dist/index.html');
