@@ -11,19 +11,19 @@ const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });
 const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
-import getAuthorArea from './helpers/get-author-area';
+// import getAuthorArea from './helpers/get-author-area';
 import getGainedFollowers from './helpers/get-gained-followers';
 
-describe('js', () => {
-  describe('getGainedFollowers ordinary', () => {
-    assert(getGainedFollowers('rstacruz'), 17);
+describe.only('js', () => {
+  it('getGainedFollowers ordinary', () => {
+    assert(getGainedFollowers('rstacruz') === 17);
   });
-  describe('getGainedFollowers ordinary', () => {
-    assert(getGainedFollowers('shuvalov_anton'), 115);
+  it('getGainedFollowers first one', () => {
+    assert(getGainedFollowers('shuvalov_anton') === 115);
   });
 });
 
-describe.skip('html', () => {
+describe('html', () => {
   describe('index page', () => {
     it('short authors info', () => {
       const $ = make$('dist/index.html');
