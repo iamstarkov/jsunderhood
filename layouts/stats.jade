@@ -61,12 +61,12 @@ block content
                       if author.gainedFollowers !== 0
                         = author.gainedFollowers > 0 ? '+' : '−'
                       = Math.abs(author.gainedFollowers)
-                    if author.followersValid
+                    if author.diffFollowers
                       .text-center
                         small.text-muted
-                          = '+' + author.followersGained
+                          = '+' + author.diffFollowers.gain
                           = ' / '
-                          = '−' + author.followersLost
+                          = '−' + author.diffFollowers.loss
                     - var percent = Math.round(author.tweets / maxTweets * 100)
                     .tweet-graph__wrap
                       .tweet-graph(style='width: #{percent}%')
