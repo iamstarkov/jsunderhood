@@ -16,10 +16,10 @@ import getGainedFollowers from './helpers/get-gained-followers';
 
 describe.only('js', () => {
   it('getGainedFollowers ordinary', () => {
-    assert(getGainedFollowers('rstacruz') === 17);
+    assert.equal(getGainedFollowers('rstacruz'), 17);
   });
   it('getGainedFollowers first one', () => {
-    assert(getGainedFollowers('shuvalov_anton') === 115);
+    assert.equal(getGainedFollowers('shuvalov_anton'), 115);
   });
 });
 
