@@ -54,9 +54,9 @@ block content
                 td.host-stats__col(data-title='Читатели' data-sort=author.followersDiff )
                   span.cell(class={ 'cell--best': author.maxGainedfollowers }): span.cell__content
                     .text-center(class={
-                      'text-muted': author.followersDiff === 0,
-                      'text-success': author.followersDiff > 0,
-                      'text-danger': author.followersDiff < 0
+                      'text-muted': author.gainedFollowers === 0,
+                      'text-success': author.gainedFollowers > 0,
+                      'text-danger': author.gainedFollowers < 0
                     })
                       if author.gainedFollowers !== 0
                         = author.gainedFollowers > 0 ? '+' : '−'
@@ -64,7 +64,7 @@ block content
                     if author.diffFollowers
                       .text-center
                         small.text-muted
-                          = '+' + author.diffFollowers.gain
+                          = '+' + author.gainedFollowers.gain
                           = ' / '
                           = '−' + author.diffFollowers.loss
                     - var percent = Math.round(author.tweets / maxTweets * 100)
