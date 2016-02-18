@@ -13,6 +13,7 @@ const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
 // import getAuthorArea from './helpers/get-author-area';
 import getGainedFollowers from './helpers/get-gained-followers';
+import getDiffFollowers from './helpers/get-diff-followers';
 
 describe.only('js', () => {
   it('getGainedFollowers ordinary', () => {
@@ -20,6 +21,16 @@ describe.only('js', () => {
   });
   it('getGainedFollowers first one', () => {
     assert.equal(getGainedFollowers('shuvalov_anton'), 115);
+  });
+
+  it('getDiffFollowers normal', () => {
+    assert.equal(getDiffFollowers('rstacruz').gain, 29);
+    assert.equal(getDiffFollowers('rstacruz').loss, 12);
+    assert.equal(getDiffFollowers('touzoku').gain, 88);
+    assert.equal(getDiffFollowers('touzoku').loss, 15);
+  });
+  it('getDiffFollowers obsolete', () => {
+    assert.equal(getDiffFollowers('@ihorzenich'), undefined);
   });
 });
 
