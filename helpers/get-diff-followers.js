@@ -1,11 +1,17 @@
 import getAuthorArea from './get-author-area';
 import authors from '../authors';
 import R from 'ramda';
+import diff from 'lodash.difference';
 
 const prev = author => (authors[R.inc(R.findIndex(R.propEq('username', author), authors))] || {}).username;
-const followers = author => getAuthorArea(author, 'info').followers_count || 0;
+const followers = author => R.map(R.prop('id_str'), getAuthorArea(author, 'followers').followers);
 
 // getGainedFollowers :: String -> Number
-export default function getGainedFollowers(author) {
-  return followers(author) - followers(prev(author));
+export default function getDiffFollowers(author) {
+  const currentFollowers = followers(author);
+  const previousFollowers = followers(prev(author));
+  return {
+    gain: R.length(diff(currentFollowers, previousFollowers)),
+    loss: R.length(diff(previousFollowers, currentFollowers)),
+  };
 }
