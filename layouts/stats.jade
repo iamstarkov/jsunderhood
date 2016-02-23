@@ -64,7 +64,7 @@ block content
                     if author.diffFollowers
                       .text-center
                         small.text-muted
-                          = '+' + author.gainedFollowers.gain
+                          = '+' + author.diffFollowers.gain
                           = ' / '
                           = '−' + author.diffFollowers.loss
                     - var percent = Math.round(author.tweets / maxTweets * 100)
