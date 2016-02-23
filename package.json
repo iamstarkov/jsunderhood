@@ -8,6 +8,7 @@
     "update": "babel-node update",
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
+    "pretest": "gulp build",
     "test": "mocha --require babel/register --timeout 240000",
     "tdd": "npm test -- --watch",
     "posttest": "gulp clean",
