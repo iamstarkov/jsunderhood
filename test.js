@@ -11,11 +11,10 @@ const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });
 const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
-// import getAuthorArea from './helpers/get-author-area';
 import getGainedFollowers from './helpers/get-gained-followers';
 import getDiffFollowers from './helpers/get-diff-followers';
 
-describe.only('js', () => {
+describe('js', () => {
   it('getGainedFollowers ordinary', () => {
     assert.equal(getGainedFollowers('rstacruz'), 17);
   });
