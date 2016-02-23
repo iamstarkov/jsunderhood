@@ -126,6 +126,12 @@ th.host-stats__col {
   text-align: right;
   display: inline-block;
 }
+.cell--followers {
+  min-width: 75px;
+}
+.cell--small {
+  min-width: auto;
+}
 
 .cell--best .cell__content {
   position: relative;

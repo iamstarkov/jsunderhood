@@ -10,6 +10,7 @@
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
     "pretest": "gulp build",
     "test": "mocha --require babel/register --timeout 240000",
+    "tdd": "npm test -- --watch",
     "posttest": "gulp clean",
     "start": "gulp",
     "lint": "eslint ."
@@ -54,6 +55,7 @@
     "ilyabirman-likely": "^2.0.4",
     "imports-loader": "^0.6.5",
     "json-loader": "^0.5.3",
+    "lodash.difference": "^4.1.0",
     "max-values": "^1.0.0",
     "moment": "^2.10.3",
     "npm-run-all": "^1.2.6",
