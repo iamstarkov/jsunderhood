@@ -51,49 +51,55 @@ block content
                     a(href=authorLink class={ live: index === 0 })
                       = "@" + author.username
 
-                td.host-stats__col(data-title='Читатели' data-sort=author.followersDiff )
-                  span.cell(class={ 'cell--best': author.maxGainedfollowers }): span.cell__content
-                    .text-center(class={
-                      'text-muted': author.gainedFollowers === 0,
-                      'text-success': author.gainedFollowers > 0,
-                      'text-danger': author.gainedFollowers < 0
-                    })
-                      if author.gainedFollowers !== 0
-                        = author.gainedFollowers > 0 ? '+' : '−'
-                      = Math.abs(author.gainedFollowers)
+                td.host-stats__col(data-title='Читатели' data-sort=author.followersDiff class={
+                  'text-muted': author.gainedFollowers === 0,
+                  'text-success': author.gainedFollowers > 0,
+                  'text-danger': author.gainedFollowers < 0
+                })
+                  span.cell.cell--followers(title="Привёл читателей всего" class={ 'cell--best': author.maxGainedfollowers }): span.cell__content
+                    if author.gainedFollowers !== 0
+                      = author.gainedFollowers > 0 ? '+' : '−'
+                    = Math.abs(author.gainedFollowers)
                     if author.diffFollowers
-                      .text-center
-                        small.text-muted
-                          = '+' + author.diffFollowers.gain
+                      .text-center: small.text-muted
+                          span(title="Привёл читателей")= '+' + author.diffFollowers.gain
                           = ' / '
-                          = '−' + author.diffFollowers.loss
-                    - var percent = Math.round(author.tweets / maxTweets * 100)
-                    .tweet-graph__wrap
-                      .tweet-graph(style='width: #{percent}%')
-                        .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.own.percent}%;' )
-                        .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweets.percent}%;')
-                        .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.replies.percent}%;' )
+                          span(title="Потерял читателей")= '−' + author.diffFollowers.loss
+                  - var percent = Math.round(author.tweets / maxTweets * 100)
+                  .tweet-graph__wrap
+                    .tweet-graph(style='width: #{percent}%')
+                      .tweet-graph__bar.tweet-graph__bar_own( style='width: #{author.own.percent}%;' )
+                      .tweet-graph__bar.tweet-graph__bar_retweets(style='width: #{author.retweets.percent}%;')
+                      .tweet-graph__bar.tweet-graph__bar_replies( style='width: #{author.replies.percent}%;' )
+
                 td.host-stats__col(data-title='Твиты' data-sort=author.tweets)
                   span.cell(class={ 'cell--best': author.maxTweets } ): span.cell__content
                     = author.tweets
+
                 td.host-stats__col(data-title='Написал' data-sort=author.own.total)
                   span.cell(class={ 'cell--best': author.maxOwnTotal }): span.cell__content
                     = author.own.total
+
                 td.host-stats__col(data-title='Ретвитнул' data-sort=author.retweets.total)
                   span.cell(class={ 'cell--best': author.maxRetweetsTotal }): span.cell__content
                     = author.retweets.total
+
                 td.host-stats__col(data-title='Ответил' data-sort=author.replies.total)
                   span.cell(class={ 'cell--best': author.maxRepliesTotal }): span.cell__content
                     = author.replies.total
+
                 td.host-stats__col.host-stats__col_kpi.rted--1p(data-title='Ретвитнули всего' data-sort=author.retweeted.total)
                   span.cell(class={ 'cell--best': author.maxRetweetedTotal }): span.cell__content
                     = author.retweeted.total
+
                 td.host-stats__col.host-stats__col_kpi.rted--2p(data-title='Ретвитнули на 1 твит' data-sort=author.retweeted.average)
                   span.cell(class={ 'cell--best': author.maxRetweetedAverage }): span.cell__content
                     = author.retweeted.average
+
                 td.host-stats__col.host-stats__col_kpi.faved--1p(data-title='Фавнули всего' data-sort=author.favorited.total)
                   span.cell(class={ 'cell--best': author.maxFavoritedTotal }): span.cell__content
                     = author.favorited.total
+
                 td.host-stats__col.host-stats__col_kpi.faved--2p(data-title='Фавнули на 1 твит' data-sort=author.favorited.average)
                   span.cell(class={ 'cell--best': author.maxFavoritedAverage }): span.cell__content
                     = author.favorited.average
