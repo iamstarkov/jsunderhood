@@ -129,6 +129,9 @@ th.host-stats__col {
 .cell--followers {
   min-width: 75px;
 }
+.cell--small {
+  min-width: auto;
+}
 
 .cell--best .cell__content {
   position: relative;

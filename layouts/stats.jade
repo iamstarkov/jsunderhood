@@ -62,9 +62,11 @@ block content
                     = Math.abs(author.gainedFollowers)
                     if author.diffFollowers
                       .text-center: small.text-muted
-                          span(title="Привёл читателей")= '+' + author.diffFollowers.gain
+                          span.cell.cell--small(class={ 'cell--best': author.maxDiffFollowersGain } title="Привёл"): span.cell__content
+                            = '+' + author.diffFollowers.gain
                           = ' / '
-                          span(title="Потерял читателей")= '−' + author.diffFollowers.loss
+                          span.cell.cell--small(class={ 'cell--best': author.maxDiffFollowersLoss } title="Потерял"): span.cell__content
+                            = '−' + author.diffFollowers.loss
                   - var percent = Math.round(author.tweets / maxTweets * 100)
                   .tweet-graph__wrap
                     .tweet-graph(style='width: #{percent}%')
