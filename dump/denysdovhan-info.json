@@ -26,59 +26,67 @@
     }
   },
   "protected": false,
-  "followers_count": 2848,
+  "followers_count": 2845,
   "friends_count": 0,
-  "listed_count": 161,
+  "listed_count": 160,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 102,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16938,
+  "statuses_count": 16961,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 23 08:33:28 +0000 2016",
-    "id": 702048618396696600,
-    "id_str": "702048618396696577",
-    "text": "Кстати, хорошее замечание! Пока я на парах, буду отвечать только в свободные минуты. Это будет не часто. https://t.co/iY3hOQ58my",
+    "created_at": "Tue Feb 23 12:45:20 +0000 2016",
+    "id": 702112001561071600,
+    "id_str": "702112001561071616",
+    "text": "@Woundless да, когда нужно снять в фильмах старые университеты, а-ля Оксфорда, то едут к нам :)) @yustovskiy",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 702111372017082400,
+    "in_reply_to_status_id_str": "702111372017082368",
+    "in_reply_to_user_id": 212652978,
+    "in_reply_to_user_id_str": "212652978",
+    "in_reply_to_screen_name": "Woundless",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       241111030
     ],
-    "quoted_status_id": 702045980548530200,
-    "quoted_status_id_str": "702045980548530176",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/iY3hOQ58my",
-          "expanded_url": "https://twitter.com/SilentImp/status/702045980548530176",
-          "display_url": "twitter.com/SilentImp/stat…",
+          "screen_name": "Woundless",
+          "name": "Записки сумасшедшего",
+          "id": 212652978,
+          "id_str": "212652978",
           "indices": [
-            105,
-            128
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "yustovskiy",
+          "name": "Nikita Yustovskiy",
+          "id": 1431577748,
+          "id_str": "1431577748",
+          "indices": [
+            97,
+            108
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
