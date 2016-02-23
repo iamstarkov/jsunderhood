@@ -16,6 +16,7 @@ export default function getStats(authors) {
   if (!authors || authors.length === 0) return;
   return maxValues(getStatsPerAuthor(authors), [
     'tweets', 'gainedFollowers',
+    'diffFollowers.gain', 'diffFollowers.loss',
     'own.total', 'replies.total', 'retweets.total',
     'favorited.total', 'favorited.average',
     'retweeted.total', 'retweeted.average',
