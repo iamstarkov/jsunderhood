@@ -51,7 +51,7 @@ block content
                     a(href=authorLink class={ live: index === 0 })
                       = "@" + author.username
 
-                td.host-stats__col(data-title='Читатели' data-sort=author.followersDiff class={
+                td.host-stats__col(data-title='Читатели' data-sort=author.gainedFollowers class={
                   'text-muted': author.gainedFollowers === 0,
                   'text-success': author.gainedFollowers > 0,
                   'text-danger': author.gainedFollowers < 0
