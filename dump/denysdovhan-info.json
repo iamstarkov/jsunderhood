@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 2859,
+  "followers_count": 2863,
   "friends_count": 0,
-  "listed_count": 162,
+  "listed_count": 163,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 102,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17202,
+  "statuses_count": 17246,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Feb 26 05:33:27 +0000 2016",
-    "id": 703090477239820300,
-    "id_str": "703090477239820289",
-    "text": "Доброго утра!\nВидели уже новый логотип @nodejs? Как вам? https://t.co/sOazKFe0JC https://t.co/3LaGophr5K",
+    "created_at": "Sat Feb 27 18:49:39 +0000 2016",
+    "id": 703653237631623200,
+    "id_str": "703653237631623169",
+    "text": "Возможно здесь была сложность из-за сложного синтаксиса в bash.",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 703652769367007200,
+    "in_reply_to_status_id_str": "703652769367007233",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -56,116 +56,16 @@
       241111030
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "nodejs",
-          "name": "Node.js",
-          "id": 91985735,
-          "id_str": "91985735",
-          "indices": [
-            39,
-            46
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/sOazKFe0JC",
-          "expanded_url": "https://nodejs.org/en/blog/weekly-updates/weekly-update.2016-02-22/",
-          "display_url": "nodejs.org/en/blog/weekly…",
-          "indices": [
-            57,
-            80
-          ]
-        }
-      ],
-      "media": [
-        {
-          "id": 703090013102276600,
-          "id_str": "703090013102276608",
-          "indices": [
-            81,
-            104
-          ],
-          "media_url": "http://pbs.twimg.com/media/CcHgpEwWAAA7sDs.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CcHgpEwWAAA7sDs.jpg",
-          "url": "https://t.co/3LaGophr5K",
-          "display_url": "pic.twitter.com/3LaGophr5K",
-          "expanded_url": "http://twitter.com/jsunderhood/status/703090477239820289/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 665,
-              "h": 429,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 665,
-              "h": 429,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 665,
-              "h": 429,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 703090013102276600,
-          "id_str": "703090013102276608",
-          "indices": [
-            81,
-            104
-          ],
-          "media_url": "http://pbs.twimg.com/media/CcHgpEwWAAA7sDs.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CcHgpEwWAAA7sDs.jpg",
-          "url": "https://t.co/3LaGophr5K",
-          "display_url": "pic.twitter.com/3LaGophr5K",
-          "expanded_url": "http://twitter.com/jsunderhood/status/703090477239820289/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 665,
-              "h": 429,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 665,
-              "h": 429,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 665,
-              "h": 429,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
