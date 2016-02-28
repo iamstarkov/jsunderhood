@@ -2,7 +2,7 @@
 
 export default [
   // post: false
-  { username: 'denysdovhan',     start: '22 Feb 2016', first: '701778874993090562', post: false },
+  { username: 'denysdovhan',     start: '22 Feb 2016', first: '701778874993090562' },
   { username: 'xgrommx',         start: '15 Feb 2016', first: '699172965007691776' },
   { username: 'rstacruz',        start: '11 Feb 2016', first: '697828448094453760' },
   { username: 'NikitaDyumin',    start: '01 Feb 2016', first: '694098835610693633' },
