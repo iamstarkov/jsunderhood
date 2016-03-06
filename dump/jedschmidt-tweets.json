@@ -5262,6 +5262,308 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Sun Mar 06 06:11:25 +0000 2016",
+      "id": 706361525187924000,
+      "id_str": "706361525187923968",
+      "text": "my favorite feature of ES6 is definitely template strings tags... there's so much you can do with them! https://t.co/cM7zcbgAHf",
+      "truncated": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 637758720840237000,
+      "quoted_status_id_str": "637758720840237060",
+      "quoted_status": {
+        "created_at": "Sat Aug 29 22:48:22 +0000 2015",
+        "id": 637758720840237000,
+        "id_str": "637758720840237060",
+        "text": "using a template string tag for command line progress bars: https://t.co/r168VHIrcx http://t.co/6flZnZz0GE",
+        "truncated": false,
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 815114,
+          "id_str": "815114"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 36,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/r168VHIrcx",
+              "expanded_url": "https://gist.github.com/jed/4dd88231e113d086e239#file-progress-js-L13",
+              "display_url": "gist.github.com/jed/4dd88231e1…",
+              "indices": [
+                60,
+                83
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 637758719732924400,
+              "id_str": "637758719732924417",
+              "indices": [
+                84,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/CNnGLTYWwAEDWPD.png",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CNnGLTYWwAEDWPD.png",
+              "url": "http://t.co/6flZnZz0GE",
+              "display_url": "pic.twitter.com/6flZnZz0GE",
+              "expanded_url": "http://twitter.com/jedschmidt/status/637758720840237060/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 858,
+                  "h": 572,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 637758719732924400,
+              "id_str": "637758719732924417",
+              "indices": [
+                84,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/CNnGLTYWwAEDWPD.png",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CNnGLTYWwAEDWPD.png",
+              "url": "http://t.co/6flZnZz0GE",
+              "display_url": "pic.twitter.com/6flZnZz0GE",
+              "expanded_url": "http://twitter.com/jedschmidt/status/637758720840237060/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 858,
+                  "h": 572,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  3,
+                  2
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://pbs.twimg.com/tweet_video/CNnGLTYWwAEDWPD.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cM7zcbgAHf",
+            "expanded_url": "https://twitter.com/jedschmidt/status/637758720840237060",
+            "display_url": "twitter.com/jedschmidt/sta…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Mar 06 06:19:19 +0000 2016",
+      "id": 706363513573277700,
+      "id_str": "706363513573277696",
+      "text": "one fun front-end detour i had recently was learning arcane SVG path syntax to golf down my client's logo: https://t.co/ayRdnMeEeO",
+      "truncated": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ayRdnMeEeO",
+            "expanded_url": "https://jsbin.com/qopituke/1/edit?html,output",
+            "display_url": "jsbin.com/qopituke/1/edi…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Mar 06 07:19:38 +0000 2016",
+      "id": 706378691471757300,
+      "id_str": "706378691471757313",
+      "text": "it's been a fun week here, but my time is up! thanks for being a friendly bunch, and i hope to meet some of you at a conference soon!",
+      "truncated": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Mar 06 07:22:13 +0000 2016",
+      "id": 706379340821323800,
+      "id_str": "706379340821323776",
+      "text": "i'll be over at @jedschmidt if you'd like to keep in touch. до свидания и спасибо!",
+      "truncated": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 706378691471757300,
+      "in_reply_to_status_id_str": "706378691471757313",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jedschmidt",
+            "name": "Jed Schmidt",
+            "id": 815114,
+            "id_str": "815114",
+            "indices": [
+              16,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
     }
   ]
 }
