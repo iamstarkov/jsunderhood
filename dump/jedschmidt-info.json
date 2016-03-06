@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2869,
+  "followers_count": 2868,
   "friends_count": 0,
   "listed_count": 164,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,35 +35,69 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17374,
+  "statuses_count": 17387,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Mar 04 02:12:02 +0000 2016",
-    "id": 705576504999030800,
-    "id_str": "705576504999030784",
-    "text": "it has its limitations for sure, but it's nice to just point someone at a spreadsheet and decouple the admin UI from the backend.",
+    "created_at": "Sat Mar 05 20:45:26 +0000 2016",
+    "id": 706219090390573000,
+    "id_str": "706219090390573056",
+    "text": "happy to see my favorite russian import speak at @brooklyn_js this month. go @arturi! https://t.co/611mLjmY2d",
     "truncated": false,
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 705576219710873600,
-    "in_reply_to_status_id_str": "705576219710873600",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "quoted_status_id": 705486463484502000,
+    "quoted_status_id_str": "705486463484502016",
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "favorite_count": 3,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "brooklyn_js",
+          "name": "BrooklynJS",
+          "id": 1965353774,
+          "id_str": "1965353774",
+          "indices": [
+            49,
+            61
+          ]
+        },
+        {
+          "screen_name": "arturi",
+          "name": "Artur Paikin",
+          "id": 816025,
+          "id_str": "816025",
+          "indices": [
+            77,
+            84
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/611mLjmY2d",
+          "expanded_url": "https://twitter.com/brooklyn_js/status/705486463484502016",
+          "display_url": "twitter.com/brooklyn_js/st…",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
