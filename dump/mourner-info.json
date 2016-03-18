@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2937,
-  "friends_count": 58,
-  "listed_count": 167,
+  "followers_count": 2943,
+  "friends_count": 67,
+  "listed_count": 166,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 124,
+  "favourites_count": 129,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17773,
+  "statuses_count": 17803,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Mar 17 15:24:09 +0000 2016",
-    "id": 710486889577451500,
-    "id_str": "710486889577451520",
-    "text": "Node 5.9.0 released https://t.co/sKRylVPnMm",
+    "created_at": "Fri Mar 18 15:46:44 +0000 2016",
+    "id": 710854962482434000,
+    "id_str": "710854962482434048",
+    "text": "Может, но только в том случае, если хочет. https://t.co/L1GZXRf0LD",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -53,21 +53,23 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
+    "quoted_status_id": 710854192118800400,
+    "quoted_status_id_str": "710854192118800384",
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/sKRylVPnMm",
-          "expanded_url": "https://nodejs.org/en/blog/release/v5.9.0/",
-          "display_url": "nodejs.org/en/blog/releas…",
+          "url": "https://t.co/L1GZXRf0LD",
+          "expanded_url": "https://twitter.com/beshur/status/710854192118800384",
+          "display_url": "twitter.com/beshur/status/…",
           "indices": [
-            20,
-            43
+            43,
+            66
           ]
         }
       ]
@@ -75,7 +77,7 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
