@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 2953,
+  "followers_count": 2957,
   "friends_count": 68,
   "listed_count": 166,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 133,
+  "favourites_count": 138,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17808,
+  "statuses_count": 17811,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Mar 20 17:13:47 +0000 2016",
-    "id": 711601642005729300,
-    "id_str": "711601642005729281",
-    "text": "Всем хорошего завершения выходных! Есть еще ко мне вопросы перед тем, как закончится неделя?",
+    "created_at": "Sun Mar 20 22:24:17 +0000 2016",
+    "id": 711679781960609800,
+    "id_str": "711679781960609792",
+    "text": "@neoroma https://t.co/Y15UQJCebO",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 711674491886280700,
+    "in_reply_to_status_id_str": "711674491886280705",
+    "in_reply_to_user_id": 4016011,
+    "in_reply_to_user_id_str": "4016011",
+    "in_reply_to_screen_name": "neoroma",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -59,12 +59,102 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "neoroma",
+          "name": "Bearded essence",
+          "id": 4016011,
+          "id_str": "4016011",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 711679780987478000,
+          "id_str": "711679780987478016",
+          "indices": [
+            9,
+            32
+          ],
+          "media_url": "http://pbs.twimg.com/media/CeBk_XuWIAADb9t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CeBk_XuWIAADb9t.jpg",
+          "url": "https://t.co/Y15UQJCebO",
+          "display_url": "pic.twitter.com/Y15UQJCebO",
+          "expanded_url": "http://twitter.com/jsunderhood/status/711679781960609792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 512,
+              "h": 384,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 512,
+              "h": 384,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 711679780987478000,
+          "id_str": "711679780987478016",
+          "indices": [
+            9,
+            32
+          ],
+          "media_url": "http://pbs.twimg.com/media/CeBk_XuWIAADb9t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CeBk_XuWIAADb9t.jpg",
+          "url": "https://t.co/Y15UQJCebO",
+          "display_url": "pic.twitter.com/Y15UQJCebO",
+          "expanded_url": "http://twitter.com/jsunderhood/status/711679781960609792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 512,
+              "h": 384,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 512,
+              "h": 384,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
