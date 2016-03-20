@@ -17024,6 +17024,125 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Sun Mar 20 11:43:18 +0000 2016",
+      "id": 711518475030757400,
+      "id_str": "711518475030757376",
+      "text": "@abroadunderhood @badgercat это правда :) https://t.co/kv5Z9baAm1",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 711517161995509800,
+      "in_reply_to_status_id_str": "711517161995509761",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "badgercat",
+            "name": "That's you!",
+            "id": 19856378,
+            "id_str": "19856378",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kv5Z9baAm1",
+            "expanded_url": "http://www.last.fm/tag/swedish/artists",
+            "display_url": "last.fm/tag/swedish/ar…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 20 11:46:37 +0000 2016",
+      "id": 711519309202329600,
+      "id_str": "711519309202329600",
+      "text": "@abroadunderhood @badgercat лучшая шведская группа — Opeth",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 711518475030757400,
+      "in_reply_to_status_id_str": "711518475030757376",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "badgercat",
+            "name": "That's you!",
+            "id": 19856378,
+            "id_str": "19856378",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

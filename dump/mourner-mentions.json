@@ -10429,6 +10429,137 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 20 11:46:39 +0000 2016",
+      "id": 711519317251194900,
+      "id_str": "711519317251194880",
+      "text": "@jsunderhood @abroadunderhood о, Dark Tranquillity тоже шведы, оказывается! Да, из этого списка куда больше знаю :)",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 711518475030757400,
+      "in_reply_to_status_id_str": "711518475030757376",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 19856378,
+        "id_str": "19856378"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 20 12:50:25 +0000 2016",
+      "id": 711535365417472000,
+      "id_str": "711535365417472000",
+      "text": "@jsunderhood нет, Abba и In Flames ^^",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 711519309202329600,
+      "in_reply_to_status_id_str": "711519309202329600",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 16400433,
+        "id_str": "16400433"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "fe999b3c33a76915",
+        "url": "https://api.twitter.com/1.1/geo/id/fe999b3c33a76915.json",
+        "place_type": "city",
+        "name": "Белгород",
+        "full_name": "Белгород, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.4659297,
+                50.5261911
+              ],
+              [
+                36.6871566,
+                50.5261911
+              ],
+              [
+                36.6871566,
+                50.6649438
+              ],
+              [
+                36.4659297,
+                50.6649438
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
     }
   ]
 }
