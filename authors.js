@@ -2,7 +2,6 @@
 
 export default [
   // post: false
-  https://twitter.com/jsunderhood/status/711964591291539456
   { username: 'iadramelk',       start: '21 Mar 2016', first: '711964591291539456', post: false },
   { username: 'mourner',         start: '14 Mar 2016', first: '709313779507597312' },
   { username: 'jabher',          start: '07 Mar 2016', first: '706770345714384896' },
