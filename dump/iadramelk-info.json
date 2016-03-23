@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2969,
+  "followers_count": 2971,
   "friends_count": 68,
   "listed_count": 166,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 139,
+  "favourites_count": 142,
   "utc_offset": 0,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17853,
+  "statuses_count": 17975,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Mar 22 08:55:29 +0000 2016",
-    "id": 712201020235980800,
-    "id_str": "712201020235980800",
-    "text": "Не, extend тоже зашивается в шаблон. А хочется чтобы блоки мы отдельно описывали от дерева блоков на странице.  https://t.co/nAnlImdD48",
+    "created_at": "Wed Mar 23 17:09:57 +0000 2016",
+    "id": 712687843185967100,
+    "id_str": "712687843185967105",
+    "text": "Лучше даже вот такая ссылка: https://t.co/TyOwVpZeZj смотрим на импорты.",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -66,10 +66,8 @@
     "contributors": [
       2005221
     ],
-    "quoted_status_id": 712199391143190500,
-    "quoted_status_id_str": "712199391143190528",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -77,12 +75,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/nAnlImdD48",
-          "expanded_url": "https://twitter.com/SetAGE/status/712199391143190528",
-          "display_url": "twitter.com/SetAGE/status/…",
+          "url": "https://t.co/TyOwVpZeZj",
+          "expanded_url": "https://github.com/rebem/layers-loader",
+          "display_url": "github.com/rebem/layers-l…",
           "indices": [
-            112,
-            135
+            29,
+            52
           ]
         }
       ]
