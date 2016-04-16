@@ -26,103 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 3144,
+  "followers_count": 3150,
   "friends_count": 68,
-  "listed_count": 178,
+  "listed_count": 179,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 148,
+  "favourites_count": 149,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19399,
+  "statuses_count": 19487,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Apr 16 10:44:48 +0000 2016",
-    "id": 721288224639987700,
-    "id_str": "721288224639987712",
-    "text": "Следующий доклад о внутренностях React Native от чувака из Facebook https://t.co/jCOIY3eDrl",
+    "created_at": "Sat Apr 16 17:13:29 +0000 2016",
+    "id": 721386040183943200,
+    "id_str": "721386040183943168",
+    "text": "Думаю уже получилось. Если я правильно понял, то все это уже работает на устройствах пользователей. https://t.co/6dYBXmpg71",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 721288209796304900,
-          "id_str": "721288209796304896",
+          "url": "https://t.co/6dYBXmpg71",
+          "expanded_url": "https://twitter.com/trufid/status/721385373155377153",
+          "display_url": "twitter.com/trufid/status/…",
           "indices": [
-            68,
-            91
-          ],
-          "media_url": "http://pbs.twimg.com/media/CgKHziWWEAAR87g.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CgKHziWWEAAR87g.jpg",
-          "url": "https://t.co/jCOIY3eDrl",
-          "display_url": "pic.twitter.com/jCOIY3eDrl",
-          "expanded_url": "http://twitter.com/jsunderhood/status/721288224639987712/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 768,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 255,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 450,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 721288209796304900,
-          "id_str": "721288209796304896",
-          "indices": [
-            68,
-            91
-          ],
-          "media_url": "http://pbs.twimg.com/media/CgKHziWWEAAR87g.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CgKHziWWEAAR87g.jpg",
-          "url": "https://t.co/jCOIY3eDrl",
-          "display_url": "pic.twitter.com/jCOIY3eDrl",
-          "expanded_url": "http://twitter.com/jsunderhood/status/721288224639987712/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 768,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 255,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 450,
-              "resize": "fit"
-            }
-          }
+            100,
+            123
+          ]
         }
       ]
     },
@@ -137,7 +69,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 721385373155377200,
+    "quoted_status_id_str": "721385373155377153",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
