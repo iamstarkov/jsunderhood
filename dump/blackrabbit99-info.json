@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3215,
+  "followers_count": 3212,
   "friends_count": 69,
   "listed_count": 178,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,47 +35,139 @@
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19843,
+  "statuses_count": 19848,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Apr 22 21:02:59 +0000 2016",
-    "id": 723618123136507900,
-    "id_str": "723618123136507905",
-    "text": "@dimko1 да, вы забрали все моё свободное время",
+    "created_at": "Sun Apr 24 14:04:44 +0000 2016",
+    "id": 724237642116816900,
+    "id_str": "724237642116816896",
+    "text": "RT @meulta: https://t.co/qjS4rbfbcO thanks for mentioning @VorlonJS @Telerik ! :)",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "dimko1",
-          "name": "Я есть XSLT",
-          "id": 50756145,
-          "id_str": "50756145",
+          "screen_name": "meulta",
+          "name": "Etienne Margraff",
+          "id": 92143356,
+          "id_str": "92143356",
           "indices": [
-            0,
-            7
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "VorlonJS",
+          "name": "VorlonJS",
+          "id": 3186726624,
+          "id_str": "3186726624",
+          "indices": [
+            58,
+            67
+          ]
+        },
+        {
+          "screen_name": "Telerik",
+          "name": "Telerik",
+          "id": 44608081,
+          "id_str": "44608081",
+          "indices": [
+            68,
+            76
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/qjS4rbfbcO",
+          "expanded_url": "http://developer.telerik.com/featured/microsoft-done-lately/",
+          "display_url": "developer.telerik.com/featured/micro…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 723591345294729200,
-    "in_reply_to_status_id_str": "723591345294729216",
-    "in_reply_to_user_id": 50756145,
-    "in_reply_to_user_id_str": "50756145",
-    "in_reply_to_screen_name": "dimko1",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 21 08:46:43 +0000 2016",
+      "id": 723070449010106400,
+      "id_str": "723070449010106368",
+      "text": "https://t.co/qjS4rbfbcO thanks for mentioning @VorlonJS @Telerik ! :)",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VorlonJS",
+            "name": "VorlonJS",
+            "id": 3186726624,
+            "id_str": "3186726624",
+            "indices": [
+              46,
+              55
+            ]
+          },
+          {
+            "screen_name": "Telerik",
+            "name": "Telerik",
+            "id": 44608081,
+            "id_str": "44608081",
+            "indices": [
+              56,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qjS4rbfbcO",
+            "expanded_url": "http://developer.telerik.com/featured/microsoft-done-lately/",
+            "display_url": "developer.telerik.com/featured/micro…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 6,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "lang": "ru"
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
