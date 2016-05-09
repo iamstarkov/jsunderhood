@@ -2,6 +2,7 @@
 
 export default [
   // post: false
+  { username: 'kovchiy',         start: '09 May 2016', first: '729640772232986624', post: false },
   { username: 'gritzko',         start: '02 May 2016', first: '727074110245883904' },
   { username: 'vvscode',         start: '25 Apr 2016', first: '724530880593702912' },
   { username: 'blackrabbit99',   start: '18 Apr 2016', first: '721962420391030784' },
