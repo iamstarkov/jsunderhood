@@ -2809,6 +2809,640 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:08:51 +0000 2016",
+      "id": 730021786864259100,
+      "id_str": "730021786864259072",
+      "text": "Поговорим сегодня о реализации интерфейсных сеток и адаптивности. Тема среди веб-разработчиков модная, но не до конца раскрытая, по-моему.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:09:03 +0000 2016",
+      "id": 730021834796699600,
+      "id_str": "730021834796699648",
+      "text": "Я долго пренебрегал адаптивностью, потому что делал интерфейсы для десктопа, где нужно просто влазить в 1200, а если шире — центрировать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:09:20 +0000 2016",
+      "id": 730021906976542700,
+      "id_str": "730021906976542720",
+      "text": "В таких условиях собрать сетку просто: обычно, это 12-колонник, который делится на 2, 3, 4 — типичные лейауты https://t.co/9N5ldPq9Lg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730021905898463200,
+            "id_str": "730021905898463232",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiGPDjtU4AAiD01.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiGPDjtU4AAiD01.jpg",
+            "url": "https://t.co/9N5ldPq9Lg",
+            "display_url": "pic.twitter.com/9N5ldPq9Lg",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730021906976542720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 523,
+                "h": 702,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 456,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 523,
+                "h": 702,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730021905898463200,
+            "id_str": "730021905898463232",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiGPDjtU4AAiD01.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiGPDjtU4AAiD01.jpg",
+            "url": "https://t.co/9N5ldPq9Lg",
+            "display_url": "pic.twitter.com/9N5ldPq9Lg",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730021906976542720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 523,
+                "h": 702,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 456,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 523,
+                "h": 702,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:10:24 +0000 2016",
+      "id": 730022175302926300,
+      "id_str": "730022175302926336",
+      "text": "Но сегодня твой URL могут открыть на чем угодно. Интерфейс —  жидкость, которую будут заливать во все эти сосуды: https://t.co/pTdgtm0p7C",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pTdgtm0p7C",
+            "expanded_url": "https://design.google.com/devices/",
+            "display_url": "design.google.com/devices/",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:10:39 +0000 2016",
+      "id": 730022239412879400,
+      "id_str": "730022239412879360",
+      "text": "И я такой думаю: хорошо, буду оставлять то число колонок, которое уместится в ширину экрана. Но в реальности оно так не работает.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:12:13 +0000 2016",
+      "id": 730022630854627300,
+      "id_str": "730022630854627328",
+      "text": "Чем мельче экран, тем рациональнее расходуешь место — особенно в Яндекс.Поиске. И единая конфигурация сетки на все экраны ложится плохо",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:12:47 +0000 2016",
+      "id": 730022776891973600,
+      "id_str": "730022776891973633",
+      "text": "Какое-то из устройств ты обязательно обидишь: либо ему конские поля, либо сверстаешь всё впритык к краям экрана https://t.co/Jyyem0Nql7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730022775906291700,
+            "id_str": "730022775906291712",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiGP2MvW0AAbg26.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiGP2MvW0AAbg26.jpg",
+            "url": "https://t.co/Jyyem0Nql7",
+            "display_url": "pic.twitter.com/Jyyem0Nql7",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730022776891973633/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 611,
+                "h": 797,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 444,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 783,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730022775906291700,
+            "id_str": "730022775906291712",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiGP2MvW0AAbg26.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiGP2MvW0AAbg26.jpg",
+            "url": "https://t.co/Jyyem0Nql7",
+            "display_url": "pic.twitter.com/Jyyem0Nql7",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730022776891973633/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 611,
+                "h": 797,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 444,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 783,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:13:14 +0000 2016",
+      "id": 730022890163343400,
+      "id_str": "730022890163343360",
+      "text": "Сначала думал делать отдельные сборки стилей под ширины экранов. Но по UA не всегда поймешь ширину клиента. А еще девайсы крутят. Не катит.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:14:10 +0000 2016",
+      "id": 730023125115670500,
+      "id_str": "730023125115670529",
+      "text": "Да, сетка должна меняться в рантайме. И решение оказалось довольно простым и наглым https://t.co/YpDdlmdTcS https://t.co/RHvQsplR0O",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YpDdlmdTcS",
+            "expanded_url": "https://gist.github.com/kovchiy/bb369d7b0a2d68cce06746696f64e15a",
+            "display_url": "gist.github.com/kovchiy/bb369d…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 730023123601530900,
+            "id_str": "730023123601530880",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CiGQKcAXIAAi2j8.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CiGQKcAXIAAi2j8.jpg",
+            "url": "https://t.co/RHvQsplR0O",
+            "display_url": "pic.twitter.com/RHvQsplR0O",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730023125115670529/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 602,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 200,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 353,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730023123601530900,
+            "id_str": "730023123601530880",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CiGQKcAXIAAi2j8.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CiGQKcAXIAAi2j8.jpg",
+            "url": "https://t.co/RHvQsplR0O",
+            "display_url": "pic.twitter.com/RHvQsplR0O",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730023125115670529/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 602,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 200,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 353,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                563,
+                331
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CiGQKcAXIAAi2j8.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:14:33 +0000 2016",
+      "id": 730023221899219000,
+      "id_str": "730023221899218944",
+      "text": "После какого-то порога ширины, сетка должна перестает меняться и просто центрируется.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 13:15:10 +0000 2016",
+      "id": 730023374794199000,
+      "id_str": "730023374794199041",
+      "text": "Так наши прототипы избавились от абсолютных ширин — только колонки и пропорции для расчета высоты. Сейчас подход тестируется в продакшене",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
