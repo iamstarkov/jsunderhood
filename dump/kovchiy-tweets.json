@@ -3443,6 +3443,327 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 20:32:39 +0000 2016",
+      "id": 730133470031323100,
+      "id_str": "730133470031323136",
+      "text": "Последнее про сетки: оставалось придумать, как вычислить высоту блоков с пропорциями. Например, видеопревью 16:10 https://t.co/rqiw3JuSt8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730133468735111200,
+            "id_str": "730133468735111168",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiH0hXqUgAAzjnL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiH0hXqUgAAzjnL.jpg",
+            "url": "https://t.co/rqiw3JuSt8",
+            "display_url": "pic.twitter.com/rqiw3JuSt8",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730133470031323136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 535,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 387,
+                "h": 609,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 387,
+                "h": 609,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730133468735111200,
+            "id_str": "730133468735111168",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiH0hXqUgAAzjnL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiH0hXqUgAAzjnL.jpg",
+            "url": "https://t.co/rqiw3JuSt8",
+            "display_url": "pic.twitter.com/rqiw3JuSt8",
+            "expanded_url": "http://twitter.com/jsunderhood/status/730133470031323136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 535,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 387,
+                "h": 609,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 387,
+                "h": 609,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 20:32:47 +0000 2016",
+      "id": 730133504005156900,
+      "id_str": "730133504005156868",
+      "text": "Счиатать на клиенте — не вариант, потому поисковая выдача должна отображаться без скриптов, которые грузятся следом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 20:33:07 +0000 2016",
+      "id": 730133588834947100,
+      "id_str": "730133588834947072",
+      "text": "Если генерировать высоту в зависимости от пропорции и числа колонок, ширина которых зависит от ширины экрана, получится слишком длинный CSS.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 20:33:18 +0000 2016",
+      "id": 730133637073637400,
+      "id_str": "730133637073637376",
+      "text": "И тут @adrior (тот самый Антон) предложил другое простое и наглое решение: https://t.co/zvhrh4Reef",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "adrior",
+            "name": "Adriana",
+            "id": 76424221,
+            "id_str": "76424221",
+            "indices": [
+              6,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zvhrh4Reef",
+            "expanded_url": "https://gist.github.com/kovchiy/0e3fbd078429ba841c022ffa8fc86df4",
+            "display_url": "gist.github.com/kovchiy/0e3fbd…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 21:13:36 +0000 2016",
+      "id": 730143776715477000,
+      "id_str": "730143776715476993",
+      "text": "@zhashkov Да, это модификатор ratio, 17 строчка. Видимо, CSS будет понятнее русского языка :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zhashkov",
+            "name": "Mikhail Zhashkov",
+            "id": 72562496,
+            "id_str": "72562496",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 730143187050860500,
+      "in_reply_to_status_id_str": "730143187050860546",
+      "in_reply_to_user_id": 72562496,
+      "in_reply_to_user_id_str": "72562496",
+      "in_reply_to_screen_name": "zhashkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 10 21:26:59 +0000 2016",
+      "id": 730147146700361700,
+      "id_str": "730147146700361729",
+      "text": "@koloskof Я собирался пока просто за машиной бежать. \n\nЦелый день про анимацию мне писать нечего, но может приплету к чему-то более весомому",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "koloskof",
+            "name": "Mikhail",
+            "id": 129881766,
+            "id_str": "129881766",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 730145021782044700,
+      "in_reply_to_status_id_str": "730145021782044672",
+      "in_reply_to_user_id": 129881766,
+      "in_reply_to_user_id_str": "129881766",
+      "in_reply_to_screen_name": "koloskof",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
