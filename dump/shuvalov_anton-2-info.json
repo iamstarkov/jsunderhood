@@ -26,65 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 3429,
+  "followers_count": 3430,
   "friends_count": 71,
   "listed_count": 187,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 194,
+  "favourites_count": 201,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20431,
+  "statuses_count": 20558,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 16 09:22:53 +0000 2016",
-    "id": 732139246165868500,
-    "id_str": "732139246165868544",
-    "text": "@varya_en @freiksenet_ru ох, я не могу ждать…) Но лучше эту тему приберечь хотя бы до завтра XD",
+    "created_at": "Tue May 17 17:11:57 +0000 2016",
+    "id": 732619679500492800,
+    "id_str": "732619679500492800",
+    "text": "Мне думается, что парочка на 10к знаков — не сильно страшно https://t.co/iZ0Xlbr1p5",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "varya_en",
-          "name": "var ya;",
-          "id": 2279709949,
-          "id_str": "2279709949",
+          "url": "https://t.co/iZ0Xlbr1p5",
+          "expanded_url": "https://twitter.com/sapegin/status/732558575076265984",
+          "display_url": "twitter.com/sapegin/status…",
           "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
-          "indices": [
-            10,
-            24
+            60,
+            83
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 732138898546118700,
-    "in_reply_to_status_id_str": "732138898546118656",
-    "in_reply_to_user_id": 2279709949,
-    "in_reply_to_user_id_str": "2279709949",
-    "in_reply_to_screen_name": "varya_en",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 732558575076266000,
+    "quoted_status_id_str": "732558575076265984",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
