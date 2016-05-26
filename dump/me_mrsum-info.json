@@ -26,41 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 3441,
+  "followers_count": 3445,
   "friends_count": 72,
-  "listed_count": 190,
+  "listed_count": 189,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 217,
+  "favourites_count": 223,
   "utc_offset": 3600,
   "time_zone": "London",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20918,
+  "statuses_count": 20931,
   "lang": "ru",
   "status": {
-    "created_at": "Wed May 25 08:18:51 +0000 2016",
-    "id": 735384622222168000,
-    "id_str": "735384622222168064",
-    "text": "А в соседнем @abroadunderhood обсуждают хлеб и багеты ;)",
+    "created_at": "Thu May 26 16:15:16 +0000 2016",
+    "id": 735866905333006300,
+    "id_str": "735866905333006336",
+    "text": "Рубрика “Провокационные вопросы за 300” :)  https://t.co/apTZgD9AkB",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
+          "url": "https://t.co/apTZgD9AkB",
+          "expanded_url": "https://twitter.com/rubyunderhood/status/735865714096152576",
+          "display_url": "twitter.com/rubyunderhood/…",
           "indices": [
-            13,
-            29
+            44,
+            67
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
+    "quoted_status_id": 735865714096152600,
+    "quoted_status_id_str": "735865714096152576",
+    "is_quote_status": true,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
