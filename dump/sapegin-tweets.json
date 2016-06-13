@@ -1,0 +1,314 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 13 07:42:38 +0000 2016",
+      "id": 742260878310051800,
+      "id_str": "742260878310051840",
+      "text": "Всем доброго утра! На этой неделе с вами @sapegin. Как погода? У нас в Берлине сегодня дождь 🌧 https://t.co/fJ2TXtaZ56",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              41,
+              49
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 742260872823853000,
+            "id_str": "742260872823853056",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ck0KVMdWUAAss3u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ck0KVMdWUAAss3u.jpg",
+            "url": "https://t.co/fJ2TXtaZ56",
+            "display_url": "pic.twitter.com/fJ2TXtaZ56",
+            "expanded_url": "http://twitter.com/jsunderhood/status/742260878310051840/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 742260872823853000,
+            "id_str": "742260872823853056",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ck0KVMdWUAAss3u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ck0KVMdWUAAss3u.jpg",
+            "url": "https://t.co/fJ2TXtaZ56",
+            "display_url": "pic.twitter.com/fJ2TXtaZ56",
+            "expanded_url": "http://twitter.com/jsunderhood/status/742260878310051840/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2825830a11306ae1",
+        "url": "https://api.twitter.com/1.1/geo/id/2825830a11306ae1.json",
+        "place_type": "neighborhood",
+        "name": "City Centre",
+        "full_name": "City Centre, Berlin",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.3657388,
+                52.504089
+              ],
+              [
+                13.429441,
+                52.504089
+              ],
+              [
+                13.429441,
+                52.540159
+              ],
+              [
+                13.3657388,
+                52.540159
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 13 07:49:15 +0000 2016",
+      "id": 742262542316228600,
+      "id_str": "742262542316228608",
+      "text": "Я пилю внутренние инструменты в https://t.co/TueMPJYgtR. Тут очень любят Ангуляр, но в нашей команде мы используем Реакт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TueMPJYgtR",
+            "expanded_url": "https://here.com/",
+            "display_url": "here.com",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 742260878310051800,
+      "in_reply_to_status_id_str": "742260878310051840",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2825830a11306ae1",
+        "url": "https://api.twitter.com/1.1/geo/id/2825830a11306ae1.json",
+        "place_type": "neighborhood",
+        "name": "City Centre",
+        "full_name": "City Centre, Berlin",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.3657388,
+                52.504089
+              ],
+              [
+                13.429441,
+                52.504089
+              ],
+              [
+                13.429441,
+                52.540159
+              ],
+              [
+                13.3657388,
+                52.540159
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 13 07:49:43 +0000 2016",
+      "id": 742262662176866300,
+      "id_str": "742262662176866304",
+      "text": "@_sashashakun Вот нам на всю неделю такое обещают :–(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sashashakun",
+            "name": "Alexander Shakun",
+            "id": 159809934,
+            "id_str": "159809934",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 742261942010662900,
+      "in_reply_to_status_id_str": "742261942010662912",
+      "in_reply_to_user_id": 159809934,
+      "in_reply_to_user_id_str": "159809934",
+      "in_reply_to_screen_name": "_sashashakun",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2825830a11306ae1",
+        "url": "https://api.twitter.com/1.1/geo/id/2825830a11306ae1.json",
+        "place_type": "neighborhood",
+        "name": "City Centre",
+        "full_name": "City Centre, Berlin",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.3657388,
+                52.504089
+              ],
+              [
+                13.429441,
+                52.504089
+              ],
+              [
+                13.429441,
+                52.540159
+              ],
+              [
+                13.3657388,
+                52.540159
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
