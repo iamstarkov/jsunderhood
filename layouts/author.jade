@@ -105,11 +105,11 @@ block content
                     if (prev.media && prev.media.image)
                       div.img-circle.author-image.author-image--small(style="background-image: url(" + prev.media.image.replace('./', '/') + ");")
                     = " "
-                    a(href="/" + prev.username)= "@" + prev.username
+                    a(href="/" + prev.authorId)= "@" + prev.username
               if next
                 .col-xs-6.text-right(class= !prev ? 'col-xs-offset-6' : '')
                   .h3.author-prev-next
-                    a(href="/" + next.username)= "@" + next.username
+                    a(href="/" + next.authorId)= "@" + next.username
                     = " "
                     if (next.media && next.media.image)
                       div.img-circle.author-image.author-image--small(style="background-image: url(" + next.media.image.replace('./', '/') + ");")
