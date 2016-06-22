@@ -30,7 +30,7 @@ block content
                 .row.text-center
                   div.img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
               .col-md-10
-                h2(style="margin: 0"): a(href="/" + author.username + '/')
+                h2(style="margin: 0"): a(href="/" + author.authorId + '/')
                   = "@" + author.username
                 if author.info.location
                   small
