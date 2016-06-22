@@ -1,8 +1,8 @@
 import { readJsonSync } from 'fs-extra';
 
-export default function getAuthorArea(username, area) {
+export default function getAuthorArea(authorId, area) {
   try {
-    return readJsonSync(`./dump/${username}${area ? '-' + area : ''}.json`);
+    return readJsonSync(`./dump/${authorId}${area ? '-' + area : ''}.json`);
   } catch (e) {
     return {};
   }

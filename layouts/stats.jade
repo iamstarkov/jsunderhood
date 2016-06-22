@@ -47,7 +47,7 @@ block content
               tr.host-stats__row
                 td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=index)
                   nobr
-                    - var authorLink = (index !== 0) ? '/' + author.username : "https://twitter.com/" + underhood.underhood;
+                    - var authorLink = (index !== 0) ? '/' + author.authorId : "https://twitter.com/" + underhood.underhood;
                     a(href=authorLink class={ live: index === 0 })
                       = "@" + author.username
 

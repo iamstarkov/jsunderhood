@@ -6,8 +6,8 @@ import getDiffFollowers from './helpers/get-diff-followers';
 
 function getStatsPerAuthor(authors) {
   return authors
-    .map(author => merge(author, { gainedFollowers: getGainedFollowers(author.username) }))
-    .map(author => merge(author, { diffFollowers: getDiffFollowers(author.username) }))
+    .map(author => merge(author, { gainedFollowers: getGainedFollowers(author.authorId) }))
+    .map(author => merge(author, { diffFollowers: getDiffFollowers(author.authorId) }))
     .map(author => merge(author, stats(author.tweets)));
 }
 

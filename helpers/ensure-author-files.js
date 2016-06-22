@@ -1,8 +1,8 @@
 import { ensureFileSync, ensureDirSync } from 'fs-extra';
 
-export default function ensureAuthorFiles(username) {
+export default function ensureAuthorFiles(authorId) {
   ensureDirSync('./dump/images');
   ['info', 'tweets', 'media', 'mentions'].map(area => {
-    ensureFileSync(`./dump/${username}-${area}.json`);
+    ensureFileSync(`./dump/${authorId}-${area}.json`);
   });
 }

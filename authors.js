@@ -1,18 +1,19 @@
 /* eslint-disable no-multi-spaces */
+import authorId from './helpers/author-id';
 
-export default [
+export default authorId([
   // post: false
   { username: 'sergeybelove',    start: '20 Jun 2016', first: '744832114013650944', post: false },
   { username: 'sapegin',         start: '13 Jun 2016', first: '742260878310051840' },
   { username: 'vkozulya',        start: '06 Jun 2016', first: '739555780077162496' },
   { username: 'twilightfeel',    start: '30 May 2015', first: '737207329624588289' },
   { username: 'me_mrsum',        start: '23 May 2015', first: '734659169236705280' },
-  { username: 'shuvalov_anton-2', start: '16 May 2015', first: '732129458925211648' },
+  { username: 'shuvalov_anton',  start: '16 May 2015', first: '732129458925211648' },
   { username: 'kovchiy',         start: '09 May 2016', first: '729640772232986624' },
   { username: 'gritzko',         start: '02 May 2016', first: '727074110245883904' },
   { username: 'vvscode',         start: '25 Apr 2016', first: '724530880593702912' },
   { username: 'blackrabbit99',   start: '18 Apr 2016', first: '721962420391030784' },
-  { username: 'roman01la-2',     start: '11 Apr 2016', first: '719472523876941824' },
+  { username: 'roman01la',       start: '11 Apr 2016', first: '719472523876941824' },
   { username: 'xanf_ua',         start: '28 Mar 2016', first: '714343484950491136' },
   { username: 'iadramelk',       start: '21 Mar 2016', first: '711964591291539456' },
   { username: 'mourner',         start: '14 Mar 2016', first: '709313779507597312' },
@@ -70,4 +71,4 @@ export default [
   { username: 'iamstarkov',      start: '23 Feb 2015', first: '569802366297493505' },
   { username: 'filipovskii',     start: '09 Feb 2015', first: '564697062378594304' },
   { username: 'shuvalov_anton',  start: '03 Feb 2015', first: '562516792753811456' },
-];
+]);

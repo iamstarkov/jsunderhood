@@ -6,6 +6,7 @@ import cheerio from 'cheerio';
 import typeNumbers from 'typographic-numbers';
 import { head } from 'ramda';
 import authors from './dump';
+import authorId from './helpers/author-id';
 
 const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });
@@ -74,6 +75,28 @@ describe('html', () => {
         assert($('article p').length > 1);
         assert($('article h2 small').length > 1);
       });
+    });
+  });
+
+  describe('authorId', () => {
+    const input = [
+      { username: 'first' },
+      { username: 'yolo' },
+      { username: 'first' },
+      { username: 'yolo' },
+      { username: 'first' }
+    ];
+
+    it('should work', () => {
+      const actual = authorId(input);
+      const expected = [
+        { username: 'first', authorId: 'first-3' },
+        { username: 'yolo',  authorId: 'yolo-2' },
+        { username: 'first', authorId: 'first-2' },
+        { username: 'yolo',  authorId: 'yolo' },
+        { username: 'first', authorId: 'first' }
+      ];
+      assert.deepEqual(actual, expected);
     });
   });
 });
