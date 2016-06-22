@@ -3,13 +3,13 @@ import authors from '../authors';
 import R from 'ramda';
 import diff from 'lodash.difference';
 
-const prev = author => (authors[R.inc(R.findIndex(R.propEq('username', author), authors))] || {}).username;
-const followers = author => R.map(R.prop('id_str'), (getAuthorArea(author, 'followers').followers || []));
+const prev = authorId => (authors[R.inc(R.findIndex(R.propEq('authorId', authorId), authors))] || {}).authorId;
+const followers = authorId => R.map(R.prop('id_str'), (getAuthorArea(authorId, 'followers').followers || []));
 
 // getDiffFollowers :: String -> Object
-export default function getDiffFollowers(author) {
-  const currentFollowers = followers(author);
-  const previousFollowers = followers(prev(author));
+export default function getDiffFollowers(authorId) {
+  const currentFollowers = followers(authorId);
+  const previousFollowers = followers(prev(authorId));
   if (R.length(previousFollowers) > 0) {
     return {
       gain: R.length(diff(currentFollowers, previousFollowers)),

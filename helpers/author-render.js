@@ -29,9 +29,9 @@ const tweetTime = (tweet) => moment(new Date(tweet.created_at)).format('H:mm');
 
 const authorsToPost = filter(author => author.post !== false, authors);
 
-const authorIndex = author => findIndex(propEq('username', author.username))(authorsToPost);
+const authorIndex = author => findIndex(propEq('authorId', author.authorId))(authorsToPost);
 const isFirstAuthor = author => authorIndex(author) === dec(length(authorsToPost));
-const isLastAuthor = author => author.username === prop('username', head(authorsToPost));
+const isLastAuthor = author => author.authorId === prop('authorId', head(authorsToPost));
 const nextAuthor = author => {
   if (!isLastAuthor(author)) return nth(dec(authorIndex(author)), authorsToPost);
 };

@@ -124,7 +124,7 @@ task('rss', done => {
     feed.item({
       title: author.username,
       description: render(firstTweet(author)),
-      url: `https://jsunderhood.ru/${author.username}/`,
+      url: `https://jsunderhood.ru/${author.authorId}/`,
       date: firstTweet(author).created_at,
     });
   });
@@ -143,7 +143,7 @@ task('authors', ['css'], done => {
           helpers: { authorRender, bust },
         },
       }))
-      .pipe(rename({ dirname: author.username }))
+      .pipe(rename({ dirname: author.authorId }))
       .pipe(rename({ basename: 'index' }))
       .pipe(dest('dist'));
   }, done);
@@ -155,13 +155,13 @@ task('userpics', () =>
     .pipe(dest('dist/images')));
 
 task('current-userpic', () =>
-  head(authors) && src(`dump/images/${head(authors).username}-image*`)
+  head(authors) && src(`dump/images/${head(authors).authorId}-image*`)
     .pipe(jimp({ resize: { width: 192, height: 192 }}))
     .pipe(rename('current-image'))
     .pipe(dest('dist/images')));
 
 task('current-banner', () =>
-  head(authors) && src(`dump/images/${head(authors).username}-banner*`)
+  head(authors) && src(`dump/images/${head(authors).authorId}-banner*`)
     .pipe(rename('current-banner'))
     .pipe(dest('dist/images')));
 

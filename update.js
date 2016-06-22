@@ -19,42 +19,42 @@ import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
 import getAuthorArea from './helpers/get-author-area';
 import saveAuthorArea from './helpers/save-author-area';
 
-const { first, username } = head(authors);
+const { authorId, first, username } = head(authors);
 
-ensureFilesForFirstUpdate(username);
+ensureFilesForFirstUpdate(authorId);
 
-const tweets = getAuthorArea(username, 'tweets').tweets || [];
-const mentions = getAuthorArea(username, 'mentions').mentions || [];
+const tweets = getAuthorArea(authorId, 'tweets').tweets || [];
+const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
 
 const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
 getTweets(tokens, underhood, tweetsSinceId, (err, newTweetsRaw) => {
   if (err) throw err;
   const concattedTweets = concat(tweets, reverse(newTweetsRaw));
-  saveAuthorArea(username, 'tweets', { tweets: concattedTweets });
+  saveAuthorArea(authorId, 'tweets', { tweets: concattedTweets });
 });
 
 getInfo(tokens, underhood, (err, info) => {
   if (err) throw err;
-  saveAuthorArea(username, 'info', info);
+  saveAuthorArea(authorId, 'info', info);
 });
 
 rm(`./dump/images/${username}*`);
-saveMedia(tokens, underhood, username, (err, media) => {
+saveMedia(tokens, underhood, authorId, (err, media) => {
   if (err) throw err;
-  saveAuthorArea(username, 'media', media);
+  saveAuthorArea(authorId, 'media', media);
 });
 
 getFollowers(tokens, underhood, (err, followersWithStatuses) => {
   if (err) throw err;
   const followers = map(dissoc('status'), followersWithStatuses);
-  saveAuthorArea(username, 'followers', { followers });
+  saveAuthorArea(authorId, 'followers', { followers });
 });
 
 const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
 twitterMentions(tokens, mentionsSinceId, (err, newMentionsRaw) => {
   if (err) throw err;
   const concattedMentions = concat(mentions, reverse(newMentionsRaw));
-  saveAuthorArea(username, 'mentions', { mentions: concattedMentions });
+  saveAuthorArea(authorId, 'mentions', { mentions: concattedMentions });
 });
 
 outputFile('./dump/.timestamp', moment().unix(), err => {
