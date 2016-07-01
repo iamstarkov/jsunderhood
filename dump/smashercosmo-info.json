@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3526,
+  "followers_count": 3529,
   "friends_count": 76,
   "listed_count": 196,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -46,46 +46,48 @@
   "time_zone": "Berlin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22514,
+  "statuses_count": 22566,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jun 30 08:35:54 +0000 2016",
-    "id": 748434877440221200,
-    "id_str": "748434877440221185",
-    "text": "@cssunderhood мы пользуемся, очень довольны, считаем, что это хорошо и удобно",
+    "created_at": "Fri Jul 01 09:15:49 +0000 2016",
+    "id": 748807309116121100,
+    "id_str": "748807309116121091",
+    "text": "Сейчас расскажу о них поподробней, но при этом помните, что: https://t.co/7XIm4x4TjS",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "url": "https://t.co/7XIm4x4TjS",
+          "expanded_url": "https://twitter.com/dan_abramov/status/682418363109359616",
+          "display_url": "twitter.com/dan_abramov/st…",
           "indices": [
-            0,
-            13
+            61,
+            84
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 748434004450357200,
-    "in_reply_to_status_id_str": "748434004450357248",
-    "in_reply_to_user_id": 3376999971,
-    "in_reply_to_user_id_str": "3376999971",
-    "in_reply_to_screen_name": "cssunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "quoted_status_id": 682418363109359600,
+    "quoted_status_id_str": "682418363109359616",
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
