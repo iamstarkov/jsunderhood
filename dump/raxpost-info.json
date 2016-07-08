@@ -37,28 +37,59 @@
     }
   },
   "protected": false,
-  "followers_count": 3545,
+  "followers_count": 3552,
   "friends_count": 76,
   "listed_count": 196,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 444,
+  "favourites_count": 446,
   "utc_offset": 7200,
   "time_zone": "Berlin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22828,
+  "statuses_count": 22856,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jul 07 09:23:29 +0000 2016",
-    "id": 750983567954546700,
-    "id_str": "750983567954546688",
-    "text": "И пока на клиенте весело и задорно с реактом, на сервере царит мракобесие во главе с Express",
+    "created_at": "Fri Jul 08 08:28:08 +0000 2016",
+    "id": 751332024003223600,
+    "id_str": "751332024003223552",
+    "text": "RT @allfayn: @jsunderhood вот в контексте RxJS отличный пример и статья про построение Redux-like приложения https://t.co/rJZJMwDdZx",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "allfayn",
+          "name": "Sergey Ф",
+          "id": 73635119,
+          "id_str": "73635119",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            13,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rJZJMwDdZx",
+          "expanded_url": "http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications",
+          "display_url": "victorsavkin.com/post/137821436…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +101,63 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 08 08:26:44 +0000 2016",
+      "id": 751331673736962000,
+      "id_str": "751331673736962048",
+      "text": "@jsunderhood вот в контексте RxJS отличный пример и статья про построение Redux-like приложения https://t.co/rJZJMwDdZx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rJZJMwDdZx",
+            "expanded_url": "http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications",
+            "display_url": "victorsavkin.com/post/137821436…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 751328574423044100,
+      "in_reply_to_status_id_str": "751328574423044096",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
