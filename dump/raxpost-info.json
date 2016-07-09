@@ -37,35 +37,45 @@
     }
   },
   "protected": false,
-  "followers_count": 3552,
+  "followers_count": 3570,
   "friends_count": 76,
-  "listed_count": 196,
+  "listed_count": 197,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 446,
+  "favourites_count": 452,
   "utc_offset": 7200,
   "time_zone": "Berlin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22856,
+  "statuses_count": 22929,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jul 08 08:28:08 +0000 2016",
-    "id": 751332024003223600,
-    "id_str": "751332024003223552",
-    "text": "RT @allfayn: @jsunderhood вот в контексте RxJS отличный пример и статья про построение Redux-like приложения https://t.co/rJZJMwDdZx",
+    "created_at": "Sat Jul 09 16:17:47 +0000 2016",
+    "id": 751812605564559400,
+    "id_str": "751812605564559360",
+    "text": "RT @twenty: @yamalight @jsunderhood но в конце тебя всё равно в дурку посадят.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "allfayn",
-          "name": "Sergey Ф",
-          "id": 73635119,
-          "id_str": "73635119",
+          "screen_name": "twenty",
+          "name": "Pavel Frankov",
+          "id": 12775382,
+          "id_str": "12775382",
           "indices": [
             3,
-            11
+            10
+          ]
+        },
+        {
+          "screen_name": "yamalight",
+          "name": "yamalight",
+          "id": 6590452,
+          "id_str": "6590452",
+          "indices": [
+            12,
+            22
           ]
         },
         {
@@ -74,24 +84,14 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            13,
-            25
+            23,
+            35
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/rJZJMwDdZx",
-          "expanded_url": "http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications",
-          "display_url": "victorsavkin.com/post/137821436…",
-          "indices": [
-            109,
-            132
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -102,62 +102,60 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Fri Jul 08 08:26:44 +0000 2016",
-      "id": 751331673736962000,
-      "id_str": "751331673736962048",
-      "text": "@jsunderhood вот в контексте RxJS отличный пример и статья про построение Redux-like приложения https://t.co/rJZJMwDdZx",
+      "created_at": "Sat Jul 09 15:58:54 +0000 2016",
+      "id": 751807850045898800,
+      "id_str": "751807850045898756",
+      "text": "@yamalight @jsunderhood но в конце тебя всё равно в дурку посадят.",
       "truncated": false,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
+            "screen_name": "yamalight",
+            "name": "yamalight",
+            "id": 6590452,
+            "id_str": "6590452",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
             "screen_name": "jsunderhood",
             "name": "Разработчик",
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              0,
-              12
+              11,
+              23
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/rJZJMwDdZx",
-            "expanded_url": "http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications",
-            "display_url": "victorsavkin.com/post/137821436…",
-            "indices": [
-              96,
-              119
-            ]
-          }
-        ]
+        "urls": []
       },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 751328574423044100,
-      "in_reply_to_status_id_str": "751328574423044096",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 751788442510618600,
+      "in_reply_to_status_id_str": "751788442510618624",
+      "in_reply_to_user_id": 6590452,
+      "in_reply_to_user_id_str": "6590452",
+      "in_reply_to_screen_name": "yamalight",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
+      "retweet_count": 5,
+      "favorite_count": 12,
       "favorited": false,
       "retweeted": true,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 5,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
