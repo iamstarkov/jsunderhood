@@ -37,61 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 3570,
+  "followers_count": 3574,
   "friends_count": 76,
   "listed_count": 197,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 452,
+  "favourites_count": 454,
   "utc_offset": 7200,
   "time_zone": "Berlin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22929,
+  "statuses_count": 22961,
   "lang": "en",
   "status": {
-    "created_at": "Sat Jul 09 16:17:47 +0000 2016",
-    "id": 751812605564559400,
-    "id_str": "751812605564559360",
-    "text": "RT @twenty: @yamalight @jsunderhood но в конце тебя всё равно в дурку посадят.",
+    "created_at": "Sun Jul 10 18:07:42 +0000 2016",
+    "id": 752202654533709800,
+    "id_str": "752202654533709825",
+    "text": "Спасибо всем, кто участвовал в дискуссиях, это была классная неделя. Пишите фидбек по https://t.co/8ymgBav9xq, мне он очень важен :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "twenty",
-          "name": "Pavel Frankov",
-          "id": 12775382,
-          "id_str": "12775382",
+          "url": "https://t.co/8ymgBav9xq",
+          "expanded_url": "https://github.com/yarax/typelint",
+          "display_url": "github.com/yarax/typelint",
           "indices": [
-            3,
-            10
-          ]
-        },
-        {
-          "screen_name": "yamalight",
-          "name": "yamalight",
-          "id": 6590452,
-          "id_str": "6590452",
-          "indices": [
-            12,
-            22
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            23,
-            35
+            86,
+            109
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -101,61 +80,12 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sat Jul 09 15:58:54 +0000 2016",
-      "id": 751807850045898800,
-      "id_str": "751807850045898756",
-      "text": "@yamalight @jsunderhood но в конце тебя всё равно в дурку посадят.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "yamalight",
-            "name": "yamalight",
-            "id": 6590452,
-            "id_str": "6590452",
-            "indices": [
-              0,
-              10
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              11,
-              23
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 751788442510618600,
-      "in_reply_to_status_id_str": "751788442510618624",
-      "in_reply_to_user_id": 6590452,
-      "in_reply_to_user_id_str": "6590452",
-      "in_reply_to_screen_name": "yamalight",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 5,
-      "favorite_count": 12,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
