@@ -37,38 +37,59 @@
     }
   },
   "protected": false,
-  "followers_count": 3582,
-  "friends_count": 77,
+  "followers_count": 3573,
+  "friends_count": 78,
   "listed_count": 197,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 459,
+  "favourites_count": 513,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23020,
+  "statuses_count": 23215,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 11 14:46:14 +0000 2016",
-    "id": 752514342420095000,
-    "id_str": "752514342420094976",
-    "text": "тем, что он лисп :) https://t.co/i56eq2iQRv",
+    "created_at": "Tue Jul 12 13:10:54 +0000 2016",
+    "id": 752852738850099200,
+    "id_str": "752852738850099200",
+    "text": "RT @freiksenet_ru: @rimmer333 Вот из-за таких мнений, we can't have nice things. Каскадность надо уничтожить. @jsunderhood",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/i56eq2iQRv",
-          "expanded_url": "https://twitter.com/Sigiller/status/752513494159912960",
-          "display_url": "twitter.com/Sigiller/statu…",
+          "screen_name": "freiksenet_ru",
+          "name": "Михаил Новиков",
+          "id": 3411018190,
+          "id_str": "3411018190",
           "indices": [
-            20,
-            43
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "rimmer333",
+          "name": "Eugene Efimochkin σσ",
+          "id": 11085502,
+          "id_str": "11085502",
+          "indices": [
+            19,
+            29
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            110,
+            122
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +101,61 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 752513494159913000,
-    "quoted_status_id_str": "752513494159912960",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Jul 12 13:09:20 +0000 2016",
+      "id": 752852344241520600,
+      "id_str": "752852344241520640",
+      "text": "@rimmer333 Вот из-за таких мнений, we can't have nice things. Каскадность надо уничтожить. @jsunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rimmer333",
+            "name": "Eugene Efimochkin σσ",
+            "id": 11085502,
+            "id_str": "11085502",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              91,
+              103
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 752850499993468900,
+      "in_reply_to_status_id_str": "752850499993468928",
+      "in_reply_to_user_id": 11085502,
+      "in_reply_to_user_id_str": "11085502",
+      "in_reply_to_screen_name": "rimmer333",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
