@@ -37,56 +37,54 @@
     }
   },
   "protected": false,
-  "followers_count": 3718,
+  "followers_count": 3716,
   "friends_count": 0,
   "listed_count": 203,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 553,
+  "favourites_count": 555,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23654,
+  "statuses_count": 23684,
   "lang": "en",
   "status": {
-    "created_at": "Tue Aug 09 15:16:38 +0000 2016",
-    "id": 763031241146961900,
-    "id_str": "763031241146961920",
-    "text": "@mr_mig_by @webstandards_ru Хахаха",
+    "created_at": "Wed Aug 10 09:27:46 +0000 2016",
+    "id": 763305830376702000,
+    "id_str": "763305830376701952",
+    "text": "Я практически везде юзаю cosmos https://t.co/A3aldIM12I хочу перейти на https://t.co/pj0IkNcxvH, но он хочет 15 react, пока не можем",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "mr_mig_by",
-          "name": "Alexey Migutsky",
-          "id": 170772902,
-          "id_str": "170772902",
+          "url": "https://t.co/A3aldIM12I",
+          "expanded_url": "http://goo.gl/Mzh3cA",
+          "display_url": "goo.gl/Mzh3cA",
           "indices": [
-            0,
-            10
+            32,
+            55
           ]
         },
         {
-          "screen_name": "webstandards_ru",
-          "name": "Веб-стандарты",
-          "id": 42081171,
-          "id_str": "42081171",
+          "url": "https://t.co/pj0IkNcxvH",
+          "expanded_url": "http://goo.gl/iKxr1B",
+          "display_url": "goo.gl/iKxr1B",
           "indices": [
-            11,
-            27
+            72,
+            95
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 763031155679629300,
-    "in_reply_to_status_id_str": "763031155679629312",
-    "in_reply_to_user_id": 170772902,
-    "in_reply_to_user_id_str": "170772902",
-    "in_reply_to_screen_name": "mr_mig_by",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -98,6 +96,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
