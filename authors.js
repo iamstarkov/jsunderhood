@@ -3,7 +3,8 @@ import authorId from './helpers/author-id';
 
 export default authorId([
   // post: false
-  { username: 'lapanoid',        start: '11 Jul 2016', first: '762583954398519296' },
+  { username: 'yaplusplus',      start: '15 Aug 2016', first: '765088640317943808', post: false },
+  { username: 'lapanoid',        start: '08 Aug 2016', first: '762583954398519296' },
   { username: 'chicoxyzzy',      start: '11 Jul 2016', first: '752486533953884165' },
   { username: 'raxpost',         start: '04 Jul 2016', first: '749883626502914048' },
   { username: 'smashercosmo',    start: '27 Jun 2016', first: '747359816784318465' },
