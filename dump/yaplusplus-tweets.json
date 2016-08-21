@@ -47025,6 +47025,146 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 21 19:53:45 +0000 2016",
+      "id": 767449634163847200,
+      "id_str": "767449634163847196",
+      "text": "RT @iamstarkov: @jsunderhood @yaplusplus архив недели https://t.co/kwC6KzBB6E",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "yaplusplus",
+            "name": "Yegor Yakovishen",
+            "id": 12063912,
+            "id_str": "12063912",
+            "indices": [
+              29,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kwC6KzBB6E",
+            "expanded_url": "https://jsunderhood.ru/yaplusplus/",
+            "display_url": "jsunderhood.ru/yaplusplus/",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Aug 21 19:52:58 +0000 2016",
+        "id": 767449433101443100,
+        "id_str": "767449433101443072",
+        "text": "@jsunderhood @yaplusplus архив недели https://t.co/kwC6KzBB6E",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "yaplusplus",
+              "name": "Yegor Yakovishen",
+              "id": 12063912,
+              "id_str": "12063912",
+              "indices": [
+                13,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/kwC6KzBB6E",
+              "expanded_url": "https://jsunderhood.ru/yaplusplus/",
+              "display_url": "jsunderhood.ru/yaplusplus/",
+              "indices": [
+                38,
+                61
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 767440605848936400,
+        "in_reply_to_status_id_str": "767440605848936449",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 98084311,
+          "id_str": "98084311"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
