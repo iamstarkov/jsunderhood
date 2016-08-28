@@ -28867,6 +28867,516 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:47:55 +0000 2016",
+      "id": 769803687304781800,
+      "id_str": "769803687304781824",
+      "text": "Если у вас есть что высказать о JS, то лучшее место для этого в #shitjs -  https://t.co/J2YKQBU5iv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shitjs",
+            "indices": [
+              64,
+              71
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J2YKQBU5iv",
+            "expanded_url": "https://github.com/shitjs",
+            "display_url": "github.com/shitjs",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:48:49 +0000 2016",
+      "id": 769803912501133300,
+      "id_str": "769803912501133312",
+      "text": "Например, @chicoxyzzy написал плагин для eslint, который проверяет, не используете ли вы JS в вашем проекте - https://t.co/gc0VQWp4Cq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              10,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gc0VQWp4Cq",
+            "expanded_url": "https://github.com/shitjs/eslint-plugin-no-js",
+            "display_url": "github.com/shitjs/eslint-…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769803687304781800,
+      "in_reply_to_status_id_str": "769803687304781824",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:49:45 +0000 2016",
+      "id": 769804146560135200,
+      "id_str": "769804146560135168",
+      "text": "@chicoxyzzy я написал плагин для babel, который добавляет try\\catch в каждый метод\\ф-цию, что приводит к bailouts (деоптимизирует)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769803912501133300,
+      "in_reply_to_status_id_str": "769803912501133312",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:50:03 +0000 2016",
+      "id": 769804222334431200,
+      "id_str": "769804222334431232",
+      "text": "@chicoxyzzy https://t.co/BNi0NswFas",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BNi0NswFas",
+            "expanded_url": "https://github.com/shitjs/babel-plugin-fuck-optimization",
+            "display_url": "github.com/shitjs/babel-p…",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769804146560135200,
+      "in_reply_to_status_id_str": "769804146560135168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Aug 28 07:51:15 +0000 2016",
+      "id": 769804523149951000,
+      "id_str": "769804523149950976",
+      "text": "@chicoxyzzy @vslinko написал плагин к postcss, который убивает ваш дизайн - https://t.co/hhKr7VwraX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "vslinko",
+            "name": "Vyacheslav Slinko",
+            "id": 144813953,
+            "id_str": "144813953",
+            "indices": [
+              12,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hhKr7VwraX",
+            "expanded_url": "https://github.com/shitjs/postcss-fuck-design",
+            "display_url": "github.com/shitjs/postcss…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769804222334431200,
+      "in_reply_to_status_id_str": "769804222334431232",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:52:01 +0000 2016",
+      "id": 769804717740482600,
+      "id_str": "769804717740482561",
+      "text": "@chicoxyzzy @vslinko а @denysdovhan написал полифилл, который must have в любом фронтенде - https://t.co/VaG2Fr0i7l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "vslinko",
+            "name": "Vyacheslav Slinko",
+            "id": 144813953,
+            "id_str": "144813953",
+            "indices": [
+              12,
+              20
+            ]
+          },
+          {
+            "screen_name": "denysdovhan",
+            "name": "Denys Dovhan",
+            "id": 241111030,
+            "id_str": "241111030",
+            "indices": [
+              23,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VaG2Fr0i7l",
+            "expanded_url": "https://github.com/shitjs/shit-polyfill",
+            "display_url": "github.com/shitjs/shit-po…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769804523149951000,
+      "in_reply_to_status_id_str": "769804523149950976",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:53:10 +0000 2016",
+      "id": 769805007650709500,
+      "id_str": "769805007650709504",
+      "text": "@chicoxyzzy @vslinko @denysdovhan если у вас есть интересные идеи, то пишите @ghaiklor или вышеуказанным никам, добавим в организацию :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "vslinko",
+            "name": "Vyacheslav Slinko",
+            "id": 144813953,
+            "id_str": "144813953",
+            "indices": [
+              12,
+              20
+            ]
+          },
+          {
+            "screen_name": "denysdovhan",
+            "name": "Denys Dovhan",
+            "id": 241111030,
+            "id_str": "241111030",
+            "indices": [
+              21,
+              33
+            ]
+          },
+          {
+            "screen_name": "ghaiklor",
+            "name": "Eugene Obrezkov",
+            "id": 1891368553,
+            "id_str": "1891368553",
+            "indices": [
+              77,
+              86
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769804717740482600,
+      "in_reply_to_status_id_str": "769804717740482561",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 28 07:53:35 +0000 2016",
+      "id": 769805109857488900,
+      "id_str": "769805109857488896",
+      "text": ".@chicoxyzzy @vslinko @denysdovhan @ghaiklor и я снова забыл поставить точку, чтобы видели твит. Советую открыть весь тред :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "vslinko",
+            "name": "Vyacheslav Slinko",
+            "id": 144813953,
+            "id_str": "144813953",
+            "indices": [
+              13,
+              21
+            ]
+          },
+          {
+            "screen_name": "denysdovhan",
+            "name": "Denys Dovhan",
+            "id": 241111030,
+            "id_str": "241111030",
+            "indices": [
+              22,
+              34
+            ]
+          },
+          {
+            "screen_name": "ghaiklor",
+            "name": "Eugene Obrezkov",
+            "id": 1891368553,
+            "id_str": "1891368553",
+            "indices": [
+              35,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 769805007650709500,
+      "in_reply_to_status_id_str": "769805007650709504",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1891368553
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

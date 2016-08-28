@@ -35,50 +35,78 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24912,
+  "statuses_count": 24920,
   "lang": "en",
   "status": {
-    "created_at": "Sat Aug 27 18:48:32 +0000 2016",
-    "id": 769607545216467000,
-    "id_str": "769607545216466945",
-    "text": "Да, это все ребята из CityJS :) https://t.co/plp4X2R2XU",
+    "created_at": "Sun Aug 28 07:53:35 +0000 2016",
+    "id": 769805109857488900,
+    "id_str": "769805109857488896",
+    "text": ".@chicoxyzzy @vslinko @denysdovhan @ghaiklor и я снова забыл поставить точку, чтобы видели твит. Советую открыть весь тред :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/plp4X2R2XU",
-          "expanded_url": "https://twitter.com/kaetanaalba/status/769539817486954496",
-          "display_url": "twitter.com/kaetanaalba/st…",
+          "screen_name": "chicoxyzzy",
+          "name": "Sergey Rubanov",
+          "id": 2913789579,
+          "id_str": "2913789579",
           "indices": [
-            32,
-            55
+            1,
+            12
+          ]
+        },
+        {
+          "screen_name": "vslinko",
+          "name": "Vyacheslav Slinko",
+          "id": 144813953,
+          "id_str": "144813953",
+          "indices": [
+            13,
+            21
+          ]
+        },
+        {
+          "screen_name": "denysdovhan",
+          "name": "Denys Dovhan",
+          "id": 241111030,
+          "id_str": "241111030",
+          "indices": [
+            22,
+            34
+          ]
+        },
+        {
+          "screen_name": "ghaiklor",
+          "name": "Eugene Obrezkov",
+          "id": 1891368553,
+          "id_str": "1891368553",
+          "indices": [
+            35,
+            44
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 769805007650709500,
+    "in_reply_to_status_id_str": "769805007650709504",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       1891368553
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 769539817486954500,
-    "quoted_status_id_str": "769539817486954496",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
