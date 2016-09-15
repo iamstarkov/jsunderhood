@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3796,
+  "followers_count": 3791,
   "friends_count": 0,
-  "listed_count": 217,
+  "listed_count": 216,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 627,
+  "favourites_count": 631,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25818,
+  "statuses_count": 25875,
   "lang": "en",
   "status": {
-    "created_at": "Wed Sep 14 16:09:21 +0000 2016",
-    "id": 776090470350987300,
-    "id_str": "776090470350987264",
-    "text": "На этом по технической части обновления, пожалуй, всё.\nЗавтра затрону организационные моменты",
+    "created_at": "Thu Sep 15 16:15:45 +0000 2016",
+    "id": 776454467311001600,
+    "id_str": "776454467311001600",
+    "text": "Ну шутка же :) У нас сейчас гора из сасса и маленькая куча из SugarSS для новых компонентов. https://t.co/iA4uGynHIp",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/iA4uGynHIp",
+          "expanded_url": "https://twitter.com/lapanoid/status/776454017627062273",
+          "display_url": "twitter.com/lapanoid/statu…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -61,11 +71,14 @@
     "contributors": [
       449464925
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 776454017627062300,
+    "quoted_status_id_str": "776454017627062273",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
