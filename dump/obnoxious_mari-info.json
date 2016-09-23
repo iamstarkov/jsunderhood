@@ -26,38 +26,69 @@
     }
   },
   "protected": false,
-  "followers_count": 3803,
+  "followers_count": 3804,
   "friends_count": 0,
-  "listed_count": 216,
+  "listed_count": 215,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 642,
+  "favourites_count": 660,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25975,
+  "statuses_count": 26313,
   "lang": "en",
   "status": {
-    "created_at": "Tue Sep 20 23:49:38 +0000 2016",
-    "id": 778380628739981300,
-    "id_str": "778380628739981312",
-    "text": "Но через какое-то время у них может появится чувство застоя и фрустрация, что их способности не используются полнос… https://t.co/xHwCQLkGhw",
-    "truncated": true,
+    "created_at": "Fri Sep 23 22:25:01 +0000 2016",
+    "id": 779446500619419600,
+    "id_str": "779446500619419648",
+    "text": "RT @pasunderhood: И пока @jsunderhood обучает котиков нейросетям, @rubyunderhood отходит после афтепати, а @backendsecret наслаждается 0.5-…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/xHwCQLkGhw",
-          "expanded_url": "https://twitter.com/i/web/status/778380628739981312",
-          "display_url": "twitter.com/i/web/status/7…",
+          "screen_name": "pasunderhood",
+          "name": "Школьник",
+          "id": 2246050724,
+          "id_str": "2246050724",
           "indices": [
-            117,
-            140
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            25,
+            37
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby-разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            66,
+            80
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            107,
+            121
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -71,14 +102,71 @@
     "contributors": [
       551208027
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 778379935568175100,
-    "quoted_status_id_str": "778379935568175104",
-    "retweet_count": 2,
-    "favorite_count": 2,
+    "retweeted_status": {
+      "created_at": "Fri Sep 23 22:23:49 +0000 2016",
+      "id": 779446196842664000,
+      "id_str": "779446196842663937",
+      "text": "И пока @jsunderhood обучает котиков нейросетям, @rubyunderhood отходит после афтепати, а @backendsecret наслаждается 0.5-indexed списками, →",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              7,
+              19
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              48,
+              62
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              89,
+              103
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
