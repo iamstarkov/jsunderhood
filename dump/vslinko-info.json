@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3805,
+  "followers_count": 3822,
   "friends_count": 0,
-  "listed_count": 216,
+  "listed_count": 217,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 662,
+  "favourites_count": 667,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26370,
+  "statuses_count": 26426,
   "lang": "en",
   "status": {
-    "created_at": "Mon Sep 26 12:16:51 +0000 2016",
-    "id": 780380614256169000,
-    "id_str": "780380614256168960",
-    "text": "На презентации GraphQL я подумал: \"я же пытаюсь сделать тоже самое\". Единый endpoint, который одним ответом отдает только нужные данные.",
-    "truncated": false,
+    "created_at": "Tue Sep 27 11:29:07 +0000 2016",
+    "id": 780730987005284400,
+    "id_str": "780730987005284352",
+    "text": "Не верю в то, что он выкарабкается. На бекенде есть конкурент от самого Google. На фронтенде Dart не нужен без нати… https://t.co/CJJnSWf3Ur",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/CJJnSWf3Ur",
+          "expanded_url": "https://twitter.com/i/web/status/780730987005284352",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -72,11 +82,14 @@
     "contributors": [
       144813953
     ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "is_quote_status": true,
+    "quoted_status_id": 780729558853181400,
+    "quoted_status_id_str": "780729558853181440",
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
