@@ -4,18 +4,7 @@
   "name": "Разработчик",
   "screen_name": "jsunderhood",
   "location": "Moscow, Russia",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Moscow, Russia",
-    "full_name": "Moscow, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Shared Twitter account for Russian-speaking frontend developers with a new author every week. Currently led by @vslinko",
   "url": "https://t.co/siMww4DDBv",
   "entities": {
@@ -96,7 +85,7 @@
     "is_quote_status": true,
     "quoted_status_id": 782665777170247700,
     "quoted_status_id_str": "782665777170247681",
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
