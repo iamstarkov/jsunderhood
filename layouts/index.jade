@@ -1,0 +1,41 @@
+extend page
+
+block title
+  title= site.title
+
+block meta
+  meta(property="description" content=site.description)
+
+  meta(name="og:url"         content=site.site_url)
+  meta(name="og:image"       content="https://i.imgur.com/GpzEJQ7.jpg?1")
+  meta(name="og:title"       content=site.title)
+  meta(name="og:description" content=site.description)
+
+block content
+  
+  .jumbotron
+    .container
+      .row
+        .col-md-12
+          include menu
+          .page-header
+            h1 jsunderhood
+              small
+                = " / "
+                a(href="https://twitter.com/jsunderhood") Присоединяйся!
+
+            p Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+      .row
+        .col-md-12
+            include share-text
+
+  
+  article.container
+    each row in list
+      .row
+        each article in row
+          div.col-md-4
+            h2: a(href=article.url)= article.title
+            small: time= article.date
+            p.list__item-desc !{article.desc}
+              

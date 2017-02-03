@@ -1,0 +1,36 @@
+extend page
+
+block title
+  title #{title} • #{site.title}
+
+block meta
+  meta(property="description" content=descText)
+    
+  meta(name="og:url"         content=site.site_url + url)
+  if (image)
+    meta(name="og:image"     content=image)
+  meta(name="og:title"       content="Архив недели #{title} в #{site.title}")
+  meta(name="og:description" content=descText)
+
+block content
+
+  .jumbotron
+    .container
+      .row
+        .col-md-12
+          include menu
+          .page-header
+            h1
+              a(href="/") jsunderhood
+              small= " / "
+                = title
+            p.hidden-xs Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+      .row.hidden-xs
+        .col-md-12
+          include share-text
+  
+  .container
+    .row
+      .col-md-6.col-md-offset-3
+        article
+          | !{content}

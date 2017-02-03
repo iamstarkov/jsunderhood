@@ -1,0 +1,149 @@
+extend page
+
+
+block title
+  - var title = "Статистика";
+  title #{title} • #{site.title}
+
+block meta
+  meta(property="description" content=site.description)
+
+  meta(name="og:url"         content=site.site_url + 'stats/')
+  meta(name="og:image"       content="https://i.imgur.com/GpzEJQ7.jpg?1")
+  meta(name="og:title"       content="#{title} • #{site.title}")
+  meta(name="og:description" content=site.description)
+
+block content
+
+  .jumbotron
+    .container
+      .row
+        .col-md-12
+          include menu
+          .page-header
+            h1
+              a(href="/") jsunderhood
+              small= " / Статистика"
+            p.hidden-xs Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+      .row.hidden-xs
+        .col-md-12
+          include share-text
+  style
+    | th { cursor: pointer; color: #337AB7; }
+    | th nobr {  border-bottom: 1px dotted #77B3DA; }
+    | th.no-sort { cursor: default; }
+    | th .sort-icon { display: none; }
+    | th.sort-up .sort-down { display: inline; }
+    | th.sort-down   .sort-up   { display: inline; }
+  .container
+    .row
+      .col-md-12
+        .table-responsive
+          table.table.table-hover.js-table-stat
+            thead
+              tr
+                th: nobr Автор
+                  small.sort-icon.sort-up= " ↑"
+                  small.sort-icon.sort-down= " ↓"
+                th.text-right: nobr
+                  small.sort-icon.sort-up= "↑ "
+                  small.sort-icon.sort-down= "↓ "
+                  i.glyphicon.glyphicon-user
+                  span.visible-lg-inline.visible-md-inline
+                    |  Привёл
+                    br
+                    | подписчиков
+                th.text-right
+                  nobr
+                    small.sort-icon.sort-up= "↑ "
+                    small.sort-icon.sort-down= "↓ "
+                    i.glyphicon.glyphicon-comment
+                th.no-sort
+                  span Твиты
+                th
+                  nobr
+                    i.glyphicon.glyphicon-retweet
+                    span.visible-lg-inline.visible-md-inline  Ретвитнут
+                    small.sort-icon.sort-up= " ↑"
+                    small.sort-icon.sort-down= " ↓"
+                th
+                  nobr
+                    i.glyphicon.glyphicon-star
+                    span.visible-lg-inline.visible-md-inline
+                      |  Добавлен
+                      br
+                      | в избранное
+                    small.sort-icon.sort-up= " ↑"
+                    small.sort-icon.sort-down= " ↓"
+            tbody
+              each author, index in stats
+                - var indexClass = index===0 ? 'progress-bar-striped active' : '';
+                tr
+                  td(data-sort="#{author.index}")
+                    nobr
+                      span.hidden-xs.hidden-sm(style="display: inline-block; width: 2em").text-right= author.index + "  "
+                      if (index === 0)
+                        a(href='https://twitter.com/jsunderhood') @#{author.username}…
+                      else
+                        a(href='/' + author.username) @#{author.username}
+                  td.text-right(data-sort="#{author.gainedFollowers}")
+                    nobr
+                      if author.gainedFollowers > 0
+                        | +
+                      = author.gainedFollowers
+                      if author.maxGainedFollowers
+                        small.text-danger= " ★"
+                  td(data-sort="#{author.tweets}").text-right
+                    nobr
+                      = author.tweets
+                      if author.maxTweets
+                        small.text-danger= " ★"
+                  td(style="width: 100%")
+                    .progress(style="margin-bottom: 0; min-width: 150px; width: 100%")
+                      .progress-bar.progress-bar-primary(class=indexClass style="width: #{author.ownTweetsPercentage}%")
+                        if author.maxOwnTweetsPercentage
+                          small= "★ "
+                        span.hidden-xs.hidden-sm Свои
+                      .progress-bar.progress-bar-info(class=indexClass style="width: #{author.retweetsPercentage}%")
+                        if author.maxRetweetsPercentage
+                          small= "★ "
+                        span.hidden-xs.hidden-sm RT
+                      .progress-bar.progress-bar-success(class=indexClass style="width: #{author.repliesPercentage}%")
+                        if author.maxRepliesPercentage
+                          small= "★ "
+                        span.hidden-xs.hidden-sm Ответы
+                    nobr.hidden-xs.hidden-sm
+                      span.text-primary
+                        if author.maxOwnTweets
+                          small.text-danger= "★ "
+                        = ownTweetsUnit(author.ownTweets)
+                      = ", "
+                      span.text-info
+                        if author.maxRetweets
+                          small.text-danger= "★ "
+                        = retweetsUnit(author.retweets)
+                      = ", "
+                      span.text-success
+                        if author.maxReplies
+                          small.text-danger= "★ "
+                        = repliesUnit(author.replies)
+                  td(data-sort="#{author.retweetedKpi}")
+                    .progress(style="margin-bottom: 0; min-width: 50px")
+                      .progress-bar(class=indexClass style="text-align: left !important; width: #{author.retweetedKpi*100}%")
+                        if author.maxRetweetedKpi
+                          small= "  ★"
+                    nobr.hidden-xs.hidden-sm
+                      = author.retweetedKpi
+                      small.text-muted  / #{author.retweeted}
+                  td(data-sort="#{author.favoritedKpi}")
+                    .progress(style="margin-bottom: 0; min-width: 50px")
+                      .progress-bar(class=indexClass style="text-align: left !important; width: #{author.favoritedKpi*100}%")
+                        if author.maxFavoritedKpi
+                          small= "  ★"
+                    nobr.hidden-xs.hidden-sm
+                      = author.favoritedKpi
+                      small.text-muted  / #{author.favorited}
+  script(src="https://cdn.rawgit.com/tristen/tablesort/gh-pages/src/tablesort.js")
+  script(src="https://cdn.rawgit.com/tristen/tablesort/gh-pages/src/sorts/tablesort.numeric.js")
+  script
+    | new Tablesort(document.querySelector('.js-table-stat'), { descending: true });

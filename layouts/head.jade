@@ -1,0 +1,19 @@
+meta(charset="utf-8")
+
+block title
+
+meta(http-equiv="X-UA-Compatible" content="IE=edge,chrome=1")
+meta(name="viewport" content="width=device-width")
+
+link(href=site.feed_url title=site.title rel="alternate" type="application/rss+xml")
+link(href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet")
+
+meta(property="og:site_name" content=site.title)
+meta(property="article:author" content=site.site_url + "about/")
+
+- var card = (!image) ? "summary" : "summary_large_image";
+
+meta(name="twitter:card" content=card)
+meta(name="twitter:site" content="@jsunderhood")
+
+block meta

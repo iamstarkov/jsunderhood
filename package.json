@@ -1,0 +1,68 @@
+{
+  "name": "jsunderhood",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dump": "babel-node dump",
+    "posts": "babel-node posts",
+    "stats": "babel-node stats",
+    "followers": "babel-node followers",
+    "final-stats": "babel-node final-stats",
+    "f5": "npm run dump && npm run stats && npm run followers && npm run final-stats",
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamstarkov/jsunderhood.git"
+  },
+  "site": {
+    "title": "jsunderhood",
+    "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю",
+    "feed_url": "https://jsunderhood.ru/rss.xml",
+    "site_url": "https://jsunderhood.ru/",
+    "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "copyright": "MIT",
+    "language": "en-us",
+    "categories": [
+      "frontend",
+      "css",
+      "twitter"
+    ]
+  },
+  "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamstarkov/jsunderhood/issues"
+  },
+  "homepage": "https://github.com/iamstarkov/jsunderhood#readme",
+  "dependencies": {
+    "babel": "^5.4.7",
+    "buildbranch": "0.0.3",
+    "commonmark-helpers": "^0.1.3",
+    "del": "^1.2.0",
+    "each-done": "^1.0.0",
+    "express": "^4.12.4",
+    "fs-extra": "^0.18.4",
+    "get-tweets": "^0.1.3",
+    "gulp": "^3.8.11",
+    "gulp-data": "^1.2.0",
+    "gulp-debug": "^2.0.1",
+    "gulp-filter": "^2.0.2",
+    "gulp-jade": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.3",
+    "gulp-sort": "^1.1.1",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.2.4",
+    "moment": "^2.10.3",
+    "numd": "^2.1.0",
+    "object-assign": "^2.0.0",
+    "ramda": "^0.14.0",
+    "rss": "^1.1.1",
+    "run-sequence": "^1.1.0",
+    "through2": "^0.6.5"
+  }
+}
