@@ -1,5 +1,7 @@
 # jsunderhood.ru
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/jsunderhood.svg)](https://greenkeeper.io/)
+
 Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
 
 ## Старт проекта
