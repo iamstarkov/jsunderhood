@@ -18,3 +18,29 @@ if ($('.js-stats')) {
     lastUpdated.textContent = moment.unix(timestamp).locale('ru').fromNow();
   });
 }
+
+// Easter egg: random strings on hover of subscribers count
+
+const $easterEgg = $('#easter-egg');
+const easterEggText = $easterEgg.textContent;
+
+const funStrings = [
+  'NaN',
+  'undefined',
+  'Infinity',
+  '[]',
+  '{}',
+  'false',
+  'true',
+  'Math.random()'
+];
+
+$easterEgg.addEventListener('mouseover', function () {
+  const randomString = funStrings[Math.floor(Math.random() * funStrings.length)];
+  
+  this.innerText = 'Уже ' + randomString + ' человек в теме.';
+});
+
+$easterEgg.addEventListener('mouseout', function () {
+  this.innerText = easterEggText;
+});
